@@ -16,6 +16,11 @@ use Symfony\Component\HttpFoundation\Response;
 class HomepageController extends BaseController {
 
     /**
+     * @DI\Inject("comic.homepage.manager")
+     */
+    public $homepageMngr;
+
+    /**
      *
      * @config\Route(
      * "/home",
@@ -24,6 +29,7 @@ class HomepageController extends BaseController {
      * @config\Method("GET")
      * */
     public function homePageAction() {
+        $this->homepageMngr->getHomePageParam();
         die('Here in Home page controller');
         $param = array();
     }
