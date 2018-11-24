@@ -1,3 +1,4 @@
 zunglee_comic_homepage:
-    path:     /
-    defaults: { _controller: ZungleeComicBundle:Default:index }
+    resource:   "@ZungleeComicBundle/Controller/"
+    type:       annotation
+

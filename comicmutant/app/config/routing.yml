@@ -1,7 +1,6 @@
 zunglee_comic:
     resource: "@ZungleeComicBundle/Resources/config/routing.yml"
     prefix:   /
-#    type: annotation
 
 #app:
 #    resource: '@AppBundle/Controller/'
