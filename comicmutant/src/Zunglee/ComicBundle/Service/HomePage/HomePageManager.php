@@ -2,6 +2,7 @@
 
 namespace Zunglee\ComicBundle\Service\HomePage;
 
+use Zunglee\ComicBundle\Service\HomePage\HomePageService;
 use JMS\DiExtraBundle\Annotation as DI;
 use Exception;
 

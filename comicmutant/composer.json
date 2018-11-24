@@ -9,8 +9,11 @@
         },
         "classmap": [
             "app/AppKernel.php",
-            "app/AppCache.php"
-        ]
+            "app/AppCache.php",
+            "src/ThirdPartyLib"
+        ],
+        "files": ["app/config/ProjectConstant/ProjectConstant_dev.php"
+         ]
     },
     "autoload-dev": {
         "psr-4": {

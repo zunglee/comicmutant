@@ -1,0 +1,10 @@
+comicmutant:
+    factory:       ncPdoDatabase
+    param:
+        dsn:       mysql:host=localhost;port=3306;dbname=comicmutant;
+        username:  root
+        password:  root
+        debug:     true
+        reconnect: true
+    databases:
+      resbilling: comicmutant
