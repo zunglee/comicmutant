@@ -1,0 +1,16 @@
+{% spaceless %}
+    <!DOCTYPE HTML>
+    <html>
+        <head>
+            <meta http-equiv="X-UA-Compatible" content="IE=Edge" />
+            <title>{% block title %} comic mutant {% endblock %}</title>
+            {% block meta_content_type %}
+                <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+            {% endblock %}
+            <meta name="description" content="{% block meta_description %}{% endblock %}" />
+        </head>
+        <body >
+         {% include 'ZungleeComicBundle:desktop/common:footer.html.twig' %}
+        </body>
+    </html>
+{% endspaceless %}
