@@ -23,14 +23,14 @@ class HomepageController extends BaseController {
     /**
      *
      * @config\Route(
-     * "/home",
+     * "/",
      * name="homepage"
      * )
      * @config\Method("GET")
      * */
     public function homePageAction() {
+        return $this->render('ZungleeComicBundle:desktop/doga:doga.html.twig');
         $this->homepageMngr->getHomePageParam();
-        die('Here in Home page controller');
         $param = array();
     }
 
