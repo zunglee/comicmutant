@@ -17,7 +17,9 @@ use Symfony\Component\HttpFoundation\Response;
 class BaseController extends Controller {
     
     
-    
+    public function renderPage($twig,$param = array(), Response $response = null ){
+        return parent::render($twig, $param, $response);
+    }
     
     
     

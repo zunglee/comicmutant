@@ -1,0 +1,18 @@
+<div class="infobanner">
+    <div id ="banner" >
+        <div id ="bannner-lside" class="bannner-lside" > 
+            <div >{{comicDetailModel.getComicName()|capitalize}}</div>        
+        </div>
+        
+        {% set bannerSrc = asset('images/') ~ comicDetailModel.getBannerSrc() %}
+        <div id ="bannner" class="bannner-image"  >
+            <img src="{{bannerSrc}}" class="imgDefault" alt="Smiley face" >
+        </div>
+
+        <div id ="bannner-rside" class="bannner-rside"  >
+
+        </div> 
+
+    </div> 
+
+</div>

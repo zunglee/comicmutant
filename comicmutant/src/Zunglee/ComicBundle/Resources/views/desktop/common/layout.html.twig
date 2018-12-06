@@ -8,9 +8,14 @@
                 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
             {% endblock %}
             <meta name="description" content="{% block meta_description %}{% endblock %}" />
+                {% block comic_css %}
+                {% endblock %}
         </head>
         <body >
-         {% include 'ZungleeComicBundle:desktop/common:footer.html.twig' %}
+            {% include 'ZungleeComicBundle:desktop/common:header.html.twig' %}
+            {% block body_content %}
+            {% endblock %}
+            {% include 'ZungleeComicBundle:desktop/common:footer.html.twig' %}
         </body>
     </html>
 {% endspaceless %}

@@ -9,26 +9,21 @@ use Symfony\Component\HttpFoundation\Request;
 use Symfony\Component\HttpFoundation\Response;
 
 /**
- * Description of HomepageController
+ * Description of FormPageController
  *
  * @author ankitesh
  */
-class HomepageController extends BaseController {
-
-    /**
-     * @DI\Inject("comic.homepage.manager")
-     */
-    public $homepageMngr;
+class FormPageController {
 
     /**
      *
      * @config\Route(
-     * "/",
-     * name="homepage"
+     * "/data/entry/inputform",
+     * name="data_form"
      * )
      * @config\Method("GET")
      * */
-    public function homePageAction() {
+    public function fromPageAction() {
         $x = $this->render('ZungleeComicBundle:desktop/superHeroPage:superHeroPage.html.twig');
         file_put_contents('/tmp/com.txt', $x);
         return $x;

@@ -1,0 +1,20 @@
+<div id = "post" class="blog-post-div"> 
+    <div id="social-content" class="blog-post-social-content">
+        Coming Soon on Instagram
+    </div>
+
+    <div class="blog-post-content">
+        {% set summary = comicDetailModel.getSummary() %}
+        <ul>
+            {% for summaryKey,summaryContent in summary %}
+                {% if summaryContent is not empty %}
+                    <li>
+                        <b>{{summaryKey}}</b> : {{summaryContent}}
+                    </li>    
+                {% endif %}
+            {% endfor %}    
+        </ul>
+
+    </div>
+    <div id = "latest-feature" class="blog-post-ryt"> </div>
+</div>
