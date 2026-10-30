@@ -1,0 +1,166 @@
+{
+  "slug": "martian-manhunter",
+  "name": "Martian Manhunter",
+  "realName": "J'onn J'onzz",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The Justice League's quiet heart, with almost every power in the book. J'onn J'onzz, a Martian stranded on Earth, can shapeshift, read minds and phase through walls, but fire is his weak spot.",
+  "origin": "J'onn J'onzz is the gentle soul of the Justice League and has nearly every superpower ever invented, which makes his loneliness hit even harder. Joseph Samachson and Joe Certa introduced him in Detective Comics #225 in 1955, when a scientist's experimental machine accidentally pulled him from Mars to Earth. Stranded, he took the human name John Jones and worked as a police detective. Later stories revealed he was the last survivor of his people. He is super strong and fast, can shapeshift, read minds, turn invisible, phase through walls and see far beyond human vision, but fire has always been his weakness. He helped found the Justice League, and he holds the team together more often than anyone admits.",
+  "creators": ["Joseph Samachson", "Joe Certa"],
+  "firstAppearance": {
+    "title": "Detective Comics",
+    "issue": "225",
+    "year": 1955
+  },
+  "powers": [
+    "Super strength, speed and toughness",
+    "Shapeshifting",
+    "Telepathy",
+    "Invisibility and phasing",
+    "Martian vision and heat beams",
+    "Sees across the full light spectrum"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1955",
+      "title": "Stranded on Earth",
+      "beat": "J'onn J'onzz is pulled from Mars to Earth by a scientist's experiment in Detective Comics #225. Stranded, he fights crime as police detective John Jones."
+    },
+    {
+      "era": "Justice League",
+      "years": "1960",
+      "title": "Founding member",
+      "beat": "J'onn is one of the founding members of the Justice League of America."
+    },
+    {
+      "era": "JLI",
+      "years": "1987–1992",
+      "title": "The heart of the team",
+      "beat": "In the comedic Justice League International, J'onn is the team's steady centre and grows famous for loving cookies."
+    },
+    {
+      "era": "Final Crisis",
+      "years": "2008–2010",
+      "title": "Killed and returned",
+      "beat": "J'onn is murdered by the villain Libra at the start of Final Crisis, then brought back to life in Brightest Day."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "He debuted in 1955, a year before the Flash's Showcase #4, so some historians call him the first Silver Age superhero.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His classic weakness is fire.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "His love of Oreo cookies became a running gag in the comics, later renamed Chocos.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He fought crime under the cover name John Jones, a police detective.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Martian Manhunter's classic weakness?",
+      "options": ["Kryptonite", "Fire", "The colour yellow", "Magic"],
+      "answer": 1,
+      "why": "Fire."
+    },
+    {
+      "q": "What human name does J'onn use as a detective?",
+      "options": ["John Smith", "James Jones", "Jack Ryder", "John Jones"],
+      "answer": 3,
+      "why": "John Jones."
+    },
+    {
+      "q": "Which snack is J'onn famous for loving?",
+      "options": ["Pizza", "Doughnuts", "Oreo cookies", "Popcorn"],
+      "answer": 2,
+      "why": "Oreos, later called Chocos."
+    }
+  ],
+  "rivals": [],
+  "allies": ["wonder-woman", "superman", "batman", "aquaman"],
+  "theme": {
+    "palette": {
+      "c1": "#3c8d2f",
+      "c2": "#1f3a93",
+      "c3": "#c8102e"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "Shapeshifter, telepath, cookie enthusiast."
+  },
+  "timeline": [
+    {
+      "year": 1955,
+      "kind": "debut",
+      "title": "Stranded on Earth",
+      "note": "Detective Comics #225 has a scientist's experiment yank J'onn J'onzz from Mars, so he hides out as a detective."
+    },
+    {
+      "year": 1960,
+      "kind": "comic",
+      "title": "Founding member",
+      "note": "J'onn is part of the first Justice League lineup in The Brave and the Bold #28.",
+      "with": "aquaman"
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "Heart of the JLI",
+      "note": "The relaunched, comedy-tinged Justice League makes J'onn the calm centre of a bickering new roster.",
+      "with": "booster-gold"
+    },
+    {
+      "year": 2001,
+      "kind": "screen",
+      "title": "Animated anchor",
+      "note": "Carl Lumbly voices J'onn in the Justice League cartoon, nailing his quiet, mournful dignity."
+    },
+    {
+      "year": 2008,
+      "kind": "death",
+      "title": "Final Crisis opener",
+      "note": "Final Crisis #1 starts with J'onn murdered by the villain Libra, a shock first move in DC's big event."
+    },
+    {
+      "year": 2010,
+      "kind": "return",
+      "title": "Brightest Day",
+      "note": "The white light at the end of Blackest Night brings J'onn back to life and into the Brightest Day saga."
+    },
+    {
+      "year": 2015,
+      "kind": "legacy",
+      "title": "Supergirl's guardian",
+      "note": "David Harewood plays J'onn on TV's Supergirl, hiding in plain sight as a government agent watching over Kara.",
+      "with": "supergirl"
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Martian_Manhunter",
+    "wikidata": "https://www.wikidata.org/wiki/Q675179"
+  },
+  "photo": {
+    "file": "martian-manhunter.webp",
+    "alt": "Martian Manhunter photograph",
+    "artist": "Warner Bros. Animation",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Martian_Manhunter_(Justice_League).png"
+  }
+}

@@ -1,0 +1,172 @@
+{
+  "slug": "judge-dredd",
+  "name": "Judge Dredd",
+  "realName": "Joseph Dredd",
+  "universe": "other",
+  "kind": "antihero",
+  "medium": "comics",
+  "publisher": "2000 AD (Rebellion Developments)",
+  "summary": "Mega-City One's helmeted street judge, empowered to arrest, sentence and execute on the spot. Created by John Wagner and Carlos Ezquerra for 2000 AD in 1977 to satirise authoritarian policing.",
+  "origin": "In a dystopian future, the vast Mega-City One covers most of North America's east coast, and police and courts have merged into Judges. Joe Dredd is the most famous of the street judges, who can convict and sentence offenders instantly. John Wagner created him by pushing the tough-cop idea of Dirty Harry to its logical extreme, and the stories use Dredd to satirise authoritarianism and police brutality. His helmet always hides his face except for his mouth and jaw.",
+  "creators": ["John Wagner (writer)", "Carlos Ezquerra (artist)", "Pat Mills (editor)"],
+  "firstAppearance": {
+    "title": "2000 AD",
+    "issue": "Prog 2",
+    "year": 1977
+  },
+  "powers": [
+    "Expert marksman",
+    "Expert hand-to-hand combatant",
+    "Bionic eyes with night vision and reduced blinking",
+    "Lawgiver pistol keyed to his palm print, with six ammo types",
+    "Lawmaster motorcycle with guns, laser cannon and onboard AI",
+    "Daystick, boot knife and stun or gas grenades",
+    "Unbending will"
+  ],
+  "affiliations": ["Mega-City One Justice Department"],
+  "storyline": [
+    {
+      "era": "Creation",
+      "years": "1976",
+      "title": "From Dread to Dredd",
+      "beat": "Pat Mills drops a horror strip called Judge Dread, and Wagner takes the name for his tough-cop concept. A sub-editor tweaks the spelling."
+    },
+    {
+      "era": "Debut",
+      "years": "1977",
+      "title": "Prog 2",
+      "beat": "Ezquerra's launch story is vetoed as too violent. A rewritten script drawn by newcomer Mike McMahon appears in 2000 AD prog 2."
+    },
+    {
+      "era": "Robot Wars",
+      "years": "1977",
+      "title": "Wagner returns",
+      "beat": "Wagner comes back from prog 9 with The Robot Wars, and Dredd becomes the comic's most popular character."
+    },
+    {
+      "era": "Megazine",
+      "years": "1990",
+      "title": "His own title",
+      "beat": "Dredd gets his own magazine, the Judge Dredd Megazine."
+    },
+    {
+      "era": "Film",
+      "years": "1995",
+      "title": "Stallone's Dredd",
+      "beat": "Sylvester Stallone plays him in Judge Dredd, which gets mostly negative reviews."
+    },
+    {
+      "era": "Film",
+      "years": "2012",
+      "title": "Dredd",
+      "beat": "Karl Urban stars in Dredd, written by Alex Garland, which critics receive much better."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His name comes from Judge Dread, the stage name of British ska and reggae artist Alexander Minto Hughes. Sub-editor Kelvin Gosnell suggested the new spelling.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Wagner gave Ezquerra an advert for Death Race 2000 as visual reference. When he saw the chains and zips Ezquerra added, Wagner first complained it looked like a Spanish pirate.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Ezquerra designed Dredd but didn't draw the first published strip. Accounts differ on why he walked out.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Dredd never takes his helmet off in any adaptation.",
+      "truth": "Karl Urban keeps it on throughout Dredd (2012), but Stallone's 1995 film shows his face.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Pat Mills says the name Joseph refers to his old school, St Joseph's College in Ipswich.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Dredd is the longest-running character in 2000 AD.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which comic did Judge Dredd debut?",
+      "options": ["Eagle", "Warrior", "2000 AD", "Battle"],
+      "answer": 2,
+      "why": "He first appeared in 2000 AD prog 2 in 1977."
+    },
+    {
+      "q": "What is Dredd's pistol called?",
+      "options": ["Lawgiver", "Peacemaker", "Verdict", "Dredd-Eye"],
+      "answer": 0,
+      "why": "The Lawgiver only fires for his palm print."
+    },
+    {
+      "q": "Which city does Judge Dredd police?",
+      "options": ["Neo-Tokyo", "Gotham", "Brick City", "Mega-City One"],
+      "answer": 3,
+      "why": "Mega-City One covers most of North America's east coast."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#d4af37",
+      "c3": "#2e7d32"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "Judge, jury and executioner, all before breakfast."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Judge_Dredd"
+  },
+  "timeline": [
+    {
+      "year": 1977,
+      "kind": "debut",
+      "title": "2000 AD Prog 2",
+      "note": "The helmeted street judge first patrols Mega-City One in the 5 March 1977 issue."
+    },
+    {
+      "year": 1980,
+      "kind": "comic",
+      "title": "Enter Judge Death",
+      "note": "Dredd meets his undead nemesis, a judge from another dimension who outlaws life itself."
+    },
+    {
+      "year": 1990,
+      "kind": "comic",
+      "title": "Judge Dredd Megazine",
+      "note": "Dredd gets a whole magazine of his own alongside his weekly 2000 AD strip."
+    },
+    {
+      "year": 1995,
+      "kind": "screen",
+      "title": "Stallone's Dredd",
+      "note": "Sylvester Stallone takes the helmet off a lot in Judge Dredd, and critics are not kind."
+    },
+    {
+      "year": 2000,
+      "kind": "turn",
+      "title": "Rebellion takes over",
+      "note": "Games studio Rebellion buys 2000 AD and becomes Dredd's publisher."
+    },
+    {
+      "year": 2012,
+      "kind": "screen",
+      "title": "Dredd",
+      "note": "Karl Urban keeps the helmet on in Dredd, which wins over critics and builds a cult following."
+    }
+  ],
+  "heat": 55
+}

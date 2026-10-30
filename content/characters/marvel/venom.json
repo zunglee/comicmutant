@@ -1,0 +1,209 @@
+{
+  "slug": "venom",
+  "name": "Venom",
+  "realName": "Various hosts",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Spider-Man's costume, with an attitude and a grudge. Venom is an alien symbiote that bonds with human hosts, most famously reporter Eddie Brock, and copies Spider-Man's powers.",
+  "origin": "Venom began as a costume change and ended up as one of Marvel's biggest stars. In The Amazing Spider-Man #252 in 1984, Peter came home from the Secret Wars in a sleek black suit that turned out to be alive: an alien symbiote that bonds to a host and wanted Peter for keeps. He tore free using loud noise, its big weakness along with fire, and the jilted creature found disgraced reporter Eddie Brock, who also hated Spider-Man. Together they became Venom in The Amazing Spider-Man #300 in 1988. The symbiote copies its first host's powers, shapes itself into weapons and disguises, and doesn't set off Peter's spider-sense, which made it terrifying.",
+  "creators": [
+    "David Michelinie (writer)",
+    "Todd McFarlane (artist)",
+    "Randy Schueller (costume idea)",
+    "Mike Zeck (costume design)"
+  ],
+  "firstAppearance": {
+    "title": "The Amazing Spider-Man",
+    "issue": "252",
+    "year": 1984
+  },
+  "powers": [
+    "Has all of Spider-Man's powers",
+    "Reshapes itself into weapons, tendrils and disguises",
+    "Can blend into its surroundings",
+    "Shields its host on instinct",
+    "Invisible to Spider-Man's spider-sense"
+  ],
+  "affiliations": [
+    "Sinister Six",
+    "Dark Avengers",
+    "Project Rebirth",
+    "Thunderbolts",
+    "Secret Avengers",
+    "Guardians of the Galaxy",
+    "New Warriors",
+    "S.H.I.E.L.D."
+  ],
+  "storyline": [
+    {
+      "era": "The black suit",
+      "years": "1984",
+      "title": "An alien costume",
+      "beat": "Spider-Man brings home a sleek black costume from the Secret Wars. Readers soon learn it is a living alien symbiote."
+    },
+    {
+      "era": "Rejection",
+      "years": "1984–1985",
+      "title": "Freed by bells",
+      "beat": "Peter realises the suit is trying to bond with him permanently and drives it off with loud church bells, since it is weak to sound."
+    },
+    {
+      "era": "Venom",
+      "years": "1988",
+      "title": "Eddie Brock",
+      "beat": "The rejected symbiote bonds with disgraced journalist Eddie Brock, who hates Spider-Man, creating Venom."
+    },
+    {
+      "era": "Carnage",
+      "years": "1992",
+      "title": "A deadlier spawn",
+      "beat": "The symbiote's offspring bonds with serial killer Cletus Kasady, making Carnage."
+    },
+    {
+      "era": "Lethal Protector",
+      "years": "1993",
+      "title": "Antihero",
+      "beat": "Venom gets his own series and is recast as an antihero protecting innocents in San Francisco."
+    },
+    {
+      "era": "Agent Venom",
+      "years": "2011",
+      "title": "Soldier host",
+      "beat": "Flash Thompson, now a war veteran, bonds with the symbiote as a government operative."
+    },
+    {
+      "era": "King in Black",
+      "years": "2018–2021",
+      "title": "God of the symbiotes",
+      "beat": "Donny Cates reveals the symbiotes were created by Knull, an ancient dark god who invades Earth."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "The black costume idea came from a fan, Randy Schueller, who sold it to Marvel for $220.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Venom first appeared as a villain in 1984.",
+      "spice": 1,
+      "truth": "The symbiote showed up as Spider-Man's costume in 1984, but Venom with Eddie Brock debuted in 1988."
+    },
+    {
+      "type": "fact",
+      "text": "Symbiotes are weak to loud sounds and fire.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Venom does not trigger Spider-Man's spider-sense, because the symbiote once bonded with Peter.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tom Hardy's Venom (2018) made more than $850 million worldwide.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Eddie Brock's job?",
+      "options": ["Photographer", "Journalist", "Lawyer", "Scientist"],
+      "answer": 1,
+      "why": "He was a disgraced reporter."
+    },
+    {
+      "q": "What are symbiotes weak to?",
+      "options": ["Silver", "Water", "Sound and fire", "Magic"],
+      "answer": 2,
+      "why": "Loud sound and fire hurt symbiotes."
+    },
+    {
+      "q": "Who was Carnage's first host?",
+      "options": ["Mac Gargan", "Flash Thompson", "Ann Weying", "Cletus Kasady"],
+      "answer": 3,
+      "why": "Serial killer Cletus Kasady."
+    }
+  ],
+  "rivals": ["spider-man"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#0d0d0d",
+      "c2": "#f2f2f2",
+      "c3": "#c8102e"
+    },
+    "motif": "web",
+    "mood": "dark",
+    "tagline": "Two minds, one grin, zero personal space."
+  },
+  "timeline": [
+    {
+      "year": 1984,
+      "kind": "debut",
+      "title": "An alien costume",
+      "note": "The Amazing Spider-Man #252 shows Peter home from space in a black suit that later proves to be alive.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1988,
+      "kind": "turn",
+      "title": "Eddie Brock",
+      "note": "The Amazing Spider-Man #300 bonds the rejected suit with reporter Eddie Brock, and Venom is born.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1992,
+      "kind": "comic",
+      "title": "A deadlier spawn",
+      "note": "Amazing Spider-Man #361 introduces Carnage, Venom's psycho offspring bonded to a serial killer."
+    },
+    {
+      "year": 1993,
+      "kind": "turn",
+      "title": "Lethal Protector",
+      "note": "Venom stars in his own miniseries as a vigilante antihero protecting innocents in San Francisco."
+    },
+    {
+      "year": 1995,
+      "kind": "screen",
+      "title": "Cartoon debut",
+      "note": "Spider-Man: The Animated Series adapts the symbiote story in a three-part arc."
+    },
+    {
+      "year": 2007,
+      "kind": "screen",
+      "title": "Spider-Man 3",
+      "note": "Sam Raimi's Spider-Man 3 casts Topher Grace as Eddie, a rival photographer.",
+      "with": "spider-man"
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Agent Venom",
+      "note": "Venom #1 makes Flash Thompson the host, using the symbiote for secret government missions."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Tom Hardy's Venom",
+      "note": "Venom gets his own film with Tom Hardy, a box-office hit despite mixed reviews."
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Venom_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q1621261"
+  },
+  "photo": {
+    "file": "venom.webp",
+    "alt": "Venom photograph",
+    "artist": "Chemapool",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Venom_cosplay_madrid.jpg"
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "slug": "scarlet-witch",
+  "name": "Scarlet Witch",
+  "realName": "Wanda Maximoff",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "From bad-luck hexes to rewriting reality. Wanda Maximoff, a former Brotherhood member turned Avenger, wields chaos magic that makes her one of the most dangerous people in Marvel.",
+  "origin": "The Scarlet Witch went from a woman whose powers made things go wrong to one of the few people who can rewrite reality, one of the wildest power climbs in comics. Wanda Maximoff debuted in The X-Men #4 in 1964, a reluctant recruit of Magneto's Brotherhood alongside her twin brother Quicksilver. Her original hex power tilted probability so unlikely accidents happened. The twins soon switched sides and joined the Avengers, and over the decades writers redefined her gift as chaos magic, eventually strong enough to remake the world. Stories like House of M show the catch: when Wanda breaks, everyone pays for it.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "The X-Men",
+    "issue": "4",
+    "year": 1964
+  },
+  "powers": [
+    "Chaos magic that can alter reality",
+    "Hexes that bend probability",
+    "Telekinesis",
+    "Can influence minds",
+    "Senses magic",
+    "Spellcasting and witchcraft",
+    "Flight"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Brotherhood of Mutants",
+    "Defenders",
+    "Force Works",
+    "Lady Liberators"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "Reluctant villain",
+      "beat": "Wanda Maximoff and her twin Quicksilver first appear in X-Men #4 as unwilling members of Magneto's Brotherhood of Evil Mutants."
+    },
+    {
+      "era": "Avenger",
+      "years": "1965",
+      "title": "Changing sides",
+      "beat": "Wanda and Pietro leave the Brotherhood and join the Avengers alongside Captain America and Hawkeye."
+    },
+    {
+      "era": "Marriage",
+      "years": "1975",
+      "title": "Wanda and Vision",
+      "beat": "Wanda marries the android Avenger the Vision, one of Marvel's most unusual couples."
+    },
+    {
+      "era": "Lost twins",
+      "years": "1985–1989",
+      "title": "Billy and Tommy",
+      "beat": "Wanda uses magic to have twin sons, but the boys are later revealed to be fragments of a demon's soul and vanish, a loss that haunts her."
+    },
+    {
+      "era": "Disassembled",
+      "years": "2004",
+      "title": "Breakdown",
+      "beat": "Wanda's grief and power go out of control, causing attacks that kill several Avengers and tear the team apart."
+    },
+    {
+      "era": "House of M",
+      "years": "2005",
+      "title": "Fewer mutants",
+      "beat": "After reshaping reality, Wanda strips the powers from almost every mutant on Earth, leaving only a few hundred."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "She started out as a villain, a reluctant member of Magneto's Brotherhood.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her lost twins came back as teen heroes Wiccan and Speed of the Young Avengers.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "WandaVision (2021) borrowed from several of her comic eras, including the twins and House of M.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Her early powers were called hexes, which changed probability so that unlikely things happened.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Elizabeth Olsen first appeared as Wanda in a 2014 post-credits scene before her role in Avengers: Age of Ultron.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Wanda's twin brother?",
+      "options": ["Northstar", "Quicksilver", "Havok", "Speed"],
+      "answer": 1,
+      "why": "Pietro Maximoff, Quicksilver."
+    },
+    {
+      "q": "Which synthetic Avenger did Wanda marry?",
+      "options": ["Vision", "Ultron", "Jocasta", "Machine Man"],
+      "answer": 0,
+      "why": "She married the Vision in 1975."
+    },
+    {
+      "q": "In which 2005 event did Wanda remove most mutants' powers?",
+      "options": ["Civil War", "Secret Invasion", "House of M", "Inferno"],
+      "answer": 2,
+      "why": "House of M ended with most mutants depowered."
+    }
+  ],
+  "rivals": ["ultron"],
+  "allies": ["vision", "captain-america", "hawkeye", "doctor-strange"],
+  "theme": {
+    "palette": {
+      "c1": "#b0122b",
+      "c2": "#5a0f2e",
+      "c3": "#ff4fa3"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Hexes first, asks questions never."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "Brotherhood recruit",
+      "note": "The X-Men #4 introduces Wanda with her brother Pietro, reluctant members of Magneto's Brotherhood.",
+      "with": "magneto"
+    },
+    {
+      "year": 1965,
+      "kind": "turn",
+      "title": "Joining the Avengers",
+      "note": "Avengers #16 has Wanda and Pietro switch sides and join Cap's Kooky Quartet.",
+      "with": "hawkeye"
+    },
+    {
+      "year": 1975,
+      "kind": "turn",
+      "title": "Wanda weds the Vision",
+      "note": "Giant-Size Avengers #4 marries Wanda to the synthezoid Vision, one of comics' oddest couples.",
+      "with": "vision"
+    },
+    {
+      "year": 1986,
+      "kind": "comic",
+      "title": "Twin sons arrive",
+      "note": "The Vision and the Scarlet Witch #12 gives the couple twin boys, Thomas and William.",
+      "with": "vision"
+    },
+    {
+      "year": 2004,
+      "kind": "turn",
+      "title": "Avengers Disassembled",
+      "note": "Grief over her lost children pushes Wanda to tear the Avengers apart from inside.",
+      "with": "vision"
+    },
+    {
+      "year": 2005,
+      "kind": "turn",
+      "title": "House of M",
+      "note": "Wanda rewrites reality, then with three words strips powers from most of the world's mutants.",
+      "with": "magneto"
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Elizabeth Olsen's Wanda",
+      "note": "Avengers: Age of Ultron introduces Olsen's Wanda as a Sokovian with a grudge against Tony Stark.",
+      "with": "ultron"
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "WandaVision",
+      "note": "Disney+ makes Wanda the star of a sitcom-styled grief story that was a cultural hit.",
+      "with": "vision"
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Scarlet_Witch",
+    "wikidata": "https://www.wikidata.org/wiki/Q929285"
+  },
+  "photo": {
+    "file": "scarlet-witch.webp",
+    "alt": "Scarlet Witch photograph",
+    "artist": "Paul Carmona",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Supanova_2022_092-Edit.jpg"
+  }
+}

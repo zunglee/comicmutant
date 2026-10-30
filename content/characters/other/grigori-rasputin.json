@@ -1,0 +1,156 @@
+{
+  "slug": "grigori-rasputin",
+  "name": "Grigori Rasputin",
+  "realName": "Grigori Yefimovich Rasputin",
+  "universe": "other",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Dark Horse Comics",
+  "summary": "Hellboy's sorcerer nemesis, loosely based on the real Russian mystic: an undying occultist who summoned Hellboy to Earth to bring about the apocalypse.",
+  "origin": "In this telling, the real Rasputin's murder in 1916 is not the end. Years earlier, the witch Baba Yaga had hidden a fragment of his soul in the roots of the world-tree Yggdrasil, making him immortal. After his assassination, the Ogdru Jahad, seven imprisoned gods of destruction, revived him as their agent on Earth. He worked with the Nazis on Project Ragna Rok, but he only wanted their resources: his real goal was an apocalypse that would clear the way for a new Eden. His 1944 ritual instead delivered the infant Hellboy to the Allies.",
+  "creators": ["Mike Mignola", "John Byrne"],
+  "firstAppearance": {
+    "title": "Hellboy: Seed of Destruction",
+    "year": 1994
+  },
+  "powers": [
+    "Powerful sorcery and occult ritual",
+    "Immortality via a soul fragment hidden in Yggdrasil",
+    "Persists as a ghost after his body is destroyed",
+    "Prophecy",
+    "Commands fanatical Nazi followers",
+    "Agent of the Ogdru Jahad"
+  ],
+  "affiliations": ["Project Ragna Rok"],
+  "storyline": [
+    {
+      "era": "Prologue",
+      "years": "1916",
+      "title": "Murder and rebirth",
+      "beat": "After he is assassinated, the Ogdru Jahad bring Rasputin back to serve them."
+    },
+    {
+      "era": "World War II",
+      "years": "1944",
+      "title": "Project Ragna Rok",
+      "beat": "His ritual for the Nazis was meant to end the world, but it delivers baby Hellboy into Allied hands instead."
+    },
+    {
+      "era": "Seed of Destruction",
+      "years": "1994",
+      "title": "The return",
+      "beat": "Awakened in the Arctic, he lures Hellboy to the Cavendish estate. Abe Sapien impales him and Liz Sherman's fire reduces him to a skeleton."
+    },
+    {
+      "era": "Wake the Devil",
+      "years": "1996",
+      "title": "Ghostly counsel",
+      "beat": "As a ghost he manipulates his old follower Ilsa Haupstein and predicts Abe Sapien's death."
+    },
+    {
+      "era": "Conqueror Worm",
+      "years": "2001–2007",
+      "title": "Fading out",
+      "beat": "The goddess Hecate destroys his ghostly form. Baba Yaga keeps what is left of his soul inside an acorn."
+    },
+    {
+      "era": "Film",
+      "years": "2004",
+      "title": "Big-screen villain",
+      "beat": "Karel Roden plays Rasputin as the main villain of the 2004 Hellboy film."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "He is loosely based on the real Grigori Rasputin, killed in 1916 in a plot involving Prince Felix Yusupov.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Co-creator John Byrne scripted Seed of Destruction, the story that introduced him.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Hellboy's Rasputin was a loyal Nazi.",
+      "truth": "He only used the Nazis for their resources. His real aim was to set off an apocalypse.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "After his final defeat, Baba Yaga stores the remains of his soul in an acorn.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "In the 2004 film, his inability to die comes from an otherworldly being living inside his body.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which witch hid a piece of Rasputin's soul?",
+      "options": ["Hecate", "Morgan le Fay", "Baba Yaga", "Nimue"],
+      "answer": 2,
+      "why": "Baba Yaga hid the fragment in Yggdrasil's roots."
+    },
+    {
+      "q": "What was Rasputin's WWII occult project called?",
+      "options": ["Project Ragna Rok", "Operation Ogdru", "Project Thule", "Operation Valkyrie"],
+      "answer": 0,
+      "why": "Project Ragna Rok was the ritual that brought Hellboy to Earth."
+    }
+  ],
+  "rivals": ["hellboy"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#2b1b3d",
+      "c2": "#6b8e23",
+      "c3": "#e0c068"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "History says he died in 1916. He strongly disagrees."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+  },
+  "timeline": [
+    {
+      "year": 1994,
+      "kind": "debut",
+      "title": "Seed of Destruction",
+      "note": "The mad monk walks into Hellboy's first miniseries, still chasing the end of the world.",
+      "with": "hellboy"
+    },
+    {
+      "year": 1994,
+      "kind": "death",
+      "title": "Burned to the bone",
+      "note": "Abe Sapien runs him through and Liz Sherman's fire leaves nothing but a skeleton.",
+      "with": "hellboy"
+    },
+    {
+      "year": 1996,
+      "kind": "return",
+      "title": "Wake the Devil",
+      "note": "Back from beyond the grave, he pulls Ilsa Haupstein's strings during a Romanian vampire plot."
+    },
+    {
+      "year": 2001,
+      "kind": "death",
+      "title": "Shattered by Hecate",
+      "note": "Conqueror Worm ends with his ghost breaking apart. Baba Yaga tucks a sliver of his soul into an acorn."
+    },
+    {
+      "year": 2004,
+      "kind": "screen",
+      "title": "Karel Roden's Rasputin",
+      "note": "He is the main villain of Guillermo del Toro's Hellboy film.",
+      "with": "hellboy"
+    }
+  ],
+  "heat": 35
+}

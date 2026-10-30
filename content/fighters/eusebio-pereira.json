@@ -1,0 +1,41 @@
+{
+  "slug": "eusebio-pereira",
+  "name": "EUSEBIO PEREIRA",
+  "alias": "LORD MOMO",
+  "kind": "antihero",
+  "archetype": "carnival-trickster",
+  "bio": "A Goa carnival float-builder crowned king for three days of mischief in 1987, and the crown never came off. He pranks the stuffy and the corrupt, mostly harmlessly, with a loose idea of who counts. Chaos with confetti.",
+  "catchphrase": "Three days of party, all year long!",
+  "rig": {
+    "build": "normal",
+    "head": "mask",
+    "cape": true,
+    "skin": "#6e4026",
+    "suit": "#ff2e93",
+    "trim": "#ffd100",
+    "eye": "#00e5ff",
+    "emblem": "star"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 6,
+    "defense": 4,
+    "special": 8
+  },
+  "special": {
+    "name": "Mask Swap",
+    "kind": "teleport"
+  },
+  "rivals": ["dorian-vesk", "bholu-pandey"],
+  "theme": {
+    "palette": {
+      "c1": "#ff2e93",
+      "c2": "#00d1b2",
+      "c3": "#ffd100"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "The party never leaves town."
+  },
+  "heat": 62
+}

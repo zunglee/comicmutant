@@ -1,0 +1,205 @@
+{
+  "slug": "thor",
+  "name": "Thor",
+  "realName": "Thor Odinson",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A real Norse god with a Marvel makeover and a hammer only the worthy can lift. Thor, Odin's son and prince of Asgard, controls storms and fights alongside the Avengers.",
+  "origin": "Marvel took an actual Norse god, gave him a cape and a hammer that only the worthy can lift, and made him a founding Avenger. Thor arrived in Journey into Mystery #83 in 1962, from Stan Lee, Larry Lieber and Jack Kirby, hiding inside the frail human doctor Donald Blake, who became the thunder god by striking his cane on the ground. The cane became Mjolnir, the uru hammer that returns when thrown and lets him fly and call up storms. The book took over the Journey into Mystery numbering as Thor #126 in 1966. Kirby's cosmic, Shakespeare-flavoured Asgard is still the version everyone draws from, and the worthiness rule is one of comics' best ideas.",
+  "creators": [
+    "Stan Lee (writer/plotter)",
+    "Larry Lieber (writer/scripter)",
+    "Jack Kirby (artist)"
+  ],
+  "firstAppearance": {
+    "title": "Journey into Mystery",
+    "issue": "83",
+    "year": 1962
+  },
+  "powers": [
+    "Godlike strength, toughness and long life",
+    "Summons storms and lightning",
+    "Seasoned warrior",
+    "Mjolnir, which returns when thrown",
+    "Flies by hurling his hammer",
+    "Fires bolts of godly energy",
+    "Can open paths between worlds"
+  ],
+  "affiliations": ["Avengers"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1962",
+      "title": "The walking stick",
+      "beat": "In Journey into Mystery #83, Dr. Donald Blake finds a walking stick in a cave in Norway. When he strikes it on the ground, it becomes the hammer Mjolnir and he becomes Thor."
+    },
+    {
+      "era": "Kirby's cosmos",
+      "years": "1966–1970",
+      "title": "Thor gets his own title",
+      "beat": "Journey into Mystery is renamed The Mighty Thor. Jack Kirby fills it with Asgardian epics and cosmic threats like the living planet Ego."
+    },
+    {
+      "era": "Simonson era",
+      "years": "1983–1987",
+      "title": "Beta Ray Bill",
+      "beat": "Walt Simonson introduces Beta Ray Bill, a horse-faced alien who can lift Mjolnir, and builds up to a huge battle with the fire demon Surtur."
+    },
+    {
+      "era": "Ragnarok",
+      "years": "2004–2007",
+      "title": "Death and rebirth of Asgard",
+      "beat": "Asgard falls in a final Ragnarok. Later Thor returns and rebuilds the city floating above Oklahoma."
+    },
+    {
+      "era": "God of Thunder",
+      "years": "2012–2014",
+      "title": "The God Butcher",
+      "beat": "Jason Aaron pits Thor across time against Gorr, an alien who murders gods."
+    },
+    {
+      "era": "Jane Foster",
+      "years": "2014–2019",
+      "title": "A new Thor",
+      "beat": "When Thor becomes unworthy of the hammer, Jane Foster lifts it and becomes Thor herself, while secretly fighting cancer."
+    },
+    {
+      "era": "King",
+      "years": "2019",
+      "title": "War of the Realms",
+      "beat": "After the War of the Realms, Thor becomes king of Asgard."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Mjolnir is just too heavy for anyone but Thor to lift.",
+      "spice": 2,
+      "truth": "It is enchanted so that only the worthy can lift it. Beta Ray Bill, Captain America and Jane Foster have all done it."
+    },
+    {
+      "type": "fact",
+      "text": "For a few issues in 1986 Thor was turned into a frog. Fans call that version Throg.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Marvel's Thor started with a secret identity: Donald Blake, a doctor with a bad leg.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Mjolnir is forged from a fictional Asgardian metal called uru.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Chris Hemsworth's Thor was the first MCU hero to headline four solo films.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What metal is Mjolnir made from?",
+      "options": ["Vibranium", "Adamantium", "Uru", "Promethium"],
+      "answer": 2,
+      "why": "Mjolnir is forged from uru."
+    },
+    {
+      "q": "In Thor's 1962 debut, who found the walking stick?",
+      "options": ["Donald Blake", "Eric Masterson", "Jake Olson", "Sigurd Jarlson"],
+      "answer": 0,
+      "why": "Dr. Donald Blake found it in Norway."
+    },
+    {
+      "q": "Which alien proved worthy of Mjolnir in 1983?",
+      "options": ["Silver Surfer", "Beta Ray Bill", "Gorr", "Drax"],
+      "answer": 1,
+      "why": "Beta Ray Bill debuted in Thor #337."
+    },
+    {
+      "q": "Who became Thor in 2014?",
+      "options": ["Sif", "Valkyrie", "Angela", "Jane Foster"],
+      "answer": 3,
+      "why": "Jane Foster lifted the hammer."
+    }
+  ],
+  "rivals": ["loki", "hulk"],
+  "allies": ["captain-america", "iron-man", "captain-marvel", "doctor-strange"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1f3a93",
+      "c3": "#ffe066"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Worthy of the hammer, unworthy of indoor voices."
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "kind": "debut",
+      "title": "The walking stick",
+      "note": "Journey into Mystery #83 has Dr. Don Blake find a cane that becomes the hammer of the thunder god."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Founding Avenger",
+      "note": "The Avengers #1 makes Thor a founding member after he battles his brother Loki.",
+      "with": "loki"
+    },
+    {
+      "year": 1966,
+      "kind": "comic",
+      "title": "His own title",
+      "note": "Journey into Mystery becomes Thor with #126, giving the thunder god his own book."
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "First cartoon thunder",
+      "note": "The Marvel Super Heroes TV cartoon gives Thor his own segment."
+    },
+    {
+      "year": 1983,
+      "kind": "comic",
+      "title": "Beta Ray Bill",
+      "note": "Walt Simonson's Thor #337 introduces a horse-faced alien who lifts the hammer, a huge surprise."
+    },
+    {
+      "year": 2004,
+      "kind": "death",
+      "title": "Ragnarok",
+      "note": "Thor fights the end of Asgard itself and seemingly dies, closing out a long volume."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Chris Hemsworth's Thor",
+      "note": "Thor brings the god to the MCU, with Kenneth Branagh directing."
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "Jane Foster lifts the hammer",
+      "note": "Thor finds himself unworthy, and the hammer picks Jane Foster as the new Thor."
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q717588"
+  },
+  "photo": {
+    "file": "thor.webp",
+    "alt": "Thor photograph",
+    "artist": "Jeremy Thompson from Los Angeles, California",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Shanghai_Disneyland_(29331143590).jpg"
+  }
+}

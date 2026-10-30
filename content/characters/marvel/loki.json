@@ -1,0 +1,199 @@
+{
+  "slug": "loki",
+  "name": "Loki",
+  "realName": "Loki Laufeyson",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The god of mischief, who accidentally founded the Avengers. Loki is Thor's adoptive brother, a frost giant's son raised in Asgard, and a sorcerer who never met a scheme he didn't like.",
+  "origin": "Loki has been a villain, an antihero, a kid and a woman, and he is at his best when nobody, Loki included, knows which side he's on. An earlier take on the trickster god turned up in Timely's Venus in 1949, but the Loki most fans know came from Stan Lee, Larry Lieber and Jack Kirby in Journey into Mystery #85 in 1962: Thor's jealous adoptive brother. A few years later Tales of Asgard revealed he was really the son of the frost giant Laufey, taken in by Odin after a war. His plot to trap Thor accidentally created the Avengers. He relies on illusions, shapeshifting and sorcery, backed by tough Asgardian biology and a very sharp mind.",
+  "creators": ["Stan Lee (plotter)", "Larry Lieber (scripter)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Venus",
+    "issue": "6",
+    "year": 1949
+  },
+  "powers": [
+    "Master of illusions and shapeshifting",
+    "Powerful sorcerer",
+    "Asgardian strength, toughness and long life",
+    "Projects his spirit outside his body",
+    "Brilliant, cunning schemer"
+  ],
+  "affiliations": [
+    "Frost Giants",
+    "Dark Council",
+    "Cabal",
+    "Mighty Avengers",
+    "Acts of Vengeance",
+    "Young Avengers",
+    "Astonishing Avengers"
+  ],
+  "storyline": [
+    {
+      "era": "Early version",
+      "years": "1949",
+      "title": "A Timely trickster",
+      "beat": "An earlier take on the Norse god appears in the 1949 comic Venus, years before the version most fans know."
+    },
+    {
+      "era": "Marvel debut",
+      "years": "1962",
+      "title": "God of mischief",
+      "beat": "Journey into Mystery #85 introduces Loki as Thor's scheming adoptive brother, a sorcerer jealous of his sibling."
+    },
+    {
+      "era": "Avengers #1",
+      "years": "1963",
+      "title": "Accidental founder",
+      "beat": "Loki frames the Hulk to lure Thor into a fight, but his scheme brings several heroes together, and they form the Avengers."
+    },
+    {
+      "era": "True parentage",
+      "years": "1965",
+      "title": "Son of a frost giant",
+      "beat": "Tales of Asgard reveals Loki is the son of the frost giant Laufey, taken in by Odin after a war."
+    },
+    {
+      "era": "Kid Loki",
+      "years": "2010–2012",
+      "title": "A second chance",
+      "beat": "After dying during the Siege of Asgard, Loki returns as a child and stars in Journey into Mystery, trying to be more than a villain."
+    },
+    {
+      "era": "Agent of Asgard",
+      "years": "2014–2015",
+      "title": "Rewriting his story",
+      "beat": "Loki works as a secret agent for Asgard, trying to escape his destiny as a villain."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "In Norse mythology Loki is Thor's brother.",
+      "spice": 2,
+      "truth": "Not in the old myths. There Loki is a giant's son linked to Odin as a sworn blood-brother. The brother idea comes from Marvel."
+    },
+    {
+      "type": "fact",
+      "text": "Loki's scheme in Avengers #1 is what brought the team together.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tom Hiddleston first auditioned for Thor before he was cast as Loki.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Marvel writers confirmed in 2014 that Loki is bisexual and moves between genders.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Loki has come back as a child, a teenager and a woman over the years, and in 2017 he even held the title of Sorcerer Supreme.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Loki's biological father in Marvel comics?",
+      "options": ["Odin", "Laufey", "Surtur", "Bor"],
+      "answer": 1,
+      "why": "Loki is the son of the frost giant Laufey."
+    },
+    {
+      "q": "Loki's scheme led to the founding of which team?",
+      "options": ["Defenders", "Fantastic Four", "Avengers", "Thunderbolts"],
+      "answer": 2,
+      "why": "It happened in Avengers #1 (1963)."
+    },
+    {
+      "q": "Who plays Loki in the Marvel films and series?",
+      "options": ["Tom Hiddleston", "Tom Hardy", "Tom Holland", "Tom Hughes"],
+      "answer": 0,
+      "why": "Tom Hiddleston has played Loki since 2011."
+    }
+  ],
+  "rivals": ["thor"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#2e8b57",
+      "c2": "#c9a227",
+      "c3": "#1a1a1a"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Lies smoothly, schemes loudly, horns proudly."
+  },
+  "timeline": [
+    {
+      "year": 1949,
+      "kind": "debut",
+      "title": "A Timely trickster",
+      "note": "Venus #6 features a mischief god named Loki in a romance comic, long before the Thor era began."
+    },
+    {
+      "year": 1962,
+      "kind": "comic",
+      "title": "God of mischief arrives",
+      "note": "Journey into Mystery #85 brings Loki to Earth as Thor's scheming brother, with his famous horned helmet.",
+      "with": "thor"
+    },
+    {
+      "year": 1963,
+      "kind": "turn",
+      "title": "Accidental founder",
+      "note": "Loki's plot to trap Thor pulls a group of heroes together as the first Avengers.",
+      "with": "hulk"
+    },
+    {
+      "year": 1965,
+      "kind": "comic",
+      "title": "Son of a frost giant",
+      "note": "Journey into Mystery #112 and #113 reveal Loki was born a frost giant and adopted by Odin.",
+      "with": "thor"
+    },
+    {
+      "year": 2010,
+      "kind": "death",
+      "title": "Dying during Siege",
+      "note": "The Siege event ends with Loki giving his life to stop the monster he helped unleash.",
+      "with": "thor"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Tom Hiddleston's Loki",
+      "note": "Thor introduces Hiddleston's Loki, who becomes the MCU's breakout villain.",
+      "with": "thor"
+    },
+    {
+      "year": 2014,
+      "kind": "comic",
+      "title": "Agent of Asgard",
+      "note": "Loki works as a spy for Asgard, trying to rewrite his story and escape being the bad guy."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "His own Disney+ series",
+      "note": "Loki follows Hiddleston's variant through the Time Variance Authority in two seasons of time-travel weirdness."
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q1147326"
+  },
+  "photo": {
+    "file": "loki.webp",
+    "alt": "Loki photograph",
+    "artist": "Romer Jed Medina from Newark, NJ, United States",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cosplay_of_Loki_at_the_2021_New_York_Comic_Con_(51573811344).jpg"
+  }
+}

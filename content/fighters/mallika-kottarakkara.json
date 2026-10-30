@@ -1,0 +1,41 @@
+{
+  "slug": "mallika-kottarakkara",
+  "name": "MALLIKA KOTTARAKKARA",
+  "alias": "MADAME MASALA",
+  "kind": "villain",
+  "archetype": "spice-baroness",
+  "bio": "A Kerala spice magnate who cornered the pepper market, then the whole sky. Her blends turn a sneeze into a weapon and a stew into a threat. Hospitality is her cover, aroma her ambush. She will feed you, then ruin you.",
+  "catchphrase": "A taste of defeat, with extra heat.",
+  "rig": {
+    "build": "normal",
+    "head": "bare",
+    "cape": false,
+    "skin": "#d9a273",
+    "suit": "#b71c1c",
+    "trim": "#ffcc00",
+    "eye": "#00c853",
+    "emblem": "diamond"
+  },
+  "stats": {
+    "power": 5,
+    "speed": 5,
+    "defense": 4,
+    "special": 8
+  },
+  "special": {
+    "name": "Pepper Barrage",
+    "kind": "projectile"
+  },
+  "rivals": ["bholu-pandey", "rohan-sethi"],
+  "theme": {
+    "palette": {
+      "c1": "#b71c1c",
+      "c2": "#ffcc00",
+      "c3": "#2e7d32"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Fiery. Fragrant. Furious."
+  },
+  "heat": 48
+}

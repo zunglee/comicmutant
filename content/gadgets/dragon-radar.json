@@ -1,0 +1,45 @@
+{
+  "slug": "dragon-radar",
+  "name": "Dragon Radar",
+  "owner": "goku",
+  "firstSeen": {
+    "title": "Dragon Ball, Chapter 1",
+    "year": 1984
+  },
+  "summary": "A handheld tracker built by Bulma that points the way to the seven wish-granting Dragon Balls. Goku's whole adventure starts because she brought one to his mountain.",
+  "blueprint": "gauntlet",
+  "parts": [
+    {
+      "label": "Housing",
+      "fact": "Built by Bulma at sixteen after she found the Two-Star Ball in her family's basement. It debuted in the very first Dragon Ball chapter, printed in Weekly Shonen Jump in 1984."
+    },
+    {
+      "label": "Signal source",
+      "fact": "Bulma built it after noticing that every Dragon Ball gives off a faint electromagnetic pulse; the radar simply listens for that pulse and plots where it comes from."
+    },
+    {
+      "label": "Screen",
+      "fact": "The display shows each ball as a blip. Tuned for Earth's balls, it still worked on planet Namek, and a boosted Super Dragon Radar was later made by raising its sensitivity."
+    },
+    {
+      "label": "Blind spots",
+      "fact": "It cannot pick up a ball that someone has swallowed, and Emperor Pilaf later came up with a box that hides a ball from the radar's scan."
+    },
+    {
+      "label": "Copies & rebuilds",
+      "fact": "The original was stolen by the Red Ribbon Army and never recovered; a villager named Turbo copied it from airplane parts, and Bulma later rebuilt one from scratch."
+    }
+  ],
+  "trivia": [
+    "Early English versions called it the Ball Detector or the Bleeper before Dragon Radar stuck.",
+    "Goku's radar broke during his fight with General White, and Bulma had to repair it.",
+    "Pilaf's gang built several rival radars, including one inside their ship with a big globe showing where the balls lay.",
+    "Bulma first meets Goku in that opening chapter, chasing the radar's signal straight to his grandfather's Four-Star Ball."
+  ],
+  "sources": [
+    "https://www.kanzenshuu.com/wiki/Dragon_Radar",
+    "https://www.kanzenshuu.com/wiki/Dragon_Ball_Chapter_1",
+    "https://en.dragon-ball-official.com/news/01_3933.html",
+    "https://en.wikipedia.org/wiki/Bulma"
+  ]
+}

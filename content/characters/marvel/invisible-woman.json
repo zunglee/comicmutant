@@ -1,0 +1,187 @@
+{
+  "slug": "invisible-woman",
+  "name": "Invisible Woman",
+  "realName": "Dr. Susan \"Sue\" Storm-Richards",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "She went from vanishing to being the strongest member of the family. Sue Storm, one of the Fantastic Four's original members, turns herself and other things invisible and throws up unseen force fields.",
+  "origin": "Sue Storm started out as the member who disappeared and ended up as the one nobody can get through. She was on the rocket in Fantastic Four #1 in 1961, which made her the first heroine of Marvel's Silver Age, and early stories mostly had her turn invisible and get captured. A few years in, Stan Lee and Jack Kirby gave her the power to project unseen force fields, and later writers kept stretching it until her fields became the team's most powerful weapon. She became the Invisible Woman instead of the Invisible Girl in 1985. These days she is often called the strongest member of the family, and she earned it.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "1",
+    "year": 1961
+  },
+  "powers": [
+    "Turns herself invisible",
+    "Makes other people and objects invisible",
+    "Invisible force fields and shields",
+    "Shapes her fields into solid constructs and blasts",
+    "Hard for telepaths to read"
+  ],
+  "affiliations": [
+    "Fantastic Four",
+    "Avengers",
+    "Lady Liberators",
+    "Fantastic Four Incorporated",
+    "Future Foundation",
+    "Seven Brides of Set",
+    "Daughters of Liberty"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1961",
+      "title": "Invisible Girl",
+      "beat": "Sue Storm joins her fiancé Reed Richards on a rocket flight and gains the power to turn invisible. At first that is her only power."
+    },
+    {
+      "era": "Force fields",
+      "years": "1964",
+      "title": "Power upgrade",
+      "beat": "Fantastic Four #22 gives Sue the ability to project invisible force fields, which soon becomes the heart of her power set."
+    },
+    {
+      "era": "Family",
+      "years": "1965–1968",
+      "title": "Marriage and motherhood",
+      "beat": "Sue marries Reed in 1965 and gives birth to their son Franklin in 1968, who grows into one of Marvel's most powerful mutants."
+    },
+    {
+      "era": "Invisible Woman",
+      "years": "1985",
+      "title": "A new name and Malice",
+      "beat": "John Byrne renames her the Invisible Woman. During his run she is also manipulated into a cruel alter ego called Malice."
+    },
+    {
+      "era": "Valeria",
+      "years": "2002",
+      "title": "A daughter at last",
+      "beat": "Sue and Reed's daughter Valeria is born, a child genius who becomes a key part of later FF stories."
+    },
+    {
+      "era": "Civil War",
+      "years": "2006–2007",
+      "title": "Choosing sides",
+      "beat": "Sue leaves Reed for a time over the superhero registration act and joins Captain America's resistance."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Sue could only turn invisible for her first few years. Force fields arrived in 1964.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "John Byrne changed her codename from Invisible Girl to Invisible Woman in 1985.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her children are Franklin, a reality-warping mutant, and Valeria, a child genius.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Jessica Alba, Kate Mara and Vanessa Kirby have all played Sue on film.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Later writers often present Sue as the most powerful member of the Fantastic Four, thanks to how far her force fields can reach.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Sue Storm's original codename?",
+      "options": ["Invisible Woman", "Invisible Girl", "Invisible Lass", "Phantom Girl"],
+      "answer": 1,
+      "why": "She was Invisible Girl until 1985."
+    },
+    {
+      "q": "Who is Sue's husband?",
+      "options": ["Reed Richards", "Namor", "Ben Grimm", "Victor von Doom"],
+      "answer": 0,
+      "why": "She married Reed Richards in 1965."
+    },
+    {
+      "q": "What is the name of Sue and Reed's son?",
+      "options": ["Billy", "Nathan", "Harry", "Franklin"],
+      "answer": 3,
+      "why": "Franklin Richards was born in 1968."
+    }
+  ],
+  "rivals": ["doctor-doom", "galactus"],
+  "allies": ["mister-fantastic", "human-torch", "the-thing", "black-panther"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#f2f2f2",
+      "c3": "#8ad1ff"
+    },
+    "motif": "cosmic",
+    "mood": "light",
+    "tagline": "Now you see her. Now you're inside her force field."
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "kind": "debut",
+      "title": "The Invisible Girl",
+      "note": "Fantastic Four #1 introduces Sue Storm, who gains the power to turn invisible after a cosmic-ray flight."
+    },
+    {
+      "year": 1964,
+      "kind": "turn",
+      "title": "Force fields arrive",
+      "note": "Fantastic Four #22 gives Sue force fields and invisibility projection, the start of her rise to powerhouse."
+    },
+    {
+      "year": 1965,
+      "kind": "turn",
+      "title": "Marrying Reed",
+      "note": "Fantastic Four Annual #3 holds the wedding of Sue and Reed, crashed by nearly every hero and villain around.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "On screen with the family",
+      "note": "The Hanna-Barbera Fantastic Four cartoon brings Sue to TV for the first time."
+    },
+    {
+      "year": 1985,
+      "kind": "turn",
+      "title": "Invisible Woman",
+      "note": "After a dark brush with mind control as Malice, Fantastic Four #284 has Sue retire the Girl name for Woman."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Jessica Alba's Sue",
+      "note": "The Fantastic Four film casts Jessica Alba as a scientist who is the team's emotional core."
+    },
+    {
+      "year": 2006,
+      "kind": "comic",
+      "title": "Breaking with Reed",
+      "note": "In Civil War, Sue sides against her husband's registration crusade and leaves to join the resistance.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Vanessa Kirby's Sue",
+      "note": "The Fantastic Four: First Steps casts Vanessa Kirby as a Sue who is both mother and the team's toughest member."
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Invisible_Woman",
+    "wikidata": "https://www.wikidata.org/wiki/Q510450"
+  }
+}

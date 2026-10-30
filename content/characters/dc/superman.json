@@ -1,0 +1,207 @@
+{
+  "slug": "superman",
+  "name": "Superman",
+  "realName": "Kal-El",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The original superhero, and still the kindest. Kal-El of Krypton, raised as Clark Kent by a Kansas farm couple, uses his sun-fuelled powers to protect Metropolis and the world.",
+  "origin": "Superman is the template every other superhero is built on, and he still works because he is genuinely kind. Two young friends from Cleveland, Jerry Siegel and Joe Shuster, dreamed him up and sold him to the publisher that became DC, and he debuted in Action Comics #1 in April 1938. The story is simple and perfect: baby Kal-El is rocketed away from the doomed planet Krypton, found and raised by a kindly farm couple, the Kents, and grows up as Clark. Under Earth's yellow sun he is strong, fast, nearly invulnerable and, from the early 1940s, able to fly. He has stayed in print ever since and spread into radio, novels, film, TV, stage and games.",
+  "creators": ["Jerry Siegel (writer)", "Joe Shuster (artist)"],
+  "firstAppearance": {
+    "title": "Action Comics",
+    "issue": "1",
+    "year": 1938
+  },
+  "powers": [
+    "Enormous strength, speed and stamina",
+    "Nearly invulnerable",
+    "Flight",
+    "Brilliant mind",
+    "Heat vision",
+    "X-ray vision",
+    "Super senses"
+  ],
+  "affiliations": ["Daily Planet", "Justice League", "Legion of Super-Heroes", "Superman Family"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1938",
+      "title": "The first superhero",
+      "beat": "Jerry Siegel and Joe Shuster, two young men from Cleveland, introduce Superman in Action Comics #1, the comic that launched the superhero genre."
+    },
+    {
+      "era": "Radio and cartoons",
+      "years": "1940s",
+      "title": "New powers",
+      "beat": "The radio serial introduces kryptonite, and the Fleischer cartoons help turn his giant leaps into true flight."
+    },
+    {
+      "era": "Man of Steel",
+      "years": "1986",
+      "title": "Byrne's reboot",
+      "beat": "After Crisis on Infinite Earths, John Byrne streamlines Superman, making Clark's Kansas upbringing central and Lex a corporate villain."
+    },
+    {
+      "era": "Death of Superman",
+      "years": "1992",
+      "title": "Doomsday",
+      "beat": "Superman dies fighting the monster Doomsday. The issue sells millions of copies and makes headlines worldwide."
+    },
+    {
+      "era": "The Wedding",
+      "years": "1996",
+      "title": "Clark and Lois",
+      "beat": "Clark Kent and Lois Lane marry in a special issue timed to the TV show Lois & Clark."
+    },
+    {
+      "era": "All-Star",
+      "years": "2005–2008",
+      "title": "A final year",
+      "beat": "Grant Morrison and Frank Quitely's All-Star Superman follows a dying Superman's last labours, often called one of the best Superman stories."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Siegel and Shuster sold the rights to Superman for $130. Decades of legal fights followed before DC gave them a pension and credit in 1975.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Superman could always fly.",
+      "spice": 1,
+      "truth": "In 1938 he could only leap great distances. Flight came in the early 1940s."
+    },
+    {
+      "type": "fact",
+      "text": "Kryptonite was first introduced on the radio show in 1943, not in the comics.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "A copy of Action Comics #1 sold for $6 million in 2024. A year later, a Superman #1 found in an attic beat it at $9.12 million.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Clark Kent's name came from two film stars, Clark Gable and Kent Taylor.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who created Superman?",
+      "options": [
+        "Jerry Siegel and Joe Shuster",
+        "Bob Kane and Bill Finger",
+        "Stan Lee and Jack Kirby",
+        "Gardner Fox and Carmine Infantino"
+      ],
+      "answer": 0,
+      "why": "Siegel and Shuster."
+    },
+    {
+      "q": "Which planet was Superman born on?",
+      "options": ["Daxam", "Krypton", "Apokolips", "Mars"],
+      "answer": 1,
+      "why": "Krypton."
+    },
+    {
+      "q": "Which monster killed Superman in 1992?",
+      "options": ["Darkseid", "Bizarro", "Mongul", "Doomsday"],
+      "answer": 3,
+      "why": "Doomsday."
+    },
+    {
+      "q": "In which comic did Superman debut?",
+      "options": ["Superman #1", "Detective Comics #27", "Action Comics #1", "More Fun Comics #73"],
+      "answer": 2,
+      "why": "Action Comics #1 (1938)."
+    }
+  ],
+  "rivals": ["lex-luthor", "brainiac", "darkseid"],
+  "allies": [
+    "batman",
+    "wonder-woman",
+    "supergirl",
+    "martian-manhunter",
+    "flash-barry-allen",
+    "aquaman"
+  ],
+  "theme": {
+    "palette": {
+      "c1": "#1f3a93",
+      "c2": "#c8102e",
+      "c3": "#f2c230"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Farm boy manners, solar-powered punch."
+  },
+  "timeline": [
+    {
+      "year": 1938,
+      "kind": "debut",
+      "title": "Action Comics #1 lands",
+      "note": "A caped strongman lifts a car on the cover of Action Comics #1, and the superhero genre is born overnight."
+    },
+    {
+      "year": 1940,
+      "kind": "comic",
+      "title": "Enter Luthor",
+      "note": "A red-haired mad scientist called Luthor shows up in Action Comics #23, kicking off the longest feud in comics.",
+      "with": "lex-luthor"
+    },
+    {
+      "year": 1941,
+      "kind": "screen",
+      "title": "Fleischer cartoons",
+      "note": "Fleischer Studios puts Superman in cinemas with a run of lavish animated shorts that still look gorgeous."
+    },
+    {
+      "year": 1959,
+      "kind": "comic",
+      "title": "A cousin from Argo City",
+      "note": "Action Comics #252 brings in Kara Zor-El, a fellow Kryptonian survivor who becomes his secret teen ally.",
+      "with": "supergirl"
+    },
+    {
+      "year": 1978,
+      "kind": "screen",
+      "title": "Christopher Reeve suits up",
+      "note": "Richard Donner's Superman casts Christopher Reeve and proves a comic-book blockbuster can be a real event film."
+    },
+    {
+      "year": 1986,
+      "kind": "turn",
+      "title": "Byrne hits reset",
+      "note": "After Crisis, John Byrne's The Man of Steel rebuilds Clark from the ground up, with living parents and fewer powers."
+    },
+    {
+      "year": 1993,
+      "kind": "death",
+      "title": "Doomsday wins",
+      "note": "Superman #75 has Clark trade his life to stop the monster Doomsday, and the issue becomes a mainstream news story."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "A new Man of Steel",
+      "note": "James Gunn's Superman stars David Corenswet and kicks off DC Studios' fresh film universe."
+    }
+  ],
+  "heat": 95,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Superman",
+    "wikidata": "https://www.wikidata.org/wiki/Q79015"
+  },
+  "photo": {
+    "file": "superman.webp",
+    "alt": "Superman photograph",
+    "artist": "AnonymousUnknown author",
+    "license": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Kirk_Alyn_as_Superman_in_a_publicity_still_from_1948.jpg"
+  }
+}

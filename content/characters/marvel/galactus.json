@@ -1,0 +1,182 @@
+{
+  "slug": "galactus",
+  "name": "Galactus",
+  "realName": "Galan",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A world-eater who is not evil, only hungry. Galactus, once the mortal Galan, roams the cosmos consuming planets and sending heralds like the Silver Surfer ahead of him.",
+  "origin": "Galactus is less a villain than a natural disaster with a helmet. He showed up in Fantastic Four #48 in 1966, when Stan Lee and Jack Kirby wanted a foe that felt closer to a god than a bad guy. The backstory came later: he was once Galan, a man from the universe that existed before ours, who survived its end and was reborn as a vast being who must feed on the life energy of whole planets. He wields the Power Cosmic, sends heralds such as the Silver Surfer to scout his meals, and in Marvel cosmology he helps keep the universe in balance. The scariest thing about him is that he isn't cruel, just hungry.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "48",
+    "year": 1966
+  },
+  "powers": [
+    "Wields the Power Cosmic",
+    "Feeds on the life energy of planets",
+    "Can grant cosmic power to his heralds"
+  ],
+  "affiliations": ["Heralds of Galactus", "God Squad", "Ultimates"],
+  "storyline": [
+    {
+      "era": "Galactus Trilogy",
+      "years": "1966",
+      "title": "The coming of Galactus",
+      "beat": "Galactus arrives in Fantastic Four #48–50 with his herald, the Silver Surfer, to consume Earth. The Surfer turns against him, Reed Richards gets hold of the Ultimate Nullifier, and Galactus agrees to leave."
+    },
+    {
+      "era": "Origin",
+      "years": "1969",
+      "title": "Survivor of a dead universe",
+      "beat": "Thor reveals that Galactus was once Galan, a man from the universe before ours who survived its end and was reborn as a planet-devouring cosmic being."
+    },
+    {
+      "era": "Trial of Reed Richards",
+      "years": "1983–1984",
+      "title": "Should he have been saved?",
+      "beat": "Reed is put on trial by alien empires for once saving the dying Galactus, a story that frames Galactus as a necessary force of nature."
+    },
+    {
+      "era": "Annihilation",
+      "years": "2006",
+      "title": "Unleashed",
+      "beat": "In the Annihilation event Galactus is freed from captivity and turned loose on an invading cosmic army, showing just how vast his power is."
+    },
+    {
+      "era": "Lifebringer",
+      "years": "2015–2016",
+      "title": "From eater to creator",
+      "beat": "In The Ultimates his hunger is cured and he becomes the Lifebringer, restoring dead worlds, though the change does not last."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Jack Kirby added the Silver Surfer to the Galactus story on his own, and Stan Lee only found out when the pages arrived.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Galactus destroys worlds because he is evil.",
+      "spice": 1,
+      "truth": "He is usually shown as a cosmic force beyond good and evil who must eat planets to survive."
+    },
+    {
+      "type": "fact",
+      "text": "He once was Galan, a man from the universe that existed before the Big Bang.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Ralph Ineson played Galactus in the 2025 film The Fantastic Four: First Steps.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Silver Surfer, his most famous herald, made his debut in the same story as Galactus.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Galactus's original name?",
+      "options": ["Gorr", "Galan", "Glorian", "Gaius"],
+      "answer": 1,
+      "why": "He was Galan of the planet Taa."
+    },
+    {
+      "q": "Which herald came with him in his first story?",
+      "options": ["Nova", "Silver Surfer", "Terrax", "Firelord"],
+      "answer": 1,
+      "why": "The Silver Surfer debuted alongside him in 1966."
+    },
+    {
+      "q": "Which weapon drove Galactus away from Earth in 1966?",
+      "options": ["Infinity Gauntlet", "Cosmic Cube", "Ultimate Nullifier", "M'Kraan Crystal"],
+      "answer": 2,
+      "why": "Reed Richards threatened him with the Ultimate Nullifier."
+    }
+  ],
+  "rivals": ["mister-fantastic", "invisible-woman", "human-torch", "the-thing", "thor"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#5b2a86",
+      "c2": "#2e5aa8",
+      "c3": "#c0c0c8"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "World-eater. Picky about none of them."
+  },
+  "timeline": [
+    {
+      "year": 1966,
+      "kind": "debut",
+      "title": "The Galactus Trilogy",
+      "note": "Fantastic Four #48 brings the planet-eater and his herald, the Silver Surfer, to Earth in one of comics' most famous arcs.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Cartoon world-eater",
+      "note": "The Hanna-Barbera Fantastic Four series adapts the Galactus saga for Saturday-morning TV."
+    },
+    {
+      "year": 1969,
+      "kind": "comic",
+      "title": "Survivor of the last universe",
+      "note": "Thor #168 and #169 reveal Galactus began as Galan, the lone survivor of the universe before ours.",
+      "with": "thor"
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "The Trial of Galactus",
+      "note": "Fantastic Four #262 puts Reed on trial for saving Galactus, asking whether a world-eater deserves to live.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 2006,
+      "kind": "comic",
+      "title": "Weapon in Annihilation",
+      "note": "The Annihilation event sees Galactus captured and turned into a cosmic weapon against whole star systems."
+    },
+    {
+      "year": 2007,
+      "kind": "screen",
+      "title": "A storm cloud on screen",
+      "note": "Fantastic Four: Rise of the Silver Surfer shows Galactus as a giant cosmic cloud, a choice fans still debate."
+    },
+    {
+      "year": 2016,
+      "kind": "turn",
+      "title": "From eater to lifebringer",
+      "note": "The Ultimates transform Galactus into a bringer of life, flipping his hunger into creation."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "The towering MCU giant",
+      "note": "The Fantastic Four: First Steps finally shows Galactus in full, with Ralph Ineson under the giant helmet.",
+      "with": "mister-fantastic"
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Galactus",
+    "wikidata": "https://www.wikidata.org/wiki/Q1429836"
+  },
+  "photo": {
+    "file": "galactus.webp",
+    "alt": "Galactus photograph",
+    "artist": "Mooshuu from San Diego",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2013-8754_(9342513254).jpg"
+  }
+}

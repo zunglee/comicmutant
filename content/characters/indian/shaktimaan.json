@@ -1,0 +1,185 @@
+{
+  "slug": "shaktimaan",
+  "name": "Shaktimaan",
+  "realName": "Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri (alter ego)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "tv",
+  "publisher": "DD National (Doordarshan)",
+  "summary": "India's best-loved TV superhero: a yogi-warrior powered by his awakened chakras and the five elements, created by and starring Mukesh Khanna on Doordarshan from 1997 to 2005.",
+  "origin": "A sun-following sect of sages, the Suryanshis, chose one man to stand against the greed and hatred of the Kali Yuga. Through Kundalini yoga he awakened his seven chakras, then went through a ritual death in sacred fire, after which fire, earth, water, wind and sky rebuilt him as a superhuman. Journalist Geeta Vishwas gave the mystery hero his name. He later learns he is the reborn Shri Satya, the Suryanshi founder from the Mahabharata era. To stay hidden he lives as Gangadhar, a clumsy photographer who speaks extremely formal Hindi.",
+  "creators": ["Mukesh Khanna (creator, producer, star)"],
+  "firstAppearance": {
+    "title": "Shaktimaan",
+    "year": 1997
+  },
+  "powers": [
+    "Superhuman strength, speed and durability",
+    "Flight",
+    "Telepathy, telekinesis and teleportation",
+    "Energy rays, fire and freezing breath, protective force fields",
+    "Can split into five bodies of fire, wind, water, earth and sky",
+    "Astral projection that passes through walls",
+    "Third-eye vision: sees anywhere and senses coming danger",
+    "Can nudge people's will toward doing good",
+    "Weakness: Kilvish's Papmani crystal, filled with the world's evil"
+  ],
+  "affiliations": ["Suryanshi sect", "Aaj Ki Awaaz (as Gangadhar)"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1997",
+      "title": "The chosen one",
+      "beat": "Shaktimaan lands on DD National in September 1997. Gangadhar gets a photographer job at the newspaper Aaj Ki Awaaz, conveniently never managing to snap a picture of the hero."
+    },
+    {
+      "era": "Main run",
+      "years": "1997–2005",
+      "title": "Light versus darkness",
+      "beat": "Across 450 episodes he battles Tamraj Kilvish and an army of agents such as Dr. Jackal and the shapeshifting tantrik Kapala. His stated mission is to wipe out the sin inside people rather than the sinners."
+    },
+    {
+      "era": "Secret out",
+      "years": "1997–2005",
+      "title": "Geeta finds out",
+      "beat": "Geeta Vishwas pieces together that her bumbling colleague and the hero are the same man, a secret previously known only to the Suryanshis."
+    },
+    {
+      "era": "Big reveal",
+      "years": "1997–2005",
+      "title": "Shri Satya reborn",
+      "beat": "Shaktimaan learns he is the reincarnation of Shri Satya, and that only Shri Satya can finally destroy Kilvish."
+    },
+    {
+      "era": "Spin-offs",
+      "years": "2011–2013",
+      "title": "Animated afterlife",
+      "beat": "Reliance Animation's Shaktimaan: The Animated Series runs on Sonic from 2011 to 2012, and the TV film Hamara Hero Shaktimaan airs on Pogo in 2013."
+    },
+    {
+      "era": "Revival",
+      "years": "2019–2025",
+      "title": "Back on air",
+      "beat": "The educational YouTube show Sorry Shaktimaan starts in 2019, DD National re-runs the series during the 2020 lockdown, Sony announces a film in 2022, and Pocket FM launches the audio series Shaktimaan Returns in 2025."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Mukesh Khanna first dreamed up the hero in 1981 as a film called Aakash with Rajshri Productions. It took 16 more years to reach TV.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Gangadhar's buck teeth and floppy hair were modelled on American comedian Jerry Lewis.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The show ran 450 episodes and was sponsored by Parle-G from its very first episode.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Doordarshan pulled Shaktimaan off air because children kept copying its stunts.",
+      "truth": "In 2019 Khanna said the show ended because high broadcast costs caused losses, not because of the stunt controversy.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "Mukesh Khanna has claimed he got fan letters for the role, including one from Prime Minister Atal Bihari Vajpayee.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Reports from Bhutan claimed students skipped Saturday classes to watch the show and drew Shaktimaan on roads and walls.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "From 2004 the social messages at the end of episodes came with sign-language interpretation.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of Shaktimaan's bumbling alter ego?",
+      "options": ["Professor Vishwas", "Pandit Gangadhar", "Inspector Kilvish", "Doctor Jackal"],
+      "answer": 1,
+      "why": "He hides in plain sight as Pandit Gangadhar, a clumsy photographer with very formal Hindi."
+    },
+    {
+      "q": "Which channel first aired Shaktimaan in 1997?",
+      "options": ["Zee TV", "Sony TV", "DD National", "Star Plus"],
+      "answer": 2,
+      "why": "It ran on Doordarshan's DD National from 1997 to 2005."
+    },
+    {
+      "q": "What is Shaktimaan's one big weakness?",
+      "options": ["Red light", "Kryptonite", "A silver bullet", "Kilvish's Papmani crystal"],
+      "answer": 3,
+      "why": "The Papmani crystal, filled with the world's evil, can drain and even kill him."
+    }
+  ],
+  "rivals": ["kilvish"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#f2b705",
+      "c3": "#fff4d6"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Seven chakras, five elements, zero patience for darkness."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaktimaan",
+    "animated": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series"
+  },
+  "timeline": [
+    {
+      "year": 1997,
+      "kind": "debut",
+      "title": "DD National premiere",
+      "note": "Mukesh Khanna's hero lands on Doordarshan on 13 September 1997 and becomes a fixture of 90s childhoods."
+    },
+    {
+      "year": 2005,
+      "kind": "turn",
+      "title": "Final episode",
+      "note": "The serial signs off in March 2005 after 450 episodes."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "The animated series",
+      "note": "Reliance Animation's 26-episode cartoon version debuts on Nickelodeon Sonic in December 2011."
+    },
+    {
+      "year": 2020,
+      "kind": "legacy",
+      "title": "Lockdown rerun",
+      "note": "Doordarshan brings the show back during the COVID-19 lockdown, and a whole new generation tunes in."
+    },
+    {
+      "year": 2022,
+      "kind": "screen",
+      "title": "Sony announces a film trilogy",
+      "note": "Sony Pictures International Productions confirms plans for three big-screen Shaktimaan films."
+    },
+    {
+      "year": 2024,
+      "kind": "return",
+      "title": "Khanna suits up again",
+      "note": "Mukesh Khanna returns in costume in a November teaser on his Bheeshm International YouTube channel."
+    },
+    {
+      "year": 2025,
+      "kind": "return",
+      "title": "Audio adventures",
+      "note": "Khanna voices the hero once more in an original audio series for Pocket FM."
+    }
+  ],
+  "heat": 88
+}

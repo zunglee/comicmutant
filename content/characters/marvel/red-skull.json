@@ -1,0 +1,184 @@
+{
+  "slug": "red-skull",
+  "name": "Red Skull",
+  "realName": "Johann Shmidt",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Captain America's oldest enemy, on the scene since issue one. The Red Skull, Nazi agent Johann Shmidt, has no powers, just a tactical mind and an obsession with doomsday weapons like the Cosmic Cube.",
+  "origin": "The Red Skull has been Captain America's enemy since literally the first issue, and he has never gotten less awful. Captain America Comics #1, published in December 1940, featured a Nazi saboteur in a skull mask who turned out to be businessman George Maxon. Later stories explained Maxon was a decoy, and that Johann Shmidt, the true Skull, first showed up in issue #7 in 1941. In the 1960s Stan Lee and Jack Kirby gave Shmidt a backstory as a bitter drifter Hitler personally picked to become the face of Nazi terror. He has no superpowers, just a tactical brain, combat skill and an endless appetite for doomsday weapons like the Cosmic Cube. Others, such as Albert Malik, have worn the mask too.",
+  "creators": ["France Herron", "Jack Kirby", "Joe Simon"],
+  "firstAppearance": {
+    "title": "Captain America Comics",
+    "issue": "1",
+    "year": 1941
+  },
+  "powers": ["Genius planner and tactician", "Trained fighter, marksman and swordsman"],
+  "affiliations": [
+    "Nazi Germany (SS-Oberführer)",
+    "Kronas Corporation",
+    "Exiles",
+    "U.L.T.I.M.A.T.U.M.",
+    "Skeleton Crew",
+    "Hydra"
+  ],
+  "storyline": [
+    {
+      "era": "Golden Age",
+      "years": "1940–1945",
+      "title": "Wartime menace",
+      "beat": "The Red Skull debuts in the first issue of Captain America Comics as a Nazi saboteur and becomes Cap's recurring foe of the war years."
+    },
+    {
+      "era": "Revival",
+      "years": "1965",
+      "title": "Hitler's chosen man",
+      "beat": "Stan Lee and Jack Kirby bring the Skull back and tell his origin: Johann Shmidt, a bitter drifter working as a hotel bellboy, chosen by Hitler and trained into the face of Nazi terror."
+    },
+    {
+      "era": "Cosmic Cube",
+      "years": "1966",
+      "title": "Reality in a box",
+      "beat": "The Skull gets hold of the Cosmic Cube, which can reshape reality, a weapon he keeps chasing for decades."
+    },
+    {
+      "era": "Brubaker era",
+      "years": "2005–2007",
+      "title": "Pulling the strings",
+      "beat": "With his mind trapped in a Russian general's body, the Skull plots against Cap and arranges his assassination."
+    },
+    {
+      "era": "Telepathic Skull",
+      "years": "2012",
+      "title": "Stolen mind",
+      "beat": "A clone of the Skull steals Charles Xavier's brain and gains telepathic powers in Uncanny Avengers."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "In the comics, the Red Skull founded Hydra.",
+      "spice": 2,
+      "truth": "He leads it in the 2011 film, but in the comics Hydra is mostly tied to Baron Strucker. The Skull just works with it sometimes."
+    },
+    {
+      "type": "fact",
+      "text": "His signature weapon, the Cosmic Cube, has been his obsession since 1966.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Hugo Weaving played him in Captain America: The First Avenger (2011).",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His daughter, Sinthea Shmidt, is the villain Sin.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is the Red Skull's arch-enemy?",
+      "options": ["Captain America", "Iron Man", "Thor", "Daredevil"],
+      "answer": 0,
+      "why": "He has been Cap's nemesis since their shared debut issue, on sale in December 1940."
+    },
+    {
+      "q": "Which reality-warping artifact does he often hunt?",
+      "options": ["Infinity Gauntlet", "Cosmic Cube", "Darkhold", "Ultimate Nullifier"],
+      "answer": 1,
+      "why": "The Cosmic Cube, since 1966."
+    },
+    {
+      "q": "Who played the Red Skull in Captain America: The First Avenger?",
+      "options": ["Christoph Waltz", "Michael Fassbender", "Hugo Weaving", "Tom Hardy"],
+      "answer": 2,
+      "why": "Hugo Weaving played him in 2011."
+    }
+  ],
+  "rivals": ["captain-america"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#b11226",
+      "c2": "#1a1a1a",
+      "c3": "#4a5a3a"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Cap's oldest enemy, with a face to match."
+  },
+  "timeline": [
+    {
+      "year": 1941,
+      "kind": "debut",
+      "title": "Cap's first enemy",
+      "note": "Captain America Comics #1 introduces the Red Skull in the very issue that launched Cap himself.",
+      "with": "captain-america"
+    },
+    {
+      "year": 1965,
+      "kind": "comic",
+      "title": "Johann Shmidt returns",
+      "note": "Tales of Suspense #65 brings the real Red Skull, Johann Shmidt, into Marvel's modern era.",
+      "with": "captain-america"
+    },
+    {
+      "year": 1966,
+      "kind": "comic",
+      "title": "Holding the Cosmic Cube",
+      "note": "Tales of Suspense #79 has the Skull grab the reality-warping Cosmic Cube in his bid to rule the world.",
+      "with": "captain-america"
+    },
+    {
+      "year": 1990,
+      "kind": "screen",
+      "title": "A low-budget film debut",
+      "note": "The 1990 Captain America movie casts Scott Paulin as an Italian-born version of the Skull.",
+      "with": "captain-america"
+    },
+    {
+      "year": 2007,
+      "kind": "turn",
+      "title": "Death of Captain America",
+      "note": "The Skull's long plot reaches its peak when Steve Rogers is gunned down on the courthouse steps.",
+      "with": "captain-america"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Hugo Weaving in The First Avenger",
+      "note": "Captain America: The First Avenger has Hugo Weaving play the Skull as a Hydra chief who wants the Tesseract.",
+      "with": "captain-america"
+    },
+    {
+      "year": 2012,
+      "kind": "comic",
+      "title": "Stealing Xavier's mind",
+      "note": "Uncanny Avengers has the Skull use Charles Xavier's brain to gain telepathy.",
+      "with": "professor-x"
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Guardian of the Soul Stone",
+      "note": "Avengers: Infinity War reveals the Red Skull trapped on Vormir, watching over the Soul Stone.",
+      "with": "thanos"
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Red_Skull",
+    "wikidata": "https://www.wikidata.org/wiki/Q2034529"
+  },
+  "photo": {
+    "file": "red-skull.webp",
+    "alt": "Red Skull photograph",
+    "artist": "Kyle Nishioka from Kaneohe, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:DragonCon_2012_-_Marvel_and_Avengers_photoshoot_(8082159178).jpg"
+  }
+}

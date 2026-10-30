@@ -1,0 +1,164 @@
+{
+  "slug": "sosuke-aizen",
+  "name": "Sōsuke Aizen",
+  "universe": "anime",
+  "kind": "villain",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Bleach's soft-spoken, bespectacled captain who turned out to be the mastermind behind almost everything, and who planned to replace the gods themselves. First appeared in Weekly Shōnen Jump in 2003.",
+  "origin": "Aizen is introduced as the kindly, well-loved captain of the Gotei 13's Fifth Division, admired by his lieutenant Momo Hinamori and trusted by almost everyone. In secret he has spent more than a century experimenting on souls, framing the inventor Kisuke Urahara for his crimes and hunting for Urahara's Hōgyoku, an orb that can bend reality to its holder's will. With the help of Gin Ichimaru and Kaname Tōsen, he fakes his own death to throw Soul Society into chaos, then reveals himself, takes the orb and leaves for Hueco Mundo. There he builds an army of Arrancar to destroy Karakura Town and create the key he needs to reach and kill the Soul King. His sword, Kyōka Suigetsu, can make anyone who has seen it activate believe whatever illusion he chooses.",
+  "creators": ["Tite Kubo"],
+  "firstAppearance": {
+    "title": "Bleach",
+    "issue": "Chapter 79",
+    "year": 2003
+  },
+  "powers": [
+    "Kyōka Suigetsu, a sword that casts complete hypnosis",
+    "Master swordsmanship and high-level kidō spells",
+    "Enormous spiritual pressure",
+    "Fusion with the Hōgyoku, granting new forms and regeneration",
+    "Near-immortality after fully merging with the orb",
+    "Planning several moves ahead of everyone else"
+  ],
+  "affiliations": ["Gotei 13, Fifth Division (former captain)", "Arrancar and the Espada (leader)"],
+  "storyline": [
+    {
+      "era": "Soul Society",
+      "years": "2003–2004",
+      "title": "The kind captain",
+      "beat": "Aizen appears as a gentle leader, then is found apparently murdered, setting the captains against each other."
+    },
+    {
+      "era": "Soul Society",
+      "years": "2005",
+      "title": "The great reveal",
+      "beat": "At Rukia's execution he steps out alive, admits he staged everything, rips the Hōgyoku from her body and leaves with Gin and Tōsen."
+    },
+    {
+      "era": "Arrancar",
+      "years": "2005–2009",
+      "title": "Lord of Las Noches",
+      "beat": "From his palace in Hueco Mundo he gathers the Espada, a ranked squad of powerful Hollows, and prepares an assault on the human world."
+    },
+    {
+      "era": "Fake Karakura Town",
+      "years": "2009–2010",
+      "title": "Evolution",
+      "beat": "Merged with the Hōgyoku, he shrugs off every captain, until Ichigo gives up his powers for one final technique that stops him."
+    },
+    {
+      "era": "Thousand-Year Blood War",
+      "years": "2015–2016",
+      "title": "Uneasy ally",
+      "beat": "Released from his prison to help against the Quincy king Yhwach, he fights on his own terms and then returns to his cell."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Aizen really was murdered early in the Soul Society arc.",
+      "truth": "The body was an illusion. He faked his death to set the other captains at each other's throats.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The Hōgyoku was invented by Kisuke Urahara, whom Aizen framed so he could steal it.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His first prison sentence was 18,800 years, and the judges raised it to 20,000 after he insulted them.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Shō Hayami voices him in Japanese and Kyle Hebert in English.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "In 2021 Tite Kubo drew Aizen for a promotion of Marvel's Loki series, a pairing of two master schemers.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Not every critic was sold: an IGN reviewer loved the twist but found his hypnosis sword a little too convenient.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of Aizen's sword?",
+      "options": ["Zangetsu", "Senbonzakura", "Kyōka Suigetsu", "Shinsō"],
+      "answer": 2,
+      "why": "Kyōka Suigetsu, whose power is complete hypnosis."
+    },
+    {
+      "q": "Which division did Aizen captain?",
+      "options": ["First", "Fifth", "Sixth", "Thirteenth"],
+      "answer": 1,
+      "why": "He led the Fifth Division before his betrayal."
+    },
+    {
+      "q": "Who originally created the Hōgyoku?",
+      "options": ["Mayuri Kurotsuchi", "Yhwach", "Kisuke Urahara", "Gin Ichimaru"],
+      "answer": 2,
+      "why": "Urahara built it, and Aizen framed him to take it."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2efe6",
+      "c2": "#5b3f2e",
+      "c3": "#7b3fa0"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "Every twist went to plan, including this tagline."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+  },
+  "timeline": [
+    {
+      "year": 2003,
+      "kind": "debut",
+      "title": "Captain of the Fifth",
+      "note": "Aizen first appears in Bleach chapter 79 as a mild, well-liked captain."
+    },
+    {
+      "year": 2005,
+      "kind": "turn",
+      "title": "The betrayal",
+      "note": "The manga reveals he is alive and behind the whole plot, and the anime airs the same twist in December 2005."
+    },
+    {
+      "year": 2010,
+      "kind": "comic",
+      "title": "Sealed away",
+      "note": "Ichigo's last-ditch technique and Urahara's seal stop him, and he is locked in the deepest prison."
+    },
+    {
+      "year": 2015,
+      "kind": "return",
+      "title": "Freed for the final war",
+      "note": "In the Thousand-Year Blood War arc, Soul Society lets him out to help against Yhwach."
+    },
+    {
+      "year": 2016,
+      "kind": "legacy",
+      "title": "The manga ends",
+      "note": "Bleach finishes in August 2016, with Aizen back in his cell but very much alive."
+    },
+    {
+      "year": 2022,
+      "kind": "screen",
+      "title": "Blood War anime",
+      "note": "The Thousand-Year Blood War anime premieres in October 2022, bringing Bleach back to TV after a decade."
+    }
+  ],
+  "heat": 74
+}

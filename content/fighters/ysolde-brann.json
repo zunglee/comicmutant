@@ -1,0 +1,41 @@
+{
+  "slug": "ysolde-brann",
+  "name": "YSOLDE BRANN",
+  "alias": "FOLD",
+  "kind": "hero",
+  "archetype": "reality-manipulator",
+  "bio": "A Loom intern who, on the night of the Convergence, folded the odds of a storm hitting Halvern down to nothing. The crease landed on her family's farm. She took the job so she could learn where the creases go.",
+  "catchphrase": "Unlikely is not the same as impossible. It is just further away.",
+  "rig": {
+    "build": "slim",
+    "head": "bare",
+    "cape": true,
+    "skin": "#fde3c8",
+    "suit": "#f08cff",
+    "trim": "#07090d",
+    "eye": "#3a0ca3",
+    "emblem": "diamond"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 4,
+    "defense": 3,
+    "special": 9
+  },
+  "special": {
+    "name": "Crease Shot",
+    "kind": "projectile"
+  },
+  "rivals": ["null-meridian", "lio-varga"],
+  "theme": {
+    "palette": {
+      "c1": "#f08cff",
+      "c2": "#07090d",
+      "c3": "#ffe27a"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Unlikely is just further away."
+  },
+  "heat": 63
+}

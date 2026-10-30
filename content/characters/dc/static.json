@@ -1,0 +1,162 @@
+{
+  "slug": "static",
+  "name": "Static",
+  "realName": "Virgil Ovid Hawkins",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A teen genius who is part superhero, part walking power grid. Virgil Hawkins, from Milestone Comics, gained electromagnetic powers in a gang fight gone wrong and became Static.",
+  "origin": "Static is a nerdy, wisecracking teenager from Dakota who happens to be made of electricity, and he is the closest thing DC has to a young Peter Parker, in the best way. He came from Milestone Media, the company founded by Dwayne McDuffie, Denys Cowan, Michael Davis, Derek T. Dingle and Christopher Priest to put more diverse heroes on the stands. After a short preview in Icon #1 in 1993, he got his full debut in Static #1 by McDuffie, Robert L. Washington III and John Paul Leon. Virgil Hawkins was caught in the Big Bang, a gang war doused with experimental gas, and came out able to create and control electromagnetic energy. The Static Shock cartoon later made him a TV star.",
+  "creators": [
+    "Dwayne McDuffie",
+    "Denys Cowan",
+    "Michael Davis",
+    "Derek T. Dingle",
+    "Christopher Priest"
+  ],
+  "firstAppearance": {
+    "title": "Icon",
+    "issue": "1",
+    "year": 1993
+  },
+  "powers": [
+    "Generates and controls electricity",
+    "Bends magnetic fields",
+    "Electromagnetic force fields",
+    "Flies on metal discs, like a manhole cover",
+    "Senses electrical signals"
+  ],
+  "affiliations": [
+    "Justice League",
+    "S.T.A.R. Labs",
+    "Teen Titans",
+    "Young Justice",
+    "Heroes",
+    "Shadow Cabinet"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1993",
+      "title": "Milestone's teen hero",
+      "beat": "Virgil Hawkins, a teenager in the city of Dakota, gains electromagnetic powers when a gang war turns into the Big Bang, which mutates many of the people there. He is a flagship hero for the new Milestone Media."
+    },
+    {
+      "era": "Static Shock",
+      "years": "2000–2004",
+      "title": "TV star",
+      "beat": "The Static Shock animated series becomes a hit, introducing Virgil to millions of young viewers."
+    },
+    {
+      "era": "Joining DC",
+      "years": "2008–2009",
+      "title": "Merged universe",
+      "beat": "Milestone's heroes are folded into the main DC universe, and Static joins the Teen Titans."
+    },
+    {
+      "era": "Milestone Returns",
+      "years": "2021",
+      "title": "Season One",
+      "beat": "Milestone relaunches with Static: Season One, retelling his origin for a new era."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Static is a DC original.",
+      "spice": 1,
+      "truth": "He was created at Milestone Media, a Black-led company that published through DC before its heroes joined DC's universe."
+    },
+    {
+      "type": "fact",
+      "text": "His powers come from the Big Bang, a gang fight in Dakota where an experimental gas mutated people.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Co-creator Dwayne McDuffie later became a key writer and producer on Justice League Unlimited.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He can fly by riding metal objects, like a manhole cover, with magnetism.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which city does Static protect?",
+      "options": ["Gotham", "Dakota", "Metropolis", "Keystone"],
+      "answer": 1,
+      "why": "Dakota."
+    },
+    {
+      "q": "Which company created Static?",
+      "options": ["Valiant", "Image", "Milestone Media", "Dark Horse"],
+      "answer": 2,
+      "why": "Milestone Media."
+    },
+    {
+      "q": "What event gave Static his powers?",
+      "options": ["The Big Bang", "The Flashpoint", "The Crisis", "Invasion!"],
+      "answer": 0,
+      "why": "The Big Bang gang war."
+    }
+  ],
+  "rivals": [],
+  "allies": ["blue-beetle-jaime-reyes"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#f2c230",
+      "c3": "#7fdbff"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "High school nerd with a high-voltage side gig."
+  },
+  "timeline": [
+    {
+      "year": 1993,
+      "kind": "debut",
+      "title": "A preview in Icon",
+      "note": "Milestone's Icon #1 gives a short sneak peek at Dakota teen Virgil Hawkins ahead of his own book."
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Static #1",
+      "note": "His solo series launches as a gang-war gas exposure gives Virgil electromagnetic powers."
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Static Shock",
+      "note": "The Static Shock cartoon makes Virgil a kids' TV star while tackling real-world teen issues."
+    },
+    {
+      "year": 2009,
+      "kind": "comic",
+      "title": "Joins the Teen Titans",
+      "note": "Static enters the main DC universe and joins the Teen Titans."
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "New 52 relaunch",
+      "note": "Static Shock #1 relaunches Virgil with a new look as part of the New 52."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Milestone Returns",
+      "note": "Milestone relaunches with a new Static Shock series, reintroducing Virgil for a new generation."
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Static_(DC_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q4354752"
+  }
+}

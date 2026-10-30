@@ -1,0 +1,193 @@
+{
+  "slug": "batgirl",
+  "name": "Batgirl",
+  "realName": "Barbara Joan Gordon",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Created for TV, then reinvented twice and better each time. Barbara Gordon, the commissioner's daughter, has fought crime as Batgirl and run DC's best intel network as Oracle.",
+  "origin": "Barbara Gordon exists because a TV producer asked for her, and she outgrew the assignment fast. William Dozier, who made the 1960s Batman show, wanted a heroine who could launch in the comics and in the show's third season at the same moment, so Julius Schwartz had Gardner Fox write her and Carmine Infantino draw her, and she arrived in Detective Comics #359 in 1967. She was Commissioner Gordon's daughter, a librarian with martial arts skills and a photographic memory. When The Killing Joke left her paralysed in 1988, writers turned her into Oracle, the hacker feeding information to every hero in town, before returning her to the cowl in 2011. She is arguably DC's best reinvention.",
+  "creators": [
+    "Gardner Fox (writer)",
+    "Carmine Infantino (artist)",
+    "Julius Schwartz (editor)",
+    "William Dozier (producer)"
+  ],
+  "firstAppearance": {
+    "title": "Detective Comics",
+    "issue": "359",
+    "year": 1967
+  },
+  "powers": [
+    "Brilliant mind with a photographic memory",
+    "Elite hacker and computer expert",
+    "Skilled martial artist",
+    "High-tech gear and weapons",
+    "Sharp detective",
+    "Unbreakable willpower"
+  ],
+  "affiliations": [
+    "Justice League",
+    "Birds of Prey",
+    "Batman Family",
+    "Suicide Squad",
+    "Batman Incorporated"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1967",
+      "title": "The commissioner's daughter",
+      "beat": "Barbara Gordon, a librarian and daughter of Commissioner Gordon, debuts as Batgirl in Detective Comics #359. She was developed alongside the third season of the Batman TV show."
+    },
+    {
+      "era": "The Killing Joke",
+      "years": "1988",
+      "title": "Shot by the Joker",
+      "beat": "In Alan Moore and Brian Bolland's The Killing Joke, the Joker shoots Barbara and leaves her paralysed."
+    },
+    {
+      "era": "Oracle",
+      "years": "1989",
+      "title": "Information broker",
+      "beat": "Writers John Ostrander and Kim Yale turn Barbara into Oracle, a hacker and intelligence expert who helps heroes behind the scenes."
+    },
+    {
+      "era": "Birds of Prey",
+      "years": "1996",
+      "title": "Running a team",
+      "beat": "Oracle partners with Black Canary, forming the Birds of Prey, a long-running team book."
+    },
+    {
+      "era": "New 52",
+      "years": "2011",
+      "title": "Batgirl again",
+      "beat": "DC's relaunch has Barbara regain her ability to walk and return as Batgirl, with Gail Simone writing her."
+    },
+    {
+      "era": "Burnside",
+      "years": "2014",
+      "title": "Fresh start",
+      "beat": "A new creative team moves Barbara to the hip Gotham neighbourhood of Burnside, with a new costume and a lighter tone."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Barbara Gordon was the first Batgirl.",
+      "spice": 1,
+      "truth": "Betty Kane debuted as Bat-Girl in 1961, six years before Barbara."
+    },
+    {
+      "type": "fact",
+      "text": "Yvonne Craig played Batgirl in the third and final season of the 1960s Batman TV series.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Alan Moore has said he checked with DC editor Len Wein before having the Joker shoot Barbara, and Wein approved it.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Cassandra Cain and Stephanie Brown have also been Batgirl.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "A Batgirl movie was fully shot in 2022, then shelved by Warner Bros. Discovery and never released.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Barbara Gordon's father?",
+      "options": ["Commissioner Jim Gordon", "Bruce Wayne", "Alfred Pennyworth", "Harvey Bullock"],
+      "answer": 0,
+      "why": "Commissioner James Gordon."
+    },
+    {
+      "q": "What name did Barbara use as a hacker and information broker?",
+      "options": ["Spoiler", "Oracle", "Proxy", "Overwatch"],
+      "answer": 1,
+      "why": "She became Oracle in 1989."
+    },
+    {
+      "q": "In which story was Barbara shot by the Joker?",
+      "options": ["Batman: Year One", "Hush", "A Death in the Family", "The Killing Joke"],
+      "answer": 3,
+      "why": "The Killing Joke (1988)."
+    }
+  ],
+  "rivals": ["joker"],
+  "allies": ["batman", "nightwing", "black-canary", "supergirl"],
+  "theme": {
+    "palette": {
+      "c1": "#5b2a86",
+      "c2": "#f2c230",
+      "c3": "#1a1a1a"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Library card in one hand, batarang in the other."
+  },
+  "timeline": [
+    {
+      "year": 1967,
+      "kind": "debut",
+      "title": "The commissioner's daughter",
+      "note": "Detective Comics #359 introduces Barbara Gordon, a librarian by day and Batgirl by night."
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Yvonne Craig rides in",
+      "note": "Yvonne Craig joins the third season of the Batman TV show as Batgirl, purple motorcycle included."
+    },
+    {
+      "year": 1988,
+      "kind": "turn",
+      "title": "The Killing Joke",
+      "note": "The Joker shoots Barbara and leaves her paralysed in Alan Moore's notorious one-shot.",
+      "with": "joker"
+    },
+    {
+      "year": 1989,
+      "kind": "turn",
+      "title": "Becoming Oracle",
+      "note": "Suicide Squad #23 introduces Oracle, with Barbara reborn as the hacker and info broker of the DCU."
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Birds of Prey",
+      "note": "Oracle recruits Black Canary as her agent in the field, and the Birds of Prey are born.",
+      "with": "black-canary"
+    },
+    {
+      "year": 2011,
+      "kind": "return",
+      "title": "Back in the cowl",
+      "note": "The New 52 restores Barbara's ability to walk, and she returns to the Batgirl costume."
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "Batgirl of Burnside",
+      "note": "A fresh look and a move to a hip Gotham neighbourhood inspire a wave of younger, lighter hero books."
+    }
+  ],
+  "heat": 65,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Barbara_Gordon",
+    "wikidata": "https://www.wikidata.org/wiki/Q194705"
+  },
+  "photo": {
+    "file": "batgirl.webp",
+    "alt": "Barbara Gordon photograph",
+    "artist": "ABC Television",
+    "license": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Yvonne_Craig_Batgirl.JPG"
+  }
+}

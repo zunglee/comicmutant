@@ -1,0 +1,45 @@
+{
+  "slug": "utility-belt",
+  "name": "Utility Belt",
+  "owner": "batman",
+  "firstSeen": {
+    "title": "Detective Comics #29",
+    "year": 1939
+  },
+  "summary": "The yellow belt that lets Batman pull out exactly the right gadget at exactly the wrong moment for his enemies. Its capsules became pouches, and its rope became a grapple gun.",
+  "blueprint": "belt",
+  "parts": [
+    {
+      "label": "Buckle",
+      "fact": "Most versions hide a miniature camera and a tape recorder behind the bat-emblem buckle, turning the belt into a portable evidence kit."
+    },
+    {
+      "label": "Gas capsules",
+      "fact": "In its first appearance, Detective Comics #29 (1939), the belt carried capsules of choking gas. Comics historian Les Daniels credits the idea to writer Gardner Fox."
+    },
+    {
+      "label": "Rebreather",
+      "fact": "A compact rebreather rides in one pouch and holds about two and a half minutes of air, enough for an underwater escape or a gas-filled room."
+    },
+    {
+      "label": "Anti-tamper",
+      "fact": "Snatching the belt is a bad idea: in the comics it can shock whoever grabs it or puff stun gas in their face. In Batman: Year One a stray thermite charge burns it up."
+    },
+    {
+      "label": "Grapple line",
+      "fact": "On film, Tim Burton's Batman (1989) debuted a handheld grapple gun; the comics adopted one in Batman #458 (1991), drawn by Norm Breyfogle."
+    }
+  ],
+  "trivia": [
+    "The batarang showed up just two issues after the belt, in Detective Comics #31 (1939).",
+    "For decades artists drew simple capsules on the belt; Frank Miller's The Dark Knight Returns (1986) switched to military-style pouches, which became standard by 2000.",
+    "Famous mix-up: in the 1966 Batman film the shark-repellent spray is not on the belt at all; Robin passes it down from the Batcopter.",
+    "Batman Returns (1992) added a tiny motor that slides gadgets from the back of the belt to the front."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Batman%27s_utility_belt",
+    "https://www.todayifoundout.com/?p=51710",
+    "https://screenrant.com/batman-utility-belt-1966-show-gadget-list/",
+    "https://tor.com/2016/02/19/holy-rewatch-batman-batman-1966-film"
+  ]
+}

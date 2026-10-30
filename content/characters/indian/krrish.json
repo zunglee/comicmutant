@@ -1,0 +1,178 @@
+{
+  "slug": "krrish",
+  "name": "Krrish",
+  "realName": "Krishna Mehra",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Filmkraft Productions",
+  "summary": "Bollywood's masked speedster: Krishna Mehra, born with the powers an alien gave his father Rohit. Played by Hrithik Roshan in Krrish (2006) and Krrish 3 (2013).",
+  "origin": "In Koi... Mil Gaya (2003), the stranded alien Jadoo gave Rohit Mehra a brilliant mind and peak physical abilities. Rohit's son Krishna is born with those gifts, and his grandmother Sonia raises him in a remote hill village, making him promise to keep them secret. Krishna follows Priya to Singapore. When a circus tent catches fire, he hides his face behind a black mask and an inside-out jacket to save the trapped children, and the press calls the masked rescuer Krrish. He then learns his father is alive, held prisoner by Dr. Siddhant Arya.",
+  "creators": ["Rakesh Roshan (director, producer, writer)"],
+  "firstAppearance": {
+    "title": "Krrish",
+    "year": 2006
+  },
+  "powers": [
+    "Superhuman strength, speed and agility",
+    "Huge leaps and long glides",
+    "Genius-level intelligence inherited from his father",
+    "Heightened senses and reflexes",
+    "Expert combatant",
+    "His blood gave his father the base for an antidote to Kaal's virus"
+  ],
+  "affiliations": ["Mehra family"],
+  "storyline": [
+    {
+      "era": "Prequel",
+      "years": "2003",
+      "title": "Koi... Mil Gaya",
+      "beat": "Rohit Mehra befriends the alien Jadoo, who unlocks his potential. This sets up the powers Krishna will inherit."
+    },
+    {
+      "era": "Krrish",
+      "years": "2006",
+      "title": "The masked rescuer",
+      "beat": "Grown up and hiding his gifts, Krishna follows Priya to Singapore and invents the Krrish disguise to save children from a burning circus."
+    },
+    {
+      "era": "Krrish",
+      "years": "2006",
+      "title": "Saving his father",
+      "beat": "Krishna tracks Dr. Siddhant Arya to his island, rescues the captive Rohit and fatally wounds Arya."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "Kaal's virus",
+      "beat": "Now married to Priya, Krishna faces the telekinetic geneticist Kaal, whose virus spreads through Mumbai. Rohit builds an antidote from Krishna's blood."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "Brothers in blood",
+      "beat": "Kaal turns out to be Rohit's son too. Kaal seems to kill Krrish, but Rohit gives his life to revive him with a solar device, and Krrish destroys Kaal."
+    },
+    {
+      "era": "Spin-offs",
+      "years": "2013–2015",
+      "title": "Kid Krrish",
+      "beat": "Cartoon Network India airs four Kid Krrish animated films, starting in 2013."
+    },
+    {
+      "era": "Next",
+      "years": "2025",
+      "title": "Krrish 4",
+      "beat": "Rakesh Roshan announces that Hrithik Roshan will make his directing debut with Krrish 4."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Krrish was the first Indian film shot under Singapore's Film-in-Singapore subsidy scheme, and over 60% of it was filmed there.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Rakesh Roshan hired Hollywood effects experts Marc Kolbe and Craig Mumma (Independence Day) and Hong Kong action director Tony Ching.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Krrish 3 is only the second Krrish film. The title counts Koi... Mil Gaya as part one.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Krrish 3 came out in 3D.",
+      "truth": "It was planned as a 3D film but released only in 2D because there wasn't enough time to convert it.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Hrithik Roshan plays both Krishna and his father Rohit across the films.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Krrish won three Filmfare Awards, including Best Special Effects.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Krrish's father Rohit his powers?",
+      "options": ["Dr. Siddhant Arya", "Jadoo, an alien", "A lightning strike", "Kaal"],
+      "answer": 1,
+      "why": "In Koi... Mil Gaya, the alien Jadoo unlocks Rohit's abilities, which Krishna later inherits."
+    },
+    {
+      "q": "Where was most of Krrish (2006) filmed?",
+      "options": ["London", "Dubai", "Singapore", "New Zealand"],
+      "answer": 2,
+      "why": "Over 60% of the film was shot in Singapore."
+    },
+    {
+      "q": "What was Krrish's very first disguise?",
+      "options": [
+        "A red cape",
+        "A cricket helmet",
+        "Face paint",
+        "A black mask and an inside-out jacket"
+      ],
+      "answer": 3,
+      "why": "He threw it together on the spot to save children at a burning circus."
+    }
+  ],
+  "rivals": ["kaal", "siddhant-arya"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#111111",
+      "c2": "#9aa0a6",
+      "c3": "#d4a017"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Mask on, jacket inside out, city saved before chai."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Krrish",
+    "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+    "krrish3": "https://en.wikipedia.org/wiki/Krrish_3"
+  },
+  "timeline": [
+    {
+      "year": 2006,
+      "kind": "debut",
+      "title": "Krrish hits cinemas",
+      "note": "Hrithik Roshan's masked hero opens on 23 June 2006, carrying the powers handed down from his father's alien friend."
+    },
+    {
+      "year": 2013,
+      "kind": "screen",
+      "title": "Krrish 3",
+      "note": "The Diwali sequel sets him against Kaal and earns close to ₹400 crore worldwide.",
+      "with": "kaal"
+    },
+    {
+      "year": 2013,
+      "kind": "screen",
+      "title": "Kid Krrish",
+      "note": "Cartoon Network India airs a kid-sized animated Krrish, the first of four TV films through 2015."
+    },
+    {
+      "year": 2016,
+      "kind": "turn",
+      "title": "Krrish 4 announced",
+      "note": "Rakesh Roshan confirms a fourth film. Its first release target later slides because of the pandemic."
+    },
+    {
+      "year": 2025,
+      "kind": "turn",
+      "title": "Hrithik takes the director's chair",
+      "note": "Rakesh Roshan hands directing duties to his son, with Yash Raj Films producing Krrish 4."
+    }
+  ],
+  "heat": 75
+}

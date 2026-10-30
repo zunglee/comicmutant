@@ -1,0 +1,201 @@
+{
+  "slug": "batman",
+  "name": "Batman",
+  "realName": "Bruce Wayne",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A billionaire who turned grief into the world's greatest detective career. Bruce Wayne patrols Gotham City as Batman, with no powers beyond training, gadgets and sheer stubbornness.",
+  "origin": "Batman is the ultimate proof that being stubborn can count as a superpower. Bill Finger and Bob Kane introduced him in Detective Comics #27 in 1939, and later that year readers learned why: as a boy, Bruce Wayne watched a mugger shoot his parents, Thomas and Martha, on a Gotham street. Instead of moving on, he poured his fortune and his youth into turning himself into a weapon, training his body, his fighting skills and his detective mind to their limits. Then he dressed as a bat to frighten the criminals he hunts. In most eras he refuses to kill or carry a gun, which makes his war on crime harder and far more interesting. It is still the most famous origin in comics.",
+  "creators": ["Bob Kane", "Bill Finger"],
+  "firstAppearance": {
+    "title": "Detective Comics",
+    "issue": "27",
+    "year": 1939
+  },
+  "powers": [
+    "Brilliant detective mind",
+    "World-class martial artist",
+    "Expert strategist and team leader",
+    "Arsenal of gadgets and vehicles"
+  ],
+  "affiliations": ["Justice League", "Bat-Family", "Outsiders", "Wayne Enterprises"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1939",
+      "title": "The Bat-Man",
+      "beat": "Batman first appears in Detective Comics #27. Months later his origin is revealed: young Bruce Wayne watched his parents murdered and vowed to wage war on crime."
+    },
+    {
+      "era": "Robin and rogues",
+      "years": "1940",
+      "title": "Building the world",
+      "beat": "Robin, Dick Grayson, joins in 1940, and Batman #1 introduces the Joker and Catwoman."
+    },
+    {
+      "era": "Back to the dark",
+      "years": "1970s",
+      "title": "O'Neil and Adams",
+      "beat": "After the campy 1960s TV era, Denny O'Neil and Neal Adams take Batman back to his roots as a dark detective and introduce Ra's al Ghul."
+    },
+    {
+      "era": "Dark Knight",
+      "years": "1986–1987",
+      "title": "Miller's reinvention",
+      "beat": "Frank Miller's The Dark Knight Returns and Batman: Year One set the gritty modern tone for the character."
+    },
+    {
+      "era": "A Death in the Family",
+      "years": "1988",
+      "title": "Readers decide",
+      "beat": "DC lets fans vote by phone on whether the second Robin, Jason Todd, should survive. They choose death, and the Joker kills him."
+    },
+    {
+      "era": "Knightfall",
+      "years": "1993",
+      "title": "Broken",
+      "beat": "The villain Bane breaks Batman's back, and a replacement takes the cowl while Bruce recovers."
+    },
+    {
+      "era": "Court of Owls",
+      "years": "2011",
+      "title": "Gotham's secret",
+      "beat": "Scott Snyder and Greg Capullo reveal a centuries-old secret society that has secretly controlled Gotham."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Bob Kane created Batman alone.",
+      "spice": 2,
+      "truth": "Bill Finger co-created him and wrote many early stories. DC officially credited Finger as co-creator in 2015."
+    },
+    {
+      "type": "gossip",
+      "text": "Kane's first sketch had red tights and stiff bat wings. Finger suggested the cowl, the cape and the grey-and-black colours.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The phone vote to kill Jason Todd was decided by fewer than 100 votes.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "In his earliest stories Batman sometimes carried a gun.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Dick Grayson, the first Robin, debuted in Detective Comics #38 (1940).",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was the first Robin?",
+      "options": ["Jason Todd", "Dick Grayson", "Tim Drake", "Damian Wayne"],
+      "answer": 1,
+      "why": "Dick Grayson debuted in 1940."
+    },
+    {
+      "q": "Which villain broke Batman's back in Knightfall?",
+      "options": ["Bane", "Joker", "Killer Croc", "Ra's al Ghul"],
+      "answer": 0,
+      "why": "Bane did it in 1993."
+    },
+    {
+      "q": "Who received official co-creator credit for Batman in 2015?",
+      "options": ["Jerry Robinson", "Dick Sprang", "Bill Finger", "Gardner Fox"],
+      "answer": 2,
+      "why": "DC added Bill Finger's credit in 2015."
+    },
+    {
+      "q": "In which comic did Batman debut?",
+      "options": ["Action Comics #1", "Batman #1", "World's Finest #1", "Detective Comics #27"],
+      "answer": 3,
+      "why": "Detective Comics #27 (1939)."
+    }
+  ],
+  "rivals": ["joker", "ras-al-ghul", "harley-quinn"],
+  "allies": ["nightwing", "batgirl", "superman", "wonder-woman", "zatanna", "green-arrow"],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#4a4f5a",
+      "c3": "#f2c230"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "No powers, all the gadgets, zero sleep."
+  },
+  "timeline": [
+    {
+      "year": 1939,
+      "kind": "debut",
+      "title": "The Bat-Man arrives",
+      "note": "Detective Comics #27 introduces a grim, cowled vigilante who hunts crooks from the shadows of Gotham."
+    },
+    {
+      "year": 1940,
+      "kind": "comic",
+      "title": "Enter the Boy Wonder",
+      "note": "Detective Comics #38 gives Batman a partner, circus orphan Dick Grayson, and the kid sidekick becomes a staple.",
+      "with": "nightwing"
+    },
+    {
+      "year": 1940,
+      "kind": "comic",
+      "title": "First grin",
+      "note": "Batman #1 introduces the Joker, a chalk-faced killer who will be his dark mirror for decades.",
+      "with": "joker"
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "Batmania hits TV",
+      "note": "Adam West's bright, campy TV series becomes a pop phenomenon and makes the Caped Crusader a household name."
+    },
+    {
+      "year": 1986,
+      "kind": "turn",
+      "title": "The Dark Knight Returns",
+      "note": "Frank Miller drags a fifty-something Bruce back into the cape, and superhero comics suddenly grow up."
+    },
+    {
+      "year": 1988,
+      "kind": "turn",
+      "title": "A Death in the Family",
+      "note": "Fans vote by phone, and the Joker murders second Robin Jason Todd. Bruce carries that guilt for years.",
+      "with": "joker"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "Burton goes gothic",
+      "note": "Tim Burton casts Michael Keaton in a moody blockbuster that turns the Bat-symbol into the summer's hottest logo."
+    },
+    {
+      "year": 2005,
+      "kind": "legacy",
+      "title": "Batman Begins",
+      "note": "Christopher Nolan reboots the films with Christian Bale, pitting a young Bruce against his mentor Ra's al Ghul.",
+      "with": "ras-al-ghul"
+    }
+  ],
+  "heat": 95,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Batman",
+    "wikidata": "https://www.wikidata.org/wiki/Q2695156"
+  },
+  "photo": {
+    "file": "batman.webp",
+    "alt": "Batman photograph",
+    "artist": "William Tung",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2024_Masquerade_-_Cosplay_of_Batman_3.jpg"
+  }
+}

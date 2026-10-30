@@ -1,0 +1,41 @@
+{
+  "slug": "ossian-krell",
+  "name": "OSSIAN KRELL",
+  "alias": "ARCWRIGHT",
+  "kind": "villain",
+  "archetype": "armored-technologist",
+  "bio": "A structural engineer who spent a year after the line discovering he could compress arclight into steel. He built the Observatory ring in a week and founded Loom. The Seam belongs to whoever understands it. Permission is for people who have stopped.",
+  "catchphrase": "Knowledge before permission.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#b98a6a",
+    "suit": "#2a2d35",
+    "trim": "#ffb13b",
+    "eye": "#4de3ff",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 7,
+    "speed": 3,
+    "defense": 7,
+    "special": 9
+  },
+  "special": {
+    "name": "Arclight Cannon",
+    "kind": "beam"
+  },
+  "rivals": ["tessaly-marr", "orrin-halvane"],
+  "theme": {
+    "palette": {
+      "c1": "#ffb13b",
+      "c2": "#07090d",
+      "c3": "#4de3ff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Knowledge first. Permission never."
+  },
+  "heat": 78
+}

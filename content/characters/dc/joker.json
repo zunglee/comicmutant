@@ -1,0 +1,181 @@
+{
+  "slug": "joker",
+  "name": "Joker",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The villain who was meant to die in his first story and never left. The Joker, Batman's grinning archenemy, has no powers and no fixed past, just poison, props and pure chaos.",
+  "origin": "The Joker should have died in his first story, and comics would look very different if he had. He debuted in Batman #1 in April 1940 and was set to be killed off until editor Whitney Ellsworth stepped in and spared him. Who created him is still argued over: Bob Kane and Jerry Robinson both claimed the design, while Bill Finger's scripts and his suggestion of Conrad Veidt's grinning face in The Man Who Laughs shaped the rest. He has no powers, just a chemist's skill with poisons, deadly gag props and a mind nobody can predict. The comics keep his past deliberately murky, and that mystery is a big part of why he still terrifies.",
+  "creators": ["Bill Finger", "Bob Kane", "Jerry Robinson"],
+  "firstAppearance": {
+    "title": "Batman",
+    "issue": "1",
+    "year": 1940
+  },
+  "powers": [
+    "Unpredictable criminal genius",
+    "Skilled chemist and poisoner",
+    "Lethal joke props and Joker toxin"
+  ],
+  "affiliations": ["Injustice League", "Legion of Doom", "Injustice Gang"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1940",
+      "title": "A killer clown",
+      "beat": "The Joker debuts in Batman #1 as a murderous criminal. He was originally slated to be killed off, but an editor spared him."
+    },
+    {
+      "era": "Comics Code era",
+      "years": "1950s–1960s",
+      "title": "Harmless prankster",
+      "beat": "Under strict content rules, the Joker becomes a goofy trickster. A 1951 story offers an origin as the Red Hood, who fell into chemicals."
+    },
+    {
+      "era": "Return to menace",
+      "years": "1973",
+      "title": "Five-way revenge",
+      "beat": "Denny O'Neil and Neal Adams bring back the homicidal Joker, setting the tone for the modern character."
+    },
+    {
+      "era": "The Killing Joke",
+      "years": "1988",
+      "title": "One bad day",
+      "beat": "Alan Moore and Brian Bolland offer a possible origin as a failed comedian and show the Joker shooting Barbara Gordon to torture her father."
+    },
+    {
+      "era": "A Death in the Family",
+      "years": "1988",
+      "title": "Killing Robin",
+      "beat": "After a reader phone vote, the Joker beats the second Robin, Jason Todd, and leaves him to die in an explosion."
+    },
+    {
+      "era": "Death of the Family",
+      "years": "2012–2013",
+      "title": "Back with a vengeance",
+      "beat": "Scott Snyder and Greg Capullo have the Joker return with his own face strapped on, attacking Batman's closest allies."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "The Joker's real name is Jack Napier.",
+      "spice": 2,
+      "truth": "That name comes from the 1989 Tim Burton film. The comics have never given him a definitive real name."
+    },
+    {
+      "type": "gossip",
+      "text": "His grin was inspired by Conrad Veidt's look in the 1928 silent film The Man Who Laughs.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Heath Ledger and Joaquin Phoenix both won Academy Awards for playing the Joker.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The comics deliberately keep his origin unclear, and The Killing Joke suggests even he doesn't remember it the same way twice.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who won a posthumous Oscar for playing the Joker?",
+      "options": ["Jack Nicholson", "Heath Ledger", "Jared Leto", "Mark Hamill"],
+      "answer": 1,
+      "why": "Heath Ledger, for The Dark Knight."
+    },
+    {
+      "q": "Which criminal identity appears in the Joker's 1951 origin?",
+      "options": ["The Riddler", "Mister Toad", "The Red Hood", "Clayface"],
+      "answer": 2,
+      "why": "The Red Hood."
+    },
+    {
+      "q": "Which 1928 film inspired the Joker's look?",
+      "options": ["The Man Who Laughs", "Metropolis", "Nosferatu", "The Cabinet of Dr. Caligari"],
+      "answer": 0,
+      "why": "Conrad Veidt in The Man Who Laughs."
+    }
+  ],
+  "rivals": ["batman", "batgirl", "nightwing"],
+  "allies": ["harley-quinn"],
+  "theme": {
+    "palette": {
+      "c1": "#5b2a86",
+      "c2": "#3c8d2f",
+      "c3": "#f2f2f2"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Every punchline is a trap."
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "kind": "debut",
+      "title": "A grin in Gotham",
+      "note": "Batman #1 introduces a chalk-faced killer who warns his victims before he strikes.",
+      "with": "batman"
+    },
+    {
+      "year": 1951,
+      "kind": "comic",
+      "title": "The Red Hood",
+      "note": "Detective Comics #168 reveals the Joker was once the Red Hood, transformed by a dive into a chemical vat."
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "Cesar Romero cackles",
+      "note": "Cesar Romero plays a prankish, cackling Joker on the Batman TV series, moustache painted over."
+    },
+    {
+      "year": 1973,
+      "kind": "turn",
+      "title": "Back to murder",
+      "note": "Batman #251's Five-Way Revenge returns the Joker to his homicidal roots after years as a prankster."
+    },
+    {
+      "year": 1988,
+      "kind": "turn",
+      "title": "The Killing Joke",
+      "note": "Alan Moore's one-shot gives him a tragic maybe-origin and has him cripple Barbara Gordon.",
+      "with": "batgirl"
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "Enter Harley",
+      "note": "Batman: The Animated Series gives Mark Hamill's Joker a devoted sidekick, Harley Quinn.",
+      "with": "harley-quinn"
+    },
+    {
+      "year": 2008,
+      "kind": "screen",
+      "title": "Ledger's anarchist",
+      "note": "Heath Ledger's chaos-agent Joker in The Dark Knight wins him a posthumous Oscar."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "Joker goes solo",
+      "note": "Joaquin Phoenix's standalone Joker film becomes a cultural lightning rod and wins him an Oscar."
+    }
+  ],
+  "heat": 92,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Joker_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q217533"
+  },
+  "photo": {
+    "file": "joker.webp",
+    "alt": "Joker photograph",
+    "artist": "MultiVersus",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Joker_DC_MultiVersus.png"
+  }
+}

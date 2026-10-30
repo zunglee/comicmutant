@@ -1,0 +1,169 @@
+{
+  "slug": "all-might",
+  "name": "All Might",
+  "realName": "Toshinori Yagi",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "My Hero Academia's Symbol of Peace: Toshinori Yagi, the world's greatest hero and eighth holder of One For All, who passes the power to the Quirkless boy Izuku Midoriya.",
+  "origin": "Toshinori Yagi was born without a Quirk, just like Izuku would be. He became the eighth holder of One For All, a power handed down from one person to the next, and rose to become the world's top hero and its ever-smiling Symbol of Peace. His smile came from his mentor Nana Shimura, who taught him that people who smile are the strongest. A crippling injury from his first fight with the villain All For One finally leads him to pick Izuku as his successor. He joins U.A. High as a teacher, where he's enthusiastic but inexperienced and needs a script for his first lesson.",
+  "creators": ["Kohei Horikoshi"],
+  "firstAppearance": {
+    "title": "My Hero Academia",
+    "issue": "Chapter 1",
+    "year": 2014
+  },
+  "powers": [
+    "One For All: immense strength, speed and durability",
+    "Can pass One For All to a chosen successor",
+    "Veteran combatant with decades of hero work",
+    "Inspiring presence as the Symbol of Peace"
+  ],
+  "affiliations": ["U.A. High School", "Pro Heroes"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "2014",
+      "title": "Meeting Izuku",
+      "beat": "The world's greatest hero crosses paths with a Quirkless boy who still dreams of being a hero."
+    },
+    {
+      "era": "Successor",
+      "years": "2014",
+      "title": "Passing the torch",
+      "beat": "Impressed by Izuku's courage, All Might chooses him to inherit One For All."
+    },
+    {
+      "era": "Teacher",
+      "years": "2014–2015",
+      "title": "U.A. faculty",
+      "beat": "He teaches at U.A. High, earnest but clumsy in the classroom, and surprisingly ruthless as an exam opponent."
+    },
+    {
+      "era": "Rematch",
+      "years": "2016",
+      "title": "All For One",
+      "beat": "He beats All For One again, but the fight uses up the last of his One For All for good."
+    },
+    {
+      "era": "Mentor",
+      "years": "2016–2024",
+      "title": "Raising the next hero",
+      "beat": "Retired from hero work, he puts everything into training Izuku to become the next Symbol of Peace."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Horikoshi has called All Might a callback to classic Superman.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Horikoshi said front-on drawings of All Might were exhausting because of all the heavy shading.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "All Might was born with his superpower.",
+      "truth": "He was born Quirkless. His power is One For All, passed down to him by his predecessor.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His old wound cost him his stomach and part of his respiratory system, which is why he keeps coughing up blood.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He's voiced by Kenta Miyake in Japanese and Christopher Sabat in English.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He addresses his students as 'Young' plus their surname, such as Young Midoriya.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is All Might's real name?",
+      "options": ["Enji Todoroki", "Toshinori Yagi", "Shota Aizawa", "Nana Shimura"],
+      "answer": 1,
+      "why": "All Might is Toshinori Yagi."
+    },
+    {
+      "q": "What is the name of the power All Might passes to Izuku?",
+      "options": ["All For One", "Full Cowl", "Plus Ultra", "One For All"],
+      "answer": 3,
+      "why": "One For All is handed from holder to holder. All For One belongs to his archenemy."
+    },
+    {
+      "q": "Which classic hero was the main model for All Might?",
+      "options": ["Superman", "Batman", "Spider-Man", "Thor"],
+      "answer": 0,
+      "why": "Horikoshi has described All Might as a callback to classic Superman."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1e4fd8",
+      "c2": "#d62828",
+      "c3": "#ffd60a"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Smiles first, punches second, never leaves anyone behind."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+  },
+  "timeline": [
+    {
+      "year": 2014,
+      "kind": "debut",
+      "title": "My Hero Academia begins",
+      "note": "All Might appears in chapter 1 when the series starts in Weekly Shōnen Jump in July 2014."
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Bones’ anime",
+      "note": "The TV anime premieres in April 2016, with Kenta Miyake voicing All Might in Japanese."
+    },
+    {
+      "year": 2016,
+      "kind": "turn",
+      "title": "The last of One For All",
+      "note": "His final clash with All For One at Kamino uses up his power for good and ends his hero career."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Two Heroes",
+      "note": "The first feature film sends All Might and Izuku to a floating research island for a rare team-up."
+    },
+    {
+      "year": 2023,
+      "kind": "comic",
+      "title": "Armored All Might",
+      "note": "Quirkless but stubborn, he suits up in a mechanical suit to stall All For One in the final war."
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "The manga ends",
+      "note": "My Hero Academia closes in August 2024 after ten years of weekly chapters."
+    },
+    {
+      "year": 2025,
+      "kind": "screen",
+      "title": "The final season",
+      "note": "The eighth and last anime season airs from October to December 2025."
+    }
+  ],
+  "heat": 72
+}

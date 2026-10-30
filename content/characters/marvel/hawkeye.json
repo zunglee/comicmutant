@@ -1,0 +1,198 @@
+{
+  "slug": "hawkeye",
+  "name": "Hawkeye",
+  "realName": "Clinton Francis Barton",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A carnival archer who keeps up with gods using a bow and pure nerve. Clint Barton went from Iron Man villain to Avenger in a year and has been the team's wisecracking everyman ever since.",
+  "origin": "Hawkeye is proof that you can stand next to a thunder god armed with nothing but a bow and a bad attitude. Clint Barton first turned up in Tales of Suspense #57 in 1964, a carnival trick-shot artist who got mistaken for a crook and drifted into villainy beside the Black Widow, butting heads with Iron Man. A year later he reformed and joined the Avengers in issue #16, and he has rarely left the team since. He is a peerless archer, a strong acrobat and fighter, and smarter about tactics than he lets on. The 2012 run by Matt Fraction and David Aja, which followed Clint on his days off, is one of the best comics of its decade.",
+  "creators": ["Stan Lee (writer)", "Don Heck (artist)"],
+  "firstAppearance": {
+    "title": "Tales of Suspense",
+    "issue": "57",
+    "year": 1964
+  },
+  "powers": [
+    "Near-perfect aim with bows and thrown weapons",
+    "Trained acrobat and hand-to-hand fighter",
+    "Sharp tactician",
+    "Quiver of trick arrows and a high-tech bow"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Avengers Academy",
+    "Defenders",
+    "Great Lakes Avengers",
+    "Secret Avengers",
+    "S.H.I.E.L.D.",
+    "West Coast Avengers",
+    "Wild Pack"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "Carnival archer",
+      "beat": "Clint Barton, a carnival trick-shot artist, tries to be a hero after seeing Iron Man in action. He is mistaken for a thief, falls for the Black Widow and fights Iron Man."
+    },
+    {
+      "era": "Avenger",
+      "years": "1965",
+      "title": "Cap's Kooky Quartet",
+      "beat": "Clint goes straight and joins the Avengers in issue #16 alongside Captain America, Quicksilver and the Scarlet Witch."
+    },
+    {
+      "era": "Goliath",
+      "years": "1969",
+      "title": "Growing up",
+      "beat": "For a while Clint gives up the bow and uses size-changing particles as the giant hero Goliath."
+    },
+    {
+      "era": "Coast to coast",
+      "years": "1983–1984",
+      "title": "Married and in charge",
+      "beat": "A limited series sees Clint marry Mockingbird and lose much of his hearing, and he then leads the new West Coast Avengers."
+    },
+    {
+      "era": "Ronin",
+      "years": "2004–2007",
+      "title": "Death and return",
+      "beat": "Clint is killed during Avengers Disassembled, returns to life, and briefly takes the masked identity Ronin."
+    },
+    {
+      "era": "Fraction and Aja",
+      "years": "2012–2015",
+      "title": "Off duty",
+      "beat": "Matt Fraction and David Aja's acclaimed series follows Clint and Kate Bishop between Avengers missions, with famously inventive design."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Hawkeye was a founding Avenger.",
+      "spice": 1,
+      "truth": "The founders were Iron Man, Thor, the Hulk, Ant-Man and the Wasp. Clint joined in issue #16 in 1965."
+    },
+    {
+      "type": "fact",
+      "text": "Clint lost most of his hearing in his 1983 limited series, and later stories often show him wearing hearing aids.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "One Fraction and Aja issue is told almost entirely from the point of view of Clint's dog, and it won an Eisner Award.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Kate Bishop, who debuted in Young Avengers in 2005, shares the Hawkeye name with Clint.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Jeremy Renner played Clint in the MCU and co-starred with Hailee Steinfeld's Kate in the 2021 Hawkeye series.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the original Hawkeye's real name?",
+      "options": ["Oliver Queen", "Clint Barton", "Lester", "Roy Harper"],
+      "answer": 1,
+      "why": "Clint Barton is the original Hawkeye."
+    },
+    {
+      "q": "Where did Clint work before becoming a hero?",
+      "options": ["A travelling carnival", "The US Army", "S.H.I.E.L.D.", "The NYPD"],
+      "answer": 0,
+      "why": "He was a carnival trick-shot artist."
+    },
+    {
+      "q": "Which masked identity did Clint use after coming back from the dead?",
+      "options": ["Goliath", "Trickshot", "Ronin", "Swordsman"],
+      "answer": 2,
+      "why": "He took the name Ronin in New Avengers."
+    }
+  ],
+  "rivals": [],
+  "allies": ["black-widow", "captain-america", "scarlet-witch", "iron-man"],
+  "theme": {
+    "palette": {
+      "c1": "#5b2a86",
+      "c2": "#2b1640",
+      "c3": "#e6e6e6"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Never misses. Occasionally loses a hearing aid."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "A carnival archer gone wrong",
+      "note": "Tales of Suspense #57 introduces Clint as a showman mistaken for a crook, who then falls for the Black Widow.",
+      "with": "black-widow"
+    },
+    {
+      "year": 1965,
+      "kind": "comic",
+      "title": "Cap's Kooky Quartet",
+      "note": "Avengers #16 makes the reformed Clint an Avenger as founding members step away.",
+      "with": "captain-america"
+    },
+    {
+      "year": 1969,
+      "kind": "turn",
+      "title": "Trading the bow for size",
+      "note": "Avengers #63 has Clint briefly drop the bow and become Goliath with growth serum."
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "Leading the West Coast",
+      "note": "The West Coast Avengers limited series puts Clint in charge of a new branch out in California."
+    },
+    {
+      "year": 2004,
+      "kind": "death",
+      "title": "Gone in Disassembled",
+      "note": "Clint dies heroically during Avengers Disassembled, one of several losses caused by Wanda's breakdown.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "A cameo in Thor",
+      "note": "Jeremy Renner first appears as Clint in Thor, aiming an arrow at the god before joining the Avengers film.",
+      "with": "thor"
+    },
+    {
+      "year": 2012,
+      "kind": "comic",
+      "title": "Fraction and Aja's Hawkeye",
+      "note": "A stylish solo series follows Clint on his days off with Kate Bishop, and becomes an instant cult favorite."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Passing the bow to Kate",
+      "note": "The Hawkeye series on Disney+ pairs Renner's Clint with Hailee Steinfeld's Kate Bishop over one Christmas."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)",
+    "wikidata": "https://www.wikidata.org/wiki/Q19095"
+  },
+  "photo": {
+    "file": "hawkeye.webp",
+    "alt": "Hawkeye photograph",
+    "artist": "Kevin Dooley",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Phoenix_Comicon_2011_Hawkeye_from_the_Avengers.jpg"
+  }
+}

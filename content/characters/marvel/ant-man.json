@@ -1,0 +1,198 @@
+{
+  "slug": "ant-man",
+  "name": "Ant-Man",
+  "realName": "Scott Edward Harris Lang",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The only superhero whose career began with a burglary he could justify. Scott Lang, ex-con and electronics wizard, shrinks and grows with Pym particles and tries to be a good dad between Avengers emergencies.",
+  "origin": "Scott Lang has the best excuse for burglary in comics. An electronics whiz fresh out of prison, he broke into Hank Pym's home and walked off with the Ant-Man suit because his daughter Cassie was seriously ill and the one surgeon who could save her had been kidnapped. Pym, who had long since retired the name, understood why and let Scott keep the suit and the title. That was 1979: a quick cameo in The Avengers #181, then the full story in Marvel Premiere #47. Since then he has served with the Avengers, done a stint leading the Fantastic Four's stand-ins and even joined the Guardians of the Galaxy, and he is still the most likeable dad in the Marvel Universe.",
+  "creators": ["David Michelinie", "Bob Layton", "John Byrne"],
+  "firstAppearance": {
+    "title": "The Avengers",
+    "issue": "181",
+    "year": 1979
+  },
+  "powers": [
+    "Shrinks to insect size or smaller, even into the subatomic realm",
+    "Grows to giant size, up to about 100 feet",
+    "Keeps his full-size strength when tiny",
+    "Can shrink or enlarge other people and objects",
+    "Pym particle discs and a helmet with its own air supply",
+    "Gifted electronics engineer"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Defenders",
+    "Fantastic Four",
+    "Future Foundation",
+    "Guardians of the Galaxy",
+    "Heroes for Hire",
+    "Stark Industries",
+    "Mighty Avengers"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1979",
+      "title": "A thief with a good reason",
+      "beat": "Scott Lang, an electronics expert fresh out of prison, steals Hank Pym's Ant-Man suit to rescue a heart surgeon who can save his daughter Cassie. Pym sees why he did it and lets him keep both the suit and the name."
+    },
+    {
+      "era": "Supporting player",
+      "years": "1980s–1990s",
+      "title": "Contractor to the stars",
+      "beat": "Through the 1980s Scott works as an electronics specialist for Stark's company and helps out the Avengers, then spends a stint with the Fantastic Four in the 1990s before becoming a full Avenger."
+    },
+    {
+      "era": "Disassembled",
+      "years": "2004",
+      "title": "Killed in the chaos",
+      "beat": "During Avengers Disassembled, Scott dies when the Jack of Hearts explodes at Avengers Mansion, one of the casualties of the Scarlet Witch's breakdown."
+    },
+    {
+      "era": "Resurrection",
+      "years": "2010–2012",
+      "title": "Back from the dead",
+      "beat": "In Avengers: The Children's Crusade the Young Avengers travel through time and pull Scott back to the present alive, reuniting him with Cassie, who had become a hero herself."
+    },
+    {
+      "era": "Leading the FF",
+      "years": "2012–2014",
+      "title": "Substitute teacher",
+      "beat": "When the Fantastic Four leave Earth, Scott leads a stand-in team and looks after the Future Foundation's gifted kids, a run that leans into his warmth and humour."
+    },
+    {
+      "era": "Solo spotlight",
+      "years": "2015",
+      "title": "Ant-Man goes solo",
+      "beat": "Timed with the first Ant-Man film, a new solo series casts Scott as a struggling dad trying to start a security business and stay near his daughter."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Scott Lang was the original Ant-Man.",
+      "spice": 1,
+      "truth": "Hank Pym first used the Ant-Man name in 1962; Scott took it over in 1979."
+    },
+    {
+      "type": "fact",
+      "text": "Scott's very first appearance in The Avengers #181 is a quick cameo; his full origin arrived weeks later in Marvel Premiere #47.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Edgar Wright spent years developing the Ant-Man movie, then walked away in 2014 over creative differences. Peyton Reed took over and the film still landed in 2015.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "His daughter Cassie grew up to be a size-changing hero too, joining the Young Avengers as Stature.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Ant-Man was a founding Avenger in 1963, but that was Hank Pym. Scott only joined the team years later.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who used the Ant-Man name before Scott Lang?",
+      "options": ["Darren Cross", "Hank Pym", "Eric O'Grady", "Bill Foster"],
+      "answer": 1,
+      "why": "Hank Pym became Ant-Man in 1962, seventeen years before Scott."
+    },
+    {
+      "q": "Why did Scott steal the Ant-Man suit?",
+      "options": [
+        "To rescue a surgeon for his daughter",
+        "To rob a bank vault",
+        "To join the Avengers",
+        "To sell it to a rival"
+      ],
+      "answer": 0,
+      "why": "He needed a kidnapped heart surgeon to treat his daughter Cassie."
+    },
+    {
+      "q": "What is the name of Scott Lang's daughter?",
+      "options": ["Hope", "Nadia", "Cassie", "Janet"],
+      "answer": 2,
+      "why": "Cassie Lang later became the hero Stature."
+    }
+  ],
+  "rivals": [],
+  "allies": ["wasp", "iron-man", "mister-fantastic", "invisible-woman", "captain-america"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1a1a1a",
+      "c3": "#c0c0c8"
+    },
+    "motif": "size",
+    "mood": "dark",
+    "tagline": "Thinks small, hits big, apologises later."
+  },
+  "timeline": [
+    {
+      "year": 1979,
+      "kind": "debut",
+      "title": "A burglar walks into The Avengers",
+      "note": "Scott Lang shows up in The Avengers #181 as a guy with a record and a sick kid, before anyone knows where his story is headed."
+    },
+    {
+      "year": 1979,
+      "kind": "turn",
+      "title": "Stealing the shrinking suit",
+      "note": "Marvel Premiere #47 has Scott swipe the Ant-Man gear to rescue the one doctor who can save his daughter Cassie. The original owner lets him keep it."
+    },
+    {
+      "year": 2004,
+      "kind": "death",
+      "title": "Caught in Avengers Disassembled",
+      "note": "Avengers #500 kicks off a disaster that kills Scott on the mansion lawn, one of the first casualties of Wanda's breakdown.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 2011,
+      "kind": "return",
+      "title": "Pulled back by the Children's Crusade",
+      "note": "The Children's Crusade #5 brings Scott back from the dead through a time-travel rescue led by the Young Avengers.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 2013,
+      "kind": "comic",
+      "title": "Running the Future Foundation",
+      "note": "FF #1 hands Scott the job of minding the Fantastic Four's brainy kids while the family is off in space."
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Paul Rudd shrinks into the MCU",
+      "note": "Ant-Man puts Scott on the big screen as a lovable ex-con in a heist comedy that slots neatly into the wider Marvel film saga."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "The guy who cracked time travel",
+      "note": "In Avengers: Endgame, Scott escapes the Quantum Realm and pitches the time heist that sets up the whole final mission."
+    }
+  ],
+  "heat": 60,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)",
+    "wikidata": "https://www.wikidata.org/wiki/Q81787"
+  },
+  "photo": {
+    "file": "ant-man.webp",
+    "alt": "Ant-Man photograph",
+    "artist": "Abbas12121387",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Ant_man(Scott_Lang).jpg",
+    "objectPosition": "top"
+  }
+}

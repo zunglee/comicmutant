@@ -1,0 +1,140 @@
+{
+  "slug": "g-one",
+  "name": "G.One",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Red Chillies Entertainment",
+  "summary": "The hero of the Ra.One video game, pulled into the real world to protect his grieving creator's family. Shah Rukh Khan plays both the creator and his digital hero (2011).",
+  "origin": "Game designer Shekhar Subramaniam builds G.One as the hero of his game and gives him his own face. After the villain Ra.One escapes and kills Shekhar, his son Prateek and programmer Jenny bring G.One into the real world through Jenny's computer. G.One fights Ra.One, takes his H.A.R.T., and goes to Mumbai with Prateek and his mother Sonia, where he becomes the boy's protector and something like a stand-in father.",
+  "creators": ["Anubhav Sinha (director)", "Gauri Khan (producer)"],
+  "firstAppearance": {
+    "title": "Ra.One",
+    "year": 2011
+  },
+  "powers": [
+    "Superhuman strength and durability",
+    "High-speed combat",
+    "Powered by a H.A.R.T.",
+    "Can be guided by a player, like a game character",
+    "Absorbs a blast to shield others"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Design",
+      "years": "2011",
+      "title": "A hero with Dad's face",
+      "beat": "Shekhar builds G.One as the game's hero and models him on himself."
+    },
+    {
+      "era": "Crossing over",
+      "years": "2011",
+      "title": "Out of the screen",
+      "beat": "Prateek and Jenny bring G.One into reality, and he temporarily stops Ra.One in London."
+    },
+    {
+      "era": "Mumbai",
+      "years": "2011",
+      "title": "The train rescue",
+      "beat": "G.One saves Sonia from a runaway train that crashes into Chhatrapati Shivaji Terminus."
+    },
+    {
+      "era": "Final level",
+      "years": "2011",
+      "title": "Game on",
+      "beat": "With Prateek controlling his moves, G.One beats all three levels and destroys Ra.One, then sacrifices himself absorbing the blast."
+    },
+    {
+      "era": "Epilogue",
+      "years": "2011",
+      "title": "Respawn",
+      "beat": "Months later in London, Prateek repairs G.One's H.A.R.T. and brings him back."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Rajinikanth's robot Chitti makes a cameo, created as a computer-generated likeness because the actor wasn't available.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Shah Rukh Khan plays both the game designer Shekhar and his creation G.One.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "R&B star Akon sang on the songs Chammak Challo and Criminal.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "A. R. Rahman composed the background score for a single sequence of the film.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose face does G.One have?",
+      "options": ["Prateek's", "Akashi's", "His creator Shekhar's", "Ra.One's"],
+      "answer": 2,
+      "why": "Shekhar gave the game's hero his own face."
+    },
+    {
+      "q": "Who played G.One?",
+      "options": ["Shah Rukh Khan", "Hrithik Roshan", "Salman Khan", "Arjun Rampal"],
+      "answer": 0,
+      "why": "Shah Rukh Khan played both G.One and Shekhar."
+    }
+  ],
+  "rivals": ["ra-one"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1e88e5",
+      "c2": "#0d1b2a",
+      "c3": "#00e5ff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Respawned in Mumbai with a soft spot for one small gamer."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ra.One"
+  },
+  "timeline": [
+    {
+      "year": 2011,
+      "kind": "debut",
+      "title": "A hero with Dad's face",
+      "note": "Shah Rukh Khan plays the game's good guy, built by his own character in his own image."
+    },
+    {
+      "year": 2011,
+      "kind": "death",
+      "title": "Taking the blast",
+      "note": "G.One beats Ra.One in the final level, then absorbs the explosion to save everyone else.",
+      "with": "ra-one"
+    },
+    {
+      "year": 2011,
+      "kind": "return",
+      "title": "Respawn",
+      "note": "Months later Prateek repairs G.One's H.A.R.T. and brings him back online."
+    },
+    {
+      "year": 2012,
+      "kind": "legacy",
+      "title": "National Award for VFX",
+      "note": "Ra.One's effects team takes Best Special Effects at the 59th National Film Awards."
+    },
+    {
+      "year": 2015,
+      "kind": "turn",
+      "title": "The sequel gets his name",
+      "note": "Shah Rukh Khan says a follow-up to Ra.One would be titled G.One. It is still unmade."
+    }
+  ],
+  "heat": 50
+}

@@ -1,0 +1,179 @@
+{
+  "slug": "supergirl",
+  "name": "Supergirl",
+  "realName": "Kara Zor-El",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Superman's older cousin, who arrived later and brought her own hope. Kara Zor-El survived Krypton's death in Argo City and has the same sun-fuelled powers as Kal-El.",
+  "origin": "Supergirl is Superman's cousin, technically his elder, and she often gets to be the more hopeful one. Otto Binder and Al Plastino introduced Kara Zor-El in Action Comics #252 in 1959. Her father Zor-El, Jor-El's brother, kept a piece of Krypton alive as Argo City after the planet died, and when that refuge was doomed too, her parents sent her to Earth. Like Kal-El she draws power from the yellow sun: super strength and speed, flight, heat vision, freezing breath, X-ray eyes and super-hearing. She famously died saving the multiverse in Crisis on Infinite Earths in 1985, and modern versions brought her back as a teenager finding her place on a strange planet.",
+  "creators": ["Otto Binder", "Al Plastino"],
+  "firstAppearance": {
+    "title": "Action Comics",
+    "issue": "252",
+    "year": 1959
+  },
+  "powers": [
+    "Super strength, speed and toughness",
+    "Heat vision",
+    "Freezing breath",
+    "Absorbs and releases solar energy",
+    "X-ray vision",
+    "Telescopic and microscopic sight",
+    "Super-hearing",
+    "Flight"
+  ],
+  "affiliations": [
+    "Justice League",
+    "Teen Titans",
+    "Legion of Super-Heroes",
+    "Red Lantern Corps",
+    "Superman Family"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1959",
+      "title": "Cousin from Argo",
+      "beat": "Kara Zor-El, Superman's cousin, arrives on Earth from Argo City, a surviving piece of Krypton. She hides in an orphanage as Linda Lee while learning to be a hero."
+    },
+    {
+      "era": "Public debut",
+      "years": "1962",
+      "title": "Revealed to the world",
+      "beat": "Superman finally introduces Supergirl to the public."
+    },
+    {
+      "era": "Crisis",
+      "years": "1985",
+      "title": "Sacrifice",
+      "beat": "In Crisis on Infinite Earths, Kara dies fighting the Anti-Monitor, a moment captured on one of comics' most famous covers."
+    },
+    {
+      "era": "Return",
+      "years": "2004",
+      "title": "Kara is back",
+      "beat": "Superman/Batman brings Kara Zor-El back into continuity, arriving on Earth years after her cousin."
+    },
+    {
+      "era": "TV",
+      "years": "2015–2021",
+      "title": "Supergirl series",
+      "beat": "Melissa Benoist stars in the Supergirl TV series for six seasons."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Kara Zor-El was the first Super-Girl.",
+      "spice": 1,
+      "truth": "A 1958 Superman story tried out a magically created Super-Girl a year before Kara arrived."
+    },
+    {
+      "type": "fact",
+      "text": "Kara is technically older than Superman. She was a teenager when he was a baby, but she reached Earth much later.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The cover of Crisis on Infinite Earths #7, with Superman holding Kara, is one of the most copied in comics.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Helen Slater starred in the 1984 Supergirl film.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How is Supergirl related to Superman?",
+      "options": ["Sister", "Cousin", "Daughter", "Aunt"],
+      "answer": 1,
+      "why": "She is his cousin."
+    },
+    {
+      "q": "Which Kryptonian city did Kara come from?",
+      "options": ["Kandor", "Kryptonopolis", "Argo City", "Smallville"],
+      "answer": 2,
+      "why": "Argo City."
+    },
+    {
+      "q": "In which event did Kara die in 1985?",
+      "options": ["Crisis on Infinite Earths", "Zero Hour", "Legends", "Millennium"],
+      "answer": 0,
+      "why": "Crisis on Infinite Earths."
+    }
+  ],
+  "rivals": ["brainiac", "lex-luthor"],
+  "allies": ["superman", "batgirl", "wonder-woman"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#c8102e",
+      "c3": "#f2c230"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Superman's cousin, older and arguably cooler."
+  },
+  "timeline": [
+    {
+      "year": 1959,
+      "kind": "debut",
+      "title": "Last daughter of Argo",
+      "note": "Action Comics #252 sends Kara Zor-El to Earth, where her cousin Superman hides her in an orphanage.",
+      "with": "superman"
+    },
+    {
+      "year": 1962,
+      "kind": "comic",
+      "title": "Going public",
+      "note": "Action Comics #285 reveals Supergirl to the world after years as a secret."
+    },
+    {
+      "year": 1984,
+      "kind": "screen",
+      "title": "Helen Slater flies",
+      "note": "Helen Slater stars in the Supergirl feature film, a spinoff of the Christopher Reeve movies."
+    },
+    {
+      "year": 1985,
+      "kind": "death",
+      "title": "Crisis sacrifice",
+      "note": "Kara dies fighting the Anti-Monitor in Crisis on Infinite Earths #7, and DC wipes her from history."
+    },
+    {
+      "year": 2004,
+      "kind": "return",
+      "title": "Kara returns",
+      "note": "Superman/Batman #8 brings the Kryptonian Kara back to the DCU, crash-landing in a rocket.",
+      "with": "batman"
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Supergirl on TV",
+      "note": "Melissa Benoist stars in the Supergirl TV series, which runs for six seasons.",
+      "with": "martian-manhunter"
+    },
+    {
+      "year": 2021,
+      "kind": "comic",
+      "title": "Woman of Tomorrow",
+      "note": "Tom King and Bilquis Evely's Woman of Tomorrow sends Kara on a gritty space trek with a vengeful alien girl."
+    },
+    {
+      "year": 2026,
+      "kind": "legacy",
+      "title": "Supergirl the movie",
+      "note": "Milly Alcock headlines DC Studios' Supergirl, loosely adapted from Woman of Tomorrow."
+    }
+  ],
+  "heat": 60,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Supergirl_(Kara_Zor-El)",
+    "wikidata": "https://www.wikidata.org/wiki/Q738569"
+  }
+}

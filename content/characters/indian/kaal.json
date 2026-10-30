@@ -1,0 +1,145 @@
+{
+  "slug": "kaal",
+  "name": "Kaal",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Filmkraft Productions",
+  "summary": "Krrish 3's villain: a paralysed, telekinetic geneticist who breeds human-animal mutants and spreads a virus so he can sell the cure. Played by Vivek Oberoi.",
+  "origin": "Kaal was born from a secret experiment Dr. Siddhant Arya ran on the captive Rohit Mehra, which makes him Rohit's biological son. He inherited Rohit's gifts as powerful telekinesis and telepathy, but he can move only his face and two fingers. Adopted by a wealthy man, whom he later kills, he builds Kaal Laboratories. There he creates Maanvars, human-animal mutants grown from his own DNA, and releases a virus so he can profit from the antidote, all while searching for a cure for his own body.",
+  "creators": [
+    "Rakesh Roshan (director, producer, co-writer)",
+    "Honey Irani (co-writer)",
+    "Robin Bhatt (co-writer)"
+  ],
+  "firstAppearance": {
+    "title": "Krrish 3",
+    "year": 2013
+  },
+  "powers": [
+    "Powerful telekinesis",
+    "Telepathy",
+    "Genius geneticist and virologist",
+    "Creates Maanvar mutants from his own DNA",
+    "Superhuman strength and mobility after taking Rohit's bone marrow"
+  ],
+  "affiliations": ["Kaal Laboratories", "Maanvars"],
+  "storyline": [
+    {
+      "era": "Backstory",
+      "years": "Before 2013",
+      "title": "Born in Arya's lab",
+      "beat": "An experiment by Dr. Siddhant Arya on the imprisoned Rohit Mehra creates Kaal, a hugely gifted mind in a body that barely moves."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "A plague for profit",
+      "beat": "Kaal's mutants spread a virus, first in Namibia and then in Mumbai, while Kaal waits to sell the cure."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "The Kaya gambit",
+      "beat": "His shapeshifting agent Kaya takes Priya's place, and Kaal kidnaps the real, pregnant Priya to harvest her baby's bone marrow."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "Stolen strength",
+      "beat": "Kaal cures himself with Rohit's bone marrow, kills Kaya for betraying him and appears to kill Krrish."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "The final fall",
+      "beat": "Rohit sacrifices himself to revive Krrish, who returns and destroys Kaal."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Maanvar blends two Hindi words: maanav (human) and jaanvar (animal).",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Kaal is technically Krrish's half-brother, because both are sons of Rohit Mehra.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "Hrithik Roshan missed the first shooting schedule because of a back injury, so filming began in December 2011 with Vivek Oberoi, Kangana Ranaut and Priyanka Chopra.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Kaal is an alien, like Jadoo.",
+      "truth": "He is human: Rohit's son, created through Dr. Arya's experiment.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Krrish 3 grossed about ₹393 crore worldwide on a budget of around ₹100 crore.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What are Kaal's human-animal mutants called?",
+      "options": ["Asuras", "Nomu", "Maanvars", "Robo Army"],
+      "answer": 2,
+      "why": "Maanvar mixes the Hindi words for human and animal."
+    },
+    {
+      "q": "Who played Kaal in Krrish 3?",
+      "options": ["Vivek Oberoi", "Naseeruddin Shah", "Arjun Rampal", "Hrithik Roshan"],
+      "answer": 0,
+      "why": "Vivek Oberoi played the paralysed mastermind."
+    }
+  ],
+  "rivals": ["krrish"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#0b0b0b",
+      "c2": "#5c5c5c",
+      "c3": "#8bc34a"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "His body barely moves. His mind never stops."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Krrish_3",
+    "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)"
+  },
+  "timeline": [
+    {
+      "year": 2013,
+      "kind": "debut",
+      "title": "Vivek Oberoi's Kaal",
+      "note": "Krrish 3 brings in a paralysed genius with telekinetic powers and an army of mutants."
+    },
+    {
+      "year": 2013,
+      "kind": "turn",
+      "title": "Kaya's switch",
+      "note": "His shapeshifting agent Kaya takes Priya's place. When she turns on him, Kaal kills her."
+    },
+    {
+      "year": 2013,
+      "kind": "death",
+      "title": "Destroyed by Krrish",
+      "note": "Rohit gives his life to revive his son, and the returning Krrish finishes Kaal for good.",
+      "with": "krrish"
+    },
+    {
+      "year": 2013,
+      "kind": "legacy",
+      "title": "Dubbed for the south",
+      "note": "Krrish 3 also plays in Tamil and Telugu, taking Kaal to audiences well beyond Hindi cinema."
+    }
+  ],
+  "heat": 45
+}

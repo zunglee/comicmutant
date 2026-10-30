@@ -1,0 +1,41 @@
+{
+  "slug": "vane-aster",
+  "name": "VANE ASTER",
+  "alias": "THE LONG SECOND",
+  "kind": "hero",
+  "archetype": "speedster",
+  "bio": "A bicycle courier on Bridge Nine when the Observatory breach of 1997 collapsed the road behind her. She ran, kept running, and arrived at the far bank a full second before she was seen leaving. The second is long if you know where to stand.",
+  "catchphrase": "I do not arrive early. Everyone else arrives late.",
+  "rig": {
+    "build": "slim",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#8d5a3b",
+    "suit": "#ffe14d",
+    "trim": "#07090d",
+    "eye": "#ffffff",
+    "emblem": "chevron"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 10,
+    "defense": 5,
+    "special": 7
+  },
+  "special": {
+    "name": "Long Second",
+    "kind": "dash"
+  },
+  "rivals": ["vikram-nagesh", "vesper-kine"],
+  "theme": {
+    "palette": {
+      "c1": "#ffe14d",
+      "c2": "#07090d",
+      "c3": "#ff6b35"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Arrives early. Everyone else is late."
+  },
+  "heat": 80
+}

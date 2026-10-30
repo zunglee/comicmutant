@@ -1,0 +1,193 @@
+{
+  "slug": "cyclops",
+  "name": "Cyclops",
+  "realName": "Scott Summers",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The X-Man who can never simply open his eyes. Scott Summers fires nonstop force beams held back only by ruby-quartz lenses, and he has spent decades leading Xavier's mutants.",
+  "origin": "Cyclops can never just open his eyes without thinking about it, and that one detail explains his whole personality. Scott Summers was Professor Xavier's first recruit when The X-Men #1 launched in 1963, a mutant whose eyes constantly fire beams of concussive force that only ruby-quartz lenses can hold back. One slip of the visor and the room comes apart. Living under that kind of control turned him into a natural leader: a sharp strategist, a capable fighter and a skilled pilot who has steered the X-Men through more crises than anyone. Fans love to call him a boy scout, but he is the most quietly intense person on the team.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist/co-plotter)"],
+  "firstAppearance": {
+    "title": "The X-Men",
+    "issue": "1",
+    "year": 1963
+  },
+  "powers": [
+    "Constant force beams from his eyes",
+    "Expert tactician and team leader",
+    "Trained hand-to-hand fighter",
+    "Skilled pilot",
+    "Instinctive feel for angles and trick shots"
+  ],
+  "affiliations": [
+    "X-Men",
+    "X-Force",
+    "X-Factor",
+    "Phoenix Five",
+    "X-Corporation",
+    "Hounds",
+    "Starjammers",
+    "Time-Displaced Cyclops: Champions"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "Xavier's first student",
+      "beat": "Scott Summers is the field leader of the original X-Men in their first issue. His eyes fire uncontrollable force beams, held back only by a ruby-quartz visor."
+    },
+    {
+      "era": "Dark Phoenix",
+      "years": "1980",
+      "title": "Losing Jean",
+      "beat": "Scott watches Jean Grey give her life at the end of the Dark Phoenix Saga, and soon leaves the X-Men to grieve."
+    },
+    {
+      "era": "Madelyne",
+      "years": "1983–1986",
+      "title": "Marriage and a messy exit",
+      "beat": "Scott marries Madelyne Pryor and they have a son, Nathan. When Jean is found alive he leaves to join X-Factor, a move many readers still hold against him."
+    },
+    {
+      "era": "Wedding",
+      "years": "1994",
+      "title": "Scott and Jean marry",
+      "beat": "After decades of romance, Scott and Jean finally marry in X-Men #30 (1994)."
+    },
+    {
+      "era": "Revolutionary",
+      "years": "2008–2012",
+      "title": "Mutant general",
+      "beat": "With mutants nearly extinct, Scott runs covert strike teams, moves the X-Men to the island of Utopia, and splits with Wolverine over how to protect young mutants."
+    },
+    {
+      "era": "Avengers vs. X-Men",
+      "years": "2012",
+      "title": "Phoenix-possessed",
+      "beat": "Empowered by the Phoenix Force, Scott loses control and kills Charles Xavier, becoming a fugitive and a radical symbol for mutantkind."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Cyclops shoots heat lasers from his eyes.",
+      "spice": 2,
+      "truth": "In the comics his optic blasts are concussive force with no heat. They punch rather than burn."
+    },
+    {
+      "type": "fact",
+      "text": "He cannot switch his beams off. The usual explanation is a head injury from a childhood plane crash.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Cable is his son. Scott and Madelyne Pryor's baby Nathan was sent to the future and came back as a grizzled soldier.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Scott and his brother Havok are largely immune to each other's energy powers.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Leaving his wife and baby for a newly returned Jean in 1986 is still one of the most-debated character moves in X-Men history.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What material is Cyclops's visor lens made from?",
+      "options": ["Adamantium", "Ruby quartz", "Vibranium", "Diamond"],
+      "answer": 1,
+      "why": "Ruby quartz holds back his optic blasts."
+    },
+    {
+      "q": "Which mutant is Cyclops's younger brother?",
+      "options": ["Havok", "Banshee", "Iceman", "Gambit"],
+      "answer": 0,
+      "why": "Alex Summers, also known as Havok."
+    },
+    {
+      "q": "Who did Scott Summers marry in 1994?",
+      "options": ["Emma Frost", "Storm", "Madelyne Pryor", "Jean Grey"],
+      "answer": 3,
+      "why": "Scott and Jean married in X-Men #30 (1994)."
+    }
+  ],
+  "rivals": ["magneto", "wolverine"],
+  "allies": ["professor-x", "jean-grey", "storm"],
+  "theme": {
+    "palette": {
+      "c1": "#1c3f94",
+      "c2": "#f2c230",
+      "c3": "#e0115f"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Leads with his eyes. Literally."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "Xavier's first student",
+      "note": "The X-Men #1 introduces Scott Summers as the stiff, serious field leader of a school for young mutants.",
+      "with": "professor-x"
+    },
+    {
+      "year": 1980,
+      "kind": "turn",
+      "title": "Losing Jean on the moon",
+      "note": "The Dark Phoenix Saga ends with Jean sacrificing herself in front of Scott, the heartbreak that defines him.",
+      "with": "jean-grey"
+    },
+    {
+      "year": 1986,
+      "kind": "comic",
+      "title": "Founding X-Factor",
+      "note": "X-Factor #1 reunites the five original X-Men, a messy move since Scott leaves a wife and baby to chase Jean.",
+      "with": "jean-grey"
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "X-Men: The Animated Series",
+      "note": "The Fox Kids cartoon makes Scott the visor-wearing leader for a whole generation of Saturday-morning fans."
+    },
+    {
+      "year": 1994,
+      "kind": "turn",
+      "title": "Finally marrying Jean",
+      "note": "X-Men #30 gives Scott and Jean the big wedding fans spent decades waiting for.",
+      "with": "jean-grey"
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "James Marsden in X-Men",
+      "note": "Bryan Singer's X-Men film casts James Marsden as Scott, the straight arrow sparring with Wolverine.",
+      "with": "wolverine"
+    },
+    {
+      "year": 2012,
+      "kind": "turn",
+      "title": "Phoenix-fueled and fallen",
+      "note": "Possessed by the Phoenix in Avengers vs. X-Men, Scott strikes down his own mentor and becomes a mutant revolutionary.",
+      "with": "professor-x"
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "Leading X-Men '97",
+      "note": "The revival series X-Men '97 puts Scott back at the head of the team, and makes him a fan favorite all over again."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q857921"
+  }
+}

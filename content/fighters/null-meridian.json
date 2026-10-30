@@ -1,0 +1,41 @@
+{
+  "slug": "null-meridian",
+  "name": "NULL MERIDIAN",
+  "alias": "THE REWRITE",
+  "kind": "villain",
+  "archetype": "reality-manipulator",
+  "bio": "A Loom cartographer who learned to edit the Anchor Strand directly and proved it in 2008 by unwriting Corvel Lane. Meridian remembers neither the street nor the name before. Now wants to erase the walls between strands. Call it editing.",
+  "catchphrase": "You call it erasing. I call it editing.",
+  "rig": {
+    "build": "slim",
+    "head": "hood",
+    "cape": true,
+    "skin": "#d8c7e6",
+    "suit": "#07090d",
+    "trim": "#f08cff",
+    "eye": "#ffffff",
+    "emblem": "eye"
+  },
+  "stats": {
+    "power": 8,
+    "speed": 3,
+    "defense": 3,
+    "special": 10
+  },
+  "special": {
+    "name": "Unwrite",
+    "kind": "beam"
+  },
+  "rivals": ["dorian-vesk", "ysolde-brann", "maren-quill"],
+  "theme": {
+    "palette": {
+      "c1": "#f08cff",
+      "c2": "#07090d",
+      "c3": "#7df9ff"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Edited out of your story."
+  },
+  "heat": 85
+}

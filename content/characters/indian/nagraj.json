@@ -1,0 +1,187 @@
+{
+  "slug": "nagraj",
+  "name": "Nagraj",
+  "realName": "Raj (civilian identity; later Nagraj Shah)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' snake king: a hero with deadly venom and millions of microscopic snakes living in his body. He debuted in 1986 as the publisher's first superhero.",
+  "origin": "Nagraj was born to King Takshakraj and Queen Lalita of the kingdom of Takshaknagar. Because of a plot by his uncle Nagpasha, he was born blue and lifeless and, following custom, set adrift on a river. Guided by the snake deity Deva Kaljayi, the shapeshifting snake rulers of the hidden island Nagdweep began to heal him. The evil scientist Professor Nagmani later raised the boy and sent him out as a mind-controlled terror weapon. On his first mission Nagraj was defeated by the 300-year-old sage Baba Gorakhnath, who removed the control capsule from his head. Nagraj became his disciple and swore to fight crime and terror.",
+  "creators": [
+    "Rajkumar Gupta (concept)",
+    "Manoj Gupta (co-creator)",
+    "Parshuram Sharma (writer, debut issue)",
+    "Pratap Mullick (artist, debut issue)"
+  ],
+  "firstAppearance": {
+    "title": "Nagraj",
+    "issue": "GENL #14",
+    "year": 1986
+  },
+  "powers": [
+    "Lethal venom through touch, bite and poisonous breath",
+    "Millions of microscopic snakes in his body, used as ropes, shields and spies",
+    "Shapeshifting snake (ichchhadhari) powers",
+    "Can break into particles to turn briefly invisible and intangible",
+    "Hypnotic gaze",
+    "Superhuman strength and stamina",
+    "Rapid regenerative healing",
+    "Can fuse with allies into combined forms",
+    "Telepathic contact and communication with snakes"
+  ],
+  "affiliations": ["Brahmand Rakshak (Protectors of the Universe)"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1986",
+      "title": "Professor Nagmani's weapon",
+      "beat": "Nagraj's first mission is to steal a temple's golden idol. Baba Gorakhnath beats him, frees his mind, and turns the weapon into a hero."
+    },
+    {
+      "era": "Early run",
+      "years": "1986–1995",
+      "title": "War on world terror",
+      "beat": "The original run tours the world fighting terrorists and gangsters across 44 issues drawn by a rotating team of artists, ending with Visarpi Ki Shadi in 1995."
+    },
+    {
+      "era": "Team-up",
+      "years": "1991",
+      "title": "Meeting Dhruva",
+      "beat": "Special #1, Nagraj aur Super Commando Dhruv, is Raj Comics' first multi-hero special and pairs its two biggest stars."
+    },
+    {
+      "era": "Blockbuster",
+      "years": "1992",
+      "title": "Nagraj aur Bugaku",
+      "beat": "The second Nagraj and Dhruva team-up, Special #8, becomes one of the best-selling issues in Raj Comics history."
+    },
+    {
+      "era": "Sinha era",
+      "years": "1995 onward",
+      "title": "The mythic Nagraj",
+      "beat": "Anupam Sinha takes over writing and art, telling multi-part epics like the Khazana arc and pitting Nagraj against snake-gods."
+    },
+    {
+      "era": "Parallel lines",
+      "years": "2007 onward",
+      "title": "Many Nagrajs",
+      "beat": "Raj Comics splits the hero into parallel series, including the terror-fighting Aatankharta Nagraj (from Hari Maut, 2007) and the horror-flavoured Narak Nashak Nagraj."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Manoj Gupta came up with a snake-themed hero in 1985 because snakes carry deep religious and mythological meaning in India.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Nagraj started out as a villain's weapon. His very first mission was a temple robbery.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "A 1997 TV advert for Nagraj starred a young Sonu Sood.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "In 2019 Manoj Gupta said he was negotiating with Ranveer Singh to play Nagraj in a film produced by Karan Johar. It hasn't been made yet.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "The character draws on legends of shapeshifting ichchhadhari snakes and the vishmanushya, a mythical venomous human.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "A Nagraj concept trailer Raj Comics posted on YouTube in 2017 passed 1.5 million views.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who freed Nagraj from Professor Nagmani's mind control?",
+      "options": ["Super Commando Dhruva", "Deva Kaljayi", "Visarpi", "Baba Gorakhnath"],
+      "answer": 3,
+      "why": "The ancient sage Baba Gorakhnath removed the capsule implanted in Nagraj's head."
+    },
+    {
+      "q": "What lives inside Nagraj's body?",
+      "options": ["Nanobots", "Microscopic snakes", "A demon", "Fire spirits"],
+      "answer": 1,
+      "why": "He carries millions of tiny snakes that he can send out as tools and weapons."
+    },
+    {
+      "q": "In which year did Nagraj debut?",
+      "options": ["1986", "1977", "1993", "2001"],
+      "answer": 0,
+      "why": "Nagraj GENL #14 came out in 1986."
+    }
+  ],
+  "rivals": [],
+  "allies": ["super-commando-dhruva", "parmanu"],
+  "theme": {
+    "palette": {
+      "c1": "#1f8a3b",
+      "c2": "#0d3b1e",
+      "c3": "#d4e157"
+    },
+    "motif": "nature",
+    "mood": "dark",
+    "tagline": "Hug him at your own risk. He is extremely venomous."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nagraj",
+    "rajcomics": "https://en.wikipedia.org/wiki/Raj_Comics"
+  },
+  "timeline": [
+    {
+      "year": 1986,
+      "kind": "debut",
+      "title": "Raj Comics' first superhero",
+      "note": "GENL #14 brings in a venom-blooded hero who starts out as a mad scientist's weapon before switching sides."
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "First team-up with Dhruva",
+      "note": "Special #1 puts the snake king and Super Commando Dhruva on one cover. It is also Raj Comics' first multi-hero special.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 1995,
+      "kind": "turn",
+      "title": "Anupam Sinha takes over",
+      "note": "Sinha steps in as writer and artist and steers Nagraj toward longer, myth-soaked epics."
+    },
+    {
+      "year": 2007,
+      "kind": "comic",
+      "title": "Hari Maut opens a new front",
+      "note": "Hari Maut launches a world-terrorism line of stories, giving the hero a harder, globe-trotting edge."
+    },
+    {
+      "year": 2009,
+      "kind": "comic",
+      "title": "Nagayana wraps up",
+      "note": "Iti Kaand closes Nagayana, an eight-part futuristic saga built around Nagraj and Dhruva.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "Concept trailer goes viral",
+      "note": "Raj Comics posts a Nagraj concept trailer on YouTube, and fans push it past a million views."
+    },
+    {
+      "year": 2020,
+      "kind": "turn",
+      "title": "One hero, three publishers",
+      "note": "The founding brothers split Raj Comics into three imprints, each running its own Nagraj books and plotlines."
+    }
+  ],
+  "heat": 65
+}

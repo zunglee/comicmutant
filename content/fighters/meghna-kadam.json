@@ -1,0 +1,41 @@
+{
+  "slug": "meghna-kadam",
+  "name": "MEGHNA KADAM",
+  "alias": "CLOUDBURST",
+  "kind": "hero",
+  "archetype": "monsoon-channeler",
+  "bio": "A Dadar chaiwala's daughter who found the first monsoon shower answers to her. When Mumbai's sea wall cracked in a cloudburst, she held the water by the wrist. Yellow raincoat, zero umbrellas, one very wet city to protect.",
+  "catchphrase": "Carry an umbrella. Or carry me.",
+  "rig": {
+    "build": "normal",
+    "head": "hood",
+    "cape": true,
+    "skin": "#a8693f",
+    "suit": "#ffc20e",
+    "trim": "#1d3f8f",
+    "eye": "#36f2e0",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 5,
+    "speed": 5,
+    "defense": 5,
+    "special": 8
+  },
+  "special": {
+    "name": "Marine Drive Surge",
+    "kind": "shockwave"
+  },
+  "rivals": ["sukhdev-rawat", "tamal-ghosh"],
+  "theme": {
+    "palette": {
+      "c1": "#ffc20e",
+      "c2": "#1d3f8f",
+      "c3": "#36f2e0"
+    },
+    "motif": "water",
+    "mood": "dark",
+    "tagline": "Mumbai's first rain, with opinions."
+  },
+  "heat": 72
+}

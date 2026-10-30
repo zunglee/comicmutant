@@ -1,0 +1,175 @@
+{
+  "slug": "usagi-yojimbo",
+  "name": "Miyamoto Usagi",
+  "universe": "other",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Fantagraphics, Mirage, Dark Horse, IDW",
+  "summary": "Stan Sakai's rabbit ronin: Miyamoto Usagi, a masterless samurai on a warrior's pilgrimage through an animal version of feudal Japan. Star of Usagi Yojimbo since 1984.",
+  "origin": "Usagi grew up the only son of a village headman. As a boy he watched the wandering master Katsuichi easily defeat a gang of students from the Dogora sword school, and he stood outside Katsuichi's home day and night until the master agreed to teach him. After winning a Dogora tournament he became a retainer and later bodyguard of Lord Mifune. When a rival lord's war ended in betrayal at the battle of Adachigahara, Mifune died, and Usagi escaped with his lord's head so the enemy couldn't display it. Now a ronin, he wanders as a bodyguard for hire.",
+  "creators": ["Stan Sakai"],
+  "firstAppearance": {
+    "title": "Albedo Anthropomorphics",
+    "issue": "2",
+    "year": 1984
+  },
+  "powers": [
+    "Master swordsman, one of the best in the land",
+    "Daisho swords Yagi no Eda and Aoyagi",
+    "Strict samurai code of honour",
+    "Seasoned bodyguard and tracker"
+  ],
+  "affiliations": ["Formerly the Mifune clan"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1984",
+      "title": "Albedo Anthropomorphics",
+      "beat": "Usagi first appears in the anthology Albedo Anthropomorphics #2 from Thoughts and Images."
+    },
+    {
+      "era": "Critters",
+      "years": "Mid-1980s",
+      "title": "Anthology years",
+      "beat": "He moves to Fantagraphics' anthology Critters before getting his own series in 1987."
+    },
+    {
+      "era": "Backstory",
+      "years": "Flashbacks",
+      "title": "Adachigahara",
+      "beat": "Betrayal at the battle of Adachigahara kills Lord Mifune, leaves Usagi with his scar and sets him wandering."
+    },
+    {
+      "era": "Turtles",
+      "years": "Late 1980s on",
+      "title": "Ninja Turtles crossovers",
+      "beat": "Usagi becomes a regular guest in the Teenage Mutant Ninja Turtles franchise, in comics and across several cartoons."
+    },
+    {
+      "era": "New homes",
+      "years": "1990s–2023",
+      "title": "Four publishers",
+      "beat": "The series moves from Fantagraphics to Mirage, Dark Horse and IDW, then returns to Dark Horse in 2023."
+    },
+    {
+      "era": "Netflix",
+      "years": "2022",
+      "title": "Samurai Rabbit",
+      "beat": "Netflix's Samurai Rabbit: The Usagi Chronicles follows his descendant Yuichi, with Usagi appearing on the side."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Sakai based Usagi on the legendary swordsman Miyamoto Musashi.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Usagi was going to be human until Sakai doodled a rabbit with its ears tied up like a samurai topknot.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The series title comes from Akira Kurosawa's 1961 film Yojimbo. Usagi is Japanese for rabbit.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Sakai also letters Groo the Wanderer, and won a 1996 Eisner for lettering Groo and Usagi Yojimbo.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Sakai and the series have collected a whole shelf of Eisner Awards, many of them for lettering.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Usagi Yojimbo started out as a Ninja Turtles spin-off.",
+      "truth": "Usagi debuted in 1984 in Albedo Anthropomorphics. He only joined the Turtles franchise later as a guest.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'usagi' mean in Japanese?",
+      "options": ["Wolf", "Rabbit", "Sword", "Wanderer"],
+      "answer": 1,
+      "why": "Usagi is Japanese for rabbit."
+    },
+    {
+      "q": "Which real swordsman inspired Usagi?",
+      "options": ["Sasaki Kojiro", "Yagyu Jubei", "Miyamoto Musashi", "Tsukahara Bokuden"],
+      "answer": 2,
+      "why": "Sakai drew on the life of Miyamoto Musashi."
+    },
+    {
+      "q": "Which franchise does Usagi most often cross over with?",
+      "options": ["Teenage Mutant Ninja Turtles", "Transformers", "Power Rangers", "Godzilla"],
+      "answer": 0,
+      "why": "He has appeared alongside the Turtles in comics and several cartoons."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e8dcc0",
+      "c2": "#1f3a5f",
+      "c3": "#b23a48"
+    },
+    "motif": "speed",
+    "mood": "light",
+    "tagline": "Long ears, longer road, the fastest blade in the province."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Miyamoto_Usagi",
+    "series": "https://en.wikipedia.org/wiki/Usagi_Yojimbo"
+  },
+  "timeline": [
+    {
+      "year": 1984,
+      "kind": "debut",
+      "title": "Albedo Anthropomorphics #2",
+      "note": "Stan Sakai's rabbit ronin first appears in the November 1984 issue of an indie anthology."
+    },
+    {
+      "year": 1987,
+      "kind": "comic",
+      "title": "His own series",
+      "note": "Fantagraphics launches the Usagi Yojimbo ongoing series in July 1987."
+    },
+    {
+      "year": 1996,
+      "kind": "legacy",
+      "title": "First Eisners",
+      "note": "Sakai and the series collect their first two Eisner Awards."
+    },
+    {
+      "year": 1999,
+      "kind": "legacy",
+      "title": "Grasscutter wins",
+      "note": "The Grasscutter arc takes the Eisner for Best Serialized Story."
+    },
+    {
+      "year": 2019,
+      "kind": "comic",
+      "title": "Moves to IDW",
+      "note": "IDW picks up the series with a new monthly run."
+    },
+    {
+      "year": 2022,
+      "kind": "screen",
+      "title": "Samurai Rabbit",
+      "note": "Netflix's animated series premieres in April, following Usagi's descendant Yuichi."
+    },
+    {
+      "year": 2023,
+      "kind": "return",
+      "title": "Home to Dark Horse",
+      "note": "Usagi returns to Dark Horse in September and also joins TMNT: Shredder's Revenge as a playable character."
+    }
+  ],
+  "heat": 35
+}

@@ -1,0 +1,188 @@
+{
+  "slug": "green-arrow",
+  "name": "Green Arrow",
+  "realName": "Oliver Jonas \"Ollie\" Queen",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Robin Hood with a billionaire's bank account, then without one. Oliver Queen, Star City's master archer, is known for trick arrows, a sharp goatee and louder politics than anyone in the Justice League.",
+  "origin": "Green Arrow began as a Batman-style knockoff with a bow and turned into DC's loudest political conscience, which is a pretty great glow-up. Mort Weisinger and George Papp created Oliver Queen for More Fun Comics #73 in 1941, along with a teen sidekick, Speedy, and a quiver of gimmick arrows. Ollie was a rich playboy using his public image in Star City as cover, a modern Robin Hood with peak-human fitness and uncanny aim. In 1969 Neal Adams gave him the goatee, and soon after he lost his fortune and became an outspoken champion of the poor in Denny O'Neil's stories. The 2012 TV series Arrow then gave him a second life on screen.",
+  "creators": ["Mort Weisinger", "George Papp"],
+  "firstAppearance": {
+    "title": "More Fun Comics",
+    "issue": "73",
+    "year": 1941
+  },
+  "powers": [
+    "Peak human fitness",
+    "Skilled martial artist",
+    "Near-perfect archer",
+    "Agile acrobat",
+    "Endless supply of trick arrows"
+  ],
+  "affiliations": ["Justice League", "Outsiders", "Seven Soldiers of Victory"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1941",
+      "title": "The Batman-style archer",
+      "beat": "Oliver Queen debuts in More Fun Comics #73 with a boy sidekick, Speedy, an Arrowcar and a stash of trick arrows."
+    },
+    {
+      "era": "Makeover",
+      "years": "1969",
+      "title": "Goatee and politics",
+      "beat": "Neal Adams gives Ollie his famous goatee and new look. Soon after he loses his fortune and becomes an outspoken champion of the poor."
+    },
+    {
+      "era": "Hard-Traveling Heroes",
+      "years": "1970–1972",
+      "title": "Road trip",
+      "beat": "Denny O'Neil and Neal Adams team Green Arrow with Green Lantern to tackle real social problems, including Speedy's heroin addiction."
+    },
+    {
+      "era": "Longbow Hunters",
+      "years": "1987",
+      "title": "Seattle streets",
+      "beat": "Mike Grell moves Ollie to Seattle, drops the trick arrows, and turns the book into a grim urban crime story."
+    },
+    {
+      "era": "Death and Quiver",
+      "years": "1995–2001",
+      "title": "Gone and back",
+      "beat": "Ollie dies in an explosion and his son Connor Hawke takes over, until Kevin Smith's Quiver brings Ollie back."
+    },
+    {
+      "era": "Arrow",
+      "years": "2012",
+      "title": "TV hit",
+      "beat": "The CW's Arrow, starring Stephen Amell, becomes the launch pad for a whole TV universe of DC shows."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Green Arrow is a copy of Marvel's Hawkeye.",
+      "spice": 1,
+      "truth": "Green Arrow debuted in 1941, more than 20 years before Hawkeye in 1964."
+    },
+    {
+      "type": "fact",
+      "text": "His most famous trick arrow has a boxing glove where the point should be, a gag the comics and cartoons keep bringing back.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "A 1971 story showed his sidekick Speedy addicted to heroin, a rare move for comics of the time.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His famous goatee came from Neal Adams's 1969 redesign.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Arrow (2012) spun off The Flash, Legends of Tomorrow and more, launching what fans call the Arrowverse.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hero debuted in the same comic as Green Arrow?",
+      "options": ["Superman", "Wonder Woman", "Aquaman", "The Flash"],
+      "answer": 2,
+      "why": "Aquaman, in More Fun Comics #73."
+    },
+    {
+      "q": "What is the name of Green Arrow's home city in modern comics?",
+      "options": ["Gotham City", "Star City", "Central City", "Coast City"],
+      "answer": 1,
+      "why": "Star City."
+    },
+    {
+      "q": "What was the name of Green Arrow's original sidekick?",
+      "options": ["Robin", "Kid Flash", "Aqualad", "Speedy"],
+      "answer": 3,
+      "why": "Roy Harper, Speedy."
+    }
+  ],
+  "rivals": [],
+  "allies": ["black-canary", "green-lantern-hal-jordan", "flash-barry-allen", "batman"],
+  "theme": {
+    "palette": {
+      "c1": "#2e8b57",
+      "c2": "#1b4d2e",
+      "c3": "#c9a227"
+    },
+    "motif": "tech",
+    "mood": "light",
+    "tagline": "Robin Hood energy, billionaire bank account."
+  },
+  "timeline": [
+    {
+      "year": 1941,
+      "kind": "debut",
+      "title": "Robin Hood, rebooted",
+      "note": "More Fun Comics #73 debuts millionaire archer Oliver Queen and a quiver full of trick arrows."
+    },
+    {
+      "year": 1969,
+      "kind": "turn",
+      "title": "The goatee arrives",
+      "note": "Neal Adams redesigns Ollie with his iconic beard, and he soon becomes the loudest political voice in DC."
+    },
+    {
+      "year": 1970,
+      "kind": "comic",
+      "title": "Hard-traveling heroes",
+      "note": "Green Lantern #76 puts Ollie and Hal on the road to confront poverty, racism and corruption.",
+      "with": "green-lantern-hal-jordan"
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "The Longbow Hunters",
+      "note": "Mike Grell ditches the trick arrows and moves Ollie to Seattle for a grittier, street-level mission.",
+      "with": "black-canary"
+    },
+    {
+      "year": 1995,
+      "kind": "death",
+      "title": "Sky-high sacrifice",
+      "note": "Ollie dies in a mid-air explosion stopping a terrorist bomb, and his son Connor Hawke takes up the bow."
+    },
+    {
+      "year": 2001,
+      "kind": "return",
+      "title": "Quiver",
+      "note": "Kevin Smith brings Oliver back from the dead and relaunches his series with sharp, funny writing."
+    },
+    {
+      "year": 2006,
+      "kind": "screen",
+      "title": "Smallville archer",
+      "note": "Justin Hartley debuts as Oliver Queen on Smallville and sticks around through the series finale."
+    },
+    {
+      "year": 2012,
+      "kind": "legacy",
+      "title": "Arrow launches a universe",
+      "note": "The CW's Arrow stars Stephen Amell and spins off a whole network of linked superhero shows."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_Arrow",
+    "wikidata": "https://www.wikidata.org/wiki/Q611993"
+  },
+  "photo": {
+    "file": "green-arrow.webp",
+    "alt": "Green Arrow photograph",
+    "artist": "sean.koo",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Stephen_Amell_2014.jpg"
+  }
+}

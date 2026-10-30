@@ -1,0 +1,41 @@
+{
+  "slug": "lio-varga",
+  "name": "LIO VARGA",
+  "alias": "OVERCLOCK",
+  "kind": "villain",
+  "archetype": "rogue-hacker",
+  "bio": "A Budapest prodigy who rewrote his own nervous system for speed and now treats cities as hardware to overclock. Lifts, lights, phones, none of it is safe. Hot, loud and always one update ahead of the fix.",
+  "catchphrase": "Your firewall is a suggestion.",
+  "rig": {
+    "build": "slim",
+    "head": "visor",
+    "cape": false,
+    "skin": "#e0ac8b",
+    "suit": "#1a0a2e",
+    "trim": "#00f0ff",
+    "eye": "#ff00aa",
+    "emblem": "chevron"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 8,
+    "defense": 3,
+    "special": 8
+  },
+  "special": {
+    "name": "Fork Bomb",
+    "kind": "projectile"
+  },
+  "rivals": ["ysolde-brann", "juno-ferrow"],
+  "theme": {
+    "palette": {
+      "c1": "#00f0ff",
+      "c2": "#1a0a2e",
+      "c3": "#ff00aa"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Faster than the patch."
+  },
+  "heat": 59
+}

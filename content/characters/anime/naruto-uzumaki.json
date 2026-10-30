@@ -1,0 +1,182 @@
+{
+  "slug": "naruto-uzumaki",
+  "name": "Naruto Uzumaki",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Masashi Kishimoto's loud, ramen-loving ninja in orange: a village outcast with a fox spirit sealed inside him who refuses to stop until he becomes Hokage. Started in Weekly Shōnen Jump in 1999.",
+  "origin": "On the night Naruto was born, the Nine-Tailed Fox, Kurama, tore through the Hidden Leaf Village. His father, the Fourth Hokage Minato Namikaze, sealed the beast inside the newborn, and both of Naruto's parents died in the process. Raised alone and treated like the fox itself, Naruto turns into a prankster who craves attention and announces to anyone who will listen that he will be Hokage one day. Placed on Team 7 with the gifted Sasuke Uchiha and Sakura Haruno under Kakashi Hatake, he slowly wins over his village with stubborn grit and an unusual talent for turning enemies into friends. Kishimoto counted Goku as a big influence, and once considered a version of the boy as a chef instead of a ninja.",
+  "creators": ["Masashi Kishimoto"],
+  "firstAppearance": {
+    "title": "Naruto",
+    "issue": "Chapter 1",
+    "year": 1999
+  },
+  "powers": [
+    "Shadow Clone Jutsu on a ridiculous scale",
+    "Rasengan and its many spinning upgrades",
+    "Chakra of the Nine-Tailed Fox, Kurama",
+    "Sage Mode, drawing on natural energy",
+    "Huge stamina and fast healing",
+    "Talk no Jutsu: changing enemies' minds mid-fight"
+  ],
+  "affiliations": ["Hidden Leaf Village (Konohagakure)", "Team 7", "Allied Shinobi Forces"],
+  "storyline": [
+    {
+      "era": "Part I",
+      "years": "1999",
+      "title": "The class clown",
+      "beat": "Naruto scrapes through the ninja academy and lands on Team 7 with his rival Sasuke and his crush Sakura, taught by the laid-back Kakashi."
+    },
+    {
+      "era": "Part I",
+      "years": "Early 2000s",
+      "title": "Chunin Exams",
+      "beat": "During the exams he learns to draw on the fox's chakra, trains with the toad sage Jiraiya and beats the gifted Neji in front of the whole village."
+    },
+    {
+      "era": "Part I",
+      "years": "Mid-2000s",
+      "title": "Losing Sasuke",
+      "beat": "Sasuke leaves the village to chase power, and Naruto fails to bring him home, a promise that drives the rest of the series."
+    },
+    {
+      "era": "Part II",
+      "years": "Late 2000s",
+      "title": "Hero of the Leaf",
+      "beat": "After years of training he returns stronger, masters Sage Mode and saves the village from the Akatsuki leader Pain, earning the respect he always wanted."
+    },
+    {
+      "era": "War",
+      "years": "Early 2010s",
+      "title": "The Fourth Shinobi World War",
+      "beat": "He makes peace with Kurama, fights alongside Sasuke against Madara Uchiha and finally settles things with his old rival."
+    },
+    {
+      "era": "Epilogue",
+      "years": "2014 onward",
+      "title": "The Seventh Hokage",
+      "beat": "Naruto marries Hinata, has two kids and gets the top job, though being a busy dad turns out to be its own boss fight."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Before he was a ninja, Kishimoto toyed with a one-shot where Naruto was a cook. It never made it to print.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Naruto had a dress rehearsal: a 1997 one-shot in Akamaru Jump, two years before the series began.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "His name comes purely from the swirly fish-cake slice in a bowl of ramen.",
+      "truth": "The fish cake is a fun candidate, but scholars also link the name to the Naruto whirlpools off Japan's coast.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The orange jumpsuit was picked to suit a shōnen lead, and his blond hair and blue eyes were unusual for a manga hero at the time.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Women voice Naruto in both big dubs: Junko Takeuchi in Japanese and Maile Flanagan in English.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Goku inspired him, but Kishimoto has said he felt more drawn to Goku's best friend Krillin.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "For the manga's 25th anniversary in 2025, Google added a search easter egg of Naruto doing his famous arms-back sprint.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of the fox sealed inside Naruto?",
+      "options": ["Shukaku", "Kurama", "Gyūki", "Matatabi"],
+      "answer": 1,
+      "why": "The Nine-Tailed Fox is called Kurama."
+    },
+    {
+      "q": "What is Naruto's favourite food?",
+      "options": ["Sushi", "Dango", "Ramen", "Onigiri"],
+      "answer": 2,
+      "why": "Ramen, ideally from Ichiraku. Kishimoto loves it too."
+    },
+    {
+      "q": "Which title does Naruto finally earn in the epilogue?",
+      "options": ["Seventh Hokage", "Sage of Six Paths", "Fifth Kazekage", "Akatsuki leader"],
+      "answer": 0,
+      "why": "He becomes the Seventh Hokage of the Hidden Leaf."
+    }
+  ],
+  "rivals": ["madara-uchiha"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f47a20",
+      "c2": "#1b2a4a",
+      "c3": "#ffd23f"
+    },
+    "motif": "speed",
+    "mood": "light",
+    "tagline": "Loud, orange and flatly refuses to give up on anybody."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+  },
+  "timeline": [
+    {
+      "year": 1999,
+      "kind": "debut",
+      "title": "Chapter 1 in Weekly Shōnen Jump",
+      "note": "The Naruto manga starts its run in September 1999 and keeps going for 700 chapters."
+    },
+    {
+      "year": 2002,
+      "kind": "screen",
+      "title": "The first anime",
+      "note": "The Naruto TV series premieres on TV Tokyo in October 2002."
+    },
+    {
+      "year": 2007,
+      "kind": "screen",
+      "title": "Naruto: Shippuden",
+      "note": "The older, Part II anime begins in February 2007 and runs for ten years."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Facing the real Madara",
+      "note": "In the war arc, a revived Madara Uchiha steps onto the battlefield and becomes the threat Naruto has to beat.",
+      "with": "madara-uchiha"
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "The manga ends",
+      "note": "The final chapter runs in November 2014, and The Last: Naruto the Movie follows the same year."
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Boruto: Naruto the Movie",
+      "note": "The spotlight shifts to Hokage Naruto and his strained bond with his son Boruto."
+    },
+    {
+      "year": 2016,
+      "kind": "legacy",
+      "title": "A sequel series",
+      "note": "The Boruto manga begins, with Naruto now the dad and the village leader."
+    }
+  ],
+  "heat": 88
+}

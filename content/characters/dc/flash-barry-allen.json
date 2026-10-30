@@ -1,0 +1,188 @@
+{
+  "slug": "flash-barry-allen",
+  "name": "The Flash (Barry Allen)",
+  "realName": "Bartholomew Henry Allen",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The fastest man alive, still late for everything. Barry Allen, a police scientist struck by lightning in his lab, is the Flash whose 1956 debut kicked off comics' Silver Age.",
+  "origin": "Barry Allen is the fastest man alive and still somehow late for everything, which is half his charm. Robert Kanigher and Carmine Infantino gave DC a brand-new Flash in Showcase #4 in 1956, and that issue usually gets the credit for kicking off comics' Silver Age. Barry was a police forensic scientist working late when lightning smashed through his lab and soaked him in chemicals, leaving him able to run, think and react at incredible speeds. Later writers tied his gifts to the Speed Force, an energy field all speedsters tap into. He came after Jay Garrick and before Wally West, and the way he gave his life during Crisis on Infinite Earths is still one of DC's biggest moments.",
+  "creators": ["Robert Kanigher", "Carmine Infantino"],
+  "firstAppearance": {
+    "title": "Showcase",
+    "issue": "4",
+    "year": 1956
+  },
+  "powers": [
+    "Runs at incredible speeds",
+    "Lightning-fast reflexes and thinking",
+    "Draws power from the Speed Force",
+    "Expert forensic scientist",
+    "Trained fighter"
+  ],
+  "affiliations": ["Justice League", "Flash Family"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1956",
+      "title": "Lightning and chemicals",
+      "beat": "Police scientist Barry Allen is struck by lightning and doused in chemicals in Showcase #4, gaining super speed. The issue is traditionally seen as the start of comics' Silver Age."
+    },
+    {
+      "era": "Flash of Two Worlds",
+      "years": "1961",
+      "title": "Meeting Jay Garrick",
+      "beat": "Barry vibrates into a parallel Earth and meets Jay Garrick, the Golden Age Flash, introducing DC's multiverse."
+    },
+    {
+      "era": "Tragedy and trial",
+      "years": "1979–1985",
+      "title": "Losing Iris",
+      "beat": "The Reverse-Flash murders Barry's wife Iris. Years later Barry kills Thawne to save his new fiancée and stands trial for it."
+    },
+    {
+      "era": "Crisis",
+      "years": "1985",
+      "title": "The ultimate sacrifice",
+      "beat": "In Crisis on Infinite Earths, Barry runs himself out of existence to destroy the Anti-Monitor's weapon, saving reality."
+    },
+    {
+      "era": "Rebirth",
+      "years": "2008–2009",
+      "title": "Back from the Speed Force",
+      "beat": "After more than 20 years away, Barry returns in Final Crisis and Flash: Rebirth."
+    },
+    {
+      "era": "Flashpoint",
+      "years": "2011",
+      "title": "Breaking time",
+      "beat": "Barry travels back to save his mother and creates a nightmare timeline. Fixing it reshapes the whole DC universe into the New 52."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Barry Allen was the first Flash.",
+      "spice": 1,
+      "truth": "Jay Garrick was the first Flash in 1940. Barry arrived in 1956."
+    },
+    {
+      "type": "fact",
+      "text": "Barry was named after two talk-show hosts, Barry Gray and Steve Allen.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Barry stayed dead for 23 real-world years, and Wally West kept the Flash name running the whole time.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "In Flash of Two Worlds, Barry had read about Jay Garrick in comic books before meeting him.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Grant Gustin played Barry in The Flash TV series for nine seasons, from 2014 to 2023.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Barry Allen's job?",
+      "options": ["Police forensic scientist", "Reporter", "Lawyer", "Pilot"],
+      "answer": 0,
+      "why": "He works as a police scientist."
+    },
+    {
+      "q": "Who was the first Flash?",
+      "options": ["Wally West", "Jay Garrick", "Bart Allen", "Max Mercury"],
+      "answer": 1,
+      "why": "Jay Garrick debuted in 1940."
+    },
+    {
+      "q": "In which 1985 event did Barry sacrifice himself?",
+      "options": ["Zero Hour", "Infinite Crisis", "Final Crisis", "Crisis on Infinite Earths"],
+      "answer": 3,
+      "why": "Crisis on Infinite Earths #8."
+    }
+  ],
+  "rivals": ["reverse-flash"],
+  "allies": ["flash-wally-west", "green-lantern-hal-jordan", "green-arrow", "superman"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#f2c230",
+      "c3": "#ffe066"
+    },
+    "motif": "speed",
+    "mood": "light",
+    "tagline": "Late for everything, despite being the fastest."
+  },
+  "timeline": [
+    {
+      "year": 1956,
+      "kind": "debut",
+      "title": "Lightning in Showcase",
+      "note": "Showcase #4 introduces police chemist Barry Allen, and his debut is widely credited with starting the Silver Age."
+    },
+    {
+      "year": 1961,
+      "kind": "comic",
+      "title": "Flash of Two Worlds",
+      "note": "Barry vibrates onto a parallel Earth and meets Golden Age Flash Jay Garrick. The DC multiverse starts here."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Meet Professor Zoom",
+      "note": "The Flash #139 introduces Eobard Thawne, a man from the future who copies Barry's speed for evil.",
+      "with": "reverse-flash"
+    },
+    {
+      "year": 1985,
+      "kind": "death",
+      "title": "Crisis sacrifice",
+      "note": "Barry runs himself out of existence wrecking the Anti-Monitor's cannon in Crisis on Infinite Earths #8."
+    },
+    {
+      "year": 1990,
+      "kind": "screen",
+      "title": "Prime-time sprinter",
+      "note": "John Wesley Shipp races through a big-budget CBS live-action series in a muscled red suit."
+    },
+    {
+      "year": 2008,
+      "kind": "return",
+      "title": "Out of the Speed Force",
+      "note": "After more than two decades gone, Barry comes racing back into the DCU during Final Crisis."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Flashpoint",
+      "note": "Barry tries to save his mother, breaks the timeline, and sets up the whole New 52 reboot.",
+      "with": "reverse-flash"
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "The CW years",
+      "note": "Grant Gustin plays Barry for nine seasons on The CW, anchoring a whole linked TV universe."
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Barry_Allen",
+    "wikidata": "https://www.wikidata.org/wiki/Q2258938"
+  },
+  "photo": {
+    "file": "flash-barry-allen.webp",
+    "alt": "Barry Allen photograph",
+    "artist": "tofuprod",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:LA_Auto_Show_2012_(8256493255).jpg"
+  }
+}

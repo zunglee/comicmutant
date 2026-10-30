@@ -1,0 +1,41 @@
+{
+  "slug": "juno-ferrow",
+  "name": "JUNO FERROW",
+  "alias": "CADENCE",
+  "kind": "hero",
+  "archetype": "elemental-controller",
+  "bio": "A drummer from the Ferrow foothills whose gift surfaced in the Convergence of 2014, when a storm walked down the mountain and she gave it a tempo. The mountain seems to know her by name. Storms have opinions; she keeps time.",
+  "catchphrase": "A storm has opinions. I just count it in.",
+  "rig": {
+    "build": "normal",
+    "head": "bare",
+    "cape": false,
+    "skin": "#8d5524",
+    "suit": "#0f4d3a",
+    "trim": "#b9b4aa",
+    "eye": "#4fe3a3",
+    "emblem": "chevron"
+  },
+  "stats": {
+    "power": 8,
+    "speed": 4,
+    "defense": 5,
+    "special": 9
+  },
+  "special": {
+    "name": "Storm Count-In",
+    "kind": "shockwave"
+  },
+  "rivals": ["sukhdev-rawat", "edda-skarn", "lio-varga"],
+  "theme": {
+    "palette": {
+      "c1": "#4fe3a3",
+      "c2": "#b9b4aa",
+      "c3": "#ffd23f"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Counting the storm in."
+  },
+  "heat": 68
+}

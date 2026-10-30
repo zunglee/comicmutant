@@ -1,0 +1,181 @@
+{
+  "slug": "darkseid",
+  "name": "Darkseid",
+  "realName": "Uxas",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Jack Kirby's god of tyranny, who wants the universe to stop thinking. Darkseid rules the hellish planet Apokolips and hunts the Anti-Life Equation to control every mind.",
+  "origin": "Darkseid is Jack Kirby's idea of pure tyranny carved in stone, and he still looms over every big DC crossover. He first peeked out in Superman's Pal Jimmy Olsen #134 in 1970, part of Kirby's Fourth World saga, then made his full entrance in Forever People #1. Born Uxas, he is one of the New Gods and the absolute ruler of Apokolips, a hellish factory planet. His great goal is the Anti-Life Equation, a formula that would wipe out free will and hope and give him control over every mind in existence. He fires Omega Beams from his eyes, is practically immortal and nearly unbreakable, and plans with cold patience. Plenty of villains want to rule the universe; Darkseid wants it to stop thinking.",
+  "creators": ["Jack Kirby"],
+  "firstAppearance": {
+    "title": "Superman's Pal Jimmy Olsen",
+    "issue": "134",
+    "year": 1970
+  },
+  "powers": [
+    "Omega Beams that chase their target",
+    "Godlike strength and durability",
+    "Near-immortal New God",
+    "Cold, brilliant strategist",
+    "Skilled fighter"
+  ],
+  "affiliations": [
+    "Darkseid's Elite",
+    "Female Furies",
+    "Intergang",
+    "Secret Society of Super Villains",
+    "Legion of Doom",
+    "Injustice League"
+  ],
+  "storyline": [
+    {
+      "era": "Fourth World",
+      "years": "1970–1973",
+      "title": "Kirby's tyrant",
+      "beat": "Jack Kirby moves to DC and launches his Fourth World saga, with Darkseid as the ruler of the hellish planet Apokolips, searching for a formula to control all minds."
+    },
+    {
+      "era": "The Pact",
+      "years": "1972",
+      "title": "Traded sons",
+      "beat": "Darkseid and Highfather of New Genesis exchange sons to seal a truce. Orion is raised on New Genesis and Scott Free on Apokolips."
+    },
+    {
+      "era": "Great Darkness",
+      "years": "1982",
+      "title": "Legion's nightmare",
+      "beat": "In the Legion of Super-Heroes' Great Darkness Saga, a mysterious villain menacing the 30th century turns out to be Darkseid."
+    },
+    {
+      "era": "Final Crisis",
+      "years": "2008",
+      "title": "God falls",
+      "beat": "Grant Morrison has Darkseid fall through creation into a human body and almost conquer Earth. Batman shoots him with a special bullet."
+    },
+    {
+      "era": "New 52 league",
+      "years": "2011",
+      "title": "Why the League formed",
+      "beat": "Darkseid's invasion of Earth brings together the first heroes of the new Justice League."
+    },
+    {
+      "era": "Darkseid War",
+      "years": "2015–2016",
+      "title": "Death of a god",
+      "beat": "The Anti-Monitor kills Darkseid, sending his godly power out to members of the Justice League."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "When Kirby drew Superman for Jimmy Olsen, DC had other artists redraw his Superman faces to match the house style.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Jim Starlin's Thanos for Marvel took inspiration from Darkseid.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His Omega Beams fire from his eyes and can bend around obstacles to find their target.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He hunts for the Anti-Life Equation, which would let him control every mind.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He first appeared in Superman's Pal Jimmy Olsen, not in a Superman title.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet does Darkseid rule?",
+      "options": ["New Genesis", "Krypton", "Apokolips", "Thanagar"],
+      "answer": 2,
+      "why": "Apokolips."
+    },
+    {
+      "q": "What formula does Darkseid seek?",
+      "options": ["Anti-Life Equation", "Cosmic Cube", "Speed Force", "Omega Code"],
+      "answer": 0,
+      "why": "The Anti-Life Equation."
+    },
+    {
+      "q": "Which of Darkseid's sons was raised on New Genesis?",
+      "options": ["Kalibak", "Orion", "Grayven", "Steppenwolf"],
+      "answer": 1,
+      "why": "Orion was raised by Highfather."
+    }
+  ],
+  "rivals": ["superman", "batman", "wonder-woman", "cyborg"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#4a4f5a",
+      "c2": "#1f3a93",
+      "c3": "#e63946"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Tyrant of a fire planet with very glowing eyes."
+  },
+  "timeline": [
+    {
+      "year": 1970,
+      "kind": "debut",
+      "title": "Shadow over Jimmy Olsen",
+      "note": "Jack Kirby slips Darkseid into Superman's Pal Jimmy Olsen #134, a teaser for his Fourth World saga.",
+      "with": "superman"
+    },
+    {
+      "year": 1971,
+      "kind": "comic",
+      "title": "The Fourth World",
+      "note": "Kirby's New Gods books reveal Darkseid as the tyrant of Apokolips, hunting the Anti-Life Equation."
+    },
+    {
+      "year": 1984,
+      "kind": "screen",
+      "title": "Super Powers debut",
+      "note": "Darkseid makes his animated debut in Super Friends: The Legendary Super Powers Show."
+    },
+    {
+      "year": 1986,
+      "kind": "comic",
+      "title": "Legends",
+      "note": "Darkseid masterminds Legends, the first big crossover of the post-Crisis DC universe."
+    },
+    {
+      "year": 2008,
+      "kind": "turn",
+      "title": "Final Crisis",
+      "note": "Grant Morrison's Final Crisis has a fallen Darkseid nearly drag all of reality down with him.",
+      "with": "batman"
+    },
+    {
+      "year": 2015,
+      "kind": "death",
+      "title": "The Darkseid War",
+      "note": "His clash with the Anti-Monitor ends with Darkseid dead, at least for a while."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "The Snyder Cut",
+      "note": "Darkseid finally appears in a live-action movie in Zack Snyder's Justice League.",
+      "with": "cyborg"
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Darkseid",
+    "wikidata": "https://www.wikidata.org/wiki/Q430698"
+  }
+}

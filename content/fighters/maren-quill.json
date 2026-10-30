@@ -1,0 +1,41 @@
+{
+  "slug": "maren-quill",
+  "name": "MAREN QUILL",
+  "alias": "LATTICE",
+  "kind": "hero",
+  "archetype": "mutant-telepath",
+  "bio": "Born in 1995 to two parents who had both been under the line, Maren wove thoughts between her siblings before she could read. By the Charter she could hold a whole crowd in one shared sentence. She is the Accord's voice and its conscience.",
+  "catchphrase": "A weave is not a leash. Ask anyone in it.",
+  "rig": {
+    "build": "slim",
+    "head": "bare",
+    "cape": true,
+    "skin": "#a56a43",
+    "suit": "#ede8de",
+    "trim": "#7a4bd1",
+    "eye": "#8a5cff",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 4,
+    "defense": 5,
+    "special": 9
+  },
+  "special": {
+    "name": "Shared Sentence",
+    "kind": "beam"
+  },
+  "rivals": ["imra-sallow", "null-meridian"],
+  "theme": {
+    "palette": {
+      "c1": "#c39dff",
+      "c2": "#ede8de",
+      "c3": "#ffb86b"
+    },
+    "motif": "mind",
+    "mood": "light",
+    "tagline": "One voice, many minds."
+  },
+  "heat": 72
+}

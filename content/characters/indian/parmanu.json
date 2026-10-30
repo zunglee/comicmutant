@@ -1,0 +1,140 @@
+{
+  "slug": "parmanu",
+  "name": "Parmanu",
+  "realName": "Vinay (Inspector Vinay)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' atomic hero: Delhi police inspector Vinay, whose bright yellow power suit lets him shrink, fly, teleport and fire atomic blasts. Parmanu means atom.",
+  "origin": "As a high-school student, Vinay saw criminals murder a classmate and found out the killer was the city's police chief. When the chief came after him for the evidence, Vinay was rescued by his maternal uncle, the scientist Prof. K. K. Verma, who had built a costume that gives its wearer superpowers. In it, Vinay defeated the monster Bufalo and avenged his classmate. Most of his family died in the chaos, and his own brother Vijay sided with the gangsters. As an adult, Vinay serves in the Delhi Police by day and patrols as Parmanu by night.",
+  "creators": ["Sanjay Gupta"],
+  "firstAppearance": {
+    "title": "Aag",
+    "year": 1991
+  },
+  "powers": [
+    "Flight at the speed of sound and beyond",
+    "Atomic bolts fired from his chest and wrist gadgets",
+    "Atomic rope from his wrist gadgets",
+    "Shrinks to any size",
+    "Teleportation",
+    "Can break his body down into atoms",
+    "Voice-activated suit, upgraded by the robot Probot",
+    "City-wide camera network run by Probot"
+  ],
+  "affiliations": ["Delhi Police", "Brahmand Rakshak (Protectors of the Universe)"],
+  "storyline": [
+    {
+      "era": "Origin",
+      "years": "Backstory",
+      "title": "A murdered classmate",
+      "beat": "A teenage Vinay witnesses a killing, survives the corrupt police chief's hunt, and puts on his uncle's super-suit for the first time."
+    },
+    {
+      "era": "Debut",
+      "years": "1991",
+      "title": "The atom arrives",
+      "beat": "Parmanu launches as one of the Raj Comics heroes created after Nagraj's success."
+    },
+    {
+      "era": "Team-ups",
+      "years": "1990s",
+      "title": "Multi-star specials",
+      "beat": "He becomes a regular in Raj Comics' crossover specials, fighting alongside Nagraj, Dhruva and the rest of the Brahmand Rakshak."
+    },
+    {
+      "era": "Sacrifice",
+      "years": "Later",
+      "title": "Akhiri",
+      "beat": "In the Akhiri series, Parmanu dies saving Earth by blowing himself up in space."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Parmanu is the Hindi word for atom, a nod to his atomic powers.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Commentators have compared his shrinking powers to Ant-Man and the Atom.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Early on he activated his powers with buttons on his belt. Probot later made the suit respond to voice commands.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Parmanu was born with his powers.",
+      "truth": "All his powers come from a costume built by his uncle, Prof. K. K. Verma.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Sanjay Gupta says he came up with Parmanu in the late 1980s because he wanted a hero with scientific powers.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who built Parmanu's power suit?",
+      "options": ["Probot", "His uncle, Prof. K. K. Verma", "Nagraj", "The Delhi Police"],
+      "answer": 1,
+      "why": "His maternal uncle, a scientist, created the costume."
+    },
+    {
+      "q": "What does the word Parmanu mean?",
+      "options": ["Lightning", "Star", "Atom", "Shield"],
+      "answer": 2,
+      "why": "Parmanu is Hindi for atom."
+    }
+  ],
+  "rivals": [],
+  "allies": ["nagraj", "super-commando-dhruva"],
+  "theme": {
+    "palette": {
+      "c1": "#ffd400",
+      "c2": "#212121",
+      "c3": "#00e5ff"
+    },
+    "motif": "size",
+    "mood": "light",
+    "tagline": "Small enough to vanish, bright enough to blind."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parmanu",
+    "theprint": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/"
+  },
+  "timeline": [
+    {
+      "year": 1991,
+      "kind": "debut",
+      "title": "Aag",
+      "note": "Delhi cop Vinay first suits up as the shrinking, teleporting atom hero, created by Sanjay Gupta."
+    },
+    {
+      "year": 2001,
+      "kind": "comic",
+      "title": "On the Brahmand Rakshak roster",
+      "note": "Raj Comics forms its superhero team in Zalzalaa, and Parmanu becomes one of its members.",
+      "with": "nagraj"
+    },
+    {
+      "year": 2022,
+      "kind": "comic",
+      "title": "Sarvgrahan team-up",
+      "note": "Sanjay Gupta's imprint drops him into a six-hero book next to Nagraj, Dhruva, Doga, Tiranga and Bheriya.",
+      "with": "nagraj"
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "Wonderman Parmanu collector's set",
+      "note": "Raj Comics by Manoj Gupta puts out a Wonderman Parmanu collector's edition along with paperbacks."
+    }
+  ],
+  "heat": 40
+}

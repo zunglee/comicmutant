@@ -1,0 +1,194 @@
+{
+  "slug": "harley-quinn",
+  "name": "Harley Quinn",
+  "realName": "Harleen Frances Quinzel",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "animation",
+  "publisher": "DC Comics",
+  "summary": "The one-episode henchwoman who took over DC. Harleen Quinzel was an Arkham psychiatrist until she fell for the Joker, and she has since become a chaotic antihero in her own right.",
+  "origin": "Harley Quinn was supposed to be a one-episode joke and became one of DC's biggest stars, which is the best kind of plot twist. Paul Dini and Bruce Timm dreamed her up as a Joker henchwoman on Batman: The Animated Series, and she debuted in the episode 'Joker's Favor' in September 1992. Fans loved her so much that she kept coming back, and Mad Love later revealed she was once Dr. Harleen Quinzel, an Arkham psychiatrist who fell for the patient she was supposed to treat. She joined the main DC comics continuity in 1999. She is an expert gymnast, hits hard with a giant mallet and shrugs off most toxins. Leaving the Joker was the best thing she ever did.",
+  "creators": ["Paul Dini", "Bruce Timm"],
+  "firstAppearance": {
+    "title": "Joker's Favor",
+    "year": 1992
+  },
+  "powers": [
+    "Expert gymnast and acrobat",
+    "Trained psychiatrist",
+    "Boosted strength, agility and toughness",
+    "Immune to most poisons",
+    "Arsenal of gag weapons, including a giant mallet"
+  ],
+  "affiliations": [
+    "Suicide Squad",
+    "Gotham City Sirens",
+    "Secret Six",
+    "Justice League",
+    "Batman family"
+  ],
+  "storyline": [
+    {
+      "era": "TV debut",
+      "years": "1992",
+      "title": "Joker's sidekick",
+      "beat": "Paul Dini and Bruce Timm create Harley Quinn for Batman: The Animated Series as the Joker's lovestruck henchwoman. She was meant as a one-off."
+    },
+    {
+      "era": "Comics debut",
+      "years": "1993",
+      "title": "Crossing over",
+      "beat": "Harley makes her first comic appearance in The Batman Adventures #12, a tie-in to the cartoon."
+    },
+    {
+      "era": "Mad Love",
+      "years": "1994",
+      "title": "Her origin",
+      "beat": "Mad Love reveals Harley was Dr. Harleen Quinzel, an Arkham Asylum psychiatrist who fell for the Joker. It wins an Eisner Award."
+    },
+    {
+      "era": "Main universe",
+      "years": "1999",
+      "title": "Joining DC canon",
+      "beat": "Harley enters the main DC comics continuity during the No Man's Land era and soon gets her first solo series."
+    },
+    {
+      "era": "Antihero",
+      "years": "2013",
+      "title": "Coney Island",
+      "beat": "Amanda Conner and Jimmy Palmiotti's series makes Harley a chaotic antihero with her own life in Coney Island, away from the Joker."
+    },
+    {
+      "era": "Big screen",
+      "years": "2016–2021",
+      "title": "Margot Robbie",
+      "beat": "Margot Robbie plays Harley in three films, making her one of DC's most recognisable characters."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Harley Quinn was created in the comics.",
+      "spice": 1,
+      "truth": "She was created for Batman: The Animated Series in 1992 and reached the comics a year later."
+    },
+    {
+      "type": "fact",
+      "text": "Paul Dini based her partly on his friend, actress Arleen Sorkin, who then voiced her.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Mad Love, her 1994 origin story, won an Eisner Award.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Her romance with Poison Ivy has been canon in comics and the animated series.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Harleen Quinzel's job?",
+      "options": ["Psychiatrist at Arkham Asylum", "Police officer", "Circus acrobat", "Reporter"],
+      "answer": 0,
+      "why": "She was an Arkham psychiatrist."
+    },
+    {
+      "q": "Who originally voiced Harley Quinn?",
+      "options": ["Tara Strong", "Arleen Sorkin", "Margot Robbie", "Kaley Cuoco"],
+      "answer": 1,
+      "why": "Arleen Sorkin."
+    },
+    {
+      "q": "Where did Harley Quinn first appear?",
+      "options": [
+        "Detective Comics",
+        "Batman #1",
+        "The Killing Joke",
+        "Batman: The Animated Series"
+      ],
+      "answer": 3,
+      "why": "She debuted in the 1992 episode Joker's Favor."
+    }
+  ],
+  "rivals": ["batman", "batgirl"],
+  "allies": ["joker"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1a1a1a",
+      "c3": "#f2f2f2"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Psychiatry degree, minor in mallet."
+  },
+  "timeline": [
+    {
+      "year": 1992,
+      "kind": "debut",
+      "title": "Joker's Favor",
+      "note": "A Batman: The Animated Series episode introduces the Joker's jester-suited sidekick.",
+      "with": "joker"
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Into print",
+      "note": "The Batman Adventures #12 gives Harley her comic-book debut."
+    },
+    {
+      "year": 1994,
+      "kind": "comic",
+      "title": "Mad Love",
+      "note": "Paul Dini and Bruce Timm reveal Harley was psychiatrist Harleen Quinzel, seduced by the Joker in Arkham.",
+      "with": "joker"
+    },
+    {
+      "year": 1999,
+      "kind": "turn",
+      "title": "Welcome to the DCU",
+      "note": "Batman: Harley Quinn officially brings her into mainstream DC continuity."
+    },
+    {
+      "year": 2000,
+      "kind": "comic",
+      "title": "Own series",
+      "note": "Harley gets her first ongoing series, a slapstick crime caper."
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Margot Robbie",
+      "note": "Margot Robbie plays Harley in Suicide Squad and becomes the face of the role."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "Animated sitcom",
+      "note": "Kaley Cuoco voices a newly single, villain-for-hire Harley in the adult Harley Quinn cartoon."
+    },
+    {
+      "year": 2020,
+      "kind": "screen",
+      "title": "Birds of Prey",
+      "note": "Harley splits from the Joker and teams up with Black Canary and friends on the big screen.",
+      "with": "black-canary"
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Harley_Quinn",
+    "wikidata": "https://www.wikidata.org/wiki/Q849477"
+  },
+  "photo": {
+    "file": "harley-quinn.webp",
+    "alt": "Harley Quinn photograph",
+    "artist": "MultiVersus",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Harley_Quinn_MultiVersus.png"
+  }
+}

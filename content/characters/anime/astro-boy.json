@@ -1,0 +1,177 @@
+{
+  "slug": "astro-boy",
+  "name": "Astro Boy",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Kobunsha (Shōnen magazine)",
+  "summary": "Osamu Tezuka's robot boy, called Atom in Japan: built by a grieving scientist to replace his son, he became a gentle hero and one of manga's founding icons.",
+  "origin": "Doctor Tenma built a robot boy to replace his dead son Tobio. When the robot couldn't grow up like a real child, Tenma rejected him and sold him to a cruel circus owner, Hamegg. Professor Ochanomizu rescued him under robot-rights law and gave him a robot family. As head of the Ministry of Science, Ochanomizu often calls on Astro to help settle crises between humans, robots and the occasional alien. His English translator Frederik Schodt described him as a reverse Pinocchio: a nearly perfect machine trying to become more human.",
+  "creators": ["Osamu Tezuka"],
+  "firstAppearance": {
+    "title": "Ambassador Atom (Atom Taishi)",
+    "year": 1951
+  },
+  "powers": [
+    "Superhuman strength",
+    "Rocket-powered flight",
+    "Searchlight eyes",
+    "Super-sensitive hearing",
+    "Speaks many languages",
+    "Built-in guns hidden in his hips",
+    "A genuine sense of right and wrong"
+  ],
+  "affiliations": ["Ministry of Science"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1951",
+      "title": "Ambassador Atom",
+      "beat": "Atom first appears as a supporting character in Ambassador Atom, serialised in the boys' monthly Shōnen from April 1951."
+    },
+    {
+      "era": "Own series",
+      "years": "1950s",
+      "title": "Promoted to lead",
+      "beat": "Tezuka gives Atom his own series as the main character."
+    },
+    {
+      "era": "Anime",
+      "years": "1963",
+      "title": "On television",
+      "beat": "The first Astro Boy TV anime airs, voiced by Mari Shimizu in Japanese and Billie Lou Watt in English."
+    },
+    {
+      "era": "Remakes",
+      "years": "1980–2003",
+      "title": "New generations",
+      "beat": "New anime series follow in 1980 and 2003, each retelling his creation and his search for his place among humans."
+    },
+    {
+      "era": "Pluto",
+      "years": "2003",
+      "title": "Urasawa's remake",
+      "beat": "Naoki Urasawa's Pluto reimagines the classic story arc The Greatest Robot on Earth."
+    },
+    {
+      "era": "Film",
+      "years": "2009",
+      "title": "CGI feature",
+      "beat": "A CGI feature film casts Freddie Highmore as the voice of Astro."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "On 7 April 2003, the city of Niiza in Japan registered Astro Boy as an official resident.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He was inducted into the Robot Hall of Fame in 2004.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Astro Boy debuted as the star of his own manga.",
+      "truth": "He started as a supporting character in Ambassador Atom (1951) before Tezuka gave him his own series.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The 1960s English dub renamed Doctor Tenma 'Dr. Boynton' and Professor Ochanomizu 'Dr. Elefun'.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "As Tezuka's art style developed, Astro was drawn cuter and more modern to appeal to elementary-school boys.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Astro Boy called in Japan?",
+      "options": ["Tetsuo", "Atom", "Tobio", "Robo"],
+      "answer": 1,
+      "why": "His Japanese name is Atom (Atomu)."
+    },
+    {
+      "q": "Who created Astro Boy?",
+      "options": ["Akira Toriyama", "Go Nagai", "Leiji Matsumoto", "Osamu Tezuka"],
+      "answer": 3,
+      "why": "Osamu Tezuka created him in 1951."
+    },
+    {
+      "q": "Who rescued Astro from the circus?",
+      "options": ["Professor Ochanomizu", "Doctor Tenma", "Hamegg", "Atlas"],
+      "answer": 0,
+      "why": "Ochanomizu freed him under robot-rights law."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#111111",
+      "c2": "#d32f2f",
+      "c3": "#4fc3f7"
+    },
+    "motif": "tech",
+    "mood": "light",
+    "tagline": "A robot heart, two rocket feet and a big moral compass."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+  },
+  "timeline": [
+    {
+      "year": 1951,
+      "kind": "debut",
+      "title": "Ambassador Atom",
+      "note": "Atom first turns up as a supporting robot in Tezuka's Ambassador Atom in April 1951."
+    },
+    {
+      "year": 1952,
+      "kind": "comic",
+      "title": "His own series",
+      "note": "Tetsuwan Atom begins in April 1952 and runs until 1968 in the magazine Shōnen."
+    },
+    {
+      "year": 1963,
+      "kind": "screen",
+      "title": "TV pioneer",
+      "note": "The Astro Boy anime premieres on New Year's Day 1963 and helps define the weekly TV anime format."
+    },
+    {
+      "year": 1980,
+      "kind": "screen",
+      "title": "A colour remake",
+      "note": "A new Astro Boy series from Tezuka Productions airs in 1980."
+    },
+    {
+      "year": 2003,
+      "kind": "legacy",
+      "title": "Happy birthday, Astro",
+      "note": "His in-story birth date arrives on 7 April 2003, marked by a new anime and honorary residency in Niiza."
+    },
+    {
+      "year": 2007,
+      "kind": "legacy",
+      "title": "Safety envoy",
+      "note": "In November 2007 Japan names Astro Boy an envoy for overseas travel safety."
+    },
+    {
+      "year": 2009,
+      "kind": "screen",
+      "title": "CGI feature film",
+      "note": "Imagi Animation's Astro Boy movie reaches cinemas in October 2009."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Pluto anime",
+      "note": "Naoki Urasawa's dark retelling Pluto, first a 2003–2009 manga, becomes an anime series."
+    }
+  ],
+  "heat": 50
+}

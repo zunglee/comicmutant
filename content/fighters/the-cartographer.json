@@ -1,0 +1,41 @@
+{
+  "slug": "the-cartographer",
+  "name": "ANSEL DUVARRE",
+  "alias": "THE CARTOGRAPHER",
+  "kind": "villain",
+  "archetype": "dimensional-traveler",
+  "bio": "Loom's second seam-walker after Cato Wren, and the only one who preferred the Understitch to any strand. In 2019 he moved every known crossing to doors that opened only for the Unspooled. A map is a list of doors you were allowed.",
+  "catchphrase": "A map is only a list of the doors you were allowed to use.",
+  "rig": {
+    "build": "slim",
+    "head": "visor",
+    "cape": true,
+    "skin": "#d6b79a",
+    "suit": "#0b2540",
+    "trim": "#ffd166",
+    "eye": "#6fd3ff",
+    "emblem": "star"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 5,
+    "defense": 4,
+    "special": 9
+  },
+  "special": {
+    "name": "Reanchor",
+    "kind": "teleport"
+  },
+  "rivals": ["cato-wren", "pell-oriane"],
+  "theme": {
+    "palette": {
+      "c1": "#6fd3ff",
+      "c2": "#07090d",
+      "c3": "#ffd166"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Every door answers to him now."
+  },
+  "heat": 60
+}

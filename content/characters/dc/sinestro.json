@@ -1,0 +1,170 @@
+{
+  "slug": "sinestro",
+  "name": "Sinestro",
+  "realName": "Thaal Sinestro",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A Green Lantern who chose order over freedom and fear over will. Thaal Sinestro, Hal Jordan's fallen mentor, wields a yellow ring and leads the Sinestro Corps.",
+  "origin": "Sinestro is the cop who decided order matters more than freedom, which makes him the most convincing villain Green Lantern has. John Broome and Gil Kane introduced him in Green Lantern #7 in 1961, in the second volume of the series, as a disgraced former Green Lantern thrown off the force. He had once been one of its greatest officers, and later stories made him Hal Jordan's mentor, but he used his ring to rule his home world of Korugar as a dictator. Armed with a yellow ring powered by fear, he founded his own Sinestro Corps. He understands fear better than anyone, and that gives him a weapon against every Lantern.",
+  "creators": ["John Broome", "Gil Kane"],
+  "firstAppearance": {
+    "title": "Green Lantern",
+    "issue": "7",
+    "year": 1961
+  },
+  "powers": [
+    "Brilliant mind",
+    "Seasoned strategist",
+    "Trained fighter",
+    "Reads people's fears",
+    "Fear-powered yellow ring",
+    "Hard-light constructs",
+    "Energy blasts",
+    "Flight"
+  ],
+  "affiliations": [
+    "Sinestro Corps",
+    "Legion of Doom",
+    "Injustice League",
+    "Secret Society of Super Villains",
+    "Anti-Justice League",
+    "Green Lantern Corps"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1961",
+      "title": "The fallen Lantern",
+      "beat": "Sinestro, once a Green Lantern from the planet Korugar, is thrown out of the Corps for ruling his world as a tyrant. He takes up a yellow power ring."
+    },
+    {
+      "era": "Sinestro Corps War",
+      "years": "2007",
+      "title": "An army of fear",
+      "beat": "Sinestro builds his own corps fuelled by fear and wages war on the Green Lanterns."
+    },
+    {
+      "era": "Green again",
+      "years": "2011",
+      "title": "Back in the Corps",
+      "beat": "Sinestro is forced to wear a green ring again, uneasily working alongside Hal Jordan."
+    },
+    {
+      "era": "Solo",
+      "years": "2014–2016",
+      "title": "Lord of Korugar",
+      "beat": "Sinestro gets his own series, leading his corps and his people."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Sinestro was always a villain.",
+      "spice": 2,
+      "truth": "He was once seen as one of the greatest Green Lanterns and was Hal Jordan's mentor, before his tyranny got him expelled."
+    },
+    {
+      "type": "gossip",
+      "text": "Artist Gil Kane said he modelled Sinestro's look on actor David Niven.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His daughter, Soranik Natu, became a Green Lantern.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His yellow ring runs on fear, the opposite of the Green Lanterns' willpower.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is Sinestro from?",
+      "options": ["Oa", "Korugar", "Thanagar", "Daxam"],
+      "answer": 1,
+      "why": "Korugar."
+    },
+    {
+      "q": "What colour is Sinestro's signature power ring?",
+      "options": ["Red", "Green", "Violet", "Yellow"],
+      "answer": 3,
+      "why": "Yellow."
+    },
+    {
+      "q": "Which actor inspired Sinestro's look?",
+      "options": ["David Niven", "Errol Flynn", "Clark Gable", "Vincent Price"],
+      "answer": 0,
+      "why": "Gil Kane cited David Niven."
+    }
+  ],
+  "rivals": ["green-lantern-hal-jordan", "green-lantern-john-stewart"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2c230",
+      "c2": "#1a1a1a",
+      "c3": "#d63a8a"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Order through fear, and a very sharp moustache."
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "kind": "debut",
+      "title": "Fallen Lantern",
+      "note": "Green Lantern #7 introduces Sinestro, a Lantern who ruled his own sector as a tyrant.",
+      "with": "green-lantern-hal-jordan"
+    },
+    {
+      "year": 1978,
+      "kind": "screen",
+      "title": "Legion of Doom",
+      "note": "Sinestro joins the Legion of Doom in Challenge of the Super Friends, alongside Lex and Brainiac.",
+      "with": "lex-luthor"
+    },
+    {
+      "year": 2007,
+      "kind": "turn",
+      "title": "Sinestro Corps War",
+      "note": "Sinestro builds a yellow-ring army powered by fear and declares war on the Green Lanterns."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Green again",
+      "note": "The New 52 opens with Sinestro wearing a Green Lantern ring and grudgingly teaming with Hal.",
+      "with": "green-lantern-hal-jordan"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Mark Strong",
+      "note": "Mark Strong plays a regal, menacing Sinestro in the Green Lantern film."
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "His own series",
+      "note": "Sinestro gets an ongoing series, leading his Corps as the star of his own story."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sinestro",
+    "wikidata": "https://www.wikidata.org/wiki/Q2279525"
+  },
+  "photo": {
+    "file": "sinestro.webp",
+    "alt": "Sinestro photograph",
+    "artist": "istolethetv from Hong Kong, China",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Sinestro_corps_(5161744232).jpg"
+  }
+}

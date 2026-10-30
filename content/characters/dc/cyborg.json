@@ -1,0 +1,168 @@
+{
+  "slug": "cyborg",
+  "name": "Cyborg",
+  "realName": "Victor Stone",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Half man, half machine and fully done with being treated like a gadget. Victor Stone, rebuilt by his scientist father after a lab disaster, has served with both the Teen Titans and the Justice League.",
+  "origin": "Cyborg is a star athlete who lost almost everything in one lab accident, and he spent years learning to live in the body that saved him. Marv Wolfman and George Pérez introduced Victor Stone in a preview insert in DC Comics Presents #26 in 1980, part of the launch of The New Teen Titans. An experiment at his parents' lab killed his mother and nearly killed him, so his father rebuilt him with advanced cybernetics, leaving Vic stronger, tougher and wired with weapons and sensors. He became a Titans mainstay, and the 2011 relaunch moved him into the Justice League as a founder. Today he can talk to almost any computer, which makes him the League's living server.",
+  "creators": ["Marv Wolfman (writer)", "George Pérez (artist)"],
+  "firstAppearance": {
+    "title": "DC Comics Presents",
+    "issue": "26",
+    "year": 1980
+  },
+  "powers": [
+    "Brilliant mind with a built-in computer",
+    "Machine-boosted strength, speed and toughness",
+    "Built-in weapons and sensors",
+    "Flight systems",
+    "Plugs into almost any computer",
+    "Self-repairing tech",
+    "Can reshape his cybernetic parts"
+  ],
+  "affiliations": ["Titans", "Teen Titans", "Justice League"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1980",
+      "title": "Rebuilt",
+      "beat": "Victor Stone, a star athlete, is badly injured in a lab accident. His scientist father saves him by rebuilding much of his body with cybernetics, and he joins The New Teen Titans."
+    },
+    {
+      "era": "Titan years",
+      "years": "1980s–2000s",
+      "title": "Heart of the Titans",
+      "beat": "Vic becomes a core member of the Titans, dealing with his changed body while acting as the team's tech expert."
+    },
+    {
+      "era": "Justice League",
+      "years": "2011",
+      "title": "Founding member",
+      "beat": "DC's New 52 relaunch makes Cyborg a founding member of the Justice League, joining DC's biggest heroes."
+    },
+    {
+      "era": "Solo series",
+      "years": "2015",
+      "title": "Upgrades",
+      "beat": "Cyborg gets his own series exploring the tech that keeps evolving inside him."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Cyborg was an original Justice League founder in 1960.",
+      "spice": 1,
+      "truth": "He was a Teen Titan from 1980. The 2011 relaunch made him a founder."
+    },
+    {
+      "type": "fact",
+      "text": "His father, Silas Stone, is a S.T.A.R. Labs scientist who rebuilt him.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Ray Fisher, who played Cyborg on film, publicly raised complaints about the 2017 Justice League reshoots, leading to an investigation by WarnerMedia.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "He can connect to almost any computer system.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which team did Cyborg first join?",
+      "options": ["Justice League", "New Teen Titans", "Doom Patrol", "Outsiders"],
+      "answer": 1,
+      "why": "He debuted with The New Teen Titans in 1980."
+    },
+    {
+      "q": "Who is Cyborg's father?",
+      "options": ["Thomas Wayne", "Jor-El", "Silas Stone", "Ted Kord"],
+      "answer": 2,
+      "why": "Silas Stone rebuilt him."
+    },
+    {
+      "q": "In 2011, Cyborg became a founding member of which team?",
+      "options": ["Justice League", "Justice Society", "Suicide Squad", "Doom Patrol"],
+      "answer": 0,
+      "why": "The New 52 Justice League."
+    }
+  ],
+  "rivals": ["deathstroke", "darkseid"],
+  "allies": ["beast-boy", "raven", "starfire", "nightwing", "superman", "batman"],
+  "theme": {
+    "palette": {
+      "c1": "#8a8f98",
+      "c2": "#c8102e",
+      "c3": "#1f3a93"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Half athlete, half supercomputer, all heart."
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "kind": "debut",
+      "title": "Sneak preview",
+      "note": "A preview insert in DC Comics Presents #26 introduces Victor Stone alongside a brand-new Titans lineup.",
+      "with": "raven"
+    },
+    {
+      "year": 1980,
+      "kind": "comic",
+      "title": "New Teen Titans #1",
+      "note": "Wolfman and Perez's New Teen Titans launches with Vic on the team, and the book becomes a breakout hit.",
+      "with": "nightwing"
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Teen Titans on TV",
+      "note": "The Teen Titans cartoon makes Cyborg a kid favourite, with Khary Payton voicing him."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Justice League founder",
+      "note": "The New 52 makes Vic a founding member of the Justice League from its very first issue.",
+      "with": "batman"
+    },
+    {
+      "year": 2015,
+      "kind": "comic",
+      "title": "His own series",
+      "note": "Cyborg's first ongoing solo series digs into Vic's body, his father and what still makes him human."
+    },
+    {
+      "year": 2017,
+      "kind": "screen",
+      "title": "Ray Fisher on the big screen",
+      "note": "Ray Fisher plays Vic in Justice League, and returns for the 2021 director's cut."
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Homecoming",
+      "note": "A new Cyborg limited series sends Vic back to Detroit to rebuild his life and his city."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q2466726"
+  },
+  "photo": {
+    "file": "cyborg.webp",
+    "alt": "Cyborg photograph",
+    "artist": "https://scratch.mit.edu/users/cartoonnetwork/",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cyborg_(Teen_Titans_Go!).svg"
+  }
+}

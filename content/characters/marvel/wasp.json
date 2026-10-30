@@ -1,0 +1,195 @@
+{
+  "slug": "wasp",
+  "name": "Wasp",
+  "realName": "Janet van Dyne",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The founding Avenger who named the team. Janet van Dyne shrinks to insect size, flies on wings and stings with bio-electric blasts, and she has chaired the Avengers more than once.",
+  "origin": "The Wasp is the founding Avenger who named the team, and she deserves more credit for it. Janet van Dyne arrived in Tales to Astonish #44 in 1963, from Stan Lee, Ernie Hart and Jack Kirby, as a wealthy young woman who teamed up with scientist Hank Pym after her father was killed by an alien. Pym gave her the ability to shrink and sprout wings, and she later learned to fire stinging bio-electric blasts and command insects. Months later she was there with Thor, the Hulk, Ant-Man and Iron Man when the Avengers formed, and she has led the team more than once. She is also a fashion designer who changes costumes constantly.",
+  "creators": ["Stan Lee (writer/plotter)", "Ernie Hart (writer/scripter)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Tales to Astonish",
+    "issue": "44",
+    "year": 1963
+  },
+  "powers": [
+    "Shrinks to insect size and back",
+    "Flies on insect-like wings",
+    "Stinging bio-electric blasts",
+    "Can command insects"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Uncanny Avengers",
+    "Agents of Wakanda",
+    "Lady Liberators",
+    "West Coast Avengers",
+    "Mighty Avengers",
+    "Defenders"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "A partner for Pym",
+      "beat": "Janet van Dyne asks scientist Hank Pym for help avenging her father's murder. He gives her the power to shrink and grow wings, and she becomes the Wasp."
+    },
+    {
+      "era": "Founding Avenger",
+      "years": "1963",
+      "title": "Naming the team",
+      "beat": "Janet is a founding member of the Avengers and suggests the team's name in its first issue."
+    },
+    {
+      "era": "Marriage",
+      "years": "1968–1969",
+      "title": "Wedding to Hank",
+      "beat": "Janet marries Hank Pym, then going by Yellowjacket, in Avengers #60."
+    },
+    {
+      "era": "Leader",
+      "years": "1980s",
+      "title": "Chairwoman",
+      "beat": "After her divorce Janet becomes one of the Avengers' longest-serving leaders."
+    },
+    {
+      "era": "Secret Invasion",
+      "years": "2008–2012",
+      "title": "Lost and found",
+      "beat": "Janet seems to die at the end of Secret Invasion, but she is later found alive in the Microverse."
+    },
+    {
+      "era": "Next generation",
+      "years": "2016–2017",
+      "title": "Nadia van Dyne",
+      "beat": "Hank's daughter Nadia, raised in Russia, takes up the Wasp name. Janet becomes her mentor."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "She named the Avengers in their very first issue.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Hope van Dyne was the original Wasp in the comics.",
+      "spice": 1,
+      "truth": "Janet van Dyne was the original Wasp in 1963. Hope comes from the films."
+    },
+    {
+      "type": "fact",
+      "text": "She is a fashion designer and has changed costumes more often than almost any other Avenger.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Avengers #213 (1981), where Hank strikes Janet, became one of Marvel's most notorious moments. Editor Jim Shooter later said the art was meant to look like an accident.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Hank's daughter Nadia took the Wasp name in 2016.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which founding member gave the Avengers their name?",
+      "options": ["Wasp", "Iron Man", "Thor", "Hulk"],
+      "answer": 0,
+      "why": "Janet suggested the name in Avengers #1."
+    },
+    {
+      "q": "What is Janet van Dyne's career?",
+      "options": ["Lawyer", "Physicist", "Fashion designer", "Pilot"],
+      "answer": 2,
+      "why": "She is a fashion designer."
+    },
+    {
+      "q": "Who was the Wasp's original partner?",
+      "options": ["Scott Lang", "Hank Pym", "Tony Stark", "Bill Foster"],
+      "answer": 1,
+      "why": "Hank Pym gave her powers in 1963."
+    }
+  ],
+  "rivals": ["ultron"],
+  "allies": ["ant-man", "captain-america", "iron-man", "thor", "vision"],
+  "theme": {
+    "palette": {
+      "c1": "#f2c230",
+      "c2": "#1a1a1a",
+      "c3": "#c8102e"
+    },
+    "motif": "size",
+    "mood": "light",
+    "tagline": "Tiny, winged and absolutely running this meeting."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "A partner for Pym",
+      "note": "Tales to Astonish #44 introduces Janet van Dyne, who gains wings and shrinking powers."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Naming the team",
+      "note": "The Avengers #1 has Janet suggest the team's name, a fact fans love to repeat.",
+      "with": "thor"
+    },
+    {
+      "year": 1969,
+      "kind": "turn",
+      "title": "Wedding to Hank Pym",
+      "note": "Avengers #60 holds Janet's wedding to Hank, who shows up as the new Yellowjacket."
+    },
+    {
+      "year": 1982,
+      "kind": "comic",
+      "title": "Chairwoman of the Avengers",
+      "note": "Avengers #217 has Janet leading the team, one of its longest-serving chairs."
+    },
+    {
+      "year": 2010,
+      "kind": "screen",
+      "title": "Earth's Mightiest Heroes",
+      "note": "The Avengers: Earth's Mightiest Heroes cartoon makes Janet a founding team member on TV."
+    },
+    {
+      "year": 2012,
+      "kind": "return",
+      "title": "Back from the Microverse",
+      "note": "After being presumed dead in Secret Invasion, Avengers #32 finds Janet alive and rescues her."
+    },
+    {
+      "year": 2016,
+      "kind": "legacy",
+      "title": "Nadia van Dyne arrives",
+      "note": "Hank's long-lost daughter Nadia debuts and later becomes the Unstoppable Wasp."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Michelle Pfeiffer's Janet",
+      "note": "Ant-Man and the Wasp pulls Michelle Pfeiffer's Janet out of the Quantum Realm.",
+      "with": "ant-man"
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wasp_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q648125"
+  },
+  "photo": {
+    "file": "wasp.webp",
+    "alt": "Wasp photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Riddle_as_the_Wasp_(7573734284).jpg"
+  }
+}

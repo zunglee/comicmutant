@@ -1,0 +1,165 @@
+{
+  "slug": "madara-uchiha",
+  "name": "Madara Uchiha",
+  "universe": "anime",
+  "kind": "villain",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Naruto's legendary Uchiha warlord: co-founder of the Hidden Leaf who turned on it and came back from the grave to put the whole world to sleep in a dream. A major name in the story from 2007.",
+  "origin": "In the age of warring clans, Madara led the Uchiha and fought endlessly against Hashirama Senju of the Senju clan. The two rivals eventually made peace and founded the Hidden Leaf Village together, and it was Madara who gave the village its name. Distrustful of the Senju and sure that peace could never last, he walked away, lost a titanic duel to Hashirama and was thought dead. In secret he survived, used Hashirama's cells to awaken the Rinnegan and plotted to cast the Infinite Tsukuyomi, a genjutsu that would trap everyone in a perfect dream. Kishimoto wanted a towering final villain for Naruto and Sasuke to beat together, and Madara filled that role.",
+  "creators": ["Masashi Kishimoto"],
+  "firstAppearance": {
+    "title": "Naruto",
+    "issue": "Chapter 370",
+    "year": 2007
+  },
+  "powers": [
+    "Eternal Mangekyō Sharingan",
+    "Rinnegan",
+    "A giant armoured Susanoo",
+    "Fire-style jutsu on a battlefield scale",
+    "Wood Style from Hashirama's cells",
+    "Summoning meteors",
+    "Ten-Tails jinchūriki powers"
+  ],
+  "affiliations": [
+    "Uchiha clan",
+    "Hidden Leaf Village (co-founder)",
+    "Akatsuki (behind the scenes)"
+  ],
+  "storyline": [
+    {
+      "era": "Warring States",
+      "years": "Backstory",
+      "title": "Rival and friend",
+      "beat": "Madara and Hashirama go from boyhood friends to clan enemies to co-founders of the Hidden Leaf."
+    },
+    {
+      "era": "Backstory",
+      "years": "Backstory",
+      "title": "The Valley of the End",
+      "beat": "Convinced the village will betray the Uchiha, Madara leaves, loses a colossal duel to Hashirama and fakes his death."
+    },
+    {
+      "era": "Part II",
+      "years": "2007–2010",
+      "title": "A borrowed name",
+      "beat": "A masked man steering the Akatsuki claims to be Madara, keeping heroes and readers guessing about who he really is."
+    },
+    {
+      "era": "War",
+      "years": "2011–2013",
+      "title": "Back from the dead",
+      "beat": "Reanimated in the Fourth Shinobi World War, the real Madara crushes the five Kage at once and soon returns fully to life."
+    },
+    {
+      "era": "War",
+      "years": "2014",
+      "title": "Played by his own pawn",
+      "beat": "Just as his dream plan succeeds, Black Zetsu stabs him in the back and reveals Madara was a tool for the ancient goddess Kaguya."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "The masked man who called himself Madara through Part II really was Madara.",
+      "truth": "It was Obito Uchiha, using the name and the plan while the real Madara was dead and later revived.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Madara is the one who named the Hidden Leaf Village, even though he later turned against it.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Kishimoto created him because he wanted an enemy strong enough that Naruto and Sasuke would need each other to win.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His playable video game debut was Naruto Shippuden: Ultimate Ninja Storm 3.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Naoya Uchida voices him in Japanese and Neil Kaplan in English.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Comic Book Resources ranked him third on its list of the greatest anime villains.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who co-founded the Hidden Leaf Village with Madara?",
+      "options": ["Tobirama Senju", "Hiruzen Sarutobi", "Hashirama Senju", "Minato Namikaze"],
+      "answer": 2,
+      "why": "Hashirama Senju, his great rival."
+    },
+    {
+      "q": "What is the name of Madara's world-wide dream genjutsu?",
+      "options": ["Izanagi", "Infinite Tsukuyomi", "Kamui", "Amaterasu"],
+      "answer": 1,
+      "why": "The Infinite Tsukuyomi traps everyone in a dream."
+    },
+    {
+      "q": "Who betrays Madara at the height of his victory?",
+      "options": ["Black Zetsu", "Kabuto", "Obito", "Pain"],
+      "answer": 0,
+      "why": "Black Zetsu was serving Kaguya all along."
+    }
+  ],
+  "rivals": ["naruto-uzumaki"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#8b1a1a",
+      "c2": "#141414",
+      "c3": "#8e7cc3"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Founded a village, then decided the whole world needed a nap."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+  },
+  "timeline": [
+    {
+      "year": 2007,
+      "kind": "debut",
+      "title": "The name steps forward",
+      "note": "In chapter 370 the name Madara Uchiha moves to the heart of the plot, though its wearer is not who he claims."
+    },
+    {
+      "year": 2011,
+      "kind": "return",
+      "title": "Reanimated for war",
+      "note": "Late in 2011 the real Madara is raised from the dead and walks onto the war's front line.",
+      "with": "naruto-uzumaki"
+    },
+    {
+      "year": 2013,
+      "kind": "legacy",
+      "title": "Playable at last",
+      "note": "Naruto Shippuden: Ultimate Ninja Storm 3 makes him a playable fighter for the first time."
+    },
+    {
+      "year": 2014,
+      "kind": "death",
+      "title": "Betrayed and drained",
+      "note": "Black Zetsu turns on him, Kaguya rises, and Madara dies with Hashirama at his side."
+    },
+    {
+      "year": 2017,
+      "kind": "screen",
+      "title": "Shippuden signs off",
+      "note": "The Shippuden anime ends in March 2017 after bringing his war arc to the screen.",
+      "with": "naruto-uzumaki"
+    }
+  ],
+  "heat": 80
+}

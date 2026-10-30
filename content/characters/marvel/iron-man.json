@@ -1,0 +1,206 @@
+{
+  "slug": "iron-man",
+  "name": "Iron Man",
+  "realName": "Tony Stark",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A weapons maker turned hero, built on a dare. Tony Stark, genius inventor and founding Avenger, fights in suits of powered armor that he never stops redesigning.",
+  "origin": "Iron Man was Stan Lee daring Cold War readers to cheer for a weapons maker, and somehow it worked. Tony Stark debuted in Tales of Suspense #39 (on sale late 1962, cover-dated 1963), a genius industrialist captured in Vietnam with shrapnel creeping toward his heart, who builds a suit of armor to stay alive and break out. That first suit was clunky and grey; it turned gold one issue later, and the look has been upgraded constantly since. Tony became a founding Avenger alongside the Hulk, Thor, the Wasp and Ant-Man, and got his own series in 1968. Strip away the armor and he is still the smartest, most self-sabotaging guy in the room.",
+  "creators": [
+    "Stan Lee (editor/concept)",
+    "Larry Lieber (writer)",
+    "Don Heck (artist/design)",
+    "Jack Kirby (design)"
+  ],
+  "firstAppearance": {
+    "title": "Tales of Suspense",
+    "issue": "39",
+    "year": 1963
+  },
+  "powers": [
+    "Inventor and engineer of rare genius",
+    "Powered armor with flight, repulsors and sensors",
+    "Shrewd businessman and strategist"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Department of Defense",
+    "Guardians of the Galaxy",
+    "Illuminati",
+    "Mighty Avengers",
+    "New Avengers",
+    "S.H.I.E.L.D.",
+    "Stark Industries"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1962–1963",
+      "title": "Built in a cave",
+      "beat": "Weapons maker Tony Stark is wounded and captured abroad. With fellow prisoner Ho Yinsen he builds a suit of armour to keep his heart going and escape. The first suit is grey, turns gold the next issue and later becomes red and gold."
+    },
+    {
+      "era": "Avenger",
+      "years": "1963",
+      "title": "Founding member",
+      "beat": "Tony helps found the Avengers and, as their wealthy backer, gives the team its mansion and resources."
+    },
+    {
+      "era": "Demon in a Bottle",
+      "years": "1979",
+      "title": "Facing addiction",
+      "beat": "Writers David Michelinie and Bob Layton show Tony battling alcoholism, one of the first major superhero stories to deal with addiction."
+    },
+    {
+      "era": "Rhodey's turn",
+      "years": "1983–1985",
+      "title": "War Machine's first run",
+      "beat": "After Tony relapses, his friend Jim Rhodes wears the armour as Iron Man for a long stretch."
+    },
+    {
+      "era": "Armor Wars",
+      "years": "1987–1988",
+      "title": "Stolen tech",
+      "beat": "Tony learns his designs have been stolen and goes after everyone using them, heroes included."
+    },
+    {
+      "era": "Extremis",
+      "years": "2005–2006",
+      "title": "Wired in",
+      "beat": "Warren Ellis and Adi Granov give Tony a techno-virus that links his body to the armour, modernising the character."
+    },
+    {
+      "era": "Civil War",
+      "years": "2006–2007",
+      "title": "Pro-registration",
+      "beat": "Tony leads the heroes who back government registration, wins the conflict and becomes the director of S.H.I.E.L.D."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Iron Man was always one of Marvel's biggest stars.",
+      "spice": 2,
+      "truth": "Before the 2008 film he was widely seen as a second-tier hero outside comics fandom. The movie changed that."
+    },
+    {
+      "type": "gossip",
+      "text": "Stan Lee said he made Tony a weapons-making capitalist on purpose, to dare 1960s readers to like a character they should hate. Howard Hughes was part of the inspiration.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His very first armour was a clunky grey suit, painted gold the next issue.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His comic origin was set during the Vietnam War. The 2008 film moved it to Afghanistan.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Casting Robert Downey Jr. in 2008 was considered a big gamble. The film launched the whole Marvel Cinematic Universe.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What colour was Iron Man's first armour?",
+      "options": ["Gold", "Grey", "Red", "Silver"],
+      "answer": 1,
+      "why": "The first suit was grey and turned gold in the next issue."
+    },
+    {
+      "q": "What does Tony struggle with in Demon in a Bottle?",
+      "options": ["Gambling", "Insomnia", "Alcoholism", "Amnesia"],
+      "answer": 2,
+      "why": "The 1979 story deals with his alcoholism."
+    },
+    {
+      "q": "Who helped Tony build his first armour?",
+      "options": ["Ho Yinsen", "Obadiah Stane", "Jim Rhodes", "Happy Hogan"],
+      "answer": 0,
+      "why": "Fellow prisoner Ho Yinsen helped him."
+    }
+  ],
+  "rivals": ["ultron"],
+  "allies": ["captain-america", "thor", "hulk", "black-widow", "spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#b11226",
+      "c2": "#f2c230",
+      "c3": "#7fdbff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Billionaire brain, tin-can swagger."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "Built in a cave",
+      "note": "Tales of Suspense #39 has weapons maker Tony Stark build a clunky gray armor to escape his captors."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Founding Avenger",
+      "note": "The Avengers #1 makes Tony a founding member, and he funds the team for years after.",
+      "with": "thor"
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "First cartoon armor",
+      "note": "The Marvel Super Heroes cartoon gives Iron Man his own rotating segment."
+    },
+    {
+      "year": 1979,
+      "kind": "turn",
+      "title": "Demon in a Bottle",
+      "note": "Iron Man #128 caps a storyline about Tony's drinking, a rare frank look at addiction in mainstream comics."
+    },
+    {
+      "year": 1983,
+      "kind": "legacy",
+      "title": "Rhodey in the armor",
+      "note": "Iron Man #170 has James Rhodes take over the suit while Tony struggles, years before War Machine."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Civil War",
+      "note": "Tony leads the pro-registration side, putting him in a public brawl with Captain America.",
+      "with": "captain-america"
+    },
+    {
+      "year": 2008,
+      "kind": "screen",
+      "title": "Robert Downey Jr. launches the MCU",
+      "note": "Iron Man kicks off the Marvel Cinematic Universe, with Downey's casting widely seen as a career comeback."
+    },
+    {
+      "year": 2016,
+      "kind": "legacy",
+      "title": "Riri Williams steps up",
+      "note": "A teen genius named Riri Williams builds her own armor and later becomes Ironheart."
+    }
+  ],
+  "heat": 90,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Iron_Man",
+    "wikidata": "https://www.wikidata.org/wiki/Q180704"
+  },
+  "photo": {
+    "file": "iron-man.webp",
+    "alt": "Iron Man photograph",
+    "artist": "David Blaikie from Hampshire, UK",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Iron_Man_transparent_background.png"
+  }
+}

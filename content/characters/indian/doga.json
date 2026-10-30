@@ -1,0 +1,150 @@
+{
+  "slug": "doga",
+  "name": "Doga",
+  "realName": "Suraj",
+  "universe": "indian",
+  "kind": "antihero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Mumbai's dog-masked vigilante and Raj Comics' signature antihero: Suraj, a gym-trained orphan who wages a merciless war on organised crime. Debuted in Curfew (1992).",
+  "origin": "As a baby, Suraj was found in a garbage dump by the dacoit Halkan Singh, who raised him like a dog among his gang. After escaping, he was taken in by Adrak Chacha, a former weightlifting champion who ran the Lion Gym, and his brothers, who each trained him: Haldi in martial arts, Dhania in boxing and Kalimirchi in sharpshooting. When goons hired by a rival gym owner killed the brothers who trained him, Suraj put on a dog mask, took his revenge and became Doga, hunting Mumbai's gangsters outside the law. He later killed Halkan Singh, who had become a government minister.",
+  "creators": ["Tarun Kumar Wahi (writer)", "Sanjay Gupta", "Manu (artist)"],
+  "firstAppearance": {
+    "title": "Curfew",
+    "year": 1992
+  },
+  "powers": [
+    "No superpowers",
+    "Peak strength and stamina from gym training",
+    "Martial arts and boxing",
+    "Expert marksman with a large arsenal",
+    "Communicates with and commands dogs",
+    "Very high pain tolerance"
+  ],
+  "affiliations": ["Brahmand Rakshak (Protectors of the Universe)"],
+  "storyline": [
+    {
+      "era": "Childhood",
+      "years": "Before 1992",
+      "title": "Raised by a dacoit",
+      "beat": "Halkan Singh raises the foundling like an animal, and the boy grows up surrounded by crime."
+    },
+    {
+      "era": "Training",
+      "years": "Before 1992",
+      "title": "Four spice uncles",
+      "beat": "At the Lion Gym, Adrak and his brothers turn Suraj into a fighter, boxer and crack shot."
+    },
+    {
+      "era": "Debut",
+      "years": "1992",
+      "title": "Curfew",
+      "beat": "After his trainers are murdered, Suraj puts on the dog mask and makes his debut in Curfew."
+    },
+    {
+      "era": "Ongoing",
+      "years": "1990s onward",
+      "title": "Mumbai's nightmare",
+      "beat": "Doga becomes a one-man army against Mumbai's gangs, and eventually kills his abuser Halkan Singh, now a minister."
+    },
+    {
+      "era": "Screen hopes",
+      "years": "2014–2019",
+      "title": "The film that wasn't",
+      "beat": "Anurag Kashyap talks about a Doga film in 2014 but shelves it. Raj Comics later releases its own short film, Doga – Mumbai Ka Rakhwala, on YouTube."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His four trainers are all named after kitchen spices: Adrak (ginger), Haldi (turmeric), Dhania (coriander) and Kalimirchi (black pepper).",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Anurag Kashyap planned a Doga film around 2014 but shelved it after Bombay Velvet flopped.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Coverage of the planned film compared Doga to Marvel's Punisher.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Doga has dog-based superpowers.",
+      "truth": "He has no powers at all. It's all training and guns, although he can communicate with dogs and command them.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Sources disagree on who created him. Most credit Tarun Kumar Wahi, Sanjay Gupta and artist Manu, but some name Manish Gupta.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Doga's real name?",
+      "options": ["Vinay", "Suraj", "Raj", "Arun"],
+      "answer": 1,
+      "why": "Under the dog mask is Suraj, a foundling raised by the dacoit Halkan Singh."
+    },
+    {
+      "q": "Doga's four trainers are all named after what?",
+      "options": ["Planets", "Rivers", "Weapons", "Spices"],
+      "answer": 3,
+      "why": "Adrak, Haldi, Dhania and Kalimirchi are ginger, turmeric, coriander and black pepper."
+    },
+    {
+      "q": "Which city is Doga's hunting ground?",
+      "options": ["Rajnagar", "Delhi", "Mumbai", "Kolkata"],
+      "answer": 2,
+      "why": "He wages his war on Mumbai's organised crime."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1e1e1e",
+      "c2": "#6d4c41",
+      "c3": "#d32f2f"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Barks at the gangs, bites the system."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "indianetzone": "https://www.indianetzone.com/doga",
+    "fanblog": "https://indiancomiccon.blogspot.com/p/doga.html"
+  },
+  "timeline": [
+    {
+      "year": 1992,
+      "kind": "debut",
+      "title": "Curfew",
+      "note": "Raj Comics' first true antihero hits Mumbai in a dog mask, ready to do what the cops won't."
+    },
+    {
+      "year": 2009,
+      "kind": "turn",
+      "title": "Anurag Kashyap signs on",
+      "note": "The Dev D director takes on a live-action Doga film. It stalls in scripting and is later shelved."
+    },
+    {
+      "year": 2017,
+      "kind": "turn",
+      "title": "Kunal Kapoor cast as Doga",
+      "note": "Actor Kunal Kapoor is announced in the role for a planned live-action series. It has not reached screens."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Live-action shorts",
+      "note": "Raj Comics launches a live-action short-film series on YouTube that brings Doga and Dhruva to life.",
+      "with": "super-commando-dhruva"
+    }
+  ],
+  "heat": 55
+}

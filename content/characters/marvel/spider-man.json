@@ -1,0 +1,221 @@
+{
+  "slug": "spider-man",
+  "name": "Spider-Man",
+  "realName": "Peter Benjamin Parker",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The superhero who still has to pay rent. Peter Parker, a Queens teen who got a fateful spider bite, swings around New York on homemade webs and carries a lot of guilt.",
+  "origin": "Spider-Man is the hero who still has to pay rent, and that is exactly why people love him. Stan Lee and Steve Ditko slipped him into Amazing Fantasy #15 in 1962, the final issue of a dying anthology. Peter Parker, a bullied science kid from Queens, gets a bite from a radioactive spider and picks up its proportional strength, speed and agility, can cling to walls, and develops a tingling spider-sense that flags trouble before it lands. He builds his own web-shooters, tries to cash in as a TV act, and lets a thief run right past him. That same thief later kills his Uncle Ben, and Peter learns the lesson that defines him. He became one of the most successful superheroes ever.",
+  "creators": ["Stan Lee", "Steve Ditko"],
+  "firstAppearance": {
+    "title": "Amazing Fantasy",
+    "issue": "15",
+    "year": 1962
+  },
+  "powers": [
+    "Spider-strength, speed and agility",
+    "Sticks to walls and ceilings",
+    "Spider-sense warns of danger",
+    "Science whiz who built his own web-shooters",
+    "Self-taught street fighter"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Fantastic Four",
+    "Secret Defenders",
+    "Future Foundation",
+    "Daily Bugle",
+    "Heroes for Hire",
+    "Mighty Avengers",
+    "New Avengers"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1962",
+      "title": "With great power",
+      "beat": "Bullied teen Peter Parker is bitten by a radioactive spider in Amazing Fantasy #15. He uses his powers for fame, lets a burglar escape, and that same burglar later kills his Uncle Ben, which teaches him responsibility."
+    },
+    {
+      "era": "Ditko years",
+      "years": "1963–1966",
+      "title": "Building the rogues",
+      "beat": "Stan Lee and Steve Ditko launch The Amazing Spider-Man and create many of his best-known foes, including Doctor Octopus, the Green Goblin and the Sandman."
+    },
+    {
+      "era": "Romita era",
+      "years": "1966–1973",
+      "title": "Mary Jane and Gwen",
+      "beat": "John Romita Sr. takes over the art, Mary Jane Watson finally shows her face, and Peter's college life with Gwen Stacy takes centre stage."
+    },
+    {
+      "era": "Drug story",
+      "years": "1971",
+      "title": "Defying the Code",
+      "beat": "A three-issue storyline about Harry Osborn's drug abuse is published without the Comics Code seal. The US government had asked Marvel for an anti-drug story, and the episode helped loosen the Code's rules."
+    },
+    {
+      "era": "Gwen's death",
+      "years": "1973",
+      "title": "The night everything changed",
+      "beat": "Gwen Stacy dies during a fight with the Green Goblin, a turning point that made superhero comics more willing to show lasting loss."
+    },
+    {
+      "era": "Black costume",
+      "years": "1984–1988",
+      "title": "Alien suit to Venom",
+      "beat": "Peter brings home a black costume from the Secret Wars that turns out to be a living alien. He rejects it, and it later bonds with Eddie Brock to become Venom."
+    },
+    {
+      "era": "Marriage and after",
+      "years": "1987–2007",
+      "title": "MJ and One More Day",
+      "beat": "Peter marries Mary Jane in 1987. Twenty years later, in One More Day, the marriage is erased from history by a deal with the demon Mephisto to save Aunt May."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Publisher Martin Goodman reportedly hated the idea of a spider hero with teen problems, so Stan Lee slipped him into the last issue of a cancelled anthology. It sold so well he got his own series.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Jack Kirby drew an early version of Spider-Man, but Lee thought it looked too heroic. Steve Ditko designed the famous costume.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Spider-Man naturally shoots webs from his body.",
+      "spice": 1,
+      "truth": "In the comics Peter invented mechanical web-shooters. Organic webs came from the 2002 film, and the comics only tried them later."
+    },
+    {
+      "type": "fact",
+      "text": "Before fighting crime, Peter tried to cash in on his powers as a masked TV entertainer.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Miles Morales debuted in 2011 and starred in Spider-Man: Into the Spider-Verse, which won the Oscar for Best Animated Feature.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Mary Jane was teased for years before her face was finally shown in The Amazing Spider-Man #42 (1966).",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which comic did Spider-Man first appear?",
+      "options": [
+        "Amazing Fantasy #15",
+        "Tales of Suspense #39",
+        "Strange Tales #110",
+        "Journey into Mystery #83"
+      ],
+      "answer": 0,
+      "why": "Amazing Fantasy #15 (1962)."
+    },
+    {
+      "q": "Who killed Uncle Ben in the original story?",
+      "options": ["Green Goblin", "A burglar Peter let escape", "Kraven", "Doctor Octopus"],
+      "answer": 1,
+      "why": "The burglar Peter failed to stop later killed Ben."
+    },
+    {
+      "q": "Who did Peter Parker marry in 1987?",
+      "options": ["Gwen Stacy", "Felicia Hardy", "Mary Jane Watson", "Betty Brant"],
+      "answer": 2,
+      "why": "Peter and MJ married in Amazing Spider-Man Annual #21."
+    },
+    {
+      "q": "Who designed Spider-Man's classic costume?",
+      "options": ["Jack Kirby", "John Romita Sr.", "Todd McFarlane", "Steve Ditko"],
+      "answer": 3,
+      "why": "Steve Ditko designed the red-and-blue suit."
+    }
+  ],
+  "rivals": ["green-goblin", "venom", "kingpin"],
+  "allies": ["human-torch", "daredevil", "iron-man", "captain-america", "wolverine"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1f3a93",
+      "c3": "#1a1a1a"
+    },
+    "motif": "web",
+    "mood": "light",
+    "tagline": "Rent is due, rooftops are free."
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "kind": "debut",
+      "title": "With great power",
+      "note": "Amazing Fantasy #15 introduces Peter Parker in the last issue of a canceled anthology."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "His own title",
+      "note": "The Amazing Spider-Man #1 launches his ongoing series, with the Fantastic Four as guests.",
+      "with": "human-torch"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "The classic cartoon",
+      "note": "The 1967 Spider-Man animated series gives the world his famous theme song."
+    },
+    {
+      "year": 1973,
+      "kind": "death",
+      "title": "The night Gwen Stacy died",
+      "note": "Amazing Spider-Man #121 kills Gwen, and the hero fails to save her, a landmark moment.",
+      "with": "green-goblin"
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "The black costume",
+      "note": "Amazing Spider-Man #252 shows Peter in a new black suit that later proves to be alive.",
+      "with": "venom"
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "Marrying Mary Jane",
+      "note": "The Amazing Spider-Man Annual #21 holds Peter and MJ's wedding, also staged live at Shea Stadium."
+    },
+    {
+      "year": 2002,
+      "kind": "screen",
+      "title": "Tobey Maguire's Spider-Man",
+      "note": "Sam Raimi's Spider-Man becomes a box-office smash and launches a modern superhero film boom.",
+      "with": "green-goblin"
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Miles Morales debuts",
+      "note": "Miles Morales becomes the Ultimate Spider-Man, and later headlines the Spider-Verse films."
+    }
+  ],
+  "heat": 95,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spider-Man",
+    "wikidata": "https://www.wikidata.org/wiki/Q79037"
+  },
+  "photo": {
+    "file": "spider-man.webp",
+    "alt": "Spider-Man photograph",
+    "artist": "Cristian Bortes / bortescristian",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Madame_Tussauds_London_-_Spider-Man_statue.jpg"
+  }
+}

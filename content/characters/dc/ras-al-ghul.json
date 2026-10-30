@@ -1,0 +1,177 @@
+{
+  "slug": "ras-al-ghul",
+  "name": "Ra's al Ghul",
+  "realName": "Ra's al Ghul",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A centuries-old villain who wants Batman as his heir. Ra's al Ghul, the Demon's Head, leads a league of assassins and keeps cheating death in the Lazarus Pits.",
+  "origin": "Ra's al Ghul is the rare villain who respects Batman and wants him as a son-in-law, which makes him uniquely unsettling. Editor Julius Schwartz came up with the name, and Dennis O'Neil and Neal Adams brought him to life in Batman #232 in 1971, in the story 'Daughter of the Demon'. Centuries old thanks to the Lazarus Pits, he leads a global network of assassins and believes the Earth can only be saved by wiping out most of humanity. He is a brilliant strategist, a master swordsman and martial artist, and a schemer who plans in centuries. His daughter Talia's love for Batman, and their son Damian, keep the feud a family affair.",
+  "creators": ["Dennis O'Neil (writer)", "Neal Adams (artist)", "Julius Schwartz (concept/name)"],
+  "firstAppearance": {
+    "title": "Batman",
+    "issue": "232",
+    "year": 1971
+  },
+  "powers": [
+    "Centuries of knowledge",
+    "Criminal mastermind",
+    "Brilliant strategist",
+    "Master swordsman and martial artist",
+    "Long life and healing from the Lazarus Pits"
+  ],
+  "affiliations": [
+    "League of Assassins",
+    "Secret Society of Super Villains",
+    "Council of Immortals",
+    "Legion of Doom",
+    "The Demon"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1971",
+      "title": "The Demon's Head",
+      "beat": "Denny O'Neil and Neal Adams introduce Ra's al Ghul, the centuries-old leader of a league of assassins who wants Batman to marry his daughter Talia and inherit his empire."
+    },
+    {
+      "era": "Son of the Demon",
+      "years": "1987",
+      "title": "An heir",
+      "beat": "Batman and Talia's relationship results in a child, later developed as Damian Wayne."
+    },
+    {
+      "era": "Birth of the Demon",
+      "years": "1992",
+      "title": "Origin",
+      "beat": "A graphic novel tells how Ra's began, centuries ago, as a physician who discovered the Lazarus Pit."
+    },
+    {
+      "era": "Legacy",
+      "years": "1996",
+      "title": "Plague",
+      "beat": "Ra's unleashes a deadly virus on Gotham as part of his plan to cull humanity, and Batman tracks him across the world."
+    },
+    {
+      "era": "Resurrection",
+      "years": "2007–2008",
+      "title": "A new body",
+      "beat": "After his death, Ra's tries to return by taking over the body of his grandson Damian."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His name means the Demon's Head in Arabic.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He stays alive by bathing in Lazarus Pits, which heal and restore him but can drive him mad.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He is the grandfather of Damian Wayne, Batman's son.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Liam Neeson played him in Batman Begins (2005), which hid the character behind another name until a late twist.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Ra's al Ghul's name mean?",
+      "options": ["The Demon's Head", "The Shadow King", "The Eternal One", "The Desert Lord"],
+      "answer": 0,
+      "why": "It means the Demon's Head."
+    },
+    {
+      "q": "What keeps Ra's al Ghul alive for centuries?",
+      "options": ["The Speed Force", "Lazarus Pits", "Kryptonite", "A magic ring"],
+      "answer": 1,
+      "why": "Lazarus Pits."
+    },
+    {
+      "q": "What is the name of Ra's al Ghul's daughter?",
+      "options": ["Selina", "Mara", "Cassandra", "Talia"],
+      "answer": 3,
+      "why": "Talia al Ghul."
+    }
+  ],
+  "rivals": ["batman"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#2e8b57",
+      "c2": "#c9a227",
+      "c3": "#1a1a1a"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Centuries old and still recruiting a son-in-law."
+  },
+  "timeline": [
+    {
+      "year": 1971,
+      "kind": "debut",
+      "title": "The Demon's Head",
+      "note": "Batman #232 introduces Ra's, a centuries-old eco-fanatic who wants Batman as his heir.",
+      "with": "batman"
+    },
+    {
+      "year": 1972,
+      "kind": "comic",
+      "title": "The Lazarus Pit",
+      "note": "Batman #243 reveals the chemical pits that keep Ra's alive for centuries."
+    },
+    {
+      "year": 1993,
+      "kind": "screen",
+      "title": "The Demon's Quest",
+      "note": "Batman: The Animated Series adapts his debut as a two-part, globe-trotting adventure.",
+      "with": "batman"
+    },
+    {
+      "year": 2004,
+      "kind": "death",
+      "title": "Death and the Maidens",
+      "note": "Ra's finally dies, with his long-lost daughter Nyssa's revenge plot at the story's heart."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Batman Begins",
+      "note": "Liam Neeson plays Ra's as Bruce's mentor-turned-enemy in Christopher Nolan's reboot.",
+      "with": "batman"
+    },
+    {
+      "year": 2006,
+      "kind": "legacy",
+      "title": "A grandson",
+      "note": "Grant Morrison introduces Damian Wayne, Ra's grandson by Talia and Bruce."
+    },
+    {
+      "year": 2007,
+      "kind": "return",
+      "title": "Resurrection",
+      "note": "The Resurrection of Ra's al Ghul crossover brings the Demon's Head back in a stolen body."
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ra's_al_Ghul",
+    "wikidata": "https://www.wikidata.org/wiki/Q158931"
+  },
+  "photo": {
+    "file": "ras-al-ghul.webp",
+    "alt": "Ra's al Ghul photograph",
+    "artist": "William Tung",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:WonderCon_2013_-_Ra%27s_Al_Ghul.jpg"
+  }
+}

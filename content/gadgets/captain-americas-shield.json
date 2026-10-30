@@ -1,0 +1,39 @@
+{
+  "slug": "captain-americas-shield",
+  "name": "Captain America's Shield",
+  "owner": "captain-america",
+  "firstSeen": {
+    "title": "Captain America Comics #1",
+    "year": 1941
+  },
+  "summary": "A star-spangled disc that Steve Rogers uses as armour, weapon and boomerang. It started out as a pointed badge-style shield and has been shattered and rebuilt many times over eight decades.",
+  "blueprint": "shield",
+  "parts": [
+    {
+      "label": "Outer face",
+      "fact": "In the comics the face is a white star on a blue centre ringed by red, white and red bands. The film shield keeps that layout but leans harder into flag-style paint."
+    },
+    {
+      "label": "Core material",
+      "fact": "In the comics a metallurgist named Myron MacLain made it from vibranium by an accident he could never repeat. On film, Howard Stark builds it for Steve in The First Avenger (2011)."
+    },
+    {
+      "label": "Rim & shape",
+      "fact": "The round disc is concave on the inside, roughly 2.5 feet (76 cm) across and about 12 pounds (5.4 kg), light enough to throw and hard enough to stop almost anything."
+    },
+    {
+      "label": "Straps & handles",
+      "fact": "In the comics Steve stripped out Tony Stark's magnetic add-ons and went back to plain straps. On film, Age of Ultron (2015) gives him magnets that pull it back to his arm."
+    }
+  ],
+  "trivia": [
+    "The first shield in 1941 was a pointed heater shape; publisher MLJ complained it looked too much like its own hero, the Shield, so issue #2 swapped in the round disc.",
+    "A 2001 retcon says Wakanda's King T'Chaka supplied the vibranium sample behind the shield.",
+    "It has been wrecked by the Molecule Man (1982), shattered by Thanos in The Infinity Gauntlet (1991), and broken by the Serpent in Fear Itself (2011), then mended with Asgardian uru.",
+    "On film, Thanos's blade cracks it in Avengers: Endgame (2019), and an older Steve then passes it to Sam Wilson."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Captain_America%27s_shield",
+    "https://en.wikipedia.org/wiki/Vibranium"
+  ]
+}

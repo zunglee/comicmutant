@@ -1,0 +1,44 @@
+{
+  "slug": "mr-india-invisibility-band",
+  "name": "Mr. India Invisibility Band",
+  "owner": "mr-india",
+  "firstSeen": {
+    "title": "Mr. India",
+    "year": 1987
+  },
+  "summary": "The wrist gadget at the heart of Shekhar Kapur's 1987 Bollywood hit. Violinist Arun Verma straps on his late father's invention, vanishes, and becomes the unseen hero Mr. India.",
+  "blueprint": "gauntlet",
+  "parts": [
+    {
+      "label": "Housing",
+      "fact": "A wrist-worn gadget, described as a bracelet in some accounts and a watch in others, secretly built by Arun's father, a celebrated scientist who died keeping it hidden."
+    },
+    {
+      "label": "Power source",
+      "fact": "The film never explains the science. Family friend Professor Sinha, played by Ashok Kumar, tells Arun the device exists and later leaves a letter revealing its hiding place."
+    },
+    {
+      "label": "Invisibility field",
+      "fact": "Switched on, it makes Arun disappear completely, with one catch: anyone looking through red light or red glass can still see him."
+    },
+    {
+      "label": "Control",
+      "fact": "Arun can vanish and reappear at will, which is exactly why the villain Mogambo, who was behind the father's death, wants the device to help him seize India."
+    },
+    {
+      "label": "Band on set",
+      "fact": "With no digital tools in 1987, effects chief Peter Pereira used mechanical rigs and stop-motion footprints, and red-filtered shots showed what the kids saw through red glass."
+    }
+  ],
+  "trivia": [
+    "Anil Kapoor plays Arun, Sridevi plays reporter Seema, and Amrish Puri's Mogambo became one of Hindi cinema's best-loved villains.",
+    "It was the final screenplay written by the duo Salim-Javed before they split.",
+    "Made for about ₹38 million, it earned around ₹100 million in India and became the second-biggest hit of 1987; it was also popular in China after a 1990 release.",
+    "Tamil and Kannada remakes followed in 1989, while a 3D sequel announced in 2011 never went into production."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+    "https://thebedlamfiles.com/film/mr-india/",
+    "https://indiancinema.sites.uiowa.edu/mr-india"
+  ]
+}

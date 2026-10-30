@@ -1,0 +1,207 @@
+{
+  "slug": "jean-grey",
+  "name": "Jean Grey",
+  "realName": "Dr. Jean Elaine Grey",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Marvel's most famous comeback act. Jean Grey, founding X-Man and powerful telepath and telekinetic, is forever bound to the cosmic Phoenix Force and its habit of bringing her back.",
+  "origin": "Jean Grey has died and come back so many times that X-Men fans treat her funerals as temporary. She began, though, as Marvel Girl, the only woman in the original lineup of The X-Men #1 in 1963, a teenage mutant who could move objects with her mind. Telepathy came later, along with astral projection and empathy, and in 1976 Chris Claremont bonded her to the cosmic Phoenix Force. The Dark Phoenix Saga that followed, where the Phoenix turns murderous and Jean dies, is still the benchmark for X-Men storytelling. Her 1986 return started a long tradition of Jean coming back, and the Phoenix keeps following her.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist/co-plotter)"],
+  "firstAppearance": {
+    "title": "The X-Men",
+    "issue": "1",
+    "year": 1963
+  },
+  "powers": [
+    "Moves objects with her mind",
+    "Reads and influences minds",
+    "Astral projection",
+    "Senses others' emotions",
+    "Phoenix Force: cosmic fire and control of matter",
+    "Rebirth through the Phoenix"
+  ],
+  "affiliations": [
+    "X-Men",
+    "Quiet Council of Krakoa",
+    "Brides of Set",
+    "Muir Island X-Men",
+    "Clan Rebellion",
+    "X-Terminators",
+    "Hellfire Club",
+    "The Twelve"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "Marvel Girl",
+      "beat": "Jean Grey joins the original X-Men as Marvel Girl, the team's only female member, using telekinesis and later telepathy."
+    },
+    {
+      "era": "Phoenix",
+      "years": "1976",
+      "title": "Rising from the crash",
+      "beat": "After piloting a shuttle through a solar storm, Jean seems to emerge as the far more powerful Phoenix."
+    },
+    {
+      "era": "Dark Phoenix Saga",
+      "years": "1980",
+      "title": "Too much power",
+      "beat": "Corrupted by her power, Jean destroys a star and an inhabited planet. Facing judgment, she ends her own life on the Moon to protect everyone."
+    },
+    {
+      "era": "The retcon",
+      "years": "1986",
+      "title": "She was never there",
+      "beat": "Jean is found alive in a cocoon under Jamaica Bay. The Phoenix had copied her, so Jean returns to found X-Factor with the original X-Men."
+    },
+    {
+      "era": "Wedding",
+      "years": "1994",
+      "title": "Jean and Scott",
+      "beat": "Jean marries Cyclops in X-Men #30."
+    },
+    {
+      "era": "New X-Men",
+      "years": "2003–2004",
+      "title": "Dying again",
+      "beat": "In Grant Morrison's run, Jean is killed during an attack by Magneto, while her marriage to Scott falls apart."
+    },
+    {
+      "era": "Resurrection",
+      "years": "2018",
+      "title": "Back for good",
+      "beat": "Phoenix Resurrection brings the adult Jean back to life, and she soon leads her own X-Men team."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Claremont and Byrne first planned for Jean to survive the Dark Phoenix Saga. Editor-in-chief Jim Shooter said wiping out a populated planet needed a harsher ending, so she died.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Jean Grey herself became Dark Phoenix.",
+      "spice": 2,
+      "truth": "The 1986 retcon says the Phoenix Force copied Jean while she lay in a cocoon. The real Jean was asleep for the whole saga."
+    },
+    {
+      "type": "fact",
+      "text": "Kurt Busiek is credited with the idea that brought Jean back in 1986.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "She was the only woman in the original X-Men lineup.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Rachel Summers, from an alternate future, is Jean and Scott's daughter.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Jean Grey's first codename?",
+      "options": ["Phoenix", "Marvel Girl", "Ms. Marvel", "Black Queen"],
+      "answer": 1,
+      "why": "She debuted as Marvel Girl in 1963."
+    },
+    {
+      "q": "Where does the Dark Phoenix Saga end?",
+      "options": ["On the Moon", "In the Savage Land", "In Genosha", "In Asgard"],
+      "answer": 0,
+      "why": "Jean's final stand happens on the Moon."
+    },
+    {
+      "q": "Who did Jean marry in 1994?",
+      "options": ["Wolverine", "Angel", "Professor X", "Cyclops"],
+      "answer": 3,
+      "why": "She married Scott Summers in X-Men #30."
+    }
+  ],
+  "rivals": ["magneto"],
+  "allies": ["cyclops", "professor-x", "wolverine", "storm"],
+  "theme": {
+    "palette": {
+      "c1": "#2e8b57",
+      "c2": "#f2c230",
+      "c3": "#e63946"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Telepath, telekinetic, occasional cosmic firebird."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "Marvel Girl",
+      "note": "The X-Men #1 introduces Jean as the team's only woman, a telekinetic who later reveals her telepathy.",
+      "with": "professor-x"
+    },
+    {
+      "year": 1976,
+      "kind": "turn",
+      "title": "Rising as Phoenix",
+      "note": "X-Men #101 has Jean emerge from a crashed shuttle as the Phoenix, bursting with cosmic power."
+    },
+    {
+      "year": 1980,
+      "kind": "death",
+      "title": "The Dark Phoenix Saga",
+      "note": "Uncanny X-Men #137 ends the classic saga with Jean choosing death on the moon over losing control again.",
+      "with": "cyclops"
+    },
+    {
+      "year": 1986,
+      "kind": "return",
+      "title": "Alive in a cocoon",
+      "note": "Fantastic Four #286 reveals the real Jean was sealed away all along, opening the door to her return.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "X-Men: The Animated Series",
+      "note": "The Fox Kids cartoon adapts both Phoenix stories for TV."
+    },
+    {
+      "year": 1994,
+      "kind": "turn",
+      "title": "Finally marrying Scott",
+      "note": "X-Men #30 finally gives Jean and Scott their wedding.",
+      "with": "cyclops"
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Famke Janssen in X-Men",
+      "note": "Bryan Singer's X-Men casts Famke Janssen as Jean, a doctor caught between Scott and Logan.",
+      "with": "wolverine"
+    },
+    {
+      "year": 2018,
+      "kind": "return",
+      "title": "Phoenix Resurrection",
+      "note": "A five-issue series brings Jean back for good after her 2004 death in New X-Men."
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jean_Grey",
+    "wikidata": "https://www.wikidata.org/wiki/Q5350072"
+  },
+  "photo": {
+    "file": "jean-grey.webp",
+    "alt": "Jean Grey photograph",
+    "artist": "Kyla Duhamel from Saskatoon, Canada",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Jean_Grey_2015_Calgary_Expo_%E2%80%93_Calgary_Comic_%26_Entertainment_Expo_(17031961118).jpg"
+  }
+}

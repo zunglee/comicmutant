@@ -1,0 +1,168 @@
+{
+  "slug": "omni-man",
+  "name": "Omni-Man",
+  "realName": "Nolan Grayson (Earth name)",
+  "universe": "other",
+  "kind": "antihero",
+  "medium": "comics",
+  "publisher": "Image Comics",
+  "summary": "Invincible's father: a Viltrumite 'hero' who spent decades as Earth's greatest protector while secretly preparing it for conquest. Voiced on screen by J. K. Simmons.",
+  "origin": "Nolan arrived on Earth from the Viltrum Empire in the 1980s, claiming he had come to protect humanity and advance its technology. He married Debbie, whose life he had saved, became a bestselling travel writer under the name Nolan Grayson, and had a son, Mark. In truth he had been sent to soften Earth up for conquest. He secretly murders the Guardians of the Globe, confesses to Mark and beats him almost to death, but can't bring himself to kill his son. He flees, starts a new family on the insect world Thraxa, and slowly turns against Viltrum.",
+  "creators": ["Robert Kirkman (writer)", "Cory Walker (artist)"],
+  "firstAppearance": {
+    "title": "Invincible",
+    "issue": "1",
+    "year": 2003
+  },
+  "powers": [
+    "Superhuman strength, speed, senses and stamina",
+    "Invulnerability",
+    "Flight",
+    "Extreme longevity",
+    "Accelerated healing",
+    "Master hand-to-hand combatant",
+    "Master infiltrator",
+    "Bestselling novelist"
+  ],
+  "affiliations": [
+    "Guardians of the Globe (formerly)",
+    "Viltrum Empire (formerly)",
+    "Anti-Viltrumite coalition"
+  ],
+  "storyline": [
+    {
+      "era": "Arrival",
+      "years": "1980s",
+      "title": "Earth's protector",
+      "beat": "Nolan sets himself up as a friendly alien superhero and builds a human family."
+    },
+    {
+      "era": "Betrayal",
+      "years": "2003",
+      "title": "The Guardians massacre",
+      "beat": "In Invincible #7 he lures the Guardians of the Globe to their hideout and kills them all, then reveals his mission to Mark."
+    },
+    {
+      "era": "Exile",
+      "years": "Mid-run",
+      "title": "A new family on Thraxa",
+      "beat": "He becomes peaceful ruler of the short-lived Thraxans, marries Andressa and has a second son, Oliver."
+    },
+    {
+      "era": "Captive",
+      "years": "Mid-run",
+      "title": "Read my books",
+      "beat": "Captured by his own people, he tells Mark to read his books. His failed sci-fi novels turn out to be disguised records of real Viltrumite missions."
+    },
+    {
+      "era": "Rebellion",
+      "years": "Late run",
+      "title": "War on Viltrum",
+      "beat": "Rescued by Allen the Alien, he helps lead a coalition that destroys the Viltrumite homeworld."
+    },
+    {
+      "era": "Screen",
+      "years": "2021",
+      "title": "J. K. Simmons",
+      "beat": "Simmons voices him in the Prime Video series, later reprising the role in Mortal Kombat 1 and Invincible VS."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His parting advice to read his books was a real clue. The flop sci-fi novels hid true accounts of Viltrumite missions.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Allen the Alien learns from him that fewer than fifty pure-blood Viltrumites remain.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "J. K. Simmons plays him on TV and in Mortal Kombat 1, where he arrived as part of the Kombat Pack DLC.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "On Thraxa he took power peacefully, because the locals simply choose their oldest member as leader.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Omni-Man stays a villain forever.",
+      "truth": "He eventually turns on the Viltrum Empire and fights beside Mark and Oliver.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which empire does Omni-Man come from?",
+      "options": ["Thraxa", "Viltrum", "Krypton", "Talescria"],
+      "answer": 1,
+      "why": "He is a Viltrumite sent to conquer Earth."
+    },
+    {
+      "q": "Who voices Omni-Man in the Invincible TV series?",
+      "options": ["Mark Hamill", "Steven Yeun", "Kevin Conroy", "J. K. Simmons"],
+      "answer": 3,
+      "why": "J. K. Simmons voices Nolan."
+    },
+    {
+      "q": "What was Nolan Grayson's public day job?",
+      "options": ["Author", "Doctor", "Pilot", "Teacher"],
+      "answer": 0,
+      "why": "He was a bestselling author."
+    }
+  ],
+  "rivals": ["invincible"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2f2f2",
+      "c2": "#c8102e",
+      "c3": "#1c1c1c"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "World's greatest dad, galaxy's worst houseguest."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Omni-Man"
+  },
+  "timeline": [
+    {
+      "year": 2003,
+      "kind": "debut",
+      "title": "Invincible #1",
+      "note": "Nolan Grayson starts out as Earth's friendly alien powerhouse and Mark's proud father.",
+      "with": "invincible"
+    },
+    {
+      "year": 2003,
+      "kind": "turn",
+      "title": "The Guardians massacre",
+      "note": "In Invincible #7 he wipes out the Guardians of the Globe, exposing the conqueror under the cape."
+    },
+    {
+      "year": 2005,
+      "kind": "turn",
+      "title": "A new life on Thraxa",
+      "note": "Invincible #25 reveals his second family among the short-lived Thraxans."
+    },
+    {
+      "year": 2021,
+      "kind": "screen",
+      "title": "J. K. Simmons",
+      "note": "Simmons voices him in Prime Video's animated series, and the role makes Nolan a meme magnet.",
+      "with": "invincible"
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Mortal Kombat 1 fighter",
+      "note": "He is the first DLC fighter in Mortal Kombat 1, arriving in November 2023 with Simmons voicing him."
+    }
+  ],
+  "heat": 82
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "sable-iro",
+  "name": "SAYA IRO",
+  "alias": "THREADCUT",
+  "kind": "hero",
+  "archetype": "shadow-assassin",
+  "bio": "Loom's security lead, a threadcutter who walked the Observatory's walls nightly to check them. When the consortium split in 2008 she took every key in the building and has rented out her loyalty one job at a time, mostly to the Accord.",
+  "catchphrase": "Walls are a suggestion. Doors are a courtesy.",
+  "rig": {
+    "build": "slim",
+    "head": "mask",
+    "cape": true,
+    "skin": "#c9a07a",
+    "suit": "#0d0d14",
+    "trim": "#ff6161",
+    "eye": "#ffffff",
+    "emblem": "none"
+  },
+  "stats": {
+    "power": 5,
+    "speed": 8,
+    "defense": 4,
+    "special": 6
+  },
+  "special": {
+    "name": "Key Turn",
+    "kind": "dash"
+  },
+  "rivals": ["vesper-kine", "nishi-kapadia"],
+  "theme": {
+    "palette": {
+      "c1": "#ff6161",
+      "c2": "#07090d",
+      "c3": "#ffd0a8"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Loyalty sold by the job."
+  },
+  "heat": 66
+}

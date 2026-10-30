@@ -1,0 +1,180 @@
+{
+  "slug": "spawn",
+  "name": "Spawn",
+  "realName": "Albert Francis \"Al\" Simmons",
+  "universe": "other",
+  "kind": "antihero",
+  "medium": "comics",
+  "publisher": "Image Comics",
+  "summary": "Todd McFarlane's hell-forged antihero: a murdered government assassin who traded his soul for one more glimpse of his wife. He launched in 1992 and became Image Comics' biggest hit.",
+  "origin": "Al Simmons was a government assassin. When he began to develop a conscience, his partner Chapel was secretly hired to kill him, and he was burned to death and sent to Hell for his crimes. There he made a deal with the demon Malebolgia: he would become a Hellspawn, a soldier for Hell, in exchange for seeing his wife Wanda again. The deal was a trap. He came back five years after his death, horribly scarred, missing many of his memories and unrecognisable to Wanda. He takes on the identity of Spawn and tries to use Hell's power to make up for his past.",
+  "creators": ["Todd McFarlane"],
+  "firstAppearance": {
+    "title": "Spawn",
+    "issue": "1",
+    "year": 1992
+  },
+  "powers": [
+    "Limited supply of hellish power; using it all up means a second death",
+    "Superhuman strength, speed, agility and durability",
+    "Healing factor",
+    "Necroplasm energy manipulation",
+    "Flight, teleportation and intangibility",
+    "Shapeshifting and matter transmutation",
+    "K7-Leetha, a living symbiotic costume of chains and cape",
+    "Elite military training in combat, weapons and tactics"
+  ],
+  "affiliations": ["Formerly CIA", "Formerly U.S. Marine Corps"],
+  "storyline": [
+    {
+      "era": "Launch",
+      "years": "1992",
+      "title": "Spawn #1",
+      "beat": "Image Comics' flagship debuts, and the first issue sells 1.7 million copies."
+    },
+    {
+      "era": "Guest stars",
+      "years": "1993",
+      "title": "Angela and Cerebus",
+      "beat": "Guest writers include Neil Gaiman, whose issue #9 introduced characters such as the angel hunter Angela, and Dave Sim, whose #10 features Cerebus."
+    },
+    {
+      "era": "Screen",
+      "years": "1997",
+      "title": "Movie and HBO",
+      "beat": "Michael Jai White plays Spawn in a feature film, and Keith David voices him in HBO's animated series (1997–1999)."
+    },
+    {
+      "era": "Courtroom",
+      "years": "2002",
+      "title": "Gaiman's lawsuit",
+      "beat": "Neil Gaiman sues McFarlane over the rights to characters he co-created for the series."
+    },
+    {
+      "era": "Record",
+      "years": "2019",
+      "title": "Issue #301",
+      "beat": "Spawn #301 passes Cerebus's 300 issues, and Guinness names Spawn the longest-running creator-owned superhero comic."
+    },
+    {
+      "era": "Expansion",
+      "years": "2021–2022",
+      "title": "A Spawn universe",
+      "beat": "New series such as King Spawn and The Scorched follow. The Scorched #1 sells more than 270,000 copies."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Todd McFarlane came up with Spawn when he was just 16.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Spawn #301, released in 2019, broke Cerebus's record, and Guinness gave McFarlane a certificate at New York Comic Con.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "With the 1997 film, Michael Jai White became the first African American to play a major comic book superhero in a major motion picture.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Neil Gaiman sued McFarlane in 2002 after McFarlane stopped paying him royalties and claimed sole ownership of characters they had created together.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Spawn has crashed other franchises' fighting games, including Soulcalibur II (2003) and Mortal Kombat 11, where he arrived as DLC in 2020.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Spawn is a demon.",
+      "truth": "He was a human assassin brought back by Hell. He is a Hellspawn who uses Hell's power while trying to escape its control.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which demon made the deal with Al Simmons?",
+      "options": ["Mephisto", "Trigon", "Azzael", "Malebolgia"],
+      "answer": 3,
+      "why": "Malebolgia offered him a return to Earth as a Hellspawn."
+    },
+    {
+      "q": "Spawn #301 broke which comic's record?",
+      "options": ["Savage Dragon", "Cerebus", "The Walking Dead", "Usagi Yojimbo"],
+      "answer": 1,
+      "why": "Cerebus had held the record with 300 issues."
+    },
+    {
+      "q": "Who played Spawn in the 1997 film?",
+      "options": ["Michael Jai White", "Jamie Foxx", "Wesley Snipes", "Keith David"],
+      "answer": 0,
+      "why": "Michael Jai White starred. Keith David voiced the HBO animated version."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#0a0a0a",
+      "c2": "#b30000",
+      "c3": "#39ff14"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Signed a deal with Hell, skipped the fine print."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Spawn_(character)",
+    "record": "https://www.syfy.com/syfy-wire/todd-mcfarlane-guinness-world-record-spawn-301st-issue"
+  },
+  "timeline": [
+    {
+      "year": 1992,
+      "kind": "debut",
+      "title": "Spawn #1",
+      "note": "Todd McFarlane's Image flagship arrives in May 1992 and sells about 1.7 million copies."
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Gaiman's issue #9",
+      "note": "Neil Gaiman writes an issue that introduces Angela, Cogliostro and Medieval Spawn."
+    },
+    {
+      "year": 1997,
+      "kind": "screen",
+      "title": "The live-action film",
+      "note": "Michael Jai White plays Al Simmons in the Spawn movie."
+    },
+    {
+      "year": 1997,
+      "kind": "screen",
+      "title": "HBO animated series",
+      "note": "Keith David voices Spawn in HBO's adult animated series, which runs until 1999."
+    },
+    {
+      "year": 2002,
+      "kind": "turn",
+      "title": "Gaiman sues",
+      "note": "Gaiman takes McFarlane to court over the characters he co-created. The fight is finally settled in 2012."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "A world record",
+      "note": "Spawn #301 passes Cerebus, and Guinness names it the longest-running creator-owned superhero comic."
+    },
+    {
+      "year": 2021,
+      "kind": "comic",
+      "title": "King Spawn",
+      "note": "King Spawn #1 launches a wider Spawn line and sells over half a million copies."
+    }
+  ],
+  "heat": 65
+}

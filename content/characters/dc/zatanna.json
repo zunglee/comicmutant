@@ -1,0 +1,179 @@
+{
+  "slug": "zatanna",
+  "name": "Zatanna",
+  "realName": "Zatanna Zatara",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A stage magician whose tricks are absolutely real. Zatanna Zatara casts spells by saying words backwards and ranks among the Justice League's top experts in the occult.",
+  "origin": "Zatanna is a stage magician whose tricks are real, and she has more fun with magic than anyone else in DC. Gardner Fox and Murphy Anderson introduced her in Hawkman #4 in 1964, and her early adventures had her popping up in different heroes' books as she searched for her missing father, the Golden Age magician Zatara. She casts spells by speaking words backwards, which sounds silly until she rearranges reality with a sentence. Between gigs as a top-hatted showgirl and escape artist, she is one of DC's best occult experts and a longtime Justice League member, with a complicated history with Batman, who trained under her father.",
+  "creators": ["Gardner Fox (writer)", "Murphy Anderson (artist)"],
+  "firstAppearance": {
+    "title": "Hawkman",
+    "issue": "4",
+    "year": 1964
+  },
+  "powers": [
+    "Powerful spellcaster",
+    "Expert in demons and the occult",
+    "Master stage magician and escape artist",
+    "Trained fighter"
+  ],
+  "affiliations": [
+    "Justice League Dark",
+    "Justice League",
+    "Sentinels of Magic",
+    "Seven Soldiers",
+    "Lords of Chaos"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "Searching for Dad",
+      "beat": "Stage magician Zatanna debuts in Hawkman #4, searching for her missing father, the magician Zatara. The search runs through several DC titles until 1967."
+    },
+    {
+      "era": "Justice League",
+      "years": "1978",
+      "title": "Joining the League",
+      "beat": "Zatanna becomes a full member of the Justice League of America."
+    },
+    {
+      "era": "Identity Crisis",
+      "years": "2004",
+      "title": "Mind wipes",
+      "beat": "Identity Crisis reveals she once erased memories, including from a villain and from Batman, which damages her friendships."
+    },
+    {
+      "era": "Solo series",
+      "years": "2010–2011",
+      "title": "San Francisco stage",
+      "beat": "Paul Dini writes a solo series about Zatanna balancing her stage show with real magic threats."
+    },
+    {
+      "era": "Justice League Dark",
+      "years": "2011",
+      "title": "Leading the weird",
+      "beat": "Zatanna anchors the Justice League Dark, a team that handles magical threats."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "She casts spells by saying words backwards.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her father Zatara debuted in Action Comics #1 in 1938, the same issue as Superman.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Bruce Wayne trained with her father as a young man, and she and Bruce have known each other for years.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Paul Dini, her biggest champion as a writer, is married to a real-life magician, Misty Lee.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How does Zatanna cast her spells?",
+      "options": [
+        "By drawing runes",
+        "By snapping her fingers",
+        "By speaking backwards",
+        "By singing"
+      ],
+      "answer": 2,
+      "why": "She says the words backwards."
+    },
+    {
+      "q": "Who is Zatanna's father?",
+      "options": ["Zatara", "Doctor Fate", "Sargon", "John Constantine"],
+      "answer": 0,
+      "why": "The magician Zatara."
+    },
+    {
+      "q": "Which magic team did Zatanna anchor in 2011?",
+      "options": ["Sentinels of Magic", "Justice League Dark", "Shadowpact", "Doom Patrol"],
+      "answer": 1,
+      "why": "Justice League Dark."
+    }
+  ],
+  "rivals": [],
+  "allies": ["batman", "wonder-woman", "black-canary", "raven"],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#f2f2f2",
+      "c3": "#5b2a86"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Says it backwards, makes it happen forwards."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "The magician's daughter",
+      "note": "Hawkman #4 introduces Zatanna, a stage magician who casts real spells by speaking backwards."
+    },
+    {
+      "year": 1967,
+      "kind": "comic",
+      "title": "The quest ends",
+      "note": "Her hunt for missing dad Zatara, spread across several titles, wraps up in Justice League of America #51."
+    },
+    {
+      "year": 1978,
+      "kind": "turn",
+      "title": "Joining the League",
+      "note": "Zatanna is voted into the Justice League in Justice League of America #161."
+    },
+    {
+      "year": 2004,
+      "kind": "turn",
+      "title": "Identity Crisis",
+      "note": "A bombshell: she wiped villains' minds, and even Batman's memory, at the League's request.",
+      "with": "batman"
+    },
+    {
+      "year": 2009,
+      "kind": "screen",
+      "title": "Smallville spellcaster",
+      "note": "Serinda Swan plays Zatanna on Smallville, the first live-action version of the character."
+    },
+    {
+      "year": 2010,
+      "kind": "comic",
+      "title": "Her own series",
+      "note": "Paul Dini writes a Zatanna ongoing series full of stage-magic glamour and San Francisco mystery."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Justice League Dark",
+      "note": "The New 52 makes her a core member of Justice League Dark, DC's team for supernatural threats."
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zatanna",
+    "wikidata": "https://www.wikidata.org/wiki/Q860922"
+  },
+  "photo": {
+    "file": "zatanna.webp",
+    "alt": "Zatanna photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dragon_Con_2013_-_Zatanna_(9668300759).jpg"
+  }
+}

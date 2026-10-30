@@ -1,0 +1,41 @@
+{
+  "slug": "vikram-nagesh",
+  "name": "VIKRAM NAGESH",
+  "alias": "FLYOVER",
+  "kind": "villain",
+  "archetype": "traffic-tyrant",
+  "bio": "A Bengaluru commuter who spent eleven years on one flyover and came down able to hold the whole road still. Now he honks the city to a standstill, all lanes, all hours. Menace and comedy in equal measure. Nobody gets home early.",
+  "catchphrase": "Estimated arrival: never.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#d9a273",
+    "suit": "#2c2f36",
+    "trim": "#ff3b30",
+    "eye": "#39ff14",
+    "emblem": "chevron"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 2,
+    "defense": 8,
+    "special": 6
+  },
+  "special": {
+    "name": "Peak Hour",
+    "kind": "shockwave"
+  },
+  "rivals": ["vane-aster", "bholu-pandey"],
+  "theme": {
+    "palette": {
+      "c1": "#ff3b30",
+      "c2": "#2c2f36",
+      "c3": "#39ff14"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Rush hour never ends."
+  },
+  "heat": 50
+}

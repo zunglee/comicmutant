@@ -1,0 +1,176 @@
+{
+  "slug": "saitama",
+  "name": "Saitama",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Tonari no Young Jump)",
+  "summary": "One-Punch Man's bored, bald hero: a man who can beat any enemy with a single punch and has no challenges left. Created by One in a 2009 webcomic.",
+  "origin": "Three years before the story starts, Saitama was job hunting, and still had hair, when he stopped the monster Crablante from attacking a child. Deciding to become a hero just for fun, he trained every day with 100 push-ups, 100 sit-ups, 100 squats and a 10 km run, with no air conditioning or heating. Three years later his hair is gone and his strength seems limitless. Every fight ends in one punch, which leaves him deeply bored. He takes on the cyborg Genos as a disciple and joins the Hero Association, where a poor written-test score lands him one of the lowest ranks.",
+  "creators": ["One (creator, webcomic)", "Yusuke Murata (artist, manga remake)"],
+  "firstAppearance": {
+    "title": "One-Punch Man (webcomic)",
+    "issue": "Chapter 1",
+    "year": 2009
+  },
+  "powers": [
+    "Seemingly limitless strength",
+    "Superhuman speed, stamina and durability",
+    "Defeats almost any foe with one punch",
+    "Serious Punch for the rare real threat",
+    "Shrugs off psychic attacks",
+    "Power that keeps growing"
+  ],
+  "affiliations": ["Hero Association"],
+  "storyline": [
+    {
+      "era": "Webcomic",
+      "years": "2009",
+      "title": "One punch",
+      "beat": "One starts the webcomic about a hero who is already the strongest at the very beginning."
+    },
+    {
+      "era": "Hero Association",
+      "years": "Early arcs",
+      "title": "Starting at the bottom",
+      "beat": "Saitama breaks every physical record in the hero exam but scores 71 overall because of the written test, so he starts near the bottom."
+    },
+    {
+      "era": "Deep Sea King",
+      "years": "Early arcs",
+      "title": "Credit where it's not due",
+      "beat": "He defeats a monster that crushed several heroes, then lets others take the glory."
+    },
+    {
+      "era": "Boros",
+      "years": "Early arcs",
+      "title": "The Serious Punch",
+      "beat": "Against the alien conqueror Lord Boros, he finally throws one of his rare serious punches."
+    },
+    {
+      "era": "Anime",
+      "years": "2015",
+      "title": "On screen",
+      "beat": "The anime debuts in October 2015, with Makoto Furukawa voicing him in Japanese and Max Mittelman in English."
+    },
+    {
+      "era": "Garou",
+      "years": "Later arcs",
+      "title": "Cosmic rival",
+      "beat": "A fight with a cosmic-powered Garou shows that Saitama's power keeps climbing with every blow."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "The famous workout: 100 push-ups, 100 sit-ups, 100 squats and a 10 km run every day, plus healthy eating.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Artist Yusuke Murata first drew Saitama handsome, with stars in his eyes. He dropped the idea because One wanted the complete opposite.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Saitama started out as the top-ranked hero.",
+      "truth": "He joined the Hero Association with one of the lowest ranks after doing badly on the written exam.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His official hero name is Bald Cape, which the English anime translates as Caped Baldy.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "In the French dub he's voiced by rapper Orelsan.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "One said writing Saitama was hard because he would just instantly punch every problem away.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Saitama's official hero name?",
+      "options": ["One Punch", "Caped Crusader", "Bald Cape", "Shiny Fist"],
+      "answer": 2,
+      "why": "The Hero Association calls him Bald Cape (Caped Baldy in the English anime)."
+    },
+    {
+      "q": "Who is Saitama's cyborg disciple?",
+      "options": ["Genos", "King", "Sonic", "Garou"],
+      "answer": 0,
+      "why": "Genos becomes his student and roommate."
+    },
+    {
+      "q": "Who drew the One-Punch Man manga remake?",
+      "options": ["Akira Toriyama", "Yusuke Murata", "Kohei Horikoshi", "Eiichiro Oda"],
+      "answer": 1,
+      "why": "Yusuke Murata illustrates the remake of One's webcomic."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#ffd600",
+      "c2": "#ffffff",
+      "c3": "#d32f2f"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Undefeated, unbothered, mildly worried about the supermarket sale."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+  },
+  "timeline": [
+    {
+      "year": 2009,
+      "kind": "debut",
+      "title": "A webcomic by ONE",
+      "note": "One-Punch Man starts life in 2009 as a scrappy webcomic about a hero who wins too easily."
+    },
+    {
+      "year": 2012,
+      "kind": "comic",
+      "title": "Murata’s remake",
+      "note": "Yusuke Murata begins redrawing the story for Tonari no Young Jump in June 2012."
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Madhouse anime",
+      "note": "The first season airs in October 2015 and becomes a worldwide hit."
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "Award winner",
+      "note": "The manga picks up a Sugoi Japan Award and a Manga Barcelona prize in 2017."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "Season 2",
+      "note": "J.C.Staff takes over the anime for a second season starting in April 2019."
+    },
+    {
+      "year": 2020,
+      "kind": "legacy",
+      "title": "Hollywood calls",
+      "note": "Sony's Columbia Pictures announces a live-action One-Punch Man film in April 2020."
+    },
+    {
+      "year": 2025,
+      "kind": "screen",
+      "title": "Season 3",
+      "note": "The third anime season premieres in October 2025."
+    }
+  ],
+  "heat": 80
+}

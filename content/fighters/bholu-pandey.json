@@ -1,0 +1,41 @@
+{
+  "slug": "bholu-pandey",
+  "name": "BHOLU PANDEY",
+  "alias": "DABBA DASH",
+  "kind": "hero",
+  "archetype": "tiffin-slinger",
+  "bio": "A Mumbai dabbawala who has never once been late and refuses to start. His four-tier steel tiffin is a shield, a mace and a very effective hot lunch. He fights crime between deliveries and apologises for the gravy stains.",
+  "catchphrase": "Delivered. On time. Always.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#b9774a",
+    "suit": "#f4f1e8",
+    "trim": "#d8261f",
+    "eye": "#2a9d8f",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 4,
+    "defense": 7,
+    "special": 5
+  },
+  "special": {
+    "name": "Tiffin Tier Toss",
+    "kind": "projectile"
+  },
+  "rivals": ["mallika-kottarakkara", "vikram-nagesh"],
+  "theme": {
+    "palette": {
+      "c1": "#f4f1e8",
+      "c2": "#d8261f",
+      "c3": "#f4a300"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Hot lunch. Hotter fists."
+  },
+  "heat": 55
+}

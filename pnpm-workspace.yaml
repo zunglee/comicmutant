@@ -1,0 +1,4 @@
+# Standalone pnpm settings (no workspace packages). better-sqlite3 needs its install script.
+allowBuilds:
+  better-sqlite3: true
+  esbuild: false

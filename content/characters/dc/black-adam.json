@@ -1,0 +1,172 @@
+{
+  "slug": "black-adam",
+  "name": "Black Adam",
+  "realName": "Teth-Adam",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "* Fawcett Comics (1945) \n* DC Comics (1972–present)",
+  "summary": "Shazam's evil twin, with five thousand years of grudges. Teth-Adam, an ancient champion corrupted by power, rules the nation of Kahndaq and wields the same magic lightning as Billy Batson.",
+  "origin": "Black Adam was a villain built for one story, and he has been stealing the show ever since. Otto Binder and C. C. Beck created him for Fawcett Comics' The Marvel Family #1 in December 1945: Teth-Adam, an ancient Egyptian given the wizard Shazam's powers thousands of years before Billy Batson, who went bad and was banished. In that first tale he was tricked into saying the magic word and crumbled to dust. DC licensed the Fawcett heroes in the 1970s and later bought them outright, and Adam came back as the fierce ruler of the fictional nation of Kahndaq. Strong, fast, almost impossible to hurt and armed with magic lightning, he honestly believes he's the hero.",
+  "creators": ["Otto Binder and C. C. Beck"],
+  "firstAppearance": {
+    "title": "The Marvel Family",
+    "issue": "1",
+    "year": 1945
+  },
+  "powers": [
+    "Magic-powered strength, speed and toughness",
+    "Wisdom and knowledge granted by the gods",
+    "Nearly impossible to hurt",
+    "Calls down magic lightning",
+    "Seasoned warrior and tactician"
+  ],
+  "affiliations": [
+    "Injustice League",
+    "Legion of Doom",
+    "Secret Society of Super Villains",
+    "Black Marvel Family",
+    "Monster Society of Evil",
+    "Injustice Society",
+    "Justice League",
+    "Justice Society of America"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1945",
+      "title": "The first champion",
+      "beat": "Black Adam debuts in Fawcett's The Marvel Family #1 as an ancient Egyptian given magic powers who turned evil. He is defeated in the same story."
+    },
+    {
+      "era": "DC revival",
+      "years": "1973",
+      "title": "Back from the dust",
+      "beat": "After DC licenses the Fawcett heroes, Black Adam returns as a recurring foe of Captain Marvel."
+    },
+    {
+      "era": "Kahndaq",
+      "years": "1994",
+      "title": "A homeland",
+      "beat": "Jerry Ordway's The Power of Shazam! retells his history and links him to the fictional nation of Kahndaq."
+    },
+    {
+      "era": "JSA",
+      "years": "1999–2002",
+      "title": "Antihero",
+      "beat": "Geoff Johns has Black Adam join the Justice Society, trying to redeem himself in his own violent way."
+    },
+    {
+      "era": "52",
+      "years": "2006–2007",
+      "title": "Love and war",
+      "beat": "Adam becomes ruler of Kahndaq, marries Isis and starts a family. When they are killed, his rage sparks a world war."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "He was defeated in his very first appearance: tricked into saying the magic word, he turned mortal and aged to dust.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Black Adam was created by DC.",
+      "spice": 1,
+      "truth": "He was created at Fawcett Comics in 1945. DC later licensed, then bought, the Fawcett heroes."
+    },
+    {
+      "type": "fact",
+      "text": "Dwayne Johnson was linked to the role for over a decade before the 2022 film.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He rules the fictional Middle Eastern nation of Kahndaq.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which nation does Black Adam rule?",
+      "options": ["Bialya", "Kahndaq", "Qurac", "Markovia"],
+      "answer": 1,
+      "why": "He rules Kahndaq."
+    },
+    {
+      "q": "Who is Black Adam's classic arch-enemy?",
+      "options": ["Captain Marvel (Shazam)", "Superman", "Hawkman", "Atom Smasher"],
+      "answer": 0,
+      "why": "He was created as Captain Marvel's dark counterpart."
+    },
+    {
+      "q": "Which publisher first created Black Adam?",
+      "options": ["Quality", "Timely", "Fawcett", "Charlton"],
+      "answer": 2,
+      "why": "Fawcett Comics, 1945."
+    }
+  ],
+  "rivals": ["superman"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#c9a227",
+      "c3": "#ffe066"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Lightning, royalty and absolutely no apologies."
+  },
+  "timeline": [
+    {
+      "year": 1945,
+      "kind": "debut",
+      "title": "The first champion",
+      "note": "The Marvel Family #1 introduces Teth-Adam, an ancient Egyptian given magic power who turns to evil."
+    },
+    {
+      "year": 1994,
+      "kind": "return",
+      "title": "The Power of Shazam!",
+      "note": "Jerry Ordway's graphic novel reinvents Adam as a darker, more complex foe."
+    },
+    {
+      "year": 2002,
+      "kind": "turn",
+      "title": "Joins the JSA",
+      "note": "Black Adam takes a probationary seat on the Justice Society, leaning into his antihero side."
+    },
+    {
+      "year": 2007,
+      "kind": "turn",
+      "title": "World War III",
+      "note": "Shattered by grief in the weekly series 52, Adam rampages across the globe."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Justice Leaguer",
+      "note": "Adam joins the Justice League in the Infinite Frontier era, a hero strictly on his own terms."
+    },
+    {
+      "year": 2022,
+      "kind": "screen",
+      "title": "The Rock as Adam",
+      "note": "Dwayne Johnson finally stars in the Black Adam movie after years of chasing the role."
+    }
+  ],
+  "heat": 60,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Adam",
+    "wikidata": "https://www.wikidata.org/wiki/Q391161"
+  },
+  "photo": {
+    "file": "black-adam.webp",
+    "alt": "Black Adam photograph",
+    "artist": "Gary Frank",
+    "license": "CC0",
+    "licenseUrl": "https://creativecommons.org/publicdomain/zero/1.0/deed.en",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:BLACK_ADAM_by_Gary_Frank.jpg"
+  }
+}

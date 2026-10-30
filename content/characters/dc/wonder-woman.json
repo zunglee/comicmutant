@@ -1,0 +1,194 @@
+{
+  "slug": "wonder-woman",
+  "name": "Wonder Woman",
+  "realName": "Diana of Themyscira",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The Amazon princess built from day one to be a role model. Diana of Themyscira left her hidden island to fight for peace, armed with bulletproof bracelets and a lasso that compels the truth.",
+  "origin": "Wonder Woman was designed from day one to be a role model, and more than eighty years later she still wears that job easily. Psychologist William Moulton Marston created her with artist Harry G. Peter, and she made her debut in late 1941 in All Star Comics #8 before leading Sensation Comics from January 1942. Marston drew on his wife Elizabeth and their partner Olive Byrne in shaping her. Diana is an Amazon princess from the hidden island of Themyscira who leaves home to fight for peace in the wider world. Early versions said she was sculpted from clay; current continuity makes her a daughter of Zeus. Her bracelets deflect bullets and her lasso compels the truth.",
+  "creators": ["William Moulton Marston", "H. G. Peter (uncredited)"],
+  "firstAppearance": {
+    "title": "All Star Comics",
+    "issue": "8",
+    "year": 1941
+  },
+  "powers": [
+    "Godlike strength, speed and toughness",
+    "Can call down lightning",
+    "Flight",
+    "Amazon battle training",
+    "Bracelets that deflect bullets",
+    "Lasso that compels the truth"
+  ],
+  "affiliations": [
+    "Justice League",
+    "Justice Society of America",
+    "Star Sapphires",
+    "Justice League Dark",
+    "Lords of Chaos",
+    "Department of Metahuman Affairs"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1941",
+      "title": "Princess of the Amazons",
+      "beat": "William Moulton Marston and H. G. Peter introduce Diana, an Amazon princess from Paradise Island who travels to the outside world after pilot Steve Trevor crashes there."
+    },
+    {
+      "era": "Mod era",
+      "years": "1968–1972",
+      "title": "Powers lost",
+      "beat": "Diana gives up her powers and becomes a martial-arts adventurer. Her powers return after critics, including Gloria Steinem, push back."
+    },
+    {
+      "era": "TV icon",
+      "years": "1975–1979",
+      "title": "Lynda Carter",
+      "beat": "Lynda Carter's Wonder Woman TV series makes the character a pop-culture icon."
+    },
+    {
+      "era": "Pérez reboot",
+      "years": "1987",
+      "title": "Myth reborn",
+      "beat": "George Pérez rebuilds Diana's world around Greek mythology, establishing her as an ambassador to the outside world."
+    },
+    {
+      "era": "Hard choice",
+      "years": "2005",
+      "title": "Killing Maxwell Lord",
+      "beat": "To stop Maxwell Lord from controlling Superman's mind, Diana kills him, a decision that divides her from her friends."
+    },
+    {
+      "era": "New 52",
+      "years": "2011",
+      "title": "Daughter of Zeus",
+      "beat": "Brian Azzarello and Cliff Chiang's run reveals that Diana is the daughter of Zeus."
+    },
+    {
+      "era": "Film",
+      "years": "2017",
+      "title": "Big screen debut",
+      "beat": "Patty Jenkins's Wonder Woman, starring Gal Gadot, becomes a major hit."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Creator William Moulton Marston helped develop an early lie-detector test, which echoes in her lasso.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "The Lasso of Truth was always about truth.",
+      "spice": 1,
+      "truth": "In early stories it was a magic lasso that forced anyone bound by it to obey. Truth became its focus later."
+    },
+    {
+      "type": "fact",
+      "text": "Gloria Steinem put Wonder Woman on the cover of the first regular issue of Ms. magazine in 1972.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "The UN named her an honorary ambassador in 2016, then dropped her two months later after protests.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Marston said his wife Elizabeth and their partner Olive Byrne helped inspire Diana.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who created Wonder Woman?",
+      "options": ["William Moulton Marston", "Gardner Fox", "Jerry Siegel", "Bob Kane"],
+      "answer": 0,
+      "why": "William Moulton Marston, with artist H. G. Peter."
+    },
+    {
+      "q": "Who was the pilot who crashed on Paradise Island?",
+      "options": ["Hal Jordan", "Steve Trevor", "Steve Rogers", "Trevor Barnes"],
+      "answer": 1,
+      "why": "Steve Trevor."
+    },
+    {
+      "q": "Who played Wonder Woman in the 1970s TV series?",
+      "options": ["Gal Gadot", "Linda Hamilton", "Yvonne Craig", "Lynda Carter"],
+      "answer": 3,
+      "why": "Lynda Carter."
+    }
+  ],
+  "rivals": ["darkseid"],
+  "allies": ["superman", "batman", "zatanna", "martian-manhunter", "aquaman"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1f3a93",
+      "c3": "#f2c230"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Diplomat first. Warrior second. Right always."
+  },
+  "timeline": [
+    {
+      "year": 1941,
+      "kind": "debut",
+      "title": "Princess of Paradise Island",
+      "note": "All Star Comics #8 introduces an Amazon warrior who leaves her hidden island to join a world at war."
+    },
+    {
+      "year": 1942,
+      "kind": "comic",
+      "title": "Cover star",
+      "note": "Sensation Comics #1 gives Diana the lead slot, and her own title follows later the same year."
+    },
+    {
+      "year": 1960,
+      "kind": "comic",
+      "title": "Founding the League",
+      "note": "Diana is one of the heroes who team up against Starro in The Brave and the Bold #28, the first Justice League tale.",
+      "with": "aquaman"
+    },
+    {
+      "year": 1968,
+      "kind": "turn",
+      "title": "The mod era",
+      "note": "Diana gives up her powers and costume to become a martial-arts adventurer, a bold experiment that split fans."
+    },
+    {
+      "year": 1975,
+      "kind": "screen",
+      "title": "Lynda Carter spins in",
+      "note": "An ABC TV movie launches Lynda Carter's run as Diana, and her spinning transformation becomes a pop-culture legend."
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "Perez rebuilds her myth",
+      "note": "After Crisis, George Perez relaunches Diana with a richer origin steeped in Greek gods and politics."
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "Gal Gadot goes solo",
+      "note": "Patty Jenkins' Wonder Woman becomes a summer smash and proves a superheroine can carry a blockbuster."
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wonder_Woman",
+    "wikidata": "https://www.wikidata.org/wiki/Q338430"
+  },
+  "photo": {
+    "file": "wonder-woman.webp",
+    "alt": "Wonder Woman photograph",
+    "artist": "ABC Television",
+    "license": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Lynda_Carter_Wonder_Woman.JPG"
+  }
+}

@@ -1,0 +1,181 @@
+{
+  "slug": "reverse-flash",
+  "name": "Reverse-Flash",
+  "realName": "Eobard Thawne",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The Flash's biggest fan, turned his worst nightmare. Eobard Thawne, a speedster from the 25th century, travels through time to make Barry Allen miserable.",
+  "origin": "The Reverse-Flash is what happens when a superfan becomes the worst stalker in history. Eobard Thawne is a man from the 25th century who idolised Barry Allen, copied his powers, then learned he was destined to be Barry's greatest enemy, a fate he embraced with gusto. John Broome and Carmine Infantino introduced him in The Flash #139 in 1963 as Professor Zoom, and his first name came later. He murdered Barry's wife Iris, and a 2009 story made him the killer of Barry's mother too. He taps the Negative Speed Force, is a genius scientist, and turns up wherever in time he can do the most harm.",
+  "creators": ["John Broome", "Carmine Infantino"],
+  "firstAppearance": {
+    "title": "The Flash",
+    "issue": "139",
+    "year": 1963
+  },
+  "powers": [
+    "Super speed from the Negative Speed Force",
+    "Brilliant scientist",
+    "Travels through time and dimensions",
+    "Heals rapidly",
+    "Phases through objects"
+  ],
+  "affiliations": [
+    "Secret Society of Super Villains",
+    "Injustice League",
+    "Legion of Doom",
+    "The Rogues",
+    "The Acolytes of Zoom",
+    "Legion of Zoom"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "From the future",
+      "beat": "Eobard Thawne, a man from the 25th century, copies the Flash's powers and costume in reverse colours and becomes the Reverse-Flash."
+    },
+    {
+      "era": "Murder",
+      "years": "1979",
+      "title": "Killing Iris",
+      "beat": "Thawne murders Barry Allen's wife Iris, beginning his darkest era as a villain."
+    },
+    {
+      "era": "Death",
+      "years": "1983",
+      "title": "Stopped for good",
+      "beat": "When Thawne tries to kill Barry's fiancée, Barry stops him by breaking his neck, leading to the long Trial of the Flash."
+    },
+    {
+      "era": "Rebirth",
+      "years": "2009",
+      "title": "The worst secret",
+      "beat": "Flash: Rebirth reveals Thawne travelled back in time and killed Barry's mother, Nora Allen."
+    },
+    {
+      "era": "Flashpoint",
+      "years": "2011",
+      "title": "Breaking history",
+      "beat": "Barry's attempt to undo Thawne's crime creates the Flashpoint timeline."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "A 2009 retcon made him the killer of Barry's mother, Nora Allen.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "There has only ever been one Reverse-Flash.",
+      "spice": 1,
+      "truth": "Eobard Thawne is the classic one, but others have used the name, including Hunter Zolomon and Daniel West."
+    },
+    {
+      "type": "fact",
+      "text": "Tom Cavanagh played him in The Flash TV series, disguised as Harrison Wells.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He comes from the 25th century and idolised the Flash before turning on him.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which century is Eobard Thawne from?",
+      "options": ["21st", "23rd", "25th", "30th"],
+      "answer": 2,
+      "why": "The 25th century."
+    },
+    {
+      "q": "Whose murder did a 2009 retcon pin on the Reverse-Flash?",
+      "options": ["Nora Allen", "Iris West", "Jay Garrick", "Henry Allen"],
+      "answer": 0,
+      "why": "Barry's mother, Nora Allen."
+    },
+    {
+      "q": "What is the classic Reverse-Flash's real name?",
+      "options": ["Hunter Zolomon", "Eobard Thawne", "Daniel West", "Bart Allen"],
+      "answer": 1,
+      "why": "Eobard Thawne."
+    }
+  ],
+  "rivals": ["flash-barry-allen", "flash-wally-west"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2c230",
+      "c2": "#c8102e",
+      "c3": "#1a1a1a"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Same speed, opposite colours, maximum spite."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "Professor Zoom",
+      "note": "The Flash #139 introduces a man from the future who rebuilds himself into Barry's evil twin.",
+      "with": "flash-barry-allen"
+    },
+    {
+      "year": 1979,
+      "kind": "turn",
+      "title": "Murder at the masquerade",
+      "note": "Zoom kills Barry's wife Iris at a costume party in The Flash #275.",
+      "with": "flash-barry-allen"
+    },
+    {
+      "year": 1983,
+      "kind": "death",
+      "title": "Stopped for good",
+      "note": "Barry kills Zoom to save his new fiancee, a choice that puts the Flash on trial.",
+      "with": "flash-barry-allen"
+    },
+    {
+      "year": 2009,
+      "kind": "return",
+      "title": "Flash: Rebirth",
+      "note": "Thawne returns, revealed as the killer of Barry's mother and author of his tragic past."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Flashpoint",
+      "note": "Thawne taunts Barry in the broken timeline Barry made trying to save his mom.",
+      "with": "flash-barry-allen"
+    },
+    {
+      "year": 2014,
+      "kind": "screen",
+      "title": "The man in the yellow suit",
+      "note": "Tom Cavanagh plays Thawne in disguise as Harrison Wells in the first season of The Flash."
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "The Button",
+      "note": "Thawne dies after a brush with a mysterious cosmic power in a Batman and Flash crossover.",
+      "with": "batman"
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Eobard_Thawne",
+    "wikidata": "https://www.wikidata.org/wiki/Q2576702"
+  },
+  "photo": {
+    "file": "reverse-flash.webp",
+    "alt": "Eobard Thawne photograph",
+    "artist": "LostplanetKD73",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:NYCC_2016_Cosplay_of_the_Reverse_Flash.jpg"
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "slug": "goku",
+  "name": "Goku",
+  "realName": "Kakarot (Saiyan birth name)",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Akira Toriyama's monkey-tailed martial artist: a Saiyan sent to Earth as a baby who grows into its mightiest defender. Debuted in Weekly Shōnen Jump in December 1984.",
+  "origin": "Goku was born Kakarot on Planet Vegeta, home of the warrior Saiyan race, and was sent to Earth as a baby just before Frieza destroyed his homeworld. The old martial artist Son Gohan found him and raised him as a grandson. The baby was wild and aggressive until an accidental head injury left him cheerful and carefree. As a tailed boy with superhuman strength, he meets Bulma and sets out to find the seven wish-granting Dragon Balls, which starts a lifetime of training and ever-stronger opponents. Toriyama based him on Sun Wukong, the Monkey King of Journey to the West, mixed with the kung fu films of Jackie Chan and Bruce Lee.",
+  "creators": ["Akira Toriyama"],
+  "firstAppearance": {
+    "title": "Dragon Ball",
+    "issue": "Chapter 1",
+    "year": 1984
+  },
+  "powers": [
+    "Superhuman strength, speed and durability",
+    "Ki energy attacks, including the Kamehameha and Spirit Bomb",
+    "Flight",
+    "Instant Transmission teleportation",
+    "Super Saiyan transformations",
+    "Ultra Instinct",
+    "Master of several martial arts styles",
+    "A monkey tail in childhood"
+  ],
+  "affiliations": ["Z Fighters"],
+  "storyline": [
+    {
+      "era": "Dragon Ball",
+      "years": "1984",
+      "title": "The boy with a tail",
+      "beat": "Goku meets Bulma and joins her hunt for the Dragon Balls."
+    },
+    {
+      "era": "Tournaments",
+      "years": "1980s",
+      "title": "World Martial Arts",
+      "beat": "After finishing runner-up twice, he wins the 23rd tournament by beating Piccolo, then marries Chi-Chi to keep a childhood promise."
+    },
+    {
+      "era": "Saiyans",
+      "years": "Late 1980s",
+      "title": "A brother from space",
+      "beat": "His older brother Raditz arrives and reveals Goku's alien heritage."
+    },
+    {
+      "era": "Namek",
+      "years": "1989–1991",
+      "title": "Super Saiyan",
+      "beat": "When Frieza kills Krillin, Goku's fury turns him into a Super Saiyan for the first time."
+    },
+    {
+      "era": "Super",
+      "years": "2015 onward",
+      "title": "Gods and Ultra Instinct",
+      "beat": "Dragon Ball Super brings back Frieza, introduces gods of destruction and gives Goku the Ultra Instinct form."
+    },
+    {
+      "era": "Daima",
+      "years": "2024",
+      "title": "Dragon Ball Daima",
+      "beat": "Goku returns, shrunk back to childhood, in the anime series Dragon Ball Daima."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Super Saiyan hair is blond partly to save work: leaving it uncoloured meant no more inking Goku's black hair on every page.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Toriyama couldn't come up with a name for Goku's signature attack, so he asked his wife. She suggested Kamehameha.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Goku fights mainly to protect the innocent.",
+      "truth": "Toriyama said Goku is more selfish than heroic and mostly wants strong opponents. He disliked the anime making him more noble.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Masako Nozawa has voiced Goku in Japanese in every Dragon Ball anime.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Goku was the first manga character to get a balloon in the Macy's Thanksgiving Day Parade, in 2018.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Toriyama said a young Jackie Chan would have been the only possible live-action Goku.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Japan's Anniversary Association officially declared 9 May 'Goku Day'.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Goku's Saiyan birth name?",
+      "options": ["Raditz", "Bardock", "Kakarot", "Gohan"],
+      "answer": 2,
+      "why": "He was born Kakarot on Planet Vegeta."
+    },
+    {
+      "q": "Who came up with the name Kamehameha?",
+      "options": ["Toriyama's wife", "His editor", "A fan contest", "Masako Nozawa"],
+      "answer": 0,
+      "why": "Toriyama's wife suggested it."
+    },
+    {
+      "q": "Which legendary figure inspired Goku?",
+      "options": ["Momotaro", "Hanuman", "Hercules", "Sun Wukong, the Monkey King"],
+      "answer": 3,
+      "why": "He is based on Sun Wukong from Journey to the West."
+    }
+  ],
+  "rivals": ["frieza", "vegeta"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#ff7a00",
+      "c2": "#1d3f8f",
+      "c3": "#ffd600"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Eats for ten, fights for a hundred, naps like a cat."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Goku"
+  },
+  "timeline": [
+    {
+      "year": 1984,
+      "kind": "debut",
+      "title": "Dragon Ball begins",
+      "note": "Chapter 1 hits Weekly Shōnen Jump in December 1984, starring a tailed boy on a Dragon Ball hunt."
+    },
+    {
+      "year": 1986,
+      "kind": "screen",
+      "title": "The first anime",
+      "note": "Toei's Dragon Ball series premieres on Fuji TV in February 1986, with Masako Nozawa as Goku."
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "Dragon Ball Z",
+      "note": "The Z anime premieres in April 1989 as grown-up Goku learns he is an alien Saiyan."
+    },
+    {
+      "year": 1991,
+      "kind": "turn",
+      "title": "First Super Saiyan",
+      "note": "On Namek, Frieza's cruelty pushes Goku into the golden form, in the manga and then the anime.",
+      "with": "frieza"
+    },
+    {
+      "year": 1995,
+      "kind": "legacy",
+      "title": "The manga ends",
+      "note": "Toriyama wraps up Dragon Ball in June 1995 after more than ten years of weekly chapters."
+    },
+    {
+      "year": 2015,
+      "kind": "return",
+      "title": "Dragon Ball Super",
+      "note": "A new anime begins in July 2015, bringing gods, multiverses and fresh forms for Goku."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Macy’s balloon",
+      "note": "Goku becomes the first manga character to float in the Macy's Thanksgiving Day Parade."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Dragon Ball Daima",
+      "note": "An all-new anime from October 2024 turns Goku back into a kid for a Demon Realm adventure."
+    }
+  ],
+  "heat": 90
+}

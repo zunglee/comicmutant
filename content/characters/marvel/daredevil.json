@@ -1,0 +1,198 @@
+{
+  "slug": "daredevil",
+  "name": "Daredevil",
+  "realName": "Matthew Michael Murdock",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A blind lawyer who notices more than anyone in the room. Matt Murdock argues cases by day and patrols Hell's Kitchen by night, guided by supercharged senses and a radar sense.",
+  "origin": "Daredevil is what happens when you give a lawyer the night shift. As a boy in Hell's Kitchen, Matt Murdock pushed an old man clear of an oncoming truck and was splashed in the face by a radioactive canister. He lost his sight, but every other sense went into overdrive, and he gained a radar-like awareness of the world around him. Stan Lee and Bill Everett launched him in Daredevil #1 in 1964, with Jack Kirby chipping in, and Everett's own daughter, who was legally blind, helped shape the idea. By day Matt argues cases; by night he fights crime with acrobatics, martial arts and a trick billy club. Frank Miller later made him Marvel's best-loved Catholic guilt machine.",
+  "creators": ["Stan Lee (writer)", "Bill Everett (artist)"],
+  "firstAppearance": {
+    "title": "Daredevil",
+    "issue": "1",
+    "year": 1964
+  },
+  "powers": [
+    "Supercharged hearing, touch, smell and taste",
+    "Radar sense that maps his surroundings",
+    "Superb acrobat and martial artist",
+    "Fights with a multi-use billy club",
+    "Expert in criminal law"
+  ],
+  "affiliations": [
+    "Avengers",
+    "New Avengers",
+    "Defenders",
+    "Marvel Knights",
+    "The Chaste",
+    "The Hand"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "The blind lawyer",
+      "beat": "Young Matt Murdock is blinded by radioactive chemicals while saving a man from a truck, but his other senses become superhuman. He becomes a lawyer by day and avenges his boxer father by night."
+    },
+    {
+      "era": "Red suit",
+      "years": "1965",
+      "title": "A new look",
+      "beat": "His original yellow-and-black costume is swapped for the all-red suit in issue #7, drawn by Wally Wood."
+    },
+    {
+      "era": "Miller era",
+      "years": "1979–1983",
+      "title": "Ninjas and noir",
+      "beat": "Frank Miller turns the struggling title into a gritty crime saga, introducing the assassin Elektra and the ninja clan the Hand, and making the Kingpin Matt's arch-enemy."
+    },
+    {
+      "era": "Born Again",
+      "years": "1986",
+      "title": "Torn down",
+      "beat": "The Kingpin learns Matt's secret identity and systematically wrecks his life, career and home. Matt rebuilds from nothing in what many call the definitive Daredevil story."
+    },
+    {
+      "era": "Bendis and Maleev",
+      "years": "2001–2006",
+      "title": "Outed",
+      "beat": "Matt's identity is leaked to the press. He spends years denying it in court and at one point declares himself the protector and ruler of Hell's Kitchen."
+    },
+    {
+      "era": "Waid era",
+      "years": "2011–2015",
+      "title": "Lightening up",
+      "beat": "Mark Waid brings a brighter, swashbuckling tone and wins Eisner Awards for the run."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Frank Miller created Daredevil.",
+      "spice": 1,
+      "truth": "Stan Lee and Bill Everett created him in 1964. Miller arrived 15 years later and reinvented his tone."
+    },
+    {
+      "type": "gossip",
+      "text": "The Teenage Mutant Ninja Turtles' origin is a deliberate nod to Daredevil: the ooze canister in their first comic comes from the same truck accident that blinded Matt.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Daredevil's first costume was mostly yellow. The all-red suit arrived in issue #7.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "When Miller took over, Daredevil was a bimonthly book in danger of cancellation. His run made it one of Marvel's hottest titles.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Elektra, Matt's college love turned assassin, first appeared in Daredevil #168 in 1981.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Matt Murdock's day job?",
+      "options": ["Journalist", "Lawyer", "Doctor", "Police officer"],
+      "answer": 1,
+      "why": "Matt is a defence attorney."
+    },
+    {
+      "q": "Which New York neighbourhood does Daredevil protect?",
+      "options": ["Queens", "Harlem", "Brooklyn", "Hell's Kitchen"],
+      "answer": 3,
+      "why": "He grew up in Hell's Kitchen and still guards it."
+    },
+    {
+      "q": "Which crime boss tears Matt's life apart in Born Again?",
+      "options": ["Kingpin", "Hammerhead", "Mister Negative", "The Owl"],
+      "answer": 0,
+      "why": "Wilson Fisk learns his identity and ruins him."
+    }
+  ],
+  "rivals": ["kingpin"],
+  "allies": ["black-widow", "spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#b11226",
+      "c2": "#3d0a0a",
+      "c3": "#f2c230"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Can't see you. Can hear your heartbeat lying."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "A blind lawyer in yellow",
+      "note": "Daredevil #1 introduces Matt Murdock in a yellow-and-black suit, fighting for his late father's memory."
+    },
+    {
+      "year": 1965,
+      "kind": "turn",
+      "title": "Going red",
+      "note": "Daredevil #7 debuts the all-red horned costume, and pits Matt against the Sub-Mariner in a famous losing fight."
+    },
+    {
+      "year": 1979,
+      "kind": "comic",
+      "title": "Frank Miller arrives",
+      "note": "Frank Miller starts drawing the book with #158, and soon writes it too, turning it into gritty crime noir with ninjas."
+    },
+    {
+      "year": 1981,
+      "kind": "comic",
+      "title": "Enter Elektra, enter Fisk",
+      "note": "Miller introduces Elektra in #168 and makes the Kingpin Matt's main enemy, setting up the rivalry for decades.",
+      "with": "kingpin"
+    },
+    {
+      "year": 1986,
+      "kind": "turn",
+      "title": "Born Again",
+      "note": "Miller and David Mazzucchelli have the Kingpin learn Matt's secret and tear his whole life apart piece by piece.",
+      "with": "kingpin"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "TV movie with the Hulk",
+      "note": "Rex Smith plays Matt in The Trial of the Incredible Hulk, a TV movie that teams him with Bill Bixby's Banner.",
+      "with": "hulk"
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Netflix's Hell's Kitchen",
+      "note": "Charlie Cox stars in Daredevil on Netflix, a bruising street-level series known for its long hallway fight scenes.",
+      "with": "kingpin"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Daredevil: Born Again",
+      "note": "Charlie Cox returns on Disney+ in Daredevil: Born Again, bringing the Netflix-era cast into the official MCU.",
+      "with": "kingpin"
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q327553"
+  },
+  "photo": {
+    "file": "daredevil.webp",
+    "alt": "Daredevil photograph",
+    "artist": "William Tung",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Daredevil_Cosplayer_at_the_2022_Comic-Con_International.jpg"
+  }
+}

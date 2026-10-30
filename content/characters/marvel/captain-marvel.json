@@ -1,0 +1,187 @@
+{
+  "slug": "captain-marvel",
+  "name": "Captain Marvel",
+  "realName": "Carol Susan Jane Danvers",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "She waited nine years for her powers and has been making up for it ever since. Carol Danvers went from Air Force officer to Ms. Marvel to Captain Marvel, one of Marvel's heaviest hitters.",
+  "origin": "Carol Danvers waited longer than almost anyone for her powers, and it shows in how hard she hits now. Roy Thomas and Gene Colan introduced her in Marvel Super-Heroes #13 in 1968 as a US Air Force officer running security at a base, a supporting player in the stories of the Kree hero Mar-Vell. In Captain Marvel #18 (1969) she was caught in the blast of an exploding Kree machine, but nothing came of it until 1977, when her own series revealed the accident had mixed her genes with Kree DNA and made her Ms. Marvel. Strength, flight and the power to soak up and fire energy followed, along with a string of names, Binary and Warbird among them, before she claimed the Captain Marvel title in 2012.",
+  "creators": ["Roy Thomas (writer)", "Gene Colan (artist)"],
+  "firstAppearance": {
+    "title": "Marvel Super-Heroes",
+    "issue": "13",
+    "year": 1968
+  },
+  "powers": [
+    "Super strength, speed and toughness",
+    "Absorbs energy and fires it back as blasts",
+    "Flight at extreme, near-light speeds",
+    "A 'seventh sense' that gives flashes of the future",
+    "Heals quickly",
+    "Trained pilot and combat veteran"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Alpha Flight Space Program",
+    "Guardians of the Galaxy",
+    "United States Air Force",
+    "Mighty Avengers",
+    "New Avengers",
+    "Infinity Watch",
+    "Starjammers"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1968",
+      "title": "The officer on the base",
+      "beat": "Carol Danvers first appears as a US Air Force officer and security chief at a military base, a supporting character in the adventures of the Kree hero Mar-Vell."
+    },
+    {
+      "era": "Ms. Marvel",
+      "years": "1969–1977",
+      "title": "Powers at last",
+      "beat": "In Captain Marvel #18 (1969) Carol is caught in the blast of an exploding Kree device. Nothing comes of it until 1977, when the accident is revealed to have fused her genes with Kree DNA and she gets her own series as Ms. Marvel, with super strength, flight and a sixth sense."
+    },
+    {
+      "era": "Avengers #200",
+      "years": "1980–1981",
+      "title": "A notorious storyline",
+      "beat": "Avengers #200 gives Carol a storyline widely criticised as one of Marvel's worst. A year later Chris Claremont writes Avengers Annual #10, which pushes back on it and has Rogue steal her powers and memories."
+    },
+    {
+      "era": "Binary",
+      "years": "1982",
+      "title": "Cosmic upgrade",
+      "beat": "Experiments by the alien Brood turn Carol into Binary, able to tap the power of a white hole, and she adventures with the X-Men and the Starjammers."
+    },
+    {
+      "era": "Warbird",
+      "years": "1998–2001",
+      "title": "Hitting bottom",
+      "beat": "As Warbird in Kurt Busiek's Avengers, Carol struggles with alcoholism and is court-martialled by the team before getting sober."
+    },
+    {
+      "era": "Captain Marvel",
+      "years": "2012",
+      "title": "Taking the name",
+      "beat": "Kelly Sue DeConnick's series has Carol adopt the Captain Marvel title and a new flight-suit look, turning her into one of Marvel's flagship heroes."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Carol Danvers was the first Captain Marvel.",
+      "spice": 2,
+      "truth": "Marvel's first Captain Marvel was the Kree hero Mar-Vell in 1967. Monica Rambeau also held the name before Carol."
+    },
+    {
+      "type": "fact",
+      "text": "Carol spent nine years as a supporting character before getting powers in 1977.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Avengers #200 is so infamous that Chris Claremont used a later annual to have Carol call out the Avengers for how they handled it.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Rogue's first appearance, Avengers Annual #10 (1981), reveals she had already permanently stolen Carol's powers and memories.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Kamala Khan picked the name Ms. Marvel in 2014 because she idolised Carol.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The 2019 Captain Marvel film made more than $1 billion worldwide.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Carol Danvers's first superhero name?",
+      "options": ["Binary", "Warbird", "Ms. Marvel", "Photon"],
+      "answer": 2,
+      "why": "She debuted as Ms. Marvel in 1977."
+    },
+    {
+      "q": "Which mutant absorbed Carol's powers and memories?",
+      "options": ["Mystique", "Rogue", "Jean Grey", "Psylocke"],
+      "answer": 1,
+      "why": "Rogue did so in Avengers Annual #10."
+    },
+    {
+      "q": "Which service was Carol an officer in?",
+      "options": ["US Army", "US Marines", "NASA", "US Air Force"],
+      "answer": 3,
+      "why": "She was introduced as a US Air Force officer."
+    }
+  ],
+  "rivals": [],
+  "allies": ["captain-america", "iron-man", "thor", "black-widow"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#1f3a93",
+      "c3": "#f2c230"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Punches first, glows later."
+  },
+  "timeline": [
+    {
+      "year": 1968,
+      "kind": "debut",
+      "title": "Security chief at the base",
+      "note": "Marvel Super-Heroes #13 introduces Carol Danvers as an Air Force officer guarding a rocket base, years before she had powers."
+    },
+    {
+      "year": 1977,
+      "kind": "turn",
+      "title": "Ms. Marvel bursts out",
+      "note": "Ms. Marvel #1 reveals the Kree blast that fused Carol's DNA with alien power, and she launches her first solo series."
+    },
+    {
+      "year": 1981,
+      "kind": "turn",
+      "title": "Robbed by Rogue",
+      "note": "Avengers Annual #10 has a young Rogue drain Carol's powers and memories, a wound that shapes both women for decades."
+    },
+    {
+      "year": 1982,
+      "kind": "comic",
+      "title": "Binary goes cosmic",
+      "note": "Uncanny X-Men #164 turns Carol into Binary, a star-powered hero who can tap the energy of a white hole."
+    },
+    {
+      "year": 2012,
+      "kind": "legacy",
+      "title": "Taking the Captain's name",
+      "note": "Captain Marvel #1 gives Carol the title, a flight suit redesign and a fan army that calls itself the Carol Corps."
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "Inspiring a new Ms. Marvel",
+      "note": "Kamala Khan, a Jersey City teen who idolizes Carol, takes the Ms. Marvel name in her own hit series."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "A billion-dollar debut",
+      "note": "Brie Larson leads Captain Marvel, the MCU's first solo film fronted by a woman, which crossed a billion dollars worldwide."
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Carol_Danvers",
+    "wikidata": "https://www.wikidata.org/wiki/Q726756"
+  }
+}

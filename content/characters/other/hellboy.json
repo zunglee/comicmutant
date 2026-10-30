@@ -1,0 +1,185 @@
+{
+  "slug": "hellboy",
+  "name": "Hellboy",
+  "realName": "Anung Un Rama, Urush An Rama",
+  "universe": "other",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Dark Horse Comics",
+  "summary": "Mike Mignola's half-demon paranormal investigator: a red, horned, stone-fisted demon summoned by Nazi occultists who grew up fighting the occult for the B.P.R.D. Debuted in 1993.",
+  "origin": "In December 1944, near the end of World War II, the sorcerer Grigori Rasputin led a Nazi occult ritual called Project Ragna Rok to wake the Ogdru Jahad, seven dragon-like gods of destruction. Instead, a baby half-demon dropped out of a fireball in front of Allied soldiers. Professor Trevor Bruttenholm nicknamed him Hellboy, raised him as an ordinary son and founded the Bureau for Paranormal Research and Defense. Hellboy grew up fast and then almost stopped ageing. His oversized stone right hand, the Right Hand of Doom, is a key that could unleash the end of the world, a destiny he keeps refusing.",
+  "creators": ["Mike Mignola"],
+  "firstAppearance": {
+    "title": "San Diego Comic-Con Comics",
+    "issue": "2",
+    "year": 1993
+  },
+  "powers": [
+    "Superhuman strength, endurance and durability",
+    "Extreme longevity",
+    "Accelerated healing",
+    "Immune to fire and lightning",
+    "Instinctively understands magical languages",
+    "Right Hand of Doom: a near-indestructible stone fist",
+    "Expert paranormal investigator and brawler",
+    "Carries relics, charms and an oversized revolver against the supernatural"
+  ],
+  "affiliations": ["B.P.R.D."],
+  "storyline": [
+    {
+      "era": "Origin",
+      "years": "1944",
+      "title": "Project Ragna Rok",
+      "beat": "Rasputin's ritual brings a baby demon to Earth, but the Allies find him first and Bruttenholm takes him in."
+    },
+    {
+      "era": "Debut",
+      "years": "1993",
+      "title": "Comic-Con exclusive",
+      "beat": "Hellboy's first story is four black-and-white pages in San Diego Comic-Con Comics #2. His first colour appearance comes that December in John Byrne's Next Men #21."
+    },
+    {
+      "era": "Seed of Destruction",
+      "years": "1994",
+      "title": "Rasputin returns",
+      "beat": "Rasputin reappears and tries to make Hellboy free the Ogdru Jahad. Hellboy refuses, and with Abe Sapien and Liz Sherman he defeats the sorcerer."
+    },
+    {
+      "era": "Wake the Devil",
+      "years": "1996",
+      "title": "Romanian horrors",
+      "beat": "A B.P.R.D. mission to Romania pulls Hellboy into a vampire revival plot and back toward the truth about his origins."
+    },
+    {
+      "era": "Conqueror Worm",
+      "years": "2001",
+      "title": "Lobster Johnson's ghost",
+      "beat": "With the ghost of his childhood hero Lobster Johnson, Hellboy stops an alien entity from reaching Earth. The series wins the 2002 Eisner for Best Limited Series."
+    },
+    {
+      "era": "Screen",
+      "years": "2004–2024",
+      "title": "Four films",
+      "beat": "Live-action films follow: Hellboy (2004), The Golden Army (2008), a 2019 reboot and The Crooked Man (2024)."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Hellboy has been described as smelling like dry-roasted peanuts.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He files his horns down to stumps, which end up looking like a pair of goggles on his forehead.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Mignola had never written a comic before, so established writer John Byrne scripted Hellboy's first stories from Mignola's ideas.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Mignola has said Hellboy's personality is partly modelled on his own father, a well-travelled Korean War veteran.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Hellboy's true name is just Anung Un Rama.",
+      "truth": "His full true name is Anung Un Rama, Urush An Rama, meaning 'Destroyer of Worlds, Creator of Worlds'.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He openly admits his aim with his huge revolver is terrible, and he would usually rather punch.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Hellboy his name?",
+      "options": ["Rasputin", "Professor Trevor Bruttenholm", "Abe Sapien", "Liz Sherman"],
+      "answer": 1,
+      "why": "Bruttenholm blurted out the nickname when the baby demon appeared."
+    },
+    {
+      "q": "What is Hellboy's stone right hand called?",
+      "options": [
+        "The Hand of Glory",
+        "The Iron Fist",
+        "The Right Hand of Doom",
+        "The Devil's Grip"
+      ],
+      "answer": 2,
+      "why": "The Right Hand of Doom is the key to the apocalypse."
+    },
+    {
+      "q": "Which agency does Hellboy work for?",
+      "options": ["S.H.I.E.L.D.", "B.P.R.D.", "Torchwood", "Men in Black"],
+      "answer": 1,
+      "why": "The Bureau for Paranormal Research and Defense raised and employs him."
+    }
+  ],
+  "rivals": ["grigori-rasputin"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#b22222",
+      "c2": "#3b2f2f",
+      "c3": "#d9a441"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Born to end the world, too busy saving it to bother."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hellboy"
+  },
+  "timeline": [
+    {
+      "year": 1993,
+      "kind": "debut",
+      "title": "Comic-Con exclusive",
+      "note": "Mike Mignola's red demon first shows up in a short black-and-white story in San Diego Comic-Con Comics #2."
+    },
+    {
+      "year": 1994,
+      "kind": "comic",
+      "title": "Seed of Destruction",
+      "note": "His first miniseries pits him against Rasputin, the sorcerer who summoned him to Earth.",
+      "with": "grigori-rasputin"
+    },
+    {
+      "year": 2004,
+      "kind": "screen",
+      "title": "Del Toro's Hellboy",
+      "note": "Ron Perlman plays him in Guillermo del Toro's film, followed by The Golden Army in 2008."
+    },
+    {
+      "year": 2011,
+      "kind": "death",
+      "title": "Killed in The Fury",
+      "note": "The Fury #3 ends with Hellboy dead after 18 years of stories at Dark Horse."
+    },
+    {
+      "year": 2012,
+      "kind": "return",
+      "title": "Hellboy in Hell",
+      "note": "Mignola writes and draws a new series that follows Hellboy into the afterlife, starting in December."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "The reboot",
+      "note": "David Harbour takes over the role in Neil Marshall's R-rated Hellboy."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "The Crooked Man",
+      "note": "A lower-budget folk-horror film with Jack Kesy in the lead adapts one of Mignola's Appalachian tales."
+    }
+  ],
+  "heat": 70
+}

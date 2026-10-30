@@ -1,0 +1,204 @@
+{
+  "slug": "black-panther",
+  "name": "Black Panther",
+  "realName": "T'Challa",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A king, a genius and the best-prepared man in any room. T'Challa rules the hidden, vibranium-rich nation of Wakanda and serves as the Black Panther, its sworn warrior-protector.",
+  "origin": "Picture a king who is also the smartest scientist in the room and a top-tier fighter, and you have T'Challa. He rules Wakanda, a hidden African nation that got rich and raced ahead of everyone thanks to a meteorite's worth of the metal vibranium. The Black Panther title passes through the royal line; he inherited it from his father T'Chaka, and a sacred ritual boosts his strength, speed and stamina while linking him to the memories of every Panther before him. Stan Lee and Jack Kirby introduced him in Fantastic Four #52 in 1966, where he lured the team to Wakanda to test himself against them. He was the first Black superhero in mainstream American comics, and he still feels ahead of his time.",
+  "creators": ["Stan Lee", "Jack Kirby"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "52",
+    "year": 1966
+  },
+  "powers": [
+    "Herb-boosted strength, speed, stamina and senses",
+    "Access to the memories of past Black Panthers",
+    "Elite martial artist",
+    "Brilliant scientist, inventor and strategist",
+    "Vibranium suit and gear"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Fantastic Four",
+    "Mighty Avengers",
+    "Fantastic Force",
+    "New Avengers",
+    "Ultimates",
+    "The Crew"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1966",
+      "title": "The king who tested the FF",
+      "beat": "T'Challa arrives in Fantastic Four #52 as ruler of the hidden, high-tech African nation of Wakanda. He lures the Fantastic Four there to test himself against them, then becomes their ally. He is the first Black superhero in mainstream American comics."
+    },
+    {
+      "era": "Avenger",
+      "years": "1968",
+      "title": "Joining the Avengers",
+      "beat": "T'Challa signs up with the Avengers in 1968, giving him a regular place in Marvel's biggest team book."
+    },
+    {
+      "era": "Panther's Rage",
+      "years": "1973–1976",
+      "title": "War at home",
+      "beat": "In Jungle Action, Don McGregor writes a long saga in which T'Challa returns to Wakanda to face a rebellion led by Erik Killmonger. It is often cited as one of the first long-form, novel-style story arcs in mainstream comics."
+    },
+    {
+      "era": "Priest era",
+      "years": "1998–2003",
+      "title": "The strategist king",
+      "beat": "Christopher Priest relaunches the book, recasting T'Challa as a chess-playing political genius always several steps ahead. The run introduces the Dora Milaje bodyguards and narrator Everett Ross."
+    },
+    {
+      "era": "Royal wedding",
+      "years": "2006",
+      "title": "Marrying Storm",
+      "beat": "T'Challa marries his long-time love Ororo Munroe, the X-Men's Storm, making them one of Marvel's highest-profile couples until the marriage is annulled in 2012."
+    },
+    {
+      "era": "Shuri's turn",
+      "years": "2009",
+      "title": "A new Panther",
+      "beat": "After T'Challa is badly injured, his sister Shuri takes up the mantle and becomes the Black Panther, a role she has returned to several times since."
+    },
+    {
+      "era": "Coates era",
+      "years": "2016",
+      "title": "A nation under strain",
+      "beat": "Author Ta-Nehisi Coates takes over the series, exploring T'Challa as a king facing unrest and asking what kind of government Wakanda should have."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Black Panther was named after the Black Panther Party.",
+      "spice": 2,
+      "truth": "The character debuted in July 1966; the political party was founded months later, in October 1966."
+    },
+    {
+      "type": "gossip",
+      "text": "In 1972 Marvel briefly renamed him the Black Leopard to dodge political associations. The new name did not stick.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The 2018 film made over $1.3 billion and became the first superhero movie nominated for the Best Picture Oscar.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Wakanda's vibranium came from a meteorite that crashed there long ago, and it is the secret behind the nation's wealth and tech.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His sister Shuri has held the Black Panther title in the comics, first in 2009.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which nation does T'Challa rule?",
+      "options": ["Genosha", "Latveria", "Wakanda", "Madripoor"],
+      "answer": 2,
+      "why": "Wakanda is his hidden, technologically advanced kingdom."
+    },
+    {
+      "q": "Which team did he lure to his country in his first appearance?",
+      "options": ["Fantastic Four", "X-Men", "Avengers", "Defenders"],
+      "answer": 0,
+      "why": "He debuted in Fantastic Four #52 by testing the FF."
+    },
+    {
+      "q": "Which metal is Wakanda famous for?",
+      "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+      "answer": 1,
+      "why": "Vibranium, from a meteorite, powers Wakandan technology."
+    }
+  ],
+  "rivals": ["doctor-doom"],
+  "allies": ["storm", "captain-america", "mister-fantastic", "iron-man", "the-thing"],
+  "theme": {
+    "palette": {
+      "c1": "#121212",
+      "c2": "#5b2a86",
+      "c3": "#c0c0c8"
+    },
+    "motif": "claw",
+    "mood": "dark",
+    "tagline": "A king by day, a cat by night, a genius always."
+  },
+  "timeline": [
+    {
+      "year": 1966,
+      "kind": "debut",
+      "title": "The king who hunted the FF",
+      "note": "Fantastic Four #52 brings the team to Wakanda, where T'Challa sets traps to prove he can beat them before revealing his real goal.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1968,
+      "kind": "comic",
+      "title": "Signing on with the Avengers",
+      "note": "Avengers #52 makes T'Challa a full member, and he spends years as one of the team's steadiest heads.",
+      "with": "captain-america"
+    },
+    {
+      "year": 1973,
+      "kind": "comic",
+      "title": "Panther's Rage",
+      "note": "Jungle Action #6 starts a long saga set entirely in Wakanda, often called one of the first true graphic-novel style epics at Marvel."
+    },
+    {
+      "year": 1998,
+      "kind": "comic",
+      "title": "Priest's chessmaster king",
+      "note": "Christopher Priest's new Black Panther #1 recasts T'Challa as a cold, brilliant tactician who is always three moves ahead."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Wedding of the year",
+      "note": "Black Panther #18 marries T'Challa to his old flame Storm, a royal union that ties Wakanda to the X-Men.",
+      "with": "storm"
+    },
+    {
+      "year": 2009,
+      "kind": "legacy",
+      "title": "Shuri takes the mask",
+      "note": "With her brother badly wounded, Shuri steps up as the new Black Panther in the 2009 relaunch."
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Chadwick Boseman's arrival",
+      "note": "Captain America: Civil War introduces Chadwick Boseman's T'Challa, and he steals scenes from a crowded cast.",
+      "with": "captain-america"
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "A cultural event",
+      "note": "Black Panther becomes a box-office giant and the first superhero film nominated for the Best Picture Oscar."
+    }
+  ],
+  "heat": 80,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Panther_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q998220"
+  },
+  "photo": {
+    "file": "black-panther.webp",
+    "alt": "Black Panther photograph",
+    "artist": "William Tung from USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:San_Diego_Comic-Con_2014_-_Black_Panther_(14768387231).jpg"
+  }
+}

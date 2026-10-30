@@ -1,0 +1,187 @@
+{
+  "slug": "storm",
+  "name": "Storm",
+  "realName": "Ororo Munroe",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Worshipped as a goddess before she ever joined a team. Ororo Munroe commands wind, rain and lightning, and she has led the X-Men through some of their hardest years.",
+  "origin": "Storm walked into comics already being worshipped as a goddess, and she has carried herself like royalty ever since. Len Wein and Dave Cockrum introduced Ororo Munroe in Giant-Size X-Men #1 in 1975, when Professor X found her in Kenya, where villagers revered her for bringing rain. Her past turned out to be rough: orphaned in Cairo, she grew up as a street thief before heading south. She comes from a line of African priestesses with white hair and blue eyes, and her mutant gift lets her command weather, from gentle breezes to hurricanes and lightning. She has led the X-Men, married a king and ruled a mutant society on Mars. Not bad for a former pickpocket.",
+  "creators": ["Len Wein", "Dave Cockrum"],
+  "firstAppearance": {
+    "title": "Giant-Size X-Men",
+    "issue": "1",
+    "year": 1975
+  },
+  "powers": [
+    "Controls weather, wind and lightning",
+    "Flies on air currents",
+    "Deep bond with nature",
+    "Shrugs off extreme cold, heat and pressure"
+  ],
+  "affiliations": [
+    "X-Men",
+    "Avengers",
+    "Fantastic Four",
+    "Swordbearers of Krakoa",
+    "Great Ring of Arakko",
+    "Brotherhood of Arakko"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1975",
+      "title": "Weather goddess",
+      "beat": "Ororo Munroe, worshipped as a goddess in Kenya for her weather powers, is recruited by Professor X in Giant-Size X-Men #1."
+    },
+    {
+      "era": "Leader",
+      "years": "1980",
+      "title": "Taking command",
+      "beat": "When Cyclops leaves after Jean Grey's death, Storm becomes leader of the X-Men."
+    },
+    {
+      "era": "Punk era",
+      "years": "1983",
+      "title": "The mohawk",
+      "beat": "Storm swaps her flowing look for a leather outfit and a mohawk, a bold change that fans still love."
+    },
+    {
+      "era": "Powerless",
+      "years": "1984–1986",
+      "title": "Winning without powers",
+      "beat": "Storm loses her powers to a weapon built by Forge. While still powerless she beats Cyclops in a duel for leadership of the X-Men."
+    },
+    {
+      "era": "Royal wedding",
+      "years": "2006",
+      "title": "Queen of Wakanda",
+      "beat": "Storm marries her childhood friend T'Challa, the Black Panther, and becomes queen of Wakanda for a time."
+    },
+    {
+      "era": "Arakko",
+      "years": "2021",
+      "title": "Regent of Mars",
+      "beat": "During the Krakoa era Storm becomes the ruler of Arakko, a mutant society settled on Mars."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "She beat Cyclops in a fight for X-Men leadership while she had no powers at all.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "She is claustrophobic, the result of being trapped under rubble as a child in Cairo.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Before joining the X-Men she survived as a child pickpocket on the streets of Cairo.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Halle Berry played her in the first X-Men films, and Alexandra Shipp took over the role later.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Later stories added that Storm and T'Challa first met as kids, when she helped rescue him. None of that was in her original 1970s appearances.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Storm's power?",
+      "options": ["Telepathy", "Weather control", "Magnetism", "Teleportation"],
+      "answer": 1,
+      "why": "She controls the weather."
+    },
+    {
+      "q": "Who did Storm marry in 2006?",
+      "options": ["Wolverine", "Forge", "Gambit", "Black Panther"],
+      "answer": 3,
+      "why": "She married T'Challa."
+    },
+    {
+      "q": "Where did Storm make her debut?",
+      "options": ["Giant-Size X-Men #1", "X-Men #1", "Avengers #16", "Marvel Team-Up #1"],
+      "answer": 0,
+      "why": "Giant-Size X-Men #1 (1975)."
+    }
+  ],
+  "rivals": [],
+  "allies": ["black-panther", "wolverine", "cyclops", "jean-grey", "professor-x"],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#e6e6e6",
+      "c3": "#8ad1ff"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Bad weather is a choice. Hers."
+  },
+  "timeline": [
+    {
+      "year": 1975,
+      "kind": "debut",
+      "title": "Weather goddess",
+      "note": "Giant-Size X-Men #1 introduces Ororo, a woman worshipped in Kenya, recruited into the new X-Men.",
+      "with": "wolverine"
+    },
+    {
+      "year": 1980,
+      "kind": "turn",
+      "title": "Taking command",
+      "note": "Uncanny X-Men #139 makes Storm the team's field leader, with Cyclops off on leave.",
+      "with": "cyclops"
+    },
+    {
+      "year": 1983,
+      "kind": "turn",
+      "title": "The mohawk",
+      "note": "Uncanny X-Men #173 debuts Storm's punk look, a bold change for a character known for her grace."
+    },
+    {
+      "year": 1986,
+      "kind": "comic",
+      "title": "Winning without powers",
+      "note": "Uncanny X-Men #201 has a powerless Storm beat Cyclops in a duel for leadership of the team.",
+      "with": "cyclops"
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "X-Men: The Animated Series",
+      "note": "The Fox Kids cartoon makes Storm a fan favorite, with dramatic speeches as she summons the weather."
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Halle Berry in X-Men",
+      "note": "Bryan Singer's X-Men film casts Halle Berry as Ororo, a role she played across four films."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Queen of Wakanda",
+      "note": "Black Panther #18 holds Storm's wedding to T'Challa, making her a queen.",
+      "with": "black-panther"
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "Starring in X-Men '97",
+      "note": "The X-Men '97 revival gives Storm a standout arc about losing and reclaiming her powers."
+    }
+  ],
+  "heat": 65,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q632212"
+  }
+}

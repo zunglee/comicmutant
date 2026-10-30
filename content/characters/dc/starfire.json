@@ -1,0 +1,171 @@
+{
+  "slug": "starfire",
+  "name": "Starfire",
+  "realName": "Koriand'r",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "An alien princess who feels everything at full volume. Koriand'r of Tamaran, known as Starfire, turns sunlight into flight and blazing starbolts as a mainstay of the Teen Titans.",
+  "origin": "Starfire is a warrior princess from another planet who feels everything at full volume, and she has no plans to tone it down for Earth. Marv Wolfman and George Pérez introduced her in a preview story slipped into DC Comics Presents #26 in 1980, then gave her a big role in The New Teen Titans. Koriand'r is royalty from the planet Tamaran, sold into slavery by her jealous sister Blackfire before escaping to Earth. Her body soaks up ultraviolet light and turns it into flight, strength and blazing starbolts, and she was trained as a fighter by the Warlords of Okaara. She has led the Titans at times, and her romance with Dick Grayson is one of the team's core stories.",
+  "creators": ["Marv Wolfman", "George Pérez"],
+  "firstAppearance": {
+    "title": "DC Comics Presents",
+    "issue": "26",
+    "year": 1980
+  },
+  "powers": [
+    "Absorbs ultraviolet light and turns it into power",
+    "Flies and fires starbolts",
+    "Superhuman strength",
+    "Trained warrior",
+    "Learns languages through touch"
+  ],
+  "affiliations": ["Teen Titans", "Justice League", "R.E.B.E.L.S.", "The Outlaws"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1980",
+      "title": "Escaped princess",
+      "beat": "Koriand'r, a princess of the planet Tamaran who was sold into slavery and escaped, crash-lands on Earth and joins The New Teen Titans."
+    },
+    {
+      "era": "Romance",
+      "years": "1980s–1990s",
+      "title": "Kory and Dick",
+      "beat": "Starfire and Dick Grayson become one of DC's best-known couples. Their wedding is famously interrupted in The New Titans #100 (1993)."
+    },
+    {
+      "era": "Teen Titans",
+      "years": "2003",
+      "title": "Cartoon favourite",
+      "beat": "The animated Teen Titans makes Starfire a household name for a new generation."
+    },
+    {
+      "era": "Solo series",
+      "years": "2015–2016",
+      "title": "Key West",
+      "beat": "Starfire gets her own lighthearted series, settling in Key West, Florida."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Her powers come from soaking up ultraviolet light, which she can fire back as starbolts.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her sister Blackfire is one of her greatest enemies.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tamaraneans can pick up a language through physical contact. Kory learned English by kissing Dick Grayson.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Her 2011 portrayal in Red Hood and the Outlaws drew heavy criticism from fans.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is Starfire from?",
+      "options": ["Tamaran", "Krypton", "Thanagar", "Rann"],
+      "answer": 0,
+      "why": "Tamaran."
+    },
+    {
+      "q": "What is the name of Starfire's sister?",
+      "options": ["Darkstar", "Blackfire", "Jinx", "Maxima"],
+      "answer": 1,
+      "why": "Blackfire."
+    },
+    {
+      "q": "Who is Starfire's best-known love?",
+      "options": ["Wally West", "Beast Boy", "Dick Grayson", "Cyborg"],
+      "answer": 2,
+      "why": "Dick Grayson, Nightwing."
+    }
+  ],
+  "rivals": ["deathstroke"],
+  "allies": ["nightwing", "raven", "beast-boy", "cyborg", "blue-beetle-jaime-reyes"],
+  "theme": {
+    "palette": {
+      "c1": "#f28c28",
+      "c2": "#5b2a86",
+      "c3": "#3cff6a"
+    },
+    "motif": "cosmic",
+    "mood": "light",
+    "tagline": "Royal warrior, sunshine-powered, hugs very hard."
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "kind": "debut",
+      "title": "Princess of Tamaran",
+      "note": "A preview in DC Comics Presents #26 introduces Koriand'r, an alien princess who fires solar starbolts.",
+      "with": "raven"
+    },
+    {
+      "year": 1980,
+      "kind": "comic",
+      "title": "Escape to Earth",
+      "note": "New Teen Titans #1 has Kory break free of her captors and fall in with the young heroes.",
+      "with": "cyborg"
+    },
+    {
+      "year": 1982,
+      "kind": "comic",
+      "title": "Her full origin",
+      "note": "Tales of the New Teen Titans #4 lays out Kory's painful backstory, including her sister's betrayal."
+    },
+    {
+      "year": 1993,
+      "kind": "turn",
+      "title": "The wedding that wasn't",
+      "note": "Kory and Dick Grayson's wedding in New Titans #100 is wrecked by an attack from a corrupted Raven.",
+      "with": "nightwing"
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Teen Titans on TV",
+      "note": "Hynden Walch voices a sweet, wonderfully literal Starfire in the hit Teen Titans cartoon."
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "Red Hood and the Outlaws",
+      "note": "The New 52 drops Kory into an antihero trio with Jason Todd and Roy Harper."
+    },
+    {
+      "year": 2015,
+      "kind": "comic",
+      "title": "Sunshine solo",
+      "note": "A breezy Starfire solo series sends her to start a new life in Key West."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Titans",
+      "note": "Anna Diop plays a fiery Kory who wakes up with no memory in the live-action Titans series."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)",
+    "wikidata": "https://www.wikidata.org/wiki/Q427987"
+  },
+  "photo": {
+    "file": "starfire.webp",
+    "alt": "Starfire photograph",
+    "artist": "https://scratch.mit.edu/users/cartoonnetwork/",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Starfire_(Teen_Titans_Go!).svg"
+  }
+}

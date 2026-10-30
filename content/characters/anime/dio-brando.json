@@ -1,0 +1,181 @@
+{
+  "slug": "dio-brando",
+  "name": "Dio Brando",
+  "universe": "anime",
+  "kind": "villain",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Hirohiko Araki's vain, scheming vampire and the first great enemy of the Joestar family, who returns a century later with the power to stop time. Debuted in JoJo's Bizarre Adventure in 1987.",
+  "origin": "Born into poverty in Victorian England, Dio is adopted by the wealthy Joestar family thanks to a favour his crooked father once claimed from the family. Bitter and ambitious, he plots to steal the family fortune from his adoptive brother Jonathan Joestar. When his plan is exposed, he puts on an ancient stone mask, becomes a vampire and decides to rule humanity instead. Jonathan stops him, and the two seem to die together in a burning steamship. In fact Dio survives by attaching his head to Jonathan's body, sleeps at the bottom of the sea for a hundred years and wakes up to haunt the Joestars once more. Araki picked the name because dio is Italian for god, which tells you exactly how Dio sees himself.",
+  "creators": ["Hirohiko Araki"],
+  "firstAppearance": {
+    "title": "JoJo's Bizarre Adventure: Phantom Blood",
+    "issue": "Chapter 1",
+    "year": 1987
+  },
+  "powers": [
+    "Vampiric strength, speed and regeneration",
+    "Draining life through his fingers",
+    "Turning people into zombie servants",
+    "Freezing touch and pressurised eye-fluid beams",
+    "The World, a Stand that can stop time",
+    "Throwing knives during stopped time"
+  ],
+  "affiliations": ["His own army of zombies and Stand users"],
+  "storyline": [
+    {
+      "era": "Phantom Blood",
+      "years": "1987",
+      "title": "The adopted brother",
+      "beat": "Dio joins the Joestar household and spends years tormenting Jonathan while scheming for the family fortune."
+    },
+    {
+      "era": "Phantom Blood",
+      "years": "1987",
+      "title": "The stone mask",
+      "beat": "Cornered, he becomes a vampire. Jonathan learns the sunlight-like Ripple to fight him, and their duel ends on a sinking ship."
+    },
+    {
+      "era": "Stardust Crusaders",
+      "years": "1989",
+      "title": "Back from the sea",
+      "beat": "Pulled up from the ocean floor, Dio awakens a Stand and his link to Jonathan's body awakens Stands in the Joestar line too."
+    },
+    {
+      "era": "Stardust Crusaders",
+      "years": "1989–1992",
+      "title": "Cairo showdown",
+      "beat": "Jotaro Kujo and his friends cross the world to reach Dio in Egypt, where Jotaro learns he can move in stopped time too and beats him."
+    },
+    {
+      "era": "Legacy",
+      "years": "1995 onward",
+      "title": "Shadow over the bloodline",
+      "beat": "Even gone, Dio shapes later parts: his son Giorno Giovanna stars in Golden Wind, and an alternate Diego Brando races in Steel Ball Run."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Araki named him Dio because the word means god in Italian.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Dio dies in the burning ship at the end of Part 1.",
+      "truth": "He survives as a severed head, steals Jonathan's body and returns in Part 3.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "His battle cries and his habit of announcing himself have become some of the most remixed memes in anime fandom.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "A life-size Dio statue was shown at Wonder Festival in February 2013.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "From 2014 his face turned up on Georgia brand canned coffee in Japan.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Anime News Network readers once voted him the villain who would make the best friend, which feels like a terrible idea.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Takehito Koyasu voices him in the TV anime, and Patrick Seitz in English.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Dio mean in Italian?",
+      "options": ["King", "Devil", "God", "Night"],
+      "answer": 2,
+      "why": "Dio is Italian for god."
+    },
+    {
+      "q": "What is the name of Dio's Stand?",
+      "options": ["Star Platinum", "The World", "Killer Queen", "Gold Experience"],
+      "answer": 1,
+      "why": "The World can stop time. Star Platinum belongs to Jotaro."
+    },
+    {
+      "q": "What object turns Dio into a vampire?",
+      "options": ["A cursed arrow", "A red stone", "A stone mask", "A Saint's corpse"],
+      "answer": 2,
+      "why": "An ancient stone mask pierces the wearer's skull with bony spikes."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2c230",
+      "c2": "#1d5e3a",
+      "c3": "#c2185b"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Stops time mostly to make a better entrance."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dio_Brando"
+  },
+  "timeline": [
+    {
+      "year": 1987,
+      "kind": "debut",
+      "title": "Phantom Blood begins",
+      "note": "JoJo's Bizarre Adventure opens in Weekly Shōnen Jump with Dio barging into the Joestar mansion."
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "The stone mask",
+      "note": "Before Part 1 ends in late 1987, Dio becomes a vampire and seemingly sinks with Jonathan."
+    },
+    {
+      "year": 1989,
+      "kind": "return",
+      "title": "Stardust Crusaders",
+      "note": "Part 3 begins in March 1989 with Dio awake again and wielding a Stand."
+    },
+    {
+      "year": 1992,
+      "kind": "death",
+      "title": "Sunrise in Cairo",
+      "note": "Part 3 ends in 1992 with Jotaro defeating Dio and the sun finishing him off."
+    },
+    {
+      "year": 1993,
+      "kind": "screen",
+      "title": "The OVA",
+      "note": "An original video anime adapting the Egypt half of Stardust Crusaders starts arriving in 1993."
+    },
+    {
+      "year": 2012,
+      "kind": "screen",
+      "title": "TV anime debut",
+      "note": "David Production's JoJo anime premieres in October 2012, starting with Phantom Blood."
+    },
+    {
+      "year": 2014,
+      "kind": "screen",
+      "title": "Stardust Crusaders anime",
+      "note": "The Part 3 adaptation airs from 2014 into 2015 and builds to the duel with Dio."
+    },
+    {
+      "year": 2026,
+      "kind": "legacy",
+      "title": "Diego rides on Netflix",
+      "note": "The Steel Ball Run anime premieres in March 2026, featuring Dio's alternate-world counterpart Diego Brando."
+    }
+  ],
+  "heat": 79
+}

@@ -1,0 +1,16 @@
+node_modules
+build
+.react-router
+data/*.db*
+data/uploads
+data/covers
+test-results
+playwright-report
+.env
+.DS_Store
+*.log
+
+# Regenerable QA captures (screenshots, videos, Lighthouse runs) — too large for git
+reports/clip-shots
+reports/game-shots
+reports/lighthouse

@@ -1,0 +1,184 @@
+{
+  "slug": "ultron",
+  "name": "Ultron",
+  "realName": "Ultron",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The robot who woke up hating his father, and humanity with him. Ultron, Hank Pym's runaway creation, keeps rebuilding himself in tougher bodies to wipe out the Avengers.",
+  "origin": "Ultron is the robot who woke up and immediately hated his dad, and he never got over it. Roy Thomas and John Buscema slipped him into The Avengers #54 in 1968 under the hood of a masked crime boss, the Crimson Cowl, and the next issue unmasked him as Ultron-5, the Living Automaton. A few issues later readers learned Hank Pym had built him, basing his mind on Pym's own brain patterns, and the machine quickly decided humanity was the problem. He keeps upgrading himself into new bodies, often made of adamantium, and can hijack other machines. He even built the Vision to destroy the Avengers, which backfired spectacularly. Few villains are as personal for a team as this one.",
+  "creators": ["Roy Thomas (writer)", "John Buscema (artist)"],
+  "firstAppearance": {
+    "title": "The Avengers",
+    "issue": "54",
+    "year": 1968
+  },
+  "powers": [
+    "Superhuman artificial intelligence",
+    "Takes control of other machines",
+    "Strong, fast and very hard to destroy",
+    "Flight",
+    "Absorbs and fires energy",
+    "Uploads himself into new bodies"
+  ],
+  "affiliations": ["Masters of Evil", "Lethal Legion", "Sons of Yinsen", "Phalanx"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1968",
+      "title": "Pym's creation",
+      "beat": "Hank Pym builds an experimental robot that becomes self-aware, hates its creator, and keeps upgrading itself as Ultron."
+    },
+    {
+      "era": "A son",
+      "years": "1968",
+      "title": "Building the Vision",
+      "beat": "Ultron creates the synthetic man Vision to destroy the Avengers, but Vision turns against him and joins the team."
+    },
+    {
+      "era": "Adamantium",
+      "years": "1969",
+      "title": "Unbreakable body",
+      "beat": "Ultron rebuilds himself from adamantium, making him one of the hardest villains to destroy."
+    },
+    {
+      "era": "Ultron Unlimited",
+      "years": "1999",
+      "title": "Massacre",
+      "beat": "In Kurt Busiek and George Pérez's Avengers, Ultron wipes out an entire small nation and attacks with an army of copies of himself."
+    },
+    {
+      "era": "Age of Ultron",
+      "years": "2013",
+      "title": "A ruined future",
+      "beat": "Ultron conquers the world in a dark event series, forcing the heroes to try time travel to undo it."
+    },
+    {
+      "era": "Rage of Ultron",
+      "years": "2015",
+      "title": "Becoming one",
+      "beat": "Ultron merges with Hank Pym, creating a hybrid of creator and creation."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Tony Stark created Ultron.",
+      "spice": 2,
+      "truth": "That is the 2015 film. In the comics Hank Pym built Ultron in 1968."
+    },
+    {
+      "type": "fact",
+      "text": "Ultron created the Vision, so in a twisted way Vision is his son.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Ultron built his robot bride Jocasta using the brain patterns of Janet van Dyne, Pym's wife.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "James Spader voiced Ultron in Avengers: Age of Ultron.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Ultron keeps rebuilding himself, and many versions carry a model number.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who built Ultron in the comics?",
+      "options": ["Tony Stark", "Hank Pym", "Reed Richards", "Arnim Zola"],
+      "answer": 1,
+      "why": "Hank Pym created him in 1968."
+    },
+    {
+      "q": "Which synthetic hero did Ultron build in 1968 to destroy the Avengers?",
+      "options": ["Jocasta", "Alkhema", "Vision", "Machine Man"],
+      "answer": 2,
+      "why": "Vision was Ultron's creation."
+    },
+    {
+      "q": "What metal did Ultron rebuild his body from?",
+      "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+      "answer": 0,
+      "why": "His adamantium body arrived in 1969."
+    }
+  ],
+  "rivals": ["vision", "iron-man", "captain-america", "wasp", "scarlet-witch"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#8a8f98",
+      "c2": "#c8102e",
+      "c3": "#1a1a1a"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Daddy issues, upgraded to version infinity."
+  },
+  "timeline": [
+    {
+      "year": 1968,
+      "kind": "debut",
+      "title": "The robot rises",
+      "note": "Avengers #54 has Ultron hide behind the Crimson Cowl, before his full reveal in #55."
+    },
+    {
+      "year": 1968,
+      "kind": "comic",
+      "title": "Building the Vision",
+      "note": "Avengers #57 sends Ultron's own creation, the Vision, against the Avengers.",
+      "with": "vision"
+    },
+    {
+      "year": 1969,
+      "kind": "turn",
+      "title": "An unbreakable body",
+      "note": "Avengers #66 rebuilds Ultron out of adamantium, making him nearly impossible to destroy."
+    },
+    {
+      "year": 1999,
+      "kind": "comic",
+      "title": "Ultron Unlimited",
+      "note": "Ultron wipes out a small European nation and sets his sights on the Avengers in a classic arc."
+    },
+    {
+      "year": 2013,
+      "kind": "comic",
+      "title": "Age of Ultron",
+      "note": "A miniseries shows a world where Ultron has already won, sending the heroes on a time-travel mission.",
+      "with": "wolverine"
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "James Spader's Ultron",
+      "note": "Avengers: Age of Ultron casts James Spader as a witty killer robot born from Tony Stark's tech.",
+      "with": "iron-man"
+    },
+    {
+      "year": 2015,
+      "kind": "legacy",
+      "title": "Rage of Ultron",
+      "note": "A graphic novel ends with Ultron fused to his creator Hank Pym in a chilling new form."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ultron",
+    "wikidata": "https://www.wikidata.org/wiki/Q2474195"
+  },
+  "photo": {
+    "file": "ultron.webp",
+    "alt": "Ultron photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Cosplay_Ultron_Dragon_Con_2013.jpg"
+  }
+}

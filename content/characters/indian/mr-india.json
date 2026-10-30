@@ -1,0 +1,145 @@
+{
+  "slug": "mr-india",
+  "name": "Mr. India",
+  "realName": "Arun Verma",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Narsimha Enterprises",
+  "summary": "Bollywood's invisible man: Arun Verma, a broke violinist who shelters orphans and fights Mogambo with his late father's invisibility device. Played by Anil Kapoor (1987).",
+  "origin": "Arun is a street violinist who rents a big old house to shelter orphaned children, with help from his cook Calendar, and he is deep in debt. A family friend, Professor Sinha, reveals that Arun's late father, a scientist, built a device that makes its wearer invisible, and that the criminal Mogambo was behind his father's death. Following clues in a letter from Sinha, Arun finds the device in his father's old lab. He starts fighting crime unseen as Mr. India, and the crooks he takes on turn out to be Mogambo's men.",
+  "creators": ["Shekhar Kapur (director)", "Salim–Javed (story and screenplay)"],
+  "firstAppearance": {
+    "title": "Mr. India",
+    "year": 1987
+  },
+  "powers": [
+    "Invisibility from his father's cloaking device",
+    "Moves and fights unseen",
+    "Weakness: visible under red light or through red glass",
+    "Otherwise an ordinary, if brave, man"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Setup",
+      "years": "1987",
+      "title": "A house full of orphans",
+      "beat": "Arun scrapes by to look after the children and takes in journalist Seema as a lodger to pay the bills."
+    },
+    {
+      "era": "Discovery",
+      "years": "1987",
+      "title": "Father's secret",
+      "beat": "Arun uncovers his father's invisibility device and learns Mogambo had a hand in his death."
+    },
+    {
+      "era": "Hero",
+      "years": "1987",
+      "title": "The invisible vigilante",
+      "beat": "As Mr. India he rescues Seema when Mogambo's goons catch her undercover, and foils a plan to steal a golden Hanuman idol."
+    },
+    {
+      "era": "Tragedy",
+      "years": "1987",
+      "title": "Mogambo strikes back",
+      "beat": "To lure Mr. India out, Mogambo plants bombs around the country. One, disguised as a toy, kills a little girl from the orphanage."
+    },
+    {
+      "era": "Finale",
+      "years": "1987",
+      "title": "Island showdown",
+      "beat": "Captured and taken to Mogambo's island, Arun stops the missile launch. The fuelled missiles explode, the fortress is destroyed and Mogambo dies."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Salim–Javed wrote the hero with Rajesh Khanna in mind, then offered it to Amitabh Bachchan, who reportedly didn't want to play a hero you can't see. The row helped end their partnership, so this was the duo's last film.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "The invisibility doesn't work under red light, which is the film's version of kryptonite.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Filming started in July 1985 and took 350 days.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The effects were made before digital VFX, using masking and in-camera tricks supervised by Peter Pereira.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "It was remade in Tamil and Kannada in 1989. A 3D sequel was announced in 2011 but never went into production.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What makes Mr. India visible?",
+      "options": ["Rain", "Sunlight", "Red light", "Loud music"],
+      "answer": 2,
+      "why": "The device fails under red light or through red glass."
+    },
+    {
+      "q": "What instrument does Arun Verma play?",
+      "options": ["Sitar", "Violin", "Tabla", "Flute"],
+      "answer": 1,
+      "why": "Arun is a street violinist."
+    },
+    {
+      "q": "Who wrote Mr. India?",
+      "options": ["Salim–Javed", "Karan Johar", "Rakesh Roshan", "Anurag Kashyap"],
+      "answer": 0,
+      "why": "It was the last film written by Salim–Javed."
+    }
+  ],
+  "rivals": ["mogambo"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#2b2d42",
+      "c2": "#8d99ae",
+      "c3": "#ef233c"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "You can't punch what you can't see. Unless the lights turn red."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+  },
+  "timeline": [
+    {
+      "year": 1987,
+      "kind": "debut",
+      "title": "Now you see him",
+      "note": "Anil Kapoor's invisible hero arrives in Shekhar Kapur's hit, which stays in cinemas for more than 175 days.",
+      "with": "mogambo"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "Southern remakes",
+      "note": "The story is remade in Tamil as En Rathathin Rathame and in Kannada as Jai Karnataka."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Mr. India 2 announced",
+      "note": "Producer Boney Kapoor unveils plans for a 3D sequel. It still hasn't been made."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Sridevi tribute",
+      "note": "The London Indian Film Festival screens the film in honour of Sridevi after her death that February."
+    }
+  ],
+  "heat": 65
+}

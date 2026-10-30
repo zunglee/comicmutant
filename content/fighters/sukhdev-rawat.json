@@ -1,0 +1,41 @@
+{
+  "slug": "sukhdev-rawat",
+  "name": "SUKHDEV RAWAT",
+  "alias": "DRY SEASON",
+  "kind": "villain",
+  "archetype": "water-thief",
+  "bio": "A Thar Desert well-keeper turned reservoir raider. After his village's last well ran dry he decided the sky owed him, and so did every city with a tap. He steals water by the tanker and keeps it in a very large jug.",
+  "catchphrase": "Water is a loan. I'm calling it in.",
+  "rig": {
+    "build": "normal",
+    "head": "hood",
+    "cape": true,
+    "skin": "#5a3622",
+    "suit": "#c2571a",
+    "trim": "#f3d9a0",
+    "eye": "#fff176",
+    "emblem": "fang"
+  },
+  "stats": {
+    "power": 7,
+    "speed": 4,
+    "defense": 6,
+    "special": 7
+  },
+  "special": {
+    "name": "Parch Ray",
+    "kind": "beam"
+  },
+  "rivals": ["meghna-kadam", "juno-ferrow"],
+  "theme": {
+    "palette": {
+      "c1": "#c2571a",
+      "c2": "#f3d9a0",
+      "c3": "#7a1f0b"
+    },
+    "motif": "flame",
+    "mood": "light",
+    "tagline": "Not a drop to spare."
+  },
+  "heat": 52
+}

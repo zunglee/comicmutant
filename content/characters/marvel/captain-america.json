@@ -1,0 +1,199 @@
+{
+  "slug": "captain-america",
+  "name": "Captain America",
+  "realName": "Steve Rogers",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The man who punched Hitler before America joined the war. Steve Rogers, a frail kid turned into a peak human soldier, carries a near-indestructible shield and the conscience of the Avengers.",
+  "origin": "Captain America punched Hitler on his very first cover, and Joe Simon and Jack Kirby meant every bit of it. Captain America Comics #1 hit stands in December 1940 from Timely, the company that grew into Marvel, a full year before Pearl Harbor. Inside, skinny Steve Rogers is turned away by the Army, volunteers for a secret experiment instead, and a super-soldier serum makes him the best a human body can be. Add a near-unbreakable shield, a tactician's brain and old-fashioned decency, and you have the moral centre of the Marvel Universe. Frozen in ice after the war, he was thawed out by the Avengers in 1964 and has been their conscience ever since.",
+  "creators": ["Joe Simon", "Jack Kirby"],
+  "firstAppearance": {
+    "title": "Captain America Comics",
+    "issue": "1",
+    "year": 1941
+  },
+  "powers": [
+    "Peak human strength, speed and stamina from the serum",
+    "Martial arts and close-combat mastery",
+    "Brilliant battlefield tactician",
+    "Nearly indestructible shield he can throw and ricochet"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Golden Age",
+      "years": "1940–1949",
+      "title": "The super-soldier",
+      "beat": "Frail volunteer Steve Rogers is turned into a peak human soldier by an experimental serum. His first cover shows him punching Adolf Hitler, a full year before the US entered World War II."
+    },
+    {
+      "era": "Revival",
+      "years": "1964",
+      "title": "Thawed out",
+      "beat": "In The Avengers #4, the team finds Cap frozen in ice and revives him. He becomes a man out of time and the heart of the Avengers, while his partner Bucky is said to have died in the war."
+    },
+    {
+      "era": "Secret Empire",
+      "years": "1974",
+      "title": "Becoming Nomad",
+      "beat": "Cap uncovers a conspiracy reaching the top of the US government, loses faith in the role and briefly becomes Nomad, a hero without a country."
+    },
+    {
+      "era": "The Captain",
+      "years": "1987–1989",
+      "title": "Giving up the shield",
+      "beat": "Rather than take orders from a government commission, Steve gives up the shield. John Walker becomes Captain America until Steve reclaims the role."
+    },
+    {
+      "era": "Winter Soldier",
+      "years": "2005",
+      "title": "Bucky lives",
+      "beat": "Ed Brubaker reveals that Bucky survived the war and was turned into a brainwashed Soviet assassin, the Winter Soldier."
+    },
+    {
+      "era": "Civil War",
+      "years": "2006–2007",
+      "title": "Death of Captain America",
+      "beat": "Cap leads the heroes who refuse to register with the government. After surrendering he is shot on the courthouse steps, and Bucky takes up the shield for a time."
+    },
+    {
+      "era": "Hydra twist",
+      "years": "2016–2017",
+      "title": "Secret Empire",
+      "beat": "A reality-altering Cosmic Cube rewrites Steve into a Hydra loyalist, leading to a takeover of the US in the Secret Empire event before the real Steve returns."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "That Hitler-punching first cover drew hate mail and threats. Joe Simon later said New York mayor Fiorello La Guardia called to promise the creators police protection.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "His first shield was a pointed, badge-shaped one. It became round in issue #2, reportedly because a rival publisher's hero, the Shield, looked too similar.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Cap's shield is made of pure vibranium.",
+      "spice": 2,
+      "truth": "In the comics it is a one-of-a-kind vibranium-steel alloy created by accident, which is why nobody can copy it."
+    },
+    {
+      "type": "gossip",
+      "text": "Marvel revived Cap as a Cold War Commie Smasher in the 1950s. Later stories explained that guy was a different man who took the role.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Bucky Barnes was considered dead in Marvel lore from 1964 until 2005, one of comics' longest-lasting deaths.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who created Captain America?",
+      "options": [
+        "Stan Lee & Jack Kirby",
+        "Joe Simon & Jack Kirby",
+        "Bob Kane & Bill Finger",
+        "Siegel & Shuster"
+      ],
+      "answer": 1,
+      "why": "Joe Simon and Jack Kirby created him in 1940."
+    },
+    {
+      "q": "Which team revived Cap from the ice in 1964?",
+      "options": ["Fantastic Four", "X-Men", "Avengers", "Invaders"],
+      "answer": 2,
+      "why": "It happened in The Avengers #4."
+    },
+    {
+      "q": "What shape was Cap's very first shield?",
+      "options": ["Round", "Star-shaped", "Square", "Badge-shaped"],
+      "answer": 3,
+      "why": "The badge-shaped shield was swapped for a round one in issue #2."
+    }
+  ],
+  "rivals": ["red-skull"],
+  "allies": ["iron-man", "thor", "black-widow", "hawkeye", "black-panther", "captain-marvel"],
+  "theme": {
+    "palette": {
+      "c1": "#1f3a93",
+      "c2": "#c8102e",
+      "c3": "#f2f2f2"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Throws a frisbee. Ends a war."
+  },
+  "timeline": [
+    {
+      "year": 1941,
+      "kind": "debut",
+      "title": "Punching Hitler on page one",
+      "note": "Captain America Comics #1 lands with Cap socking Hitler on the cover, months before America even entered the war. The Red Skull debuts inside.",
+      "with": "red-skull"
+    },
+    {
+      "year": 1944,
+      "kind": "screen",
+      "title": "A wartime movie serial",
+      "note": "Republic Pictures turns Cap into a 15-chapter cliffhanger serial, making him the first Marvel hero in live action."
+    },
+    {
+      "year": 1964,
+      "kind": "return",
+      "title": "Found frozen in ice",
+      "note": "Avengers #4 has the team thaw Steve out of a block of Arctic ice, bringing the golden-age hero into the modern Marvel age."
+    },
+    {
+      "year": 1974,
+      "kind": "turn",
+      "title": "Becoming Nomad",
+      "note": "After the Secret Empire scandal, Captain America #180 has Steve drop the flag and roam as Nomad, a man without a country."
+    },
+    {
+      "year": 2007,
+      "kind": "death",
+      "title": "Shot on the courthouse steps",
+      "note": "Captain America #25 kills Steve after Civil War, a headline-grabbing death that made the evening news.",
+      "with": "red-skull"
+    },
+    {
+      "year": 2008,
+      "kind": "legacy",
+      "title": "Bucky picks up the shield",
+      "note": "Captain America #34 makes his old sidekick, now the reformed Winter Soldier, the new Cap."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "The First Avenger",
+      "note": "Chris Evans plays Steve in Captain America: The First Avenger, a WWII adventure that sets up the Avengers film.",
+      "with": "red-skull"
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "Sam Wilson takes the mantle",
+      "note": "An aged-up Steve hands the shield to Sam Wilson, the Falcon, who becomes Captain America in his own right."
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Captain_America",
+    "wikidata": "https://www.wikidata.org/wiki/Q190679"
+  },
+  "photo": {
+    "file": "captain-america.webp",
+    "alt": "Captain America photograph",
+    "artist": "CIUDAD DE LAS ARTES Y LAS CIENCIAS VALENCIA from Valencia, España",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Museo_de_las_Ciencias_Pr%C3%ADncipe_Felipe_(7202221662).jpg"
+  }
+}

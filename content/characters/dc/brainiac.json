@@ -1,0 +1,157 @@
+{
+  "slug": "brainiac",
+  "name": "Brainiac",
+  "realName": "Vril Dox",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A cosmic collector who keeps cities in bottles. Brainiac, an alien intelligence from the planet Colu, bottled Kandor, a city from Krypton, and has haunted Superman ever since.",
+  "origin": "Brainiac is the villain who treats civilisations like souvenirs, and that's why he's so creepy. Otto Binder and Al Plastino introduced him in Action Comics #242 in 1958 as a green-skinned alien from the planet Colu who cruised the galaxy shrinking cities and keeping them in bottles. His biggest prize was Kandor, a Kryptonian city he stole before the planet exploded, and Superman spent years trying to restore it to full size. Later versions made him a living computer, then a skull-faced robot, then a cold collector of entire worlds. Whatever the body, he has a twelfth-level intellect, can take over machines and ranks among the most dangerous enemies Superman has.",
+  "creators": ["Otto Binder (writer)", "Al Plastino (artist)"],
+  "firstAppearance": {
+    "title": "Action Comics",
+    "issue": "242",
+    "year": 1958
+  },
+  "powers": [
+    "Twelfth-level intellect",
+    "Strong, fast and tough robotic bodies",
+    "Flight",
+    "Takes over machines",
+    "Telepathy and telekinesis"
+  ],
+  "affiliations": ["Anti-Justice League", "Legion of Doom"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1958",
+      "title": "The city shrinker",
+      "beat": "Brainiac debuts in Action Comics #242 as a green-skinned alien who shrinks cities and keeps them in bottles, including Kandor from Krypton."
+    },
+    {
+      "era": "Skull ship",
+      "years": "1983",
+      "title": "Robot redesign",
+      "beat": "A redesign makes Brainiac a metal robot body with a skull-shaped spaceship, a look that stuck for years."
+    },
+    {
+      "era": "Panic in the Sky",
+      "years": "1992",
+      "title": "Invasion",
+      "beat": "Brainiac takes over Warworld and invades Earth, and Superman gathers dozens of heroes to stop him."
+    },
+    {
+      "era": "Johns and Frank",
+      "years": "2008",
+      "title": "The collector",
+      "beat": "Geoff Johns and Gary Frank recast Brainiac as a cold collector of worlds. In the aftermath, Superman's adoptive father Jonathan Kent dies of a heart attack."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Brainiac started out as a green-skinned alien. In 1964 the comics recast him as a computer built by the machine rulers of his home world, Colu.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Brainiac 5 of the Legion of Super-Heroes is his heroic descendant from the future.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He comes from the planet Colu.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "James Marsters played Brainiac in Smallville.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Kryptonian city did Brainiac bottle?",
+      "options": ["Argo City", "Kandor", "Metropolis", "Atlantis"],
+      "answer": 1,
+      "why": "Kandor."
+    },
+    {
+      "q": "Which Legion member is Brainiac's descendant?",
+      "options": ["Cosmic Boy", "Lightning Lad", "Saturn Girl", "Brainiac 5"],
+      "answer": 3,
+      "why": "Brainiac 5."
+    },
+    {
+      "q": "What is Brainiac's home planet?",
+      "options": ["Colu", "Krypton", "Apokolips", "Daxam"],
+      "answer": 0,
+      "why": "Colu."
+    }
+  ],
+  "rivals": ["superman", "supergirl"],
+  "allies": ["lex-luthor"],
+  "theme": {
+    "palette": {
+      "c1": "#3c8d2f",
+      "c2": "#5b2a86",
+      "c3": "#7fdbff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Collects cities like fridge magnets."
+  },
+  "timeline": [
+    {
+      "year": 1958,
+      "kind": "debut",
+      "title": "City thief",
+      "note": "Action Comics #242 introduces a green-skinned alien who shrinks and steals cities, including Kandor.",
+      "with": "superman"
+    },
+    {
+      "year": 1964,
+      "kind": "turn",
+      "title": "Robot reveal",
+      "note": "Superman #167 recasts Brainiac as a computer built by the people of Colu."
+    },
+    {
+      "year": 1983,
+      "kind": "turn",
+      "title": "Skull-ship upgrade",
+      "note": "Action Comics #544 rebuilds him as a chrome robot with a skull-shaped starship."
+    },
+    {
+      "year": 1996,
+      "kind": "screen",
+      "title": "Stolen Memories",
+      "note": "Superman: The Animated Series makes Brainiac the AI that let Krypton die to save itself."
+    },
+    {
+      "year": 2008,
+      "kind": "comic",
+      "title": "Superman: Brainiac",
+      "note": "Geoff Johns and Gary Frank reveal the real Brainiac hiding behind all the drones."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Krypton",
+      "note": "Blake Ritson plays a menacing, city-collecting Brainiac on the Syfy series Krypton."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brainiac",
+    "wikidata": "https://www.wikidata.org/wiki/Q592909"
+  },
+  "photo": {
+    "file": "brainiac.webp",
+    "alt": "Brainiac photograph",
+    "artist": "Richie S from Brooklyn, NY, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:New_York_Comic_Con_2015_-_Brainiac_(21442078224).jpg"
+  }
+}

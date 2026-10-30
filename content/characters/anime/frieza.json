@@ -1,0 +1,174 @@
+{
+  "slug": "frieza",
+  "name": "Frieza",
+  "universe": "anime",
+  "kind": "villain",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Dragon Ball's galactic tyrant: an elegant, politely spoken planet trader who wiped out the Saiyans' homeworld. Goku's archenemy since his 1989 debut.",
+  "origin": "Frieza runs a business seizing planets and selling them on, often wiping out their inhabitants first. Fearing a Saiyan uprising and the legend of a Super Saiyan, he destroyed Planet Vegeta, but missed the baby who would become Goku. Hunting the Dragon Balls on Namek to wish for immortality, he kills Goku's best friend Krillin, which drives Goku to become a Super Saiyan for the first time. Toriyama based the concept on the land speculators of Japan's bubble economy and gave Frieza unsettlingly polite speech as a contrast to his cruelty.",
+  "creators": ["Akira Toriyama"],
+  "firstAppearance": {
+    "title": "Dragon Ball",
+    "issue": "Chapter 247",
+    "year": 1989
+  },
+  "powers": [
+    "Immense ki and planet-destroying energy attacks",
+    "Flight",
+    "Multiple transformations, holding back power in lower forms",
+    "Golden Frieza form",
+    "Telekinesis",
+    "Telepathy",
+    "Energy sensing"
+  ],
+  "affiliations": ["Ginyu Force", "His galactic army"],
+  "storyline": [
+    {
+      "era": "Backstory",
+      "years": "Before Namek",
+      "title": "Planet Vegeta falls",
+      "beat": "Frieza destroys the Saiyan homeworld, unaware that baby Kakarot has been sent to Earth."
+    },
+    {
+      "era": "Namek",
+      "years": "1989",
+      "title": "Hunting the Dragon Balls",
+      "beat": "He massacres Namekian villages searching for the wish-granting orbs."
+    },
+    {
+      "era": "Namek",
+      "years": "1989–1991",
+      "title": "Birth of a Super Saiyan",
+      "beat": "His murder of Krillin triggers Goku's first Super Saiyan transformation, and Frieza loses the fight."
+    },
+    {
+      "era": "Return",
+      "years": "1991",
+      "title": "Rebuilt and sliced",
+      "beat": "Rebuilt with cybernetic parts, he heads for Earth and is cut to pieces by Trunks. His cells later help create Cell."
+    },
+    {
+      "era": "Resurrection",
+      "years": "2015",
+      "title": "Golden Frieza",
+      "beat": "Revived in Resurrection 'F', he trains for four months, unlocks a golden form and attacks Earth again."
+    },
+    {
+      "era": "Super",
+      "years": "2015–2018",
+      "title": "An uneasy ally",
+      "beat": "He fights for Universe 7 in the Tournament of Power in exchange for being fully resurrected."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His name is a pun on 'freezer', so his henchmen and the Ginyu Force are named after things you'd keep in a fridge, like fruit and dairy.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "A bonus pamphlet claimed Frieza was modelled on Toriyama's editor at the time, Yū Kondō.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "Toriyama got the idea to bring Frieza back while at a Maximum the Hormone concert, listening to their 2008 song 'F', which is about the character.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Ryūsei Nakao has voiced Frieza in every Japanese Dragon Ball production.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Toriyama admitted Frieza's third form was on screen only briefly because it was so tedious to draw, and joked that three transformations might be one too many.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Frieza's name is a pun on what?",
+      "options": ["Freesia", "Freezer", "Frisbee", "Frieze"],
+      "answer": 1,
+      "why": "Freezer, which is why his minions are named after fridge foods."
+    },
+    {
+      "q": "Whose death first pushes Goku into Super Saiyan?",
+      "options": ["Gohan", "Piccolo", "Krillin", "Vegeta"],
+      "answer": 2,
+      "why": "Frieza kills Krillin on Namek."
+    },
+    {
+      "q": "Who voices Frieza in Japanese?",
+      "options": ["Ryūsei Nakao", "Masako Nozawa", "Ryō Horikawa", "Toshio Furukawa"],
+      "answer": 0,
+      "why": "Ryūsei Nakao has played him in every Japanese production."
+    }
+  ],
+  "rivals": ["goku", "vegeta"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f5f0fa",
+      "c2": "#7b1fa2",
+      "c3": "#ffd700"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Impeccable manners, terrible real-estate ethics."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Frieza"
+  },
+  "timeline": [
+    {
+      "year": 1989,
+      "kind": "debut",
+      "title": "Arrival on Namek",
+      "note": "Frieza debuts in Dragon Ball chapter 247 in October 1989, hunting the Namekian Dragon Balls."
+    },
+    {
+      "year": 1991,
+      "kind": "turn",
+      "title": "Beaten by a Super Saiyan",
+      "note": "Goku's new golden form defeats him on a collapsing Namek, with the anime fight ending in August 1991.",
+      "with": "goku"
+    },
+    {
+      "year": 1991,
+      "kind": "return",
+      "title": "Mecha Frieza",
+      "note": "Rebuilt with machine parts, he lands on Earth and is cut down by the time traveller Trunks."
+    },
+    {
+      "year": 2008,
+      "kind": "legacy",
+      "title": "A song called F",
+      "note": "The Japanese metal band Maximum the Hormone releases F, a track about the tyrant himself."
+    },
+    {
+      "year": 2015,
+      "kind": "return",
+      "title": "Resurrection ‘F’",
+      "note": "Revived for the 2015 film, he shows off a new golden form and storms Earth again.",
+      "with": "goku"
+    },
+    {
+      "year": 2017,
+      "kind": "turn",
+      "title": "Fighting for Universe 7",
+      "note": "In Dragon Ball Super's Tournament of Power he joins Goku's team in exchange for a second life.",
+      "with": "goku"
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Fan-voted top villain",
+      "note": "A V Jump fan vote in March 2018 ranks him the most popular Dragon Ball antagonist."
+    }
+  ],
+  "heat": 75
+}

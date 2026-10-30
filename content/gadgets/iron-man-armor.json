@@ -1,0 +1,50 @@
+{
+  "slug": "iron-man-armor",
+  "name": "Iron Man Armor",
+  "owner": "iron-man",
+  "firstSeen": {
+    "title": "Tales of Suspense #39",
+    "year": 1963
+  },
+  "summary": "Tony Stark's powered suit began as a clunky grey shell built in captivity and became a long line of armours: space suits, Hulkbusters, and finally nanotech that lives inside his body.",
+  "blueprint": "armor",
+  "parts": [
+    {
+      "label": "Helmet & HUD",
+      "fact": "On film, the faceplate hides a heads-up display run by Stark's AI butler J.A.R.V.I.S., voiced by Paul Bettany, who talks Tony through flights and fights."
+    },
+    {
+      "label": "Chest reactor",
+      "fact": "On film, Iron Man 2 (2010) reveals that the palladium core of his chest arc reactor is slowly poisoning Tony, until he synthesises a brand-new element to replace it."
+    },
+    {
+      "label": "Gauntlets",
+      "fact": "In the comics, the Bleeding Edge armour (2010) puts repulsors in the palms, knuckles, chest, back and legs, and the emitters double as cameras for an all-round view."
+    },
+    {
+      "label": "Legs & boot jets",
+      "fact": "On film, the silver Mark II took a reckless high-altitude test flight and iced up, nearly crashing; the fix was a gold-titanium alloy used on the next suit."
+    },
+    {
+      "label": "Back & flight",
+      "fact": "In the comics, the Space Armor of Iron Man #142 (1981) was the first suit purpose-built for flying and fighting beyond Earth's atmosphere."
+    },
+    {
+      "label": "Under-suit",
+      "fact": "In the comics, Extremis (2005) wove part of the armour into Tony's own body; Bleeding Edge (2010) goes further, storing the whole suit inside him as nanoparticles."
+    }
+  ],
+  "trivia": [
+    "Jack Kirby designed the bulky grey original; it was painted gold in the very next issue, Tales of Suspense #40.",
+    "Steve Ditko's sleeker redesign in Tales of Suspense #48 (1963) introduced the red-and-gold look that stuck.",
+    "The red-and-silver Silver Centurion armour arrived in the landmark Iron Man #200 (1985).",
+    "The dedicated Hulkbuster armour got its comics showcase in World War Hulk #1 (2007), built for exactly one job.",
+    "On film, the Mark III's alloy was borrowed from a Stark Industries military satellite called Seraphim."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Iron_Man%27s_armor",
+    "https://en.wikipedia.org/wiki/Iron_Man_2",
+    "https://www.empireonline.com/movies/features/evolution-iron-man-suits/",
+    "https://tvtropes.org/pmwiki/pmwiki.php/Main/HighUpIceUp"
+  ]
+}

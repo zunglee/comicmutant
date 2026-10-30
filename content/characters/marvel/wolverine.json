@@ -1,0 +1,204 @@
+{
+  "slug": "wolverine",
+  "name": "Wolverine",
+  "realName": "James \"Logan\" Howlett",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Short, grumpy and almost impossible to kill. Logan is the X-Men's clawed Canadian mutant, with a healing factor, animal senses and an unbreakable adamantium skeleton.",
+  "origin": "Wolverine was introduced as a Canadian agent picking a fight with the Hulk, which is about the most Wolverine way to arrive. Roy Thomas wanted a Canadian hero, Len Wein wrote him, and John Romita Sr. designed the look for The Incredible Hulk #180–181 in 1974. A year later he joined the new X-Men and became their breakout star. His power is a healing factor that closes wounds fast and has kept him alive for well over a century, plus animal-sharp senses and claws that slide out of his forearms. A secret program bonded unbreakable adamantium to his skeleton, and the 2001 Origin series finally revealed he was born James Howlett in 19th-century Canada. Short, grumpy and hard to kill: the perfect antihero.",
+  "creators": ["Roy Thomas (concept)", "Len Wein (writer)", "John Romita Sr. (design)"],
+  "firstAppearance": {
+    "title": "The Incredible Hulk",
+    "issue": "180",
+    "year": 1974
+  },
+  "powers": [
+    "Heals from almost any wound",
+    "Ages very slowly",
+    "Animal-keen senses",
+    "Retractable adamantium-coated claws",
+    "Unbreakable adamantium skeleton",
+    "Veteran of many fighting styles",
+    "Seasoned tactician"
+  ],
+  "affiliations": [
+    "X-Men",
+    "Avengers",
+    "X-Force",
+    "Team X",
+    "Savage Avengers",
+    "Alpha Flight",
+    "Canadian Army",
+    "New Fantastic Four"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1974",
+      "title": "Canada's agent",
+      "beat": "Wolverine appears in The Incredible Hulk #180–181 as a Canadian government agent sent to stop the Hulk and the Wendigo."
+    },
+    {
+      "era": "X-Man",
+      "years": "1975",
+      "title": "The new team",
+      "beat": "He joins the new X-Men in Giant-Size X-Men #1 and slowly becomes the team's breakout star."
+    },
+    {
+      "era": "Japan",
+      "years": "1982",
+      "title": "Claremont and Miller",
+      "beat": "A four-issue limited series sends Logan to Japan to win back his love Mariko, defining his code of honour."
+    },
+    {
+      "era": "Weapon X",
+      "years": "1991",
+      "title": "The adamantium process",
+      "beat": "Barry Windsor-Smith shows the brutal secret program that bonded unbreakable adamantium to Logan's skeleton."
+    },
+    {
+      "era": "Fatal Attractions",
+      "years": "1993",
+      "title": "Bone claws",
+      "beat": "Magneto rips out his adamantium, revealing that Wolverine's claws are actually bone."
+    },
+    {
+      "era": "Origin",
+      "years": "2001–2002",
+      "title": "James Howlett",
+      "beat": "Logan's past is finally revealed: he was born James Howlett, a sickly rich boy in late 19th-century Canada."
+    },
+    {
+      "era": "Death and return",
+      "years": "2014–2018",
+      "title": "Gone and back",
+      "beat": "Wolverine dies encased in liquid adamantium in Death of Wolverine, and returns in 2018."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Wolverine's claws were always made of adamantium.",
+      "spice": 2,
+      "truth": "A 1993 story revealed they are bone. The adamantium was bonded to his skeleton later."
+    },
+    {
+      "type": "gossip",
+      "text": "Co-creator Len Wein first meant the claws to be part of Wolverine's gloves. Chris Claremont later made them part of his body.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His first full appearance was in The Incredible Hulk #181. Issue #180 ends with a one-panel cameo.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Wolverine didn't get an ongoing solo series until 1988, fourteen years after his debut.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Hugh Jackman played him from 2000 to 2017, then returned in Deadpool & Wolverine (2024).",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Wolverine debuted in which hero's comic?",
+      "options": ["Hulk", "Spider-Man", "Captain America", "Thor"],
+      "answer": 0,
+      "why": "The Incredible Hulk #180–181 (1974)."
+    },
+    {
+      "q": "What is Wolverine's birth name?",
+      "options": ["Logan Howlett", "Victor Creed", "James Howlett", "Daken Akihiro"],
+      "answer": 2,
+      "why": "He was born James Howlett."
+    },
+    {
+      "q": "Who ripped the adamantium out of Wolverine?",
+      "options": ["Sabretooth", "Apocalypse", "Omega Red", "Magneto"],
+      "answer": 3,
+      "why": "Magneto did so in 1993."
+    },
+    {
+      "q": "How tall is Wolverine in the comics?",
+      "options": ["About 5'3\"", "About 6'2\"", "About 5'10\"", "About 6'6\""],
+      "answer": 0,
+      "why": "He is famously short, unlike Hugh Jackman."
+    }
+  ],
+  "rivals": ["magneto", "hulk"],
+  "allies": ["storm", "jean-grey", "professor-x", "cyclops", "spider-man", "captain-america"],
+  "theme": {
+    "palette": {
+      "c1": "#f2c230",
+      "c2": "#1f3a93",
+      "c3": "#1a1a1a"
+    },
+    "motif": "claw",
+    "mood": "dark",
+    "tagline": "Heals fast, holds grudges longer."
+  },
+  "timeline": [
+    {
+      "year": 1974,
+      "kind": "debut",
+      "title": "Canada's agent",
+      "note": "The Incredible Hulk #180 and #181 introduce a short, clawed Canadian sent to stop the Hulk.",
+      "with": "hulk"
+    },
+    {
+      "year": 1975,
+      "kind": "comic",
+      "title": "Joining the new team",
+      "note": "Giant-Size X-Men #1 recruits Logan into the new, global X-Men.",
+      "with": "storm"
+    },
+    {
+      "year": 1982,
+      "kind": "comic",
+      "title": "Claremont and Miller",
+      "note": "A four-issue Wolverine series sends Logan to Japan, cementing his samurai-tough image."
+    },
+    {
+      "year": 1993,
+      "kind": "turn",
+      "title": "Adamantium torn out",
+      "note": "X-Men #25 has Magneto rip the metal from Logan's skeleton, revealing claws made of bone.",
+      "with": "magneto"
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Hugh Jackman in X-Men",
+      "note": "Bryan Singer's X-Men casts Hugh Jackman, starting a long run as Logan across many films."
+    },
+    {
+      "year": 2001,
+      "kind": "comic",
+      "title": "Origin",
+      "note": "The Origin miniseries finally reveals Logan's 19th-century past as James Howlett."
+    },
+    {
+      "year": 2014,
+      "kind": "death",
+      "title": "Death of Wolverine",
+      "note": "A four-issue series kills Logan, encased in the very metal that made him."
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "Logan passes the torch",
+      "note": "Logan sends Jackman's hero off in a grim western, with young Laura Kinney ready to carry the claws."
+    }
+  ],
+  "heat": 92,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wolverine_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q186422"
+  }
+}

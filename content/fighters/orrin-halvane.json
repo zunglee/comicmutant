@@ -1,0 +1,41 @@
+{
+  "slug": "orrin-halvane",
+  "name": "ORRIN HALVANE",
+  "alias": "BULWARK",
+  "kind": "hero",
+  "archetype": "mass-giant",
+  "bio": "A dock foreman standing on Bridge Nine at 19:04 on the evening of the Eleven Seconds, directly under the line. He has not been knocked down since, and has spent thirty years making sure nobody else is. The first Seamborn, and the last to fall.",
+  "catchphrase": "Stand behind me. That is the whole plan.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#c98f65",
+    "suit": "#3f8f2f",
+    "trim": "#ede8de",
+    "eye": "#fff200",
+    "emblem": "chevron"
+  },
+  "stats": {
+    "power": 9,
+    "speed": 2,
+    "defense": 9,
+    "special": 5
+  },
+  "special": {
+    "name": "Stand Behind Me",
+    "kind": "shockwave"
+  },
+  "rivals": ["grath-holloway", "ossian-krell"],
+  "theme": {
+    "palette": {
+      "c1": "#b4ff3b",
+      "c2": "#ede8de",
+      "c3": "#ff9b21"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "The wall that walks."
+  },
+  "heat": 74
+}

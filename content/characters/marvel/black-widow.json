@@ -1,0 +1,191 @@
+{
+  "slug": "black-widow",
+  "name": "Black Widow",
+  "realName": "Natalia Alianovna Romanova",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A spy so good she switched sides and kept the whole skill set. Natasha Romanova started as a Soviet agent hounding Iron Man and became one of the most dependable Avengers.",
+  "origin": "Natasha's first job in comics was to ruin Tony Stark's week. She arrived in Tales of Suspense #52 in 1964 as a Soviet agent sent to sabotage Iron Man, and it took a couple of years of shifting loyalties before she landed with the heroes for good. Her famous black catsuit came along in The Amazing Spider-Man #86 in 1970. She has no flashy powers: a Soviet take on the super-soldier program slowed her aging and toughened her immune system, and everything else is training in espionage, marksmanship and hand-to-hand fighting. Honestly, that makes her scarier than half the people with powers she works alongside.",
+  "creators": ["Stan Lee (editor/plotter)", "Don Rico (writer)", "Don Heck (artist)"],
+  "firstAppearance": {
+    "title": "Tales of Suspense",
+    "issue": "52",
+    "year": 1964
+  },
+  "powers": [
+    "Crack shot with almost any weapon",
+    "Martial artist and close-combat expert",
+    "Slowed aging and a hardy immune system",
+    "Master spy",
+    "Electric 'Widow's Bite' bracelets",
+    "Explosives and a grappling line"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Champions",
+    "KGB",
+    "Marvel Knights",
+    "Secret Avengers",
+    "S.H.I.E.L.D."
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "Soviet spy",
+      "beat": "Natasha Romanoff first appears in Tales of Suspense as a Soviet agent sent to sabotage Tony Stark. She has no costume and plays a classic Cold War villain role."
+    },
+    {
+      "era": "Changing sides",
+      "years": "1964–1966",
+      "title": "Hawkeye and defection",
+      "beat": "She draws a young Hawkeye into crime against Iron Man, but over the next few years she breaks with her Soviet masters and starts working with the heroes."
+    },
+    {
+      "era": "New look",
+      "years": "1970",
+      "title": "The black catsuit",
+      "beat": "In The Amazing Spider-Man #86 she debuts the sleek black costume and wrist-mounted stingers that define her look from then on."
+    },
+    {
+      "era": "Daredevil years",
+      "years": "1972–1975",
+      "title": "Partners in San Francisco",
+      "beat": "Natasha moves to San Francisco with Daredevil, and for a stretch his comic is retitled Daredevil and the Black Widow."
+    },
+    {
+      "era": "The Champions",
+      "years": "1975–1978",
+      "title": "Team leader",
+      "beat": "She leads the Champions, a short-lived Los Angeles hero team featuring Hercules, Ghost Rider, Angel and Iceman."
+    },
+    {
+      "era": "Rival Widow",
+      "years": "1999",
+      "title": "Yelena Belova",
+      "beat": "A miniseries pits Natasha against Yelena Belova, a younger graduate of the same spy program who wants the Black Widow name for herself."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Black Widow has always been one of the good guys.",
+      "spice": 2,
+      "truth": "She debuted in 1964 as a Soviet spy villain sent after Iron Man and only later became a hero."
+    },
+    {
+      "type": "fact",
+      "text": "Her iconic black catsuit did not show up until 1970, six years after her debut.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Emily Blunt was first lined up to play Natasha in Iron Man 2 but had to drop out over scheduling, opening the door for Scarlett Johansson.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "She dated Daredevil, and the comic was renamed Daredevil and the Black Widow while they were partners.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her long life and slowed aging are explained in the comics by a Soviet version of the super-soldier treatment.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hero was Natasha first sent to target?",
+      "options": ["Captain America", "Thor", "Iron Man", "Hulk"],
+      "answer": 2,
+      "why": "She debuted in Tales of Suspense as a spy sent against Tony Stark."
+    },
+    {
+      "q": "Which archer did she lure into crime early on?",
+      "options": ["Green Arrow", "Hawkeye", "Kate Bishop", "Bullseye"],
+      "answer": 1,
+      "why": "Clint Barton fell for her and briefly fought Iron Man."
+    },
+    {
+      "q": "Which 1970s Los Angeles team did she lead?",
+      "options": ["Defenders", "Thunderbolts", "Invaders", "Champions"],
+      "answer": 3,
+      "why": "She led the Champions from 1975 to 1978."
+    }
+  ],
+  "rivals": [],
+  "allies": ["hawkeye", "daredevil", "captain-america", "iron-man"],
+  "theme": {
+    "palette": {
+      "c1": "#0d0d0d",
+      "c2": "#c1121f",
+      "c3": "#d9d9d9"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Already three moves ahead of you."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "A Soviet spy targets Stark",
+      "note": "Tales of Suspense #52 sends Natasha after Iron Man as a glamorous Cold War saboteur with no costume yet.",
+      "with": "iron-man"
+    },
+    {
+      "year": 1964,
+      "kind": "comic",
+      "title": "Meet the archer",
+      "note": "Tales of Suspense #57 pairs her with Hawkeye, a rookie she draws into crime before both switch sides.",
+      "with": "hawkeye"
+    },
+    {
+      "year": 1970,
+      "kind": "turn",
+      "title": "The iconic black catsuit",
+      "note": "The Amazing Spider-Man #86 gives Natasha the sleek black outfit and wrist stingers that define her look to this day.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1971,
+      "kind": "comic",
+      "title": "Partners in Daredevil",
+      "note": "Daredevil #81 starts her long run beside Matt Murdock, and soon the book is renamed for both of them.",
+      "with": "daredevil"
+    },
+    {
+      "year": 1975,
+      "kind": "comic",
+      "title": "Leading the Champions",
+      "note": "The Champions launches with Natasha in charge of a West Coast team that includes Hercules and Ghost Rider."
+    },
+    {
+      "year": 1999,
+      "kind": "legacy",
+      "title": "A rival Widow appears",
+      "note": "Yelena Belova debuts in Inhumans #5 as a younger graduate of the Red Room who wants the Widow name for herself."
+    },
+    {
+      "year": 2010,
+      "kind": "screen",
+      "title": "Scarlett Johansson suits up",
+      "note": "Iron Man 2 introduces Scarlett Johansson's Natasha, the start of a decade-long run through the MCU.",
+      "with": "iron-man"
+    },
+    {
+      "year": 2021,
+      "kind": "screen",
+      "title": "Her own movie at last",
+      "note": "Black Widow finally gives Natasha a solo film, and passes the torch to Florence Pugh as Yelena."
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)",
+    "wikidata": "https://www.wikidata.org/wiki/Q369197"
+  }
+}

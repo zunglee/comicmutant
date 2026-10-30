@@ -1,0 +1,189 @@
+{
+  "slug": "human-torch",
+  "name": "Human Torch",
+  "realName": "Jonathan Lowell Spencer \"Johnny\" Storm",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The Fantastic Four's hothead, literally. Johnny Storm, Sue's cocky younger brother, can burst into flame and fly, and he never misses a chance to show off.",
+  "origin": "Johnny Storm is the little brother every team needs and nobody asked for. He tagged along with his sister Sue on Reed Richards's unauthorized rocket flight in Fantastic Four #1 in 1961, and cosmic rays let him burst into flame, fly and hurl fire. Stan Lee and Jack Kirby borrowed the name and the flaming gimmick from Carl Burgos's android Human Torch of 1939, from Marvel's Timely days, but swapped the robot for a cocky teenager. He can soak up heat as well as make it, and he has spent decades pranking the Thing. Underneath the showing off, he is fiercely loyal to his family.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "1",
+    "year": 1961
+  },
+  "powers": [
+    "Creates and controls fire",
+    "Flies when his body is aflame",
+    "Absorbs heat from around him"
+  ],
+  "affiliations": [
+    "Fantastic Four",
+    "Avengers",
+    "Future Foundation",
+    "Fantastic Force",
+    "Herald of Galactus",
+    "Fantastic Four Incorporated",
+    "Avengers Unity Division"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1961",
+      "title": "The teenage torch",
+      "beat": "Johnny Storm, Sue Storm's hot-headed teenage brother, sneaks onto Reed Richards's rocket flight. Cosmic rays let him burst into flame, fly and throw fire."
+    },
+    {
+      "era": "Solo star",
+      "years": "1962–1965",
+      "title": "Strange Tales",
+      "beat": "Johnny gets his own feature in Strange Tales, later sharing it with his best friend and sparring partner, the Thing."
+    },
+    {
+      "era": "Frenemy",
+      "years": "1963 onward",
+      "title": "Spider-Man's rival",
+      "beat": "Johnny and the young Spider-Man meet early on and spend years as squabbling rivals before becoming genuine friends."
+    },
+    {
+      "era": "Wedding twist",
+      "years": "1987–1991",
+      "title": "Married to a Skrull",
+      "beat": "Johnny marries the sculptor Alicia Masters, only for the bride to be revealed later as Lyja, a shape-shifting Skrull who had replaced her."
+    },
+    {
+      "era": "Three",
+      "years": "2011",
+      "title": "Death in the Negative Zone",
+      "beat": "Johnny holds off an invading army in the Negative Zone and is apparently killed, leaving the FF to grieve before he returns later the same year."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Johnny Storm was Marvel's first Human Torch.",
+      "spice": 1,
+      "truth": "The first was an android, later named Jim Hammond, created by Carl Burgos for Marvel Comics #1 in 1939."
+    },
+    {
+      "type": "fact",
+      "text": "Chris Evans played Johnny in 2005 and 2007, years before he picked up Captain America's shield.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Johnny is the younger brother of Sue Storm, the Invisible Woman.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Johnny has been yelling \"Flame on!\" whenever he ignites since the early 1960s.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Johnny and the Thing trading pranks has been a running gag since the 1960s.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How is Johnny related to the Invisible Woman?",
+      "options": ["Husband", "Cousin", "Younger brother", "Son"],
+      "answer": 2,
+      "why": "Johnny is Sue Storm's younger brother."
+    },
+    {
+      "q": "Which actor played Johnny in 2005 before becoming Captain America?",
+      "options": ["Chris Pratt", "Chris Evans", "Chris Hemsworth", "Chris Pine"],
+      "answer": 1,
+      "why": "Chris Evans played the Torch in Fantastic Four (2005)."
+    },
+    {
+      "q": "Who created the original 1939 Human Torch?",
+      "options": ["Carl Burgos", "Bill Everett", "Jack Kirby", "Joe Simon"],
+      "answer": 0,
+      "why": "Carl Burgos created the android Torch for Marvel Comics #1."
+    }
+  ],
+  "rivals": ["doctor-doom", "galactus"],
+  "allies": ["the-thing", "invisible-woman", "mister-fantastic", "spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#f28c28",
+      "c2": "#d62828",
+      "c3": "#ffd166"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Hot-headed, literally. Cool, debatably."
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "kind": "debut",
+      "title": "Flame on",
+      "note": "Fantastic Four #1 introduces Johnny Storm as Sue's hot-headed kid brother who can burst into fire and fly.",
+      "with": "invisible-woman"
+    },
+    {
+      "year": 1962,
+      "kind": "comic",
+      "title": "His own Strange Tales feature",
+      "note": "Strange Tales #101 gives Johnny a solo strip, where he battles villains as a teen in a small town."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Meeting Spider-Man",
+      "note": "The Amazing Spider-Man #1 brings the FF in, kicking off the long friendly rivalry between Johnny and Peter.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Cartoon hothead",
+      "note": "The Hanna-Barbera Fantastic Four cartoon puts Johnny on TV for the first time."
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "Married to a Skrull",
+      "note": "Fantastic Four #300 has Johnny wed Alicia Masters, who later turns out to be the Skrull spy Lyja."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Chris Evans flames on",
+      "note": "The Fantastic Four film casts Chris Evans as a cocky, thrill-seeking Johnny."
+    },
+    {
+      "year": 2011,
+      "kind": "death",
+      "title": "Holding the line",
+      "note": "Fantastic Four #587 has Johnny die holding back a horde from the Negative Zone, before a later return."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "A new MCU Torch",
+      "note": "Joseph Quinn plays Johnny in The Fantastic Four: First Steps, a retro-styled family adventure.",
+      "with": "mister-fantastic"
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Human_Torch",
+    "wikidata": "https://www.wikidata.org/wiki/Q584585"
+  },
+  "photo": {
+    "file": "human-torch.webp",
+    "alt": "Human Torch photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dragon_Con_2013_-_Human_Torch_(9694709273).jpg"
+  }
+}

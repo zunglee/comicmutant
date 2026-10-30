@@ -1,0 +1,41 @@
+{
+  "slug": "nishi-kapadia",
+  "name": "NISHI KAPADIA",
+  "alias": "THE LAST LOCAL",
+  "kind": "villain",
+  "archetype": "ghost-conductor",
+  "bio": "A Mumbai local-train guard who never got off the 00:09 to Virar. Now the ghost conductor stalks the platforms after midnight, collecting late passengers for a ride with no last stop. Mind the gap. Mind everything.",
+  "catchphrase": "Last train. Last chance.",
+  "rig": {
+    "build": "slim",
+    "head": "hood",
+    "cape": true,
+    "skin": "#b9c0c9",
+    "suit": "#1d2433",
+    "trim": "#7df9ff",
+    "eye": "#ffe600",
+    "emblem": "none"
+  },
+  "stats": {
+    "power": 5,
+    "speed": 8,
+    "defense": 3,
+    "special": 7
+  },
+  "special": {
+    "name": "Last Train Out",
+    "kind": "dash"
+  },
+  "rivals": ["sable-iro", "cato-wren"],
+  "theme": {
+    "palette": {
+      "c1": "#7df9ff",
+      "c2": "#1d2433",
+      "c3": "#ffe600"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Final call. No return."
+  },
+  "heat": 57
+}

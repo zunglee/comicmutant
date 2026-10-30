@@ -1,0 +1,41 @@
+{
+  "slug": "edda-skarn",
+  "name": "EDDA SKARN",
+  "alias": "PERMAFROST",
+  "kind": "villain",
+  "archetype": "glacial-matriarch",
+  "bio": "A Norwegian glaciologist who took a century of ice into her bones. She wants the whole planet kept exactly as it is, frozen. Calm, courteous and absolutely immovable, she will freeze your argument mid-sentence.",
+  "catchphrase": "Let's keep things as they are.",
+  "rig": {
+    "build": "normal",
+    "head": "helmet",
+    "cape": true,
+    "skin": "#c3d4e6",
+    "suit": "#0f2a4a",
+    "trim": "#8fe3ff",
+    "eye": "#ffffff",
+    "emblem": "star"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 3,
+    "defense": 7,
+    "special": 8
+  },
+  "special": {
+    "name": "Glacier Line",
+    "kind": "beam"
+  },
+  "rivals": ["rohan-sethi", "juno-ferrow"],
+  "theme": {
+    "palette": {
+      "c1": "#8fe3ff",
+      "c2": "#0f2a4a",
+      "c3": "#c9a227"
+    },
+    "motif": "ice",
+    "mood": "dark",
+    "tagline": "Cold is a kind of patience."
+  },
+  "heat": 53
+}

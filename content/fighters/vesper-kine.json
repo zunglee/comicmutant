@@ -1,0 +1,41 @@
+{
+  "slug": "vesper-kine",
+  "name": "VESPER KINE",
+  "alias": "THE SEVER",
+  "kind": "villain",
+  "archetype": "shadow-assassin",
+  "bio": "Born in the Long Night to a Dusk Quarter family that did not survive it. Vesper cut threads to open locked doors as a child and to get through people as an adult. The Unspooled found her useful; she found them a reason.",
+  "catchphrase": "Everything is a door if you are patient.",
+  "rig": {
+    "build": "slim",
+    "head": "hood",
+    "cape": false,
+    "skin": "#b58a6b",
+    "suit": "#1b2430",
+    "trim": "#e8e1d0",
+    "eye": "#ff6161",
+    "emblem": "fang"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 8,
+    "defense": 4,
+    "special": 6
+  },
+  "special": {
+    "name": "Door Cut",
+    "kind": "dash"
+  },
+  "rivals": ["sable-iro", "rook-anselm"],
+  "theme": {
+    "palette": {
+      "c1": "#ff6161",
+      "c2": "#141b24",
+      "c3": "#e8e1d0"
+    },
+    "motif": "claw",
+    "mood": "dark",
+    "tagline": "Everything is a door."
+  },
+  "heat": 62
+}

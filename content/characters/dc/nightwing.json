@@ -1,0 +1,183 @@
+{
+  "slug": "nightwing",
+  "name": "Nightwing",
+  "realName": "Dick Grayson",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The original Robin, who grew up and out of Batman's shadow. Dick Grayson, a circus acrobat turned hero, leads with a grin as Nightwing and has even filled in as Batman.",
+  "origin": "Dick Grayson might be the most loved member of the Batman family, and he earned it by being the one who turned out well-adjusted. Bill Finger, Bob Kane and Jerry Robinson introduced him in Detective Comics #38 in 1940 as Robin, the Boy Wonder, a circus kid whose parents, the trapeze act known as the Flying Graysons, were murdered mid-performance. Bruce Wayne took him in and trained him, and Robin's arrival brightened the whole book. Dick went on to lead the Teen Titans and in 1984 stepped out of Batman's shadow as Nightwing, later guarding the city of Blüdhaven. He is a world-class acrobat, fighter and detective who has even worn the cowl.",
+  "creators": ["Bill Finger", "Bob Kane", "Jerry Robinson"],
+  "firstAppearance": {
+    "title": "Detective Comics",
+    "issue": "38",
+    "year": 1940
+  },
+  "powers": [
+    "Peak physical and mental condition",
+    "Natural leader and strategist",
+    "Skilled detective",
+    "Circus-trained acrobat",
+    "Expert fighter with escrima sticks",
+    "High-tech gear"
+  ],
+  "affiliations": ["Justice League", "Teen Titans", "Outsiders", "Batman Incorporated", "Spyral"],
+  "storyline": [
+    {
+      "era": "Robin",
+      "years": "1940",
+      "title": "The Flying Graysons",
+      "beat": "Circus acrobat Dick Grayson watches his parents murdered during their trapeze act. Bruce Wayne takes him in and he becomes Robin."
+    },
+    {
+      "era": "Teen Titans",
+      "years": "1964",
+      "title": "Leader",
+      "beat": "Dick co-founds the Teen Titans and becomes their leader."
+    },
+    {
+      "era": "Nightwing",
+      "years": "1984",
+      "title": "Leaving the nest",
+      "beat": "In Tales of the Teen Titans #44 Dick steps out of Batman's shadow and becomes Nightwing."
+    },
+    {
+      "era": "Blüdhaven",
+      "years": "1996",
+      "title": "A city of his own",
+      "beat": "Nightwing's first ongoing series moves him to the crime-ridden city of Blüdhaven, next to Gotham."
+    },
+    {
+      "era": "Batman",
+      "years": "2009–2011",
+      "title": "Under the cowl",
+      "beat": "With Bruce believed dead, Dick becomes Batman, with Damian Wayne as his Robin."
+    },
+    {
+      "era": "Grayson",
+      "years": "2014–2016",
+      "title": "Spy",
+      "beat": "After his identity is exposed, Dick fakes his death and works undercover as a secret agent."
+    },
+    {
+      "era": "Taylor era",
+      "years": "2021",
+      "title": "Heartless",
+      "beat": "Tom Taylor's run has Dick inherit Alfred's fortune and use it to rebuild Blüdhaven."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "The Nightwing name comes from an old Superman story, in which Superman used it while visiting the bottled city of Kandor.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He was the first Robin, debuting in Detective Comics #38 (1940).",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His circus family act was called the Flying Graysons.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tom Taylor's 2021 run gave Dick a rescued three-legged dog named Haley, and she quickly became a fan favourite.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was the name of Dick Grayson's family circus act?",
+      "options": ["The Flying Graysons", "The Amazing Waynes", "The Wingmen", "The Sky Kings"],
+      "answer": 0,
+      "why": "The Flying Graysons."
+    },
+    {
+      "q": "Which city did Nightwing protect in his first solo series?",
+      "options": ["Gotham City", "Star City", "Blüdhaven", "Keystone City"],
+      "answer": 2,
+      "why": "Blüdhaven."
+    },
+    {
+      "q": "Which hero originally used the Nightwing name in Kandor?",
+      "options": ["Batman", "Superman", "Green Lantern", "The Flash"],
+      "answer": 1,
+      "why": "Superman, in a 1960s story."
+    }
+  ],
+  "rivals": ["deathstroke"],
+  "allies": ["batman", "starfire", "batgirl", "beast-boy", "cyborg", "flash-wally-west"],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#1f5fbf",
+      "c3": "#7fdbff"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Ex-sidekick, full-time acrobat, best hair in Gotham."
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "kind": "debut",
+      "title": "The Boy Wonder",
+      "note": "Detective Comics #38 introduces orphaned circus acrobat Dick Grayson as Robin, partner to Batman.",
+      "with": "batman"
+    },
+    {
+      "year": 1964,
+      "kind": "comic",
+      "title": "Teen Titans",
+      "note": "Robin leads a kid team-up with Kid Flash and Aqualad in The Brave and the Bold #54.",
+      "with": "flash-wally-west"
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "Burt Ward as Robin",
+      "note": "Burt Ward plays an eager, quip-happy Robin opposite Adam West in the hit Batman series."
+    },
+    {
+      "year": 1984,
+      "kind": "turn",
+      "title": "Becoming Nightwing",
+      "note": "In Tales of the Teen Titans #44, Dick debuts as Nightwing as the Titans take on Deathstroke.",
+      "with": "deathstroke"
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Bludhaven beat",
+      "note": "Nightwing gets his first ongoing series, patrolling the crooked city of Bludhaven."
+    },
+    {
+      "year": 2009,
+      "kind": "turn",
+      "title": "Under the cowl",
+      "note": "With Bruce believed dead, Dick takes over as Batman, with Damian Wayne as his Robin."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Tom Taylor's run",
+      "note": "Tom Taylor and Bruno Redondo give Dick a fortune, a three-legged dog and one of his most loved runs."
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dick_Grayson",
+    "wikidata": "https://www.wikidata.org/wiki/Q660051"
+  },
+  "photo": {
+    "file": "nightwing.webp",
+    "alt": "Dick Grayson photograph",
+    "artist": "ABC Television",
+    "license": "Public domain",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Burt_Ward_Robin.jpg"
+  }
+}

@@ -1,0 +1,189 @@
+{
+  "slug": "aquaman",
+  "name": "Aquaman",
+  "realName": "Arthur Curry",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The king of the seas, tired of fish jokes. Arthur Curry, son of a lighthouse keeper and an Atlantean mother, rules Atlantis and helped found the Justice League.",
+  "origin": "Aquaman has spent decades as the butt of jokes, and he is a lot tougher than the jokes suggest. Mort Weisinger and Paul Norris launched him in 1941 in More Fun Comics #73, and for years he lived in the back pages of DC's anthologies before getting books of his own. In 1959 he became Arthur Curry, son of a lighthouse keeper and a woman from Atlantis, and the following year he helped found the Justice League. He survives the crushing deep, swims at incredible speed, is far stronger than any human and calls on sea life with his mind. Writers in the 1990s made him a grimmer, bearded king with a harpoon for a hand, and the joke was over.",
+  "creators": ["Mort Weisinger (writer)", "Paul Norris (artist)"],
+  "firstAppearance": {
+    "title": "More Fun Comics",
+    "issue": "73",
+    "year": 1941
+  },
+  "powers": [
+    "Super strength and toughness built for the deep sea",
+    "Swims at tremendous speed",
+    "Commands sea life with his mind",
+    "Magic tridents and Atlantean relics",
+    "Warrior, strategist and king"
+  ],
+  "affiliations": [
+    "Justice League",
+    "Justice League International",
+    "The Others",
+    "Justice League Europe",
+    "Justice League Task Force"
+  ],
+  "storyline": [
+    {
+      "era": "Golden Age",
+      "years": "1941",
+      "title": "Son of the sea",
+      "beat": "Aquaman debuts in More Fun Comics #73 as the son of an undersea explorer who learned to live underwater and talk to sea creatures."
+    },
+    {
+      "era": "Silver Age origin",
+      "years": "1959",
+      "title": "Lighthouse keeper's son",
+      "beat": "A new origin makes him Arthur Curry, born to a lighthouse keeper, Tom Curry, and a woman from Atlantis, later named Atlanna."
+    },
+    {
+      "era": "Justice League",
+      "years": "1960",
+      "title": "Founding member",
+      "beat": "Aquaman is one of the founding members of the Justice League of America."
+    },
+    {
+      "era": "Tragedy",
+      "years": "1977",
+      "title": "Death of Arthur Jr.",
+      "beat": "His arch-enemy Black Manta kills Aquaman's young son, one of the darkest moments of 1970s DC."
+    },
+    {
+      "era": "Harpoon hand",
+      "years": "1994",
+      "title": "The rough years",
+      "beat": "In Peter David's run Arthur loses his hand to piranhas, replaces it with a harpoon, grows a beard and becomes a tougher king."
+    },
+    {
+      "era": "New 52",
+      "years": "2011",
+      "title": "No more jokes",
+      "beat": "Geoff Johns relaunches Aquaman and openly takes on the idea that he is a joke, showing him as powerful and serious."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Aquaman's only power is talking to fish.",
+      "spice": 1,
+      "truth": "He has super strength and toughness, can survive the crushing deep sea, telepathically commands sea life, and rules Atlantis."
+    },
+    {
+      "type": "fact",
+      "text": "He lost his left hand in 1994 and replaced it with a harpoon.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Years of jokes from Super Friends and sitcoms made him a punchline. Geoff Johns put those jokes into the story in his 2011 relaunch.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He debuted in the same issue as Green Arrow, More Fun Comics #73 (1941).",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The 2018 Aquaman film with Jason Momoa made over $1.1 billion, at the time the biggest DC movie ever.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who killed Aquaman's son in 1977?",
+      "options": ["Black Manta", "Ocean Master", "Kobra", "Vandal Savage"],
+      "answer": 0,
+      "why": "Black Manta killed Arthur Jr."
+    },
+    {
+      "q": "Who is Aquaman's wife?",
+      "options": ["Tula", "Mera", "Dolphin", "Diana"],
+      "answer": 1,
+      "why": "Mera, queen of Atlantis."
+    },
+    {
+      "q": "What replaced Aquaman's lost hand in 1994?",
+      "options": ["A hook", "A trident", "A harpoon", "A claw"],
+      "answer": 2,
+      "why": "He wore a harpoon in Peter David's run."
+    }
+  ],
+  "rivals": [],
+  "allies": [
+    "martian-manhunter",
+    "wonder-woman",
+    "superman",
+    "batman",
+    "flash-barry-allen",
+    "green-lantern-hal-jordan"
+  ],
+  "theme": {
+    "palette": {
+      "c1": "#f28c28",
+      "c2": "#2e8b57",
+      "c3": "#1fa3c4"
+    },
+    "motif": "water",
+    "mood": "light",
+    "tagline": "King of the seas, tired of fish jokes."
+  },
+  "timeline": [
+    {
+      "year": 1941,
+      "kind": "debut",
+      "title": "King of the seas",
+      "note": "More Fun Comics #73 debuts an undersea hero who chats with fish, in the same issue that launches Green Arrow.",
+      "with": "green-arrow"
+    },
+    {
+      "year": 1959,
+      "kind": "comic",
+      "title": "A new origin",
+      "note": "Adventure Comics #260 recasts him as Arthur Curry, son of a lighthouse keeper and an Atlantean mother."
+    },
+    {
+      "year": 1960,
+      "kind": "comic",
+      "title": "Charter Leaguer",
+      "note": "Arthur helps found the Justice League against the alien starfish Starro in The Brave and the Bold #28.",
+      "with": "martian-manhunter"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Saturday-morning hero",
+      "note": "The Superman/Aquaman Hour of Adventure gives him his first animated outings on TV."
+    },
+    {
+      "year": 1994,
+      "kind": "turn",
+      "title": "The harpoon hand",
+      "note": "In Peter David's gritty run, piranhas strip his hand to the bone. A beard and a harpoon replacement follow."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Momoa makes a splash",
+      "note": "Jason Momoa leads a big, colourful solo blockbuster that turns the old punchline into a swaggering sea king."
+    }
+  ],
+  "heat": 65,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aquaman",
+    "wikidata": "https://www.wikidata.org/wiki/Q623059"
+  },
+  "photo": {
+    "file": "aquaman.webp",
+    "alt": "Aquaman photograph",
+    "artist": "istolethetv from NYC, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:King_of_the_seven_seas_(15345830087).jpg"
+  }
+}

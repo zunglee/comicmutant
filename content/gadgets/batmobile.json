@@ -1,0 +1,50 @@
+{
+  "slug": "batmobile",
+  "name": "Batmobile",
+  "owner": "batman",
+  "firstSeen": {
+    "title": "Detective Comics #48",
+    "year": 1941
+  },
+  "summary": "Batman's signature car has been a red sedan, a finned roadster, a TV-show showpiece and a tank-like brute. Every era rebuilds it, yet a court has ruled it is still one recognisable character.",
+  "blueprint": "vehicle",
+  "parts": [
+    {
+      "label": "Body shell",
+      "fact": "In the comics the car was first called the Batmobile in Detective Comics #48 (1941); a month later Batman #5 stretched it into a sleek shape topped by a tall, scalloped fin."
+    },
+    {
+      "label": "Engine",
+      "fact": "On TV, the 1966 car's original drivetrain was pulled out partway through the first season and swapped for engine and transmission parts from a Ford Galaxie."
+    },
+    {
+      "label": "Front end",
+      "fact": "On film, the Tumbler from Batman Begins (2005) has no front axle at all: each front wheel hangs off its own side arm, a layout that lets the nose rear up under hard acceleration."
+    },
+    {
+      "label": "Cockpit",
+      "fact": "The 1966 TV car's open twin-bubble cockpit came from the Lincoln Futura, a show car hand-built by Ghia in Turin in 1954 and unveiled at the 1955 Chicago Auto Show."
+    },
+    {
+      "label": "Wheels & chassis",
+      "fact": "The 1989 film car hid a Chevrolet Impala chassis under its long black body. Two were built by the effects crew at Pinewood Studios in England."
+    },
+    {
+      "label": "Rear thrust",
+      "fact": "On film, the 1989 car carried a jet turbine with an afterburner at the tail, and its rear styling echoes the Fiat Turbina, a gas-turbine concept car from the 1950s."
+    }
+  ],
+  "trivia": [
+    "George Barris got the Futura concept from Ford for a token one dollar, then his shop turned it into the TV Batmobile in roughly three weeks.",
+    "In DC Comics v. Towle (2015) a US federal appeals court held that the Batmobile is a copyrightable character, so a builder selling replica cars was infringing.",
+    "Batman's very first car, in Detective Comics #27 (1939), was a plain red sedan that the story never calls the Batmobile.",
+    "The Tumbler began as a kitbash: designer Nathan Crowley glued together pieces of scale model kits, including a Lamborghini Countach and a Hummer."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Batmobile",
+    "https://law.justia.com/cases/federal/appellate-courts/ca9/13-55484/13-55484-2015-09-23.html",
+    "https://www.abajournal.com/news/article/9th_circuit_says_the_batmobile_is_a_copyrightable_character",
+    "https://jalopnik.com/everything-you-ever-wanted-to-know-about-batmans-tumble-400114",
+    "https://www.topgear.com/car-news/movies/how-was-new-batmobile-designed"
+  ]
+}

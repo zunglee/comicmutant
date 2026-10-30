@@ -1,0 +1,184 @@
+{
+  "slug": "flash-wally-west",
+  "name": "The Flash (Wally West)",
+  "realName": "Wally West",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The sidekick who grew up and outran his mentor. Wally West started as Kid Flash, Barry Allen's nephew by marriage, and carried the Flash name for over two decades after Barry's death.",
+  "origin": "Wally West is the sidekick who actually grew up, and a whole generation thinks of him as the real Flash. John Broome and Carmine Infantino introduced him in The Flash #110 in 1959: Iris West's young nephew, who visited Barry Allen's lab and got hit by the same freak lightning-and-chemicals accident, becoming Kid Flash. He was a founding Teen Titan, and when Barry died in Crisis on Infinite Earths, Wally took over the Flash name. Writers like Mark Waid made him faster than his uncle ever was, tied him to the Speed Force and turned his insecurity into the heart of the book. The Justice League cartoon made his version a household name.",
+  "creators": ["John Broome (writer)", "Carmine Infantino (artist)"],
+  "firstAppearance": {
+    "title": "The Flash",
+    "issue": "110",
+    "year": 1959
+  },
+  "powers": [
+    "Near-limitless super speed",
+    "Thinks as fast as he runs",
+    "Superhuman agility and reflexes",
+    "Throws lightning drawn from the Speed Force",
+    "Time travel at high speed",
+    "Can lend or steal speed",
+    "Vibrates through solid objects"
+  ],
+  "affiliations": ["Teen Titans", "Young Justice", "Justice League"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1959",
+      "title": "Kid Flash",
+      "beat": "Wally West, nephew of Barry Allen's girlfriend Iris, is caught in the same kind of lab accident as Barry and becomes Kid Flash."
+    },
+    {
+      "era": "Teen Titans",
+      "years": "1964",
+      "title": "Founding sidekick",
+      "beat": "Wally teams up with Robin and Aqualad, forming the group that becomes the Teen Titans."
+    },
+    {
+      "era": "The Flash",
+      "years": "1986–1987",
+      "title": "Taking the mantle",
+      "beat": "After Barry's death in Crisis on Infinite Earths, Wally becomes the Flash and gets his own series."
+    },
+    {
+      "era": "Waid era",
+      "years": "1992–2000",
+      "title": "The Speed Force",
+      "beat": "Mark Waid's run makes Wally the fastest Flash ever and introduces the Speed Force, the energy source behind all speedsters."
+    },
+    {
+      "era": "Rebirth",
+      "years": "2016",
+      "title": "Remembered",
+      "beat": "Wally, lost from the timeline in the New 52, breaks out of the Speed Force in DC Rebirth #1 and is welcomed back."
+    },
+    {
+      "era": "Heroes in Crisis",
+      "years": "2018–2019",
+      "title": "A dark turn",
+      "beat": "A controversial miniseries makes Wally accidentally responsible for the deaths of several heroes at a hero therapy centre."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "The Flash in the 2001 Justice League cartoon was Barry Allen.",
+      "spice": 2,
+      "truth": "It was Wally West, which is why many fans grew up thinking of Wally as the Flash."
+    },
+    {
+      "type": "fact",
+      "text": "He is one of the first sidekicks to permanently take over his mentor's identity.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The Speed Force was created during Mark Waid's run on Wally's series.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Heroes in Crisis drew heavy fan backlash for what it did to Wally.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "He is the nephew of Iris West, Barry Allen's wife.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How is Wally related to Iris West?",
+      "options": ["Son", "Brother", "Nephew", "Cousin"],
+      "answer": 2,
+      "why": "He is her nephew."
+    },
+    {
+      "q": "Which team did Wally help found in 1964?",
+      "options": ["Teen Titans", "Justice League", "Legion of Super-Heroes", "Outsiders"],
+      "answer": 0,
+      "why": "The Teen Titans."
+    },
+    {
+      "q": "Which writer introduced the Speed Force?",
+      "options": ["Geoff Johns", "Mark Waid", "Joshua Williamson", "Mike Baron"],
+      "answer": 1,
+      "why": "Mark Waid, in the 1990s."
+    }
+  ],
+  "rivals": ["reverse-flash"],
+  "allies": ["flash-barry-allen", "nightwing", "raven", "starfire", "beast-boy", "cyborg"],
+  "theme": {
+    "palette": {
+      "c1": "#c8102e",
+      "c2": "#f2c230",
+      "c3": "#f28c28"
+    },
+    "motif": "speed",
+    "mood": "light",
+    "tagline": "From sidekick to speedster-in-chief, no brakes."
+  },
+  "timeline": [
+    {
+      "year": 1959,
+      "kind": "debut",
+      "title": "Kid Flash is born",
+      "note": "Iris's nephew Wally gets hit by the same freak lab accident as Barry in The Flash #110 and gains super-speed.",
+      "with": "flash-barry-allen"
+    },
+    {
+      "year": 1964,
+      "kind": "comic",
+      "title": "Titans together",
+      "note": "Kid Flash teams up with Robin and Aqualad in The Brave and the Bold #54, the seed of the Teen Titans.",
+      "with": "nightwing"
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "Taking the mantle",
+      "note": "With Barry gone, Wally gets his own Flash series and becomes the fastest man alive for a generation of readers."
+    },
+    {
+      "year": 1994,
+      "kind": "comic",
+      "title": "Into the Speed Force",
+      "note": "Mark Waid's run reveals the Speed Force, the cosmic energy every DC speedster draws on."
+    },
+    {
+      "year": 2001,
+      "kind": "screen",
+      "title": "The League's speedster",
+      "note": "The Justice League cartoon makes its Flash Wally, a wisecracking fan favourite for a whole new audience."
+    },
+    {
+      "year": 2016,
+      "kind": "return",
+      "title": "Rebirth reunion",
+      "note": "Wally breaks out of the Speed Force in DC Universe: Rebirth #1, and his return launches a new DC era."
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Family man Flash",
+      "note": "A new Flash series keeps Wally front and centre as husband, dad and the main Flash of the DCU."
+    }
+  ],
+  "heat": 60,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Wally_West",
+    "wikidata": "https://www.wikidata.org/wiki/Q611576"
+  },
+  "photo": {
+    "file": "flash-wally-west.webp",
+    "alt": "Wally West photograph",
+    "artist": "DC Kids",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:The_Flash_in_Justice_League_TV_series.png"
+  }
+}

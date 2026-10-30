@@ -1,0 +1,41 @@
+{
+  "slug": "tamal-ghosh",
+  "name": "TAMAL GHOSH",
+  "alias": "THE MANGROVE",
+  "kind": "villain",
+  "archetype": "delta-warden",
+  "bio": "A Sundarbans boatman who watched the tide swallow his village and picked a side: the mangroves. Roots answer his stomp, and every embankment is an insult. Kolkata's rivers run through his temper.",
+  "catchphrase": "The river keeps what it likes.",
+  "rig": {
+    "build": "heavy",
+    "head": "hood",
+    "cape": false,
+    "skin": "#caa57a",
+    "suit": "#1f5a3a",
+    "trim": "#e6c27a",
+    "eye": "#ffe14d",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 8,
+    "speed": 3,
+    "defense": 7,
+    "special": 5
+  },
+  "special": {
+    "name": "Root Quake",
+    "kind": "shockwave"
+  },
+  "rivals": ["rook-anselm", "meghna-kadam"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5a3a",
+      "c2": "#e6c27a",
+      "c3": "#8bd450"
+    },
+    "motif": "nature",
+    "mood": "dark",
+    "tagline": "The delta takes it all back."
+  },
+  "heat": 46
+}

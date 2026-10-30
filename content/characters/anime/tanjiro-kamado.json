@@ -1,0 +1,180 @@
+{
+  "slug": "tanjiro-kamado",
+  "name": "Tanjiro Kamado",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Koyoharu Gotouge's gentle charcoal seller turned demon hunter, carrying his demon-turned sister Nezuko on his back while he looks for a cure. Demon Slayer began in Weekly Shōnen Jump in 2016.",
+  "origin": "In Taishō-era Japan, Tanjiro sells charcoal to support his widowed mother and younger siblings. Coming home after a night away, he finds his family slaughtered by the demon lord Muzan Kibutsuji. Only his sister Nezuko survives, and she has been turned into a demon herself, though she still fights her hunger to protect him. A Demon Slayer named Giyu Tomioka spares her and points Tanjiro towards the retired swordsman Sakonji Urokodaki, who trains him in Water Breathing. Tanjiro joins the Demon Slayer Corps to find a way to turn Nezuko human again and to stop Muzan for good. Gotouge's editor nudged the early design towards a warmer, brighter lead and suggested the forehead scar to make him stand out.",
+  "creators": ["Koyoharu Gotouge"],
+  "firstAppearance": {
+    "title": "Demon Slayer: Kimetsu no Yaiba",
+    "issue": "Chapter 1",
+    "year": 2016
+  },
+  "powers": [
+    "Water Breathing sword forms",
+    "Hinokami Kagura, his family's dance that echoes the original Sun Breathing",
+    "A nose sharp enough to smell emotions and openings",
+    "A famously hard head",
+    "Demon Slayer Mark during peak fights",
+    "Endless kindness, even towards dying demons"
+  ],
+  "affiliations": ["Demon Slayer Corps"],
+  "storyline": [
+    {
+      "era": "Prologue",
+      "years": "2016",
+      "title": "A family lost",
+      "beat": "Tanjiro's family is killed by Muzan, Nezuko becomes a demon, and he trains for two years before passing the brutal Final Selection."
+    },
+    {
+      "era": "Early missions",
+      "years": "2016–2017",
+      "title": "A boy and a box",
+      "beat": "He hunts demons with Nezuko asleep in a wooden box on his back and picks up two loud companions, Zenitsu and Inosuke."
+    },
+    {
+      "era": "Mugen Train",
+      "years": "2017",
+      "title": "Rengoku's last stand",
+      "beat": "Aboard a haunted train, Tanjiro fights beside the Flame Hashira Kyojuro Rengoku, whose death leaves a lasting mark on him."
+    },
+    {
+      "era": "Entertainment District",
+      "years": "2017–2018",
+      "title": "Hinokami unleashed",
+      "beat": "In the red-light district he and the Sound Hashira take on a pair of Upper Rank demons and he leans hard on his family's fire dance."
+    },
+    {
+      "era": "Infinity Castle",
+      "years": "2019–2020",
+      "title": "The final night",
+      "beat": "The whole Corps is dragged into Muzan's shifting fortress for an all-night battle that ends at sunrise, with Nezuko finally human again."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "His forehead scar was his editor's idea, partly to give him a look as memorable as Kenshin's cross-shaped scar.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Gotouge's early pitch for the series was a one-shot called Kisatsu no Nagare, which did not get picked up.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "His hanafuda earrings were redrawn for the Chinese release because their sun design looked too much like the Rising Sun flag.",
+      "spice": 3
+    },
+    {
+      "type": "myth",
+      "text": "Tanjiro was born into a family of swordsmen.",
+      "truth": "He was a charcoal seller. His family only passed down a sacred dance, which turns out to hide an ancient sword style.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Natsuki Hanae voices him in Japanese and Zach Aguilar in English.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He won Best Boy at the 2020 Crunchyroll Anime Awards.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The final volume sold about 2.86 million copies in its first week, an Oricon record for any single manga volume.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Tanjiro do for a living before becoming a Demon Slayer?",
+      "options": ["Sold charcoal", "Fished", "Made swords", "Ran a tea shop"],
+      "answer": 0,
+      "why": "He sold charcoal to support his family."
+    },
+    {
+      "q": "Which breathing style does Tanjiro learn first?",
+      "options": ["Flame Breathing", "Thunder Breathing", "Water Breathing", "Beast Breathing"],
+      "answer": 2,
+      "why": "Urokodaki teaches him Water Breathing."
+    },
+    {
+      "q": "Which Demon Slayer film became Japan's highest-grossing film ever in 2020?",
+      "options": [
+        "Infinity Castle",
+        "Mugen Train",
+        "To the Swordsmith Village",
+        "To the Hashira Training"
+      ],
+      "answer": 1,
+      "why": "Mugen Train overtook Spirited Away in December 2020."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1f7a4d",
+      "c2": "#141414",
+      "c3": "#c0392b"
+    },
+    "motif": "water",
+    "mood": "dark",
+    "tagline": "A kind heart, a hard head and a little sister in a box."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+  },
+  "timeline": [
+    {
+      "year": 2016,
+      "kind": "debut",
+      "title": "Demon Slayer begins",
+      "note": "The manga starts in Weekly Shōnen Jump in February 2016."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "Ufotable's anime",
+      "note": "The TV anime premieres in April 2019, and its lush fight scenes turn the series into a craze."
+    },
+    {
+      "year": 2020,
+      "kind": "legacy",
+      "title": "The manga ends",
+      "note": "The final chapter runs in May 2020, after just over four years."
+    },
+    {
+      "year": 2020,
+      "kind": "screen",
+      "title": "Mugen Train breaks records",
+      "note": "Released in October, the film passes Spirited Away in December to become Japan's top-grossing film."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Swordsmith Village",
+      "note": "The third season sends Tanjiro to the hidden village of the sword makers."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Hashira Training",
+      "note": "A short fourth season shows the Corps getting ready for the last war against Muzan."
+    },
+    {
+      "year": 2025,
+      "kind": "screen",
+      "title": "Infinity Castle in cinemas",
+      "note": "The first film of the Infinity Castle trilogy opens in Japan in July 2025."
+    }
+  ],
+  "heat": 82
+}

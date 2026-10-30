@@ -1,0 +1,161 @@
+{
+  "slug": "green-lantern-john-stewart",
+  "name": "Green Lantern (John Stewart)",
+  "realName": "John Marshall Stewart",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The architect who builds things that hold. John Stewart, one of DC's first Black superheroes, wields a Green Lantern ring with a builder's precision and a soldier's discipline.",
+  "origin": "John Stewart is the Green Lantern who builds things that hold, and for a lot of fans he is simply the Green Lantern. Dennis O'Neil and Neal Adams introduced him in Green Lantern #87 in 1972, when the Guardians picked him as Hal Jordan's backup and Hal thought they had chosen badly; John proved him wrong in the same story. Adams wanted a hero who looked more like the real world, and John became one of DC's first Black superheroes. An architect by training, he thinks in structures, so his ring constructs tend to be solid and precise. Later versions gave him a Marine background, and the Justice League cartoon made him a TV star.",
+  "creators": ["Dennis O'Neil", "Neal Adams"],
+  "firstAppearance": {
+    "title": "Green Lantern",
+    "issue": "87",
+    "year": 1972
+  },
+  "powers": [
+    "Expert fighter and martial artist",
+    "Sharpshooter",
+    "Military-grade strategist",
+    "Trained architect",
+    "Ring-powered flight",
+    "Force fields",
+    "Energy blasts"
+  ],
+  "affiliations": ["Green Lantern Corps", "Justice League", "U.S. Marine Corps", "Indigo Tribe"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1971–1972",
+      "title": "Backup Lantern",
+      "beat": "Denny O'Neil and Neal Adams introduce John Stewart, an architect chosen as Hal Jordan's backup, and one of DC's first Black superheroes."
+    },
+    {
+      "era": "Main Lantern",
+      "years": "1984",
+      "title": "Taking over",
+      "beat": "When Hal steps away, John becomes Earth's main Green Lantern for several years."
+    },
+    {
+      "era": "Cosmic Odyssey",
+      "years": "1988",
+      "title": "Xanshi",
+      "beat": "John's overconfidence lets the planet Xanshi be destroyed, a guilt that defines him for years."
+    },
+    {
+      "era": "Justice League",
+      "years": "2001–2006",
+      "title": "TV star",
+      "beat": "The Justice League cartoons make John their Green Lantern, introducing him to a generation of fans."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "John Stewart was created for the Justice League cartoon.",
+      "spice": 1,
+      "truth": "He debuted in the comics in 1971–1972, decades before the show."
+    },
+    {
+      "type": "fact",
+      "text": "He is an architect, and his ring constructs are often solid and precise like buildings.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His failure to save the planet Xanshi in Cosmic Odyssey haunts him.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Later comics and the cartoon gave him a background as a US Marine.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was John Stewart's profession?",
+      "options": ["Architect", "Test pilot", "Police officer", "Teacher"],
+      "answer": 0,
+      "why": "He is an architect."
+    },
+    {
+      "q": "Which planet was destroyed in Cosmic Odyssey?",
+      "options": ["Oa", "Korugar", "Xanshi", "Thanagar"],
+      "answer": 2,
+      "why": "Xanshi."
+    },
+    {
+      "q": "Which cartoon made John its Green Lantern in 2001?",
+      "options": ["Super Friends", "Justice League", "Young Justice", "Batman Beyond"],
+      "answer": 1,
+      "why": "Justice League (2001)."
+    }
+  ],
+  "rivals": ["sinestro"],
+  "allies": ["green-lantern-hal-jordan", "flash-wally-west", "martian-manhunter", "wonder-woman"],
+  "theme": {
+    "palette": {
+      "c1": "#0f9d58",
+      "c2": "#1a1a1a",
+      "c3": "#e6e6e6"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Architect by trade, builds green bridges mid-battle."
+  },
+  "timeline": [
+    {
+      "year": 1972,
+      "kind": "debut",
+      "title": "The backup Lantern",
+      "note": "Green Lantern #87 has the Guardians pick architect John Stewart as Hal's replacement, a milestone for Black heroes.",
+      "with": "green-lantern-hal-jordan"
+    },
+    {
+      "year": 1984,
+      "kind": "turn",
+      "title": "Earth's main Lantern",
+      "note": "When Hal steps away, John takes over as the lead Green Lantern in the regular monthly series."
+    },
+    {
+      "year": 1988,
+      "kind": "turn",
+      "title": "The fall of Xanshi",
+      "note": "His overconfidence lets the planet Xanshi be destroyed in Cosmic Odyssey, a failure that haunts him for years."
+    },
+    {
+      "year": 1992,
+      "kind": "comic",
+      "title": "Mosaic",
+      "note": "John gets an experimental solo series guarding a patchwork world of alien cities stitched together on Oa."
+    },
+    {
+      "year": 2001,
+      "kind": "screen",
+      "title": "The Justice League Lantern",
+      "note": "The Justice League cartoon makes John its Green Lantern, so a generation grows up seeing him as the Lantern."
+    },
+    {
+      "year": 2026,
+      "kind": "legacy",
+      "title": "Lanterns on HBO",
+      "note": "Aaron Pierre stars as rookie John Stewart opposite Kyle Chandler's Hal in HBO's Lanterns series.",
+      "with": "green-lantern-hal-jordan"
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/John_Stewart_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q2556873"
+  },
+  "photo": {
+    "file": "green-lantern-john-stewart.webp",
+    "alt": "John Stewart photograph",
+    "artist": "Warner Bros. Animation",
+    "license": "CC BY 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:John_Stewart_(Justice_League).png"
+  }
+}

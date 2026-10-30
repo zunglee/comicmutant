@@ -1,0 +1,135 @@
+{
+  "slug": "michael-mega-man",
+  "name": "Michael",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Primeshow Entertainment",
+  "summary": "Hanu-Man's villain: a superhero-obsessed rich kid turned fake gadget vigilante, 'Mega Man', who will do anything to get real powers. Played by Vinay Rai (2024).",
+  "origin": "As a boy in Saurashtra in 1998, Michael was obsessed with superheroes. After he failed to fly, his parents told him heroes aren't real, and he killed them in a fire. As an adult in Mumbai he poses as the gadget-armed vigilante Mega Man, helped by his friend Siri, while secretly searching for genuine superpowers. When he hears about Hanumanthu's strength, he comes to Anjanadri pretending to run a corporate social-responsibility project, but his real goal is the gem.",
+  "creators": ["Prasanth Varma (writer, director)"],
+  "firstAppearance": {
+    "title": "Hanu-Man",
+    "year": 2024
+  },
+  "powers": [
+    "High-tech armoured suit and gadgets",
+    "Drone fleet",
+    "Neurotoxic gas weapons",
+    "Wealth and a band of mercenaries"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Childhood",
+      "years": "1998",
+      "title": "A dark origin",
+      "beat": "Told that superheroes are fiction, young Michael murders his parents."
+    },
+    {
+      "era": "Mumbai",
+      "years": "2024",
+      "title": "The fake hero",
+      "beat": "As Mega Man he plays vigilante with gadgets while he hunts for real powers."
+    },
+    {
+      "era": "Anjanadri",
+      "years": "2024",
+      "title": "The CSR disguise",
+      "beat": "He arrives claiming to do charity work and has Siri kidnap Hanumanthu to learn his secret."
+    },
+    {
+      "era": "Betrayal",
+      "years": "2024",
+      "title": "Fire and gas",
+      "beat": "Michael leaves Siri to die in a fire and releases a neurotoxic gas to paralyse the villagers."
+    },
+    {
+      "era": "End",
+      "years": "2024",
+      "title": "Helicopter crash",
+      "beat": "He steals the gem and tries to escape by helicopter, but Hanumanthu destroys it and Michael dies in the blast."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Director Prasanth Varma said Vinay Rai's suit was so hard to wear that the actor lost two kilograms during the shoot.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Tamil actor Vinay Rai was announced as the villain in June 2022.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Mega Man in Hanu-Man is a hero.",
+      "truth": "The Mega Man persona is a front. Michael is the film's main villain.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He betrays even his only friend, leaving Siri for dead in a fire.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What vigilante name does Michael use?",
+      "options": ["Iron Fist", "Black Hawk", "Mega Man", "Mr. Mumbai"],
+      "answer": 2,
+      "why": "He calls himself Mega Man and relies on gadgets."
+    },
+    {
+      "q": "Who played Michael in Hanu-Man?",
+      "options": ["Vinay Rai", "Samuthirakani", "Teja Sajja", "Raj Deepak Shetty"],
+      "answer": 0,
+      "why": "Tamil actor Vinay Rai played the villain."
+    }
+  ],
+  "rivals": ["hanu-man"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#263238",
+      "c2": "#9e9e9e",
+      "c3": "#00b0ff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Bought the suit, built the drones, never found a soul."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanu-Man"
+  },
+  "timeline": [
+    {
+      "year": 2024,
+      "kind": "debut",
+      "title": "Vinay Rai's Mega Man",
+      "note": "Vinay Rai plays a gadget-powered fake hero who will do anything to get real superpowers.",
+      "with": "hanu-man"
+    },
+    {
+      "year": 2024,
+      "kind": "turn",
+      "title": "Hunting the gem",
+      "note": "Michael poses as a charity worker and gasses the whole village to get his hands on the gem."
+    },
+    {
+      "year": 2024,
+      "kind": "death",
+      "title": "Helicopter crash",
+      "note": "His getaway helicopter goes down in flames and takes him with it.",
+      "with": "hanu-man"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Award-winning brawls",
+      "note": "The stunt team behind his fights with Hanumanthu wins Best Stunt Choreography at the 71st National Film Awards."
+    }
+  ],
+  "heat": 35
+}

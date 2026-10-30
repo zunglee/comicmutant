@@ -1,0 +1,140 @@
+{
+  "slug": "siddhant-arya",
+  "name": "Dr. Siddhant Arya",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Filmkraft Productions",
+  "summary": "Krrish's first villain: a scientist obsessed with a supercomputer that can show the future. Played by Naseeruddin Shah in Krrish (2006).",
+  "origin": "Arya hired the gifted Rohit Mehra to help build a machine that could see into the future. When Rohit discovered Arya's selfish plans and wrecked the machine, Arya shot him, then kept him in a coma for years, because the rebuilt computer only worked with Rohit's heartbeat and retina scans. Krishna grew up believing his father was dead, and his mother Nisha died soon after Rohit vanished.",
+  "creators": ["Rakesh Roshan (director, producer)"],
+  "firstAppearance": {
+    "title": "Krrish",
+    "year": 2006
+  },
+  "powers": [
+    "Genius scientist and engineer",
+    "Future-viewing supercomputer",
+    "Island fortress and armed henchmen",
+    "Ruthless, will shoot allies and enemies alike"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Backstory",
+      "years": "Before 2006",
+      "title": "The future machine",
+      "beat": "Arya and Rohit build a computer to see the future. Rohit sabotages it, and Arya shoots him and holds him captive."
+    },
+    {
+      "era": "Krrish",
+      "years": "2006",
+      "title": "A prisoner in a coma",
+      "beat": "Arya keeps Rohit unconscious because his heartbeat and eyes are the keys that run the rebuilt machine."
+    },
+    {
+      "era": "Krrish",
+      "years": "2006",
+      "title": "Seeing his own death",
+      "beat": "The computer shows Krrish killing Arya. He murders Kristian to change that future, but the prediction stays the same."
+    },
+    {
+      "era": "Krrish",
+      "years": "2006",
+      "title": "Island showdown",
+      "beat": "Arya shoots his security chief Vikram Sinha and takes hostages. Krrish rescues them and fatally wounds him."
+    },
+    {
+      "era": "Krrish 3",
+      "years": "2013",
+      "title": "A dark legacy",
+      "beat": "Krrish 3 reveals that Arya's experiment on Rohit created the villain Kaal."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Arya's supercomputer was biometrically locked to Rohit's heartbeat and retina, which is why Arya kept him alive for years.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He saw his own death coming, tried to rewrite the future, and failed.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Even after he died, his experiment produced the next film's villain, Kaal.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "Krrish's action scenes came from Hong Kong choreographer Tony Ching, and the film won Filmfare's Best Special Effects award.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Dr. Arya's machine do?",
+      "options": [
+        "Makes people invisible",
+        "Shows the future",
+        "Clones heroes",
+        "Controls the weather"
+      ],
+      "answer": 1,
+      "why": "His supercomputer was built to see the future."
+    },
+    {
+      "q": "Who played Dr. Siddhant Arya?",
+      "options": ["Amrish Puri", "Vivek Oberoi", "Naseeruddin Shah", "Rakesh Roshan"],
+      "answer": 2,
+      "why": "Naseeruddin Shah played the scientist in Krrish (2006)."
+    }
+  ],
+  "rivals": ["krrish"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#2e3b4e",
+      "c2": "#c0c0c0",
+      "c3": "#00bcd4"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "He peeked at tomorrow and hated the ending."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Krrish",
+    "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)"
+  },
+  "timeline": [
+    {
+      "year": 2006,
+      "kind": "debut",
+      "title": "Naseeruddin Shah's mad genius",
+      "note": "Arya arrives in Krrish as a scientist fixated on a computer that can see the future."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "A death he can't dodge",
+      "note": "His machine shows Krrish killing him. He commits murder to change that future, but the forecast holds."
+    },
+    {
+      "year": 2006,
+      "kind": "death",
+      "title": "Island showdown",
+      "note": "Krrish storms Arya's island, frees the captive Rohit and fatally wounds the scientist.",
+      "with": "krrish"
+    },
+    {
+      "year": 2013,
+      "kind": "legacy",
+      "title": "His lab made Kaal",
+      "note": "Krrish 3 reveals that Arya's experiments on the imprisoned Rohit created the villain Kaal.",
+      "with": "kaal"
+    }
+  ],
+  "heat": 30
+}

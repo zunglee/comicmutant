@@ -1,0 +1,186 @@
+{
+  "slug": "lex-luthor",
+  "name": "Lex Luthor",
+  "realName": "Alexander Joseph \"Lex\" Luthor",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "Proof that the scariest villain can be a man with a big brain and no powers. Lex Luthor, genius scientist and billionaire, has spent decades trying to show the world it doesn't need Superman.",
+  "origin": "Lex Luthor's whole argument is that a brilliant human should beat an alien in a cape, and honestly, he makes a good case. Jerry Siegel and Joe Shuster introduced him in Action Comics #23 in 1940 as a red-haired mad scientist bent on starting wars, and an art mix-up soon after left him permanently bald. Over the decades he has been a bitter former friend of Superboy, a ruthless billionaire who runs LexCorp and much of Metropolis, and even President of the United States. Through every version, he stands for raw ambition and the belief that brains matter more than superpowers. He is a genius engineer and scientist who builds armor when he needs to throw punches.",
+  "creators": ["Jerry Siegel", "Joe Shuster"],
+  "firstAppearance": {
+    "title": "Action Comics",
+    "issue": "23",
+    "year": 1940
+  },
+  "powers": [
+    "Genius inventor and scientist",
+    "Criminal mastermind",
+    "Trained fighter and marksman",
+    "Warsuit that adds strength, toughness and energy blasts"
+  ],
+  "affiliations": [
+    "Legion of Doom",
+    "Injustice League",
+    "Injustice Gang",
+    "Justice League",
+    "Secret Six",
+    "Superman Revenge Squad",
+    "Secret Society of Super Villains",
+    "Intergang"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1940",
+      "title": "Mad scientist",
+      "beat": "Luthor first appears in Action Comics #23 as a mad scientist with a full head of red hair, plotting war and world domination."
+    },
+    {
+      "era": "The grudge",
+      "years": "1960",
+      "title": "Blaming Superboy",
+      "beat": "A Silver Age origin shows teen Lex losing his hair in a lab fire that Superboy put out, and he blames the hero forever."
+    },
+    {
+      "era": "Corporate villain",
+      "years": "1986",
+      "title": "LexCorp",
+      "beat": "John Byrne's reboot recasts Lex as a ruthless billionaire who controls Metropolis through his company, LexCorp."
+    },
+    {
+      "era": "President Luthor",
+      "years": "2000–2004",
+      "title": "Elected",
+      "beat": "Lex is elected President of the United States, and is driven from office after he attacks Superman and Batman in a warsuit."
+    },
+    {
+      "era": "Justice Leaguer",
+      "years": "2014",
+      "title": "Joining the heroes",
+      "beat": "After helping stop an evil Justice League from another Earth, Lex joins the Justice League, though no one fully trusts him."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Lex Luthor has always been bald.",
+      "spice": 2,
+      "truth": "He had red hair in his 1940 debut. An artist's mix-up made him bald a year later, and it stuck."
+    },
+    {
+      "type": "fact",
+      "text": "He was elected President of the United States in a 2000 storyline.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Lex's green-and-purple warsuit debuted in Action Comics #544 (1983), the same anniversary issue that gave Brainiac his robot makeover.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Jesse Eisenberg and Nicholas Hoult have both played Lex on film.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What colour was Lex Luthor's hair in his debut?",
+      "options": ["Black", "Red", "Blond", "Grey"],
+      "answer": 1,
+      "why": "He had red hair in 1940."
+    },
+    {
+      "q": "What office did Lex win in 2000?",
+      "options": ["Mayor of Metropolis", "Governor", "Senator", "President of the United States"],
+      "answer": 3,
+      "why": "He became US President."
+    },
+    {
+      "q": "What is the name of Lex's company?",
+      "options": ["Wayne Enterprises", "Queen Industries", "LexCorp", "S.T.A.R. Labs"],
+      "answer": 2,
+      "why": "LexCorp."
+    }
+  ],
+  "rivals": ["superman", "supergirl"],
+  "allies": ["brainiac"],
+  "theme": {
+    "palette": {
+      "c1": "#2e8b57",
+      "c2": "#5b2a86",
+      "c3": "#d9d9d9"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Bald ambition with a billion-dollar grudge."
+  },
+  "timeline": [
+    {
+      "year": 1940,
+      "kind": "debut",
+      "title": "A mad scientist",
+      "note": "Action Comics #23 introduces Luthor, a red-haired schemer bent on starting wars.",
+      "with": "superman"
+    },
+    {
+      "year": 1960,
+      "kind": "turn",
+      "title": "Hair today, gone tomorrow",
+      "note": "Adventure Comics #271 blames Superboy for the lab accident that made Lex bald, giving him a petty grudge.",
+      "with": "superman"
+    },
+    {
+      "year": 1978,
+      "kind": "screen",
+      "title": "Gene Hackman schemes",
+      "note": "Gene Hackman plays a gleeful, real-estate-scamming Luthor opposite Christopher Reeve."
+    },
+    {
+      "year": 1986,
+      "kind": "turn",
+      "title": "Corporate monster",
+      "note": "John Byrne remakes Lex as a ruthless billionaire who owns half of Metropolis."
+    },
+    {
+      "year": 2000,
+      "kind": "turn",
+      "title": "Luthor for President",
+      "note": "Lex runs for the White House and wins, making him DC's most dangerous commander-in-chief."
+    },
+    {
+      "year": 2001,
+      "kind": "screen",
+      "title": "Smallville",
+      "note": "Michael Rosenbaum plays a young, conflicted Lex on Smallville for seven seasons."
+    },
+    {
+      "year": 2014,
+      "kind": "turn",
+      "title": "Justice Leaguer",
+      "note": "After saving the day in Forever Evil, Lex muscles his way onto the Justice League."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Hoult's Lex",
+      "note": "Nicholas Hoult plays a jealous tech billionaire Lex in James Gunn's Superman.",
+      "with": "superman"
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lex_Luthor",
+    "wikidata": "https://www.wikidata.org/wiki/Q694790"
+  },
+  "photo": {
+    "file": "lex-luthor.webp",
+    "alt": "Lex Luthor photograph",
+    "artist": "Docking Bay 93",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:NYCC_2014_-_Lex_Luthor_(15314253800).jpg"
+  }
+}

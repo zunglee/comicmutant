@@ -1,0 +1,41 @@
+{
+  "slug": "imra-sallow",
+  "name": "ORLA SALLOW",
+  "alias": "THE AUDIT",
+  "kind": "villain",
+  "archetype": "mutant-telepath",
+  "bio": "The Directorate's only Seamborn officer, a weaver who chose the desk over the room. She interrogates by weaving, files by memory lattice, and believes without cruelty that every gift is a liability, and hers keeps the others quiet. Every mind in the Quiet is in her files.",
+  "catchphrase": "I am not your enemy. I am your file.",
+  "rig": {
+    "build": "slim",
+    "head": "visor",
+    "cape": false,
+    "skin": "#e8d5c4",
+    "suit": "#3d2a66",
+    "trim": "#ede8de",
+    "eye": "#ff4fa3",
+    "emblem": "eye"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 4,
+    "defense": 4,
+    "special": 10
+  },
+  "special": {
+    "name": "Full Disclosure",
+    "kind": "shockwave"
+  },
+  "rivals": ["maren-quill", "pell-oriane"],
+  "theme": {
+    "palette": {
+      "c1": "#c39dff",
+      "c2": "#ede8de",
+      "c3": "#ff4fa3"
+    },
+    "motif": "mind",
+    "mood": "light",
+    "tagline": "Every file has a face."
+  },
+  "heat": 60
+}

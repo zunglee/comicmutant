@@ -1,0 +1,188 @@
+{
+  "slug": "super-commando-dhruva",
+  "name": "Super Commando Dhruva",
+  "realName": "Dhruva Mehra",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Rajnagar's hero with no superpowers: a former circus kid who talks to animals, rides a stunt bike and leads the Commando Force. Created by Anupam Sinha in 1987.",
+  "origin": "Dhruva grew up in the Jupiter Circus, where his trapeze-artist parents Shyam and Radha were killed in a massacre carried out by Jubisko, the strongman of the rival Globe Circus. Orphaned at 14, he was adopted by Rajnagar police officer Rajan Mehra. He used insurance money he inherited from the circus to set up the government-approved Commando Force. Dhruva has no superpowers and no secret identity. He relies on training, intelligence, circus agility and his rare ability to communicate with animals. His name and star emblem come from Dhruva Taara, the Pole Star, a symbol of steadfastness.",
+  "creators": ["Anupam Sinha (writer, artist)"],
+  "firstAppearance": {
+    "title": "Pratishodh Ki Jwala",
+    "issue": "GENL #74",
+    "year": 1987
+  },
+  "powers": [
+    "Genius-level intellect and detective skills",
+    "Communicates with most animals and birds, including dolphins",
+    "Can breathe underwater, a gift from the warrior Dhananjay",
+    "Master acrobat and escape artist",
+    "Expert stunt biker",
+    "Skilled martial artist",
+    "Star-line and star-blade gadgets",
+    "Strict no-kill code"
+  ],
+  "affiliations": ["Commando Force", "Brahmand Rakshak (Protectors of the Universe)"],
+  "storyline": [
+    {
+      "era": "Origin",
+      "years": "1987",
+      "title": "Pratishodh Ki Jwala",
+      "beat": "The debut tells how the circus orphan Dhruva avenges his parents and finds a new family with the Mehras."
+    },
+    {
+      "era": "Early cases",
+      "years": "1987–1988",
+      "title": "Roman Hatyara",
+      "beat": "Dhruva sets up the Commando Force, with cadets Peter, Renu and Kareem, and goes after a thief wearing a cursed Roman helmet."
+    },
+    {
+      "era": "Crossover",
+      "years": "1991",
+      "title": "Enter Nagraj",
+      "beat": "Special #1 teams him with Nagraj. Fans objected that the story, written by Sanjay Gupta, had Dhruva killing criminals, which broke his code."
+    },
+    {
+      "era": "Special",
+      "years": "1991",
+      "title": "Grand Master Robo",
+      "beat": "His first solo special introduces Robo's daughter Natasha, the undersea golden city Swarna Nagri, and his ability to breathe underwater."
+    },
+    {
+      "era": "Shift",
+      "years": "1991–1995",
+      "title": "From detective to cosmic",
+      "beat": "General issues give way to specials. After Chandakal Ki Wapasi (1995), Dhruva appears only in specials, now dealing with time travel, aliens and demons."
+    },
+    {
+      "era": "Heartbreak",
+      "years": "1996",
+      "title": "Commander Natasha",
+      "beat": "Natasha leaves Dhruva and rejoins her father's crime syndicate."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Sinha originally pictured Dhruva as a biker hero who wore a helmet. The helmet was dropped as the design evolved.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Early Dhruva carried a pistol as a last resort. He fired it only once, at Rhino-men in Aadamkhoron Ka Swarg, before it was written out.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Sinha says Roman Hatyara was supposed to be the first issue. He stopped it from going to print and wrote Pratishodh Ki Jwala as the debut instead.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "There's a Batman echo: his girlfriend Natasha is the daughter of his archenemy Robo, much like Talia and Ra's al Ghul.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Dhruva debuted in 1988.",
+      "truth": "His first issue, Pratishodh Ki Jwala, came out in April 1987.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His foster sister Shweta secretly fights crime as Chandika. Dhruva doesn't know, but Natasha does.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What inspired Dhruva's name and star emblem?",
+      "options": ["A cricket trophy", "A police badge", "The Pole Star", "The Ashoka Chakra"],
+      "answer": 2,
+      "why": "Dhruva Taara, the Pole Star, stands for someone steadfast."
+    },
+    {
+      "q": "Which city does Dhruva protect?",
+      "options": ["Mahanagar", "Rajnagar", "Mumbai", "Delhi"],
+      "answer": 1,
+      "why": "His base is the fictional city of Rajnagar."
+    },
+    {
+      "q": "How did Dhruva pay for the Commando Force?",
+      "options": [
+        "A lottery win",
+        "His police salary",
+        "Nagraj's money",
+        "Insurance money from the Jupiter Circus"
+      ],
+      "answer": 3,
+      "why": "The circus insurance payout paid for the force."
+    }
+  ],
+  "rivals": ["grand-master-robo"],
+  "allies": ["nagraj", "parmanu"],
+  "theme": {
+    "palette": {
+      "c1": "#f5c518",
+      "c2": "#4fb3e8",
+      "c3": "#6b4226"
+    },
+    "motif": "speed",
+    "mood": "light",
+    "tagline": "No powers, no mask, no problem. Just one very bright star."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+    "supporting": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters"
+  },
+  "timeline": [
+    {
+      "year": 1987,
+      "kind": "debut",
+      "title": "Pratishodh Ki Jwala",
+      "note": "GENL #74 introduces a circus orphan with no superpowers, only brains, nerve and stunt skills, out to avenge his parents."
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "Meets Nagraj",
+      "note": "Special #1 pairs him with the snake king, starting Raj Comics' most famous double act.",
+      "with": "nagraj"
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "Grand Master Robo special",
+      "note": "His first solo special pits him against Robo and brings in Natasha and the undersea city of Swarna Nagri.",
+      "with": "grand-master-robo"
+    },
+    {
+      "year": 1995,
+      "kind": "turn",
+      "title": "Last solo general issue",
+      "note": "Chandakal Ki Wapasi is his final regular solo issue. After this he shows up only in specials."
+    },
+    {
+      "year": 1996,
+      "kind": "turn",
+      "title": "Commander Natasha",
+      "note": "Natasha walks away from Dhruva and goes back to her father's crime syndicate.",
+      "with": "grand-master-robo"
+    },
+    {
+      "year": 2001,
+      "kind": "comic",
+      "title": "Brahmand Rakshak assemble",
+      "note": "Zalzalaa forms Raj Comics' big superhero team, and Dhruva is right there in the line-up."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "The Alliance on YouTube",
+      "note": "Raj Comics releases a live-action Dhruva short, the first chapter of a new web series of films."
+    }
+  ],
+  "heat": 60
+}

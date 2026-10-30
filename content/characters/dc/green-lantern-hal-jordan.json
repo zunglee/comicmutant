@@ -1,0 +1,208 @@
+{
+  "slug": "green-lantern-hal-jordan",
+  "name": "Green Lantern (Hal Jordan)",
+  "realName": "Harold Jordan",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A test pilot picked for the job because he had no fear. Hal Jordan wears a power ring that turns willpower into green light, and he is the best-known member of the Green Lantern Corps.",
+  "origin": "Hal Jordan was chosen because he was fearless, and he has spent decades living up to it, occasionally failing spectacularly. John Broome and Gil Kane rebooted Green Lantern in Showcase #22 in 1959, swapping Alan Scott's 1940s magic for science fiction. Test pilot Hal is summoned to a crashed spaceship where the dying alien Abin Sur hands him a power ring, making him a member of the intergalactic Green Lantern Corps. Kane based his look on Hollywood leading men rather than on folklore. The ring turns willpower into solid green light constructs, flight and energy blasts, though for decades it could not affect anything yellow.",
+  "creators": ["John Broome", "Gil Kane"],
+  "firstAppearance": {
+    "title": "Showcase",
+    "issue": "22",
+    "year": 1959
+  },
+  "powers": [
+    "Fearless test pilot",
+    "Trained fighter",
+    "Iron willpower",
+    "Creates green light constructs with his ring",
+    "Flight",
+    "Ring-boosted strength and toughness",
+    "Energy blasts"
+  ],
+  "affiliations": [
+    "Green Lantern Corps",
+    "Justice League",
+    "U.S. Air Force",
+    "White Lantern Corps"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1959",
+      "title": "The test pilot",
+      "beat": "Test pilot Hal Jordan is chosen by the dying alien Abin Sur to receive his power ring, joining the Green Lantern Corps, an intergalactic police force."
+    },
+    {
+      "era": "Justice League",
+      "years": "1960",
+      "title": "Founding member",
+      "beat": "Hal is one of the founding members of the Justice League of America."
+    },
+    {
+      "era": "Hard-Traveling Heroes",
+      "years": "1970–1972",
+      "title": "Real-world problems",
+      "beat": "Hal hits the road with Green Arrow in a series that tackles racism, poverty and drugs."
+    },
+    {
+      "era": "Emerald Twilight",
+      "years": "1994",
+      "title": "Fall from grace",
+      "beat": "After his hometown Coast City is destroyed, Hal goes mad with grief, wipes out much of the Corps and becomes the villain Parallax."
+    },
+    {
+      "era": "Final Night",
+      "years": "1996",
+      "title": "Redemption",
+      "beat": "Hal gives his life to reignite Earth's dying sun, and later returns as the host of the Spectre."
+    },
+    {
+      "era": "Rebirth",
+      "years": "2004–2005",
+      "title": "Back in green",
+      "beat": "Geoff Johns brings Hal back, revealing that a fear entity called Parallax had corrupted him."
+    },
+    {
+      "era": "Lantern wars",
+      "years": "2007–2010",
+      "title": "Rainbow of rings",
+      "beat": "The Sinestro Corps War and Blackest Night expand the mythology into a whole spectrum of colour-coded ring corps."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Hal Jordan was the first Green Lantern.",
+      "spice": 1,
+      "truth": "Alan Scott was the first in 1940, with a magic ring and no Corps."
+    },
+    {
+      "type": "fact",
+      "text": "For decades his ring could not affect anything yellow.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Fans were so angry about Emerald Twilight that they organised campaigns demanding Hal's return.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Ryan Reynolds starred in the 2011 Green Lantern film, a flop he has joked about in later films.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His home base is Coast City in California.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Hal Jordan's job before the ring?",
+      "options": ["Test pilot", "Police officer", "Architect", "Reporter"],
+      "answer": 0,
+      "why": "He was a test pilot."
+    },
+    {
+      "q": "Who gave Hal his power ring?",
+      "options": ["Sinestro", "Abin Sur", "Kilowog", "Ganthet"],
+      "answer": 1,
+      "why": "The dying Abin Sur."
+    },
+    {
+      "q": "What villain did Hal become in 1994?",
+      "options": ["The Spectre", "Nekron", "Krona", "Parallax"],
+      "answer": 3,
+      "why": "He became Parallax."
+    },
+    {
+      "q": "Which colour could Hal's ring not affect in classic stories?",
+      "options": ["Red", "Blue", "Yellow", "Black"],
+      "answer": 2,
+      "why": "Yellow."
+    }
+  ],
+  "rivals": ["sinestro"],
+  "allies": ["green-lantern-john-stewart", "green-arrow", "flash-barry-allen", "superman"],
+  "theme": {
+    "palette": {
+      "c1": "#0f9d58",
+      "c2": "#1a1a1a",
+      "c3": "#e6e6e6"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Imagination plus willpower equals giant glowing fist."
+  },
+  "timeline": [
+    {
+      "year": 1959,
+      "kind": "debut",
+      "title": "The ring chooses Hal",
+      "note": "Showcase #22 has a dying alien hand his power ring to test pilot Hal Jordan, reinventing Green Lantern for the space age."
+    },
+    {
+      "year": 1961,
+      "kind": "comic",
+      "title": "Meet Sinestro",
+      "note": "Green Lantern #7 introduces Sinestro, a Lantern turned tyrant who gets banished to the antimatter world of Qward.",
+      "with": "sinestro"
+    },
+    {
+      "year": 1970,
+      "kind": "comic",
+      "title": "Road trip with Ollie",
+      "note": "Green Lantern #76 drags Hal into real-world issues beside Green Arrow, a landmark for socially aware comics.",
+      "with": "green-arrow"
+    },
+    {
+      "year": 1994,
+      "kind": "turn",
+      "title": "Emerald Twilight",
+      "note": "Broken by the loss of his hometown, Hal goes mad, wipes out the Corps and becomes the villain Parallax."
+    },
+    {
+      "year": 1996,
+      "kind": "death",
+      "title": "The Final Night",
+      "note": "Hal burns out his life reigniting the dying sun, a redemptive end to his Parallax years."
+    },
+    {
+      "year": 2004,
+      "kind": "return",
+      "title": "Rebirth",
+      "note": "Geoff Johns brings Hal back, blaming Parallax on a fear parasite and kicking off a golden age for the franchise."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Ryan Reynolds wears the ring",
+      "note": "Green Lantern stars Ryan Reynolds as Hal in a big-budget film that mostly left fans cold."
+    },
+    {
+      "year": 2026,
+      "kind": "legacy",
+      "title": "Lanterns on HBO",
+      "note": "Kyle Chandler plays a grizzled Hal mentoring a rookie John Stewart in HBO's cop-show-in-space series.",
+      "with": "green-lantern-john-stewart"
+    }
+  ],
+  "heat": 65,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hal_Jordan",
+    "wikidata": "https://www.wikidata.org/wiki/Q2345627"
+  },
+  "photo": {
+    "file": "green-lantern-hal-jordan.webp",
+    "alt": "Hal Jordan photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dragon_Con_2013_-_Injustice_Green_Lantern_(9694254229).jpg"
+  }
+}

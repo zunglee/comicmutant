@@ -1,0 +1,41 @@
+{
+  "slug": "green-lantern-power-ring",
+  "name": "Green Lantern Power Ring",
+  "owner": "green-lantern-hal-jordan",
+  "firstSeen": {
+    "title": "Showcase #22",
+    "year": 1959
+  },
+  "summary": "A ring forged by the Guardians of the Universe that turns its wearer's willpower into solid green light. Test pilot Hal Jordan got his from a dying alien and joined an interstellar police force.",
+  "blueprint": "ring",
+  "parts": [
+    {
+      "label": "Band",
+      "fact": "In Showcase #22 (1959) the alien Lantern Abin Sur crash-lands on Earth, and his ring seeks out a fearless successor nearby: test pilot Hal Jordan."
+    },
+    {
+      "label": "Green lens",
+      "fact": "The ring shapes green energy into constructs of any form the wearer can imagine, plus force fields that let a Lantern fly and survive in open space."
+    },
+    {
+      "label": "Power battery",
+      "fact": "In the Silver Age the ring ran dry after 24 hours and was topped up at a lantern-shaped battery, itself tied to the giant Central Power Battery on the planet Oa."
+    },
+    {
+      "label": "Charge & oath",
+      "fact": "Lanterns often recite an oath while recharging, though it is optional. The famous verse is usually credited to SF author Alfred Bester in the 1940s, a claim he later disputed."
+    }
+  ],
+  "trivia": [
+    "The first Green Lantern, Alan Scott, debuted in All-American Comics #16 (1940) with a magic ring; Hal's 1959 version swapped magic for alien science.",
+    "Early rings could not affect anything yellow. The 2005 Rebirth story explained it as the fear monster Parallax trapped inside the Central Battery.",
+    "For years the rings were also coded so the wearer could not kill; the Guardians lifted that rule during the Sinestro Corps war of 2007.",
+    "The Corps splits the universe into 3,600 sectors, with Earth's sector numbered 2814."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Power_ring_(DC_Comics)",
+    "https://en.wikipedia.org/wiki/Abin_Sur",
+    "https://en.wikipedia.org/wiki/Alfred_Bester",
+    "https://screenrant.com/green-lantern-power-ring-abilities-facts-trivia/"
+  ]
+}

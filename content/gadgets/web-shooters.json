@@ -1,0 +1,46 @@
+{
+  "slug": "web-shooters",
+  "name": "Web-Shooters",
+  "owner": "spider-man",
+  "firstSeen": {
+    "title": "Amazing Fantasy #15",
+    "year": 1962
+  },
+  "summary": "Peter Parker's homemade wrist launchers fire a sticky fluid he cooked up himself. Swinging between skyscrapers is his power; the webs are pure teenage chemistry.",
+  "blueprint": "gauntlet",
+  "parts": [
+    {
+      "label": "Housing",
+      "fact": "In the comics Peter builds the wrist units himself. Steve Ditko's design notes show he chose a hidden wrist device over the idea of a web gun carried in a holster."
+    },
+    {
+      "label": "Web fluid",
+      "fact": "In the comics the fluid stays nearly solid until it is forced through the nozzle, is chemically related to nylon, and breaks down into dust after about an hour."
+    },
+    {
+      "label": "Nozzle modes",
+      "fact": "On film, the Stark-made suit in Spider-Man: Homecoming (2017) boasts 576 web combinations, from taser webs to web grenades, picked by hand gesture or voice."
+    },
+    {
+      "label": "Palm trigger",
+      "fact": "In the comics the trigger sits flat in the palm and needs a quick double tap from the middle and ring fingers, plus heavy pressure, so a clenched fist never fires it."
+    },
+    {
+      "label": "Wrist band",
+      "fact": "On film, Sam Raimi's Spider-Man (2002) dropped the bands entirely and gave Peter organic webs. The Amazing Spider-Man (2012) brought the mechanical bands back."
+    }
+  ],
+  "trivia": [
+    "Raimi did not skip mechanical shooters lightly: props were made and some shots were filmed with them before organic webs won out.",
+    "Screenwriter David Koepp has credited the organic-web idea to James Cameron, who once developed his own Spider-Man film.",
+    "Artist Eric Stanton, who shared a studio with Ditko, claimed he suggested having the webs shoot from Spidey's hands.",
+    "The Homecoming suit's AI, Karen, is voiced by Jennifer Connelly."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Spider-Man",
+    "https://www.cbr.com/why-sam-raimi-chose-organic-webs-for-his-spider-man-trilogy/",
+    "https://cinemablend.com/news/1668939/check-out-spider-mans-coolest-web-shooter-combinations-in-new-homecoming-video",
+    "https://www.thewrap.com/voice-suit-spider-man-homecoming",
+    "https://www.comicvine.com/web-shooters/4055-42426/"
+  ]
+}

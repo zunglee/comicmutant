@@ -1,0 +1,213 @@
+{
+  "slug": "doctor-doom",
+  "name": "Doctor Doom",
+  "realName": "Victor von Doom",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The villain who thinks he would run the world better, and might be right. Victor von Doom rules Latveria from inside a suit of armor and fights the Fantastic Four with science and sorcery alike.",
+  "origin": "Doctor Doom has the best villain résumé in comics: dictator, genius, sorcerer, and the man Reed Richards will never stop worrying about. Stan Lee and Jack Kirby sent him after the Fantastic Four in The Fantastic Four #5 in 1962, and two years later Fantastic Four Annual #2 explained how he got that way. As a student, Victor ignored Reed's warning about a flaw in a forbidden experiment; it blew up in his face, got him expelled, and left him scarred and furious. He went on to rule the small European kingdom of Latveria from inside powered armor, mixing advanced science with real sorcery. It did not take long before he was menacing the Avengers, Spider-Man and Iron Man too.",
+  "creators": ["Stan Lee (writer-editor)", "Jack Kirby (artist/co-plotter)"],
+  "firstAppearance": {
+    "title": "The Fantastic Four",
+    "issue": "5",
+    "year": 1962
+  },
+  "powers": [
+    "Genius inventor and scientist",
+    "Powerful sorcerer",
+    "Armor that boosts his strength and durability",
+    "Armor flight and built-in weapons",
+    "Trained fighter"
+  ],
+  "affiliations": [
+    "Acts of Vengeance",
+    "Cabal",
+    "Intelligencia",
+    "Future Foundation",
+    "Astonishing Avengers",
+    "Doom's Avengers",
+    "Guardians of the Galaxy"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1962",
+      "title": "The man in the iron mask",
+      "beat": "Victor von Doom appears in Fantastic Four #5 as Reed Richards's bitter college rival, hidden behind armour after an experiment blows up in his face."
+    },
+    {
+      "era": "Monarch",
+      "years": "1964",
+      "title": "Ruler of Latveria",
+      "beat": "An expanded origin establishes Doom as the dictator of the small European nation of Latveria, giving him diplomatic immunity and an army."
+    },
+    {
+      "era": "Secret Wars",
+      "years": "1984",
+      "title": "Stealing godhood",
+      "beat": "On the Battleworld, Doom steals the power of the cosmic Beyonder and briefly becomes almost all-powerful before losing it."
+    },
+    {
+      "era": "Triumph and Torment",
+      "years": "1989",
+      "title": "Saving his mother",
+      "beat": "In a celebrated graphic novel, Doom teams with Doctor Strange to free his mother's soul from the demon Mephisto."
+    },
+    {
+      "era": "Unthinkable",
+      "years": "2003",
+      "title": "Pure sorcery",
+      "beat": "Mark Waid has Doom sacrifice his first love to gain dark magical power, making him a crueller and more frightening villain."
+    },
+    {
+      "era": "God Emperor",
+      "years": "2015",
+      "title": "Secret Wars",
+      "beat": "When the multiverse collapses, Doom steals the power of god-like beings and rebuilds reality as Battleworld, with himself as its god."
+    },
+    {
+      "era": "Sorcerer Supreme",
+      "years": "2024–2025",
+      "title": "One World Under Doom",
+      "beat": "Doom gains the title of Sorcerer Supreme and then declares himself ruler of the entire Earth."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Doctor Doom is a qualified doctor.",
+      "spice": 2,
+      "truth": "The title is self-styled. Doom was expelled from university after his failed experiment."
+    },
+    {
+      "type": "fact",
+      "text": "In much of the lore his original facial scar was small. He made it far worse by putting on his mask before it had cooled.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Doom habitually refers to himself in the third person.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Robert Downey Jr., the MCU's Iron Man, was announced in 2024 as the new film Doctor Doom.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "He mixes advanced science with real sorcery, which makes him a threat to both Reed Richards and Doctor Strange.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which country does Doctor Doom rule?",
+      "options": ["Latveria", "Wakanda", "Symkaria", "Sokovia"],
+      "answer": 0,
+      "why": "Doom is the monarch of Latveria."
+    },
+    {
+      "q": "Who was Doom's college rival?",
+      "options": ["Tony Stark", "Hank Pym", "Reed Richards", "Bruce Banner"],
+      "answer": 2,
+      "why": "His feud with Reed Richards began at university."
+    },
+    {
+      "q": "In which 1984 event did Doom steal the Beyonder's power?",
+      "options": ["Infinity Gauntlet", "Secret Wars", "Civil War", "Inferno"],
+      "answer": 1,
+      "why": "It happened in the original Secret Wars."
+    }
+  ],
+  "rivals": [
+    "mister-fantastic",
+    "invisible-woman",
+    "human-torch",
+    "the-thing",
+    "black-panther",
+    "doctor-strange"
+  ],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#3f5a3a",
+      "c2": "#8a8f98",
+      "c3": "#c9a227"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Science, sorcery and a very big ego."
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "kind": "debut",
+      "title": "The man in the iron mask",
+      "note": "Fantastic Four #5 introduces Victor von Doom, Reed Richards' old college rival, who sends the team back in time for treasure.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1964,
+      "kind": "comic",
+      "title": "His origin, his kingdom",
+      "note": "Fantastic Four Annual #2 tells Doom's backstory, from a Romani childhood to the lab accident he blames on Reed.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "First cartoon menace",
+      "note": "The Hanna-Barbera Fantastic Four cartoon puts Doom on TV screens as the family's go-to villain."
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "Stealing a god's power",
+      "note": "In the Secret Wars maxi-series Doom outwits the cosmic Beyonder and grabs his power for himself, briefly.",
+      "with": "galactus"
+    },
+    {
+      "year": 1989,
+      "kind": "comic",
+      "title": "Triumph and Torment",
+      "note": "Doom teams with Doctor Strange to free his mother's soul from hell, one of the most loved Doom stories ever.",
+      "with": "doctor-strange"
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Julian McMahon's Doom",
+      "note": "The Fantastic Four film casts Julian McMahon as Victor, rewritten as a businessman who goes metal."
+    },
+    {
+      "year": 2015,
+      "kind": "turn",
+      "title": "God Emperor of Battleworld",
+      "note": "Secret Wars ends the old multiverse and finds Doom ruling the patchwork world that remains.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "One World Under Doom",
+      "note": "Doom becomes Sorcerer Supreme and declares himself ruler of the whole planet in a line-wide event.",
+      "with": "doctor-strange"
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Doom",
+    "wikidata": "https://www.wikidata.org/wiki/Q430178"
+  },
+  "photo": {
+    "file": "doctor-doom.webp",
+    "alt": "Doctor Doom photograph",
+    "artist": "Remy Sharp",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dr_Doom_cosplay.jpg"
+  }
+}

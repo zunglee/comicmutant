@@ -1,0 +1,183 @@
+{
+  "slug": "booster-gold",
+  "name": "Booster Gold",
+  "realName": "Michael Jon \"Booster\" Carter",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A time-travelling glory hound who turned out to be a real hero. Michael Jon Carter, a disgraced football star from the 25th century, came back in time with stolen gear to get rich and famous.",
+  "origin": "Booster Gold is a time traveller who came to the past to get famous, which is the most honest motive in superhero comics. Dan Jurgens launched him in Booster Gold #1 in 1986: Michael Jon Carter, a disgraced 25th-century football star who stole gear from a museum, grabbed the robot Skeets and jumped back to the 20th century to cash in as a hero. His suit and gadgets give him strength, toughness, a force field and flight, and he soon joined the Justice League, where he paired with Ted Kord's Blue Beetle in one of DC's best comedy double acts. Later stories made him a secret guardian of the timeline, an unsung hero nobody thanks.",
+  "creators": ["Dan Jurgens"],
+  "firstAppearance": {
+    "title": "Booster Gold",
+    "issue": "1",
+    "year": 1986
+  },
+  "powers": [
+    "Suit gives him strength, speed and toughness",
+    "Force field",
+    "Energy blasts from his gauntlets",
+    "Visor that sharpens his senses",
+    "Time travel",
+    "Flies with a Legion ring"
+  ],
+  "affiliations": [
+    "Justice League",
+    "The Conglomerate",
+    "Justice League International",
+    "A.R.G.U.S.",
+    "Extreme Justice"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1986",
+      "title": "A hero from the future",
+      "beat": "Michael Jon Carter, a disgraced football star from the 25th century, steals future gear from a museum and travels back in time to become a famous, paid hero."
+    },
+    {
+      "era": "JLI",
+      "years": "1987–1992",
+      "title": "Blue and Gold",
+      "beat": "Booster joins the comedic Justice League International and forms a beloved friendship with Ted Kord, the Blue Beetle."
+    },
+    {
+      "era": "Doomsday",
+      "years": "1992",
+      "title": "First to fall",
+      "beat": "Booster is among the first heroes to face Doomsday, and the monster wrecks his suit."
+    },
+    {
+      "era": "52",
+      "years": "2006–2007",
+      "title": "Faking death",
+      "beat": "In the weekly series 52, Booster seems to die and returns as the mysterious hero Supernova."
+    },
+    {
+      "era": "Time Master",
+      "years": "2007",
+      "title": "Secret guardian",
+      "beat": "A new solo series reveals Booster secretly protects the timeline, keeping his reputation as a glory-seeker as cover."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "He is the first new major character introduced into DC continuity after Crisis on Infinite Earths.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His wisecracking robot sidekick is named Skeets.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "In the future he was a football star banned for gambling on his own games.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His double act with Blue Beetle Ted Kord is known as Blue and Gold.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "A Booster Gold TV series was announced in 2023 as part of DC Studios' new slate.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which century is Booster Gold from?",
+      "options": ["21st", "25th", "30th", "31st"],
+      "answer": 1,
+      "why": "He comes from the 25th century."
+    },
+    {
+      "q": "What is Booster's robot sidekick called?",
+      "options": ["Brainiac 5", "Red Tornado", "Skeets", "Kilowog"],
+      "answer": 2,
+      "why": "Skeets."
+    },
+    {
+      "q": "Who is Booster's best friend in Justice League International?",
+      "options": ["Guy Gardner", "Hal Jordan", "Ice", "Ted Kord"],
+      "answer": 3,
+      "why": "Ted Kord, the Blue Beetle."
+    }
+  ],
+  "rivals": [],
+  "allies": ["blue-beetle-jaime-reyes", "martian-manhunter"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#f2c230",
+      "c3": "#ffe066"
+    },
+    "motif": "tech",
+    "mood": "light",
+    "tagline": "Saves the timeline, still wants an autograph deal."
+  },
+  "timeline": [
+    {
+      "year": 1986,
+      "kind": "debut",
+      "title": "Hero from the future",
+      "note": "Booster Gold #1 introduces Michael Jon Carter, a disgraced future athlete who steals tech to get famous."
+    },
+    {
+      "year": 1987,
+      "kind": "comic",
+      "title": "Joins the JLI",
+      "note": "Booster talks his way onto the Justice League and forms a legendary double act with Blue Beetle Ted Kord."
+    },
+    {
+      "year": 1992,
+      "kind": "comic",
+      "title": "First to face Doomsday",
+      "note": "Doomsday shreds Booster's suit at the start of the Death of Superman saga, and Booster gives the monster its name.",
+      "with": "superman"
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Dying in 52",
+      "note": "The weekly series 52 has Booster fake his own death in a twisty time-travel mystery."
+    },
+    {
+      "year": 2007,
+      "kind": "comic",
+      "title": "Secret time cop",
+      "note": "His new series reveals Booster as a hidden guardian of history who plays the fool on purpose."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Smallville",
+      "note": "Eric Martsolf plays Booster on Smallville in an episode that also features Jaime Reyes.",
+      "with": "blue-beetle-jaime-reyes"
+    },
+    {
+      "year": 2017,
+      "kind": "legacy",
+      "title": "Rebirth return",
+      "note": "Action Comics #992 marks Booster's comeback in the post-Rebirth DCU, guest-starring in Superman's own book.",
+      "with": "superman"
+    }
+  ],
+  "heat": 40,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Booster_Gold",
+    "wikidata": "https://www.wikidata.org/wiki/Q391201"
+  },
+  "photo": {
+    "file": "booster-gold.webp",
+    "alt": "Booster Gold photograph",
+    "artist": "Marnie Joyce from New York City, USA",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:C2E2_2013_-_Booster_Gold_(8702693744).jpg"
+  }
+}

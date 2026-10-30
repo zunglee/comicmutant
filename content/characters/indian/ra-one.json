@@ -1,0 +1,149 @@
+{
+  "slug": "ra-one",
+  "name": "Ra.One",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Red Chillies Entertainment",
+  "summary": "A self-learning video-game villain who breaks out into the real world to hunt the boy who nearly beat him. Played by Arjun Rampal in Ra.One (2011).",
+  "origin": "Game designer Shekhar Subramaniam builds a new game for his son Prateek and, on Prateek's suggestion, makes the villain stronger than the hero. Ra.One is faceless, can shapeshift and read minds, runs on self-learning AI, and draws its power from a device called the H.A.R.T. When Prateek, playing as Lucifer, leaves their match unfinished, Ra.One uses new technology that lets digital objects enter the real world, escapes, and kills to track Lucifer down, Shekhar included. The name riffs on Ravana.",
+  "creators": ["Anubhav Sinha (director)", "Gauri Khan (producer)"],
+  "firstAppearance": {
+    "title": "Ra.One",
+    "year": 2011
+  },
+  "powers": [
+    "Shapeshifts into any person",
+    "Mind reading",
+    "Self-learning artificial intelligence",
+    "Superhuman strength and durability",
+    "Powered by a H.A.R.T.; without it he weakens but cannot be killed",
+    "Reassembles after being blown apart",
+    "Hypnosis",
+    "Can split into multiple copies"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "London",
+      "years": "2011",
+      "title": "Unfinished game",
+      "beat": "Ra.One escapes into the real world, murders the game's motion-capture artist Akashi and then Shekhar while hunting Lucifer."
+    },
+    {
+      "era": "London",
+      "years": "2011",
+      "title": "Shattered into cubes",
+      "beat": "G.One arrives and sets off a gas explosion that breaks Ra.One apart and leaves him without his H.A.R.T."
+    },
+    {
+      "era": "Mumbai",
+      "years": "2011",
+      "title": "Hostage game",
+      "beat": "Rebuilt, Ra.One hypnotises Prateek's mother Sonia, takes her form, kidnaps Prateek, and sends the real Sonia on a runaway train toward CST station."
+    },
+    {
+      "era": "Final level",
+      "years": "2011",
+      "title": "Ten Ra.Ones",
+      "beat": "He multiplies into ten copies, but only the real one casts a shadow. G.One shoots its H.A.R.T. and destroys it."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "With a budget of about ₹150 crore including publicity, Ra.One was the most expensive Indian film ever made at the time.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The film won the National Film Award for Best Special Effects.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The final clue: of the ten Ra.One copies, only the real one casts a shadow.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Jackie Chan was approached to play Akashi but turned it down.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "It opened in India on 26 October 2011, right on Diwali.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What gives Ra.One and G.One their power?",
+      "options": ["A Tesseract", "The H.A.R.T.", "A diamond", "A battery pack"],
+      "answer": 1,
+      "why": "Both characters run on a device called the H.A.R.T."
+    },
+    {
+      "q": "How does Prateek spot the real Ra.One among the copies?",
+      "options": ["It glows red", "It speaks first", "It has no face", "It casts a shadow"],
+      "answer": 3,
+      "why": "Only the real Ra.One has a shadow."
+    },
+    {
+      "q": "Who played Ra.One?",
+      "options": ["Arjun Rampal", "Shah Rukh Khan", "Vivek Oberoi", "Sanjay Dutt"],
+      "answer": 0,
+      "why": "Arjun Rampal played the title villain."
+    }
+  ],
+  "rivals": ["g-one"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#b30000",
+      "c2": "#111111",
+      "c3": "#ff6a00"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Player quit mid-match? He came out to finish the level in person."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ra.One"
+  },
+  "timeline": [
+    {
+      "year": 2011,
+      "kind": "debut",
+      "title": "Out of the game",
+      "note": "Arjun Rampal plays the video-game villain who breaks into the real world in the film released on 26 October 2011."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Tie-in video game",
+      "note": "Ra.One – The Game lands on PS2 and PS3 a few weeks ahead of the film."
+    },
+    {
+      "year": 2011,
+      "kind": "death",
+      "title": "Ten copies, one shadow",
+      "note": "In the final level G.One spots the real Ra.One by his shadow and destroys his H.A.R.T.",
+      "with": "g-one"
+    },
+    {
+      "year": 2012,
+      "kind": "legacy",
+      "title": "National Award for VFX",
+      "note": "The film wins Best Special Effects at the 59th National Film Awards for Red Chillies VFX."
+    },
+    {
+      "year": 2015,
+      "kind": "turn",
+      "title": "Sequel talk",
+      "note": "Shah Rukh Khan says any follow-up would be called G.One. It has not been made.",
+      "with": "g-one"
+    }
+  ],
+  "heat": 50
+}

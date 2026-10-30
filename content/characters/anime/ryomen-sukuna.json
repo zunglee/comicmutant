@@ -1,0 +1,169 @@
+{
+  "slug": "ryomen-sukuna",
+  "name": "Ryomen Sukuna",
+  "universe": "anime",
+  "kind": "villain",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Jujutsu Kaisen's King of Curses: a monstrous sorcerer from a thousand years ago whose power lives on in twenty rotting fingers, and in the teenager who ate one. Debuted in Weekly Shōnen Jump in 2018.",
+  "origin": "More than a thousand years ago, in Japan's Heian era, Sukuna was the strongest sorcerer alive, a four-armed, two-faced terror whom even other sorcerers could not stop. After his death his power was split into twenty mummified fingers that no one could destroy. In the present day, high-schooler Yuji Itadori swallows one of those fingers to save his friends, becomes Sukuna's vessel and is sentenced to eat the rest so the curse can die with him. Sukuna lurks inside, mocking Yuji and waiting for a chance to take over. Gege Akutami based him on Ryōmen-sukuna, a two-faced, four-armed figure in the ancient chronicle Nihon Shoki, and has described him as closer to a natural disaster than a person.",
+  "creators": ["Gege Akutami"],
+  "firstAppearance": {
+    "title": "Jujutsu Kaisen",
+    "issue": "Chapter 1",
+    "year": 2018
+  },
+  "powers": [
+    "Cleave and Dismantle, invisible slashing techniques",
+    "Malevolent Shrine, a domain that shreds everything in range",
+    "Fire arrows from his Furnace technique",
+    "Ten Shadows shikigami after taking Megumi's body",
+    "Reverse cursed technique for rapid healing",
+    "World-cutting slash that can split space itself"
+  ],
+  "affiliations": ["None (serves only himself)"],
+  "storyline": [
+    {
+      "era": "Opening",
+      "years": "2018",
+      "title": "A finger in the mouth",
+      "beat": "Yuji eats one of Sukuna's fingers during a school emergency and wakes the King of Curses inside his own body."
+    },
+    {
+      "era": "Shibuya",
+      "years": "2019–2021",
+      "title": "Shibuya in ruins",
+      "beat": "Fed a pile of fingers, Sukuna briefly seizes Yuji's body, kills the curse Jogo and levels much of Shibuya."
+    },
+    {
+      "era": "Culling Game",
+      "years": "2022–2023",
+      "title": "A new body",
+      "beat": "He tricks his way into Megumi Fushiguro's body, gaining the Ten Shadows technique and leaving Yuji behind."
+    },
+    {
+      "era": "Shinjuku",
+      "years": "2023",
+      "title": "Strongest against strongest",
+      "beat": "Sukuna duels the sealed-then-freed Satoru Gojo in one of the most talked-about fights in modern manga, and wins."
+    },
+    {
+      "era": "Finale",
+      "years": "2024",
+      "title": "The curse ends",
+      "beat": "Worn down by the combined efforts of every surviving sorcerer, he is finally brought down by Yuji."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His design and name come from Ryōmen-sukuna of the Nihon Shoki, an old chronicle describing a being with two faces and four arms.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Sukuna was born a cursed spirit.",
+      "truth": "He was a human sorcerer. Only after death did his power survive as cursed objects.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His power is split across twenty fingers, one for each digit on his four hands.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Junichi Suwabe admitted he was nervous right up to the anime's premiere, worried how manga readers would take his Sukuna.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He won Best Antagonist at the 5th Crunchyroll Anime Awards.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "The manga's later chapters reveal he devoured his own twin in the womb, which explains a lot.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many fingers was Sukuna's power sealed into?",
+      "options": ["10", "12", "20", "40"],
+      "answer": 2,
+      "why": "Twenty mummified fingers."
+    },
+    {
+      "q": "What is the name of Sukuna's domain expansion?",
+      "options": [
+        "Unlimited Void",
+        "Malevolent Shrine",
+        "Self-Embodiment of Perfection",
+        "Chimera Shadow Garden"
+      ],
+      "answer": 1,
+      "why": "Malevolent Shrine. Unlimited Void belongs to Gojo."
+    },
+    {
+      "q": "Who voices Sukuna in the Japanese anime?",
+      "options": ["Yuichi Nakamura", "Junya Enoki", "Junichi Suwabe", "Takahiro Sakurai"],
+      "answer": 2,
+      "why": "Junichi Suwabe, with Ray Chase in English."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2a7b5",
+      "c2": "#1a1a1a",
+      "c3": "#c1121f"
+    },
+    "motif": "claw",
+    "mood": "dark",
+    "tagline": "Four arms, two faces and absolutely zero manners."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+  },
+  "timeline": [
+    {
+      "year": 2018,
+      "kind": "debut",
+      "title": "One finger, one vessel",
+      "note": "Jujutsu Kaisen starts in Weekly Shōnen Jump in March 2018, and Sukuna wakes in chapter 1."
+    },
+    {
+      "year": 2020,
+      "kind": "screen",
+      "title": "MAPPA's anime",
+      "note": "The TV anime premieres in October 2020, with Junichi Suwabe as Sukuna."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Best Antagonist",
+      "note": "Sukuna takes the villain prize at the 5th Crunchyroll Anime Awards."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Shibuya on screen",
+      "note": "Season 2 adapts the Shibuya Incident, including Sukuna's rampage through the city."
+    },
+    {
+      "year": 2023,
+      "kind": "turn",
+      "title": "The Shinjuku duel",
+      "note": "Sukuna beats Satoru Gojo in a manga fight that set the internet on fire in September 2023."
+    },
+    {
+      "year": 2024,
+      "kind": "death",
+      "title": "The manga ends",
+      "note": "Jujutsu Kaisen ends in September 2024 with the King of Curses finally defeated."
+    }
+  ],
+  "heat": 84
+}

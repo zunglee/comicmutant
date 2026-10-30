@@ -1,0 +1,464 @@
+/* biome-ignore-all lint/complexity/noImportantStyles: reduced motion must beat component styles. */
+@import "tailwindcss";
+
+/*
+ * Game box width: on desktop the 16:9 canvas must fit under the header AND the page title block
+ * (≈14rem), so Start, the HUD and the floor are all on screen at 1366×768. A landscape phone
+ * scrolls the title away on Start, so its canvas may use the full height under the header.
+ */
+.game-box-w {
+  width: min(100%, calc((100dvh - 14rem) * 16 / 9));
+}
+@media (pointer: coarse) and (orientation: landscape) {
+  .game-box-w {
+    width: min(100%, calc((100dvh - 6.5rem) * 16 / 9));
+  }
+}
+
+/*
+ * Keyboard focus and in-page jumps stop clear of the fixed chrome: the sticky header on top, the
+ * tab bar + folded dock at the bottom on phones/tablets (dock only, on desktop).
+ */
+html {
+  scroll-padding-top: 5rem;
+  scroll-padding-bottom: 9rem;
+}
+@media (min-width: 1024px) {
+  html {
+    scroll-padding-bottom: 6rem;
+  }
+}
+
+/* Small or short screens: game menus flow below the canvas instead of over a 16:9 box too small for them. */
+@custom-variant cramped (@media (max-width: 1023px), (max-height: 640px));
+/* Touch phones held upright: the game pad sits below the canvas, not over the fighters. */
+@custom-variant touchport (@media (pointer: coarse) and (orientation: portrait));
+/* Any touch screen (start-screen layout, pad legend). */
+@custom-variant coarse (@media (pointer: coarse));
+/* Touch phones held sideways: no room under the canvas. */
+@custom-variant touchland (@media (pointer: coarse) and (orientation: landscape));
+
+/*
+ * ComicMutant design system — "halftone pop": ink outlines, hard offset shadows, halftone dots,
+ * speech bubbles, action bursts. Every colour comes from theme variables set on <html> by
+ * app/lib/theme/compute.ts (SSR, so no flash) and swapped live when a theme is equipped.
+ * Utilities: bg-c1, text-fg, border-line … map to those variables.
+ */
+/*
+ * `inline`: utilities use the variable directly (color: var(--c3-text)), so a page or card that
+ * overrides --c1/--c3-text… on a wrapper re-colours every utility inside it.
+ */
+@theme inline {
+  --font-display: "Bangers", "Impact", system-ui, sans-serif;
+  --font-head: "Russo One", "Arial Black", system-ui, sans-serif;
+  --font-body: "Chakra Petch", system-ui, sans-serif;
+
+  /* Fixed print colours for speech bubbles (always paper + ink, whatever the theme). */
+  --color-ink: #0d0b10;
+  --color-paper: #fffdf6;
+  --color-paper-muted: #5a5048;
+  --color-pop: #ffd400;
+  --color-alert: #b00020;
+  --color-c1: var(--c1);
+  --color-c2: var(--c2);
+  --color-c3: var(--c3);
+  --color-on-c1: var(--on-c1);
+  --color-on-c2: var(--on-c2);
+  --color-on-c3: var(--on-c3);
+  --color-bg: var(--bg);
+  --color-fg: var(--fg);
+  --color-card: var(--card);
+  --color-card-fg: var(--card-fg);
+  --color-muted: var(--muted);
+  --color-line: var(--line);
+  --color-c1-text: var(--c1-text);
+  --color-c3-text: var(--c3-text);
+
+  --shadow-ink: 5px 5px 0 var(--line);
+  --shadow-ink-sm: 3px 3px 0 var(--line);
+  --shadow-ink-lg: 9px 9px 0 var(--line);
+
+  --ease-snap: cubic-bezier(0.2, 1.4, 0.4, 1);
+  --ease-out-expo: cubic-bezier(0.16, 1, 0.3, 1);
+}
+
+/* House theme fallback; the server always writes the real theme inline on <html>. */
+:root {
+  --c1: #ff2e4d;
+  --c2: #1b1464;
+  --c3: #ffd400;
+  --on-c1: #0d0b10;
+  --on-c2: #ffffff;
+  --on-c3: #0d0b10;
+  --bg: #12101a;
+  --fg: #f6f1e7;
+  --card: #241523;
+  --card-fg: #f6f1e7;
+  --muted: #b9b1a6;
+  --line: #000000;
+  --c1-text: #ff4d66;
+  --c1-text-card: #ff5a72;
+  --c3-text: #ffd400;
+  --glow: #ffd40088;
+  --halftone: #ff2e4d2e;
+  color-scheme: dark;
+}
+
+@layer base {
+  html {
+    background: var(--bg);
+    color: var(--fg);
+    font-family: var(--font-body);
+    -webkit-tap-highlight-color: transparent;
+    transition:
+      background-color 0.45s var(--ease-out-expo),
+      color 0.45s var(--ease-out-expo);
+  }
+
+  /* Entrance animations start off-axis; clip (not hidden) so they never widen the page. */
+  main {
+    overflow-x: clip;
+  }
+
+  body {
+    min-height: 100dvh;
+    background-image: radial-gradient(var(--halftone) 1.4px, transparent 1.6px);
+    background-size: 14px 14px;
+    overflow-x: hidden;
+  }
+
+  ::selection {
+    background: var(--c3);
+    color: var(--on-c3);
+  }
+
+  :focus-visible {
+    outline: 3px solid var(--c3-text);
+    outline-offset: 3px;
+    border-radius: 2px;
+  }
+
+  .skip-link {
+    position: absolute;
+    left: 1rem;
+    top: -4rem;
+    z-index: 100;
+  }
+  .skip-link:focus {
+    top: 1rem;
+  }
+}
+
+@layer components {
+  /* ── type ──────────────────────────────────────────────────────────────────────────── */
+  .h-display {
+    font-family: var(--font-display);
+    letter-spacing: 0.03em;
+    line-height: 0.92;
+    text-wrap: balance;
+  }
+  .h-head {
+    font-family: var(--font-head);
+    letter-spacing: 0.01em;
+    line-height: 1.1;
+    text-wrap: balance;
+  }
+  /* Ink drop-shadow for display type sitting on a busy background. */
+  .ink-text {
+    text-shadow:
+      3px 3px 0 var(--line),
+      -1px -1px 0 var(--line),
+      1px -1px 0 var(--line),
+      -1px 1px 0 var(--line);
+  }
+  .kicker {
+    font-family: var(--font-head);
+    font-size: 0.75rem;
+    letter-spacing: 0.16em;
+    text-transform: uppercase;
+    color: var(--c3-text);
+  }
+
+  /* ── surfaces ──────────────────────────────────────────────────────────────────────── */
+  .panel {
+    background: var(--card);
+    color: var(--card-fg);
+    border: 3px solid var(--line);
+    box-shadow: var(--shadow-ink);
+    border-radius: 6px;
+  }
+  .panel-c1 {
+    background: var(--c1);
+    color: var(--on-c1);
+    border: 3px solid var(--line);
+    box-shadow: var(--shadow-ink);
+    border-radius: 6px;
+  }
+  .halftone {
+    position: relative;
+    isolation: isolate;
+  }
+  .halftone::after {
+    content: "";
+    position: absolute;
+    inset: 0;
+    z-index: -1;
+    pointer-events: none;
+    background-image: radial-gradient(var(--line) 1px, transparent 1.3px);
+    background-size: 7px 7px;
+    opacity: 0.18;
+    border-radius: inherit;
+  }
+
+  /* ── controls ──────────────────────────────────────────────────────────────────────── */
+  .btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    gap: 0.5rem;
+    min-height: 44px;
+    padding: 0.55rem 1.1rem;
+    font-family: var(--font-head);
+    font-size: 0.95rem;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    background: var(--card);
+    color: var(--card-fg);
+    border: 3px solid var(--line);
+    border-radius: 6px;
+    box-shadow: var(--shadow-ink-sm);
+    cursor: pointer;
+    transition:
+      transform 0.12s var(--ease-snap),
+      box-shadow 0.12s var(--ease-snap),
+      background-color 0.2s;
+    user-select: none;
+  }
+  .btn:hover {
+    transform: translate(-1px, -2px);
+    box-shadow: 5px 6px 0 var(--line);
+  }
+  .btn:active {
+    transform: translate(3px, 3px);
+    box-shadow: 0 0 0 var(--line);
+  }
+  .btn:disabled {
+    opacity: 0.55;
+    cursor: not-allowed;
+    transform: none;
+  }
+  .btn-c1 {
+    background: var(--c1);
+    color: var(--on-c1);
+  }
+  .btn-c3 {
+    background: var(--c3);
+    color: var(--on-c3);
+  }
+  .btn-sm {
+    min-height: 36px;
+    padding: 0.3rem 0.7rem;
+    font-size: 0.8rem;
+  }
+  .chip {
+    display: inline-flex;
+    align-items: center;
+    gap: 0.35rem;
+    min-height: 32px;
+    padding: 0.2rem 0.7rem;
+    border: 2px solid var(--line);
+    border-radius: 999px;
+    background: var(--card);
+    color: var(--card-fg);
+    font-family: var(--font-head);
+    font-size: 0.75rem;
+    letter-spacing: 0.05em;
+    text-transform: uppercase;
+    white-space: nowrap;
+    cursor: pointer;
+  }
+  .chip[aria-pressed="true"],
+  .chip[aria-current="page"] {
+    background: var(--c3);
+    color: var(--on-c3);
+  }
+  /* Touch screens: compact buttons and chips still give a 44px target. */
+  @media (pointer: coarse), (max-width: 767px) {
+    .btn-sm,
+    .chip {
+      min-height: 44px;
+    }
+  }
+  .field {
+    width: 100%;
+    min-height: 44px;
+    padding: 0.55rem 0.8rem;
+    background: var(--bg);
+    color: var(--fg);
+    border: 3px solid var(--line);
+    border-radius: 6px;
+    font: inherit;
+    box-shadow: inset 3px 3px 0 #0003;
+  }
+  .field::placeholder {
+    color: var(--muted);
+  }
+
+  /* ── comic shapes ──────────────────────────────────────────────────────────────────── */
+  .bubble {
+    position: relative;
+    background: var(--color-paper);
+    color: #16120e;
+    border: 3px solid var(--line);
+    border-radius: 18px;
+    padding: 0.8rem 1rem;
+    box-shadow: var(--shadow-ink-sm);
+  }
+  .bubble::after {
+    content: "";
+    position: absolute;
+    left: 1.6rem;
+    bottom: -16px;
+    width: 22px;
+    height: 18px;
+    background: #fffdf6;
+    border-right: 3px solid var(--line);
+    border-bottom: 3px solid var(--line);
+    transform: skewX(-38deg) rotate(8deg);
+  }
+  .burst {
+    clip-path: polygon(
+      50% 0%,
+      61% 18%,
+      82% 6%,
+      78% 29%,
+      100% 32%,
+      84% 50%,
+      100% 68%,
+      78% 71%,
+      82% 94%,
+      61% 82%,
+      50% 100%,
+      39% 82%,
+      18% 94%,
+      22% 71%,
+      0% 68%,
+      16% 50%,
+      0% 32%,
+      22% 29%,
+      18% 6%,
+      39% 18%
+    );
+  }
+  .tilt-l {
+    rotate: -1.6deg;
+  }
+  .tilt-r {
+    rotate: 1.4deg;
+  }
+  .speed-bg {
+    background: repeating-conic-gradient(from 0deg, var(--c1) 0deg 6deg, var(--c2) 6deg 12deg);
+  }
+
+  /* Theme-switch wipe: a halftone circle grows from the clicked swatch. */
+  .theme-wipe {
+    position: fixed;
+    inset: 0;
+    z-index: 90;
+    pointer-events: none;
+    background:
+      radial-gradient(var(--wipe-c) 2px, transparent 2.5px) 0 0 / 10px 10px,
+      var(--wipe-bg);
+    clip-path: circle(0 at var(--wipe-x) var(--wipe-y));
+    animation: wipe 0.6s var(--ease-out-expo) forwards;
+  }
+  @keyframes wipe {
+    0% {
+      clip-path: circle(0 at var(--wipe-x) var(--wipe-y));
+      opacity: 1;
+    }
+    60% {
+      clip-path: circle(150vmax at var(--wipe-x) var(--wipe-y));
+      opacity: 1;
+    }
+    100% {
+      clip-path: circle(150vmax at var(--wipe-x) var(--wipe-y));
+      opacity: 0;
+    }
+  }
+}
+
+@keyframes wobble {
+  0%,
+  100% {
+    rotate: -2deg;
+  }
+  50% {
+    rotate: 2deg;
+  }
+}
+.wobble {
+  animation: wobble 2.4s ease-in-out infinite;
+}
+@keyframes marquee {
+  to {
+    transform: translateX(-50%);
+  }
+}
+.marquee {
+  animation: marquee 38s linear infinite;
+}
+
+/*
+ * Pre-hydration intro curtain. If the script is slow or fails, it lifts on its own at the intro's
+ * 2.6s budget instead of covering the site; hydration swaps it for the real scene before then.
+ */
+@keyframes curtain-lift {
+  to {
+    visibility: hidden;
+    pointer-events: none;
+  }
+}
+.intro-curtain {
+  animation: curtain-lift 0s linear 2.6s forwards;
+}
+/* Never shown when the visitor prefers reduced motion. */
+@media (prefers-reduced-motion: reduce) {
+  .intro-curtain {
+    display: none;
+  }
+}
+
+/* Lite mode (header toggle) and OS reduced motion both stop decorative CSS motion. */
+html[data-fx="lite"] .wobble,
+html[data-fx="lite"] .marquee {
+  animation: none;
+}
+/* Reduced motion: final states at once, no loops. */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+@layer components {
+  .sr-only-focusable:not(:focus) {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0 0 0 0);
+  }
+
+  .no-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  .no-scrollbar {
+    scrollbar-width: none;
+  }
+}

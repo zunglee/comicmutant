@@ -1,0 +1,200 @@
+{
+  "slug": "doctor-strange",
+  "name": "Doctor Strange",
+  "realName": "Stephen Vincent Strange",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A surgeon who lost his hands and found the universe. Stephen Strange, Marvel's Sorcerer Supreme, guards Earth against magical threats from a townhouse on Bleecker Street.",
+  "origin": "Doctor Strange started as Steve Ditko's idea, and you can see it in every trippy dimension he drew. He and Stan Lee introduced Stephen Strange in Strange Tales #110 in 1963, when Marvel wanted a different flavour of hero built on mysticism instead of muscle. The setup: a brilliant but arrogant surgeon wrecks his hands in a car crash, burns through his money hunting a cure, and ends up in the Himalayas with a mystic called the Ancient One. He goes home a sorcerer and eventually becomes Sorcerer Supreme, Earth's chief guardian against magical threats, working out of a Greenwich Village townhouse. Few heroes start from a more satisfying fall.",
+  "creators": ["Steve Ditko (artist/plotter)", "Stan Lee (writer)"],
+  "firstAppearance": {
+    "title": "Strange Tales",
+    "issue": "110",
+    "year": 1963
+  },
+  "powers": [
+    "Master of spells and the mystic arts",
+    "Mystic relics like the Cloak of Levitation and Eye of Agamotto",
+    "Martial arts training",
+    "Brilliant medical mind"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Defenders",
+    "Illuminati",
+    "Infinity Watch",
+    "Midnight Sons",
+    "New Avengers",
+    "The Order"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "The arrogant surgeon",
+      "beat": "Stephen Strange is a brilliant, arrogant neurosurgeon whose hands are wrecked in a car accident. Searching for a cure, he finds the Ancient One in the Himalayas and becomes a sorcerer."
+    },
+    {
+      "era": "Ditko's dimensions",
+      "years": "1964–1966",
+      "title": "Psychedelic realms",
+      "beat": "Steve Ditko sends Strange through surreal other dimensions to fight the dread Dormammu and meet the cosmic being Eternity, art that won a big following on college campuses."
+    },
+    {
+      "era": "The Defenders",
+      "years": "1971",
+      "title": "Non-team founder",
+      "beat": "Strange forms the Defenders with the Hulk and Namor, a loose team of loners."
+    },
+    {
+      "era": "Sorcerer Supreme",
+      "years": "1973–1974",
+      "title": "Taking the title",
+      "beat": "Steve Englehart and Frank Brunner have the Ancient One die and pass the title of Sorcerer Supreme to Strange."
+    },
+    {
+      "era": "Cost of magic",
+      "years": "2015–2016",
+      "title": "The Last Days of Magic",
+      "beat": "Jason Aaron shows that every spell takes a physical toll on Strange, just as an enemy sets out to wipe magic from existence."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "In the comics, the Eye of Agamotto holds an Infinity Stone.",
+      "spice": 2,
+      "truth": "That is a film idea. In the comics the Eye is a mystical amulet with no Infinity Stone inside."
+    },
+    {
+      "type": "fact",
+      "text": "His home, the Sanctum Sanctorum, sits at 177A Bleecker Street in Greenwich Village.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Pink Floyd's 1968 album A Saucerful of Secrets slipped Doctor Strange artwork into its cover collage.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Stan Lee credited Steve Ditko with bringing him the idea for Doctor Strange.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He was a founding member of the Defenders, alongside the Hulk and Namor.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the Sanctum Sanctorum's address?",
+      "options": [
+        "177A Bleecker Street",
+        "1407 Graymalkin Lane",
+        "4 Yancy Street",
+        "20 Ingram Street"
+      ],
+      "answer": 0,
+      "why": "177A Bleecker Street, Greenwich Village."
+    },
+    {
+      "q": "What was Stephen Strange's job before magic?",
+      "options": ["Lawyer", "Physicist", "Neurosurgeon", "Pilot"],
+      "answer": 2,
+      "why": "He was a top neurosurgeon until a car crash damaged his hands."
+    },
+    {
+      "q": "Who taught Strange the mystic arts?",
+      "options": ["Wong", "The Ancient One", "Baron Mordo", "Clea"],
+      "answer": 1,
+      "why": "The Ancient One trained him in the Himalayas."
+    },
+    {
+      "q": "Which team did he co-found in 1971?",
+      "options": ["Avengers", "Illuminati", "Champions", "Defenders"],
+      "answer": 3,
+      "why": "He formed the Defenders with the Hulk and Namor."
+    }
+  ],
+  "rivals": ["doctor-doom"],
+  "allies": ["hulk", "scarlet-witch", "spider-man", "iron-man"],
+  "theme": {
+    "palette": {
+      "c1": "#1f3a93",
+      "c2": "#b11226",
+      "c3": "#f2c230"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Bends reality, keeps the bedside manner."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "A mystic in a backup slot",
+      "note": "Strange Tales #110 introduces Steve Ditko's sorcerer in a five-page backup story, before his origin was even told."
+    },
+    {
+      "year": 1964,
+      "kind": "comic",
+      "title": "Meeting Dormammu and Clea",
+      "note": "Strange Tales #126 sends Strange into the Dark Dimension, where he first faces Dormammu and meets Clea."
+    },
+    {
+      "year": 1971,
+      "kind": "comic",
+      "title": "Founding the Defenders",
+      "note": "Marvel Feature #1 gathers Strange, the Hulk and the Sub-Mariner as the Defenders, Marvel's famous non-team.",
+      "with": "hulk"
+    },
+    {
+      "year": 1973,
+      "kind": "turn",
+      "title": "Sorcerer Supreme",
+      "note": "Marvel Premiere wraps a cosmic arc with the Ancient One's death, leaving Strange as Earth's top magician."
+    },
+    {
+      "year": 1978,
+      "kind": "screen",
+      "title": "A TV movie pilot",
+      "note": "Peter Hooten plays Strange in a CBS television movie meant to launch a series that never came."
+    },
+    {
+      "year": 1989,
+      "kind": "comic",
+      "title": "Triumph and Torment",
+      "note": "Strange and Doctor Doom team up for a trip into hell to rescue Doom's mother, in a hit graphic novel.",
+      "with": "doctor-doom"
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Benedict Cumberbatch casts in",
+      "note": "Doctor Strange brings the character to the MCU with mind-bending visuals and a folding-city action finale."
+    },
+    {
+      "year": 2021,
+      "kind": "death",
+      "title": "The Death of Doctor Strange",
+      "note": "A murder mystery event kills Stephen, and his wife Clea soon takes over as the new Sorcerer Supreme."
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Doctor_Strange",
+    "wikidata": "https://www.wikidata.org/wiki/Q907767"
+  },
+  "photo": {
+    "file": "doctor-strange.webp",
+    "alt": "Doctor Strange photograph",
+    "artist": "Theme Park Tourist",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Dr._Strange_(30175130414).jpg"
+  }
+}

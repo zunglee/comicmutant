@@ -1,0 +1,162 @@
+{
+  "slug": "minnal-murali",
+  "name": "Minnal Murali",
+  "realName": "Jaison",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Weekend Blockbusters",
+  "summary": "Kerala's lightning-struck tailor: Jaison from the village of Kurukkanmoola, who gains powers on Christmas Eve and becomes its protector. Tovino Thomas in the 2021 Malayalam film.",
+  "origin": "In the 1990s, Jaison is a young tailor who dreams of moving to the US. On Christmas Eve he is struck by lightning at the same moment as Shibu, a lonely outsider, and both gain superpowers. After learning that his real father was Martin, a theatre actor who has died, Jaison disguises himself as Minnal Murali (Lightning Murali), a character from Martin's unfinished play. Shibu frames that masked figure for a deadly fire, so Jaison has to clear his name, win over the village, and finally stop Shibu himself.",
+  "creators": ["Basil Joseph (director)", "Arun Anirudhan (writer)", "Justin Mathew (writer)"],
+  "firstAppearance": {
+    "title": "Minnal Murali",
+    "year": 2021
+  },
+  "powers": [
+    "Superhuman strength",
+    "Super speed",
+    "Telekinetic abilities",
+    "Powers granted by a lightning strike"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "1990s village",
+      "years": "2021",
+      "title": "Kurukkanmoola dreams",
+      "beat": "Jaison wants out of his village and into America, but a disapproving cop and a cancelled engagement keep getting in the way."
+    },
+    {
+      "era": "Christmas Eve",
+      "years": "2021",
+      "title": "One bolt, two men",
+      "beat": "Lightning strikes Jaison and Shibu at the same instant, and both discover strange new powers."
+    },
+    {
+      "era": "The mask",
+      "years": "2021",
+      "title": "His father's hero",
+      "beat": "Hurt by a family secret, Jaison borrows the identity of Minnal Murali from his late father's unfinished play."
+    },
+    {
+      "era": "Framed",
+      "years": "2021",
+      "title": "Fire at the shop",
+      "beat": "Shibu burns down Jaison's tailoring shop, killing Daasan, and blames Minnal Murali."
+    },
+    {
+      "era": "Hero",
+      "years": "2021",
+      "title": "The cliff-edge bus",
+      "beat": "Jaison saves a bus hanging over a cliff and wins the villagers' trust."
+    },
+    {
+      "era": "Showdown",
+      "years": "2021",
+      "title": "Battle at the church",
+      "beat": "In a supersuit, Jaison defeats a grief-maddened Shibu at the village church and vows to keep protecting Kurukkanmoola."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "COVID-19 closed cinemas, so the film premiered at the Mumbai Film Festival on 16 December and on Netflix on Christmas Eve, 24 December 2021.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The hero and the villain get their powers from the same lightning strike.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "The concept poster was unveiled on 21 January 2019, Tovino Thomas's birthday.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Filming was interrupted by both waves of the pandemic and finished in July 2021.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Amar Chitra Katha launched a graphic novel, Minnal Murali Strikes Again, at Comic Con India 2024.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Minnal Murali is Jaison's real name.",
+      "truth": "Minnal Murali is a character from his late father's unfinished play. Jaison takes the name as a disguise.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "When does lightning strike Jaison?",
+      "options": ["Diwali", "Onam", "Christmas Eve", "New Year's Eve"],
+      "answer": 2,
+      "why": "The bolt hits on Christmas Eve, and hits Shibu at the same time."
+    },
+    {
+      "q": "What is Jaison's day job?",
+      "options": ["Tailor", "Fisherman", "Teacher", "Policeman"],
+      "answer": 0,
+      "why": "He's a young village tailor."
+    },
+    {
+      "q": "Where was Minnal Murali released worldwide?",
+      "options": ["Cinemas", "Netflix", "Amazon Prime", "Doordarshan"],
+      "answer": 1,
+      "why": "After a festival premiere in Mumbai, it went straight to Netflix on 24 December 2021."
+    }
+  ],
+  "rivals": ["shibu"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1a237e",
+      "c2": "#c62828",
+      "c3": "#ffeb3b"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "One Christmas Eve bolt, one very surprised village tailor."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Minnal_Murali"
+  },
+  "timeline": [
+    {
+      "year": 2021,
+      "kind": "debut",
+      "title": "Lightning strikes Kurukkanmoola",
+      "note": "Tovino Thomas's village tailor gets superpowers from a lightning bolt. The film premieres at MAMI, then on Netflix on 24 December."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "A global Netflix hit",
+      "note": "It streams worldwide with five dubs and breaks into Netflix's global top 10 for non-English films."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Kerala State awards",
+      "note": "The film picks up four Kerala State Film Awards, Best Visual Effects among them."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Asian Academy win",
+      "note": "Basil Joseph is named Best Director (Fiction) at the Asian Academy Creative Awards in Singapore."
+    },
+    {
+      "year": 2024,
+      "kind": "comic",
+      "title": "Minnal Murali Strikes Again",
+      "note": "Tinkle and Spirit Media unveil a graphic novel at Mumbai Comic Con that carries his story past the film."
+    }
+  ],
+  "heat": 60
+}

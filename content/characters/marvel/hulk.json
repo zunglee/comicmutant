@@ -1,0 +1,195 @@
+{
+  "slug": "hulk",
+  "name": "Hulk",
+  "realName": "Bruce Banner",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Rage is his fuel, and he never runs low. Bruce Banner, a shy physicist caught in a gamma bomb blast, shares his body with the Hulk, Marvel's unstoppable green powerhouse.",
+  "origin": "The Hulk is Jekyll and Hyde with the volume turned all the way up, and Stan Lee happily admitted Frankenstein was in the mix too. Jack Kirby drew The Incredible Hulk #1 in 1962, in which physicist Bruce Banner runs onto a gamma bomb test site to drag teenager Rick Jones to safety and takes the full blast himself. From then on, timid, buttoned-up Bruce shares his life with a towering brute whose strength seems to have no ceiling and climbs the angrier he gets. He was grey for one issue before turning green, and his first solo series lasted only six issues. The tragedy is that the monster is often the more honest of the two.",
+  "creators": ["Stan Lee", "Jack Kirby"],
+  "firstAppearance": {
+    "title": "The Incredible Hulk",
+    "issue": "1",
+    "year": 1962
+  },
+  "powers": [
+    "Strength that rises with his anger, with no clear limit",
+    "Nearly unbreakable body and rapid healing",
+    "Leaps miles in a single bound",
+    "Banner's brilliant scientific mind"
+  ],
+  "affiliations": [
+    "Avengers",
+    "Defenders",
+    "Horsemen of Apocalypse",
+    "Fantastic Four",
+    "Pantheon",
+    "Warbound",
+    "Secret Avengers"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1962",
+      "title": "The gamma bomb",
+      "beat": "Physicist Bruce Banner is caught in a gamma bomb blast while saving teenager Rick Jones and starts turning into a monster. The first Hulk is grey, and his solo comic is cancelled after six issues."
+    },
+    {
+      "era": "Second chance",
+      "years": "1963–1968",
+      "title": "Avenger and backup star",
+      "beat": "The Hulk is a founding Avenger, then stars in Tales to Astonish until his own title comes back in 1968."
+    },
+    {
+      "era": "Wolverine's debut",
+      "years": "1974",
+      "title": "Enter a Canadian",
+      "beat": "The Incredible Hulk #180–181 introduce Wolverine, sent by Canada to stop the Hulk."
+    },
+    {
+      "era": "Peter David era",
+      "years": "1987–1998",
+      "title": "Many Hulks",
+      "beat": "Peter David's 12-year run explores Banner's split personalities, including the grey Las Vegas enforcer Joe Fixit, and ties the Hulk to childhood abuse."
+    },
+    {
+      "era": "Planet Hulk",
+      "years": "2006–2007",
+      "title": "Exile and revenge",
+      "beat": "A group of heroes shoots the Hulk into space. He becomes a gladiator king on the planet Sakaar, then returns in World War Hulk for revenge."
+    },
+    {
+      "era": "Immortal Hulk",
+      "years": "2018–2021",
+      "title": "Horror Hulk",
+      "beat": "Al Ewing reinvents the book as body horror, with a Hulk who rises again every time Banner dies."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "The Hulk was always green.",
+      "spice": 1,
+      "truth": "He was grey in his first issue and turned green in issue #2, partly because the grey printed unevenly."
+    },
+    {
+      "type": "fact",
+      "text": "The Hulk was the first Avenger to quit, walking out in the team's second issue.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The 1970s TV show renamed the character David Banner, and bodybuilder Lou Ferrigno played the Hulk in green paint.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Stan Lee named Frankenstein and Jekyll and Hyde as inspirations for the Hulk.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Planet Hulk was a loose inspiration for the gladiator plot of Thor: Ragnarok (2017).",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What colour was the Hulk in his first appearance?",
+      "options": ["Red", "Grey", "Blue", "Purple"],
+      "answer": 1,
+      "why": "He was grey before turning green in issue #2."
+    },
+    {
+      "q": "What kind of radiation created the Hulk?",
+      "options": ["Cosmic rays", "Terrigen mist", "X-rays", "Gamma radiation"],
+      "answer": 3,
+      "why": "A gamma bomb blast transformed Bruce Banner."
+    },
+    {
+      "q": "Which hero debuted in the Hulk's comic in 1974?",
+      "options": ["Wolverine", "Deadpool", "Punisher", "Ghost Rider"],
+      "answer": 0,
+      "why": "Wolverine debuted in Incredible Hulk #180–181."
+    }
+  ],
+  "rivals": ["thor", "wolverine", "the-thing"],
+  "allies": ["doctor-strange", "captain-america", "iron-man"],
+  "theme": {
+    "palette": {
+      "c1": "#3c8d2f",
+      "c2": "#5b2a86",
+      "c3": "#a4d65e"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "Anger management, failed spectacularly."
+  },
+  "timeline": [
+    {
+      "year": 1962,
+      "kind": "debut",
+      "title": "The gamma bomb",
+      "note": "The Incredible Hulk #1 has Bruce Banner caught in his own test blast and turned into a gray brute at night."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "Founding Avenger",
+      "note": "The Avengers #1 makes the Hulk a founding member, though he quits almost as fast as he joined.",
+      "with": "thor"
+    },
+    {
+      "year": 1966,
+      "kind": "screen",
+      "title": "First cartoon smash",
+      "note": "The Marvel Super Heroes TV cartoon gives the Hulk his own rotating segment."
+    },
+    {
+      "year": 1974,
+      "kind": "comic",
+      "title": "Clawed by a Canadian",
+      "note": "The Incredible Hulk #180 and #181 introduce Wolverine as a government agent sent to stop him.",
+      "with": "wolverine"
+    },
+    {
+      "year": 1977,
+      "kind": "screen",
+      "title": "Bixby and Ferrigno on TV",
+      "note": "The Incredible Hulk TV movie pilot sets up the hit series, with Bill Bixby as Banner and Lou Ferrigno as the green giant."
+    },
+    {
+      "year": 2006,
+      "kind": "comic",
+      "title": "Planet Hulk",
+      "note": "The heroes launch the Hulk into space, where he becomes a gladiator and then a king on an alien world."
+    },
+    {
+      "year": 2008,
+      "kind": "screen",
+      "title": "Joining the MCU",
+      "note": "The Incredible Hulk with Edward Norton brings the character into the new shared Marvel movie world."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "The Immortal Hulk",
+      "note": "Al Ewing's series reinvents the Hulk as a body-horror nightmare that keeps refusing to die."
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hulk",
+    "wikidata": "https://www.wikidata.org/wiki/Q188760"
+  },
+  "photo": {
+    "file": "hulk.webp",
+    "alt": "Hulk photograph",
+    "artist": "Eneas De Troya",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Hulk_(2540708438).jpg"
+  }
+}

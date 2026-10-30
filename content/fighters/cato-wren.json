@@ -1,0 +1,41 @@
+{
+  "slug": "cato-wren",
+  "name": "CATO WREN",
+  "alias": "BACKSTITCH",
+  "kind": "hero",
+  "archetype": "dimensional-traveler",
+  "bio": "A Loom intern's kid who stepped into the Observatory breach in 1997 and walked out of a mountain wall three hours later, the Understitch charted on his arm. He has been crossing ever since and stopped counting in 2019. Nothing is far, only elsewhere.",
+  "catchphrase": "It is not far. It is just elsewhere.",
+  "rig": {
+    "build": "slim",
+    "head": "hood",
+    "cape": false,
+    "skin": "#e0b48c",
+    "suit": "#141b24",
+    "trim": "#6fd3ff",
+    "eye": "#ffd166",
+    "emblem": "diamond"
+  },
+  "stats": {
+    "power": 4,
+    "speed": 5,
+    "defense": 5,
+    "special": 9
+  },
+  "special": {
+    "name": "Understitch Step",
+    "kind": "teleport"
+  },
+  "rivals": ["the-cartographer", "nishi-kapadia"],
+  "theme": {
+    "palette": {
+      "c1": "#6fd3ff",
+      "c2": "#141b24",
+      "c3": "#ffd166"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Every wall is a door you haven't met."
+  },
+  "heat": 70
+}

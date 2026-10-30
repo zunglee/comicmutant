@@ -1,0 +1,189 @@
+{
+  "slug": "mister-fantastic",
+  "name": "Mister Fantastic",
+  "realName": "Dr. Reed Richards",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The smartest man in Marvel, who can also tie himself in a knot. Reed Richards founded and leads the Fantastic Four, stretching into any form while out-thinking most of the universe.",
+  "origin": "Reed Richards can bend and stretch himself into practically any form, and that is only the second most impressive thing about him. Stan Lee and Jack Kirby made him the founder and leader of the Fantastic Four in Fantastic Four #1 in 1961, the genius who took his friends up in an experimental rocket that was bombarded by cosmic rays. Reed came back with a rubbery, elastic body, but his real power is a brain that covers physics, chemistry, engineering and biology, human and alien alike. BusinessWeek once listed him among the ten smartest characters in American comics. His flaw is the classic genius one: he sometimes forgets to look up from the lab and notice his family.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "1",
+    "year": 1961
+  },
+  "powers": [
+    "Stretches and reshapes his body",
+    "Hard to hurt thanks to his elastic form",
+    "Can mimic shapes and disguise himself",
+    "Genius across physics, chemistry, biology and engineering"
+  ],
+  "affiliations": ["Fantastic Four", "Avengers", "Future Foundation", "Defenders", "Illuminati"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1961",
+      "title": "The cosmic ray flight",
+      "beat": "Scientist Reed Richards takes an unapproved rocket flight with his fiancée Sue, her brother Johnny and pilot Ben Grimm. Cosmic rays give them powers, and Reed's body becomes elastic."
+    },
+    {
+      "era": "Family man",
+      "years": "1965",
+      "title": "Marrying Sue",
+      "beat": "Reed and Sue marry in Fantastic Four Annual #3, with a crowd of heroes attending and a wave of villains attacking the ceremony."
+    },
+    {
+      "era": "Galactus",
+      "years": "1966",
+      "title": "Saving the world with science",
+      "beat": "Reed gets hold of the Ultimate Nullifier to drive Galactus away from Earth."
+    },
+    {
+      "era": "Civil War",
+      "years": "2006–2007",
+      "title": "Hard choices",
+      "beat": "Reed backs superhero registration and helps build a dangerous Thor clone, putting a strain on his marriage."
+    },
+    {
+      "era": "Hickman era",
+      "years": "2009–2012",
+      "title": "Solve everything",
+      "beat": "Jonathan Hickman has Reed form the Future Foundation, a think tank of gifted kids, and meet a council of alternate Reeds."
+    },
+    {
+      "era": "Secret Wars",
+      "years": "2015–2018",
+      "title": "Rebuilding reality",
+      "beat": "After the multiverse collapses, Reed and his family vanish to help rebuild it, returning to Earth in 2018."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Fantastic Four #1 in 1961 is widely credited with kicking off the Marvel Age of comics.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The Fantastic Four did not wear costumes in their first two issues.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "A common Marvel story says publisher Martin Goodman wanted a team book after seeing how well DC's Justice League sold.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Reed's son Franklin is one of the most powerful mutants in the Marvel universe.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Pedro Pascal played Reed in the 2025 film The Fantastic Four: First Steps.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What gave the Fantastic Four their powers?",
+      "options": ["Gamma radiation", "Cosmic rays", "Terrigen mist", "A radioactive spider"],
+      "answer": 1,
+      "why": "Cosmic rays hit them during a rocket flight."
+    },
+    {
+      "q": "Who is Reed Richards's wife?",
+      "options": ["Alicia Masters", "Crystal", "Sue Storm", "Medusa"],
+      "answer": 2,
+      "why": "He married Sue Storm in 1965."
+    },
+    {
+      "q": "What group did Reed form in Jonathan Hickman's run?",
+      "options": ["Future Foundation", "Pym Academy", "Avengers Academy", "Jean Grey School"],
+      "answer": 0,
+      "why": "The Future Foundation was a think tank of gifted young minds."
+    }
+  ],
+  "rivals": ["doctor-doom", "galactus"],
+  "allies": ["invisible-woman", "human-torch", "the-thing", "black-panther", "spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#f2f2f2",
+      "c3": "#1a1a1a"
+    },
+    "motif": "tech",
+    "mood": "light",
+    "tagline": "Stretches limbs, budgets and the laws of physics."
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "kind": "debut",
+      "title": "The cosmic-ray flight",
+      "note": "Fantastic Four #1 has scientist Reed Richards lead three others on a rocket flight that changes them forever.",
+      "with": "the-thing"
+    },
+    {
+      "year": 1965,
+      "kind": "turn",
+      "title": "Marrying Sue",
+      "note": "Fantastic Four Annual #3 holds Reed and Sue's wedding, attended by most of the Marvel Universe.",
+      "with": "invisible-woman"
+    },
+    {
+      "year": 1966,
+      "kind": "comic",
+      "title": "Facing the world-eater",
+      "note": "Fantastic Four #48 kicks off the Galactus Trilogy, where Reed must save Earth with science.",
+      "with": "galactus"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "First on TV",
+      "note": "The Hanna-Barbera Fantastic Four cartoon puts Reed on screen for the first time."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Ioan Gruffudd's Reed",
+      "note": "The Fantastic Four film casts Ioan Gruffudd as the brainy, stretchy leader."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Pro-registration in Civil War",
+      "note": "Reed sides with Tony Stark in Civil War, a choice that costs him his marriage for a while.",
+      "with": "iron-man"
+    },
+    {
+      "year": 2015,
+      "kind": "comic",
+      "title": "Secret Wars",
+      "note": "Reed faces Doctor Doom over the last remains of the multiverse, then sets out to rebuild it.",
+      "with": "doctor-doom"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Pedro Pascal's Reed",
+      "note": "The Fantastic Four: First Steps casts Pedro Pascal as a retro-futurist Reed."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mister_Fantastic",
+    "wikidata": "https://www.wikidata.org/wiki/Q865017"
+  },
+  "photo": {
+    "file": "mister-fantastic.webp",
+    "alt": "Mister Fantastic photograph",
+    "artist": "myself (User:Piotrus)",
+    "license": "CC BY-SA 3.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Gen_Con_Indy_2008_-_costumes_169.JPG"
+  }
+}

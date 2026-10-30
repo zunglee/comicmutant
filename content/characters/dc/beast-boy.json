@@ -1,0 +1,173 @@
+{
+  "slug": "beast-boy",
+  "name": "Beast Boy",
+  "realName": "Garfield Mark Logan",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The class clown who can turn into a T. rex. Garfield Logan, the green-skinned shapeshifter of the Doom Patrol and Teen Titans, becomes any animal he can picture.",
+  "origin": "Beast Boy is the class clown of the DC universe, and you should never underestimate the class clown. Arnold Drake and Bob Brown introduced Garfield Logan in Doom Patrol #99 in 1965. As a kid in Africa he caught a rare disease, and the experimental treatment his scientist father used to save him turned his skin green and let him become any animal he could picture, always in the same shade of green. He started out with the Doom Patrol, later spent years in the Teen Titans and went by Changeling for a long stretch. Behind the jokes is a kid who has lost a lot of family, which is why the Titans feel like home to him.",
+  "creators": ["Arnold Drake", "Bob Brown"],
+  "firstAppearance": {
+    "title": "Doom Patrol",
+    "issue": "99",
+    "year": 1965
+  },
+  "powers": ["Turns into any animal", "Heals faster than normal", "Trained hand-to-hand fighter"],
+  "affiliations": [
+    "Teen Titans",
+    "Doom Patrol",
+    "Justice League",
+    "Young Justice",
+    "Titans West",
+    "The Ravagers",
+    "Titans",
+    "Outsiders"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1965",
+      "title": "Doom Patrol kid",
+      "beat": "Garfield Logan appears in Doom Patrol #99. An experimental treatment for a rare disease turned him green and let him become any animal."
+    },
+    {
+      "era": "Changeling",
+      "years": "1980",
+      "title": "Teen Titan",
+      "beat": "He joins The New Teen Titans under the name Changeling and becomes the team's joker."
+    },
+    {
+      "era": "Judas Contract",
+      "years": "1984",
+      "title": "Heartbreak",
+      "beat": "Gar falls for teammate Terra, who turns out to be a spy for Deathstroke. Her betrayal stays with him for years."
+    },
+    {
+      "era": "Back to basics",
+      "years": "2003",
+      "title": "Beast Boy again",
+      "beat": "Geoff Johns's Teen Titans brings back the Beast Boy name, the same year the hit cartoon makes him a fan favourite."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Beast Boy started out as a Teen Titan.",
+      "spice": 1,
+      "truth": "He debuted in Doom Patrol in 1965 and joined the Titans in 1980."
+    },
+    {
+      "type": "fact",
+      "text": "He is green because of the treatment that saved him from a rare illness as a child.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He went by Changeling through most of the 1980s and 1990s.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "The Teen Titans cartoon (2003) and Teen Titans Go! made him one of DC's best-known young heroes.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His animal forms come out green, matching his skin.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which team did Beast Boy debut with?",
+      "options": ["Teen Titans", "Justice League", "Doom Patrol", "Outsiders"],
+      "answer": 2,
+      "why": "He debuted in Doom Patrol #99."
+    },
+    {
+      "q": "What name did Gar use in the 1980s Teen Titans?",
+      "options": ["Changeling", "Shapeshifter", "Morph", "Animal Man"],
+      "answer": 0,
+      "why": "He was Changeling."
+    },
+    {
+      "q": "Which teammate betrayed the Titans in The Judas Contract?",
+      "options": ["Raven", "Terra", "Starfire", "Jinx"],
+      "answer": 1,
+      "why": "Terra was working for Deathstroke."
+    }
+  ],
+  "rivals": ["deathstroke"],
+  "allies": ["raven", "cyborg", "starfire", "nightwing", "flash-wally-west"],
+  "theme": {
+    "palette": {
+      "c1": "#3c8d2f",
+      "c2": "#5b2a86",
+      "c3": "#a4d65e"
+    },
+    "motif": "nature",
+    "mood": "light",
+    "tagline": "Becomes any animal, still eats like a teenager."
+  },
+  "timeline": [
+    {
+      "year": 1965,
+      "kind": "debut",
+      "title": "The green kid",
+      "note": "Doom Patrol #99 introduces Garfield Logan, a green-skinned teen who can turn into any animal."
+    },
+    {
+      "year": 1968,
+      "kind": "turn",
+      "title": "Losing his family",
+      "note": "The Doom Patrol sacrifice themselves to save a small town in issue #121, leaving Gar without his found family."
+    },
+    {
+      "year": 1980,
+      "kind": "turn",
+      "title": "Changeling joins up",
+      "note": "Now calling himself Changeling, Gar becomes the class clown of the New Teen Titans.",
+      "with": "raven"
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "The Judas Contract",
+      "note": "Gar's crush Terra is unmasked as Deathstroke's mole inside the Titans, and his heart is shattered.",
+      "with": "deathstroke"
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Teen Titans on TV",
+      "note": "Back as Beast Boy, Gar becomes the goofy, big-hearted core of the Teen Titans cartoon."
+    },
+    {
+      "year": 2013,
+      "kind": "legacy",
+      "title": "Teen Titans Go!",
+      "note": "The slapstick spinoff turns Beast Boy into a kids' TV fixture for more than a decade."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Titans",
+      "note": "Ryan Potter plays Gar in the live-action Titans series, tiger form and all."
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Beast_Boy",
+    "wikidata": "https://www.wikidata.org/wiki/Q575227"
+  },
+  "photo": {
+    "file": "beast-boy.webp",
+    "alt": "Beast Boy photograph",
+    "artist": "Gage Skidmore from Peoria, AZ, United States of America",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Greg_Cipes_(33669887092).jpg"
+  }
+}

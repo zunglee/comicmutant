@@ -1,0 +1,41 @@
+{
+  "slug": "tessaly-marr",
+  "name": "TESSALY MARR",
+  "alias": "PLATE",
+  "kind": "hero",
+  "archetype": "armored-technologist",
+  "bio": "A Kessery Station materials engineer whose skin answered a depressurising corridor by growing plate. She has refined the pattern ever since. The suit is not built, it is grown. Please stop asking who made it.",
+  "catchphrase": "The suit is not built. It is grown.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#a0674a",
+    "suit": "#ffb13b",
+    "trim": "#141b24",
+    "eye": "#29f0ff",
+    "emblem": "diamond"
+  },
+  "stats": {
+    "power": 6,
+    "speed": 4,
+    "defense": 9,
+    "special": 6
+  },
+  "special": {
+    "name": "Plate Volley",
+    "kind": "projectile"
+  },
+  "rivals": ["ossian-krell", "tarsus-vell"],
+  "theme": {
+    "palette": {
+      "c1": "#ffb13b",
+      "c2": "#141b24",
+      "c3": "#ff6b35"
+    },
+    "motif": "nature",
+    "mood": "dark",
+    "tagline": "Grown armour. Zero apologies."
+  },
+  "heat": 64
+}

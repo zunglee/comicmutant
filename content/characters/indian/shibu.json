@@ -1,0 +1,134 @@
+{
+  "slug": "shibu",
+  "name": "Shibu",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Weekend Blockbusters",
+  "summary": "Minnal Murali's tragic villain: a lonely outcast struck by the same lightning as the hero, whose obsessive love turns his powers destructive. Played by Guru Somasundaram (2021).",
+  "origin": "Shibu is a social outcast who has carried a torch for his childhood sweetheart Usha for years, though she resents him. Struck by lightning on Christmas Eve along with Jaison, he gains the same powers. He first uses them to defend Usha and robs a bank to pay for her daughter's surgery. When Usha's brother Daasan opposes the match, Shibu burns down Jaison's shop in a rage, which kills Daasan, and frames Minnal Murali. After an explosion kills Usha and her daughter, his grief turns into a rampage.",
+  "creators": ["Basil Joseph (director)", "Arun Anirudhan (writer)", "Justin Mathew (writer)"],
+  "firstAppearance": {
+    "title": "Minnal Murali",
+    "year": 2021
+  },
+  "powers": [
+    "Superhuman strength",
+    "Telekinetic abilities",
+    "Same lightning-born powers as Jaison"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Outsider",
+      "years": "2021",
+      "title": "Love from the margins",
+      "beat": "Shibu, mocked by the village, still longs for Usha."
+    },
+    {
+      "era": "Christmas Eve",
+      "years": "2021",
+      "title": "The shared bolt",
+      "beat": "He's struck by lightning at the same moment as Jaison."
+    },
+    {
+      "era": "For Usha",
+      "years": "2021",
+      "title": "A bank job",
+      "beat": "Shibu robs a bank to pay for Usha's daughter's surgery, not knowing the bill has already been paid with money stolen from Jaison."
+    },
+    {
+      "era": "Frame job",
+      "years": "2021",
+      "title": "Fire and blame",
+      "beat": "In a fit of anger he burns down Jaison's shop, killing Daasan, and blames Minnal Murali."
+    },
+    {
+      "era": "Grief",
+      "years": "2021",
+      "title": "Siege at the church",
+      "beat": "After Usha and her daughter die, he terrorises a church congregation until Jaison defeats him."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Critics singled out Guru Somasundaram's performance as one of the film's biggest strengths.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Hero and villain share the same origin moment, struck by one bolt on the same night.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Shibu is evil from the start.",
+      "truth": "He begins as a lonely man who first uses his powers to protect Usha. Grief and obsession turn him.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His bank robbery for Usha's daughter turns out to be unnecessary. Daasan had already paid by secretly taking Jaison's visa savings.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who played Shibu?",
+      "options": ["Tovino Thomas", "Basil Joseph", "Vinay Rai", "Guru Somasundaram"],
+      "answer": 3,
+      "why": "Tamil actor Guru Somasundaram played Shibu."
+    },
+    {
+      "q": "Whom does Shibu love?",
+      "options": ["Usha", "Bincy", "Biji", "Meenakshi"],
+      "answer": 0,
+      "why": "His childhood sweetheart Usha."
+    }
+  ],
+  "rivals": ["minnal-murali"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#3e2723",
+      "c2": "#ff6f00",
+      "c3": "#90a4ae"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Same bolt, same powers, a much lonelier heart."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Minnal_Murali"
+  },
+  "timeline": [
+    {
+      "year": 2021,
+      "kind": "debut",
+      "title": "Guru Somasundaram's Shibu",
+      "note": "The village outcast is hit by the same bolt as Jaison and wakes up with the same powers.",
+      "with": "minnal-murali"
+    },
+    {
+      "year": 2021,
+      "kind": "turn",
+      "title": "The bank job",
+      "note": "He robs a bank to pay for a child's operation, his first big step from lonely man to menace."
+    },
+    {
+      "year": 2021,
+      "kind": "turn",
+      "title": "Siege at the church",
+      "note": "After Usha dies, he holds a church congregation in terror until Minnal Murali brings him down.",
+      "with": "minnal-murali"
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Acting honours",
+      "note": "Guru Somasundaram wins SIIMA's negative-role award and an Asian Academy Creative Awards acting prize for the part."
+    }
+  ],
+  "heat": 45
+}

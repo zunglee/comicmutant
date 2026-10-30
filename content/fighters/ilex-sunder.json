@@ -1,0 +1,41 @@
+{
+  "slug": "ilex-sunder",
+  "name": "ILEX SUNDER",
+  "alias": "LANCE",
+  "kind": "hero",
+  "archetype": "cosmic-warrior",
+  "bio": "A Kessery Station engineer caught in the flarelight when the outer ring tore loose. Everyone else on the Lance Deck died. Ilex walked out carrying light in both hands and has never fully put it down. It is not a weapon, just a lamp that lost its temper.",
+  "catchphrase": "It is not a weapon. It is a lamp that lost its temper.",
+  "rig": {
+    "build": "normal",
+    "head": "helmet",
+    "cape": true,
+    "skin": "#6b3f26",
+    "suit": "#ff7db0",
+    "trim": "#1b1b3a",
+    "eye": "#fff6a0",
+    "emblem": "star"
+  },
+  "stats": {
+    "power": 7,
+    "speed": 5,
+    "defense": 5,
+    "special": 8
+  },
+  "special": {
+    "name": "Lamp's Temper",
+    "kind": "beam"
+  },
+  "rivals": ["grath-holloway", "tarsus-vell"],
+  "theme": {
+    "palette": {
+      "c1": "#ff7db0",
+      "c2": "#07090d",
+      "c3": "#ffe27a"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Carrying light, barely holding it."
+  },
+  "heat": 75
+}

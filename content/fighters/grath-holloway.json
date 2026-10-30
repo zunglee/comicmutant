@@ -1,0 +1,41 @@
+{
+  "slug": "grath-holloway",
+  "name": "GRATH HOLLOWAY",
+  "alias": "GRIST",
+  "kind": "villain",
+  "archetype": "mass-giant",
+  "bio": "A demolition contractor who found the work got easier when he weighed as much as the building. Hired in 2004 to bring down Kessery Station's outer ring, he did, then walked out through the hole. He has never said who paid. A hundred tonnes of bad news.",
+  "catchphrase": "Everything comes down. I just pick when.",
+  "rig": {
+    "build": "heavy",
+    "head": "bare",
+    "cape": false,
+    "skin": "#8ccf3a",
+    "suit": "#23272b",
+    "trim": "#ffb703",
+    "eye": "#ff2a2a",
+    "emblem": "fang"
+  },
+  "stats": {
+    "power": 9,
+    "speed": 2,
+    "defense": 9,
+    "special": 4
+  },
+  "special": {
+    "name": "Demolition Drop",
+    "kind": "shockwave"
+  },
+  "rivals": ["orrin-halvane", "rook-anselm", "ilex-sunder"],
+  "theme": {
+    "palette": {
+      "c1": "#b4ff3b",
+      "c2": "#07090d",
+      "c3": "#ffb703"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "Everything comes down eventually."
+  },
+  "heat": 65
+}

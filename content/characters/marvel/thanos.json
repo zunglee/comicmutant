@@ -1,0 +1,183 @@
+{
+  "slug": "thanos",
+  "name": "Thanos",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The mad Titan who wiped out half the universe to impress Death. Thanos, a near-unstoppable warlord from Saturn's moon, keeps grabbing for cosmic power the Avengers have to take back.",
+  "origin": "Thanos is a supervillain who fell in love with Death, the actual personification, and that tells you most of what you need to know. Jim Starlin created him for The Invincible Iron Man #55 in 1973, an odd debut for a cosmic tyrant. He is one of the godlike Eternals, raised on Titan, a moon of Saturn, but carries the Deviant gene, which explains the purple, craggy look and the outcast's chip on his shoulder. Super strong, nearly impossible to hurt and a brilliant strategist, he keeps reaching for ultimate power through the Cosmic Cube and the Infinity Gems. In The Infinity Gauntlet (1991) he erased half of all life to win her over. The Avengers, X-Men and Guardians have all had to stop him.",
+  "creators": ["Jim Starlin"],
+  "firstAppearance": {
+    "title": "The Invincible Iron Man",
+    "issue": "55",
+    "year": 1973
+  },
+  "powers": [
+    "Immense strength and near-invulnerability",
+    "Brilliant strategist and scientist",
+    "Fires energy blasts",
+    "Eternal biology that makes him hard to kill",
+    "Wields cosmic artifacts like the Infinity Gems",
+    "Skilled fighter"
+  ],
+  "affiliations": ["Infinity Watch", "Black Order"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1973",
+      "title": "The Mad Titan",
+      "beat": "Jim Starlin introduces Thanos in The Invincible Iron Man #55, a death-worshipping warlord from Saturn's moon Titan."
+    },
+    {
+      "era": "Cosmic Cube saga",
+      "years": "1973–1974",
+      "title": "Captain Marvel's foe",
+      "beat": "Thanos seizes the Cosmic Cube and briefly becomes all-powerful before Mar-Vell, the Kree Captain Marvel, defeats him."
+    },
+    {
+      "era": "First gem quest",
+      "years": "1977",
+      "title": "Turned to stone",
+      "beat": "Thanos tries to use the Soul Gem to destroy stars, and is stopped by Adam Warlock and the Avengers."
+    },
+    {
+      "era": "Infinity Gauntlet",
+      "years": "1991",
+      "title": "Half of all life",
+      "beat": "Thanos gathers all six Infinity Gems and wipes out half of all life in the universe to impress Death. He loses the Gauntlet in the end."
+    },
+    {
+      "era": "Infinity",
+      "years": "2013",
+      "title": "Invasion of Earth",
+      "beat": "In Jonathan Hickman's Infinity, Thanos attacks Earth while the Avengers are away, hunting for his secret son."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "In the comics, Thanos wiped out half the universe to fix overpopulation.",
+      "spice": 2,
+      "truth": "That is the film version. In The Infinity Gauntlet (1991) he did it to win the love of Death herself."
+    },
+    {
+      "type": "gossip",
+      "text": "Jim Starlin has said editor Roy Thomas told him to beef up Thanos, and Starlin took cues from Jack Kirby's Darkseid.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His name echoes Thanatos, the Greek personification of death.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Josh Brolin played him through motion capture in the Avengers films.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His first appearance was in an Iron Man comic, not an Avengers one.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where was Thanos born?",
+      "options": ["Titan", "Xandar", "Hala", "Sakaar"],
+      "answer": 0,
+      "why": "He is from Titan, a moon of Saturn."
+    },
+    {
+      "q": "In the comics, who was Thanos trying to impress?",
+      "options": ["Gamora", "Mistress Death", "Nebula", "Hela"],
+      "answer": 1,
+      "why": "He was in love with Death."
+    },
+    {
+      "q": "In which 1991 story did he wipe out half the universe?",
+      "options": ["Secret Wars", "Annihilation", "The Infinity Gauntlet", "Civil War"],
+      "answer": 2,
+      "why": "The Infinity Gauntlet (1991)."
+    }
+  ],
+  "rivals": ["iron-man", "thor", "captain-america", "hulk"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#5b2a86",
+      "c2": "#c9a227",
+      "c3": "#2e5aa8"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Big chin, bigger plans, terrible romance advice."
+  },
+  "timeline": [
+    {
+      "year": 1973,
+      "kind": "debut",
+      "title": "The Mad Titan",
+      "note": "The Invincible Iron Man #55 introduces Thanos, a Jim Starlin villain who worships Death.",
+      "with": "iron-man"
+    },
+    {
+      "year": 1973,
+      "kind": "comic",
+      "title": "Captain Marvel's foe",
+      "note": "Captain Marvel's book becomes a cosmic epic as Thanos goes after the first Cosmic Cube."
+    },
+    {
+      "year": 1977,
+      "kind": "death",
+      "title": "Turned to stone",
+      "note": "Marvel Two-in-One Annual #2 has Thanos turned to stone after a two-part clash with the heroes.",
+      "with": "the-thing"
+    },
+    {
+      "year": 1990,
+      "kind": "return",
+      "title": "Back from the dead",
+      "note": "Silver Surfer #34 brings Thanos back from death with a new mission from Mistress Death."
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "The Infinity Gauntlet",
+      "note": "Thanos gathers the six Infinity Gems and erases half of all life in one snap."
+    },
+    {
+      "year": 2012,
+      "kind": "screen",
+      "title": "The MCU's biggest tease",
+      "note": "The Avengers mid-credit scene shows Thanos smiling in the final shot, hinting at the bigger saga."
+    },
+    {
+      "year": 2013,
+      "kind": "comic",
+      "title": "Infinity",
+      "note": "Thanos invades Earth while its heroes are away, hunting for his hidden son."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Avengers: Infinity War",
+      "note": "Josh Brolin's Thanos snaps half the universe away in one of the most famous movie endings ever.",
+      "with": "iron-man"
+    }
+  ],
+  "heat": 85,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thanos",
+    "wikidata": "https://www.wikidata.org/wiki/Q2276627"
+  },
+  "photo": {
+    "file": "thanos.webp",
+    "alt": "Thanos photograph",
+    "artist": "Gab99999",
+    "license": "CC BY-SA 4.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:THANOS-Cosplay.jpg"
+  }
+}

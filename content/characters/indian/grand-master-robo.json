@@ -1,0 +1,139 @@
+{
+  "slug": "grand-master-robo",
+  "name": "Grand Master Robo",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Super Commando Dhruva's archenemy: a half-machine crime lord who leads the worldwide terror network Robo Army. He is also the father of Dhruva's love, Natasha.",
+  "origin": "Robo is a global crime boss whose left half is metal, with a laser fitted into his left eye. He first turned up in a cameo in Maut Ka Olympic, then got a full story in the 1991 special named after him, Raj Comics' first solo-hero special issue. That issue also introduced his daughter Natasha, whose love for Dhruva keeps pulling her between her father's syndicate and the hero.",
+  "creators": ["Anupam Sinha"],
+  "firstAppearance": {
+    "title": "Maut Ka Olympic",
+    "issue": "GENL #116",
+    "year": 1989
+  },
+  "powers": [
+    "Metal left half of his body",
+    "Laser built into his left eye",
+    "Commands the worldwide Robo Army",
+    "Criminal mastermind with huge resources"
+  ],
+  "affiliations": ["Robo Army"],
+  "storyline": [
+    {
+      "era": "Cameo",
+      "years": "1989",
+      "title": "Maut Ka Olympic",
+      "beat": "Robo makes a brief first appearance in a Dhruva general issue."
+    },
+    {
+      "era": "Main event",
+      "years": "1991",
+      "title": "Grand Master Robo",
+      "beat": "Special #2 is a full Dhruva vs. Robo story. It introduces Natasha and is often named among Dhruva's best stories."
+    },
+    {
+      "era": "Family feud",
+      "years": "1996",
+      "title": "Commander Natasha",
+      "beat": "Robo's past with Natasha comes out, and she leaves Dhruva to rejoin her father's crime syndicate."
+    },
+    {
+      "era": "Legacy",
+      "years": "1990s onward",
+      "title": "The nemesis",
+      "beat": "Robo becomes Dhruva's best-known and most frequent villain."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Robo's 1989 debut was just a cameo. His big story arrived two years later.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Special #2, named after him, was Raj Comics' first special issue built around a single hero.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Anupam Sinha says he worked on the Robo special during a break in Mumbai and drew his actual room into one of the last panels.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Grand Master Robo is a robot.",
+      "truth": "Despite the name, he's a man. Only the left half of his body is metal, and he has a laser eye.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "First printings of the Grand Master Robo special are now rare collectibles.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How is Grand Master Robo related to Natasha?",
+      "options": ["Uncle", "Husband", "Father", "Creator"],
+      "answer": 2,
+      "why": "Natasha, Dhruva's love interest, is Robo's daughter."
+    },
+    {
+      "q": "Which of Robo's eyes holds a laser?",
+      "options": ["The left", "The right", "Both", "Neither"],
+      "answer": 0,
+      "why": "His left side is metallic, including a laser in the left eye."
+    }
+  ],
+  "rivals": ["super-commando-dhruva"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#7a7f87",
+      "c2": "#1b1b1b",
+      "c3": "#ff1f1f"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Half man, half machine, all father-in-law nightmare."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies",
+    "dhruva": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+    "supporting": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters"
+  },
+  "timeline": [
+    {
+      "year": 1989,
+      "kind": "debut",
+      "title": "Maut Ka Olympic",
+      "note": "Robo slips into a Dhruva general issue, GENL #116, for a short first appearance.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "Headlining Special #2",
+      "note": "Raj Comics' first solo-hero special carries his name and reveals that Natasha is his daughter.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Robo Ka Pratishodh",
+      "note": "GENL #460 wraps up a two-part story with Robo coming back to settle scores with Dhruva.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 1996,
+      "kind": "turn",
+      "title": "Natasha comes home",
+      "note": "In Commander Natasha his daughter leaves Dhruva behind and joins the family crime business.",
+      "with": "super-commando-dhruva"
+    }
+  ],
+  "heat": 35
+}

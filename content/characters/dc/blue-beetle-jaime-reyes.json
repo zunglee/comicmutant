@@ -1,0 +1,175 @@
+{
+  "slug": "blue-beetle-jaime-reyes",
+  "name": "Blue Beetle (Jaime Reyes)",
+  "realName": "Jaime Reyes",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A Texas teenager with alien battle armor fused to his spine. Jaime Reyes is the third Blue Beetle, bonded to a talking scarab called Khaji Da that keeps trying to make him a weapon.",
+  "origin": "Jaime Reyes picked up a strange blue scarab and woke up with it welded to his spine, and the best part is that his family is in on the secret, which is refreshingly rare. Keith Giffen, John Rogers and Cully Hamner introduced him in Infinite Crisis #3 in 2006 as the third hero called Blue Beetle, after Dan Garret and Ted Kord. The scarab, found in his hometown of El Paso, Texas, turned out to be alien tech with a mind of its own, a talking AI called Khaji Da. The suit grows wings, blades, cannons and shields on demand and translates alien languages. Jaime's struggle to keep the scarab from taking over makes him one of DC's most likeable teen heroes.",
+  "creators": ["Keith Giffen", "John Rogers", "Cully Hamner"],
+  "firstAppearance": {
+    "title": "Infinite Crisis",
+    "issue": "3",
+    "year": 2006
+  },
+  "powers": [
+    "Armor that flies",
+    "Boosted strength and durability",
+    "Forms blades, cannons and other weapons",
+    "Translates alien languages",
+    "Projects energy shields"
+  ],
+  "affiliations": [
+    "Justice League",
+    "Kord Industries",
+    "Justice League International",
+    "Teen Titans",
+    "Young Justice",
+    "Secret Six"
+  ],
+  "storyline": [
+    {
+      "era": "Legacy",
+      "years": "1939–2005",
+      "title": "The name before Jaime",
+      "beat": "The Blue Beetle name begins with Dan Garret at Fox in 1939 and passes to inventor Ted Kord at Charlton in 1966. DC buys the Charlton heroes in 1983, and Ted is killed in 2005."
+    },
+    {
+      "era": "Debut",
+      "years": "2006",
+      "title": "The scarab",
+      "beat": "In El Paso, Texas, teenager Jaime Reyes finds the scarab, which fuses to his spine and wraps him in alien armour."
+    },
+    {
+      "era": "The Reach",
+      "years": "2006–2007",
+      "title": "Alien origins",
+      "beat": "Jaime learns the scarab was made by the Reach, an alien empire that uses such scarabs to prepare worlds for conquest. He fights to stay himself."
+    },
+    {
+      "era": "New 52",
+      "years": "2011",
+      "title": "Relaunched",
+      "beat": "A rebooted solo series retells Jaime's origin."
+    },
+    {
+      "era": "Big screen",
+      "years": "2023",
+      "title": "Blue Beetle film",
+      "beat": "Xolo Maridueña stars as Jaime in Blue Beetle (2023), with a family-centred story set in a fictional city."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Jaime Reyes was the first Blue Beetle.",
+      "spice": 1,
+      "truth": "He is the third major Blue Beetle, after Dan Garret (1939) and Ted Kord (1966)."
+    },
+    {
+      "type": "fact",
+      "text": "The scarab is an AI that can talk, and the comics call it Khaji Da.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Ted Kord, the Charlton Blue Beetle, partly inspired Nite Owl in Watchmen.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His predecessor Ted Kord was killed by Maxwell Lord in 2005, setting up Jaime's debut.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Jaime hails from El Paso, Texas, and his family plays a big part in his stories.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Jaime Reyes's hometown?",
+      "options": ["Keystone City", "El Paso", "Coast City", "Metropolis"],
+      "answer": 1,
+      "why": "El Paso, Texas."
+    },
+    {
+      "q": "What is the scarab's name?",
+      "options": ["Mongul", "Ix", "Khaji Da", "Lobo"],
+      "answer": 2,
+      "why": "The scarab is called Khaji Da."
+    },
+    {
+      "q": "Which Blue Beetle was killed by Maxwell Lord?",
+      "options": ["Ted Kord", "Dan Garret", "Booster Gold", "Blue Jay"],
+      "answer": 0,
+      "why": "Ted Kord died in 2005."
+    }
+  ],
+  "rivals": [],
+  "allies": ["booster-gold", "starfire", "beast-boy"],
+  "theme": {
+    "palette": {
+      "c1": "#1f5fbf",
+      "c2": "#0b1d51",
+      "c3": "#7fdbff"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Teen with an alien backpack that talks back."
+  },
+  "timeline": [
+    {
+      "year": 2006,
+      "kind": "debut",
+      "title": "The scarab bonds",
+      "note": "Infinite Crisis #3 sees El Paso teen Jaime Reyes find the ancient blue scarab, which fuses to his spine."
+    },
+    {
+      "year": 2006,
+      "kind": "comic",
+      "title": "His own book",
+      "note": "Blue Beetle #1 launches Jaime's series, full of family, friends and a sarcastic alien weapon."
+    },
+    {
+      "year": 2008,
+      "kind": "comic",
+      "title": "Booster to the rescue",
+      "note": "Booster Gold swoops in to save Jaime and the scarab at the climax of Blue Beetle #25.",
+      "with": "booster-gold"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Live-action debut",
+      "note": "Jaime suits up on Smallville in an episode where he crosses paths with Booster Gold.",
+      "with": "booster-gold"
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "New 52 relaunch",
+      "note": "A new Blue Beetle #1 restarts Jaime's story from scratch for the New 52."
+    },
+    {
+      "year": 2012,
+      "kind": "screen",
+      "title": "Young Justice",
+      "note": "Jaime joins the team in the second season of Young Justice, scarab arguments and all."
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Blue Beetle movie",
+      "note": "Xolo Mariduena stars in Blue Beetle, a big-screen family story centred on a Latino superhero."
+    }
+  ],
+  "heat": 45,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)",
+    "wikidata": "https://www.wikidata.org/wiki/Q3806187"
+  }
+}

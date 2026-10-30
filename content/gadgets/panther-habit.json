@@ -1,0 +1,52 @@
+{
+  "slug": "panther-habit",
+  "name": "Panther Habit",
+  "owner": "black-panther",
+  "firstSeen": {
+    "title": "Fantastic Four #52",
+    "year": 1966
+  },
+  "summary": "The ceremonial suit of Wakanda's king, laced with vibranium, the metal that soaks up impact. It grew from a simple cowl and cape into armour that can store a blow and hit back with it.",
+  "blueprint": "armor",
+  "parts": [
+    {
+      "label": "Mask",
+      "fact": "Kirby's first cover for Fantastic Four #52 showed a cowl with the face exposed; it was printed as a full mask. Modern masks add comms and lenses that see UV and infrared."
+    },
+    {
+      "label": "Kinetic chest",
+      "fact": "On film, the nanite suit Shuri designs in Black Panther (2018) drinks in the force of a strike, glows purple along its patterned lines, then dumps that energy back out in a blast."
+    },
+    {
+      "label": "Claws",
+      "fact": "Later comics give the finger gauntlets razor-sharp claws, so the king is never unarmed even when he carries no separate weapon."
+    },
+    {
+      "label": "Soles",
+      "fact": "In the comics, vibranium threaded through the boot soles soaks up the shock of impacts, so long drops and hard landings barely jar him."
+    },
+    {
+      "label": "Back (cape gone)",
+      "fact": "Kirby's earliest version of the costume had a cape and collar; he soon trimmed both away, leaving the clean all-black silhouette the character still wears."
+    },
+    {
+      "label": "Vibranium weave",
+      "fact": "Wakandan vibranium, introduced in Fantastic Four #53 (1966), absorbs vibration and kinetic energy. Writers Priest and Hudlin drew the suit as bulletproof armour."
+    }
+  ],
+  "trivia": [
+    "Kirby's first concept for the hero was a swashbuckler named the Coal Tiger before Stan Lee asked for changes.",
+    "In the 1970s Jungle Action series, artists gave T'Challa a gold-chain look inspired by Isaac Hayes's outfit in Wattstax (1973).",
+    "On film, the suit concept came from Marvel designer Ryan Meinerding, with the triangle-patterned details worked out by Ruth E. Carter's costume team.",
+    "Ruth E. Carter won the Academy Award for costume design for Black Panther, and a suit worn by Chadwick Boseman is in the Smithsonian's collection.",
+    "The habit's live-action debut came in Captain America: Civil War (2016)."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Black_Panther_(character)",
+    "https://en.wikipedia.org/wiki/Vibranium",
+    "https://scifiinterfaces.com/tag/suit/",
+    "https://www.wbur.org/onpoint/2018/10/31/ruth-e-carter-costume-design-black-panther",
+    "https://3d.si.edu/object/3d/costume-black-panther-worn-chadwick-boseman%3Abebffbcb-1435-4626-b4d1-b9dc0b7d63f7",
+    "https://13thdimension.com/13-covers-black-panther-in-the-silver-age/"
+  ]
+}

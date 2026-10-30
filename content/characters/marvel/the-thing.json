@@ -1,0 +1,188 @@
+{
+  "slug": "the-thing",
+  "name": "Thing",
+  "realName": "Ben Grimm",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A rock-skinned bruiser with the biggest heart on the team. Ben Grimm, the Fantastic Four's pilot turned powerhouse, punches first, jokes second and never stops looking out for his family.",
+  "origin": "The Thing is the heart of the Fantastic Four, wrapped in a hide of orange rock. Ben Grimm was Reed Richards's best friend and the pilot who flew the rocket in Fantastic Four #1 in 1961, and the cosmic rays left him permanently monstrous while the others could switch their powers off. Stan Lee and Jack Kirby gave him tremendous strength and toughness, a Lower East Side wisecrack for every occasion and a famous battle cry about clobbering. Kirby saw a lot of himself in the tough, kindhearted kid from Yancy Street. What makes Ben great is that he could stay bitter about his looks forever, and instead he keeps showing up for his family.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist)"],
+  "firstAppearance": {
+    "title": "Fantastic Four",
+    "issue": "1",
+    "year": 1961
+  },
+  "powers": [
+    "Enormous strength",
+    "Rocky hide that is very hard to hurt",
+    "Tireless stamina",
+    "Experienced pilot and street brawler"
+  ],
+  "affiliations": ["Fantastic Four", "Avengers", "Guardians of the Galaxy", "Future Foundation"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1961",
+      "title": "Rocky road",
+      "beat": "Test pilot Ben Grimm flies Reed Richards's rocket. Cosmic rays turn him into a rock-skinned powerhouse, and unlike his teammates he cannot change back."
+    },
+    {
+      "era": "True love",
+      "years": "1962",
+      "title": "Alicia Masters",
+      "beat": "Ben meets Alicia Masters, a blind sculptor who loves him for who he is. She becomes his longtime love."
+    },
+    {
+      "era": "Team-ups",
+      "years": "1974–1983",
+      "title": "Marvel Two-in-One",
+      "beat": "Ben headlines his own team-up comic, pairing with a different hero almost every month."
+    },
+    {
+      "era": "Secret Wars",
+      "years": "1984–1986",
+      "title": "Staying behind",
+      "beat": "Ben chooses to stay on the Battleworld after the Secret Wars, and She-Hulk takes his place in the Fantastic Four for a while."
+    },
+    {
+      "era": "Meeting the maker",
+      "years": "2004",
+      "title": "Heaven",
+      "beat": "When Ben dies, the team rescues him from heaven, where the creator turns out to look just like Jack Kirby."
+    },
+    {
+      "era": "Wedding",
+      "years": "2019",
+      "title": "Finally married",
+      "beat": "Ben and Alicia marry, decades after they first met."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "The Thing has always looked like craggy orange rock.",
+      "spice": 1,
+      "truth": "In his first issues he looked lumpy and clay-like. The rocky plates came in over the 1960s."
+    },
+    {
+      "type": "fact",
+      "text": "He grew up on Yancy Street on New York's Lower East Side, and the Yancy Street Gang still pranks him.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "A 2002 story confirmed that Ben is Jewish.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Jack Kirby often said Ben Grimm was a lot like himself, and a 2004 story shows God looking like Kirby.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "She-Hulk replaced him on the team in 1984.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Ben Grimm's longtime love?",
+      "options": ["Sharon Ventura", "Alicia Masters", "Crystal", "Medusa"],
+      "answer": 1,
+      "why": "Alicia Masters, a blind sculptor."
+    },
+    {
+      "q": "Which street did Ben grow up on?",
+      "options": ["Bleecker Street", "Ingram Street", "Yancy Street", "Graymalkin Lane"],
+      "answer": 2,
+      "why": "Yancy Street on the Lower East Side."
+    },
+    {
+      "q": "Who took Ben's place in the Fantastic Four in 1984?",
+      "options": ["She-Hulk", "Medusa", "Crystal", "Ms. Marvel"],
+      "answer": 0,
+      "why": "She-Hulk joined after the Secret Wars."
+    }
+  ],
+  "rivals": ["doctor-doom", "hulk", "galactus"],
+  "allies": ["human-torch", "mister-fantastic", "invisible-woman", "spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#e8792b",
+      "c2": "#1f3a93",
+      "c3": "#8b4513"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Rocks for skin, heart of a softie."
+  },
+  "timeline": [
+    {
+      "year": 1961,
+      "kind": "debut",
+      "title": "Rocky road",
+      "note": "Fantastic Four #1 introduces Ben Grimm, a pilot who comes back from space as a rocky orange monster.",
+      "with": "mister-fantastic"
+    },
+    {
+      "year": 1962,
+      "kind": "comic",
+      "title": "Meeting Alicia",
+      "note": "Fantastic Four #8 introduces Alicia Masters, a blind sculptor who loves Ben for who he is."
+    },
+    {
+      "year": 1963,
+      "kind": "comic",
+      "title": "First clash with the Hulk",
+      "note": "Fantastic Four #12 pits Ben against the Hulk, kicking off one of comics' best rivalries.",
+      "with": "hulk"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Cartoon clobbering",
+      "note": "The Hanna-Barbera Fantastic Four cartoon brings Ben to TV for the first time."
+    },
+    {
+      "year": 1974,
+      "kind": "comic",
+      "title": "Marvel Two-in-One",
+      "note": "Ben gets his own team-up title, pairing with a different hero each month."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Michael Chiklis' Ben",
+      "note": "The Fantastic Four film puts Michael Chiklis in a full rock suit as Ben."
+    },
+    {
+      "year": 2019,
+      "kind": "turn",
+      "title": "Finally married",
+      "note": "Fantastic Four #5 holds Ben and Alicia's wedding, a long-awaited moment for fans."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Ebon Moss-Bachrach's Ben",
+      "note": "The Fantastic Four: First Steps casts Ebon Moss-Bachrach as Ben in a retro-styled MCU world.",
+      "with": "mister-fantastic"
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q910204"
+  },
+  "photo": {
+    "file": "the-thing.webp",
+    "alt": "Thing photograph",
+    "artist": "Richie S from Brooklyn, NY, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:New_York_Comic_Con_2015_-_The_Thing_(21481502684).jpg"
+  }
+}

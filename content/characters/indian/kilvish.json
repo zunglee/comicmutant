@@ -1,0 +1,142 @@
+{
+  "slug": "kilvish",
+  "name": "Tamraj Kilvish",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "tv",
+  "publisher": "DD National (Doordarshan)",
+  "summary": "Shaktimaan's ancient archenemy: a 6,000-year-old lord of darkness who wants to rule the world through sin and hatred. Played for most of the run by Surendra Pal.",
+  "origin": "Kilvish was once a human. He tricked Shri Satya, founder of the Suryanshi sect, out of the mystic Shakti Punj and kept half of its power. Chasing immortality, he swapped his mortal body for an ethereal one that cannot be killed in the normal way; the show says it can only be destroyed once the evil in the world is wiped out, and that only the reborn Shri Satya can end him. That is why he fears Shaktimaan. Tamraj suggests a king of darkness.",
+  "creators": ["Mukesh Khanna (series creator)"],
+  "firstAppearance": {
+    "title": "Shaktimaan",
+    "year": 1997
+  },
+  "powers": [
+    "Dark sorcery",
+    "Ethereal, near-unkillable body",
+    "Draws strength from the evil people commit",
+    "Holds half of the Shakti Punj",
+    "Owns the Papmani crystal, which can drain or kill Shaktimaan",
+    "Commands demons, sorcerers and evil scientists"
+  ],
+  "affiliations": ["Forces of darkness (Andhera)"],
+  "storyline": [
+    {
+      "era": "Mythic past",
+      "years": "Ancient times",
+      "title": "The stolen Shakti Punj",
+      "beat": "Kilvish cheats Shri Satya out of the Shakti Punj and keeps half of it, then gives up his mortal body to become a near-immortal being of darkness."
+    },
+    {
+      "era": "Early episodes",
+      "years": "1997",
+      "title": "The faceless voice",
+      "beat": "In the first episodes his face is never shown and he speaks in a different voice from the one used later."
+    },
+    {
+      "era": "Main run",
+      "years": "1997–2005",
+      "title": "An army of horrors",
+      "beat": "He sends wave after wave of agents at Shaktimaan, including the evil scientist Dr. Jackal, the shapeshifting tantrik Kapala, Stone-man and Electric-man."
+    },
+    {
+      "era": "Prophecy",
+      "years": "1997–2005",
+      "title": "The one he fears",
+      "beat": "The series reveals that only Shri Satya can kill him, and that Shaktimaan is Shri Satya reborn. Over time Kilvish's face twists into a wolf-like snarl."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His followers' slogan, Andhera Kaayam Rahe, wishes for darkness to last forever.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Early on, viewers never got to see Kilvish's face. When he finally showed up properly, Surendra Pal played him.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Tamraj suggests king of darkness, and Kilvish echoes the Sanskrit word for sin.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Kilvish is simply a demon who was always evil.",
+      "truth": "The series says he was once a human being who grew powerful through evil deeds and gave up his body to become immortal.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Defeating him in a fight isn't enough. The show says his body can only be destroyed once the evil in the world is gone.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Kilvish's followers' slogan wish for?",
+      "options": [
+        "Eternal light",
+        "That darkness lasts forever",
+        "Gold for everyone",
+        "Victory to the Suryanshis"
+      ],
+      "answer": 1,
+      "why": "Andhera Kaayam Rahe means roughly 'may darkness prevail'."
+    },
+    {
+      "q": "Which actor played Kilvish for most of the series?",
+      "options": ["Tom Alter", "Amrish Puri", "Mukesh Khanna", "Surendra Pal"],
+      "answer": 3,
+      "why": "Surendra Pal took the role once Kilvish's face was finally shown."
+    }
+  ],
+  "rivals": ["shaktimaan"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#141414",
+      "c2": "#4a148c",
+      "c3": "#c62828"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Older than history and still scared of sunrise."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaktimaan"
+  },
+  "timeline": [
+    {
+      "year": 1997,
+      "kind": "debut",
+      "title": "The faceless dark lord",
+      "note": "Surendra Pal's villain arrives with the series, his face kept in shadow through the early episodes.",
+      "with": "shaktimaan"
+    },
+    {
+      "year": 2005,
+      "kind": "turn",
+      "title": "The serial ends",
+      "note": "The original show wraps after 450 episodes, closing eight years of darkness versus light on DD.",
+      "with": "shaktimaan"
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Cartoon comeback",
+      "note": "Kilvish is the main villain of the animated series, with the evil scientist Dr. Jackal working alongside him.",
+      "with": "shaktimaan"
+    },
+    {
+      "year": 2020,
+      "kind": "legacy",
+      "title": "Lockdown rerun",
+      "note": "Doordarshan's lockdown rerun puts his darkness-worshipping catchphrase back on India's TV screens."
+    }
+  ],
+  "heat": 60
+}

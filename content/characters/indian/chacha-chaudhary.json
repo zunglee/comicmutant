@@ -1,0 +1,156 @@
+{
+  "slug": "chacha-chaudhary",
+  "name": "Chacha Chaudhary",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Diamond Comics",
+  "summary": "Pran's wise old man in a red turban, famous for a brain sharper than any computer. Created in 1971 for the Hindi magazine Lotpot and later a giant Diamond Comics hit.",
+  "origin": "Cartoonist Pran created Chacha Chaudhary in 1971 for the children's magazine Lotpot. He drew on the strategist Chanakya and the wise elders found in every village, who solve problems with experience and humour. Chacha is an ordinary middle-class old man with no powers or gadgets, just a red turban, a wooden stick, a waistcoat and a very sharp mind. He lives with his wife Bini, his dog Rocket and Sabu, a giant from Jupiter who provides the muscle. Together they outwit corrupt officials, thieves, conmen and local thugs, who usually end up embarrassed.",
+  "creators": ["Pran Kumar Sharma (writer, artist)"],
+  "firstAppearance": {
+    "title": "Lotpot",
+    "year": 1971
+  },
+  "powers": [
+    "Brilliant, lightning-fast intellect",
+    "Common sense and quick wit",
+    "A trusty wooden stick",
+    "Backed by Sabu's giant strength"
+  ],
+  "affiliations": ["Chaudhary household (Bini Chachi, Sabu, Rocket)"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1971",
+      "title": "Born in Lotpot",
+      "beat": "Pran introduces the turbaned problem-solver in the Hindi magazine Lotpot."
+    },
+    {
+      "era": "Classic era",
+      "years": "1970s–1980s",
+      "title": "Enter Sabu",
+      "beat": "The giant Sabu from Jupiter visits Earth, tastes Chachi's parathas and halwa, and decides to stay as the family's strongman."
+    },
+    {
+      "era": "Classic era",
+      "years": "1970s–1980s",
+      "title": "Raaka the unkillable",
+      "beat": "Sabu's greatest enemy is Raaka, a giant made immortal by an Ayurvedic medicine. Sabu always wins but can only lock him away."
+    },
+    {
+      "era": "TV",
+      "years": "2002",
+      "title": "Live-action Chacha",
+      "beat": "A live-action TV series casts Raghubir Yadav as Chacha Chaudhary."
+    },
+    {
+      "era": "Animation",
+      "years": "2019",
+      "title": "Cartoon comeback",
+      "beat": "Toonz Animation produces an animated Chacha Chaudhary TV series."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "The comic has sold over ten million copies and appears in ten Indian languages.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "According to the comics, a single meal for Sabu includes 202 chapatis and about 18 litres of lassi.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Whenever Sabu gets angry, a volcano erupts somewhere on Jupiter.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Chacha never locks his front door, yet nobody manages to rob his house.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Under the famous red turban, Chacha is completely bald.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Chacha Chaudhary is a superhero with powers.",
+      "truth": "He has none. He wins with brains, a wooden stick and occasionally Sabu's muscles.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is Sabu from?",
+      "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+      "answer": 1,
+      "why": "Sabu is a giant from Jupiter who chose to live with Chacha."
+    },
+    {
+      "q": "In which magazine did Chacha Chaudhary debut?",
+      "options": ["Champak", "Tinkle", "Chandamama", "Lotpot"],
+      "answer": 3,
+      "why": "Pran created him for Lotpot in 1971."
+    },
+    {
+      "q": "What colour is Chacha Chaudhary's turban?",
+      "options": ["Red", "Green", "White", "Blue"],
+      "answer": 0,
+      "why": "The red turban is his trademark."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#d62828",
+      "c2": "#f4e1c1",
+      "c3": "#2a9d8f"
+    },
+    "motif": "mind",
+    "mood": "light",
+    "tagline": "One turban, one stick, zero villains left standing."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+    "creator": "https://en.wikipedia.org/wiki/Pran_Kumar_Sharma"
+  },
+  "timeline": [
+    {
+      "year": 1971,
+      "kind": "debut",
+      "title": "Born in Lotpot",
+      "note": "Pran introduces the turbaned old man who outthinks every crook, in the Hindi kids' magazine Lotpot."
+    },
+    {
+      "year": 2002,
+      "kind": "screen",
+      "title": "Raghubir Yadav plays Chacha",
+      "note": "A live-action series on Sahara One casts Raghubir Yadav and runs for 415 episodes."
+    },
+    {
+      "year": 2014,
+      "kind": "legacy",
+      "title": "Pran passes away",
+      "note": "Creator Pran Kumar Sharma dies in August at 75, after more than four decades of Chacha strips."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "Animated series",
+      "note": "Toonz Animation's cartoon version premieres on Hungama TV and Disney Channel India."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Mascot for the Ganga",
+      "note": "The Namami Gange clean-river mission picks Chacha Chaudhary as its mascot."
+    }
+  ],
+  "heat": 60
+}

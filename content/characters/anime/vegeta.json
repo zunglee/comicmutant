@@ -1,0 +1,166 @@
+{
+  "slug": "vegeta",
+  "name": "Vegeta",
+  "universe": "anime",
+  "kind": "antihero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Dragon Ball's proud Saiyan prince: an invader who became Earth's grumpiest defender and Goku's eternal rival. Debuted in Weekly Shōnen Jump in 1989.",
+  "origin": "Vegeta is the heir to the Saiyan throne, raised as a soldier in Frieza's army after the tyrant blew up their home planet. Arrogant and ruthless, he travels to Earth with Nappa to grab the Dragon Balls, loses to the low-class warrior Goku and never gets over it. He goes on to turn on Frieza, settle on Earth, marry Bulma and raise two children, Trunks and Bulla, all while training obsessively to surpass his rival. His name puns on 'vegetable', like the rest of his race. Toriyama has said he did not like the character at first but came to find him very handy to have around.",
+  "creators": ["Akira Toriyama"],
+  "firstAppearance": {
+    "title": "Dragon Ball",
+    "issue": "Chapter 204",
+    "year": 1989
+  },
+  "powers": [
+    "Superhuman strength, speed and durability",
+    "Ki blasts such as the Galick Gun, Big Bang Attack and Final Flash",
+    "Flight and energy sensing",
+    "Super Saiyan forms up to Super Saiyan Blue",
+    "Ultra Ego, a power that grows the more damage he takes",
+    "Fusion with Goku into Vegito or Gogeta"
+  ],
+  "affiliations": ["Saiyan royal family", "Frieza's army (formerly)", "Z Fighters"],
+  "storyline": [
+    {
+      "era": "Saiyans",
+      "years": "1989",
+      "title": "Invader from space",
+      "beat": "Vegeta lands on Earth with Nappa, leaves a trail of fallen heroes and is beaten by Goku, who lets him escape."
+    },
+    {
+      "era": "Namek",
+      "years": "1989–1991",
+      "title": "Turning on Frieza",
+      "beat": "He plays every side on Namek to grab the Dragon Balls for himself, and dies at Frieza's hand begging Goku for revenge."
+    },
+    {
+      "era": "Androids and Cell",
+      "years": "1991–1993",
+      "title": "Prince and father",
+      "beat": "Revived, he reaches Super Saiyan, has a son with Bulma and slowly, very slowly, starts to care about Earth."
+    },
+    {
+      "era": "Buu",
+      "years": "1993–1995",
+      "title": "Majin Vegeta",
+      "beat": "He lets the wizard Babidi control him just to get a rematch with Goku, then sacrifices himself to protect his family."
+    },
+    {
+      "era": "Super",
+      "years": "2015 onward",
+      "title": "Gods and pride",
+      "beat": "He trains under the god of destruction Beerus, reaches Super Saiyan Blue and later his own Ultra Ego form."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Vegeta yelled that Goku's power level was over 9000.",
+      "truth": "In Japanese he says over 8,000. The 9,000 came from the Ocean Group English dub and became one of the web's oldest memes.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Saiyans are named after vegetables. Vegeta's name is just 'vegetable' with the end chopped off.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Toriyama has admitted he disliked Vegeta at first, before warming to him as the series went on.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Ryō Horikawa voices him in Japanese and Christopher Sabat in the Funimation English dub.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Fans spotted that Killmonger's armour in Black Panther (2018) looks a lot like Vegeta's, and Michael B. Jordan said that might be no accident.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "A Viz poll named him the most popular character of Dragon Ball Super.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Vegeta's wife?",
+      "options": ["Chi-Chi", "Videl", "Bulma", "Android 18"],
+      "answer": 2,
+      "why": "He marries Bulma, and they have Trunks and Bulla."
+    },
+    {
+      "q": "What number does Vegeta actually say in the original Japanese power-level scene?",
+      "options": ["8,000", "9,000", "10,000", "1,000,000"],
+      "answer": 0,
+      "why": "The original line is over 8,000. The English dub changed it."
+    },
+    {
+      "q": "Which wizard turns him into Majin Vegeta?",
+      "options": ["Bibidi", "Babidi", "Dabura", "Moro"],
+      "answer": 1,
+      "why": "Babidi's spell puts the M on his forehead."
+    }
+  ],
+  "rivals": ["goku", "frieza"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1c2c6b",
+      "c2": "#f2f2f2",
+      "c3": "#ffcc33"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Royal pride, gravity-room sweat and one eternal grudge."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vegeta"
+  },
+  "timeline": [
+    {
+      "year": 1989,
+      "kind": "debut",
+      "title": "The prince arrives",
+      "note": "Vegeta first shows up in Dragon Ball chapter 204, heading for Earth with Nappa.",
+      "with": "goku"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "Dragon Ball Z begins",
+      "note": "The Z anime premieres in April 1989, with Ryō Horikawa as Vegeta."
+    },
+    {
+      "year": 1995,
+      "kind": "legacy",
+      "title": "Manga finale",
+      "note": "Dragon Ball wraps up in June 1995, closing Vegeta's long road from invader to family man."
+    },
+    {
+      "year": 2015,
+      "kind": "return",
+      "title": "Dragon Ball Super",
+      "note": "The new anime brings him back to train with gods and chase Super Saiyan Blue."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Dragon Ball Super: Broly",
+      "note": "He and Goku team up and fuse into Gogeta against the Saiyan berserker Broly.",
+      "with": "goku"
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Mini Vegeta in Daima",
+      "note": "Dragon Ball Daima shrinks him to kid size for a trip into the Demon Realm."
+    }
+  ],
+  "heat": 85
+}

@@ -1,0 +1,180 @@
+{
+  "slug": "the-mask",
+  "name": "The Mask",
+  "universe": "other",
+  "kind": "antihero",
+  "medium": "comics",
+  "publisher": "Dark Horse Comics",
+  "summary": "Dark Horse's cursed jade mask, which turns anyone who wears it into the green-headed, reality-bending maniac Big Head. Far gorier on the page than in Jim Carrey's 1994 film.",
+  "origin": "The Mask is a semi-living ancient jade mask. Its first victim in the comics is Stanley Ipkiss, a meek man full of grudges who buys it in an antiques shop as a gift. Wearing it, he turns into a bald, green-headed creature with huge teeth and almost limitless power, and goes on a revenge spree the press calls Big Head. The mask strips away all inhibitions, so every wearer ends up a violent antihero or villain, whatever they intended. Stanley is shot dead by his girlfriend Kathy wearing the mask herself, and it soon passes to police lieutenant Mitch Kellaway.",
+  "creators": [
+    "Mike Richardson (concept)",
+    "John Arcudi (writer)",
+    "Doug Mahnke (artist)",
+    "Chris Warner (design)"
+  ],
+  "firstAppearance": {
+    "title": "Mayhem",
+    "issue": "1",
+    "year": 1989
+  },
+  "powers": [
+    "Near-limitless, reality-bending power",
+    "Cartoonish transformations of body and surroundings",
+    "Removes the wearer's inhibitions, and often their sanity",
+    "Passes from wearer to wearer"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Concept",
+      "years": "1982–1985",
+      "title": "A sketch for APA-5",
+      "beat": "Mike Richardson comes up with the idea in 1982 and draws a sketch for an amateur press publication in 1985."
+    },
+    {
+      "era": "First try",
+      "years": "Late 1980s",
+      "title": "Masque",
+      "beat": "Mark Badger's Masque strip runs in early Dark Horse Presents, but it turns political and Richardson ends it."
+    },
+    {
+      "era": "Relaunch",
+      "years": "1989",
+      "title": "Mayhem",
+      "beat": "Chris Warner redesigns the character, and John Arcudi and Doug Mahnke's stories in Mayhem #1–4 make it a hit."
+    },
+    {
+      "era": "The Mask",
+      "years": "1991",
+      "title": "Big Head's rampage",
+      "beat": "A four-issue series follows the mask from Stanley to Kellaway and introduces the silent mob enforcer Walter."
+    },
+    {
+      "era": "Film",
+      "years": "1994",
+      "title": "Jim Carrey",
+      "beat": "The film loosely adapts the first half of the Arcudi/Mahnke series and turns the gore into slapstick."
+    },
+    {
+      "era": "Crossovers",
+      "years": "1990s–2000",
+      "title": "Joker/Mask",
+      "beat": "Team-ups and fights include Lobo/Mask. The run closes in 2000 with Joker/Mask, in which the Joker gets hold of the mask."
+    },
+    {
+      "era": "Revival",
+      "years": "2019",
+      "title": "I Pledge Allegiance to the Mask!",
+      "beat": "The mask returns in a new series, alongside the kid-friendly spin-off Itty Bitty Mask."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "In the early comics the character was called Big Head. 'The Mask' meant the object, and the name only stuck to the character thanks to the film and cartoon.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "The Mask was always a goofy comedy.",
+      "truth": "The original comics are violent comedy-horror. Big Head kills police officers and the stories are notoriously graphic.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Its inspirations include the Joker, the Green Goblin, Freddy Krueger, Jekyll and Hyde, and Steve Ditko's Creeper.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Executive producer Michael De Luca suggested Jim Carrey, and that casting helped push the film toward comedy.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Mike Richardson came up with the concept on 5 February 1982, before Dark Horse Comics existed.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was the masked character called in the early comics?",
+      "options": ["Green Grin", "Loki", "Big Head", "Smiley"],
+      "answer": 2,
+      "why": "The press nicknamed the green-headed wearer Big Head."
+    },
+    {
+      "q": "Who is the first wearer of the Mask in the comics?",
+      "options": ["Stanley Ipkiss", "Mitch Kellaway", "Kathy", "Walter"],
+      "answer": 0,
+      "why": "Stanley buys it as a gift in an antiques shop."
+    },
+    {
+      "q": "Which DC villain gets the Mask in a 2000 crossover?",
+      "options": ["Lex Luthor", "The Joker", "Harley Quinn", "Two-Face"],
+      "answer": 1,
+      "why": "Joker/Mask puts the mask on Batman's archenemy."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#32cd32",
+      "c2": "#ffd23f",
+      "c3": "#7a0019"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Put it on and your conscience takes the week off."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+  },
+  "timeline": [
+    {
+      "year": 1989,
+      "kind": "debut",
+      "title": "Mayhem #1",
+      "note": "Chris Warner's redesign turns the cursed mask into Big Head, and Arcudi and Mahnke's stories make it a hit."
+    },
+    {
+      "year": 1991,
+      "kind": "comic",
+      "title": "The Mask miniseries",
+      "note": "A four-issue run introduces Stanley Ipkiss, the mute hitman Walter and the dogged Lieutenant Kellaway."
+    },
+    {
+      "year": 1994,
+      "kind": "screen",
+      "title": "Jim Carrey's The Mask",
+      "note": "The July 1994 film swaps the comic's gore for cartoon slapstick and turns Big Head into a star."
+    },
+    {
+      "year": 1995,
+      "kind": "screen",
+      "title": "Animated series",
+      "note": "The Mask: Animated Series spins the film's lighter take into TV cartoons through 1997."
+    },
+    {
+      "year": 2000,
+      "kind": "comic",
+      "title": "Joker/Mask",
+      "note": "In a crossover with DC, the Joker gets his hands on the mask."
+    },
+    {
+      "year": 2005,
+      "kind": "screen",
+      "title": "Son of the Mask",
+      "note": "A film sequel without Carrey follows a new family dealing with the mask."
+    },
+    {
+      "year": 2019,
+      "kind": "return",
+      "title": "I Pledge Allegiance to the Mask!",
+      "note": "The main comic comes back with the mask tangled up in a presidential race."
+    }
+  ],
+  "heat": 60
+}

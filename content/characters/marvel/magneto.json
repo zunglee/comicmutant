@@ -1,0 +1,191 @@
+{
+  "slug": "magneto",
+  "name": "Magneto",
+  "realName": "Max Eisenhardt",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The villain who keeps having a point. Magneto, a Holocaust survivor and master of magnetism, believes mutants must defend themselves by any means, which puts him against his old friend Charles Xavier.",
+  "origin": "Magneto might be the most sympathetic villain Marvel ever made, though it took a couple of decades to get there. In The X-Men #1 in 1963 he was a fairly standard menace in a cape, a mutant who could bend magnetism to his will and wanted mutants to rule. From 1981 onward Chris Claremont rebuilt him as a Holocaust survivor, later given the birth name Max Eisenhardt, whose fear of another genocide drives everything he does. That turned him from a cartoon tyrant into the X-Men's mirror image. He can move metal and twist magnetic fields, leave his body through astral projection, and wears a helmet that keeps telepaths out of his head.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (writer/artist)"],
+  "firstAppearance": {
+    "title": "The X-Men",
+    "issue": "1",
+    "year": 1963
+  },
+  "powers": [
+    "Controls magnetism and metal",
+    "Astral projection",
+    "Helmet that blocks telepathy",
+    "Brilliant scientist and strategist"
+  ],
+  "affiliations": [
+    "Brotherhood of Mutants",
+    "X-Men",
+    "New Mutants",
+    "Hellfire Club",
+    "Acolytes",
+    "Astonishing Avengers",
+    "Quiet Council of Krakoa",
+    "Great Ring of Arakko"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "Master of magnetism",
+      "beat": "In X-Men #1 Magneto attacks a missile base, and soon after he founds the Brotherhood of Evil Mutants to fight for mutant rule."
+    },
+    {
+      "era": "Holocaust survivor",
+      "years": "1981",
+      "title": "A new depth",
+      "beat": "Chris Claremont reveals that Magneto survived Auschwitz as a boy, reframing him as a man determined never to let his people be destroyed."
+    },
+    {
+      "era": "Headmaster",
+      "years": "1985",
+      "title": "Running the school",
+      "beat": "With Xavier dying, Magneto takes over the school and leads the New Mutants for a time."
+    },
+    {
+      "era": "Fatal Attractions",
+      "years": "1993",
+      "title": "The adamantium rip",
+      "beat": "In one of the X-Men's most shocking moments, Magneto tears the adamantium out of Wolverine's skeleton."
+    },
+    {
+      "era": "Genocide",
+      "years": "2001",
+      "title": "Genosha falls",
+      "beat": "The island nation of Genosha, which Magneto ruled, is wiped out by giant Sentinels."
+    },
+    {
+      "era": "Krakoa",
+      "years": "2019",
+      "title": "Building a nation",
+      "beat": "Magneto and Xavier found the mutant nation of Krakoa together, finally pursuing the same dream."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Magneto was always written as a Holocaust survivor.",
+      "spice": 2,
+      "truth": "That backstory was not in his 1960s stories. Chris Claremont built it from 1981 onward."
+    },
+    {
+      "type": "fact",
+      "text": "He ripped the adamantium out of Wolverine's skeleton in X-Men #25 (1993).",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Erik Lehnsherr is an alias. Later comics gave his birth name as Max Eisenhardt.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "For decades comics named him the father of Quicksilver and the Scarlet Witch, until a 2015 storyline retconned it away.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Ian McKellen and Michael Fassbender both played him on film.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Magneto's main power?",
+      "options": ["Telepathy", "Weather control", "Magnetism", "Teleportation"],
+      "answer": 2,
+      "why": "He controls magnetism and metal."
+    },
+    {
+      "q": "Whose adamantium did Magneto rip out in 1993?",
+      "options": ["Sabretooth", "Wolverine", "X-23", "Lady Deathstrike"],
+      "answer": 1,
+      "why": "He tore it from Wolverine in X-Men #25."
+    },
+    {
+      "q": "Which group did Magneto found in the early X-Men comics?",
+      "options": ["Hellfire Club", "Acolytes", "Marauders", "Brotherhood of Evil Mutants"],
+      "answer": 3,
+      "why": "He founded the Brotherhood in 1964."
+    }
+  ],
+  "rivals": ["professor-x", "wolverine", "cyclops"],
+  "allies": ["scarlet-witch"],
+  "theme": {
+    "palette": {
+      "c1": "#b11226",
+      "c2": "#5b2a86",
+      "c3": "#8a8f98"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Bends steel, bends rules, never bends the knee."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "Master of magnetism",
+      "note": "The X-Men #1 introduces Magneto attacking a missile base, the first villain the team ever faces.",
+      "with": "professor-x"
+    },
+    {
+      "year": 1981,
+      "kind": "turn",
+      "title": "A survivor's past",
+      "note": "Uncanny X-Men #150 reveals Magneto lived through Auschwitz, giving his fury a painful source."
+    },
+    {
+      "year": 1985,
+      "kind": "turn",
+      "title": "Running the school",
+      "note": "Uncanny X-Men #200 puts Magneto on trial, and Xavier asks him to run the school in his place.",
+      "with": "professor-x"
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Fatal Attractions",
+      "note": "X-Men #25 has Magneto rip the adamantium out of Wolverine's body, a shocking moment for the era.",
+      "with": "wolverine"
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Ian McKellen in X-Men",
+      "note": "Bryan Singer's film casts Ian McKellen as Erik, opposite Patrick Stewart's Xavier.",
+      "with": "professor-x"
+    },
+    {
+      "year": 2001,
+      "kind": "turn",
+      "title": "Genosha falls",
+      "note": "New X-Men #115 opens with giant Sentinels wiping out Magneto's mutant island nation of Genosha."
+    },
+    {
+      "year": 2019,
+      "kind": "comic",
+      "title": "Building Krakoa",
+      "note": "House of X has Magneto help Xavier found a mutant nation on the living island of Krakoa.",
+      "with": "professor-x"
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "Leading in X-Men '97",
+      "note": "The X-Men '97 revival puts Magneto in charge of the team, carrying out Xavier's will."
+    }
+  ],
+  "heat": 70,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q840291"
+  }
+}

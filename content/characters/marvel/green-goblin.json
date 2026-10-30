@@ -1,0 +1,192 @@
+{
+  "slug": "green-goblin",
+  "name": "Green Goblin",
+  "realName": "Norman Osborn",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Spider-Man's worst enemy, and the one who made it personal. Norman Osborn, a rich industrialist warped by a chemical formula, terrorises New York on a glider armed with pumpkin bombs.",
+  "origin": "The Green Goblin is the reason Spider-Man stories hurt. He crashed into The Amazing Spider-Man #14 in 1964, created by Stan Lee and Steve Ditko, and readers spent two years guessing who was under the mask before the 1966 reveal: Norman Osborn, wealthy industrialist and father of Peter's friend Harry. A botched chemical formula gave Norman super strength and a fast-healing body, and it also shattered his sanity. He rides a bat-winged glider and throws pumpkin bombs, which sounds silly until you remember he killed Gwen Stacy. Harry later put on the costume too, but Norman is the original and still the nastiest.",
+  "creators": ["Stan Lee", "Steve Ditko"],
+  "firstAppearance": {
+    "title": "The Amazing Spider-Man",
+    "issue": "14",
+    "year": 1964
+  },
+  "powers": [
+    "Strength, speed and healing from the Goblin formula",
+    "Cunning, business-savvy mind",
+    "Goblin glider with built-in weapons",
+    "Pumpkin bombs and other Halloween-style gadgets"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1964",
+      "title": "Masked mystery",
+      "beat": "The Green Goblin appears in The Amazing Spider-Man #14 as a gadget-armed criminal on a flying glider, his real identity kept secret for two years."
+    },
+    {
+      "era": "Unmasked",
+      "years": "1966",
+      "title": "Norman Osborn",
+      "beat": "In issues #39–40 the Goblin learns Peter Parker's identity and is revealed as Norman Osborn, the wealthy father of Peter's friend Harry. A fight leaves Norman with amnesia."
+    },
+    {
+      "era": "Night Gwen Stacy Died",
+      "years": "1973",
+      "title": "A fall from the bridge",
+      "beat": "The Goblin kidnaps Gwen Stacy and she dies during the fight. The next issue Norman is killed by his own glider, a story often seen as the end of comics' Silver Age."
+    },
+    {
+      "era": "Return",
+      "years": "1996",
+      "title": "Not dead after all",
+      "beat": "Norman is revealed to have survived and to have been the hidden mastermind of the Clone Saga."
+    },
+    {
+      "era": "Dark Reign",
+      "years": "2008–2010",
+      "title": "Top cop",
+      "beat": "After a public win in Secret Invasion, Norman is put in charge of national security, running his own Avengers while secretly still a villain."
+    },
+    {
+      "era": "Red Goblin",
+      "years": "2018",
+      "title": "Symbiote upgrade",
+      "beat": "Norman bonds with the Carnage symbiote and becomes the Red Goblin, one of his deadliest forms."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Gwen Stacy died on the Brooklyn Bridge.",
+      "spice": 2,
+      "truth": "The dialogue said Brooklyn Bridge, but the artwork showed the George Washington Bridge, and fans have noticed ever since."
+    },
+    {
+      "type": "gossip",
+      "text": "Steve Ditko and Stan Lee reportedly disagreed over who the Goblin should be. Ditko left the series before the reveal, and John Romita Sr. drew the unmasking.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "The 2004 story Sins Past claimed Norman had secretly fathered twins with Gwen Stacy. Many fans have hated it ever since.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Norman's son Harry also became the Green Goblin, starting in 1974.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Willem Dafoe played Norman in 2002 and came back for Spider-Man: No Way Home in 2021.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was revealed as the original Green Goblin in 1966?",
+      "options": ["Harry Osborn", "Norman Osborn", "Roderick Kingsley", "Mendel Stromm"],
+      "answer": 1,
+      "why": "Norman Osborn was unmasked in issues #39–40."
+    },
+    {
+      "q": "Whose death in 1973 did the Goblin cause?",
+      "options": ["Mary Jane Watson", "Aunt May", "Betty Brant", "Gwen Stacy"],
+      "answer": 3,
+      "why": "Gwen Stacy died during his attack."
+    },
+    {
+      "q": "What does the Goblin ride?",
+      "options": ["Goblin Glider", "Goblin Cycle", "A hover-bat", "Rocket boots"],
+      "answer": 0,
+      "why": "His bat-winged Goblin Glider is his trademark."
+    }
+  ],
+  "rivals": ["spider-man"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#3c8d2f",
+      "c2": "#5b2a86",
+      "c3": "#f28c28"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "Pumpkin bombs, purple tights, no chill."
+  },
+  "timeline": [
+    {
+      "year": 1964,
+      "kind": "debut",
+      "title": "A masked goblin on a broom",
+      "note": "The Amazing Spider-Man #14 introduces the Green Goblin as a mystery crook with gadgets and a cackle.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1966,
+      "kind": "turn",
+      "title": "Unmasked as Norman Osborn",
+      "note": "Amazing Spider-Man #39 finally reveals the Goblin is Norman, father of Peter's college pal Harry.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1973,
+      "kind": "death",
+      "title": "The night Gwen Stacy died",
+      "note": "Issues #121 and #122 have the Goblin kill Gwen and then die by his own glider in the rematch.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1996,
+      "kind": "return",
+      "title": "Not dead after all",
+      "note": "The Revelations storyline ends with Norman alive and claiming he was behind years of Spider-Man's misery.",
+      "with": "spider-man"
+    },
+    {
+      "year": 2002,
+      "kind": "screen",
+      "title": "Willem Dafoe's Goblin",
+      "note": "Sam Raimi's Spider-Man makes Willem Dafoe's split-personality Norman one of the great film villains.",
+      "with": "spider-man"
+    },
+    {
+      "year": 2009,
+      "kind": "turn",
+      "title": "Running Dark Reign",
+      "note": "After Secret Invasion, Norman takes over national security and builds his own Avengers out of villains."
+    },
+    {
+      "year": 2018,
+      "kind": "comic",
+      "title": "Becoming the Red Goblin",
+      "note": "Amazing Spider-Man #798 bonds Norman with the Carnage symbiote for a truly nasty upgrade.",
+      "with": "venom"
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Back for No Way Home",
+      "note": "Willem Dafoe returns in Spider-Man: No Way Home, menacing Tom Holland's Peter across the multiverse.",
+      "with": "spider-man"
+    }
+  ],
+  "heat": 75,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Green_Goblin",
+    "wikidata": "https://www.wikidata.org/wiki/Q735721"
+  },
+  "photo": {
+    "file": "green-goblin.webp",
+    "alt": "Green Goblin photograph",
+    "artist": "Rich.S.",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Wintercon_2016_-_Green_Goblin_Cosplay.jpg"
+  }
+}

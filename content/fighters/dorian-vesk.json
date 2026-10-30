@@ -1,0 +1,41 @@
+{
+  "slug": "dorian-vesk",
+  "name": "DORIAN VESK",
+  "alias": "LEDGER",
+  "kind": "hero",
+  "archetype": "masked-detective",
+  "bio": "A Halvern insurance investigator who forgets nothing he has glanced at. Loom hired him to find Corvel Lane, the street Null Meridian erased. He wears a plain mask so witnesses remember what they said, not who wrote it down. A street is a lot of paperwork to lose.",
+  "catchphrase": "I do not solve things. I ask until they solve themselves.",
+  "rig": {
+    "build": "normal",
+    "head": "mask",
+    "cape": false,
+    "skin": "#d9b08c",
+    "suit": "#2a3345",
+    "trim": "#9fb4d9",
+    "eye": "#fff1a8",
+    "emblem": "eye"
+  },
+  "stats": {
+    "power": 3,
+    "speed": 5,
+    "defense": 5,
+    "special": 9
+  },
+  "special": {
+    "name": "Cold Reading",
+    "kind": "beam"
+  },
+  "rivals": ["null-meridian", "eusebio-pereira"],
+  "theme": {
+    "palette": {
+      "c1": "#9fb4d9",
+      "c2": "#07090d",
+      "c3": "#e8d28c"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "Ask until the truth gives up."
+  },
+  "heat": 55
+}

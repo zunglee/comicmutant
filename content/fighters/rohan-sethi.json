@@ -1,0 +1,41 @@
+{
+  "slug": "rohan-sethi",
+  "name": "ROHAN SETHI",
+  "alias": "PHULJHARI",
+  "kind": "antihero",
+  "archetype": "festival-pyrotechnician",
+  "bio": "A Sivakasi fireworks apprentice who lit the wrong fuse and absorbed the whole warehouse. Now he crackles with festival fire he cannot switch off. He means well, mostly, and has never read a safety notice in his life.",
+  "catchphrase": "Stand back. It's a long fuse.",
+  "rig": {
+    "build": "slim",
+    "head": "visor",
+    "cape": false,
+    "skin": "#c68a5e",
+    "suit": "#1c1230",
+    "trim": "#ff9f1c",
+    "eye": "#ff3d81",
+    "emblem": "star"
+  },
+  "stats": {
+    "power": 5,
+    "speed": 7,
+    "defense": 3,
+    "special": 8
+  },
+  "special": {
+    "name": "Anar Fountain",
+    "kind": "projectile"
+  },
+  "rivals": ["edda-skarn", "sukhdev-rawat"],
+  "theme": {
+    "palette": {
+      "c1": "#ff9f1c",
+      "c2": "#1c1230",
+      "c3": "#ff3d81"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Festival lights, zero supervision."
+  },
+  "heat": 60
+}

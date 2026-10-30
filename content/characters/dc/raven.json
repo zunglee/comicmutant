@@ -1,0 +1,171 @@
+{
+  "slug": "raven",
+  "name": "Raven",
+  "realName": "Raven / Rachel Roth",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "The Teen Titans' resident empath, with a demon for a dad. Raven, the half-human daughter of Trigon, keeps her feelings locked down so her father's power can't break free.",
+  "origin": "Raven is the goth girl of the Teen Titans, and she was gloomy for very good reasons. Marv Wolfman and George Pérez introduced her in a special preview inside DC Comics Presents #26 in 1980, with a cloaked look partly inspired by the Phantom Stranger. Raised in the peaceful dimension of Azarath, she is the daughter of a human mother and the demon Trigon, and she has to keep her emotions locked down or her father's power leaks through. She recruited a fresh team of Titans to stand against him, which put her at the centre of the team's 1980s revival. She can sense and absorb other people's pain, travel through her soul-self and channel dark magic.",
+  "creators": ["Marv Wolfman", "George Pérez"],
+  "firstAppearance": {
+    "title": "DC Comics Presents",
+    "issue": "26",
+    "year": 1980
+  },
+  "powers": [
+    "Feels and absorbs other people's pain",
+    "Teleports and fights with her soul-self",
+    "Dark magic and mystic knowledge",
+    "Heals others by taking on their wounds"
+  ],
+  "affiliations": [
+    "Teen Titans",
+    "Titans",
+    "Sentinels of Magic",
+    "Night Force",
+    "Justice League",
+    "Justice League Dark"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1980",
+      "title": "The demon's daughter",
+      "beat": "Raven, the half-human daughter of the demon Trigon, gathers a new team of Teen Titans to help stop her father."
+    },
+    {
+      "era": "Terror of Trigon",
+      "years": "1984–1985",
+      "title": "Father's return",
+      "beat": "Trigon breaks into Earth's dimension and takes control of Raven, and the Titans fight to free her."
+    },
+    {
+      "era": "Corruption",
+      "years": "1990s",
+      "title": "Darkness within",
+      "beat": "Raven is repeatedly corrupted by her father's influence, turning against her friends before being saved."
+    },
+    {
+      "era": "Teen Titans",
+      "years": "2003",
+      "title": "Cartoon icon",
+      "beat": "The Teen Titans animated series makes Raven a breakout favourite, and Geoff Johns's new comic returns her to the team."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "She is an empath and must keep her emotions in check, or her demonic side can break loose.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "She was raised in Azarath, a peaceful mystical dimension.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her father is the demon Trigon, and her mother is a human woman named Arella.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tara Strong voiced her in the 2003 Teen Titans cartoon and in Teen Titans Go!.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Raven's father?",
+      "options": ["Darkseid", "Trigon", "Neron", "Mister Mxyzptlk"],
+      "answer": 1,
+      "why": "The demon Trigon."
+    },
+    {
+      "q": "Which dimension raised Raven?",
+      "options": ["Azarath", "Apokolips", "Themyscira", "The Phantom Zone"],
+      "answer": 0,
+      "why": "Azarath."
+    },
+    {
+      "q": "Which team is Raven best known for?",
+      "options": ["Justice League", "Suicide Squad", "Doom Patrol", "Teen Titans"],
+      "answer": 3,
+      "why": "The Teen Titans."
+    }
+  ],
+  "rivals": ["deathstroke"],
+  "allies": ["beast-boy", "starfire", "cyborg", "nightwing", "flash-wally-west", "zatanna"],
+  "theme": {
+    "palette": {
+      "c1": "#3b2a6b",
+      "c2": "#1a1a1a",
+      "c3": "#b388ff"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Keeps her feelings calm so the world stays intact."
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "kind": "debut",
+      "title": "A mysterious empath",
+      "note": "A preview in DC Comics Presents #26 introduces Raven, the cloaked girl who secretly gathers the new Titans.",
+      "with": "cyborg"
+    },
+    {
+      "year": 1980,
+      "kind": "comic",
+      "title": "Recruiting the Titans",
+      "note": "In New Teen Titans #1, Raven pulls a team together to help her face her demon father Trigon.",
+      "with": "starfire"
+    },
+    {
+      "year": 1984,
+      "kind": "turn",
+      "title": "The Terror of Trigon",
+      "note": "Trigon invades Earth, and Raven fights her father and her own dark side across a five-part epic."
+    },
+    {
+      "year": 1993,
+      "kind": "turn",
+      "title": "Wedding crasher",
+      "note": "Corrupted by Trigon, a villainous Raven crashes the wedding of Nightwing and Starfire in New Titans #100.",
+      "with": "nightwing"
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Goth icon",
+      "note": "The Teen Titans cartoon turns deadpan Raven into a breakout fan favourite, voiced by Tara Strong."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Titans",
+      "note": "Teagan Croft plays a frightened, haunted teenage Raven in the live-action Titans series."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "YA bestseller",
+      "note": "Kami Garcia and Gabriel Picolo's Teen Titans: Raven reimagines her as a teen with lost memories and hits bestseller lists."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q245928"
+  },
+  "photo": {
+    "file": "raven.webp",
+    "alt": "Raven photograph",
+    "artist": "https://scratch.mit.edu/users/cartoonnetwork/",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:Raven_(Teen_Titans_Go!).svg"
+  }
+}

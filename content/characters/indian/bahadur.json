@@ -1,0 +1,145 @@
+{
+  "slug": "bahadur",
+  "name": "Bahadur",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Indrajal Comics",
+  "summary": "Indrajal Comics' home-grown hero (1976–1990): a dacoit's son turned crime-fighter in a saffron kurta and jeans who built a citizens' force against bandits.",
+  "origin": "Bahadur's father, the dacoit Bhairav Singh, was killed in a shootout with police. The teenage Bahadur was adopted by Vishal, the officer who had shot his father. He wanted revenge at first but eventually came over to the side of the law. As an adult he founded the Citizen's Security Force (Naagrik Suraksha Dal) to help police fight the bandits of the ravines, and he often tried to reform dacoits rather than just defeat them. His helper Lakhan is a reformed dacoit, and the martial artist Bela fights at his side.",
+  "creators": ["Aabid Surti (creator)", "Jagjit Uppal (later writer)", "Govind Brahmania (artist)"],
+  "firstAppearance": {
+    "title": "Indrajal Comics (December 1976)",
+    "year": 1976
+  },
+  "powers": [
+    "No superpowers",
+    "Skilled fighter",
+    "Leader and organiser of a citizens' militia",
+    "Talent for reforming criminals"
+  ],
+  "affiliations": ["Citizen's Security Force (Naagrik Suraksha Dal)"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1976",
+      "title": "India's own hero",
+      "beat": "Bennett, Coleman & Co. wants a desi hero to rival the imported Phantom, Mandrake, Flash Gordon and Tarzan, and Aabid Surti creates Bahadur."
+    },
+    {
+      "era": "Chambal era",
+      "years": "Late 1970s",
+      "title": "War on the dacoits",
+      "beat": "Inspired by the notorious Chambal ravines of the era, Bahadur's citizen force battles bandits around the small town of Jaigarh."
+    },
+    {
+      "era": "Makeover",
+      "years": "1986",
+      "title": "City look",
+      "beat": "Bahadur cuts his long hair and swaps the orange kurta for a tight pink T-shirt to look more urban."
+    },
+    {
+      "era": "Modern turn",
+      "years": "1980s",
+      "title": "Spies and cities",
+      "beat": "Jaigarh grows from a sleepy town into a city, and Bahadur moves on to espionage stories."
+    },
+    {
+      "era": "Finale",
+      "years": "1990",
+      "title": "The last issue",
+      "beat": "The series ends when Bennett, Coleman & Co. stops publishing Indrajal Comics."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Aabid Surti says the saffron kurta stood for Indianness and the jeans stood for progress.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Surti showed Bahadur and Bela living together without marriage, which was almost unheard of in comics of that time.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Bahadur was created to take on the four imported comics that ruled India: The Phantom, Mandrake, Flash Gordon and Tarzan.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "In later stories Bahadur even got a dog named Chammiya.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Bahadur fan clubs reportedly exist as far away as the USA.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which publisher launched Bahadur in 1976?",
+      "options": ["Raj Comics", "Indrajal Comics", "Diamond Comics", "Amar Chitra Katha"],
+      "answer": 1,
+      "why": "Bahadur was Indrajal Comics' home-grown hero."
+    },
+    {
+      "q": "Who created Bahadur?",
+      "options": ["Pran", "Anupam Sinha", "Aabid Surti", "Mukesh Khanna"],
+      "answer": 2,
+      "why": "Aabid Surti created the character."
+    },
+    {
+      "q": "What did Bahadur's citizen force mainly fight?",
+      "options": ["Dacoits", "Aliens", "Vampires", "Robots"],
+      "answer": 0,
+      "why": "The series focused on the bandits of the 1970s ravines."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f28c28",
+      "c2": "#3b5b92",
+      "c3": "#f7e7ce"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Saffron kurta, blue jeans, bad news for bandits."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+    "indrajal": "https://en.wikipedia.org/wiki/Indrajal_Comics",
+    "creator": "https://en.wikipedia.org/wiki/Abid_Surti"
+  },
+  "timeline": [
+    {
+      "year": 1976,
+      "kind": "debut",
+      "title": "Indrajal's homegrown hero",
+      "note": "In December 1976 Aabid Surti hands Indrajal Comics a desi lead in a saffron kurta, built to stand beside the imported heroes."
+    },
+    {
+      "year": 1986,
+      "kind": "turn",
+      "title": "City makeover",
+      "note": "Bahadur cuts his long hair and trades the old kurta look for pink, more urban clothes."
+    },
+    {
+      "year": 1990,
+      "kind": "turn",
+      "title": "Indrajal closes shop",
+      "note": "Indrajal Comics prints its last issue in April 1990, and Bahadur's run stops with it."
+    },
+    {
+      "year": 2010,
+      "kind": "return",
+      "title": "Back online",
+      "note": "Surti launches bahadur.in to revive the hero, starting by uploading classic issues for new readers."
+    }
+  ],
+  "heat": 30
+}

@@ -1,0 +1,175 @@
+{
+  "slug": "deathstroke",
+  "name": "Deathstroke",
+  "realName": "Major Slade Joseph Wilson",
+  "universe": "dc",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A one-eyed mercenary who never lets a contract go. Slade Wilson, boosted by an army experiment, is DC's top assassin and a longtime enemy of the Teen Titans.",
+  "origin": "Deathstroke is the mercenary who made a whole team of teenagers his life's work, and that grudge made him a classic. Marv Wolfman and George Pérez introduced him in The New Teen Titans #2 in 1980 as Deathstroke the Terminator, picking up a contract on the Titans that his son had died trying to fulfil. Slade Wilson was a soldier until an army experiment boosted his body and his mind, giving him super strength and speed, razor reflexes and senses, faster healing and slowed aging. He lost an eye later on, but he remains one of the deadliest assassins in DC, lethal with a sword, a rifle or his bare hands.",
+  "creators": ["Marv Wolfman (writer)", "George Pérez (artist)"],
+  "firstAppearance": {
+    "title": "The New Teen Titans",
+    "issue": "2",
+    "year": 1980
+  },
+  "powers": [
+    "Boosted strength, speed and reflexes",
+    "Lightning-fast tactical mind",
+    "Heals quickly",
+    "Ages slowly",
+    "Expert with swords, guns and his fists",
+    "Elite assassin"
+  ],
+  "affiliations": [
+    "Secret Society of Super Villains",
+    "Injustice League",
+    "H.I.V.E.",
+    "United States Army",
+    "Titans East",
+    "Titans",
+    "Justice League",
+    "Suicide Squad"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1980",
+      "title": "The Terminator",
+      "beat": "Slade Wilson, a mercenary known as Deathstroke the Terminator, debuts in The New Teen Titans #2. He takes over a contract on the Titans after his son dies trying to carry it out."
+    },
+    {
+      "era": "Judas Contract",
+      "years": "1984",
+      "title": "The inside job",
+      "beat": "Deathstroke plants the young Terra inside the Titans as a spy, leading to one of the team's most famous stories."
+    },
+    {
+      "era": "Solo series",
+      "years": "1991–1996",
+      "title": "Antihero run",
+      "beat": "Deathstroke gets his own long-running series as a mercenary with his own code, rather than a straight villain."
+    },
+    {
+      "era": "Priest era",
+      "years": "2016–2019",
+      "title": "Family man from hell",
+      "beat": "Christopher Priest's acclaimed run digs into Slade's damaged relationships with his children and his own cruelty."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Deathstroke started out as a Batman villain.",
+      "spice": 1,
+      "truth": "He was created as a Teen Titans villain in 1980 and only later became a regular Batman foe."
+    },
+    {
+      "type": "gossip",
+      "text": "Deadpool's real name, Wade Wilson, was a deliberate nod by writer Fabian Nicieza to Slade Wilson.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He lost his right eye when his wife Adeline shot him, after their son was hurt because of Slade's work.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "An army experiment boosted his body and his mind, making him a master tactician.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Manu Bennett played him on Arrow, and Joe Manganiello played him in Justice League (2017).",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Deathstroke's real name?",
+      "options": ["Wade Wilson", "Slade Wilson", "Floyd Lawton", "Grant Wilson"],
+      "answer": 1,
+      "why": "Slade Wilson."
+    },
+    {
+      "q": "Which team did Deathstroke first fight?",
+      "options": ["Justice League", "Justice Society", "Outsiders", "New Teen Titans"],
+      "answer": 3,
+      "why": "The New Teen Titans, in 1980."
+    },
+    {
+      "q": "Who did Deathstroke plant inside the Titans as a spy?",
+      "options": ["Terra", "Raven", "Jinx", "Cheshire"],
+      "answer": 0,
+      "why": "Terra, in The Judas Contract."
+    }
+  ],
+  "rivals": ["nightwing", "cyborg", "beast-boy", "starfire", "raven", "batman"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f28c28",
+      "c2": "#1a1a1a",
+      "c3": "#1f3a93"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "One eye, two swords, always on the clock."
+  },
+  "timeline": [
+    {
+      "year": 1980,
+      "kind": "debut",
+      "title": "The Terminator",
+      "note": "New Teen Titans #2 introduces Slade Wilson, a one-eyed mercenary who takes over a contract on the Titans."
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "The Judas Contract",
+      "note": "Slade plants the traitor Terra inside the Titans and nearly destroys the team.",
+      "with": "nightwing"
+    },
+    {
+      "year": 1991,
+      "kind": "turn",
+      "title": "Antihero star",
+      "note": "Deathstroke the Terminator #1 gives Slade his own book, and he becomes a cult antihero."
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Slade on TV",
+      "note": "The Teen Titans cartoon makes him the masked chessmaster Slade, voiced by Ron Perlman.",
+      "with": "raven"
+    },
+    {
+      "year": 2013,
+      "kind": "screen",
+      "title": "Arrow",
+      "note": "Manu Bennett plays Slade on Arrow, turning from island ally to sworn enemy.",
+      "with": "green-arrow"
+    },
+    {
+      "year": 2016,
+      "kind": "legacy",
+      "title": "Priest's run",
+      "note": "Christopher Priest relaunches Deathstroke in a run often named among the character's best."
+    }
+  ],
+  "heat": 55,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Deathstroke",
+    "wikidata": "https://www.wikidata.org/wiki/Q1181328"
+  },
+  "photo": {
+    "file": "deathstroke.webp",
+    "alt": "Deathstroke photograph",
+    "artist": "GabboT",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:C2E2_2015_-_Deathstroke_(17306134175).jpg"
+  }
+}

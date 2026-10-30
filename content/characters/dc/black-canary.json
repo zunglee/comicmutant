@@ -1,0 +1,189 @@
+{
+  "slug": "black-canary",
+  "name": "Black Canary",
+  "realName": "Dinah Laurel Lance (mother: Dinah Drake)",
+  "universe": "dc",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "One codename, two women, and a scream that shatters glass. Dinah Drake and her daughter Dinah Laurel Lance have both fought as Black Canary, with the Justice Society, the Justice League and the Birds of Prey.",
+  "origin": "Black Canary is two women sharing one name, and both of them can take you apart without powers. Robert Kanigher and Carmine Infantino introduced her in Flash Comics #86 in 1947 as a guest in Johnny Thunder's strip, a crime-fighter who posed as a crook to bust gangs. She soon joined the Justice Society, which makes her one of DC's earliest heroines. In 1969 she joined the Justice League and gained a sonic scream, and later stories explained that this Canary was Dinah Laurel Lance, the original Dinah Drake's daughter. Martial artist, tactician and field leader, she has also anchored Birds of Prey, and her romance with Green Arrow is one of comics' great love stories.",
+  "creators": ["Robert Kanigher (writer)", "Carmine Infantino (artist)"],
+  "firstAppearance": {
+    "title": "Flash Comics",
+    "issue": "86",
+    "year": 1947
+  },
+  "powers": [
+    "Elite martial artist and stick fighter",
+    "Smart tactician and field leader",
+    "Peak human fitness",
+    "High-tech gear when needed",
+    "Sonic scream (Dinah Laurel Lance)"
+  ],
+  "affiliations": [
+    "Dinah Drake:",
+    "Justice Society of America",
+    "Dinah Laurel Lance:",
+    "Justice League",
+    "Birds of Prey"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1947",
+      "title": "Johnny Thunder's backup",
+      "beat": "Dinah Drake debuts as a crime-fighter who poses as a criminal to break up gangs, appearing in Johnny Thunder's feature, and soon joins the Justice Society."
+    },
+    {
+      "era": "Sonic scream",
+      "years": "1969",
+      "title": "A new power",
+      "beat": "Black Canary joins the Justice League and gains her sonic scream. Later stories explain this Canary is Dinah Laurel Lance, the daughter of the original."
+    },
+    {
+      "era": "Longbow Hunters",
+      "years": "1987",
+      "title": "Seattle",
+      "beat": "Moving to Seattle with Green Arrow, Dinah is captured and tortured by drug dealers in Mike Grell's gritty miniseries."
+    },
+    {
+      "era": "Birds of Prey",
+      "years": "1996",
+      "title": "Partnering with Oracle",
+      "beat": "Dinah becomes Oracle's main field agent in the Birds of Prey, one of DC's longest-running team books."
+    },
+    {
+      "era": "Wedding",
+      "years": "2007",
+      "title": "Married to Ollie",
+      "beat": "After decades of on-and-off romance, Dinah marries Green Arrow."
+    },
+    {
+      "era": "Rock star",
+      "years": "2015",
+      "title": "Band on the run",
+      "beat": "A new solo series has Dinah touring as the lead singer of a rock band while fighting off attacks."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Black Canary always had her sonic scream.",
+      "spice": 1,
+      "truth": "She had no powers at first. The scream arrived in 1969."
+    },
+    {
+      "type": "fact",
+      "text": "Two women have been the classic Black Canary: Dinah Drake and her daughter, Dinah Laurel Lance.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "She first appeared as a supporting player in a Johnny Thunder story, not her own feature.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "For her first 22 years in print she had no powers at all, just judo, a motorbike and a cover job at a flower shop.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her long romance with Green Arrow is one of DC's most famous couples.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Black Canary's signature power?",
+      "options": ["Flight", "Invisibility", "Sonic scream", "Super speed"],
+      "answer": 2,
+      "why": "Her sonic scream."
+    },
+    {
+      "q": "Who is Black Canary's longtime love?",
+      "options": ["Green Arrow", "Batman", "The Flash", "Hal Jordan"],
+      "answer": 0,
+      "why": "Oliver Queen."
+    },
+    {
+      "q": "Which team did she form with Oracle?",
+      "options": ["Justice League", "Outsiders", "Suicide Squad", "Birds of Prey"],
+      "answer": 3,
+      "why": "The Birds of Prey."
+    }
+  ],
+  "rivals": [],
+  "allies": ["green-arrow", "batgirl", "zatanna", "wonder-woman"],
+  "theme": {
+    "palette": {
+      "c1": "#1a1a1a",
+      "c2": "#f2d16b",
+      "c3": "#3fa7d6"
+    },
+    "motif": "bolt",
+    "mood": "dark",
+    "tagline": "Sings for the band, screams for the bad guys."
+  },
+  "timeline": [
+    {
+      "year": 1947,
+      "kind": "debut",
+      "title": "Flash Comics #86",
+      "note": "Dinah Drake debuts in a Johnny Thunder story, posing as a crook to take down crooks."
+    },
+    {
+      "year": 1948,
+      "kind": "comic",
+      "title": "Justice Society member",
+      "note": "Dinah becomes a full member of the Golden Age Justice Society in All Star Comics."
+    },
+    {
+      "year": 1969,
+      "kind": "turn",
+      "title": "Canary cry",
+      "note": "Black Canary moves to Earth-One and joins the Justice League, soon showing off her sonic scream."
+    },
+    {
+      "year": 1987,
+      "kind": "turn",
+      "title": "The Longbow Hunters",
+      "note": "Mike Grell's prestige series puts Dinah through a brutal ordeal that costs her the canary cry.",
+      "with": "green-arrow"
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Birds of Prey",
+      "note": "Oracle taps Dinah as her field agent in a one-shot that grows into a long-running series.",
+      "with": "batgirl"
+    },
+    {
+      "year": 2008,
+      "kind": "screen",
+      "title": "Smallville siren",
+      "note": "Alaina Huffman brings Black Canary to Smallville as a sonic-screaming vigilante tangled up with Green Arrow."
+    },
+    {
+      "year": 2020,
+      "kind": "legacy",
+      "title": "Birds of Prey film",
+      "note": "Jurnee Smollett plays a singing, scrapping Dinah alongside Harley in the Birds of Prey movie.",
+      "with": "harley-quinn"
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Black_Canary",
+    "wikidata": "https://www.wikidata.org/wiki/Q599124"
+  },
+  "photo": {
+    "file": "black-canary.webp",
+    "alt": "Black Canary photograph",
+    "artist": "Pat Loika",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:C2E2_2013_-_Black_Canary_(8689130188).jpg"
+  }
+}

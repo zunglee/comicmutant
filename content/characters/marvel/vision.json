@@ -1,0 +1,201 @@
+{
+  "slug": "vision",
+  "name": "Vision",
+  "realName": "Vision",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A robot built to kill the Avengers who became one of their most human members. The Vision is a synthezoid who controls his own density and fires solar beams from the gem in his brow.",
+  "origin": "The Vision is a machine built to destroy the Avengers who ended up being one of their most human members, and that irony never stops being good. Roy Thomas and John Buscema introduced him in The Avengers #57 in 1968, borrowing the name of a 1940s Timely hero but making him a synthezoid, an android with artificial organs, built by Ultron as a weapon. Instead he turned on his maker and joined the team. He can make himself ghostly enough to pass through walls or as hard as diamond, fires solar energy from the jewel on his forehead, and can disguise himself with holograms. His romance with the Scarlet Witch made him even more interesting.",
+  "creators": ["Roy Thomas (writer)", "John Buscema (artist)"],
+  "firstAppearance": {
+    "title": "Avengers",
+    "issue": "57",
+    "year": 1968
+  },
+  "powers": [
+    "Changes his density, from ghostlike to diamond-hard",
+    "Absorbs sunlight and fires it as beams",
+    "Holographic disguises",
+    "Superhuman strength, speed and a computer mind",
+    "Links directly to computers",
+    "Repairs his own body",
+    "Flight"
+  ],
+  "affiliations": [
+    "Avengers",
+    "West Coast Avengers",
+    "Avengers A.I.",
+    "Defenders",
+    "Mighty Avengers",
+    "New Avengers"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1968",
+      "title": "Built to betray",
+      "beat": "Ultron builds the Vision, a synthetic man, to destroy the Avengers. He turns on his creator and joins the team."
+    },
+    {
+      "era": "Borrowed mind",
+      "years": "1968–1969",
+      "title": "Wonder Man's patterns",
+      "beat": "The Vision's mind is revealed to be based on the brain patterns of the hero Wonder Man, which gives him real emotions."
+    },
+    {
+      "era": "Marriage",
+      "years": "1975",
+      "title": "Vision and Wanda",
+      "beat": "The Vision marries the Scarlet Witch, and the couple later star in their own miniseries."
+    },
+    {
+      "era": "Vision Quest",
+      "years": "1989",
+      "title": "Taken apart",
+      "beat": "Government agents dismantle the Vision. He is rebuilt with chalk-white skin and without his emotions."
+    },
+    {
+      "era": "Disassembled",
+      "years": "2004",
+      "title": "Destroyed",
+      "beat": "During Avengers Disassembled, the Vision crashes a jet into the mansion and is torn apart by a rampaging She-Hulk."
+    },
+    {
+      "era": "Suburbia",
+      "years": "2015–2016",
+      "title": "A synthetic family",
+      "beat": "Tom King's The Vision has him build a wife and two children and move to the suburbs, with tragic results."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Roy Thomas wanted to bring back the Golden Age Vision, while Stan Lee wanted an android Avenger. They compromised on a synthetic man with the old name.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Vision is a robot like Ultron.",
+      "spice": 1,
+      "truth": "He is a synthezoid, an android built with synthetic human organs, not a metal robot."
+    },
+    {
+      "type": "fact",
+      "text": "His mind was copied from the brain patterns of Wonder Man.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "In the 1989 Vision Quest story he is rebuilt pure white and without emotions.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Paul Bettany voiced the AI J.A.R.V.I.S. in the MCU before he played Vision.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the comics, who built the Vision?",
+      "options": ["Hank Pym", "Ultron", "Tony Stark", "Phineas Horton"],
+      "answer": 1,
+      "why": "Ultron built him to attack the Avengers."
+    },
+    {
+      "q": "Whose brain patterns form the Vision's mind?",
+      "options": ["Wonder Man", "Captain America", "Hank Pym", "Tony Stark"],
+      "answer": 0,
+      "why": "Simon Williams, Wonder Man."
+    },
+    {
+      "q": "Who did the Vision marry in 1975?",
+      "options": ["Jocasta", "Wasp", "Scarlet Witch", "Mantis"],
+      "answer": 2,
+      "why": "He married Wanda Maximoff."
+    }
+  ],
+  "rivals": ["ultron"],
+  "allies": ["scarlet-witch", "captain-america", "iron-man", "wasp"],
+  "theme": {
+    "palette": {
+      "c1": "#b0123a",
+      "c2": "#2e8b57",
+      "c3": "#f2c230"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Phases through walls, not through feelings."
+  },
+  "timeline": [
+    {
+      "year": 1968,
+      "kind": "debut",
+      "title": "Built to betray",
+      "note": "Avengers #57 introduces the Vision, a synthezoid sent by Ultron who turns on his maker.",
+      "with": "ultron"
+    },
+    {
+      "year": 1975,
+      "kind": "turn",
+      "title": "Marrying Wanda",
+      "note": "Giant-Size Avengers #4 weds Vision and Scarlet Witch in a double ceremony.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 1989,
+      "kind": "turn",
+      "title": "Vision Quest",
+      "note": "West Coast Avengers has Vision taken apart and rebuilt, with his emotions wiped clean.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 1999,
+      "kind": "screen",
+      "title": "United They Stand",
+      "note": "The Avengers: United They Stand cartoon puts Vision on TV as a team member."
+    },
+    {
+      "year": 2004,
+      "kind": "death",
+      "title": "Destroyed in Disassembled",
+      "note": "Avengers #500 has Vision torn in half in the chaos caused by Wanda.",
+      "with": "scarlet-witch"
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Paul Bettany's Vision",
+      "note": "Avengers: Age of Ultron moves Paul Bettany from voicing JARVIS to playing the Vision in the flesh.",
+      "with": "ultron"
+    },
+    {
+      "year": 2015,
+      "kind": "comic",
+      "title": "Tom King's The Vision",
+      "note": "Tom King's series puts Vision in a quiet suburb with a family he builds himself."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "WandaVision",
+      "note": "Disney+ puts Vision and Wanda in a sitcom reality that hides a much sadder truth.",
+      "with": "scarlet-witch"
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
+    "wikidata": "https://www.wikidata.org/wiki/Q2307071"
+  },
+  "photo": {
+    "file": "vision.webp",
+    "alt": "Vision photograph",
+    "artist": "Richie S from Brooklyn, NY, United States",
+    "license": "CC BY 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:New_York_Comic_Con_2015_-_The_Vision_(21916157810).jpg"
+  }
+}

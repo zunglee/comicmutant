@@ -1,0 +1,41 @@
+{
+  "slug": "rook-anselm",
+  "name": "ROOK ANSELM",
+  "alias": "KEEL",
+  "kind": "hero",
+  "archetype": "mass-giant",
+  "bio": "A Dusk Quarter shipwright born under the open Seam, shifted so heavy he sank the first boat he built. He became the keel of the resistance instead: a wall of borrowed mass along the river that the Unspooled have never crossed. Ninety days on his feet.",
+  "catchphrase": "Your strand had eleven seconds. Ours is still counting.",
+  "rig": {
+    "build": "heavy",
+    "head": "helmet",
+    "cape": false,
+    "skin": "#8b5a3c",
+    "suit": "#26323f",
+    "trim": "#b4ff3b",
+    "eye": "#ffffff",
+    "emblem": "diamond"
+  },
+  "stats": {
+    "power": 8,
+    "speed": 2,
+    "defense": 9,
+    "special": 5
+  },
+  "special": {
+    "name": "River Wall",
+    "kind": "shockwave"
+  },
+  "rivals": ["vesper-kine", "grath-holloway", "tamal-ghosh"],
+  "theme": {
+    "palette": {
+      "c1": "#b4ff3b",
+      "c2": "#141b24",
+      "c3": "#e0a458"
+    },
+    "motif": "water",
+    "mood": "dark",
+    "tagline": "Built the wall. Stood on it."
+  },
+  "heat": 58
+}

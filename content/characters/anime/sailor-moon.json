@@ -1,0 +1,187 @@
+{
+  "slug": "sailor-moon",
+  "name": "Sailor Moon",
+  "realName": "Usagi Tsukino",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Kodansha (Nakayoshi)",
+  "summary": "Naoko Takeuchi's clumsy, crybaby schoolgirl who turns out to be the reincarnated Moon Princess and the leader of the Sailor Guardians. Debuted in Nakayoshi in December 1991.",
+  "origin": "Usagi Tsukino is a fourteen-year-old in Tokyo who is bad at tests, often late and quick to cry. One day she rescues a black cat with a crescent mark on its forehead. The cat, Luna, can talk, and tells her she is destined to become Sailor Moon, a guardian who fights the monsters of the Dark Kingdom. As she gathers the other Sailor Guardians, Usagi learns she is the reborn Princess Serenity of the ancient Moon Kingdom, and that the masked Tuxedo Mask is her love from a past life. Takeuchi grew the idea out of her earlier one-shot Codename: Sailor V, and the name is a pun: Tsukino Usagi sounds like the Japanese phrase for the rabbit in the moon.",
+  "creators": ["Naoko Takeuchi"],
+  "firstAppearance": {
+    "title": "Pretty Guardian Sailor Moon",
+    "issue": "Chapter 1",
+    "year": 1991
+  },
+  "powers": [
+    "Transformation via her brooch and transformation phrases",
+    "Moon Tiara Action, a thrown tiara disc",
+    "Healing and purifying attacks with her wands and sceptres",
+    "The Silver Crystal, the Moon Kingdom's mightiest gem",
+    "Later forms such as Super Sailor Moon and Eternal Sailor Moon",
+    "Turning former enemies into friends with sheer compassion"
+  ],
+  "affiliations": ["Sailor Guardians", "Moon Kingdom"],
+  "storyline": [
+    {
+      "era": "Dark Kingdom",
+      "years": "1991–1992",
+      "title": "A cat with a crescent",
+      "beat": "Luna awakens Usagi as Sailor Moon, and she teams up with Mercury, Mars, Jupiter and Venus to stop Queen Beryl's Dark Kingdom."
+    },
+    {
+      "era": "Black Moon",
+      "years": "1992–1993",
+      "title": "A pink-haired visitor",
+      "beat": "A girl called Chibiusa drops in from the future and turns out to be Usagi and Mamoru's own daughter."
+    },
+    {
+      "era": "Infinity",
+      "years": "1993–1994",
+      "title": "Outer Guardians",
+      "beat": "New guardians from the outer planets arrive, and Usagi gains a stronger Super form to face the Death Busters."
+    },
+    {
+      "era": "Future",
+      "years": "1990s",
+      "title": "Neo-Queen Serenity",
+      "beat": "Glimpses of the 30th century show Usagi ruling a glittering Crystal Tokyo as Neo-Queen Serenity."
+    },
+    {
+      "era": "Stars",
+      "years": "1995–1997",
+      "title": "The final battle",
+      "beat": "In the last arc she faces Sailor Galaxia and the fate of every star seed, winning through mercy instead of force."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Her name is a pun: Tsukino means moon field and Usagi means rabbit, together echoing the Japanese rabbit in the moon.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Codename: Sailor V was Usagi's own earlier series.",
+      "truth": "Sailor V is Minako Aino, who later becomes Sailor Venus. Her one-shot came out a few months before Sailor Moon.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The English dubs renamed her twice: Serena in the DiC and Cloverway versions, and Bunny in the Mixx manga.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "When Sailor Moon Crystal began in 2014, Kotono Mitsuishi was the only original voice actor brought back.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "She was chosen as one of the anime ambassadors for the Tokyo 2020 Olympics.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "IGN placed her 9th on its 2009 list of the greatest anime characters, the highest female pick.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "In May 2020 artists flooded social media with the #sailormoonredraw challenge, restyling one anime frame in their own art.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "On stage, more than a dozen actresses have played Usagi in the long-running Sailor Moon musicals.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of Usagi's talking cat?",
+      "options": ["Artemis", "Diana", "Luna", "Selene"],
+      "answer": 2,
+      "why": "Luna, the black cat with a crescent on her forehead."
+    },
+    {
+      "q": "Who is Tuxedo Mask?",
+      "options": ["Mamoru Chiba", "Motoki Furuhata", "Seiya Kou", "Umino Gurio"],
+      "answer": 0,
+      "why": "Mamoru Chiba, the reborn Prince Endymion."
+    },
+    {
+      "q": "Who voices Usagi in Japanese?",
+      "options": ["Megumi Hayashibara", "Aya Hisakawa", "Kotono Mitsuishi", "Rica Fukami"],
+      "answer": 2,
+      "why": "Kotono Mitsuishi has played her from 1992 through the Cosmos films."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1e3a8a",
+      "c2": "#e0245e",
+      "c3": "#f9d342"
+    },
+    "motif": "magic",
+    "mood": "light",
+    "tagline": "Late for class, right on time to save the galaxy."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+  },
+  "timeline": [
+    {
+      "year": 1991,
+      "kind": "debut",
+      "title": "Nakayoshi debut",
+      "note": "The first Sailor Moon chapter appears in Nakayoshi on 28 December 1991."
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "The anime premieres",
+      "note": "Toei Animation's series starts on TV Asahi in March 1992 and runs for 200 episodes across five seasons."
+    },
+    {
+      "year": 1993,
+      "kind": "screen",
+      "title": "Sailor Moon on stage",
+      "note": "The first stage musical opens in mid-1993, starting a theatre tradition that still returns."
+    },
+    {
+      "year": 1997,
+      "kind": "legacy",
+      "title": "Manga and anime wrap up",
+      "note": "Both the manga and the original anime come to an end in February 1997."
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Live-action series",
+      "note": "Pretty Guardian Sailor Moon airs for a year with Miyuu Sawai as Usagi."
+    },
+    {
+      "year": 2014,
+      "kind": "screen",
+      "title": "Sailor Moon Crystal",
+      "note": "A new anime that sticks closer to the manga premieres in July 2014."
+    },
+    {
+      "year": 2021,
+      "kind": "screen",
+      "title": "Eternal films",
+      "note": "The two-part Sailor Moon Eternal movies reach Japanese cinemas in January and February 2021."
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Cosmos closes the story",
+      "note": "The two Sailor Moon Cosmos films adapt the final arc in June 2023."
+    }
+  ],
+  "heat": 78
+}

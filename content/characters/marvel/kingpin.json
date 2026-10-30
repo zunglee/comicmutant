@@ -1,0 +1,178 @@
+{
+  "slug": "kingpin",
+  "name": "Kingpin",
+  "realName": "Wilson Grant Fisk",
+  "universe": "marvel",
+  "kind": "villain",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The crime boss who looks soft and hits like a truck. Wilson Fisk runs New York's underworld from behind a respectable front, and he became Daredevil's archenemy after starting out against Spider-Man.",
+  "origin": "The Kingpin is what you get when a crime boss looks soft and turns out to be a wall. Stan Lee and John Romita Sr. introduced Wilson Fisk in The Amazing Spider-Man #50 in 1967 as the man running New York's underworld, and he spent his first years as a Spider-Man problem. Then in 1981 Frank Miller pulled him into Daredevil, where he found his real calling as Matt Murdock's archenemy, a patient planner who ruins lives through the system instead of with his fists. He can still use his fists: that huge frame is mostly muscle, and he fights with frightening skill. Bullseye may be Daredevil's craziest enemy, but Fisk is his worst.",
+  "creators": ["Stan Lee (writer)", "John Romita Sr. (artist)"],
+  "firstAppearance": {
+    "title": "The Amazing Spider-Man",
+    "issue": "50",
+    "year": 1967
+  },
+  "powers": [
+    "Brilliant criminal planner",
+    "Huge strength and toughness, mostly muscle",
+    "Formidable hand-to-hand fighter",
+    "Trick cane with a laser and sleeping gas"
+  ],
+  "affiliations": ["Hydra", "The Hand", "Emissaries of Evil", "Thunderbolts", "Sinister Six"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1967",
+      "title": "The crime boss",
+      "beat": "Wilson Fisk first appears in The Amazing Spider-Man #50 as the huge, calm boss who runs New York's organised crime."
+    },
+    {
+      "era": "Miller's villain",
+      "years": "1981",
+      "title": "Daredevil's nemesis",
+      "beat": "Frank Miller moves the Kingpin into Daredevil's world, where he becomes Matt Murdock's greatest enemy."
+    },
+    {
+      "era": "Born Again",
+      "years": "1986",
+      "title": "Destroying Murdock",
+      "beat": "Fisk learns Daredevil's identity and methodically destroys his life, only to watch Matt rise again."
+    },
+    {
+      "era": "Mayor Fisk",
+      "years": "2017",
+      "title": "Elected",
+      "beat": "Fisk runs for mayor of New York and wins, gaining legal power over the heroes he once fought from the shadows."
+    },
+    {
+      "era": "Devil's Reign",
+      "years": "2021–2022",
+      "title": "Outlawing heroes",
+      "beat": "As mayor, Fisk bans vigilante activity and hunts the city's heroes."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Kingpin is just a fat man in a suit.",
+      "spice": 1,
+      "truth": "The comics describe his bulk as mostly muscle, and he is a dangerous fighter."
+    },
+    {
+      "type": "fact",
+      "text": "He debuted as a Spider-Man villain, not a Daredevil one. Frank Miller moved him over in 1981.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Michael Clarke Duncan played him in 2003. Vincent D'Onofrio took the role in Daredevil and later Hawkeye.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He became the elected mayor of New York in 2017.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His wife Vanessa is often his one weak spot.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hero did the Kingpin first fight?",
+      "options": ["Daredevil", "Spider-Man", "Punisher", "Luke Cage"],
+      "answer": 1,
+      "why": "He debuted in The Amazing Spider-Man #50."
+    },
+    {
+      "q": "Which office did Fisk win in 2017?",
+      "options": ["Governor", "Senator", "Police commissioner", "Mayor of New York"],
+      "answer": 3,
+      "why": "He was elected mayor."
+    },
+    {
+      "q": "What is the Kingpin's real name?",
+      "options": ["Wilson Fisk", "Norman Osborn", "Silvio Manfredi", "Obadiah Stane"],
+      "answer": 0,
+      "why": "Wilson Grant Fisk."
+    }
+  ],
+  "rivals": ["daredevil", "spider-man"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f2f2f2",
+      "c2": "#5b2a86",
+      "c3": "#1a1a1a"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "Runs the city with a cane and a spreadsheet."
+  },
+  "timeline": [
+    {
+      "year": 1967,
+      "kind": "debut",
+      "title": "The crime boss in the white suit",
+      "note": "The Amazing Spider-Man #50 introduces Wilson Fisk, a huge mob boss who is all muscle under the bulk.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1967,
+      "kind": "screen",
+      "title": "Cartoon crime lord",
+      "note": "Fisk joins the villains of the 1967 Spider-Man cartoon in his first TV appearance.",
+      "with": "spider-man"
+    },
+    {
+      "year": 1981,
+      "kind": "turn",
+      "title": "Daredevil's arch-enemy",
+      "note": "Frank Miller pulls Fisk into Daredevil #170 and makes him Matt Murdock's main foe for good.",
+      "with": "daredevil"
+    },
+    {
+      "year": 1986,
+      "kind": "comic",
+      "title": "Born Again",
+      "note": "Fisk learns Daredevil's identity and methodically wrecks his life, in one of Marvel's most famous stories.",
+      "with": "daredevil"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "John Rhys-Davies plays Fisk",
+      "note": "The Trial of the Incredible Hulk TV movie casts John Rhys-Davies as the Kingpin.",
+      "with": "hulk"
+    },
+    {
+      "year": 2003,
+      "kind": "screen",
+      "title": "Michael Clarke Duncan's Fisk",
+      "note": "The Daredevil movie casts Michael Clarke Duncan as a towering Kingpin."
+    },
+    {
+      "year": 2015,
+      "kind": "screen",
+      "title": "Vincent D'Onofrio's Fisk",
+      "note": "Netflix's Daredevil gives Fisk a soft voice and a terrifying temper, a definitive take on the role.",
+      "with": "daredevil"
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Mayor Fisk on Disney+",
+      "note": "Daredevil: Born Again picks up with D'Onofrio's Fisk running New York City as mayor.",
+      "with": "daredevil"
+    }
+  ],
+  "heat": 50,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kingpin_(character)",
+    "wikidata": "https://www.wikidata.org/wiki/Q1753322"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "slug": "pell-oriane",
+  "name": "PELL ORIANE",
+  "alias": "DRIFT",
+  "kind": "hero",
+  "archetype": "dimensional-traveler",
+  "bio": "Catalogue number 0301, born in the Quiet before the Seal and contained in 2009. On the night of the Purge she found the Citadel's walls were only walls in one strand, stepped through, and arrived still wearing her room number.",
+  "catchphrase": "The wall was there. I just was not.",
+  "rig": {
+    "build": "slim",
+    "head": "bare",
+    "cape": false,
+    "skin": "#e6b99a",
+    "suit": "#e9f1f5",
+    "trim": "#2d9cdb",
+    "eye": "#00a3ff",
+    "emblem": "none"
+  },
+  "stats": {
+    "power": 2,
+    "speed": 7,
+    "defense": 4,
+    "special": 9
+  },
+  "special": {
+    "name": "Through The Wall",
+    "kind": "dash"
+  },
+  "rivals": ["imra-sallow", "the-cartographer"],
+  "theme": {
+    "palette": {
+      "c1": "#6fd3ff",
+      "c2": "#ede8de",
+      "c3": "#ff6b9d"
+    },
+    "motif": "ice",
+    "mood": "light",
+    "tagline": "She kept the number and lost the wall."
+  },
+  "heat": 62
+}

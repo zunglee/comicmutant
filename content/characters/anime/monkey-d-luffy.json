@@ -1,0 +1,181 @@
+{
+  "slug": "monkey-d-luffy",
+  "name": "Monkey D. Luffy",
+  "universe": "anime",
+  "kind": "hero",
+  "medium": "manga",
+  "publisher": "Shueisha (Weekly Shōnen Jump)",
+  "summary": "Eiichiro Oda's rubber-bodied pirate captain in a straw hat, sailing the Grand Line with his crew to find the One Piece and become King of the Pirates. Aboard Weekly Shōnen Jump since 1997.",
+  "origin": "As a small boy in a quiet village, Luffy idolised the pirate Red-Haired Shanks. He gobbled up a strange Devil Fruit that turned his body to rubber, and later Shanks lost an arm saving him from a sea monster. Leaving his precious straw hat with Luffy, Shanks made the boy promise to return it once he had become a great pirate. Years later Luffy sets out in a tiny boat to gather a crew and win the title of King of the Pirates. He is the grandson of the Marine hero Garp and the son of the revolutionary leader Dragon, though he cares far more about adventure, freedom and dinner than about family politics. Oda has said he first aimed for the kind of manly lead found in Akira Toriyama's Dragon Ball.",
+  "creators": ["Eiichiro Oda"],
+  "firstAppearance": {
+    "title": "One Piece",
+    "issue": "Chapter 1",
+    "year": 1997
+  },
+  "powers": [
+    "A rubber body that stretches, bounces and shrugs off blunt hits",
+    "Gear Second, Third and Fourth power-up forms",
+    "Gear 5, the awakened form tied to the sun god Nika",
+    "Armament, Observation and Conqueror's Haki",
+    "Monstrous appetite and stamina",
+    "Gets every crew member to follow him anywhere"
+  ],
+  "affiliations": ["Straw Hat Pirates", "The Four Emperors (after Wano)"],
+  "storyline": [
+    {
+      "era": "East Blue",
+      "years": "1997",
+      "title": "A crew of one",
+      "beat": "Luffy sets sail alone and starts collecting a crew: the swordsman Zoro, the navigator Nami, the sniper Usopp and the cook Sanji."
+    },
+    {
+      "era": "Grand Line",
+      "years": "Early 2000s",
+      "title": "Kingdoms and sky islands",
+      "beat": "The crew topples the warlord Crocodile to save Alabasta, then goes up to a sky island and back again."
+    },
+    {
+      "era": "Marineford",
+      "years": "Late 2000s",
+      "title": "Losing Ace",
+      "beat": "Luffy storms a prison and a war to rescue his brother Ace, only for Ace to die protecting him. The blow sends him off to train for two years."
+    },
+    {
+      "era": "New World",
+      "years": "2010s",
+      "title": "Breaking the warlords",
+      "beat": "Reunited with a stronger crew, he takes down one tyrant after another, from Doflamingo on Dressrosa to Big Mom's sweet-themed empire."
+    },
+    {
+      "era": "Wano",
+      "years": "2018–2022",
+      "title": "Sun god awakened",
+      "beat": "In Wano, Luffy's fruit reveals its true nature, he turns into the playful Gear 5 and defeats Kaido to free the country."
+    },
+    {
+      "era": "Final saga",
+      "years": "2022 onward",
+      "title": "Emperor of the Sea",
+      "beat": "Now named one of the Four Emperors, Luffy heads into the final stretch of the hunt for the One Piece."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Before One Piece there were two Romance Dawn one-shots in 1996, both testing an early version of Luffy.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Luffy simply ate the Gum-Gum Fruit, a rubber power and nothing more.",
+      "truth": "Its real name is the Human-Human Fruit, Model: Nika. Its true identity was kept hidden behind the rubber story for ages.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Mayumi Tanaka has voiced Luffy in Japanese since the anime began in 1999.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "His first English voice came from the heavily edited 4Kids dub, before the role passed to Colleen Clinkenbeard in 2007.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Luffy's birthday is 5 May, Children's Day in Japan, which suits the biggest kid on the sea.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "His Macy's Thanksgiving Day Parade balloon debuted in 2023, and a tree punctured its straw hat along the route.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "One Piece holds the Guinness record for the most copies published of a comic series by a single author, first set in 2015.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Luffy his straw hat?",
+      "options": ["Garp", "Ace", "Shanks", "Whitebeard"],
+      "answer": 2,
+      "why": "Red-Haired Shanks left it with him as a promise."
+    },
+    {
+      "q": "Who is Luffy's father?",
+      "options": ["Monkey D. Dragon", "Gol D. Roger", "Monkey D. Garp", "Silvers Rayleigh"],
+      "answer": 0,
+      "why": "Dragon leads the Revolutionary Army. Garp is his grandfather."
+    },
+    {
+      "q": "Who plays Luffy in Netflix's live-action series?",
+      "options": ["Mackenyu", "Iñaki Godoy", "Taz Skylar", "Jacob Romero"],
+      "answer": 1,
+      "why": "Iñaki Godoy took the role for the 2023 series."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#d7262e",
+      "c2": "#2a5caa",
+      "c3": "#f2c14e"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "A stretchy captain, a bottomless stomach and one huge dream."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+  },
+  "timeline": [
+    {
+      "year": 1997,
+      "kind": "debut",
+      "title": "Romance Dawn sets sail",
+      "note": "One Piece chapter 1 runs in Weekly Shōnen Jump in July 1997."
+    },
+    {
+      "year": 1999,
+      "kind": "screen",
+      "title": "The anime begins",
+      "note": "Toei Animation's One Piece series premieres on Fuji TV in October 1999 and is still going."
+    },
+    {
+      "year": 2015,
+      "kind": "legacy",
+      "title": "A Guinness record",
+      "note": "One Piece is named the comic series with the most copies published by a single author."
+    },
+    {
+      "year": 2021,
+      "kind": "screen",
+      "title": "Episode 1,000",
+      "note": "The anime hits four digits in November 2021, deep in the Wano arc."
+    },
+    {
+      "year": 2022,
+      "kind": "turn",
+      "title": "Gear 5 awakens",
+      "note": "Chapter 1044 reveals Luffy's sun-god form, and Oda announces the final saga that June."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Live action on Netflix",
+      "note": "Iñaki Godoy stars as Luffy in the live-action series released on 31 August 2023."
+    },
+    {
+      "year": 2023,
+      "kind": "legacy",
+      "title": "Floating over New York",
+      "note": "Luffy joins the Macy's Thanksgiving Day Parade as a giant balloon in November."
+    }
+  ],
+  "heat": 92
+}

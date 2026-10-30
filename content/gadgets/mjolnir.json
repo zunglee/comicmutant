@@ -1,0 +1,41 @@
+{
+  "slug": "mjolnir",
+  "name": "Mjolnir",
+  "owner": "thor",
+  "firstSeen": {
+    "title": "Journey into Mystery #83",
+    "year": 1962
+  },
+  "summary": "Thor's enchanted war hammer, borrowed from Norse myth: it returns when thrown, calls down storms, carries him through the sky, and refuses to budge for anyone Odin's spell judges unworthy.",
+  "blueprint": "hammer",
+  "parts": [
+    {
+      "label": "Head",
+      "fact": "In the comics it is made of uru, a near-unbreakable Asgardian metal. On film, Hela still catches it and crushes it in her bare hand in Thor: Ragnarok (2017)."
+    },
+    {
+      "label": "Short handle",
+      "fact": "In the Norse myths, Loki became a biting fly and pestered the dwarf working the forge bellows, which is why the finished hammer came out with a stubby one-handed haft."
+    },
+    {
+      "label": "Grip & disguise",
+      "fact": "In early comics, when Thor lived as Dr Donald Blake the hammer took the form of a walking stick, and being apart from it for sixty seconds turned him human again."
+    },
+    {
+      "label": "Strap & enchantment",
+      "fact": "Odin's spell lets only the worthy lift it. Thor whirls it by its leather loop and lets go to fly, and when he throws it the hammer always comes back to his hand."
+    }
+  ],
+  "trivia": [
+    "Captain America first lifted it in the comics in Thor #390 (1988); moviegoers cheered the same feat in Avengers: Endgame (2019).",
+    "In Walt Simonson's 1980s run the alien Beta Ray Bill proved worthy, and was later given a hammer of his own, Stormbreaker.",
+    "Wonder Woman picked it up in the 1996 crossover DC vs. Marvel.",
+    "The myth's version comes from Snorri Sturluson's Prose Edda, where the gods judged the hammer the best of all the dwarves' gifts."
+  ],
+  "sources": [
+    "https://en.wikipedia.org/wiki/Mjolnir_(comics)",
+    "https://norse-mythology.org/tales/loki-and-the-dwarves/",
+    "https://www.marvel.com/comics/issue/11718/read",
+    "https://comicbook.com/marvel/news/thor-ragnarok-mjolnir-destroyed"
+  ]
+}

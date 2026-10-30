@@ -1,0 +1,168 @@
+{
+  "slug": "invincible",
+  "name": "Invincible",
+  "realName": "Markus Sebastian \"Mark\" Grayson",
+  "universe": "other",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Image Comics (Skybound)",
+  "summary": "Robert Kirkman and Cory Walker's teen hero: Mark Grayson, the half-alien son of Earth's greatest hero, who discovers his father came to conquer the planet. Now an Amazon hit.",
+  "origin": "Mark Grayson is the son of Debbie, a human, and Nolan, secretly the alien hero Omni-Man of the Viltrumite race. As a teenager his inherited powers finally switch on and he becomes Invincible. Then everything falls apart. Nolan murders the Guardians of the Globe and admits he was sent to prepare Earth for the Viltrum Empire. Mark refuses to join him and is beaten almost to death. He commits himself to defending Earth from the Viltrumites and many other threats, all while trying to grow up.",
+  "creators": ["Robert Kirkman (writer)", "Cory Walker (artist)"],
+  "firstAppearance": {
+    "title": "Savage Dragon",
+    "issue": "102",
+    "year": 2002
+  },
+  "powers": [
+    "Superhuman strength, stamina and speed",
+    "Near-invulnerability",
+    "Flight, including interstellar travel",
+    "Enhanced healing",
+    "Slowed ageing",
+    "Weakness: certain sound frequencies disrupt his balance and flight"
+  ],
+  "affiliations": ["Guardians of the Globe", "Teen Team", "Invincible Inc.", "The Pact"],
+  "storyline": [
+    {
+      "era": "Preview",
+      "years": "2002",
+      "title": "Savage Dragon #102",
+      "beat": "Invincible first appears in a five-page preview inside another Image title."
+    },
+    {
+      "era": "Family Matters",
+      "years": "2003",
+      "title": "Powers awaken",
+      "beat": "Invincible #1 launches in January 2003. Mark's powers kick in and he picks his hero name."
+    },
+    {
+      "era": "Perfect Strangers",
+      "years": "2003–2004",
+      "title": "Dad's secret",
+      "beat": "Omni-Man is revealed as the Guardians' killer and a would-be conqueror. Father and son fight a brutal battle."
+    },
+    {
+      "era": "Crossover",
+      "years": "Mid-2000s",
+      "title": "Marvel Team-Up",
+      "beat": "An enemy's portal throws Mark into the Marvel Universe, where he teams with Spider-Man against Doctor Octopus."
+    },
+    {
+      "era": "Viltrumite War",
+      "years": "Late run",
+      "title": "Family reunited",
+      "beat": "A reformed Nolan, Mark and half-brother Oliver lead the fight against the Viltrumites and Grand Regent Thragg."
+    },
+    {
+      "era": "Finale",
+      "years": "2018",
+      "title": "Emperor of Viltrum",
+      "beat": "The series ends in February 2018 with Mark leaving Earth to lead the Viltrum Empire into a peaceful era."
+    },
+    {
+      "era": "Television",
+      "years": "2021",
+      "title": "Prime Video",
+      "beat": "Amazon's animated series premieres on 26 March 2021, with Steven Yeun voicing Mark."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Invincible's first appearance was a five-page preview tucked inside Savage Dragon #102.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "He crossed over with Marvel, teaming up with Spider-Man in Marvel Team-Up #14.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "He also teamed up with The Tick in The Tick #100.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Being called Invincible means Mark can't be hurt.",
+      "truth": "He's only nearly invulnerable. He takes savage beatings, and certain sound frequencies throw off his balance and flight.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The main Invincible comic ran from January 2003 to February 2018.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Invincible's father?",
+      "options": ["Thragg", "Allen the Alien", "Omni-Man", "Battle Beast"],
+      "answer": 2,
+      "why": "Nolan Grayson, aka Omni-Man, is a Viltrumite."
+    },
+    {
+      "q": "Which streaming service made the Invincible animated series?",
+      "options": ["Netflix", "Prime Video", "Disney+", "Max"],
+      "answer": 1,
+      "why": "It premiered on Amazon Prime Video in 2021."
+    },
+    {
+      "q": "Which Marvel hero did Invincible team up with?",
+      "options": ["Spider-Man", "Wolverine", "Captain America", "Thor"],
+      "answer": 0,
+      "why": "They met in Marvel Team-Up #14 to fight Doctor Octopus."
+    }
+  ],
+  "rivals": ["omni-man"],
+  "allies": ["spider-man"],
+  "theme": {
+    "palette": {
+      "c1": "#f9d71c",
+      "c2": "#1f4fa3",
+      "c3": "#111111"
+    },
+    "motif": "strength",
+    "mood": "light",
+    "tagline": "Powers arrived right on time. Dad's honesty did not."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Invincible_(character)"
+  },
+  "timeline": [
+    {
+      "year": 2002,
+      "kind": "debut",
+      "title": "Savage Dragon #102",
+      "note": "Mark Grayson sneaks into another Image title in a short preview story."
+    },
+    {
+      "year": 2003,
+      "kind": "comic",
+      "title": "Invincible #1",
+      "note": "Robert Kirkman and Cory Walker launch his own series in January 2003."
+    },
+    {
+      "year": 2005,
+      "kind": "comic",
+      "title": "Marvel Team-Up #14",
+      "note": "A portal drops Mark into the Marvel Universe, where he fights Doctor Octopus beside Spider-Man.",
+      "with": "spider-man"
+    },
+    {
+      "year": 2018,
+      "kind": "comic",
+      "title": "The final issue",
+      "note": "Invincible ends at issue #144 in February 2018 after a 15-year run."
+    },
+    {
+      "year": 2021,
+      "kind": "screen",
+      "title": "Prime Video series",
+      "note": "Amazon's animated adaptation premieres on 26 March 2021 with Steven Yeun voicing Mark.",
+      "with": "omni-man"
+    }
+  ],
+  "heat": 80
+}

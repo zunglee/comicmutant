@@ -1,0 +1,158 @@
+{
+  "slug": "mogambo",
+  "name": "Mogambo",
+  "universe": "indian",
+  "kind": "villain",
+  "medium": "film",
+  "publisher": "Narsimha Enterprises",
+  "summary": "Mr. India's theatrical tyrant: a megalomaniac with a high-tech island lair who wants to conquer India. Amrish Puri's career-defining role (1987).",
+  "origin": "Mogambo is pictured as an eccentric retired army general turned would-be dictator. From a secret island fortress with missiles and acid tanks, he sponsors crime and terror to destabilise India, and he wants the invisibility device built by Arun Verma's father, a man whose death he caused. His army salutes him constantly, and his staff breathe easier when he announces he is pleased. Writers Salim–Javed borrowed his name from the 1953 Hollywood film Mogambo and built him as a larger-than-life, comic-book villain.",
+  "creators": ["Salim–Javed (writers)", "Shekhar Kapur (director)"],
+  "firstAppearance": {
+    "title": "Mr. India",
+    "year": 1987
+  },
+  "powers": [
+    "Private army and island fortress",
+    "Arsenal including intercontinental missiles",
+    "Lair with deadly acid tanks",
+    "Nationwide network of henchmen",
+    "Grand, theatrical intimidation"
+  ],
+  "affiliations": ["Mogambo's private army"],
+  "storyline": [
+    {
+      "era": "Backstory",
+      "years": "Before 1987",
+      "title": "A scientist's killer",
+      "beat": "Mogambo is responsible for the death of Arun Verma's father, the inventor of an invisibility device he still wants."
+    },
+    {
+      "era": "Mr. India",
+      "years": "1987",
+      "title": "Destabilising India",
+      "beat": "Through henchmen like Daga and Teja he runs smuggling and crime rackets, including a plot to steal a golden Hanuman idol."
+    },
+    {
+      "era": "Mr. India",
+      "years": "1987",
+      "title": "Bait for the invisible",
+      "beat": "Thrilled to hear an invisible man exists, he plants bombs around the country to draw Mr. India out."
+    },
+    {
+      "era": "Mr. India",
+      "years": "1987",
+      "title": "Missiles on the island",
+      "beat": "He readies missiles to strike India. When Arun aborts the fuelled launch, they explode and Mogambo dies with his fortress."
+    },
+    {
+      "era": "Legacy",
+      "years": "1987 onward",
+      "title": "Pop-culture icon",
+      "beat": "Mogambo becomes one of Hindi cinema's most quoted villains, often ranked alongside Sholay's Gabbar Singh."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His name comes from the 1953 Hollywood film Mogambo.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Anupam Kher was first in line for Mogambo, but it didn't work out, and Amrish Puri came in late in production.",
+      "spice": 3
+    },
+    {
+      "type": "gossip",
+      "text": "Puri had a detailed sketch of the look made. Producer Boney Kapoor promised the tailor double his fee, so he got ₹20,000 instead of ₹10,000.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Shekhar Kapur wanted to use the catchphrase less, but Javed Akhtar insisted it would become iconic, and it did.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Puri said Kapur wanted a comic-book villain children could enjoy, not a frightening one.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who played Mogambo?",
+      "options": ["Amjad Khan", "Amrish Puri", "Prem Chopra", "Anupam Kher"],
+      "answer": 1,
+      "why": "Amrish Puri got the role after Anupam Kher's casting fell through."
+    },
+    {
+      "q": "Where did Mogambo's name come from?",
+      "options": [
+        "A Swahili king",
+        "A comic-strip villain",
+        "A cricketer",
+        "A 1953 Hollywood film"
+      ],
+      "answer": 3,
+      "why": "Salim–Javed borrowed it from the 1953 film Mogambo."
+    },
+    {
+      "q": "When Mogambo says he is khush, how is he feeling?",
+      "options": ["Hungry", "Angry", "Pleased", "Sleepy"],
+      "answer": 2,
+      "why": "Khush means happy or pleased. His staff dread the moments when he isn't."
+    }
+  ],
+  "rivals": ["mr-india"],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#4a1c40",
+      "c2": "#d4af37",
+      "c3": "#2ecc71"
+    },
+    "motif": "chaos",
+    "mood": "dark",
+    "tagline": "A villain so grand even his henchmen cheer on cue."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+    "film": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+  },
+  "timeline": [
+    {
+      "year": 1987,
+      "kind": "debut",
+      "title": "Amrish Puri's Mogambo",
+      "note": "The island-based crime lord arrives in Mr. India and becomes one of Hindi cinema's most quoted villains.",
+      "with": "mr-india"
+    },
+    {
+      "year": 1987,
+      "kind": "death",
+      "title": "Island blast",
+      "note": "His own fuelled missiles go off and level his fortress with Mogambo still inside.",
+      "with": "mr-india"
+    },
+    {
+      "year": 1989,
+      "kind": "screen",
+      "title": "Southern remakes",
+      "note": "Tamil and Kannada remakes of Mr. India rebuild his role for new audiences."
+    },
+    {
+      "year": 2005,
+      "kind": "legacy",
+      "title": "Amrish Puri dies",
+      "note": "The actor who made Mogambo famous dies in Mumbai in January 2005, aged 72."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "Google Doodle",
+      "note": "Google marks what would have been Amrish Puri's 87th birthday with a Doodle in June 2019."
+    }
+  ],
+  "heat": 70
+}

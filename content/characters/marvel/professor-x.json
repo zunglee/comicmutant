@@ -1,0 +1,198 @@
+{
+  "slug": "professor-x",
+  "name": "Professor X",
+  "realName": "Prof. Charles Francis Xavier",
+  "universe": "marvel",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The teacher with the biggest secret curriculum in comics. Charles Xavier, one of the world's strongest telepaths, founded the X-Men and runs a school for young mutants out of his New York mansion.",
+  "origin": "Charles Xavier is the dad of the X-Men, which means he loves them and also keeps far too many secrets from them. He debuted in The X-Men #1 in 1963, already running a school for gifted youngsters out of his mansion in Westchester County, New York, which was really a training ground for teenage mutants. He is one of the most powerful telepaths on Earth, with a brilliant scientific mind, and he built Cerebro to track down new mutants. His dream of humans and mutants living side by side has driven the X-Men ever since, even when his methods are questionable. He has used a wheelchair for much of his history, and it has never slowed his scheming.",
+  "creators": ["Stan Lee (writer)", "Jack Kirby (artist/co-plotter)"],
+  "firstAppearance": {
+    "title": "The X-Men",
+    "issue": "1",
+    "year": 1963
+  },
+  "powers": [
+    "Powerful telepathy",
+    "Brilliant scientist",
+    "Cerebro, which finds mutants around the world"
+  ],
+  "affiliations": [
+    "X-Men",
+    "Illuminati",
+    "X-Corporation",
+    "The Twelve",
+    "New Mutants",
+    "Genoshan Excalibur",
+    "Starjammers",
+    "Cadre K"
+  ],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1963",
+      "title": "The school",
+      "beat": "Charles Xavier, a powerful telepath who uses a wheelchair, gathers teenage mutants at his school in Westchester, New York, and trains them as the X-Men."
+    },
+    {
+      "era": "Faked death",
+      "years": "1968–1970",
+      "title": "Not really gone",
+      "beat": "Xavier seems to die, but it turns out a shape-shifter had taken his place while the real Charles hid to prepare for an alien invasion."
+    },
+    {
+      "era": "New team",
+      "years": "1975",
+      "title": "Going global",
+      "beat": "In Giant-Size X-Men #1 Xavier recruits an international team including Storm, Nightcrawler and Colossus, relaunching the franchise."
+    },
+    {
+      "era": "Onslaught",
+      "years": "1996",
+      "title": "His own dark side",
+      "beat": "Xavier's buried anger merges with Magneto's mind to create Onslaught, a villain who nearly destroys the heroes."
+    },
+    {
+      "era": "Avengers vs. X-Men",
+      "years": "2012",
+      "title": "Killed by a student",
+      "beat": "Xavier is killed by Cyclops, who is under the influence of the Phoenix Force."
+    },
+    {
+      "era": "Krakoa",
+      "years": "2019",
+      "title": "A mutant nation",
+      "beat": "Xavier, Magneto and Moira MacTaggert build the island nation of Krakoa as a home for all mutants."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "His twin sister Cassandra Nova was introduced in 2001 and immediately ordered a Sentinel attack that wiped out Genosha.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The Juggernaut, Cain Marko, is his stepbrother.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The X-Mansion's address is 1407 Graymalkin Lane, Salem Center, New York.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Old comics blamed his paralysis on the alien villain Lucifer.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Patrick Stewart and James McAvoy have both played Xavier on film.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Charles Xavier's stepbrother?",
+      "options": ["Juggernaut", "Magneto", "Sabretooth", "Mister Sinister"],
+      "answer": 0,
+      "why": "Cain Marko, the Juggernaut."
+    },
+    {
+      "q": "What device amplifies Xavier's telepathy?",
+      "options": ["Danger Room", "Blackbird", "Cerebro", "Sentinel"],
+      "answer": 2,
+      "why": "Cerebro boosts his power to find mutants."
+    },
+    {
+      "q": "What is the name of Xavier's evil twin sister?",
+      "options": ["Selene", "Emma Frost", "Amahl Farouk", "Cassandra Nova"],
+      "answer": 3,
+      "why": "Cassandra Nova debuted in 2001."
+    }
+  ],
+  "rivals": ["magneto"],
+  "allies": ["cyclops", "jean-grey", "storm", "wolverine"],
+  "theme": {
+    "palette": {
+      "c1": "#1c3f94",
+      "c2": "#f2c230",
+      "c3": "#8a5cf6"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "Reads minds. Rarely reads the room."
+  },
+  "timeline": [
+    {
+      "year": 1963,
+      "kind": "debut",
+      "title": "The school opens",
+      "note": "The X-Men #1 introduces Charles Xavier, a bald telepath in a wheelchair who trains young mutants.",
+      "with": "cyclops"
+    },
+    {
+      "year": 1968,
+      "kind": "death",
+      "title": "A faked death",
+      "note": "X-Men #42 kills Xavier, though it later turns out a shape-shifter took his place while he hid."
+    },
+    {
+      "year": 1975,
+      "kind": "comic",
+      "title": "Recruiting a global team",
+      "note": "Giant-Size X-Men #1 has Xavier assemble new mutants from around the world.",
+      "with": "storm"
+    },
+    {
+      "year": 1992,
+      "kind": "screen",
+      "title": "X-Men: The Animated Series",
+      "note": "The Fox Kids cartoon makes Xavier the steady voice of the X-Men for a young audience."
+    },
+    {
+      "year": 1996,
+      "kind": "turn",
+      "title": "Onslaught",
+      "note": "Xavier's dark side, mixed with Magneto's, becomes the giant villain Onslaught in a summer crossover.",
+      "with": "magneto"
+    },
+    {
+      "year": 2000,
+      "kind": "screen",
+      "title": "Patrick Stewart in X-Men",
+      "note": "Bryan Singer's film casts Patrick Stewart as Xavier, a role he played for nearly two decades.",
+      "with": "magneto"
+    },
+    {
+      "year": 2012,
+      "kind": "death",
+      "title": "Killed by his student",
+      "note": "In Avengers vs. X-Men, a Phoenix-powered Cyclops kills his own mentor.",
+      "with": "cyclops"
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "A mutant nation",
+      "note": "House of X has Xavier found a mutant homeland on the living island of Krakoa.",
+      "with": "magneto"
+    }
+  ],
+  "heat": 60,
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Professor_X",
+    "wikidata": "https://www.wikidata.org/wiki/Q838076"
+  },
+  "photo": {
+    "file": "professor-x.webp",
+    "alt": "Professor X photograph",
+    "artist": "William Tung from USA",
+    "license": "CC BY-SA 2.0",
+    "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+    "sourcePage": "https://commons.wikimedia.org/wiki/File:SDCC13_-_Professor_X.jpg"
+  }
+}

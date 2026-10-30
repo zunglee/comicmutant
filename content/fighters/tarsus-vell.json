@@ -1,0 +1,41 @@
+{
+  "slug": "tarsus-vell",
+  "name": "TARSUS VELL",
+  "alias": "THE UNLIT",
+  "kind": "villain",
+  "archetype": "void-sovereign",
+  "bio": "A dying-star surveyor who stared too long into a collapsed sun and returned carrying its hunger. Where he walks, lights gutter. He intends to turn out the galaxy politely, one lamp at a time.",
+  "catchphrase": "Lights out. All of them.",
+  "rig": {
+    "build": "heavy",
+    "head": "crown",
+    "cape": true,
+    "skin": "#6b5f99",
+    "suit": "#120b2e",
+    "trim": "#ff6a00",
+    "eye": "#ffffff",
+    "emblem": "ring"
+  },
+  "stats": {
+    "power": 9,
+    "speed": 3,
+    "defense": 7,
+    "special": 8
+  },
+  "special": {
+    "name": "Dim The Stars",
+    "kind": "beam"
+  },
+  "rivals": ["ilex-sunder", "tessaly-marr"],
+  "theme": {
+    "palette": {
+      "c1": "#120b2e",
+      "c2": "#ff6a00",
+      "c3": "#b388ff"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Every star owes him a dark."
+  },
+  "heat": 70
+}
