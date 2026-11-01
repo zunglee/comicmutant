@@ -147,8 +147,11 @@ export default function Home({ loaderData: d }: Route.ComponentProps) {
             goals.
           </p>
           <div className="flex flex-wrap gap-3">
-            <Link to="/arena" className="btn btn-c1 text-lg">
-              <IconPad /> Enter the Arena
+            <Link to="/freefall" className="btn btn-c1 text-lg">
+              <IconPad /> Play today's Freefall
+            </Link>
+            <Link to="/arena" className="btn text-lg">
+              Enter the Arena
             </Link>
             <Link to="/roster" className="btn text-lg">
               Meet the roster <IconArrow />

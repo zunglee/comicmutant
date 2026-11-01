@@ -68,7 +68,7 @@ export function Header({ user }: { user: ChromeUser | null }) {
     return () => window.removeEventListener('keydown', onKey);
   }, [open]);
   return (
-    <header className="sticky top-0 z-40 border-line border-b-[3px] bg-bg/90 backdrop-blur-md">
+    <header className="hide-in-game-touch sticky top-0 z-40 border-line border-b-[3px] bg-bg/90 backdrop-blur-md">
       <div className="mx-auto flex max-w-7xl items-center gap-3 px-4 py-2.5">
         <Link to="/" className="mr-2 shrink-0" aria-label="ComicMutant home">
           <Logo />
@@ -199,7 +199,7 @@ export function ThemeDock() {
   return (
     <aside
       aria-label="Quick themes"
-      className="fixed right-3 bottom-[4.75rem] z-30 lg:right-5 lg:bottom-5"
+      className="hide-in-game fixed right-3 bottom-[4.75rem] z-30 lg:right-5 lg:bottom-5"
     >
       <div className="panel flex items-center gap-2 p-1.5">
         <button
@@ -275,7 +275,7 @@ export function MobileTabs() {
   return (
     <nav
       aria-label="Quick"
-      className="fixed inset-x-0 bottom-0 z-40 border-line border-t-[3px] bg-bg/95 backdrop-blur lg:hidden"
+      className="hide-in-game fixed inset-x-0 bottom-0 z-40 border-line border-t-[3px] bg-bg/95 backdrop-blur lg:hidden"
     >
       <ul className="mx-auto grid max-w-md grid-cols-5 pb-[env(safe-area-inset-bottom)]">
         {TABS.map((t) => (

@@ -20,12 +20,15 @@ export default [
   // Games (canvas). Each game is its own lazy chunk inside arena-play.
   route('arena', 'routes/arena.tsx'),
   route('arena/:game', 'routes/arena-play.tsx'),
+  // Flagship daily game: math gates + verified leaderboard.
+  route('freefall', 'routes/freefall.tsx'),
 
   // Accounts + moderation.
   route('join', 'routes/join.tsx'),
   route('login', 'routes/login.tsx'),
   route('logout', 'routes/logout.ts'),
   route('mod', 'routes/mod.tsx'),
+  route('mod/freefall/:id', 'routes/mod-freefall.tsx'),
 
   // Resource routes.
   route('themes/index.json', 'routes/theme-index.ts'),
@@ -38,6 +41,10 @@ export default [
     route('vote', 'routes/api/vote.ts'),
     route('report', 'routes/api/report.ts'),
     route('score', 'routes/api/score.ts'),
+    route('freefall/start', 'routes/api/freefall-start.ts'),
+    route('freefall/submit', 'routes/api/freefall-submit.ts'),
+    route('freefall/end', 'routes/api/freefall-end.ts'),
+    route('freefall/tick', 'routes/api/freefall-tick.ts'),
     route('takes', 'routes/api/takes.ts'),
     route('characters', 'routes/api/characters.ts'),
   ]),

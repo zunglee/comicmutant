@@ -59,3 +59,40 @@ test('gadget lab: picking a part highlights it', async ({ browser }) => {
   await expect(parts.nth(2)).toHaveAttribute('aria-pressed', 'true');
   await ctx.close();
 });
+
+test('freefall: a guest can dive on a phone and pause; site chrome steps aside', async ({
+  browser,
+}) => {
+  const ctx = await browser.newContext({ ...devices['iPhone 13'], reducedMotion: 'reduce' });
+  await ctx.addCookies([
+    { name: 'cm_seen', value: '1', url: test.info().project.use.baseURL ?? '' },
+  ]);
+  const page = await ctx.newPage();
+  await page.goto('/freefall');
+  await page.getByRole('button', { name: 'Start the dive' }).tap();
+  const pause = page.getByRole('button', { name: 'Pause' });
+  await expect(pause).toBeVisible();
+  await expect(page.locator('html')).toHaveAttribute('data-in-game', '');
+  // Dive/Brake are pointer-only (aria-hidden); keys cover them for assistive tech.
+  await expect(page.locator('button', { hasText: /^Dive$/ })).toBeVisible();
+  await pause.tap();
+  await expect(page.getByRole('heading', { name: 'Paused' })).toBeVisible();
+  // Paused keeps the full-screen dive layout (no jump); the menu offers practice, not a re-dive.
+  await expect(page.locator('html')).toHaveAttribute('data-in-game', '');
+  await expect(page.getByRole('button', { name: 'Restart as practice' })).toBeVisible();
+  await ctx.close();
+});
+
+test('freefall: posting needs an account and a verifiable run', async ({ request, baseURL }) => {
+  const headers = { origin: baseURL ?? '' };
+  const start = await request.post('/api/freefall/start', {
+    headers,
+    data: { mode: 'practice', level: 'easy' },
+  });
+  const { token } = (await start.json()) as { token: string };
+  expect(token).toBeTruthy();
+  const guest = await request.post('/api/freefall/submit', { headers, data: { token, log: [] } });
+  expect(guest.status()).toBe(401);
+  const bad = await request.post('/api/freefall/start', { headers, data: { mode: 'x' } });
+  expect(bad.status()).toBe(400);
+});

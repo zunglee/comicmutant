@@ -36,6 +36,7 @@ const PAGES = [
   '/rumours',
   '/timeline',
   '/gadgets',
+  '/freefall',
   '/gadgets/batmobile',
   '/versus',
   '/arena',
@@ -117,9 +118,11 @@ test('join, post a take, react, and vote in a Versus', async ({ page }) => {
   await page.getByLabel('Password', { exact: true }).fill('correct horse battery');
   await page.getByRole('button', { name: 'Create & sign in' }).click();
   await expect(page).toHaveURL(/\/c\/batman/);
-  await page.getByLabel('Your take').fill('Prep time is the real superpower here.');
+  // Unique per run, so a repeated run (or a retry) never matches an earlier take.
+  const take = `Prep time is the real superpower here, says ${name}.`;
+  await page.getByLabel('Your take').fill(take);
   await page.getByRole('button', { name: 'Post it' }).click();
-  const bubble = page.locator('article.bubble', { hasText: 'Prep time is the real superpower' });
+  const bubble = page.locator('article.bubble', { hasText: take });
   await expect(bubble).toBeVisible();
   await bubble.getByRole('button', { name: /^FACTS/ }).click();
   await expect(bubble.getByRole('button', { name: /^FACTS/ })).toHaveAttribute(

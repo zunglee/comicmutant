@@ -126,4 +126,74 @@ export const MIGRATIONS: string[] = [
   CREATE INDEX takes_page ON takes(target, hidden, id);
   CREATE INDEX takes_page_side ON takes(target, side, hidden, id);
   `,
+  `
+  -- Freefall: verified runs (app/.server/freefall.ts). One ranked daily run per player per level.
+  CREATE TABLE freefall_runs (
+    id INTEGER PRIMARY KEY,
+    user_id INTEGER NOT NULL REFERENCES users(id) ON DELETE CASCADE,
+    mode TEXT NOT NULL CHECK (mode IN ('daily', 'practice')),
+    level TEXT NOT NULL CHECK (level IN ('easy', 'normal', 'hard')),
+    day TEXT NOT NULL,
+    seed INTEGER NOT NULL,
+    score INTEGER NOT NULL,
+    floors INTEGER NOT NULL,
+    correct INTEGER NOT NULL,
+    asked INTEGER NOT NULL,
+    saved INTEGER NOT NULL,
+    best INTEGER NOT NULL,
+    steps INTEGER NOT NULL,
+    token TEXT NOT NULL UNIQUE,     -- run-token signature: a token posts once
+    created_at TEXT NOT NULL
+  );
+  CREATE UNIQUE INDEX freefall_daily_once ON freefall_runs(user_id, level, day) WHERE mode = 'daily';
+  CREATE INDEX freefall_daily_board ON freefall_runs(mode, level, day, score DESC);
+  CREATE INDEX freefall_user_best ON freefall_runs(user_id, level, score DESC);
+  CREATE INDEX freefall_level_score ON freefall_runs(level, score DESC);
+  `,
+  `
+  -- Freefall anti-cheat (critic round 1): rubble hits kept for review; runs held for a mod's look
+  -- (review 1 = waiting, 2 = rejected); daily starts counted per fan/device (only the first ranks).
+  ALTER TABLE freefall_runs ADD COLUMN hits INTEGER NOT NULL DEFAULT 0;
+  ALTER TABLE freefall_runs ADD COLUMN review INTEGER NOT NULL DEFAULT 0;
+  CREATE INDEX freefall_review ON freefall_runs(review) WHERE review = 1;
+  CREATE TABLE freefall_starts (
+    who TEXT NOT NULL,              -- keyed hash of 'u:<id>' or 'g:<guest cookie>'
+    level TEXT NOT NULL,
+    day TEXT NOT NULL,
+    n INTEGER NOT NULL,
+    PRIMARY KEY (who, level, day)
+  ) WITHOUT ROWID;
+  `,
+  `
+  -- Freefall review material (critic round 5): why a run was held, the run's sum seed and its input
+  -- log (kept for held runs only, for the mod's replay), people in reach and pauses.
+  ALTER TABLE freefall_runs ADD COLUMN qseed INTEGER;
+  ALTER TABLE freefall_runs ADD COLUMN reasons TEXT;
+  ALTER TABLE freefall_runs ADD COLUMN log TEXT;
+  ALTER TABLE freefall_runs ADD COLUMN people INTEGER NOT NULL DEFAULT 0;
+  ALTER TABLE freefall_runs ADD COLUMN pauses INTEGER NOT NULL DEFAULT 0;
+  `,
+  `
+  -- Freefall (critic round 6): review 3 = approved by a mod (podium names show only when approved);
+  -- end-of-run pings for the wall-clock check.
+  CREATE TABLE freefall_ends (sig TEXT PRIMARY KEY, at INTEGER NOT NULL) WITHOUT ROWID;
+  `,
+  `
+  -- Freefall (critic round 7): progress pings for the wall-clock check; the run's wall/game pace.
+  CREATE TABLE freefall_ticks (sig TEXT NOT NULL, at INTEGER NOT NULL, step INTEGER NOT NULL);
+  CREATE INDEX freefall_ticks_sig ON freefall_ticks(sig);
+  ALTER TABLE freefall_runs ADD COLUMN pace REAL;
+  CREATE INDEX freefall_trusted ON freefall_runs(user_id) WHERE review = 3;
+  `,
+  `
+  -- Freefall (critic round 9): the end ping names its step; pause time per run (long pauses wait for
+  -- a look even within a player's trust cap).
+  ALTER TABLE freefall_ends ADD COLUMN step INTEGER;
+  ALTER TABLE freefall_runs ADD COLUMN pause_ms INTEGER NOT NULL DEFAULT 0;
+  `,
+  `
+  -- Freefall (critic round 11): wall-clock doubts are a soft flag (name withheld only where it's
+  -- worth having), not a hold.
+  ALTER TABLE freefall_runs ADD COLUMN flag INTEGER NOT NULL DEFAULT 0;
+  `,
 ];

@@ -64,12 +64,9 @@ export async function loader({ request }: Route.LoaderArgs) {
 export function shouldRevalidate({ formAction, formMethod }: ShouldRevalidateFunctionArgs) {
   // Theme and dock are client-owned after hydration; only sign-in/out (and mod rulings) change root data.
   if (!formMethod || formMethod.toUpperCase() === 'GET') return false;
-  return (
-    formAction === '/login' ||
-    formAction === '/join' ||
-    formAction === '/logout' ||
-    formAction?.startsWith('/mod') === true
-  );
+  // Compare paths: a sign-in from a game posts to /login?next=…, and must still refresh the header.
+  const path = formAction ? new URL(formAction, 'http://comicmutant.invalid').pathname : '';
+  return path === '/login' || path === '/join' || path === '/logout' || path.startsWith('/mod');
 }
 
 export const links: Route.LinksFunction = () => [

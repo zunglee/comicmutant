@@ -7,6 +7,7 @@ export function loader({ request }: { request: Request }) {
     '/roster',
     '/originals',
     '/arena',
+    '/freefall',
     '/versus',
     '/rumours',
     '/themes',

@@ -56,3 +56,43 @@ re-audit the games until each is above 8".
 - **Games re-audited to ≥ 8/10** by independent critics over 7 rounds (fight 5.5→8, badminton 6→8,
   football 3→8, quiz 4.5→8): AI ladders, exploits closed, phone layouts rebuilt, headless tests for
   every target (`reports/game-quality.md`).
+
+## 0.4.0 — 2026-10-31
+
+Freefall: Math Dive — the flagship daily game (owner brief: a falling hero you save with the arrows,
+mind-maths in the middle, a leaderboard across the web, login and a database).
+
+- `/freefall`: dive down a collapsing tower; each floor slab has three numbered openings and the
+  sum is on the HUD — steering *is* answering. Rubble to dodge, falling people to catch, dive/brake,
+  5-streak heals a heart. Class 3–4 / 5–6 / 7+ sum sets that ramp inside a run.
+- Phone-first: 9:16 canvas on portrait phones, 16:9 with Dive/Brake in the side gutters on landscape,
+  relative drag to steer; keys, 1/2/3 lane jumps and screen-reader lines on desktop. Site dock and tab
+  bar step aside while diving.
+- Leaderboards that can't be faked by editing the client: deterministic core, the server replays
+  the input log from a signed seed token and checks game time against wall-clock time; a token posts
+  once; one ranked daily run per player per level. Guests play first and post after signing in.
+- Result screen lists every missed sum with its answer; text share card with a right/wrong grid.
+- Entry points on the home hero and the Arena. `scripts/freefall-shots.ts` bot harness for the
+  critic gate.
+
+### 0.4.0 — after the critic gate (2026-11-01)
+
+Fifteen critic rounds (6 → 7 → 8). What changed on the way:
+
+- **POV view** (owner: "POV type, not linear"): a chase camera down the shaft; slabs, rubble and
+  people rush up at you; the hole you're lined up with is outlined, a crosshair shows where you'd
+  cross. Rules and server replay unchanged (`pov.ts` only projects).
+- **Maths you can't game**: options are built shape-first (two gaps drawn, then the answer in a
+  uniformly random slot) so value rank, lane, gap pattern and parity are all at chance; each sum
+  carries its possible range; products keep their 0/5/even ending; a sum that can't get fair options
+  is redrawn. Sums are per run (the daily tower is shared, its sums aren't).
+- **A fair board without constant moderating**: every run keeps its real place; names inside today's
+  top 3 / the all-time top 10 above ~p75 show once a mod has looked at that player at roughly that
+  score (trust ×1.3, reset by a rejection); unnamed rows fold into "+N more"; your own run always
+  shows. Mods get a queue with reasons, pace and an exact replay (`/mod/freefall/:id`), plus
+  reject-all.
+- **Wall clock**: progress pings + an end ping carrying the last step, checked cumulatively
+  (no running ahead, pauses must fit, ≤ 1.2× real time); doubts are a soft flag, not a hold.
+- 4 hearts, every third person caught heals, rubble kept clear of slabs; ranked daily needs an
+  account at the start; owner-bound run tokens; `pnpm admin:create` fixed.
+

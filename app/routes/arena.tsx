@@ -10,6 +10,7 @@ import { useEffect, useMemo, useState } from 'react';
 import { Link, useNavigate, useSearchParams } from 'react-router';
 import { allFighters } from '~/.server/content';
 import { KindTag } from '~/components/bits';
+import { IconArrow } from '~/components/icons';
 import { SpriteClip } from '~/components/sprite';
 import { loadRecords, type Records } from '~/game/records';
 import type { PoseId } from '~/game/sprite/poses';
@@ -172,6 +173,22 @@ export default function Arena({ loaderData: d }: Route.ComponentProps) {
           poison.
         </p>
       </header>
+
+      <Link
+        to="/freefall"
+        className="panel halftone mb-6 flex flex-wrap items-center justify-between gap-3 p-4 transition-transform hover:-translate-y-1"
+      >
+        <span>
+          <span className="kicker block">New · daily maths dive</span>
+          <span className="h-display text-3xl text-c3-text">Freefall</span>
+          <span className="block text-sm">
+            Dive down a collapsing tower and fly through the right answer. One ranked run a day.
+          </span>
+        </span>
+        <span className="btn btn-c1">
+          Play <IconArrow />
+        </span>
+      </Link>
 
       {d.quick && <QuickPlay fighters={bySlug} pair={d.quick} />}
 

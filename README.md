@@ -42,6 +42,8 @@ Data: `data/comicmutant.db` (SQLite, created on first request; override with `CO
 | `/rumours` | True-or-Cap swipe game + tabloid wall |
 | `/versus`, `/versus/:id` | two characters, one question, tug-of-war meter, takes per side |
 | `/arena`, `/arena/:game` | Quick play vs CPU first (today's hero-vs-villain pair, one tap per game), then the full picker; fight, badminton, football, quiz duel |
+| `/freefall` | Flagship daily maths dive in a POV shaft: fly through the right answer. Today's ranked dive per class level (shared tower, per-run sums, new at midnight IST), practice, replay-verified boards with mod checks for top names (`app/game/freefall/`, `app/.server/freefall.ts`; design + decisions in `reports/freefall-design.md`, critic rounds in `reports/game-quality.md`) |
+| `/mod`, `/mod/freefall/:id` | Mods: report queue, Freefall runs to check (reasons, pace, exact replay, approve / reject / reject-all). Create a mod with `MOD_PASSWORD=… pnpm admin:create <nickname>` |
 | `/join`, `/login`, `/mod` | nickname accounts, moderation queue |
 
 ## Comic layer (byte-man style)

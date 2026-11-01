@@ -462,3 +462,41 @@ html[data-fx="lite"] .marquee {
     scrollbar-width: none;
   }
 }
+
+/* Freefall: floating site chrome (theme dock, phone tab bar) steps aside while a dive is running, and
+   on the mod pages, where it would sit over the queue's buttons and the replay. */
+html[data-in-game] .hide-in-game,
+html[data-no-dock] .hide-in-game {
+  display: none;
+}
+/* Freefall canvas box: 16:9 under the header (landscape phones get the tab bar's room back), 9:16 on
+   portrait phones with room for the Dive/Brake row. */
+.ff-box {
+  width: min(100%, calc((100dvh - 9rem) * 16 / 9));
+}
+@media (pointer: coarse) and (orientation: landscape) {
+  .ff-box {
+    width: min(100%, calc((100dvh - 5.5rem) * 16 / 9));
+  }
+}
+.ff-box[data-portrait] {
+  width: min(100%, calc((100dvh - 9rem) * 9 / 16));
+}
+@media (pointer: coarse) and (orientation: landscape) {
+  html[data-ff] .hide-in-game {
+    display: none;
+  }
+}
+/* On touch screens the dive gets the whole screen: the site header steps aside too, and the canvas
+   grows into the room (portrait keeps a row for Dive/Brake; landscape uses the side gutters). */
+@media (pointer: coarse) {
+  html[data-in-game] .hide-in-game-touch {
+    display: none;
+  }
+  html[data-in-game] .ff-box[data-portrait] {
+    width: min(100%, calc((100dvh - 5rem) * 9 / 16));
+  }
+  html[data-in-game] .ff-box:not([data-portrait]) {
+    width: min(100%, calc((100dvh - 1.25rem) * 16 / 9));
+  }
+}
