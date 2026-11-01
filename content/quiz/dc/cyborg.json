@@ -1,0 +1,111 @@
+{
+  "character": "cyborg",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "cyborg-01",
+      "q": "In which year did Cyborg make his first appearance, in a preview insert of DC Comics Presents #26?",
+      "options": ["1983", "1980", "1985", "1991"],
+      "answer": 1,
+      "why": "Cyborg debuted in a preview insert in DC Comics Presents #26 (October 1980), ahead of the New Teen Titans relaunch.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-02",
+      "q": "Which writer and artist created Cyborg?",
+      "options": [
+        "Jack Kirby and Joe Simon",
+        "Marv Wolfman and George Pérez",
+        "Geoff Johns and Jim Lee",
+        "Gerry Conway and Don Newton"
+      ],
+      "answer": 1,
+      "why": "Marv Wolfman and George Pérez created Victor Stone for their New Teen Titans relaunch.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-03",
+      "q": "What is Cyborg's real name?",
+      "options": ["Victor Fries", "Victor Zsasz", "Victor Stone", "Vic Sage"],
+      "answer": 2,
+      "why": "Cyborg is Victor Stone, a genius and athlete rebuilt with cybernetic parts after a near-fatal accident.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-04",
+      "q": "Who played Cyborg in the 2017 film Justice League?",
+      "options": ["Lee Thompson Young", "Ray Fisher", "Joivan Wade", "Ernie Hudson"],
+      "answer": 1,
+      "why": "Ray Fisher portrayed Victor Stone across Batman v Superman, the 2017 Justice League and the Snyder Cut.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-05",
+      "q": "In the classic comic origin, who rebuilds the dying Victor with cybernetic parts?",
+      "options": ["Niles Caulder", "Ray Palmer", "Silas Stone", "Sarah Charles"],
+      "answer": 2,
+      "why": "His estranged father, Silas, used his prosthetics research to save Victor after the lab accident.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-06",
+      "q": "In the New 52 revamp, Victor was a star athlete in which sport before his accident?",
+      "options": ["Basketball", "Football", "Baseball", "Track and field"],
+      "answer": 1,
+      "why": "The New 52 origin makes Victor a high-school football star sought after by scouts, and his relationship with his father is strained.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-07",
+      "q": "In the comics, Cyborg's father works as a scientist at which lab?",
+      "options": ["LexCorp", "Wayne Enterprises", "Kord Industries", "S.T.A.R. Labs"],
+      "answer": 3,
+      "why": "Silas works as a top scientist at S.T.A.R. Labs, and his research is linked to Victor's accident.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-08",
+      "q": "Which childhood friend of Victor later gets similar implants and turns into his enemy?",
+      "options": ["Roy Harper", "Matt Logan", "Ron Evers", "Wally West"],
+      "answer": 2,
+      "why": "Ron Evers, Victor's friend who led him into trouble, was given implants after an injury and later sought revenge on him.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-09",
+      "q": "Pérez said Cyborg's half-metallic face was inspired by which Marvel character?",
+      "options": ["Iron Man", "Machine Man", "Deathlok", "Nova"],
+      "answer": 2,
+      "why": "Pérez cited Rich Buckler's Deathlok as the inspiration for Cyborg's head and metal face plate.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    },
+    {
+      "id": "cyborg-10",
+      "q": "Who played Cyborg in the TV series Smallville?",
+      "options": ["Joivan Wade", "Ray Fisher", "Lee Thompson Young", "Kevin Michael Richardson"],
+      "answer": 2,
+      "why": "Lee Thompson Young played the Smallville version, which was Cyborg's live-action debut.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Cyborg_(DC_Comics)"
+    }
+  ]
+}

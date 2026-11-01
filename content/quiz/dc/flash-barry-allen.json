@@ -1,0 +1,111 @@
+{
+  "character": "flash-barry-allen",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "flash-barry-allen-01",
+      "q": "In which year did Barry Allen first appear as the Flash, in Showcase #4?",
+      "options": ["1956", "1959", "1954", "1951"],
+      "answer": 0,
+      "why": "Barry debuted in Showcase #4, cover-dated October 1956, helping to kick off the Silver Age of comics.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-02",
+      "q": "Barry Allen's debut was created by writer Robert Kanigher, artist Carmine Infantino and which editor?",
+      "options": ["Mort Weisinger", "Whitney Ellsworth", "Jack Schiff", "Julius Schwartz"],
+      "answer": 3,
+      "why": "Editor Julius 'Julie' Schwartz led the team that reinvented the Flash in Showcase #4.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-03",
+      "q": "What is Barry Allen's day job in the comics?",
+      "options": [
+        "Newspaper reporter",
+        "High school science teacher",
+        "Forensic chemist",
+        "Astronomer"
+      ],
+      "answer": 2,
+      "why": "Barry works as a forensic chemist, and a lightning strike in his lab, mixing with chemicals, gives him his speed.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-04",
+      "q": "Where does Barry traditionally store his compressed Flash costume when not in use?",
+      "options": ["In a wristwatch", "In a belt buckle", "In his boots", "In a ring"],
+      "answer": 3,
+      "why": "A ring designed by Barry's father-in-law holds the compressed suit and can eject it when Barry needs to change.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-05",
+      "q": "Who is Barry Allen's wife in the comics?",
+      "options": ["Linda Park", "Lois Lane", "Iris West", "Caitlin Snow"],
+      "answer": 2,
+      "why": "Barry is engaged to, and later marries, Iris West, a reporter who is a parallel to Lois Lane.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-06",
+      "q": "What DC concept did the 1961 story 'Flash of Two Worlds' introduce when Barry met Jay Garrick?",
+      "options": ["The Speed Force", "The Phantom Zone", "The Multiverse", "The Bottle City"],
+      "answer": 2,
+      "why": "Flash #123 revealed that Jay Garrick lived on a parallel Earth, establishing DC's Multiverse.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-07",
+      "q": "Which secret ape civilisation first appeared in Barry Allen's classic stories?",
+      "options": ["Kandor", "Atlantis", "Skartaris", "Gorilla City"],
+      "answer": 3,
+      "why": "Barry's early stories added colorful sci-fi concepts including Gorilla City alongside his Rogues Gallery of villains.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-08",
+      "q": "After Barry died in Crisis on Infinite Earths #8, how many years passed before his comic return?",
+      "options": ["30", "12", "23", "35"],
+      "answer": 2,
+      "why": "Barry sacrificed himself in 1985 and stayed dead for 23 years until he returned in 2008 and 2009.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-09",
+      "q": "Who played Barry Allen in the CW television series The Flash?",
+      "options": ["Ezra Miller", "Stephen Amell", "Tom Cavanagh", "Grant Gustin"],
+      "answer": 3,
+      "why": "Grant Gustin played Barry in the Arrowverse, while Ezra Miller played him in the DC Extended Universe films.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    },
+    {
+      "id": "flash-barry-allen-10",
+      "q": "Which university professor, adoptive father of Barry's wife, designed Barry's costume and its compact storage?",
+      "options": ["Joe West", "Henry West", "Ira West", "Harrison Wells"],
+      "answer": 2,
+      "why": "Professor Ira West built the Flash's suit and the ring, which keeps the costume compressed.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Barry_Allen"
+    }
+  ]
+}

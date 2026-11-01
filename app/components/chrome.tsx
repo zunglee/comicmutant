@@ -13,6 +13,7 @@ import {
   IconMenu,
   IconPad,
   IconPalette,
+  IconQuiz,
   IconUser,
   IconVs,
   IconWhisper,
@@ -22,6 +23,7 @@ import {
 export const NAV = [
   { to: '/roster', label: 'Roster', icon: IconGrid },
   { to: '/arena', label: 'Arena', icon: IconPad },
+  { to: '/quiz', label: 'Quiz', icon: IconQuiz },
   { to: '/versus', label: 'Versus', icon: IconVs },
   { to: '/rumours', label: 'Rumour Mill', icon: IconWhisper },
   { to: '/originals', label: 'Originals', icon: IconBolt },
@@ -199,7 +201,7 @@ export function ThemeDock() {
   return (
     <aside
       aria-label="Quick themes"
-      className="hide-in-game fixed right-3 bottom-[4.75rem] z-30 lg:right-5 lg:bottom-5"
+      className="site-dock hide-in-game fixed right-3 bottom-[4.75rem] z-30 lg:right-5 lg:bottom-5"
     >
       <div className="panel flex items-center gap-2 p-1.5">
         <button
@@ -268,7 +270,8 @@ export function ThemeDock() {
   );
 }
 
-const TABS = [{ to: '/', label: 'Home', icon: IconHome }, ...NAV.slice(0, 3), NAV[5]] as const;
+// Phone tab bar: Home, Roster, Arena, Quiz, Themes (the rest live in the menu).
+const TABS = [{ to: '/', label: 'Home', icon: IconHome }, ...NAV.slice(0, 3), NAV[6]] as const;
 
 export function MobileTabs() {
   const { pathname } = useLocation();

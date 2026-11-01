@@ -1,0 +1,106 @@
+{
+  "character": "mr-india",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "mr-india-01",
+      "q": "Which actor plays Arun Verma, the invisible hero of Mr. India?",
+      "options": ["Anil Kapoor", "Jackie Shroff", "Sanjay Dutt", "Govinda"],
+      "answer": 0,
+      "why": "Anil Kapoor plays the violinist who becomes Mr. India with a device his father made.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-02",
+      "q": "Which actress plays the journalist Seema in Mr. India?",
+      "options": ["Madhuri Dixit", "Sridevi", "Juhi Chawla", "Jaya Prada"],
+      "answer": 1,
+      "why": "Sridevi plays Seema, the newspaper reporter who falls for Mr. India.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-03",
+      "q": "Under which colour of light can Mr. India be seen even while invisible?",
+      "options": ["Green", "Blue", "Red", "Ultraviolet"],
+      "answer": 2,
+      "why": "The invisibility fails against red, so red light or red glass reveals him.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-04",
+      "q": "Who directed Mr. India?",
+      "options": ["Shekhar Kapur", "Subhash Ghai", "Ramesh Sippy", "Mansoor Khan"],
+      "answer": 0,
+      "why": "Shekhar Kapur directed the 1987 science-fiction hit.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-05",
+      "q": "Who produced Mr. India under the Narsimha Enterprises banner?",
+      "options": ["Yash Chopra", "Rakesh Roshan", "Subhash Ghai", "Boney Kapoor"],
+      "answer": 3,
+      "why": "Boney and Surinder jointly produced the film.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-06",
+      "q": "Which star turned down the Mr. India lead after the writers offered it to him?",
+      "options": ["Dharmendra", "Amitabh Bachchan", "Jeetendra", "Vinod Khanna"],
+      "answer": 1,
+      "why": "The lead was first written for Rajesh Khanna and then offered to Amitabh Bachchan, who declined.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-07",
+      "q": "Who was originally set to sing 'Hawa Hawai' for Mr. India?",
+      "options": ["Lata Mangeshkar", "Usha Uthup", "Asha Bhosle", "Alka Yagnik"],
+      "answer": 2,
+      "why": "Asha Bhosle was first lined up for the song before the soundtrack was finalised.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-08",
+      "q": "Mr. India became a hit in which country after a 1990 release?",
+      "options": ["Russia", "Japan", "Egypt", "China"],
+      "answer": 3,
+      "why": "The film was a hit in China after its February 1990 release there.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-09",
+      "q": "Who composed the music of Mr. India?",
+      "options": ["Laxmikant-Pyarelal", "Kalyanji-Anandji", "R. D. Burman", "Bappi Lahiri"],
+      "answer": 0,
+      "why": "Laxmikant-Pyarelal composed the songs, with lyrics by Javed Akhtar.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    },
+    {
+      "id": "mr-india-10",
+      "q": "Which actor plays Arun's assistant Calendar?",
+      "options": ["Annu Kapoor", "Satish Kaushik", "Satish Shah", "Anupam Kher"],
+      "answer": 1,
+      "why": "Satish Kaushik plays Calendar, Arun's helper in the orphan-filled house.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    }
+  ]
+}

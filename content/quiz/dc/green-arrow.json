@@ -1,0 +1,106 @@
+{
+  "character": "green-arrow",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "green-arrow-01",
+      "q": "Green Arrow debuted in 1941's More Fun Comics #73, the same issue that introduced which other hero?",
+      "options": ["Doctor Fate", "The Spectre", "Hourman", "Aquaman"],
+      "answer": 3,
+      "why": "More Fun Comics #73 (cover date November 1941) introduced both Green Arrow and Aquaman.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-02",
+      "q": "Which writer created Green Arrow, with the character designed by artist George Papp?",
+      "options": ["Gardner Fox", "Mort Weisinger", "Bill Finger", "Jerry Siegel"],
+      "answer": 1,
+      "why": "Mort Weisinger created him, drawing on Robin Hood and a movie serial called The Green Archer, and George Papp designed his look.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-03",
+      "q": "Who is Green Arrow's original teenage sidekick?",
+      "options": ["Aqualad", "Speedy", "Kid Flash", "Robin"],
+      "answer": 1,
+      "why": "Speedy, Roy Harper, debuted alongside Green Arrow in 1941 and mirrors Batman's Robin.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-04",
+      "q": "In the comics, wealthy businessman Oliver Queen is a celebrity in which fictional metropolis?",
+      "options": ["Central City", "Coast City", "Keystone City", "Star City"],
+      "answer": 3,
+      "why": "Oliver Queen owns Queen Industries and is a well-known figure in Star City, which he uses to hide his Green Arrow identity.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-05",
+      "q": "Which legendary outlaw archer partly inspired Green Arrow?",
+      "options": ["William Tell", "Robin Hood", "Odysseus", "Hiawatha"],
+      "answer": 1,
+      "why": "Besides an outlaw-archer theme, the hero's creator borrowed ideas from Batman.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-06",
+      "q": "In Mike Grell's 1987 revamp of Green Arrow, to which city did the hero relocate?",
+      "options": ["Portland", "Chicago", "Metropolis", "Seattle"],
+      "answer": 3,
+      "why": "Under Mike Grell, Green Arrow dropped trick arrows and moved from Star City to Seattle, Washington.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-07",
+      "q": "Which artist gave Green Arrow his Van Dyke beard and redesigned costume in 1969?",
+      "options": ["Jim Aparo", "George Papp", "Neal Adams", "Mike Grell"],
+      "answer": 2,
+      "why": "Neal Adams redesigned him in The Brave and the Bold #85, and Denny O'Neil then rebuilt his personality as a champion for the poor.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-08",
+      "q": "In 1970, an acclaimed socially conscious series paired Green Arrow with which fellow hero?",
+      "options": ["Bruce Wayne", "Barry Allen", "Carter Hall", "Hal Jordan"],
+      "answer": 3,
+      "why": "The early 1970s stories by Denny O'Neil and Neal Adams paired the left-leaning archer with the law-and-order Green Lantern.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-09",
+      "q": "Alongside Count Vertigo, which master archer is called Green Arrow's archenemy?",
+      "options": ["Deadshot", "Merlyn", "Clock King", "China White"],
+      "answer": 1,
+      "why": "Merlyn, a master archer, and Count Vertigo, who disrupts balance and perception, are named as his archenemies.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    },
+    {
+      "id": "green-arrow-10",
+      "q": "Who starred as Oliver Queen in the CW series Arrow, which debuted in 2012?",
+      "options": ["Justin Hartley", "Grant Gustin", "Manu Bennett", "Stephen Amell"],
+      "answer": 3,
+      "why": "Stephen Amell played Oliver Queen on Arrow, starting the Arrowverse; Justin Hartley had played him on Smallville.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Green_Arrow"
+    }
+  ]
+}

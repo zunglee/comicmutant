@@ -2,6 +2,8 @@ import { data, redirect } from 'react-router';
 import { checkPassword, currentUser, safeNext, startSession } from '~/.server/auth';
 import { getSql } from '~/.server/db';
 import { allow, assertSameOrigin, clearBucket, clientIp, readForm } from '~/.server/guard';
+import { mergeGuestHistory } from '~/.server/quiz';
+import { guestId } from '~/.server/voter';
 import { AuthCard } from '~/components/auth-form';
 import { PASSWORD_MAX } from '~/lib/community';
 import type { Route } from './+types/login';
@@ -41,6 +43,9 @@ export async function action({ request }: Route.ActionArgs) {
   const id = await checkPassword(sql, name, password);
   if (!id) return wrong();
   await clearBucket(sql, bucket, WINDOW);
+  // Quiz questions this browser saw as a guest count as seen for the fan (Fact Frenzy Q12).
+  const guest = guestId(request);
+  if (guest) await mergeGuestHistory(sql, id, guest);
   throw redirect(next, { headers: { 'Set-Cookie': await startSession(sql, id) } });
 }
 

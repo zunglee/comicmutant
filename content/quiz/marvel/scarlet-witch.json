@@ -1,0 +1,121 @@
+{
+  "character": "scarlet-witch",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "scarlet-witch-01",
+      "q": "Scarlet Witch made her comics debut as a member of which team?",
+      "options": [
+        "The Hellfire Club's Inner Circle",
+        "Brotherhood of Evil Mutants",
+        "The Avengers",
+        "The Sinister Six"
+      ],
+      "answer": 1,
+      "why": "Wanda debuted in The X-Men #4 as part of Magneto's Brotherhood, with her brother Quicksilver.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-02",
+      "q": "Who is Scarlet Witch's twin brother?",
+      "options": ["Havok", "Nightcrawler", "Quicksilver", "Iceman"],
+      "answer": 2,
+      "why": "Wanda's twin brother is Pietro, the speedster Quicksilver.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-03",
+      "q": "Which actress plays Wanda Maximoff in the MCU?",
+      "options": ["Scarlett Johansson", "Zoe Saldana", "Natalie Portman", "Elizabeth Olsen"],
+      "answer": 3,
+      "why": "Elizabeth Olsen debuted as Wanda in Avengers: Age of Ultron in 2015.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-04",
+      "q": "In which year did the Disney+ series WandaVision premiere?",
+      "options": ["2021", "2010", "2020", "2019"],
+      "answer": 0,
+      "why": "WandaVision arrived in 2021 as the first Marvel Studios Disney+ series to focus on Wanda.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-05",
+      "q": "In which 1975 issue did Wanda wed her android husband?",
+      "options": [
+        "The Avengers Annual #10",
+        "Giant-Size Avengers #4",
+        "The Avengers #16",
+        "The X-Men #4"
+      ],
+      "answer": 1,
+      "why": "Wanda's wedding took place in Giant-Size Avengers #4 in June 1975, a significant moment for the team.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-06",
+      "q": "Wanda's magically created twin sons are later reborn as which pair of Young Avengers?",
+      "options": [
+        "Hulkling and Patriot",
+        "Nova and Ms. Marvel",
+        "Wiccan and Speed",
+        "Hawkeye and Stature"
+      ],
+      "answer": 2,
+      "why": "Billy Kaplan (Wiccan) and Tommy Shepherd (Speed) were revealed to be the reincarnations of her lost sons.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-07",
+      "q": "Who wrote the 2004 storyline Avengers Disassembled?",
+      "options": ["Mark Millar", "Jonathan Hickman", "Geoff Johns", "Brian Michael Bendis"],
+      "answer": 3,
+      "why": "Brian Michael Bendis wrote Disassembled, in which Wanda's rampage destroyed Avengers Mansion.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-08",
+      "q": "Which Elder God infused Wanda with magical energy at her birth?",
+      "options": ["Chthon", "Dormammu", "Shuma-Gorath", "Mephisto"],
+      "answer": 0,
+      "why": "Chthon, a demonic Elder God, imbued Wanda with his energy as a baby, intending to use her as a host.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-09",
+      "q": "Who taught Wanda witchcraft starting in 1974?",
+      "options": ["Morgan le Fay", "Agatha Harkness", "Satana", "Wong"],
+      "answer": 1,
+      "why": "Agatha Harkness mentored Wanda in magic, expanding her power far beyond early hex effects.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    },
+    {
+      "id": "scarlet-witch-10",
+      "q": "Which 2014 storyline revealed Magneto is not Wanda's biological father?",
+      "options": ["House of M", "Avengers vs. X-Men", "AXIS", "Secret Invasion"],
+      "answer": 2,
+      "why": "Magneto had long been called her father, but the 2014 story AXIS revealed he is not her biological father.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Scarlet_Witch"
+    }
+  ]
+}

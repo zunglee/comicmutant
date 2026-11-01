@@ -186,6 +186,9 @@ export function LoaderStage({ playIntro }: { playIntro: boolean }) {
     playIntro ? { kind: 'slam', intro: true, id: 1, title: 'COMIC MUTANT' } : null,
   );
   const [hydrated, setHydrated] = useState(false);
+  // Read by the transit effect without re-running it (a re-run mid-navigation would stack scenes).
+  const showRef = useRef(show);
+  showRef.current = show;
   const timer = useRef<ReturnType<typeof setTimeout>>(undefined);
   const startedAt = useRef(0);
   // Back/Forward: popstate fires before the router starts loading, so the transit can skip it.
@@ -229,7 +232,18 @@ export function LoaderStage({ playIntro }: { playIntro: boolean }) {
       popped.current = false;
       return;
     }
-    if (target === location.pathname || target.startsWith('/arena/')) return;
+    // A timed game screen must never sit under the curtain: drop a still-running intro too.
+    if (target === '/quiz/play' || target === '/freefall' || target.startsWith('/arena/')) {
+      if (showRef.current?.intro) end();
+      return;
+    }
+    if (
+      target === location.pathname ||
+      target.startsWith('/arena/') ||
+      target === '/quiz/play' ||
+      target === '/freefall'
+    )
+      return;
     const first = target.split('/')[1] ?? '';
     schedule({
       kind: SCENE_FOR[current.motif],
@@ -237,7 +251,7 @@ export function LoaderStage({ playIntro }: { playIntro: boolean }) {
       id: ++seq,
       title: SECTION[first] ?? 'NEXT ISSUE',
     });
-  }, [navigation.state, target, location.pathname, animate, current.motif, schedule]);
+  }, [navigation.state, target, location.pathname, animate, current.motif, schedule, end]);
 
   // The new page is in: lift the transit (after its minimum beat).
   useEffect(() => {

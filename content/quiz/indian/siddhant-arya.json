@@ -1,0 +1,116 @@
+{
+  "character": "siddhant-arya",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "siddhant-arya-01",
+      "q": "Which veteran actor plays the scientist Dr. Siddhant Arya, the villain of the first film?",
+      "options": ["Naseeruddin Shah", "Anupam Kher", "Om Puri", "Paresh Rawal"],
+      "answer": 0,
+      "why": "Naseeruddin Shah plays the evil scientist who builds the future-predicting supercomputer.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-02",
+      "q": "What can Dr. Arya's supercomputer do?",
+      "options": ["Read minds", "Predict the future", "Control the weather", "Clone people"],
+      "answer": 1,
+      "why": "The machine shows future events, which is why Arya is obsessed with keeping it running.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-03",
+      "q": "What does the supercomputer need from its comatose captive to keep working?",
+      "options": [
+        "His fingerprints and voice",
+        "His blood and DNA",
+        "His heartbeat and retinal scans",
+        "His memories and handwritten signature"
+      ],
+      "answer": 2,
+      "why": "Arya keeps Rohit comatose because the machine needs his heartbeat and retinal scans.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-04",
+      "q": "Whom does Dr. Arya keep in a coma to feed his machine?",
+      "options": ["Vikram Sinha", "Kristian Li", "Dr. Alok Sen", "Rohit Mehra"],
+      "answer": 3,
+      "why": "Rohit, Krishna's father, is held comatose so Arya can use his body data.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-05",
+      "q": "Which Singapore-based character does Arya kill in the film introducing him?",
+      "options": ["Kristian Li", "Priya", "Sonia Mehra", "Honey"],
+      "answer": 0,
+      "why": "Arya kills Kristian Li, which draws Krrish deeper into the fight.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-06",
+      "q": "Where does the masked hero fatally injure Siddhant Arya?",
+      "options": [
+        "At the Great Bombay Circus",
+        "On a remote island",
+        "On a Singapore rooftop",
+        "In a Manali valley"
+      ],
+      "answer": 1,
+      "why": "Their final confrontation takes place on a remote island.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-07",
+      "q": "In which 2013 sequel does the veteran actor return as Dr. Arya in a special appearance?",
+      "options": ["Koi... Mil Gaya 2", "Dhoom 3", "Krrish 3", "Agneepath"],
+      "answer": 2,
+      "why": "The Krrish 3 cast list credits Naseeruddin Shah as Dr. Siddhant Arya in a special appearance.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "siddhant-arya-08",
+      "q": "Who plays Krishna's friend killed by Arya?",
+      "options": ["Tom Wu", "Donnie Yen", "Jet Li", "Bin Xia"],
+      "answer": 3,
+      "why": "Bin Xia plays Kristian Li in the 2006 film.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-09",
+      "q": "Who directed the film introducing Siddhant Arya?",
+      "options": ["Rakesh Roshan", "Ashutosh Gowariker", "Farhan Akhtar", "Sanjay Gadhvi"],
+      "answer": 0,
+      "why": "Rakesh Roshan wrote, produced and directed the 2006 film.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "siddhant-arya-10",
+      "q": "In which year did Siddhant Arya first appear on screen?",
+      "options": ["2006", "2003", "2001", "2004"],
+      "answer": 0,
+      "why": "Arya debuted in Krrish, released on 23 June 2006.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    }
+  ]
+}

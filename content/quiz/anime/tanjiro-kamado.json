@@ -1,0 +1,107 @@
+{
+  "character": "tanjiro-kamado",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "tanjiro-kamado-01",
+      "q": "What is the name of Tanjiro's demon sister?",
+      "options": ["Shinobu", "Kanao", "Nezuko", "Mitsuri"],
+      "answer": 2,
+      "why": "Nezuko was turned into a demon.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    },
+    {
+      "id": "tanjiro-kamado-02",
+      "q": "Which demon lord is Tanjiro's chief antagonist?",
+      "options": ["Akaza", "Muzan Kibutsuji", "Upper Moon One, Kokushibo", "Doma"],
+      "answer": 1,
+      "why": "Muzan Kibutsuji is the main villain.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    },
+    {
+      "id": "tanjiro-kamado-03",
+      "q": "What did Tanjiro do for a living before his family was attacked?",
+      "options": ["Sold charcoal", "Forged swords", "Farmed rice", "Trained horses"],
+      "answer": 0,
+      "why": "After his father died, he sold charcoal in nearby villages to support his household.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+    },
+    {
+      "id": "tanjiro-kamado-04",
+      "q": "Tanjiro swings his sword using which technique, also known as Sun Breathing?",
+      "options": ["Hinokami Kagura", "Hinokami Rasen", "Hinokami Kenbu", "Ryūsei Kagura"],
+      "answer": 0,
+      "why": "He wields Hinokami Kagura, the Sun Breathing style, with his blade.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado",
+      "giveawayOk": true
+    },
+    {
+      "id": "tanjiro-kamado-05",
+      "q": "Which Demon Slayer sends the Kamado siblings to train under Urokodaki?",
+      "options": ["Shinobu Kocho", "Giyu Tomioka", "Kyojuro Rengoku", "Sanemi Shinazugawa"],
+      "answer": 1,
+      "why": "Giyu Tomioka points them to Urokodaki.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    },
+    {
+      "id": "tanjiro-kamado-06",
+      "q": "What colour is Tanjiro's Nichirin blade?",
+      "options": ["Black", "Orange", "Blue", "Green"],
+      "answer": 0,
+      "why": "His blade is black, though it sometimes turns crimson.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    },
+    {
+      "id": "tanjiro-kamado-07",
+      "q": "Which company animates the Demon Slayer TV anime?",
+      "options": ["MAPPA", "Wit Studio", "Bones", "Ufotable"],
+      "answer": 3,
+      "why": "Ufotable produces the series, which premiered in April 2019.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+    },
+    {
+      "id": "tanjiro-kamado-08",
+      "q": "Tanjiro's earrings are patterned after which Japanese card game?",
+      "options": ["Hanafuda", "Karuta", "Tarot", "Poker"],
+      "answer": 0,
+      "why": "Hanafuda earrings are among his trademarks.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    },
+    {
+      "id": "tanjiro-kamado-09",
+      "q": "How many volumes did the Demon Slayer manga run?",
+      "options": ["18", "23", "20", "22"],
+      "answer": 1,
+      "why": "The manga ran from February 2016 to May 2020, in 23 volumes.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Demon_Slayer:_Kimetsu_no_Yaiba"
+    },
+    {
+      "id": "tanjiro-kamado-10",
+      "q": "Which swordsman hero inspired the scar on Tanjiro's face?",
+      "options": ["Himura Kenshin", "Roronoa Zoro", "Guts", "Mugen"],
+      "answer": 0,
+      "why": "Gotouge took the scar from Rurouni Kenshin's hero.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Tanjiro_Kamado"
+    }
+  ]
+}

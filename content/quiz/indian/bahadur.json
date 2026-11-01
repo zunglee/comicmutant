@@ -1,0 +1,116 @@
+{
+  "character": "bahadur",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "bahadur-01",
+      "q": "Who created Bahadur, the home-grown hero of an Indian comics line?",
+      "options": ["Aabid Surti", "Pran Kumar Sharma", "Anant Pai", "Sanjay Gupta"],
+      "answer": 0,
+      "why": "Aabid Surti dreamed up Bahadur and pitched him to the publisher while freelancing for Bennett, Coleman & Co.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-02",
+      "q": "Which publisher's imprint carried Bahadur's adventures until it stopped publishing in 1990?",
+      "options": ["Raj Comics", "Diamond Comics", "Indrajal Comics", "Amar Chitra Katha"],
+      "answer": 2,
+      "why": "Bahadur ran in Indrajal Comics, the Bennett, Coleman & Co. line, and ended when that line was discontinued in 1990.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-03",
+      "q": "In which year did Bahadur first appear in print?",
+      "options": ["1974", "1975", "1972", "1976"],
+      "answer": 3,
+      "why": "Bahadur debuted in December 1976, created to give Indian readers a local hero beside imported ones like the Phantom.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-04",
+      "q": "Bahadur's father was a dacoit killed in a clash with police. What was his name?",
+      "options": ["Hanuman Singh", "Mansingh", "Sultan Khan", "Bhairav Singh"],
+      "answer": 3,
+      "why": "Bhairav Singh died fighting the police, which set the teenage Bahadur on his first path of revenge.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-05",
+      "q": "Which police officer, who had shot Bahadur's father, adopted the teenage Bahadur?",
+      "options": ["Vishal", "Sukhiya", "Lakhan", "Rajan"],
+      "answer": 0,
+      "why": "Officer Vishal took in the boy after the shootout, and Bahadur eventually sided with the law.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-06",
+      "q": "What is the name of the civilian outfit Bahadur founded to help police fight bandits?",
+      "options": [
+        "Commando Force",
+        "Citizen's Security Force",
+        "Chambal Defence Corps",
+        "Gram Raksha Sena"
+      ],
+      "answer": 1,
+      "why": "Bahadur created the Citizen's Security Force, called Naagrik Suraksha Dal in Hindi, which assists police against dacoits.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-07",
+      "q": "Who is Bahadur's helper, a reformed dacoit who surrendered to the police?",
+      "options": ["Sukhiya", "Mukhiya", "Lakhan", "Chammiya"],
+      "answer": 2,
+      "why": "Lakhan gave up banditry, surrendered, and became Bahadur's trusted assistant.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-08",
+      "q": "Which martial artist is Bahadur's love interest who fights alongside him?",
+      "options": ["Meena", "Bela", "Rani", "Radha"],
+      "answer": 1,
+      "why": "Bela is the martial-arts expert who stands with Bahadur in the Indrajal Comics stories.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-09",
+      "q": "Which outfit did the series' author give Bahadur to blend Indianness and Western-style progress?",
+      "options": [
+        "A red turban and dhoti",
+        "A black cape and mask",
+        "A yellow jumpsuit",
+        "A saffron kurta with jeans"
+      ],
+      "answer": 3,
+      "why": "Surti explained that the saffron kurta stands for Indianness, while the jeans, a Western import, signal progress.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    },
+    {
+      "id": "bahadur-10",
+      "q": "Early Bahadur stories were inspired by the dacoits of which notorious region?",
+      "options": ["The Chambal Valley", "The Sundarbans", "The Thar Desert", "The Western Ghats"],
+      "answer": 0,
+      "why": "The ravines of the Chambal Valley, famed for bandits, shaped the early adventures set around the small town of Jaigarh.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)"
+    }
+  ]
+}

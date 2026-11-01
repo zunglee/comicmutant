@@ -1,0 +1,112 @@
+{
+  "character": "saitama",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "saitama-01",
+      "q": "Which cyborg hero becomes Saitama's disciple?",
+      "options": ["Bang", "Speed-o'-Sound Sonic", "Garou", "Genos"],
+      "answer": 3,
+      "why": "Genos, a cyborg hero, asks to learn from Saitama and lives with him.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    },
+    {
+      "id": "saitama-02",
+      "q": "One-Punch Man began as what kind of work?",
+      "options": [
+        "A weekly light novel series",
+        "A self-published webcomic",
+        "A mobile game",
+        "A newspaper strip"
+      ],
+      "answer": 1,
+      "why": "ONE began it online before the manga remake.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/One-Punch_Man"
+    },
+    {
+      "id": "saitama-03",
+      "q": "Despite his strength, which Hero Association class does Saitama start in?",
+      "options": ["S-Class", "A-Class", "C-Class", "B-Class"],
+      "answer": 2,
+      "why": "His poor exam results place him in C-Class, while Genos starts in S-Class.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/One-Punch_Man",
+      "giveawayOk": true
+    },
+    {
+      "id": "saitama-04",
+      "q": "Which alien overlord of the Dark Matter Thieves falls to Saitama's serious punch?",
+      "options": ["Speed-o'-Sound Sonic", "Garou", "Lord Boros", "Gouketsu"],
+      "answer": 2,
+      "why": "Saitama beats Boros in the Dark Matter Thieves arc.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    },
+    {
+      "id": "saitama-05",
+      "q": "Saitama hails from which fictional municipality?",
+      "options": ["Q-City", "Z-City", "A-City", "S-City"],
+      "answer": 1,
+      "why": "Saitama is an unaffiliated hero from Z-City.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    },
+    {
+      "id": "saitama-06",
+      "q": "Which company animated the first season of the One-Punch Man anime?",
+      "options": ["J.C.Staff", "MAPPA", "Madhouse", "Wit Studio"],
+      "answer": 2,
+      "why": "Madhouse made season 1 in 2015 under Shingo Natsume, with J.C.Staff taking over for season 2.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/One-Punch_Man"
+    },
+    {
+      "id": "saitama-07",
+      "q": "Saitama's daily workout includes 100 push-ups, sit-ups, squats and a run of how many kilometres?",
+      "options": ["10", "16", "13", "15"],
+      "answer": 0,
+      "why": "The routine is 100 reps each plus a 10 km run, kept up for three years.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    },
+    {
+      "id": "saitama-08",
+      "q": "In what year did One-Punch Man begin online?",
+      "options": ["2015", "2007", "2012", "2009"],
+      "answer": 3,
+      "why": "The webcomic started in 2009.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    },
+    {
+      "id": "saitama-09",
+      "q": "The remake began in 2012 on which Shueisha website?",
+      "options": ["Comic Days", "Shonen Jump+", "Manga Up!", "Tonari no Young Jump"],
+      "answer": 3,
+      "why": "It has run on Tonari no Young Jump since June 2012.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/One-Punch_Man"
+    },
+    {
+      "id": "saitama-10",
+      "q": "Who voices Saitama in the Japanese anime?",
+      "options": ["Yūki Kaji", "Makoto Furukawa", "Kenshō Ono", "Hiroshi Kamiya"],
+      "answer": 1,
+      "why": "Makoto Furukawa voices him in Japanese and Max Mittelman in English.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Saitama_(One-Punch_Man)"
+    }
+  ]
+}

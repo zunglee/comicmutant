@@ -1,0 +1,116 @@
+{
+  "character": "black-panther",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "black-panther-01",
+      "q": "Wakanda's wealth rests on deposits of which metal?",
+      "options": ["Adamantium", "Vibranium", "Uru", "Carbonadium"],
+      "answer": 1,
+      "why": "Wakanda is a hidden African nation sustained by vast vibranium deposits, which Ulysses Klaw repeatedly tried to steal.",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-02",
+      "q": "Which actor played T'Challa in the 2018 film Black Panther?",
+      "options": ["Chadwick Boseman", "Michael B. Jordan", "Daniel Kaluuya", "Winston Duke"],
+      "answer": 0,
+      "why": "Chadwick Boseman played T'Challa in the MCU, starting before the 2018 solo film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-03",
+      "q": "How is Shuri related to T'Challa in the comics?",
+      "options": ["His cousin", "His daughter", "His wife", "His sister"],
+      "answer": 3,
+      "why": "Shuri is T'Challa's sister; she took on the Black Panther role while he was in a coma.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-04",
+      "q": "Which duo created the Black Panther?",
+      "options": [
+        "Stan Lee and Steve Ditko",
+        "Jack Kirby and Joe Simon",
+        "Stan Lee and Jack Kirby",
+        "Stan Lee and Don Heck"
+      ],
+      "answer": 2,
+      "why": "Stan Lee scripted and Jack Kirby plotted and drew the character's debut.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-05",
+      "q": "In which year did the Black Panther first appear, in Fantastic Four #52?",
+      "options": ["1966", "1967", "1964", "1965"],
+      "answer": 0,
+      "why": "T'Challa debuted in Fantastic Four #52, cover-dated July 1966.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-06",
+      "q": "In the comics, T'Challa gains his Panther boosts by ritually drinking the essence of what?",
+      "options": [
+        "A heart-shaped herb",
+        "Vibranium-laced spring water",
+        "The blood of a sacred big cat",
+        "A glowing cosmic crystal"
+      ],
+      "answer": 0,
+      "why": "The Wakandan Black Panther ritual involves ingesting the essence of a heart-shaped herb, boosting strength, speed and senses.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-07",
+      "q": "In 2006, during Reginald Hudlin's run, whom did T'Challa marry?",
+      "options": ["Monica Lynne", "Jean Grey", "Rogue", "Storm"],
+      "answer": 3,
+      "why": "T'Challa married X-Men member Storm in 2006; the marriage was later annulled.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-08",
+      "q": "What was the name of T'Challa's mother, who died giving birth to him?",
+      "options": ["Ramonda", "Nakia", "N'Yami", "Okoye"],
+      "answer": 2,
+      "why": "Queen N'Yami died in childbirth; T'Chaka's second wife Ramonda later gave birth to Shuri.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-09",
+      "q": "In which year did T'Challa join the Avengers in the comics?",
+      "options": ["1969", "1968", "1962", "1967"],
+      "answer": 1,
+      "why": "He joined in 1968, first appearing in The Avengers #52 that May.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    },
+    {
+      "id": "black-panther-10",
+      "q": "In the comics, which villain killed T'Challa's father, King T'Chaka?",
+      "options": ["Ulysses Klaw", "Erik Killmonger", "M'Baku", "Namor"],
+      "answer": 0,
+      "why": "Ulysses Klaw killed T'Chaka and kept raiding Wakanda for its prized metal.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Black_Panther_(character)"
+    }
+  ]
+}

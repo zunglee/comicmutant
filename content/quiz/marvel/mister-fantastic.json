@@ -1,0 +1,117 @@
+{
+  "character": "mister-fantastic",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "mister-fantastic-01",
+      "q": "In which year did Mister Fantastic debut in Fantastic Four #1?",
+      "options": ["1961", "1962", "1972", "1963"],
+      "answer": 0,
+      "why": "Reed Richards first appeared in Fantastic Four #1, cover-dated November 1961, kicking off the Marvel Age of comics.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-02",
+      "q": "In the comics, what gave Reed Richards his stretching powers?",
+      "options": ["Gamma radiation", "Cosmic rays", "A radioactive spider bite", "Terrigen Mist"],
+      "answer": 1,
+      "why": "An unauthorized rocket flight was bombarded by cosmic radiation, giving Reed his elastic body.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-03",
+      "q": "Who is Reed Richards' wife?",
+      "options": ["Janet van Dyne", "Jean Grey", "Susan Storm", "Betty Ross"],
+      "answer": 2,
+      "why": "Reed married Sue Storm, the Invisible Woman, in Fantastic Four Annual #3 in 1965.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-04",
+      "q": "Which villain was Reed's college roommate and intellectual rival?",
+      "options": ["Mole Man", "Galactus", "Namor", "Doctor Doom"],
+      "answer": 3,
+      "why": "Victor von Doom roomed with Reed at State University and has been his archenemy ever since.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-05",
+      "q": "Who played Mister Fantastic in the 2005 Fantastic Four film?",
+      "options": ["Ioan Gruffudd", "Miles Teller", "Pedro Pascal", "John Krasinski"],
+      "answer": 0,
+      "why": "Ioan Gruffudd played Reed Richards in 2005 and its 2007 sequel Rise of the Silver Surfer.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-06",
+      "q": "Which actor played a Reed Richards variant in the 2022 Strange sequel Multiverse of Madness?",
+      "options": ["Pedro Pascal", "John Krasinski", "Miles Teller", "Ioan Gruffudd"],
+      "answer": 1,
+      "why": "John Krasinski appeared as a Reed variant in that film, a cameo as part of the Illuminati.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-07",
+      "q": "In which issue did Reed marry Sue in the comics?",
+      "options": [
+        "Fantastic Four #51",
+        "Fantastic Four Annual #1",
+        "Fantastic Four Annual #3",
+        "Fantastic Four #25"
+      ],
+      "answer": 2,
+      "why": "Their wedding took place in Fantastic Four Annual #3 in July 1965, a big event for readers.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic",
+      "giveawayOk": true
+    },
+    {
+      "id": "mister-fantastic-08",
+      "q": "What is the name of Reed and Sue's daughter?",
+      "options": ["Wanda", "Rachel", "Lila", "Valeria"],
+      "answer": 3,
+      "why": "Valeria Richards, a child genius, is the younger sibling of Franklin Richards.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-09",
+      "q": "Reed Richards is a member of which secret council of Marvel heroes?",
+      "options": ["The Illuminati", "The Hellfire Club", "The Cabal", "The Masters of Evil"],
+      "answer": 0,
+      "why": "Reed is a core member of the Illuminati, the covert group that makes decisions about threats to Earth.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    },
+    {
+      "id": "mister-fantastic-10",
+      "q": "Which fictional school did Reed Richards and Ben Grimm attend?",
+      "options": [
+        "Culver University",
+        "Empire State University",
+        "Horizon University",
+        "Metropolitan State College"
+      ],
+      "answer": 1,
+      "why": "Reed and Ben met at the fictional Empire State University, where Ben had a football scholarship.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Mister_Fantastic"
+    }
+  ]
+}

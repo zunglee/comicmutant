@@ -1,0 +1,116 @@
+{
+  "character": "captain-marvel",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "captain-marvel-01",
+      "q": "Which actress plays Carol Danvers in the Marvel Cinematic Universe?",
+      "options": ["Brie Larson", "Elizabeth Olsen", "Scarlett Johansson", "Zoe Saldana"],
+      "answer": 0,
+      "why": "Brie Larson plays Carol Danvers in Captain Marvel (2019) and later films.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-02",
+      "q": "Before gaining powers, Carol Danvers worked for which military branch in the comics?",
+      "options": ["The US Navy", "The US Army", "The Marine Corps", "The US Air Force"],
+      "answer": 3,
+      "why": "Carol debuted in 1968 as an Air Force officer and security chief at a restricted military base.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-03",
+      "q": "Which 2023 MCU film is a sequel to Captain Marvel (2019)?",
+      "options": [
+        "Guardians of the Galaxy Vol. 3",
+        "Ant-Man and the Wasp: Quantumania",
+        "The Marvels",
+        "Black Panther: Wakanda Forever"
+      ],
+      "answer": 2,
+      "why": "The Marvels (2023) continued the story of the 2019 Captain Marvel film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-04",
+      "q": "A Psyche-Magnetron explosion fused Carol's genes with those of which Kree hero?",
+      "options": ["Yon-Rogg", "Mar-Vell", "Ronan the Accuser", "Genis-Vell"],
+      "answer": 1,
+      "why": "The blast mixed her DNA with the Kree hero Mar-Vell, making her a human-Kree hybrid.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-05",
+      "q": "Who wrote the 2012 series in which Carol Danvers took up the Captain Marvel name?",
+      "options": ["Kelly Sue DeConnick", "Brian Michael Bendis", "Gail Simone", "G. Willow Wilson"],
+      "answer": 0,
+      "why": "DeConnick scripted that July 2012 launch, with Dexter Soy on art, and Carol moved from Ms. Marvel to Captain Marvel.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-06",
+      "q": "In The Avengers Annual #10 (1981), which X-Men foe absorbed Carol's powers and memories?",
+      "options": ["Mystique", "Emma Frost", "Jubilee", "Rogue"],
+      "answer": 3,
+      "why": "Rogue permanently drained Carol's powers and memories, which Professor X later helped restore.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-07",
+      "q": "Which cosmic codename did Carol take after Brood experiments linked her to a white hole?",
+      "options": ["Quasar", "Pulsar", "Binary", "Spectrum"],
+      "answer": 2,
+      "why": "As Binary she wielded star-level power; the identity first appeared in Uncanny X-Men #164.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-08",
+      "q": "Who wrote Ms. Marvel #1 (January 1977)?",
+      "options": ["Chris Claremont", "Gerry Conway", "Roy Thomas", "Len Wein"],
+      "answer": 1,
+      "why": "Gerry Conway wrote the debut of the Ms. Marvel series, drawn by John Buscema.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-09",
+      "q": "Which duo created Carol Danvers in Marvel Super-Heroes #13 (1968)?",
+      "options": [
+        "Roy Thomas and Gene Colan",
+        "Stan Lee and Jack Kirby",
+        "Gerry Conway and John Buscema",
+        "Chris Claremont and John Byrne"
+      ],
+      "answer": 0,
+      "why": "Roy Thomas wrote and Gene Colan drew her as a military security officer.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    },
+    {
+      "id": "captain-marvel-10",
+      "q": "Which codename did Kurt Busiek and George Perez coin for Carol in The Avengers vol. 3 #4 (1998)?",
+      "options": ["Firebird", "Starhawk", "Nighthawk", "Warbird"],
+      "answer": 3,
+      "why": "Busiek and Perez gave her the Warbird name when she rejoined the Avengers in 1998.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Carol_Danvers"
+    }
+  ]
+}

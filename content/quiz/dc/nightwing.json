@@ -1,0 +1,116 @@
+{
+  "character": "nightwing",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "nightwing-01",
+      "q": "What signature weapons does Nightwing typically carry?",
+      "options": ["A collapsible bo staff", "Twin escrima sticks", "Nunchaku", "Katana"],
+      "answer": 1,
+      "why": "He fights with a pair of high-durability escrima sticks, which in some versions lock together into a staff.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-02",
+      "q": "How did Dick Grayson's parents, the Flying Graysons, die in the comics?",
+      "options": [
+        "Gangsters sabotaged their trapeze",
+        "A circus tent fire during a night show",
+        "A car crash",
+        "A lion attack"
+      ],
+      "answer": 0,
+      "why": "Gangsters tampered with the aerialists' trapeze, leaving young Dick an orphan before Batman took him in.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson"
+    },
+    {
+      "id": "nightwing-03",
+      "q": "Which writer and artist created the Dick Grayson version of Nightwing?",
+      "options": [
+        "Bill Finger and Bob Kane",
+        "Dennis O'Neil and Neal Adams",
+        "Chuck Dixon and Scott McDaniel",
+        "Marv Wolfman and George Pérez"
+      ],
+      "answer": 3,
+      "why": "Marv Wolfman and George Pérez gave Dick the Nightwing identity during their Teen Titans run.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-04",
+      "q": "In which year did Dick Grayson first appear as Nightwing in Tales of the Teen Titans #44?",
+      "options": ["1994", "1987", "1984", "1996"],
+      "answer": 2,
+      "why": "Dick took on the Nightwing identity in 1984 after leaving his Robin days behind.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-05",
+      "q": "Which hero told Dick the story that inspired him to choose the name Nightwing?",
+      "options": ["Batman", "Superman", "Green Arrow", "Wonder Woman"],
+      "answer": 1,
+      "why": "Superman told Dick of a Kryptonian crimefighter called Nightwing, and Dick borrowed the name.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-06",
+      "q": "Nightwing became the protector of which municipality, a role launched with his 1996 solo series?",
+      "options": ["Blüdhaven", "Gotham City", "Metropolis", "Keystone City"],
+      "answer": 0,
+      "why": "Blüdhaven, a rough city near Gotham, became his territory when he got his own ongoing book.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson"
+    },
+    {
+      "id": "nightwing-07",
+      "q": "Who wrote Nightwing's 1996 monthly series?",
+      "options": ["Dennis O'Neil", "Geoff Johns", "Gail Simone", "Chuck Dixon"],
+      "answer": 3,
+      "why": "Chuck Dixon wrote the 1996 ongoing, after Dennis O'Neil's 1995 miniseries.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson"
+    },
+    {
+      "id": "nightwing-08",
+      "q": "Which actor plays Nightwing in the live-action series Titans?",
+      "options": ["Chris O'Donnell", "Scott Porter", "Brenton Thwaites", "Quinton Flynn"],
+      "answer": 2,
+      "why": "Brenton Thwaites plays Dick Grayson in Titans; Chris O'Donnell played him as Robin in the 1990s Batman films.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-09",
+      "q": "Who voices Nightwing in the video game Batman: Arkham Knight?",
+      "options": ["Quinton Flynn", "Scott Porter", "Troy Baker", "Jensen Ackles"],
+      "answer": 1,
+      "why": "Scott Porter voices him in Arkham Knight, after Quinton Flynn played him in Arkham City.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Nightwing"
+    },
+    {
+      "id": "nightwing-10",
+      "q": "In which year did Dick Grayson make his debut as Robin in Detective Comics #38?",
+      "options": ["1941", "1942", "1939", "1940"],
+      "answer": 3,
+      "why": "Dick first appeared as Robin in Detective Comics #38, dated April 1940.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Dick_Grayson"
+    }
+  ]
+}

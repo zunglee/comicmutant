@@ -1,0 +1,116 @@
+{
+  "character": "galactus",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "galactus-01",
+      "q": "Norrin Radd serves as Galactus's herald under which name?",
+      "options": ["Nova", "Silver Surfer", "Terrax the Tamer", "Firelord"],
+      "answer": 1,
+      "why": "To spare his home world Zenn-La, Norrin Radd agreed to serve Galactus as his herald, the Silver Surfer.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-02",
+      "q": "Which hero team first faces Galactus in the 'Galactus Trilogy'?",
+      "options": ["The Fantastic Four", "The Mighty Avengers", "The X-Men", "The Defenders"],
+      "answer": 0,
+      "why": "Galactus debuted in Fantastic Four #48-50, the Galactus Trilogy.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-03",
+      "q": "Galactus is known as the Devourer of what?",
+      "options": ["Stars", "Galaxies", "Souls", "Worlds"],
+      "answer": 3,
+      "why": "Devourer of Worlds is one of his best-known aliases.",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-04",
+      "q": "What was Galactus called before he became Galactus?",
+      "options": ["Norrin Radd", "Eson", "Galan", "Uatu"],
+      "answer": 2,
+      "why": "Galactus began as Galan, a space explorer from the planet Taa.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-05",
+      "q": "In which 2007 film does Galactus appear as a non-speaking cosmic cloud?",
+      "options": [
+        "Spider-Man 3",
+        "Rise of the Silver Surfer",
+        "Ghost Rider: Spirit of Vengeance",
+        "X-Men: The Last Stand"
+      ],
+      "answer": 1,
+      "why": "Galactus appears as a cosmic cloud in this 2007 Fantastic Four sequel.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-06",
+      "q": "Which duo created Galactus?",
+      "options": [
+        "Stan Lee and Jack Kirby",
+        "Stan Lee and Steve Ditko",
+        "Jack Kirby and Joe Simon",
+        "Stan Lee and Don Heck"
+      ],
+      "answer": 0,
+      "why": "Stan Lee wrote and Jack Kirby drew Galactus's debut.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-07",
+      "q": "Galactus debuted with a March cover date in which year?",
+      "options": ["1975", "1978", "1967", "1966"],
+      "answer": 3,
+      "why": "Fantastic Four #48 carried a March 1966 cover date.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-08",
+      "q": "On which planet was Galactus born?",
+      "options": ["Zenn-La", "Xandar", "Taa", "Hala"],
+      "answer": 2,
+      "why": "Before becoming Galactus he was a Taa-an explorer from the planet Taa in the Sixth Cosmos.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-09",
+      "q": "Which herald, Frankie Raye, offered herself in exchange for Galactus sparing Earth?",
+      "options": ["Terrax", "Nova", "Firelord", "Air-Walker"],
+      "answer": 1,
+      "why": "Frankie Raye became the herald Nova to spare Earth.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    },
+    {
+      "id": "galactus-10",
+      "q": "Which Watcher sends the Human Torch to fetch the Ultimate Nullifier in the finale of the Galactus Trilogy?",
+      "options": ["Uatu", "Eson", "Aron", "Ikor"],
+      "answer": 0,
+      "why": "Uatu the Watcher sends the Torch to Taa II to retrieve the Ultimate Nullifier.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Galactus"
+    }
+  ]
+}

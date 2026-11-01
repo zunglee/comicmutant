@@ -1,0 +1,106 @@
+{
+  "character": "nagraj",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "nagraj-01",
+      "q": "Who wrote the first Nagraj comic book?",
+      "options": ["Anupam Sinha", "Parshuram Sharma", "Tarun Kumar Wahi", "Manoj Gupta"],
+      "answer": 1,
+      "why": "Parshuram Sharma scripted the first Nagraj comic, with Pratap Mullick on art.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-02",
+      "q": "Which publisher launched Nagraj?",
+      "options": ["Raj Comics", "Diamond Comics", "Indrajal Comics", "Amar Chitra Katha"],
+      "answer": 0,
+      "why": "Nagraj is one of Raj Comics' flagship heroes.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-03",
+      "q": "What does Nagraj use as ropes, shields and messengers?",
+      "options": ["Metallic cables", "Microscopic snakes", "Spider silk", "Smoke spirits"],
+      "answer": 1,
+      "why": "Nagraj carries microscopic snakes that he can shape into tools and carriers.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-04",
+      "q": "Which fellow hero from the same publisher is Nagraj's best friend?",
+      "options": ["Doga", "Parmanu, the Atomic Avenger", "Bhokal", "Super Commando Dhruva"],
+      "answer": 3,
+      "why": "Dhruva and Nagraj are closest allies, and they team up often in specials.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-05",
+      "q": "Which king is Nagraj's biological father in the origin story?",
+      "options": ["Takshakraj", "Nagpasha", "Vishandhar", "Nagmani"],
+      "answer": 0,
+      "why": "Nagraj was born to King Takshakraj and Queen Lalita in Takshaknagar.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-06",
+      "q": "Which uncle tampered with an offering at Nagraj's birth, leaving him cast into a river?",
+      "options": ["Vishandhar", "Nagpasha", "Nagmani", "Nagdant"],
+      "answer": 1,
+      "why": "His uncle Nagpasha tampered with an offering, and the baby was presumed dead.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-07",
+      "q": "Who raises Nagraj and uses him as a weapon in his debut story?",
+      "options": ["Vishandhar", "Thodanga", "Professor Nagmani", "Jadugar Shakura"],
+      "answer": 2,
+      "why": "Nagmani, a scientist, is both foster father and first villain.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-08",
+      "q": "Who illustrated Nagraj's debut issue?",
+      "options": ["Sanjay Ashtpure", "Anupam Sinha", "Vitthal Kamble", "Pratap Mullick"],
+      "answer": 3,
+      "why": "Pratap Mullick drew the debut issue, working from the first script.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-09",
+      "q": "Who conceived Nagraj along with his sons?",
+      "options": ["Rajkumar Gupta", "Pran Kumar Sharma", "Aabid Surti", "Anant Pai"],
+      "answer": 0,
+      "why": "Rajkumar Gupta, founder of Raj Comics, and his sons came up with the snake hero.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    },
+    {
+      "id": "nagraj-10",
+      "q": "On which channel did Nagraj's animated films air in India in 2015?",
+      "options": ["Pogo", "Cartoon Network", "Hungama TV", "Nickelodeon"],
+      "answer": 1,
+      "why": "Cartoon Network India broadcast three of the five animated films in 2015.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Nagraj"
+    }
+  ]
+}

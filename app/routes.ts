@@ -22,6 +22,11 @@ export default [
   route('arena/:game', 'routes/arena-play.tsx'),
   // Flagship daily game: math gates + verified leaderboard.
   route('freefall', 'routes/freefall.tsx'),
+  // Fact Frenzy: server-scored facts quiz over the published roster.
+  route('quiz', 'routes/quiz.tsx'),
+  route('quiz/play', 'routes/quiz-play.tsx'),
+  route('quiz/leaders', 'routes/quiz-leaders.tsx'),
+  route('quiz/me', 'routes/quiz-me.tsx'),
 
   // Accounts + moderation.
   route('join', 'routes/join.tsx'),
@@ -29,6 +34,7 @@ export default [
   route('logout', 'routes/logout.ts'),
   route('mod', 'routes/mod.tsx'),
   route('mod/freefall/:id', 'routes/mod-freefall.tsx'),
+  route('mod/quiz', 'routes/mod-quiz.tsx'),
 
   // Resource routes.
   route('themes/index.json', 'routes/theme-index.ts'),
@@ -45,6 +51,11 @@ export default [
     route('freefall/submit', 'routes/api/freefall-submit.ts'),
     route('freefall/end', 'routes/api/freefall-end.ts'),
     route('freefall/tick', 'routes/api/freefall-tick.ts'),
+    route('quiz/start', 'routes/api/quiz-start.ts'),
+    route('quiz/answer', 'routes/api/quiz-answer.ts'),
+    route('quiz/next', 'routes/api/quiz-next.ts'),
+    route('quiz/claim', 'routes/api/quiz-claim.ts'),
+    route('quiz/report', 'routes/api/quiz-report.ts'),
     route('takes', 'routes/api/takes.ts'),
     route('characters', 'routes/api/characters.ts'),
   ]),

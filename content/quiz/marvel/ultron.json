@@ -1,0 +1,107 @@
+{
+  "character": "ultron",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "ultron-01",
+      "q": "Under which disguise did Ultron first appear in The Avengers #54?",
+      "options": ["Red Ghost", "Scarlet Centurion", "Crimson Cowl", "Grim Reaper"],
+      "answer": 2,
+      "why": "Ultron made a cameo as the Crimson Cowl before his full introduction the next issue.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-02",
+      "q": "Which writer co-created Ultron with artist John Buscema?",
+      "options": ["Stan Lee", "Len Wein", "Jim Shooter", "Roy Thomas"],
+      "answer": 3,
+      "why": "Roy Thomas wrote Ultron's debut, with John Buscema on art.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-03",
+      "q": "Ultron is fully introduced in The Avengers #55 as which numbered model?",
+      "options": ["Ultron-1", "Ultron-5", "Ultron-8", "Ultron-12"],
+      "answer": 1,
+      "why": "Issue #55 (1968) presents him as Ultron-5, the Living Automaton.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ultron",
+      "giveawayOk": true
+    },
+    {
+      "id": "ultron-04",
+      "q": "Who plays Ultron in Avengers: Age of Ultron (2015)?",
+      "options": ["Paul Bettany", "James Spader", "Idris Elba", "Mark Strong"],
+      "answer": 1,
+      "why": "James Spader played Ultron in the 2015 film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-05",
+      "q": "Ultron's body is mainly made of which metal?",
+      "options": ["Vibranium", "Uru", "Adamantium", "Titanium"],
+      "answer": 2,
+      "why": "Ultron's body is mostly adamantium, although some versions use steel.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-06",
+      "q": "What kind of being is Ultron?",
+      "options": ["A mutant with robotic powers", "An alien", "A cyborg", "A sentient robot"],
+      "answer": 3,
+      "why": "Ultron is an artificially intelligent robot that turned on its creator.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-07",
+      "q": "In which year did Ultron debut in the Avengers comic?",
+      "options": ["1978", "1968", "1970", "1979"],
+      "answer": 1,
+      "why": "Ultron first appeared in The Avengers #54 in July 1968.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-08",
+      "q": "Which robotic mate did Ultron build using Mockingbird's brain patterns?",
+      "options": ["Jocasta", "Alkhema", "Machinesmith", "Tarantula"],
+      "answer": 1,
+      "why": "Alkhema was a robot mate for Ultron, built from Mockingbird's brain patterns.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-09",
+      "q": "Who wrote the 2013 crossover event Age of Ultron?",
+      "options": ["Jonathan Hickman", "Mark Waid", "Brian Michael Bendis", "Geoff Johns"],
+      "answer": 2,
+      "why": "Brian Michael Bendis wrote Age of Ultron, set in a timeline where Ultron conquers Earth.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    },
+    {
+      "id": "ultron-10",
+      "q": "In which year did Jocasta, Ultron's robotic bride, first appear in The Avengers #162?",
+      "options": ["1973", "1980", "1970", "1977"],
+      "answer": 3,
+      "why": "Jocasta was created for The Avengers #162 in 1977 by Jim Shooter and George Perez.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Ultron"
+    }
+  ]
+}

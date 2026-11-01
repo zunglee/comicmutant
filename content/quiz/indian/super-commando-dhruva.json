@@ -1,0 +1,112 @@
+{
+  "character": "super-commando-dhruva",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "super-commando-dhruva-01",
+      "q": "Who created Super Commando Dhruva?",
+      "options": ["Anupam Sinha", "Sanjay Gupta", "Tarun Kumar Wahi", "Parshuram Sharma"],
+      "answer": 0,
+      "why": "Anupam Sinha wrote and drew the hero for Raj Comics.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-02",
+      "q": "What is the title of Dhruva's debut story, GENL #74?",
+      "options": ["Maut Ka Olympic", "Pratishodh Ki Jwala", "Roman Hatyara", "Khooni Khilone"],
+      "answer": 1,
+      "why": "He debuted in April 1987 in Pratishodh Ki Jwala.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-03",
+      "q": "In which year did Super Commando Dhruva debut?",
+      "options": ["1991", "1987", "1989", "1985"],
+      "answer": 1,
+      "why": "Dhruva appeared in 1987, one year after Nagraj.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-04",
+      "q": "Which city is Dhruva's home and headquarters?",
+      "options": ["Mumbai", "Delhi", "Rajnagar", "Nagpur"],
+      "answer": 2,
+      "why": "Dhruva is based in Rajnagar, home of the Commando Force.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-05",
+      "q": "What unusual ability does Dhruva have beyond his circus training?",
+      "options": [
+        "He can turn invisible",
+        "He can fly using mechanical wings",
+        "He can read minds",
+        "He can talk to most animals"
+      ],
+      "answer": 3,
+      "why": "He has no superpowers, but he can communicate with most animals and birds.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-06",
+      "q": "Who adopts Dhruva after his parents die in a circus fire?",
+      "options": ["Police chief Rajan Mehra", "Dhananjay the ringmaster", "Jubisko", "Peter Massy"],
+      "answer": 0,
+      "why": "Rajan Mehra, a police chief, adopted him after the fire that killed his parents.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-07",
+      "q": "Which superheroine is Dhruva's foster sister?",
+      "options": ["Black Cat", "Chandika", "Natasha", "Tiranga"],
+      "answer": 1,
+      "why": "Shweta, his foster sister, is the heroine Chandika.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-08",
+      "q": "What does Dhruva's right-hand bracelet launch?",
+      "options": ["Explosive darts", "Poison needles", "Star-blades", "Throwing axes"],
+      "answer": 2,
+      "why": "A bracelet fires star-blades, while the left one shoots a grappling star-line.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-09",
+      "q": "Who is the first and only person to learn the secret identity of Dhruva's foster sister?",
+      "options": ["Richa", "Natasha", "Rajan Mehra", "Peter Massy"],
+      "answer": 1,
+      "why": "Natasha, Grand Master Robo's daughter and Dhruva's love interest, alone discovers the secret.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "super-commando-dhruva-10",
+      "q": "Which government-approved team did Dhruva found?",
+      "options": ["Commando Force", "Brahmand Rakshak", "Naagrik Suraksha Dal", "Commando Corps"],
+      "answer": 0,
+      "why": "He founded the Commando Force with cadets Peter Massy, Karim Shah and Renu.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "giveawayOk": true
+    }
+  ]
+}

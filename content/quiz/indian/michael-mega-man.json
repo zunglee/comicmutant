@@ -1,0 +1,116 @@
+{
+  "character": "michael-mega-man",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "michael-mega-man-01",
+      "q": "Which actor plays Michael, the villain of Hanu-Man?",
+      "options": ["Vinay Rai", "Teja Sajja", "Samuthirakani", "Vennela Kishore"],
+      "answer": 0,
+      "why": "In June 2022 it was announced that Vinay Rai, a Tamil actor, would play the antagonist.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-02",
+      "q": "What is Michael's gadget-vigilante alias in the film?",
+      "options": ["Hanu-Man", "Mega Man", "Iron Mask", "Power Man"],
+      "answer": 1,
+      "why": "Michael plays at being a gadget-based hero called Mega Man while secretly craving real powers.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-03",
+      "q": "In which Indian city does Michael operate as a masked vigilante?",
+      "options": ["Hyderabad", "Chennai", "Mumbai", "Bengaluru"],
+      "answer": 2,
+      "why": "Years after childhood, Michael runs his Mega Man act in Mumbai.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-04",
+      "q": "Who is Michael's friend and sidekick who abducts Hanumanthu on his orders?",
+      "options": ["Gajapathi", "Kasi", "Meenakshi", "Siri"],
+      "answer": 3,
+      "why": "Vennela Kishore plays Siri, who aids Michael by kidnapping Hanumanthu and pressing him for the source of his power.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-05",
+      "q": "What does Michael secretly want despite relying only on gadgets?",
+      "options": [
+        "Genuine superpowers",
+        "Immense wealth",
+        "A political office",
+        "Fame on social media"
+      ],
+      "answer": 0,
+      "why": "His obsession with superheroes drives him to hunt for real powers, which leads him to the gem.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-06",
+      "q": "What does Michael's fleet of drones release over Anjanadri?",
+      "options": ["Tear gas", "A neurotoxic gas", "Dense smoke", "Radioactive dust"],
+      "answer": 1,
+      "why": "He plans to disable the villagers with neurotoxic gas from drones so he can seize the gem.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-07",
+      "q": "How does Michael meet his end?",
+      "options": [
+        "He is shot by police during a standoff",
+        "He falls from a cliff",
+        "He dies in a helicopter explosion",
+        "He is drowned in a flood"
+      ],
+      "answer": 2,
+      "why": "Fleeing with the gem, he is caught when Hanumanthu destroys his helicopter and he dies in the blast.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-08",
+      "q": "In which year is Michael's childhood scene set, in Saurashtra?",
+      "options": ["2000", "2009", "2001", "1998"],
+      "answer": 3,
+      "why": "The film opens with young Michael in Saurashtra in 1998, already obsessed with superheroes.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-09",
+      "q": "In which month and year was the casting of the film's antagonist announced?",
+      "options": ["June 2022", "January 2021", "October 2022", "March 2023"],
+      "answer": 0,
+      "why": "The actor's casting was announced in June 2022 while the film was already in production.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "michael-mega-man-10",
+      "q": "At whose wedding does Michael falsely claim ownership of the gem?",
+      "options": ["Meenakshi's", "Anjamma's", "Siri's", "Gajapathi's"],
+      "answer": 1,
+      "why": "At Anjamma's wedding he falsely claims the gem, setting off the clash that follows.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    }
+  ]
+}

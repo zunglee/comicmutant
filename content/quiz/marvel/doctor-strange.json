@@ -1,0 +1,123 @@
+{
+  "character": "doctor-strange",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "doctor-strange-01",
+      "q": "What was Stephen Strange's career before the accident that ruined his hands?",
+      "options": ["Neurosurgeon", "Cardiologist", "Architect", "Pilot"],
+      "answer": 0,
+      "why": "Strange was an arrogant neurosurgeon until a car accident ended his surgical career.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-02",
+      "q": "Which actor has played Doctor Strange in the Marvel Cinematic Universe since 2016?",
+      "options": ["Mads Mikkelsen", "Chiwetel Ejiofor", "Tom Hiddleston", "Benedict Cumberbatch"],
+      "answer": 3,
+      "why": "Benedict Cumberbatch has played Strange since Doctor Strange (2016).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-03",
+      "q": "Which amulet does Strange wear to negate evil magic?",
+      "options": [
+        "The Wand of Watoomb",
+        "The Book of the Vishanti",
+        "The Eye of Agamotto",
+        "The Crimson Bands of Cyttorak"
+      ],
+      "answer": 2,
+      "why": "The Eye of Agamotto hangs on his chest and is used to negate evil magic.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-04",
+      "q": "Which artist co-created Doctor Strange with writer Stan Lee?",
+      "options": ["Jack Kirby", "Steve Ditko", "Don Heck", "Gene Colan"],
+      "answer": 1,
+      "why": "Steve Ditko drew and plotted Strange, with Stan Lee scripting.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-05",
+      "q": "In which comic did Doctor Strange make his debut in 1963?",
+      "options": [
+        "Strange Tales",
+        "Strange Worlds",
+        "Strange Adventures",
+        "Strange Suspense Stories"
+      ],
+      "answer": 0,
+      "why": "His debut came in Strange Tales, issue 110, dated July 1963.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange",
+      "giveawayOk": true
+    },
+    {
+      "id": "doctor-strange-06",
+      "q": "Which disciple of the Ancient One tried to kill his mentor and became Strange's most enduring enemy?",
+      "options": ["Kaecilius", "Nightmare", "Umar", "Baron Mordo"],
+      "answer": 3,
+      "why": "Baron Mordo, the Ancient One's disciple, tried to kill him and became Strange's longest-running foe.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-07",
+      "q": "Strange's Sanctum Sanctorum stands in which Manhattan neighborhood?",
+      "options": ["Harlem", "Chelsea", "Greenwich Village", "Hell's Kitchen"],
+      "answer": 2,
+      "why": "His Sanctum Sanctorum is a townhouse in Greenwich Village.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-08",
+      "q": "Clea is revealed to be the niece of which Dark Dimension ruler?",
+      "options": ["Nightmare", "Dormammu", "Mephisto", "Shuma-Gorath"],
+      "answer": 1,
+      "why": "Clea, Strange's love, is Dormammu's niece.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    },
+    {
+      "id": "doctor-strange-09",
+      "q": "In which issue did Strange's eight-page origin story run in December 1963?",
+      "options": [
+        "Strange Tales #115",
+        "Strange Tales #110",
+        "Strange Tales #103",
+        "Strange Tales #108"
+      ],
+      "answer": 0,
+      "why": "His eight-page origin story ran in Strange Tales #115, cover-dated December 1963.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange",
+      "giveawayOk": true
+    },
+    {
+      "id": "doctor-strange-10",
+      "q": "Which actor starred in the 1978 TV film Dr. Strange?",
+      "options": ["Nicholas Hammond", "Bill Bixby", "Lou Ferrigno", "Peter Hooten"],
+      "answer": 3,
+      "why": "Peter Hooten starred as Strange in the 1978 television film.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Strange"
+    }
+  ]
+}

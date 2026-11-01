@@ -1,0 +1,116 @@
+{
+  "character": "hawkeye",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "hawkeye-01",
+      "q": "Which actor plays Clint Barton, the original Hawkeye, in the Marvel Cinematic Universe?",
+      "options": ["Hailee Steinfeld", "Chris Pratt", "Bradley Cooper", "Jeremy Renner"],
+      "answer": 3,
+      "why": "Jeremy Renner has played Clint Barton since Thor (2011).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-02",
+      "q": "What weapon is Clint Barton best known for?",
+      "options": [
+        "Throwing knives and shuriken",
+        "A crossbow",
+        "A bow and trick arrows",
+        "Boomerangs"
+      ],
+      "answer": 2,
+      "why": "Hawkeye has no superpowers and relies on archery and trick arrows.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-03",
+      "q": "After leaving an orphanage, Clint and his brother joined which kind of show?",
+      "options": ["A rodeo", "A traveling carnival", "A boxing circuit", "A vaudeville troupe"],
+      "answer": 1,
+      "why": "The brothers ran off to the Carson Carnival of Traveling Wonders.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-04",
+      "q": "Which 2011 MCU film included Hawkeye's screen debut?",
+      "options": ["Thor", "Iron Man 2", "Captain America: The First Avenger", "The Avengers"],
+      "answer": 0,
+      "why": "Hawkeye debuted in a cameo in Thor (2011).",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-05",
+      "q": "Which young hero did Clint bless to keep using the Hawkeye codename?",
+      "options": ["Cassie Lang", "Kamala Khan", "America Chavez", "Kate Bishop"],
+      "answer": 3,
+      "why": "Clint gave Kate Bishop his blessing to keep the Hawkeye name.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-06",
+      "q": "Clint married fellow hero Bobbi Morse. What is her codename?",
+      "options": ["Songbird", "Black Canary", "Mockingbird", "Spider-Woman"],
+      "answer": 2,
+      "why": "Bobbi Morse, Mockingbird, became Clint's wife.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-07",
+      "q": "What was the name of Clint's brother, who ran away with him?",
+      "options": ["Buck Chisholm", "Barney Barton", "Jacques Duquesne", "Carl Barton"],
+      "answer": 1,
+      "why": "Barney was killed fighting Egghead's allies, and later revealed to have been an FBI agent.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-08",
+      "q": "In Avengers #63 (1969), Clint took on a new identity after his bow broke. Which?",
+      "options": ["Goliath", "Ant-Man", "Yellowjacket", "Giant-Man"],
+      "answer": 0,
+      "why": "In Avengers #63 (1969), he became Goliath after his bow broke.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-09",
+      "q": "Which alias did Clint adopt in New Avengers #27 (April 2007)?",
+      "options": ["Vigilante", "Nighthawk", "Swordsman", "Ronin"],
+      "answer": 3,
+      "why": "He used the Ronin alias starting New Avengers #27 (April 2007).",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    },
+    {
+      "id": "hawkeye-10",
+      "q": "Which writer-artist team launched volume 4 of Hawkeye in August 2012?",
+      "options": [
+        "Brian Michael Bendis and Alex Maleev",
+        "Jeff Lemire and Ramon Perez",
+        "Matt Fraction and David Aja",
+        "Kelly Thompson and Leonardo Romero"
+      ],
+      "answer": 2,
+      "why": "Matt Fraction and David Aja launched Hawkeye volume 4 in August 2012.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Hawkeye_(Clint_Barton)"
+    }
+  ]
+}

@@ -1,0 +1,126 @@
+{
+  "character": "zatanna",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "zatanna-01",
+      "q": "How does Zatanna cast most of her spells?",
+      "options": [
+        "By drawing runes in the air",
+        "By singing in Latin",
+        "By burning herbs",
+        "By speaking words backwards"
+      ],
+      "answer": 3,
+      "why": "Her main method is logomancy: speaking the desired words backwards.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-02",
+      "q": "Which actress played Zatanna in the live-action series Smallville?",
+      "options": ["Allison Mack", "Kristin Kreuk", "Serinda Swan", "Erica Durance"],
+      "answer": 2,
+      "why": "Serinda Swan played her in the final three seasons.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-03",
+      "q": "Besides being a hero, what is Zatanna's profession?",
+      "options": [
+        "Circus acrobat",
+        "Stage magician and escape artist",
+        "Concert pianist and orchestra conductor",
+        "Private detective"
+      ],
+      "answer": 1,
+      "why": "She is an international stage magician and escape artist.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-04",
+      "q": "Which creative pair created Zatanna?",
+      "options": [
+        "Gardner Fox and Murphy Anderson",
+        "Gardner Fox and Gil Kane",
+        "Bill Finger and Sheldon Moldoff",
+        "John Broome and Carmine Infantino"
+      ],
+      "answer": 0,
+      "why": "Gardner Fox and Murphy Anderson created her.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-05",
+      "q": "In which Silver Age hero's comic did Zatanna first appear?",
+      "options": ["The Flash", "Green Lantern", "The Atom", "Hawkman"],
+      "answer": 3,
+      "why": "She debuted in Hawkman #4, dated November 1964.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-06",
+      "q": "Which hero was Zatanna's childhood friend, trained by her father in escapology?",
+      "options": ["Dick Grayson", "Oliver Queen", "Bruce Wayne", "Barry Allen"],
+      "answer": 2,
+      "why": "Detective Comics #833 (2007) established the friendship.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-07",
+      "q": "Which magic-themed team did Zatanna join in the New 52 relaunch?",
+      "options": [
+        "Birds of Prey",
+        "Justice League Dark",
+        "Teen Titans",
+        "Suicide Squad Task Force"
+      ],
+      "answer": 1,
+      "why": "She joined Justice League Dark in the 2011 series.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-08",
+      "q": "What is the name of Zatanna's mother?",
+      "options": ["Sindella", "Hippolyta", "Alura", "Arella"],
+      "answer": 0,
+      "why": "Zatanna's mother Sindella appears only in flashbacks.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-09",
+      "q": "Who wrote Zatanna's 2010-2011 ongoing series?",
+      "options": ["Grant Morrison", "Geoff Johns", "Gail Simone", "Paul Dini"],
+      "answer": 3,
+      "why": "Paul Dini wrote the series that ran from July 2010 to issue 16.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    },
+    {
+      "id": "zatanna-10",
+      "q": "Which hero co-stars with a young Zatanna in the 2014 graphic novel Bloodspell?",
+      "options": ["Wonder Girl", "Batgirl", "Black Canary", "Supergirl"],
+      "answer": 2,
+      "why": "Bloodspell depicts a teenage Black Canary meeting Zatanna.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Zatanna"
+    }
+  ]
+}

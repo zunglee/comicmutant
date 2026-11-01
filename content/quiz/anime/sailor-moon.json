@@ -1,0 +1,113 @@
+{
+  "character": "sailor-moon",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "sailor-moon-01",
+      "q": "What is Sailor Moon's civilian name in the original Japanese?",
+      "options": ["Rei Hino", "Ami Mizuno", "Usagi Tsukino", "Minako Aino"],
+      "answer": 2,
+      "why": "Usagi Tsukino becomes Sailor Moon; the DiC dub calls her Serena.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-02",
+      "q": "Which talking animal mentors Sailor Moon?",
+      "options": ["Artemis, a white rabbit", "Luna, a black cat", "Pluto, a dog", "Phobos, a crow"],
+      "answer": 1,
+      "why": "Luna is a talking black cat with a crescent moon mark.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-03",
+      "q": "What is Tuxedo Mask's civilian name?",
+      "options": ["Motoki Furuhata", "Kunzite", "Mamoru Chiba", "Seiya Kou"],
+      "answer": 2,
+      "why": "Tuxedo Mask is Mamoru Chiba, Prince Endymion's reincarnation.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-04",
+      "q": "What is the name of Sailor Moon's future daughter, nicknamed Small Lady?",
+      "options": ["Michiru Kaioh", "Hotaru Tomoe", "Setsuna Meioh", "Chibiusa"],
+      "answer": 3,
+      "why": "Chibiusa is her daughter, Small Lady.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-05",
+      "q": "Which transformation phrase does Sailor Moon use in the Japanese original?",
+      "options": [
+        "Moon Crystal Power, Make Up!",
+        "Moon Prism Power, Make Up!",
+        "Moon Eternal Power, Make Up!",
+        "Moon Prism Magic, Transform!"
+      ],
+      "answer": 1,
+      "why": "The phrase is Moon Prism Power, Make Up!",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)",
+      "giveawayOk": true
+    },
+    {
+      "id": "sailor-moon-06",
+      "q": "Which magazine first serialized Sailor Moon in December 1991?",
+      "options": ["Ribon", "Margaret", "Hana to Yume", "Nakayoshi"],
+      "answer": 3,
+      "why": "Takeuchi's manga began in Kodansha's Nakayoshi.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-07",
+      "q": "Who voices Sailor Moon in the Japanese anime?",
+      "options": ["Mamiko Noto", "Megumi Hayashibara", "Kotono Mitsuishi", "Rica Matsumoto"],
+      "answer": 2,
+      "why": "Kotono Mitsuishi voices Usagi.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-08",
+      "q": "Which Sailor Guardian starred in the one-shot that preceded Sailor Moon?",
+      "options": ["Sailor Mercury", "Sailor Venus", "Sailor Mars", "Sailor Jupiter"],
+      "answer": 1,
+      "why": "Codename: Sailor V, a 1991 one-shot starring Sailor Venus, preceded the series.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon",
+      "giveawayOk": true
+    },
+    {
+      "id": "sailor-moon-09",
+      "q": "In which century does Neo-Queen Serenity, Sailor Moon's future self, rule?",
+      "options": ["40th", "20th", "30th", "25th"],
+      "answer": 2,
+      "why": "Her future self reigns in the 30th century.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon_(character)"
+    },
+    {
+      "id": "sailor-moon-10",
+      "q": "How many episodes did the original 1990s Sailor Moon anime have?",
+      "options": ["150", "100", "200", "202"],
+      "answer": 2,
+      "why": "The Toei series ran 200 episodes from 1992 to 1997.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Sailor_Moon"
+    }
+  ]
+}

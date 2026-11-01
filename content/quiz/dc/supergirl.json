@@ -1,0 +1,116 @@
+{
+  "character": "supergirl",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "supergirl-01",
+      "q": "How is Kara related to Superman in the comics?",
+      "options": [
+        "She is his sister",
+        "She is his cousin",
+        "She is his daughter",
+        "She is his aunt"
+      ],
+      "answer": 1,
+      "why": "Kara is Superman's cousin, the daughter of Zor-El and Alura.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-02",
+      "q": "Which actress starred in the TV series Supergirl that premiered in 2015?",
+      "options": ["Melissa Benoist", "Helen Slater", "Sasha Calle", "Milly Alcock"],
+      "answer": 0,
+      "why": "Melissa Benoist played Kara Danvers in the series.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-03",
+      "q": "Who played Supergirl in the 1984 Supergirl film?",
+      "options": ["Melissa Benoist", "Sasha Calle", "Milly Alcock", "Helen Slater"],
+      "answer": 3,
+      "why": "Helen Slater starred in the film, the first live-action Supergirl.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-04",
+      "q": "What was the name of the domed settlement that drifted through space after Krypton exploded, where Kara grew up?",
+      "options": ["Kandor", "Kryptonopolis", "Argo City", "Metropolis"],
+      "answer": 2,
+      "why": "Argo City drifted through space under a dome after Krypton exploded, until Kara was sent to Earth.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-05",
+      "q": "What are the names of Kara's parents?",
+      "options": ["Jor-El and Lara", "Zor-El and Alura", "Kal-El and Lois", "Zod and Ursa"],
+      "answer": 1,
+      "why": "Her parents are Zor-El and Alura.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-06",
+      "q": "In which year did Kara first appear in Action Comics #252?",
+      "options": ["1959", "1961", "1962", "1964"],
+      "answer": 0,
+      "why": "Action Comics #252 is dated May 1959.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-07",
+      "q": "On which network did the TV series Supergirl premiere before moving to The CW?",
+      "options": ["NBC", "ABC", "Fox", "CBS"],
+      "answer": 3,
+      "why": "The show launched on CBS in October 2015, then moved to The CW in 2016.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-08",
+      "q": "Which two creators introduced Kara to comics?",
+      "options": [
+        "Jerry Siegel and Joe Shuster",
+        "Gardner Fox and Murphy Anderson",
+        "Otto Binder and Al Plastino",
+        "Jim Shooter and Curt Swan"
+      ],
+      "answer": 2,
+      "why": "Otto Binder and Al Plastino created her.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-09",
+      "q": "Which actress played Kara in the 2023 film The Flash?",
+      "options": ["Milly Alcock", "Sasha Calle", "Melissa Benoist", "Helen Slater"],
+      "answer": 1,
+      "why": "Sasha Calle played the character in the 2023 film.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    },
+    {
+      "id": "supergirl-10",
+      "q": "Which writer's 1996 Supergirl series merged the Matrix with a human named Linda Danvers?",
+      "options": ["Peter David", "Geoff Johns", "Jeph Loeb", "Mark Waid"],
+      "answer": 0,
+      "why": "Peter David and Gary Frank created the Linda Danvers version.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Supergirl"
+    }
+  ]
+}

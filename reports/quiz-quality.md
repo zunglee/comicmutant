@@ -1,0 +1,27 @@
+# Fact Frenzy — quality gate (Batman run quiz-v2)
+
+Fresh Opus critic each round, 7 areas, the target is every area ≥ 8. Fixes go to the owning worker. Design
+rulings are in reports/quiz-design.md; worker scoring is in reports/batman-ledger.md.
+
+| Round | Facts | Q quality | Game feel | UX/a11y | Integrity | Boards | Mod | Notes |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 7 | 6 | 7 | 7 | 5 | 7 | 7 | 42/45 facts right (93%). Daily scoutable from a 2nd browser; hold rule dodged at 1.6 s median; facts farmable; numeric answers never at the extremes (0/79 years); ~35 give-aways; phone reveal covered by the SFX burst. → rulings Q10–Q15 |
+| 2 | 8 | 7 | 7 | 7 | 4 | 7 | 8 | 41/42 facts (97.6%). New holes from round-1 fixes: practice dailies run beside the unfinished ranked one (perfect rank 1); guest elimination via right/wrong; yesterday's archive overlaps today ~12% of days; bot at floor+0.15 s never held → 80 facts in 4 min. Phone reveal still covered by the pinned Next bar; long tasks 120 ms at 4× CPU. → rulings Q16–Q18 |
+| 3 | 8 | 8 | 7 | 7 | 5 | 8 | 7 | 43/45 sourced (95.6%), no strategy beats ~32%. Untrusted names never leaked, but trust never expires: a trusted fan scouted the daily by signing out (no guest cookie on signed-in starts) and took a named #2. Parallel starts slip past Q16a; blind score leaks right answers; open daily playable after midnight; 13 parallel games hit the facts cap in 41 s; alternating-jitter bot dodges the tight band. → rulings Q19–Q21 |
+| 4 | 9 | 8 | 8 | 6 | 6 | 8 | 7 | 45/45 facts. Gated places hold (5 untrusted perfect bots all withheld; 0 daily ids in 592 other-mode serves; blind leaks nothing; 3 fans behind one IP all ranked). Now fairness: reload/Quit loses the ranked daily (error loop); guest→join or shared laptop can't rank; tight band flags ~28% of fans (simulated) while jitter bots pass. Mod page needs paging + held floors/signals. → ruling Q23 |
+| 5 | 9 | 8 | 8 | 7 | 7 | 8 | 7 | 45/45 facts. Round-4 fairness holds (resume, NAT, shared laptop, guest→join). Bugs: approving a facts item approves the whole game → names the fan on today's daily podium unseen; no "resume" prompt after reload while the clock runs; first start per browser still IP-limited 30/min; resume-into-finished returns an error; mod page edge cases. → fix round 5 (no new rulings) |
+| 6 | 8 | 8 | 8 | 7 | 8 | 8 | 7 | Integrity reaches 8: per-board approvals hold, 40 fresh clients on one IP → no rate errors, resume solid. Gaps: approving a *held* game silently sets an every-score cap and credits facts while saying "other boards unchanged"; scouting signals fire on nearly every honest fan; spawn-05 why false; "clock running (0s left)"; held game shows a personal best. → fix round 6 |
+| 7 | 9 | 8 | 8 | 7 | 8 | 8 | 8 | Six areas ≥ 8. All round-6 fixes hold; /quiz/me matched a hand tally exactly; jitter bot reaches #1 but stays withheld. New: 96 sibling-question answer leaks (25 actionable in character mode). UX 7: 5 dead tab stops on the hub, untrue held copy, Esc doesn't cancel quit, blind daily says "locked" three times, clipped blind share card. → fix round 7 |
+| 8 | 9 | 7 | 8 | 7 | 8 | 8 | 7 | Gated names held for all 6 untrusted fans. Q quality dropped: round-7 rewrites left half-name leaks (validator matched full answers only), 142 why-leaks, 155 overlaps with the character-page mini-quiz (22 near-copies). UX: tab bar hidden by Batman's own dock rule (fixed by Batman), blind-daily copy untrue for guests. Mod: no own-history signal, totals vs mode sums disagree. → ruling Q25 (leak-graph ordering), stronger shared matcher, cap extended to 10 |
+| 9 | 8 | 7 | 8 | 8 | 8 | 7 | 8 | UX reaches 8 (tab bar back, axe clean). Gated names held in every case. Batman's matcher misses numeric years and lowercase answer words → ~20 characters still leak (7 in visible question text); parmanu-03 source wrong; 2 near-copied whys; held-only fan told "No games yet"; held-queue flood still reveals answers. → matcher fix, ruling Q26 |
+| 10 | 9 | 8 | 8 | 8 | 7 | 8 | 8 | 399 games served with no matcher-visible leak; 40/40 facts. One bug: blind (flood) games leak their results on /quiz/me (bot can read right/wrong per topic) → integrity 7. Matcher misses singular/plural ("Avenger"/"The Avengers"); intro can still cover a game reached by client navigation during it. Cap reached → targeted fix + scoped verification round (ledger) |
+| 10b (scoped) | 9 | 8 | 8 | 8 | 8 | 8 | 8 | ✅ **Gate passed: every area ≥ 8.** Blind flood games show no result on any surface; 932 live games (all 108 characters ×4, 5 universes ×100): 0 matcher-visible leaks; intro never over a game; axe 0 serious on every quiz page at 375. |
+
+**Known follow-ups (minor, not gating):** Q27 matches only exact answers. Strip articles and plurals in
+`normAnswer` (`app/.server/quizbank.ts:46`), and also exclude daily questions whose answer appears in
+the character's mini-quiz question or `why` (about 76; low impact, since the character page prints these
+facts anyway). The dock is hidden client-side only (set `data-no-dock` server-side). Resuming a timed-out
+flood-blind daily shows the guest explanation instead of the flood one (`quiz.ts:617-619`).
+grigori-rasputin-06 "that 1994 miniseries" can be served first. The invincible-03 `why` wording. The leak
+ordering makes the openings of Wasp and Rasputin games repetitive. The e2e spec doesn't cover /quiz/me or
+the held-flood path.

@@ -1,0 +1,112 @@
+{
+  "character": "batman",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "batman-01",
+      "q": "Which actor played Bruce Wayne in Tim Burton's first Batman film?",
+      "options": ["Val Kilmer", "Michael Keaton", "George Clooney", "Christian Bale"],
+      "answer": 1,
+      "why": "Michael Keaton starred as the Caped Crusader opposite Jack Nicholson's Joker in Burton's 1989 blockbuster.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Batman_(1989_film)"
+    },
+    {
+      "id": "batman-02",
+      "q": "What are the first names of the parents Bruce Wayne watched being murdered?",
+      "options": [
+        "Jonathan and Martha",
+        "Thomas and Catherine",
+        "William and Martha",
+        "Thomas and Martha"
+      ],
+      "answer": 3,
+      "why": "Dr. Thomas Wayne and his wife Martha were killed in front of young Bruce, which drove him to become a vigilante.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-03",
+      "q": "In which year did Batman debut in Detective Comics #27?",
+      "options": ["1936", "1937", "1932", "1939"],
+      "answer": 3,
+      "why": "Batman first appeared in Detective Comics #27, with the cover date of 1939, created by Bill Finger and Bob Kane.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-04",
+      "q": "Who suggested the cowl, cape and gloves that darkened Bob Kane's first red-tights sketch of Batman?",
+      "options": ["Jerry Robinson", "Dick Sprang", "Julius Schwartz", "Bill Finger"],
+      "answer": 3,
+      "why": "Collaborator Bill Finger reworked Kane's draft with a cowl, cape, gloves and darker colours, and made the hero a detective.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-05",
+      "q": "In which year did Robin make his first appearance, in Detective Comics #38?",
+      "options": ["1942", "1940", "1944", "1939"],
+      "answer": 1,
+      "why": "Robin was introduced in Detective Comics #38 (April 1940) to lighten the tone, and sales nearly doubled.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-06",
+      "q": "In which year did Alfred Pennyworth first appear in the comics, in issue 16 of his own title?",
+      "options": ["1945", "1934", "1943", "1941"],
+      "answer": 2,
+      "why": "Bruce's loyal butler Alfred debuted in Batman #16 in 1943, a few years after Batman and Robin were established.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-07",
+      "q": "The Joker and Catwoman (then called 'The Cat') both debuted in which comic?",
+      "options": ["Detective Comics #27", "Detective Comics #38", "Batman #2", "Batman #1"],
+      "answer": 3,
+      "why": "Batman's first solo title, Batman #1 from 1940, introduced both the Joker and Selina Kyle's early Catwoman.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Batman",
+      "giveawayOk": true
+    },
+    {
+      "id": "batman-08",
+      "q": "Which Batman villain first appeared in Detective Comics #58 in December 1941?",
+      "options": ["Two-Face", "The Penguin", "The Riddler", "Scarecrow"],
+      "answer": 1,
+      "why": "The Penguin debuted in Detective Comics #58 (December 1941); the Riddler and Two-Face arrived in later issues.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-09",
+      "q": "In what year did Tim Drake, the third Robin in the main comics, first appear?",
+      "options": ["1989", "1983", "1992", "1994"],
+      "answer": 0,
+      "why": "Tim Drake first appeared in 1989, later starring in his own series and taking the Red Robin name.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Batman"
+    },
+    {
+      "id": "batman-10",
+      "q": "Who starred as Batman in the camp 1966 ABC television series?",
+      "options": ["Burt Ward", "Kevin Conroy", "Adam West", "Lewis Wilson"],
+      "answer": 2,
+      "why": "Adam West played Bruce Wayne and Batman, with Burt Ward as Robin, across three seasons and 120 episodes.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Batman_(TV_series)"
+    }
+  ]
+}

@@ -1,0 +1,118 @@
+{
+  "character": "vision",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "vision-01",
+      "q": "In which year did Vision debut in The Avengers #57?",
+      "options": ["1960", "1970", "1964", "1968"],
+      "answer": 3,
+      "why": "Vision's 1968 debut came in The Avengers issue 57, by Roy Thomas and John Buscema.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-02",
+      "q": "Vision is sometimes classified as what kind of artificial being?",
+      "options": ["A symbiote", "A cyborg", "An Inhuman", "A synthezoid"],
+      "answer": 3,
+      "why": "Vision is an android; the comics also label that kind of being a synthezoid.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-03",
+      "q": "Vision's forehead gem absorbs and projects which kind of energy?",
+      "options": ["Solar energy", "Cosmic energy", "Gamma energy", "Psionic energy"],
+      "answer": 0,
+      "why": "The forehead gem absorbs and projects solar energy.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
+      "giveawayOk": true
+    },
+    {
+      "id": "vision-04",
+      "q": "Whose brain patterns shaped Vision's personality in the comics?",
+      "options": [
+        "Hank Pym (Ant-Man)",
+        "Wonder Man (Simon Williams)",
+        "Tony Stark (Iron Man)",
+        "Hawkeye (Clint Barton)"
+      ],
+      "answer": 1,
+      "why": "Vision's personality is based on Wonder Man's brain patterns.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-05",
+      "q": "Which Avenger did Vision marry?",
+      "options": ["Wasp", "Black Widow", "Scarlet Witch", "Jocasta"],
+      "answer": 2,
+      "why": "Vision married Wanda Maximoff, the Scarlet Witch.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-06",
+      "q": "Which actor plays Vision in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Anthony Mackie", "Don Cheadle", "Paul Bettany"],
+      "answer": 3,
+      "why": "Paul Bettany plays Vision.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-07",
+      "q": "Which Infinity Stone powers Vision in the MCU?",
+      "options": ["The Mind Stone", "The Soul Stone", "The Reality Stone", "The Time Stone"],
+      "answer": 0,
+      "why": "In the MCU the Mind Stone powers Vision.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)",
+      "giveawayOk": true
+    },
+    {
+      "id": "vision-08",
+      "q": "Who built Vision as a weapon against the Avengers?",
+      "options": ["Hank Pym", "Ultron", "Doctor Doom", "Kang"],
+      "answer": 1,
+      "why": "Ultron built Vision, but he turned against his creator and joined the Avengers.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-09",
+      "q": "Who wrote the acclaimed 2015 Vision series about a suburban android family?",
+      "options": ["Brian Michael Bendis", "G. Willow Wilson", "Tom King", "Jonathan Hickman"],
+      "answer": 2,
+      "why": "Tom King wrote Vision (2015 to 2016), where Vision tries to live a suburban life.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    },
+    {
+      "id": "vision-10",
+      "q": "Vision's body was built from a copy of which hero's android body?",
+      "options": [
+        "Machine Man",
+        "Namor the Sub-Mariner",
+        "Captain America",
+        "The original Human Torch"
+      ],
+      "answer": 3,
+      "why": "Ultron rebuilt the Golden Age android Human Torch into Vision, using a duplicate of that body.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Vision_(Marvel_Comics)"
+    }
+  ]
+}

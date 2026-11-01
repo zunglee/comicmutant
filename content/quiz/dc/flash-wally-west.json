@@ -1,0 +1,117 @@
+{
+  "character": "flash-wally-west",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "flash-wally-west-01",
+      "q": "In which year did Wally West first appear as Kid Flash, in The Flash #110?",
+      "options": ["1956", "1955", "1961", "1959"],
+      "answer": 3,
+      "why": "Wally West debuted in The Flash #110 in 1959, as the teenage nephew of Iris West who gains the Flash's powers.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-02",
+      "q": "Which writer created Wally West with artist Carmine Infantino?",
+      "options": ["Robert Kanigher", "Mark Waid", "John Broome", "Geoff Johns"],
+      "answer": 2,
+      "why": "John Broome wrote the debut, with Carmine Infantino on art; Kanigher had worked with Infantino on Barry Allen.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-03",
+      "q": "How did Wally West get his powers in the original comics?",
+      "options": [
+        "He was bitten by a radioactive speedster in a Central City lab",
+        "A repeat of Barry's lightning-and-chemicals accident",
+        "He found a speed ring left in the future",
+        "He was caught in a Speed Force storm in space"
+      ],
+      "answer": 1,
+      "why": "While visiting Barry Allen's police lab, a repeat of the lightning and chemical accident soaked Wally and gave him the same speed.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-04",
+      "q": "As Kid Flash, Wally was a founding member of which team?",
+      "options": ["Justice League", "Outsiders", "Justice Society", "Teen Titans"],
+      "answer": 3,
+      "why": "Wally was a founding member of the Teen Titans, where he became friends with Robin, Dick Grayson.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-05",
+      "q": "After which 1985 event in the comics did Wally take over as the Flash?",
+      "options": [
+        "Zero Hour",
+        "Final Crisis: Legion of 3 Worlds",
+        "Crisis on Infinite Earths",
+        "Identity Crisis"
+      ],
+      "answer": 2,
+      "why": "Barry Allen sacrificed himself during Crisis on Infinite Earths, and Wally became the new Flash in 1986.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-06",
+      "q": "Which writer introduced the Speed Force as the source of the Flashes' powers?",
+      "options": ["Geoff Johns", "Mark Waid", "Mike Baron", "John Broome"],
+      "answer": 1,
+      "why": "Mark Waid expanded Wally's abilities by creating the Speed Force, an energy source behind speedsters' powers.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-07",
+      "q": "After the original Wally returned in DC Rebirth, what name was given to the biracial New 52 version of Wally?",
+      "options": ["Jai West", "Max West", "Ace West", "Jesse West"],
+      "answer": 2,
+      "why": "The 2011 reinterpreted Wally was renamed Ace West to avoid confusion once the classic Wally came back.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Wally_West",
+      "giveawayOk": true
+    },
+    {
+      "id": "flash-wally-west-08",
+      "q": "Who voices Wally West as the Flash in the Cartoon Network series Justice League?",
+      "options": ["Josh Keaton", "Jason Spisak", "Keiynan Lonsdale", "Michael Rosenbaum"],
+      "answer": 3,
+      "why": "Michael Rosenbaum voiced the Flash in Justice League, and Kid Flash in Teen Titans.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-09",
+      "q": "Who plays Wally West in the live-action Arrowverse shows such as The Flash?",
+      "options": ["Grant Gustin", "Ezra Miller", "Keiynan Lonsdale", "Brandon Routh"],
+      "answer": 2,
+      "why": "Keiynan Lonsdale portrayed Wally in the Arrowverse, on The Flash and in Legends of Tomorrow.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    },
+    {
+      "id": "flash-wally-west-10",
+      "q": "In The Flash #135 (1963), Kid Flash's costume was revamped to be mostly which color?",
+      "options": ["Yellow", "Green", "White", "Blue"],
+      "answer": 0,
+      "why": "Kid Flash went from a red suit to a mostly yellow one with red gloves, leggings and lightning emblem, to stand out more.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Wally_West"
+    }
+  ]
+}

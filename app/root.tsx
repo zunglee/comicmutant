@@ -43,9 +43,13 @@ export async function loader({ request }: Route.LoaderArgs) {
   const user = await currentUser(sql, request);
   const { current, top5 } = readThemeState(request);
   const fx: Fx = readCookie(request, FX_COOKIE) === 'lite' ? 'lite' : 'rich';
-  // First page of a session plays the intro (never for bots or Lite FX).
+  // First page of a session plays the intro (never for bots or Lite FX, and never over a timed game
+  // screen, where it would cover the first question while its clock runs).
+  const path = new URL(request.url).pathname;
+  const gameScreen = path === '/quiz/play' || path === '/freefall' || path.startsWith('/arena/');
   const playIntro =
     fx === 'rich' &&
+    !gameScreen &&
     !readCookie(request, 'cm_seen') &&
     !isbot(request.headers.get('user-agent') ?? '');
   return {

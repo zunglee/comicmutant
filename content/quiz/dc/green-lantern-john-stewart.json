@@ -1,0 +1,122 @@
+{
+  "character": "green-lantern-john-stewart",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "green-lantern-john-stewart-01",
+      "q": "Which writer-and-artist pair introduced John Stewart in the early 1970s?",
+      "options": [
+        "Gardner Fox and Gil Kane",
+        "Julius Schwartz and Gil Kane",
+        "Dennis O'Neil and Neal Adams",
+        "Len Wein and Dave Gibbons"
+      ],
+      "answer": 2,
+      "why": "Writer Dennis O'Neil and artist Neal Adams brought him in as a stand-in Green Lantern in Green Lantern vol. 2 #87.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-02",
+      "q": "Which cartoon gave John Stewart the U.S. Marine background that Geoff Johns later adopted into the comics in 2007?",
+      "options": [
+        "Batman: The Animated Series",
+        "Justice League",
+        "Superman: The Animated Series",
+        "Young Justice"
+      ],
+      "answer": 1,
+      "why": "Bruce Timm made John an ex-Marine for the Justice League cartoon, and Geoff Johns folded that history into the comics around 2007.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-03",
+      "q": "In the comics' Cosmic Odyssey story, which world is destroyed on John Stewart's watch, a failure that haunts him?",
+      "options": ["Xanshi", "Thanagar", "Daxam", "Rann"],
+      "answer": 0,
+      "why": "An avatar of the Anti-Life Equation wiped out Xanshi while John was present and unable to stop it.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-04",
+      "q": "Who voices John Stewart in the 2001-2006 team-up cartoon series?",
+      "options": ["Carl Lumbly", "Kevin Michael Richardson", "Khary Payton", "Phil LaMarr"],
+      "answer": 3,
+      "why": "Phil LaMarr provided John's voice across both Justice League animated series.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-05",
+      "q": "Which teammate does John become romantically involved with in the original animated team series?",
+      "options": ["Vixen", "Black Canary", "Hawkgirl", "Wonder Woman"],
+      "answer": 2,
+      "why": "The cartoon pairs John with Shayera Hol, though things sour after the finale 'Starcrossed'; he later dates Vixen in Unlimited.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-06",
+      "q": "What was John Stewart's civilian profession when he debuted in the comics?",
+      "options": ["Test pilot", "Architect", "Police officer", "Schoolteacher"],
+      "answer": 1,
+      "why": "He was introduced as an architect, which is why his ring constructs are often solid, carefully engineered structures.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-07",
+      "q": "In the comics, which Green Lantern of Korugar trained John with his ring and later married him?",
+      "options": ["Katma Tui", "Soranik Natu", "Arisia Rrab", "Laira"],
+      "answer": 0,
+      "why": "Katma Tui taught John to use the ring; they fell in love and married, but she was later killed by Star Sapphire.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-08",
+      "q": "In the early-1990s Mosaic story, John becomes the first mortal to join which group, taking the title Master Builder?",
+      "options": [
+        "The Controllers",
+        "The Zamarons, the Star Sapphires",
+        "The Darkstars",
+        "Guardians of the Universe"
+      ],
+      "answer": 3,
+      "why": "Left in charge of the Mosaic World on Oa, John was made the first mortal Guardian of the Universe.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    },
+    {
+      "id": "green-lantern-john-stewart-09",
+      "q": "Earth falls inside which numbered space sector that John Stewart patrols with Hal Jordan?",
+      "options": ["Sector 1417", "Sector 2813", "Sector 2814", "Sector 3600"],
+      "answer": 2,
+      "why": "Earth's Green Lantern sector is 2814, shared by John and Hal after the Corps reorganised.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)",
+      "giveawayOk": true
+    },
+    {
+      "id": "green-lantern-john-stewart-10",
+      "q": "How many issues did DC publish of the ongoing Green Lantern: Mosaic series, which ran June 1992 to November 1993?",
+      "options": ["14", "18", "12", "13"],
+      "answer": 1,
+      "why": "The Mosaic spin-off from Green Lantern vol. 3 ran for 18 issues before ending in late 1993.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/John_Stewart_(character)"
+    }
+  ]
+}

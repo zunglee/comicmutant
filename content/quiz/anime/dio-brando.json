@@ -1,0 +1,111 @@
+{
+  "character": "dio-brando",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "dio-brando-01",
+      "q": "What ancient Aztec artifact turns Dio into a vampire?",
+      "options": [
+        "The Saint's Corpse",
+        "The Stand Arrow",
+        "The Red Stone of Aja",
+        "The Stone Mask"
+      ],
+      "answer": 3,
+      "why": "Dio puts on the Stone Mask after killing George Joestar and drinking his blood, and it makes him a vampire.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-02",
+      "q": "In Part 3, Dio's head is attached to the body of which of his old enemies?",
+      "options": ["Joseph Joestar", "Jonathan Joestar", "George Joestar", "Jotaro Kujo"],
+      "answer": 1,
+      "why": "Dio joins his head to the body of his old rival, which is why Stand powers awaken across that rival's whole bloodline.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-03",
+      "q": "Dio is taken in as a foster son by which wealthy family?",
+      "options": ["Zeppeli", "Joestar", "Kujo", "Higashikata"],
+      "answer": 1,
+      "why": "George Joestar adopts Dio, who then schemes against his new brother Jonathan.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-04",
+      "q": "In what year did Dio first appear in the JoJo manga?",
+      "options": ["1992", "1989", "1994", "1987"],
+      "answer": 3,
+      "why": "Chapter 1 of Phantom Blood, dated January 1, 1987, introduced him.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-05",
+      "q": "The name Dio comes from the Italian word for which concept?",
+      "options": ["Night", "Devil", "King", "God"],
+      "answer": 3,
+      "why": "Araki chose a name that reads as the Italian word for God, fitting a villain with grand ambitions.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-06",
+      "q": "Which studio made the 2012 JoJo's Bizarre Adventure TV anime?",
+      "options": ["A-1 Pictures", "David Production", "Pierrot", "Bones"],
+      "answer": 1,
+      "why": "David Production adapted the series starting in 2012, after the 2007 Phantom Blood film by A.P.P.P.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Phantom_Blood"
+    },
+    {
+      "id": "dio-brando-07",
+      "q": "In Part 3, which hero destroys Dio's Stand and splits Dio's head in two?",
+      "options": ["Joseph Joestar", "Noriaki Kakyoin", "Jotaro Kujo", "Jean Pierre Polnareff"],
+      "answer": 2,
+      "why": "Jotaro defeats Dio, and sunlight later turns the body to ash.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-08",
+      "q": "Which sci-fi film antagonist is said to have influenced Araki's look for Dio?",
+      "options": ["Roy Batty", "T-800", "Darth Vader", "Khan Noonien Singh"],
+      "answer": 0,
+      "why": "Araki's look for Dio is said to borrow from Rutger Hauer's replicant Roy Batty.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-09",
+      "q": "Who voices Dio in the 2012 TV anime, in Japanese?",
+      "options": ["Norio Wakamoto", "Nobuo Tanaka", "Takehito Koyasu", "Hikaru Midorikawa"],
+      "answer": 2,
+      "why": "Koyasu has played Dio since the 2012 TV anime, after others voiced him in older OVAs and games.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    },
+    {
+      "id": "dio-brando-10",
+      "q": "What was the first name of Dio's abusive, alcoholic father?",
+      "options": ["Will", "Dario", "George", "Robert"],
+      "answer": 1,
+      "why": "Dario Brando mistreated Dio, shaping the boy's bitterness before the Joestar adoption.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Dio_Brando"
+    }
+  ]
+}

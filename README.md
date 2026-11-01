@@ -43,6 +43,8 @@ Data: `data/comicmutant.db` (SQLite, created on first request; override with `CO
 | `/versus`, `/versus/:id` | two characters, one question, tug-of-war meter, takes per side |
 | `/arena`, `/arena/:game` | Quick play vs CPU first (today's hero-vs-villain pair, one tap per game), then the full picker; fight, badminton, football, quiz duel |
 | `/freefall` | Flagship daily maths dive in a POV shaft: fly through the right answer. Today's ranked dive per class level (shared tower, per-run sums, new at midnight IST), practice, replay-verified boards with mod checks for top names (`app/game/freefall/`, `app/.server/freefall.ts`; design + decisions in `reports/freefall-design.md`, critic rounds in `reports/game-quality.md`) |
+| `/quiz`, `/quiz/play`, `/quiz/leaders`, `/quiz/me` | **Fact Frenzy**: server-scored 4-option facts quiz over all 108 characters (1,080 web-researched questions, own words, a source each). Daily challenge (same 10 for everyone, answers unlock at midnight IST), universe and character quizzes, resume, PNG share card, three boards with names gated by a mod look, personal analytics (`app/.server/quiz.ts`, `app/components/quiz/`, `content/quiz/`; design Q1–Q24 in `reports/quiz-design.md`, critic rounds in `reports/quiz-quality.md`, worker scoring in `reports/batman-ledger.md`) |
+| `/mod/quiz` | Mods: Fact Frenzy trust checks (per game and board, signals, times against reading floors), held games, reported facts (retire / restore), site analytics |
 | `/mod`, `/mod/freefall/:id` | Mods: report queue, Freefall runs to check (reasons, pace, exact replay, approve / reject / reject-all). Create a mod with `MOD_PASSWORD=… pnpm admin:create <nickname>` |
 | `/join`, `/login`, `/mod` | nickname accounts, moderation queue |
 

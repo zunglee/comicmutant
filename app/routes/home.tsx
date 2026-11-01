@@ -150,6 +150,9 @@ export default function Home({ loaderData: d }: Route.ComponentProps) {
             <Link to="/freefall" className="btn btn-c1 text-lg">
               <IconPad /> Play today's Freefall
             </Link>
+            <Link to="/quiz" className="btn btn-c3 text-lg">
+              Fact Frenzy quiz
+            </Link>
             <Link to="/arena" className="btn text-lg">
               Enter the Arena
             </Link>

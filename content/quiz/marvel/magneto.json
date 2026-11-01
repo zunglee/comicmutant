@@ -1,0 +1,121 @@
+{
+  "character": "magneto",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "magneto-01",
+      "q": "In which year was The X-Men #1, Magneto's debut, cover-dated?",
+      "options": ["1973", "1965", "1963", "1961"],
+      "answer": 2,
+      "why": "Magneto appeared in the very first issue of The X-Men, cover-dated September 1963, as the team's first foe.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-02",
+      "q": "Magneto's mutant power is the control of which natural force?",
+      "options": ["Magnetism", "Gravity", "Electricity", "Sound"],
+      "answer": 0,
+      "why": "Magneto can create and manipulate magnetic fields, which also lets him fly and move metal objects.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-03",
+      "q": "What does Magneto's helmet protect him from?",
+      "options": ["Radiation", "Telepathic attacks", "Sonic blasts", "Electrical shocks"],
+      "answer": 1,
+      "why": "The helmet shields his mind from telepaths such as Professor X, which is why he rarely takes it off.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-04",
+      "q": "In the comics, which Nazi concentration camp did young Max survive?",
+      "options": ["Dachau", "Treblinka", "Auschwitz", "Buchenwald"],
+      "answer": 2,
+      "why": "Eisenhardt was imprisoned at Auschwitz as a boy of German Jewish descent, an experience that shapes his mutant-first outlook.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-05",
+      "q": "Which actor played Magneto in the original 2000 X-Men movie?",
+      "options": ["Michael Fassbender", "Patrick Stewart", "Anthony Hopkins", "Ian McKellen"],
+      "answer": 3,
+      "why": "Ian McKellen played the older Magneto in Fox's X-Men films, while Michael Fassbender played the younger version.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-06",
+      "q": "Which team of villains did Magneto found?",
+      "options": [
+        "Brotherhood of Evil Mutants",
+        "The Hellfire Club's Inner Circle",
+        "The Morlocks",
+        "Marauders"
+      ],
+      "answer": 0,
+      "why": "Magneto formed the Brotherhood of Evil Mutants early on, with Quicksilver and Scarlet Witch among its first recruits.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-07",
+      "q": "In the comics, which island nation did Magneto rule for a time?",
+      "options": ["Madripoor", "Genosha", "Latveria", "Wakanda"],
+      "answer": 1,
+      "why": "Magneto governed Genosha, a mutant haven that later suffered a devastating Sentinel attack.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-08",
+      "q": "Which green-haired magnetic mutant is Magneto's daughter?",
+      "options": ["Storm", "Rogue", "Polaris", "Psylocke"],
+      "answer": 2,
+      "why": "Lorna Dane, who fights as Polaris, shares her father's command of magnetism.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-09",
+      "q": "What was the name of Magneto's early orbital hideout, a hollowed-out rock?",
+      "options": ["Muir Island", "The Savage Land", "Utopia", "Asteroid M"],
+      "answer": 3,
+      "why": "Asteroid M was a hollowed-out asteroid that served as Magneto's base in early stories.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-10",
+      "q": "Who wrote the 2008 graphic novel Magneto: Testament, about Magneto's childhood?",
+      "options": ["Greg Pak", "Chris Claremont", "Brian Michael Bendis", "Mark Millar"],
+      "answer": 0,
+      "why": "Greg Pak wrote Testament, a story of the young Max Eisenhardt built from Holocaust survivor accounts.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    },
+    {
+      "id": "magneto-11",
+      "q": "In the comics, what is Magneto's birth name?",
+      "options": ["Erik Lehnsherr", "Max Eisenhardt", "Pietro Maximoff", "Charles Xavier"],
+      "answer": 1,
+      "why": "He was born Max Eisenhardt; Erik Lehnsherr is a name he later adopted, the one the films use.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Magneto_(Marvel_Comics)"
+    }
+  ]
+}

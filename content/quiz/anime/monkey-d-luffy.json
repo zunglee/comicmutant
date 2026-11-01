@@ -1,0 +1,112 @@
+{
+  "character": "monkey-d-luffy",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "monkey-d-luffy-01",
+      "q": "Luffy's rubber body comes from which Devil Fruit, as originally named?",
+      "options": ["Bara Bara no Mi", "Mera Mera no Mi", "Gomu Gomu no Mi", "Hie Hie no Mi"],
+      "answer": 2,
+      "why": "Eating it made him a rubber man, though the fruit's real nature is revealed much later.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-02",
+      "q": "Who gave Luffy his iconic straw hat?",
+      "options": ["Whitebeard", "Buggy", "Red-Haired Shanks", "Dracule Mihawk"],
+      "answer": 2,
+      "why": "Shanks, Luffy's idol and mentor, lent him the hat.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-03",
+      "q": "Which studio produces the One Piece TV anime that premiered in 1999?",
+      "options": ["Pierrot", "Toei Animation", "Madhouse", "Sunrise"],
+      "answer": 1,
+      "why": "Toei Animation's anime began on Fuji Television on October 20, 1999.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/One_Piece"
+    },
+    {
+      "id": "monkey-d-luffy-04",
+      "q": "Luffy's sworn brothers are Sabo and which other?",
+      "options": ["Roronoa Zoro", "Trafalgar Law", "Usopp", "Portgas D. Ace"],
+      "answer": 3,
+      "why": "Ace and Sabo are Luffy's sworn brothers.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-05",
+      "q": "Which Marine vice-admiral is Luffy's grandfather?",
+      "options": ["Kizaru", "Sengoku", "Akainu", "Garp"],
+      "answer": 3,
+      "why": "Garp is Luffy's grandfather, while Dragon, leader of the Revolutionary Army, is his father.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-06",
+      "q": "On what date is Luffy's birthday?",
+      "options": ["April 1", "June 1", "May 5", "August 10"],
+      "answer": 2,
+      "why": "Luffy was born on May 5.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-07",
+      "q": "In what year did One Piece begin in Weekly Shōnen Jump?",
+      "options": ["1997", "1986", "1995", "1996"],
+      "answer": 0,
+      "why": "Chapter 1, Romance Dawn, appeared in Weekly Shōnen Jump in 1997.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/One_Piece"
+    },
+    {
+      "id": "monkey-d-luffy-08",
+      "q": "Luffy's rubber fruit turns out to be which Mythical Zoan?",
+      "options": [
+        "Bird-Bird Fruit, Model: Phoenix",
+        "Human-Human Fruit, Model: Daibutsu",
+        "Human-Human Fruit, Model: Nika",
+        "Fish-Fish Fruit, Model: Seiryu"
+      ],
+      "answer": 2,
+      "why": "It is the Human-Human Fruit, Model: Nika, awakened in Gear 5.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy",
+      "giveawayOk": true
+    },
+    {
+      "id": "monkey-d-luffy-09",
+      "q": "Who is Luffy's Japanese voice actor?",
+      "options": ["Masako Nozawa", "Mayumi Tanaka", "Junko Takeuchi", "Rie Kugimiya"],
+      "answer": 1,
+      "why": "Mayumi Tanaka has voiced Luffy in Japanese from the start.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    },
+    {
+      "id": "monkey-d-luffy-10",
+      "q": "Oda said he first aimed for a kind of manliness similar to which series?",
+      "options": ["Fist of the North Star", "Slam Dunk", "Saint Seiya", "Dragon Ball"],
+      "answer": 3,
+      "why": "Oda initially modeled Luffy's manliness on Akira Toriyama's Dragon Ball.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Monkey_D._Luffy"
+    }
+  ]
+}

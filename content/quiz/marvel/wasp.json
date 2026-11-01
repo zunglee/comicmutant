@@ -1,0 +1,111 @@
+{
+  "character": "wasp",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "wasp-01",
+      "q": "In which comic did the Wasp debut in 1963?",
+      "options": [
+        "Tales to Astonish",
+        "Tales of Suspense",
+        "Strange Tales",
+        "Journey into Mystery"
+      ],
+      "answer": 0,
+      "why": "Tales to Astonish #44, from June 1963, introduced Janet van Dyne.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-02",
+      "q": "What is the original Wasp's real name?",
+      "options": ["Hope van Dyne", "Janet van Dyne", "Jennifer Walters", "Jean Grey"],
+      "answer": 1,
+      "why": "Janet van Dyne is the original Wasp; Hope van Dyne is her daughter in the MCU.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-03",
+      "q": "The Wasp gave which team its name?",
+      "options": ["The Defenders", "The Champions", "The Avengers", "The Invaders"],
+      "answer": 2,
+      "why": "Janet was in at the start in 1963 and supplied the name of the Avengers.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-04",
+      "q": "Besides flying on insect-like wings, what is the Wasp's main power?",
+      "options": ["Turning invisible", "Superhuman strength", "Time travel", "Changing her size"],
+      "answer": 3,
+      "why": "The Wasp can shrink and grow, fly with wings, and fire bio-electric blasts.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-05",
+      "q": "Which actress plays Hope in the MCU Ant-Man films?",
+      "options": ["Evangeline Lilly", "Michelle Pfeiffer", "Elizabeth Olsen", "Hayley Atwell"],
+      "answer": 0,
+      "why": "Evangeline Lilly plays Hope starting in Ant-Man (2015).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-06",
+      "q": "Which actress played the original Wasp in Ant-Man and the Wasp (2018)?",
+      "options": ["Evangeline Lilly", "Michelle Pfeiffer", "Elizabeth Olsen", "Hayley Atwell"],
+      "answer": 1,
+      "why": "Michelle Pfeiffer played Janet in the 2018 film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-07",
+      "q": "The Wasp divorced which fellow founding teammate in the 1980s?",
+      "options": ["Tony Stark", "Thor", "Hank Pym", "Bruce Banner"],
+      "answer": 2,
+      "why": "Janet divorced Hank Pym after he struck her.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-08",
+      "q": "Which 2008 event saw the original Wasp presumed dead?",
+      "options": ["Civil War", "Siege", "World War Hulk", "Secret Invasion"],
+      "answer": 3,
+      "why": "Janet was presumed dead during Secret Invasion in 2008.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-09",
+      "q": "What career did the original Wasp have in addition to being a superhero?",
+      "options": ["Fashion designer", "Architectural engineer", "Journalist", "Surgeon"],
+      "answer": 0,
+      "why": "Janet worked as a professional fashion designer.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    },
+    {
+      "id": "wasp-10",
+      "q": "What was the name of the original Wasp's scientist father, killed by an alien entity?",
+      "options": ["Howard Stark", "Vernon van Dyne", "Henry Pym", "Walter Storm"],
+      "answer": 1,
+      "why": "Vernon van Dyne was killed by an alien, which pushed his daughter to become the Wasp.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Wasp_(character)"
+    }
+  ]
+}

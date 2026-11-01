@@ -1,0 +1,112 @@
+{
+  "character": "vegeta",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "vegeta-01",
+      "q": "What royal title does Vegeta hold?",
+      "options": [
+        "Prince of all Saiyans",
+        "King of all Saiyans",
+        "Emperor of the Universe",
+        "Prince of Planet Namek"
+      ],
+      "answer": 0,
+      "why": "He is the prince of all Saiyans.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-02",
+      "q": "Whom does Vegeta marry?",
+      "options": ["Chi-Chi", "Bulma", "Android 18", "Videl"],
+      "answer": 1,
+      "why": "His wife is Bulma, and their kids are Trunks and Bulla.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-03",
+      "q": "Which energy blast is one of Vegeta's signature attacks?",
+      "options": ["Kamehameha", "Special Beam Cannon", "Galick Gun", "Spirit Bomb"],
+      "answer": 2,
+      "why": "Galick Gun is one of his trademark moves, alongside the Final Flash.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-04",
+      "q": "In Funimation's in-house English dub, who has voiced Vegeta throughout?",
+      "options": ["Christopher Sabat", "Sean Schemmel", "Brian Drummond", "Colleen Clinkenbeard"],
+      "answer": 0,
+      "why": "Sabat has been Vegeta in every Funimation-dubbed Dragon Ball release, games included.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-05",
+      "q": "What triggers a tailed Saiyan's transformation into the Ōzaru?",
+      "options": ["A solar eclipse", "A full moon", "A meteor shower", "A comet"],
+      "answer": 1,
+      "why": "The giant ape form appears under a full moon.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-06",
+      "q": "Who voices Vegeta in Japanese?",
+      "options": ["Ryō Horikawa", "Masako Nozawa", "Ryūsei Nakao", "Toshio Furukawa"],
+      "answer": 0,
+      "why": "Ryō Horikawa is his Japanese voice.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-07",
+      "q": "Which fusion results from Goku and Vegeta wearing Potara earrings?",
+      "options": ["Gogeta", "Gotenks", "Vegito", "Kefla"],
+      "answer": 2,
+      "why": "Potara earrings create Vegito; Gogeta uses the Fusion Dance.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-08",
+      "q": "From whom does Vegeta learn Ultra Ego?",
+      "options": ["Whis", "Beerus", "Champa", "Jiren"],
+      "answer": 1,
+      "why": "Beerus teaches him Ultra Ego in the Granolah arc.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    },
+    {
+      "id": "vegeta-09",
+      "q": "In which Dragon Ball manga chapter does Vegeta debut?",
+      "options": ["Chapter 204", "Chapter 232", "Chapter 247", "Chapter 219"],
+      "answer": 0,
+      "why": "He first appears in chapter 204, Sayonara, Son Goku.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Vegeta",
+      "giveawayOk": true
+    },
+    {
+      "id": "vegeta-10",
+      "q": "What is the name of Vegeta's brother?",
+      "options": ["Raditz", "Turles", "Paragus", "Tarble"],
+      "answer": 3,
+      "why": "Tarble is Vegeta's brother.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Vegeta"
+    }
+  ]
+}

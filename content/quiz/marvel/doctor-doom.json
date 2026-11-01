@@ -1,0 +1,129 @@
+{
+  "character": "doctor-doom",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "doctor-doom-01",
+      "q": "Doom blames which Fantastic Four leader for the scarring of his face?",
+      "options": ["Ben Grimm", "Johnny Storm", "Sue Storm", "Reed Richards"],
+      "answer": 3,
+      "why": "Doom blames Reed Richards for his disfigurement, fueling their rivalry.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-02",
+      "q": "Doom renamed Latveria's capital Hassenstadt to what?",
+      "options": ["Doomburg", "Doomstadt", "Doomgrad", "Castle Sabbat"],
+      "answer": 1,
+      "why": "He renamed the capital Doomstadt and Castle Sabbat became Castle Doom.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-03",
+      "q": "Which actor played Doom in the 2005 film Fantastic Four?",
+      "options": ["Toby Kebbell", "Julian McMahon", "Robert Downey Jr.", "Ioan Gruffudd"],
+      "answer": 1,
+      "why": "Julian McMahon played Doom in 2005 and 2007; Toby Kebbell in 2015.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-04",
+      "q": "In which Fantastic Four issue did Doctor Doom first appear?",
+      "options": [
+        "Fantastic Four #5",
+        "Fantastic Four #9",
+        "Fantastic Four #12",
+        "Fantastic Four #25"
+      ],
+      "answer": 0,
+      "why": "He debuted in Fantastic Four #5, cover-dated July 1962.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom",
+      "giveawayOk": true
+    },
+    {
+      "id": "doctor-doom-05",
+      "q": "At which university did Victor von Doom meet the future Mister Fantastic?",
+      "options": [
+        "Columbia University in New York",
+        "Horizon University",
+        "Culver University",
+        "Empire State University"
+      ],
+      "answer": 3,
+      "why": "Doom earned a scholarship to Empire State University, where he met Reed.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom",
+      "giveawayOk": true
+    },
+    {
+      "id": "doctor-doom-06",
+      "q": "What was Victor attempting when his experiment exploded and scarred his face?",
+      "options": [
+        "Open a portal to the Negative Zone",
+        "Duplicate Reed Richards' formula",
+        "Rescue his mother's soul from Hell",
+        "Resurrect a Latverian king"
+      ],
+      "answer": 2,
+      "why": "His machine to free his mother from Hell failed and the explosion scarred his face.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-07",
+      "q": "Doom's witch mother was killed when he was a baby. What was her name?",
+      "options": ["Marie Von Doom", "Cynthia Von Doom", "Valeria Von Doom", "Mirabel Von Doom"],
+      "answer": 1,
+      "why": "Cynthia Von Doom, a witch, was killed when Victor was a baby.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom",
+      "giveawayOk": true
+    },
+    {
+      "id": "doctor-doom-08",
+      "q": "Doom's origin was told in full in which 1964 issue?",
+      "options": [
+        "Fantastic Four Annual #2",
+        "Fantastic Four Annual #1",
+        "Fantastic Four #40",
+        "Fantastic Four #57"
+      ],
+      "answer": 0,
+      "why": "His full origin appeared two years after his debut, in FF Annual #2 (1964).",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-09",
+      "q": "In Secret Wars (2015), which patchwork world does Doom rule as a self-declared god?",
+      "options": ["Counter-Earth", "Sakaar", "Knowhere", "Battleworld"],
+      "answer": 3,
+      "why": "Doom and Doctor Strange build Battleworld from the broken multiverse; Doom rules it as a god.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    },
+    {
+      "id": "doctor-doom-10",
+      "q": "In which 2024 event does Doom take Doctor Strange's title of Sorcerer Supreme?",
+      "options": ["Fall of X", "Dark Web", "Blood Hunt", "Gang War"],
+      "answer": 2,
+      "why": "Doom became Sorcerer Supreme after acquiring the title from Strange in Blood Hunt (2024).",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Doctor_Doom"
+    }
+  ]
+}

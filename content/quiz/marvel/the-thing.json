@@ -1,0 +1,107 @@
+{
+  "character": "the-thing",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "the-thing-01",
+      "q": "The Thing is a founding member of which team?",
+      "options": ["The West Coast Avengers", "The Fantastic Four", "The X-Men", "The Defenders"],
+      "answer": 1,
+      "why": "Ben Grimm belongs to the original Fantastic Four team, which first appeared in 1961.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-02",
+      "q": "What is the Thing's real name?",
+      "options": ["Reed Richards", "Johnny Storm", "Benjamin Grimm", "Victor von Doom"],
+      "answer": 2,
+      "why": "Benjamin Jacob Grimm became the Thing after cosmic ray exposure.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-03",
+      "q": "Which catchphrase is the Thing famous for?",
+      "options": ["Hulk smash!", "Flame on!", "Avengers assemble!", "It's clobberin' time!"],
+      "answer": 3,
+      "why": "Ben's battle cry is 'It's clobberin' time!'",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-04",
+      "q": "On which street did Ben grow up on New York's Lower East Side?",
+      "options": ["Yancy Street", "Delancey Street", "Bleecker Street", "Ludlow Street"],
+      "answer": 0,
+      "why": "Ben grew up in poverty on Yancy Street, home of the gang that loves to pester him.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)",
+      "giveawayOk": true
+    },
+    {
+      "id": "the-thing-05",
+      "q": "What sport earned Ben a scholarship to Empire State University?",
+      "options": ["Boxing", "Football", "Baseball", "Hockey"],
+      "answer": 1,
+      "why": "Ben attended Empire State University on a football scholarship, where he met Reed Richards.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-06",
+      "q": "What is Ben's love interest Alicia Masters by profession?",
+      "options": ["Painter", "Violinist", "Sculptor", "Photographer"],
+      "answer": 2,
+      "why": "Alicia Masters is a blind sculptor who becomes Ben's love.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-07",
+      "q": "Who played the Thing in the 2005 film adaptation?",
+      "options": ["Jamie Bell", "Ebon Moss-Bachrach", "Doug Jones", "Michael Chiklis"],
+      "answer": 3,
+      "why": "Michael Chiklis played Ben in the 2005 film and its 2007 sequel.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-08",
+      "q": "A story from which year revealed that Ben is Jewish?",
+      "options": ["2007", "2004", "1992", "2002"],
+      "answer": 3,
+      "why": "Ben's Jewish heritage was revealed in a 2002 story, about four decades after his creation.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-09",
+      "q": "What was the name of Ben's late brother, a former leader of the street gang that torments him?",
+      "options": ["Jacob", "Daniel", "Joseph", "David"],
+      "answer": 1,
+      "why": "Ben's late brother Daniel once led the Yancy Street Gang.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    },
+    {
+      "id": "the-thing-10",
+      "q": "How many issues did the Thing's first ongoing solo series, launched in 1983, run for?",
+      "options": ["24", "36", "48", "34"],
+      "answer": 1,
+      "why": "The Thing's solo series from 1983 to 1986 ran for 36 issues.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Thing_(Marvel_Comics)"
+    }
+  ]
+}

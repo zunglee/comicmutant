@@ -1,0 +1,112 @@
+{
+  "character": "black-adam",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "black-adam-01",
+      "q": "Who plays Black Adam in the 2022 DC film of the same name?",
+      "options": ["Jason Momoa", "Vin Diesel", "Zachary Levi", "Dwayne Johnson"],
+      "answer": 3,
+      "why": "Dwayne Johnson stars as Teth-Adam in the 2022 film, a spin-off from Shazam! that was pushed by Johnson for years.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam_(film)"
+    },
+    {
+      "id": "black-adam-02",
+      "q": "What is Black Adam's original name before he gains his powers?",
+      "options": ["Teth-Adam", "Ptah-Adam", "Amon-Adam", "Set-Adam"],
+      "answer": 1,
+      "why": "He starts out as an ancient man called Teth-Adam, chosen by the wizard Shazam as his champion, before he is corrupted.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam",
+      "giveawayOk": true
+    },
+    {
+      "id": "black-adam-03",
+      "q": "In which year did Black Adam first appear, in Fawcett Comics' The Marvel Family #1?",
+      "options": ["1951", "1945", "1941", "1954"],
+      "answer": 1,
+      "why": "Black Adam debuted in The Marvel Family #1 in 1945, from Fawcett, and DC revived him in the 1970s after acquiring the characters.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-04",
+      "q": "Which pair created Black Adam?",
+      "options": [
+        "Bill Parker and Mac Raboy",
+        "Geoff Johns and David S. Goyer",
+        "Jerry Ordway and Dave Gibbons",
+        "Otto Binder and C. C. Beck"
+      ],
+      "answer": 3,
+      "why": "Writer Otto Binder and artist C. C. Beck created him for Fawcett; Johns and Goyer only reworked him in the 2000s.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-05",
+      "q": "In Jerry Ordway's 1994 revised comic origin, Teth-Adam is the son of which pharaoh?",
+      "options": ["Tutankhamun", "Akhenaten", "Ramesses II", "Khufu"],
+      "answer": 2,
+      "why": "The Power of Shazam! retold his origin as a son of Ramesses II, born in the 13th century BC.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-06",
+      "q": "In the 1970s revival comics, which Egyptian god gives Black Adam his stamina?",
+      "options": ["Menthu", "Zehuti", "Shu", "Anpu"],
+      "answer": 2,
+      "why": "Shazam! #28 lists Shu for stamina, with other gods giving strength, power, wisdom, speed and courage.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-07",
+      "q": "Black Adam is a famous archenemy of which hero and the Marvel Family?",
+      "options": ["Superman", "Hawkman", "Doctor Fate", "Shazam"],
+      "answer": 3,
+      "why": "Sivana and Mister Mind, along with Black Adam, rank among Shazam's best-known enemies.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-08",
+      "q": "Black Adam rules and defends which fictional Middle Eastern nation in the comics?",
+      "options": ["Bialya", "Qurac", "Markovia", "Kahndaq"],
+      "answer": 3,
+      "why": "In modern comics, he is the champion of Kahndaq, a fictional country on the Sinai Peninsula, which he fiercely protects.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-09",
+      "q": "In 52, Black Adam's wife Adrianna Tomaz is transformed by a magic amulet into which hero?",
+      "options": ["Osiris", "Hawkgirl", "Isis", "Mary Marvel"],
+      "answer": 2,
+      "why": "Adam used the amulet to turn Adrianna into the superheroine Isis, and the couple married with the Marvel Family attending.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam"
+    },
+    {
+      "id": "black-adam-10",
+      "q": "Who directed the 2022 film Black Adam?",
+      "options": ["James Wan", "David F. Sandberg", "Patty Jenkins", "Jaume Collet-Serra"],
+      "answer": 3,
+      "why": "Jaume Collet-Serra directed the film; its screenplay credits go to Adam Sztykiel, Rory Haines and Sohrab Noshirvani.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Adam_(film)"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "character": "goku",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "goku-01",
+      "q": "Who voices Goku in the Japanese versions of Dragon Ball?",
+      "options": ["Mayumi Tanaka", "Masako Nozawa", "Junko Takeuchi", "Rie Kugimiya"],
+      "answer": 1,
+      "why": "Masako Nozawa voices Goku, and also his sons Gohan and Goten and his father Bardock.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-02",
+      "q": "Which signature energy attack did Goku learn from the Turtle Hermit?",
+      "options": ["Galick Gun", "Special Beam Cannon", "Kamehameha", "Final Flash"],
+      "answer": 2,
+      "why": "The Kamehameha is named for a Hawaiian king and taught by Roshi.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-03",
+      "q": "Who raised Goku before he met Bulma?",
+      "options": ["Master Roshi", "Grandpa Gohan", "Korin", "Mr. Popo"],
+      "answer": 1,
+      "why": "His adoptive grandfather, a hermit martial artist, found and raised him.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-04",
+      "q": "Goku was loosely modeled on Sun Wukong from which Chinese novel?",
+      "options": [
+        "Dream of the Red Chamber",
+        "Water Margin",
+        "Romance of the Three Kingdoms",
+        "Journey to the West"
+      ],
+      "answer": 3,
+      "why": "Dragon Ball took its starting idea from Wu Cheng'en's Journey to the West.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-05",
+      "q": "Who taught Goku the Spirit Bomb?",
+      "options": ["Master Roshi", "Whis", "King Kai", "Korin"],
+      "answer": 2,
+      "why": "King Kai trained Goku in Other World and taught him the technique that gathers energy from living things.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-06",
+      "q": "In what year did Goku debut in Weekly Shōnen Jump?",
+      "options": ["1982", "1984", "1986", "1989"],
+      "answer": 1,
+      "why": "Chapter 1 of Dragon Ball ran in late 1984.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-07",
+      "q": "Goku learned Instant Transmission from the inhabitants of which planet?",
+      "options": ["Kanassa", "Namek", "Vegeta", "Yardrat"],
+      "answer": 3,
+      "why": "The Yardrat people teach him the teleportation skill known as Instant Transmission.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-08",
+      "q": "Who plays adult Goku in the Funimation English dub?",
+      "options": [
+        "Christopher Sabat",
+        "Sean Schemmel",
+        "Colleen Clinkenbeard",
+        "Stephanie Nadolny"
+      ],
+      "answer": 1,
+      "why": "Sean Schemmel voices adult Goku, while Masako Nozawa plays him in Japanese.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-09",
+      "q": "What did Toriyama say inspired the colour of Goku's training gi?",
+      "options": [
+        "Samurai armor",
+        "Kung fu film uniforms",
+        "Shinto priest robes",
+        "Buddhist monks' robes"
+      ],
+      "answer": 3,
+      "why": "The orange outfit came from Buddhist robes, giving the series a Chinese flavour.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    },
+    {
+      "id": "goku-10",
+      "q": "Goku received the Flying Nimbus as a reward from which character?",
+      "options": ["Grandpa Gohan", "Korin", "Bulma", "Master Roshi"],
+      "answer": 3,
+      "why": "Roshi gave him Kinto'un for rescuing his sea turtle.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Goku"
+    }
+  ]
+}

@@ -463,10 +463,11 @@ html[data-fx="lite"] .marquee {
   }
 }
 
-/* Freefall: floating site chrome (theme dock, phone tab bar) steps aside while a dive is running, and
-   on the mod pages, where it would sit over the queue's buttons and the replay. */
+/* Floating site chrome (theme dock, phone tab bar) steps aside while a game is running. Pages that set
+   data-no-dock (mod pages, quiz hub and boards) hide only the floating theme dock — never the tab bar,
+   which is the phone's navigation. */
 html[data-in-game] .hide-in-game,
-html[data-no-dock] .hide-in-game {
+html[data-no-dock] .site-dock {
   display: none;
 }
 /* Freefall canvas box: 16:9 under the header (landscape phones get the tab bar's room back), 9:16 on
@@ -499,4 +500,271 @@ html[data-no-dock] .hide-in-game {
   html[data-in-game] .ff-box:not([data-portrait]) {
     width: min(100%, calc((100dvh - 1.25rem) * 16 / 9));
   }
+}
+
+/* Fact Frenzy */
+/* Result colours are light fills with ink text (AA on any theme); the state is also shown by an
+   icon and a word, never by colour alone. */
+:root {
+  --qz-ok: #8de969;
+  --qz-bad: #ff8a8a;
+  --qz-warn: #ffd400;
+  --qz-flash: #8de969;
+}
+@layer components {
+  .qz-opt {
+    display: grid;
+    grid-template-columns: 2.5rem minmax(0, 1fr) auto;
+    align-items: center;
+    gap: 0.7rem;
+    width: 100%;
+    min-height: 58px;
+    padding: 0.55rem 0.75rem 0.55rem 0.55rem;
+    text-align: left;
+    font-family: var(--font-head);
+    font-size: 1.02rem;
+    line-height: 1.25;
+    background: var(--color-paper);
+    color: var(--color-ink);
+    border: 3px solid var(--line);
+    border-radius: 8px;
+    box-shadow: var(--shadow-ink-sm);
+    cursor: pointer;
+    touch-action: manipulation;
+    user-select: none;
+    transition:
+      transform 0.1s var(--ease-snap),
+      box-shadow 0.1s var(--ease-snap),
+      background-color 0.15s,
+      opacity 0.2s;
+  }
+  .qz-key {
+    display: grid;
+    place-items: center;
+    width: 2.5rem;
+    height: 2.5rem;
+    font-family: var(--font-display);
+    font-size: 1.6rem;
+    line-height: 1;
+    background: var(--c1);
+    color: var(--on-c1);
+    border: 3px solid var(--line);
+    border-radius: 6px;
+  }
+  .qz-opt:hover:not(:disabled) {
+    transform: translate(-1px, -2px);
+    box-shadow: 5px 6px 0 var(--line);
+  }
+  .qz-opt:active:not(:disabled),
+  .qz-opt[data-state="picked"] {
+    transform: translate(3px, 3px);
+    box-shadow: 0 0 0 var(--line);
+    background: var(--color-pop);
+  }
+  .qz-opt[data-state="right"] {
+    background: var(--qz-ok);
+  }
+  .qz-opt[data-state="wrong"] {
+    background: var(--qz-bad);
+  }
+  .qz-opt[data-state="dim"] {
+    opacity: 0.62;
+    box-shadow: none;
+    min-height: 46px;
+    padding-block: 0.25rem;
+  }
+  .qz-opt[data-state="dim"] .qz-key {
+    width: 2rem;
+    height: 2rem;
+    font-size: 1.3rem;
+  }
+  .qz-opt:disabled {
+    cursor: default;
+  }
+  .qz-skel {
+    background: var(--muted);
+    opacity: 0.35;
+    border-radius: 6px;
+    animation: qz-skel 1.1s ease-in-out infinite alternate;
+  }
+  .qz-hit {
+    min-height: 44px;
+  }
+}
+@keyframes qz-slam {
+  from {
+    /* Enters from below and barely grows: it must never swing up over the note above it. */
+    transform: translateY(26px) scale(1.04) rotate(-1.5deg);
+    opacity: 0;
+  }
+  55% {
+    transform: translateY(-3px) scale(1) rotate(0.4deg);
+    opacity: 1;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.qz-slam {
+  animation: qz-slam 0.45s var(--ease-out-expo) backwards;
+}
+@keyframes qz-slide {
+  from {
+    transform: translateX(-34px);
+    opacity: 0;
+  }
+  to {
+    transform: none;
+    opacity: 1;
+  }
+}
+.qz-slide {
+  animation: qz-slide 0.34s var(--ease-out-expo) backwards;
+  animation-delay: calc(var(--i, 0) * 70ms + 180ms);
+}
+@keyframes qz-shake {
+  15% {
+    transform: translateX(-14px);
+  }
+  30% {
+    transform: translateX(14px);
+  }
+  45% {
+    transform: translateX(-10px);
+  }
+  60% {
+    transform: translateX(10px);
+  }
+  75% {
+    transform: translateX(-5px);
+  }
+  90% {
+    transform: translateX(5px);
+  }
+}
+.qz-shake {
+  animation: qz-shake 0.5s ease-out;
+}
+@keyframes qz-verdict {
+  from {
+    transform: scale(0.2) rotate(-12deg);
+  }
+  60% {
+    transform: scale(1.04) rotate(-1deg);
+  }
+  to {
+    transform: scale(1) rotate(-2deg);
+  }
+}
+.qz-verdict {
+  transform: rotate(-2deg);
+  animation: qz-verdict 0.4s var(--ease-out-expo) backwards;
+}
+@media (prefers-reduced-motion: reduce) {
+  .qz-slide,
+  .qz-pop {
+    animation-delay: 0s !important;
+  }
+}
+@keyframes qz-pop {
+  from {
+    transform: scale(0) rotate(-40deg);
+  }
+  60% {
+    transform: scale(1.25) rotate(6deg);
+  }
+  to {
+    transform: scale(1) rotate(0);
+  }
+}
+.qz-pop {
+  animation: qz-pop 0.45s var(--ease-snap) backwards;
+}
+@keyframes qz-skel {
+  to {
+    opacity: 0.15;
+  }
+}
+@keyframes qz-pulse {
+  50% {
+    transform: scale(1.13);
+  }
+}
+.qz-pulse {
+  animation: qz-pulse 0.7s ease-in-out infinite;
+}
+@keyframes qz-flash {
+  0% {
+    opacity: 0;
+  }
+  14% {
+    opacity: 0.85;
+  }
+  100% {
+    opacity: 0;
+  }
+}
+.qz-flash {
+  position: fixed;
+  inset: 0;
+  z-index: 55;
+  pointer-events: none;
+  border-radius: inherit;
+  background: radial-gradient(var(--qz-flash) 2.2px, transparent 2.8px) 0 0 / 9px 9px;
+  animation: qz-flash 0.75s ease-out forwards;
+}
+@keyframes qz-flick {
+  from {
+    transform: scale(1) rotate(-3deg);
+  }
+  to {
+    transform: scale(1.1, 1.18) rotate(3deg);
+  }
+}
+.qz-flame {
+  transform-origin: 50% 100%;
+  animation: qz-flick 0.7s ease-in-out infinite alternate;
+}
+@keyframes qz-float {
+  0%,
+  100% {
+    transform: translateY(0) rotate(var(--r, -6deg));
+  }
+  50% {
+    transform: translateY(-14px) rotate(calc(var(--r, -6deg) * -1));
+  }
+}
+.qz-float {
+  animation: qz-float 5.5s ease-in-out infinite;
+}
+@keyframes qz-sweep {
+  from {
+    transform: translateX(-120%) skewX(-18deg);
+  }
+  to {
+    transform: translateX(260%) skewX(-18deg);
+  }
+}
+.qz-sweep::after {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 28%;
+  background: #fff4;
+  pointer-events: none;
+  animation: qz-sweep 3.4s ease-in-out infinite;
+}
+.qz-confetti {
+  position: fixed;
+  inset: 0;
+  z-index: 80;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+html[data-fx="lite"] .qz-flame,
+html[data-fx="lite"] .qz-float,
+html[data-fx="lite"] .qz-sweep::after {
+  animation: none;
 }

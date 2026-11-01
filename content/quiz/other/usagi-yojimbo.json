@@ -1,0 +1,117 @@
+{
+  "character": "usagi-yojimbo",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "usagi-yojimbo-01",
+      "q": "What kind of animal is Miyamoto Usagi?",
+      "options": ["A rabbit", "A cat", "A fox", "A dog"],
+      "answer": 0,
+      "why": "Usagi is an anthropomorphic rabbit who walks the land as a masterless swordsman.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-02",
+      "q": "Who created Usagi Yojimbo?",
+      "options": ["Kevin Eastman", "Stan Sakai", "Peter Laird", "Dave Sim"],
+      "answer": 1,
+      "why": "Stan Sakai created Usagi and has written and drawn his adventures for decades.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-03",
+      "q": "What is Usagi's social status?",
+      "options": ["Rōnin", "Daimyō", "Shōgun", "Ninja"],
+      "answer": 0,
+      "why": "Usagi is a masterless samurai wandering Japan on a warrior's pilgrimage.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-04",
+      "q": "Which real-life swordsman inspired Usagi?",
+      "options": ["Musashi", "Sasaki Kojirō", "Tokugawa Ieyasu", "Oda Nobunaga"],
+      "answer": 0,
+      "why": "Sakai modeled his wandering rabbit samurai on the legendary swordsman Miyamoto Musashi.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-05",
+      "q": "What is the name of Usagi's son?",
+      "options": ["Noriyuki", "Jotaro", "Katsuichi", "Gennosuke"],
+      "answer": 1,
+      "why": "Jotaro is Usagi's son, who appears in later stories of the series.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-06",
+      "q": "In which 1984 comic did Usagi first appear?",
+      "options": [
+        "Albedo Anthropomorphics",
+        "Cerebus",
+        "Teenage Mutant Ninja Turtles #1",
+        "Flaming Carrot"
+      ],
+      "answer": 0,
+      "why": "The rabbit samurai debuted in 1984 in the second issue of Albedo Anthropomorphics.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-07",
+      "q": "Which Netflix series from 2022 follows a descendant of Miyamoto Usagi?",
+      "options": [
+        "Samurai Rabbit: The Usagi Chronicles",
+        "Usagi: Rabbit Ronin",
+        "Usagi the Ronin",
+        "The Usagi Ronin Chronicles of Old Edo"
+      ],
+      "answer": 0,
+      "why": "Samurai Rabbit: The Usagi Chronicles (Netflix, 2022) centres on his descendant Yuichi, with Miyamoto Usagi in a smaller role.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Samurai_Rabbit:_The_Usagi_Chronicles",
+      "giveawayOk": true
+    },
+    {
+      "id": "usagi-yojimbo-08",
+      "q": "Which rival noble gave Usagi the scar over his left eye?",
+      "options": ["Lord Hikiji", "Lord Mifune", "Lord Noriyuki", "Lord Kira"],
+      "answer": 0,
+      "why": "The scheming Lord Hikiji left Usagi with an arched scar over his left eye.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-09",
+      "q": "Who voiced Usagi in the 1987 TMNT cartoon?",
+      "options": ["Townsend Coleman", "Cam Clarke", "Barry Gordon", "Rob Paulsen"],
+      "answer": 0,
+      "why": "Townsend Coleman voiced Usagi in the 1987 TMNT cartoon, where he appeared in two episodes.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    },
+    {
+      "id": "usagi-yojimbo-10",
+      "q": "The creator first imagined Usagi after doodling a bunny whose ears were tied up like what?",
+      "options": ["A samurai topknot", "A ponytail with ribbon", "Pigtails", "A mohawk"],
+      "answer": 0,
+      "why": "Sakai's doodle of a long-eared animal with its ears bound like a topknot led to the character.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Miyamoto_Usagi"
+    }
+  ]
+}

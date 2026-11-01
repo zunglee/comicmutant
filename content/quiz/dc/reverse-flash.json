@@ -1,0 +1,117 @@
+{
+  "character": "reverse-flash",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "reverse-flash-01",
+      "q": "Reverse-Flash (Eobard Thawne) is the arch-enemy of which Flash?",
+      "options": ["Wally West", "Barry Allen", "Jay Garrick", "Bart Allen"],
+      "answer": 1,
+      "why": "Thawne is defined by his obsession with Barry Allen, the Silver Age and modern Flash.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-02",
+      "q": "Which actor played Eobard Thawne disguised as Harrison Wells in TV's The Flash?",
+      "options": ["Tom Cavanagh", "Matt Letscher", "John Wesley Shipp", "Grant Gustin"],
+      "answer": 0,
+      "why": "Tom Cavanagh played the hidden villain in the Arrowverse series The Flash.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-03",
+      "q": "By what villain alias is Eobard Thawne also known?",
+      "options": ["Captain Cold", "Doctor Alchemy", "Professor Pyg", "Professor Zoom"],
+      "answer": 3,
+      "why": "Thawne debuted under the name Professor Zoom, and the name stuck as an alias.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-04",
+      "q": "Which two creators introduced Eobard Thawne's Reverse-Flash?",
+      "options": [
+        "Gardner Fox and Joe Kubert",
+        "Robert Kanigher and Carmine Infantino",
+        "John Broome and Carmine Infantino",
+        "Dennis O'Neil and Neal Adams"
+      ],
+      "answer": 2,
+      "why": "John Broome and Carmine Infantino created the Reverse-Flash for The Flash #139.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-05",
+      "q": "In which year did Reverse-Flash debut in The Flash #139?",
+      "options": ["1956", "1967", "1971", "1963"],
+      "answer": 3,
+      "why": "He first appeared in The Flash #139, dated September 1963.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-06",
+      "q": "In post-Crisis comics, from which century does Eobard Thawne come?",
+      "options": ["The 25th century", "The 34th century", "The 28th century", "The 31st century"],
+      "answer": 0,
+      "why": "After Crisis he is a 25th-century scientist who idolises Barry Allen.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne",
+      "giveawayOk": true
+    },
+    {
+      "id": "reverse-flash-07",
+      "q": "In which year was the Reverse-Flash first named Eobard Thawne, in The Flash #153?",
+      "options": ["1965", "1963", "1953", "1960"],
+      "answer": 0,
+      "why": "His debut was in 1963, but the full name came two years later in The Flash #153.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-08",
+      "q": "In modern comics, what is the first name of the Flash's mother, killed by Thawne to ruin her son's life?",
+      "options": ["Iris", "Patty", "Nora", "Caitlin"],
+      "answer": 2,
+      "why": "Thawne murders Nora Allen as part of his campaign to wreck Barry's childhood.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-09",
+      "q": "Who played Eobard Thawne in his own likeness in the TV series The Flash?",
+      "options": ["Tom Cavanagh", "Matt Letscher", "Michael Rosenbaum", "Neal McDonough"],
+      "answer": 1,
+      "why": "Matt Letscher played Thawne without the Harrison Wells disguise.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    },
+    {
+      "id": "reverse-flash-10",
+      "q": "In the Flashpoint story, which hero kills Eobard Thawne?",
+      "options": [
+        "Thomas Wayne (as Batman)",
+        "Bruce Wayne (as Batman)",
+        "Jason Todd (as Red Hood)",
+        "Dick Grayson (as Nightwing)"
+      ],
+      "answer": 0,
+      "why": "In the Flashpoint timeline, Thomas Wayne's Batman ends Thawne's life.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Eobard_Thawne"
+    }
+  ]
+}

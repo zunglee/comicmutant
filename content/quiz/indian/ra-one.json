@@ -1,0 +1,111 @@
+{
+  "character": "ra-one",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "ra-one-01",
+      "q": "Which actor plays the villain Ra.One in the 2011 film?",
+      "options": ["Arjun Rampal", "Sanjay Dutt", "Vivek Oberoi", "Ranveer Singh"],
+      "answer": 0,
+      "why": "Arjun Rampal plays the self-learning game villain who escapes into the real world.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-02",
+      "q": "Under which gaming alias does Prateek reach the final level before Ra.One breaks out?",
+      "options": ["Phoenix", "Lucifer", "Zeus", "Shadow"],
+      "answer": 1,
+      "why": "Prateek logs in as Lucifer, and Ra.One, unable to finish its match, decides Lucifer must die.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-03",
+      "q": "Which ability, along with mind reading, does Ra.One have that lets him impersonate people?",
+      "options": ["Invisibility", "Telekinesis", "Shapeshifting", "Time travel"],
+      "answer": 2,
+      "why": "Ra.One was designed with shapeshifting, mind reading and a self-learning AI, so he takes the forms of Akashi and Sonia.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-04",
+      "q": "Which actor plays Akashi, the motion-capture artist whose form Ra.One first takes?",
+      "options": ["Jackie Chan", "Donnie Yen", "Jet Li", "Tom Wu"],
+      "answer": 3,
+      "why": "Tom Wu plays Akashi; Jackie Chan had been approached but declined.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-05",
+      "q": "How does G.One spot the real Ra.One among ten identical apparitions?",
+      "options": [
+        "Only one of them has a shadow",
+        "Only one of them is actually breathing",
+        "Only one is warm",
+        "Only one glows red"
+      ],
+      "answer": 0,
+      "why": "G.One remembers Shekhar's warning, and only the genuine apparition casts a shadow.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-06",
+      "q": "Ra.One hypnotises and then impersonates which character, played by Kareena Kapoor?",
+      "options": ["Jenny", "Sonia", "Akashi", "Barron"],
+      "answer": 1,
+      "why": "Ra.One takes Sonia Subramaniam's form to kidnap her son Prateek.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-07",
+      "q": "Which international singer features on the Ra.One song 'Criminal'?",
+      "options": ["Pitbull", "Usher", "Akon", "Enrique Iglesias"],
+      "answer": 2,
+      "why": "The Vishal-Shekhar track 'Criminal' features Akon, alongside hits like 'Chammak Challo'.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-08",
+      "q": "Who supervised the VFX of Ra.One?",
+      "options": ["Craig Mumma", "Haresh Hingorani", "Marc Kolbe", "Jeffrey Kleiser"],
+      "answer": 3,
+      "why": "Jeffrey Kleiser supervised the effects for the film, which won the National Award for special effects.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-09",
+      "q": "For which craft did Ra.One win both a National Film Award and a Filmfare Award?",
+      "options": ["Special effects", "Music direction", "Choreography", "Cinematography"],
+      "answer": 0,
+      "why": "The film won a National Award and a Filmfare Award, both for Best Special Effects.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "ra-one-10",
+      "q": "Who produced Ra.One under the banner Red Chillies Entertainment?",
+      "options": ["Karan Johar", "Gauri Khan", "Aditya Chopra", "Ekta Kapoor"],
+      "answer": 1,
+      "why": "Gauri Khan produced the film directed by Anubhav Sinha.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    }
+  ]
+}

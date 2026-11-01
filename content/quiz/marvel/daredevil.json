@@ -1,0 +1,122 @@
+{
+  "character": "daredevil",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "daredevil-01",
+      "q": "How is young Matt Murdock blinded?",
+      "options": [
+        "A lab explosion",
+        "A boxing match injury to his eyes",
+        "Radioactive material from a truck",
+        "A rooftop fall"
+      ],
+      "answer": 2,
+      "why": "A radioactive substance falling from a truck blinds Matt while he saves a man, and heightens his other senses.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-02",
+      "q": "Which New York neighborhood is Matt Murdock's home turf?",
+      "options": ["Harlem", "Hell's Kitchen", "Astoria", "Greenwich Village"],
+      "answer": 1,
+      "why": "Matt is from Hell's Kitchen, a working-class Manhattan neighborhood.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-03",
+      "q": "Which crime lord becomes Daredevil's primary nemesis during Frank Miller's run?",
+      "options": ["Kingpin", "Bullseye", "Hammerhead", "Tombstone"],
+      "answer": 0,
+      "why": "Kingpin became Daredevil's chief nemesis in Miller's run.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-04",
+      "q": "Which duo created Daredevil?",
+      "options": [
+        "Stan Lee and Jack Kirby",
+        "Stan Lee and Steve Ditko",
+        "Bill Everett and Joe Simon",
+        "Stan Lee and Bill Everett"
+      ],
+      "answer": 3,
+      "why": "Writer Stan Lee and artist Bill Everett launched Daredevil #1 in April 1964.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-05",
+      "q": "Which hitman murders Elektra in the comics?",
+      "options": ["Mr. Fear", "Typhoid Mary", "Bullseye", "Gladiator"],
+      "answer": 2,
+      "why": "Bullseye kills Elektra, one of Daredevil's best-known tragedies.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-06",
+      "q": "Which storyline (issues #226-233) has Karen Page sell his secret identity and reveals Matt's mother is a nun?",
+      "options": ["Fall from Grace", "Born Again", "Guardian Devil", "The Man Without Fear"],
+      "answer": 1,
+      "why": "In Born Again Matt is ruined by Kingpin, and learns his mother Maggie is a nun.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-07",
+      "q": "In which issue did Elektra Natchios first appear?",
+      "options": ["Daredevil #168", "Daredevil #173", "Daredevil #181", "Daredevil #191"],
+      "answer": 0,
+      "why": "Frank Miller introduced Elektra in Daredevil #168 (January 1981).",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)",
+      "giveawayOk": true
+    },
+    {
+      "id": "daredevil-08",
+      "q": "Which artist introduced Daredevil's all-red costume in issue #7?",
+      "options": ["Gene Colan", "Jack Kirby", "John Romita Sr.", "Wally Wood"],
+      "answer": 3,
+      "why": "Wally Wood replaced the original yellow-and-black costume with the red one.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-09",
+      "q": "In which year did Frank Miller's initial run on Daredevil begin?",
+      "options": ["1981", "1977", "1979", "1968"],
+      "answer": 2,
+      "why": "Miller's first stint on the title began in May 1979 and wrapped up in February 1983.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    },
+    {
+      "id": "daredevil-10",
+      "q": "What is the name of the law firm Matt runs with his college roommate Foggy?",
+      "options": [
+        "Goodman, Lieber, Kurtzberg & Holliway",
+        "Nelson and Murdock",
+        "Hogarth, Chao & Benowitz",
+        "Murdock, Page & Hogan"
+      ],
+      "answer": 1,
+      "why": "Foggy Nelson is Matt's best friend and law partner in Nelson and Murdock.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Daredevil_(Marvel_Comics_character)"
+    }
+  ]
+}

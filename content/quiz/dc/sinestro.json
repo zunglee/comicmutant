@@ -1,0 +1,112 @@
+{
+  "character": "sinestro",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "sinestro-01",
+      "q": "Which planet is Sinestro's home?",
+      "options": ["Korugar", "Oa", "Thanagar", "Rann"],
+      "answer": 0,
+      "why": "Sinestro was born on Korugar, in space sector 1417.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-02",
+      "q": "Which emotion powers the rings of the Sinestro Corps?",
+      "options": ["Rage", "Greed", "Hope", "Fear"],
+      "answer": 3,
+      "why": "The Sinestro Corps spreads a doctrine of fear and its yellow rings run on that emotion.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-03",
+      "q": "Which actor played Sinestro in the 2011 live-action Green Lantern film?",
+      "options": ["Ryan Reynolds", "Peter Sarsgaard", "Mark Strong", "Tim Robbins"],
+      "answer": 2,
+      "why": "Mark Strong played Sinestro in 2011, the character's first live-action appearance.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-04",
+      "q": "Which two creators introduced Sinestro?",
+      "options": [
+        "Gardner Fox and Gil Kane",
+        "John Broome and Gil Kane",
+        "Dennis O'Neil and Neal Adams",
+        "Geoff Johns and Ivan Reis"
+      ],
+      "answer": 1,
+      "why": "John Broome and Gil Kane created the villain in Green Lantern vol. 2 #7.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-05",
+      "q": "In which year did Sinestro debut in Green Lantern vol. 2 #7?",
+      "options": ["1967", "1961", "1964", "1959"],
+      "answer": 1,
+      "why": "He first appeared in Green Lantern #7, dated August 1961.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-06",
+      "q": "What colour could Green Lantern rings not directly affect, a weakness Sinestro's ring exploits?",
+      "options": ["Red", "Blue", "Orange", "Yellow"],
+      "answer": 3,
+      "why": "Green Lantern rings were hindered by yellow, so the Weaponers of Qward gave Sinestro a yellow ring.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-07",
+      "q": "Sinestro was whose instructor in the Green Lantern Corps before becoming his enemy?",
+      "options": ["John Stewart", "Guy Gardner", "Hal Jordan", "Kilowog"],
+      "answer": 2,
+      "why": "He trained Hal Jordan, then became his arch-enemy.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-08",
+      "q": "Which alien group created the power ring for the banished Sinestro?",
+      "options": ["Guardians of the Universe", "Weaponers of Qward", "Controllers", "Zamarons"],
+      "answer": 1,
+      "why": "The Weaponers of Qward built a ring in the one hue Green Lantern rings can't resist, to match Sinestro after his banishment.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-09",
+      "q": "Which entity was revealed as the hidden 'impurity' in the Central Power Battery?",
+      "options": ["Parallax", "Nekron", "Ion", "Krona"],
+      "answer": 0,
+      "why": "Parallax embodies fear; it possessed Hal Jordan and later Sinestro became its host.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Sinestro"
+    },
+    {
+      "id": "sinestro-10",
+      "q": "Sinestro is said to have been born in which numbered space sector?",
+      "options": ["Sector 2814", "Sector 2813", "Sector 3600", "Sector 1417"],
+      "answer": 3,
+      "why": "Sinestro's home world lies inside that sector.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Sinestro",
+      "giveawayOk": true
+    }
+  ]
+}

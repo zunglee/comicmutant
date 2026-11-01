@@ -1,0 +1,111 @@
+{
+  "character": "doga",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "doga-01",
+      "q": "What is the real name of the dog-masked vigilante Doga?",
+      "options": ["Suraj", "Vinay", "Dhruva", "Raj"],
+      "answer": 0,
+      "why": "Suraj, an orphan raised in a gym, becomes Doga to avenge the murder of his mentors.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-02",
+      "q": "Which publisher's universe is Doga part of?",
+      "options": ["Diamond Comics", "Raj Comics", "Indrajal Comics", "Manoj Comics"],
+      "answer": 1,
+      "why": "Doga is a Raj Comics character, shown there as its first and only anti-hero.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-03",
+      "q": "In which issue did Doga first appear?",
+      "options": ["Aag", "Pratishodh Ki Jwala", "Curfew", "Maut Ka Olympic"],
+      "answer": 2,
+      "why": "Doga's first story was the issue called Curfew, published in 1992.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-04",
+      "q": "In which year was Doga created?",
+      "options": ["1995", "1992", "1999", "1996"],
+      "answer": 1,
+      "why": "Doga came out in 1992, years after Raj Comics' first heroes Nagraj and Dhruva.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-05",
+      "q": "Which city does Doga operate in as a one-man army against organised crime?",
+      "options": ["Mumbai", "Delhi", "Rajnagar", "Kolkata"],
+      "answer": 0,
+      "why": "Doga settled in Mumbai and wages a merciless war on its gangsters.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-06",
+      "q": "Who is credited as Doga's co-creator alongside Sanjay Gupta?",
+      "options": ["Anupam Sinha", "Tarun Kumar Wahi", "Manoj Kumar", "Parshuram Sharma"],
+      "answer": 1,
+      "why": "Writer Tarun Kumar Wahi and Sanjay Gupta created Doga, with Manu as illustrator.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-07",
+      "q": "Who found the baby who becomes Doga in a garbage dump and raised him?",
+      "options": ["Adrak Chacha", "Thakur Bhairav Singh", "Daku Halkan Singh", "Cheetah"],
+      "answer": 2,
+      "why": "The bandit Halkan Singh raised the foundling Suraj, then abandoned him; Adrak Chacha took him in next.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-08",
+      "q": "Whose henchmen murder his mentors and push him to become Doga?",
+      "options": ["Kaal Paheliya", "Big Bad Boss", "Bulldog Ohanton", "Killota"],
+      "answer": 3,
+      "why": "After Killota's men killed Adrak Chacha and his brothers, Suraj took up the dog mask for revenge.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-09",
+      "q": "Doga stands out at his publisher as its only what?",
+      "options": ["Anti-hero", "Magician", "Time traveller", "Masked police inspector"],
+      "answer": 0,
+      "why": "He is billed as the first and only anti-hero in his publisher's universe, killing rather than arresting criminals.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://www.indianetzone.com/doga"
+    },
+    {
+      "id": "doga-10",
+      "q": "What unusual ability helps Doga gather information on the street?",
+      "options": [
+        "He can read minds",
+        "He can communicate with dogs",
+        "He turns invisible in darkness",
+        "He sees through walls"
+      ],
+      "answer": 1,
+      "why": "Doga has no superpowers, but he can talk to dogs, which makes them his informants.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://www.indianetzone.com/doga"
+    }
+  ]
+}

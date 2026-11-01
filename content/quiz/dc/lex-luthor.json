@@ -1,0 +1,116 @@
+{
+  "character": "lex-luthor",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "lex-luthor-01",
+      "q": "Which duo created Lex Luthor?",
+      "options": [
+        "Bill Finger and Bob Kane",
+        "Gardner Fox and Joe Kubert",
+        "Jerry Siegel and Joe Shuster",
+        "Mort Weisinger and Wayne Boring"
+      ],
+      "answer": 2,
+      "why": "Superman's own creators, Jerry Siegel (words) and Joe Shuster (art), also made his arch-nemesis.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-02",
+      "q": "In which year did Lex Luthor first appear in Action Comics #23?",
+      "options": ["1930", "1938", "1940", "1933"],
+      "answer": 2,
+      "why": "Luthor debuted in Action Comics #23, dated April 1940.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-03",
+      "q": "Which 1986 miniseries by Marv Wolfman and John Byrne remade Luthor as a corporate tycoon instead of a mad scientist?",
+      "options": [
+        "The Man of Steel",
+        "Crisis on Infinite Earths",
+        "Legends",
+        "Superman: Birthright"
+      ],
+      "answer": 0,
+      "why": "After Crisis, Wolfman and Byrne redesigned Luthor in The Man of Steel as a corrupt business executive.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-04",
+      "q": "What is the name of Lex Luthor's corporation in the comics?",
+      "options": ["Wayne Enterprises", "Queen Consolidated", "Ferris Aircraft", "LexCorp"],
+      "answer": 3,
+      "why": "Luthor's company dominates Metropolis; in some stories it grows into a world-spanning conglomerate.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-05",
+      "q": "When he becomes U.S. President in the comics, to whom does Lex hand control of his company beforehand?",
+      "options": ["Mercy Graves", "Lana Lang", "Talia al Ghul", "Lois Lane"],
+      "answer": 2,
+      "why": "Before taking office he passed leadership of his firm to Talia al Ghul; his presidency collapsed in the Public Enemies story.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-06",
+      "q": "Who played Lex Luthor opposite Christopher Reeve in the Superman films?",
+      "options": ["Kevin Spacey", "Gene Hackman", "Jesse Eisenberg", "Clancy Brown"],
+      "answer": 1,
+      "why": "Gene Hackman played Luthor in the Superman film series that began in 1978.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-07",
+      "q": "Which actor played Lex Luthor in the 2006 film Superman Returns?",
+      "options": ["Kevin Spacey", "Gene Hackman", "Jesse Eisenberg", "Michael Rosenbaum"],
+      "answer": 0,
+      "why": "Kevin Spacey took the role in 2006's Superman Returns.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-08",
+      "q": "Who voiced Lex Luthor in Superman: The Animated Series and Justice League Unlimited?",
+      "options": ["Powers Boothe", "Michael Ironside", "Mark Hamill", "Clancy Brown"],
+      "answer": 3,
+      "why": "Clancy Brown voiced Luthor from the 1996 Superman series through Justice League Unlimited.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-09",
+      "q": "Which comic storyline sees Luthor join the Justice League after the Crime Syndicate threat?",
+      "options": ["Infinite Crisis", "Identity Crisis", "Forever Evil", "Final Crisis"],
+      "answer": 2,
+      "why": "After Forever Evil, Luthor joined the League, with the team reasoning that keeping him close made him easier to watch.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    },
+    {
+      "id": "lex-luthor-10",
+      "q": "Which studio artist is blamed for the mistake that left Lex Luthor bald?",
+      "options": ["Leo Nowak", "Wayne Boring", "Curt Swan", "Joe Shuster"],
+      "answer": 0,
+      "why": "A slip by Leo Nowak, who worked on the Superman newspaper strip, swapped Luthor's red hair for a bald head.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Lex_Luthor"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "character": "brainiac",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "brainiac-01",
+      "q": "In which year did Brainiac first appear, in Action Comics #242?",
+      "options": ["1955", "1947", "1952", "1958"],
+      "answer": 3,
+      "why": "Brainiac debuted in Action Comics #242, cover-dated July 1958, shrinking cities and bottling them.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-02",
+      "q": "Which writer and artist created Brainiac?",
+      "options": [
+        "Mort Weisinger and Curt Swan",
+        "Jerry Siegel and Joe Shuster",
+        "Jack Kirby and Joe Simon",
+        "Otto Binder and Al Plastino"
+      ],
+      "answer": 3,
+      "why": "Otto Binder wrote and Al Plastino drew the 1958 debut of Brainiac as a Superman villain.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-03",
+      "q": "In the Superman comic strip that inspired Brainiac, the city-shrinking villain Romado traveled with a white alien monkey named what?",
+      "options": ["Beppo", "Titano", "Koko", "Krypto"],
+      "answer": 2,
+      "why": "The strip's villain Romado had a white alien monkey called Koko, in the story that prefigured Brainiac's debut.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-04",
+      "q": "Which planet is Brainiac usually said to come from?",
+      "options": ["Krypton", "Apokolips", "Thanagar", "Colu"],
+      "answer": 3,
+      "why": "Most versions show Brainiac as a hyper-intelligent android or cyborg whose home is the planet Colu.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-05",
+      "q": "Which shrunken Kryptonian capital is the best known of those in Brainiac's collection?",
+      "options": ["Argo City", "Kryptonopolis", "Kandor", "Metropolis"],
+      "answer": 2,
+      "why": "Brainiac bottled Kandor, the capital of Krypton, which Superman later keeps in his Fortress of Solitude.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-06",
+      "q": "What is the distinctive shape of Brainiac's spaceship?",
+      "options": ["Pyramid", "Cube", "Crescent", "Skull"],
+      "answer": 3,
+      "why": "Brainiac travels the galaxy in a skull-shaped ship, storing bottled cities he has collected.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-07",
+      "q": "In his 1961 Silver Age debut, Brainiac 5 claimed to descend from the villain in which century?",
+      "options": ["33rd", "25th", "30th", "42nd"],
+      "answer": 2,
+      "why": "Brainiac 5 of the Legion of Super-Heroes first said he was Brainiac's 30th-century descendant in Action Comics #276.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-08",
+      "q": "In a 1964 Superman story, Brainiac is revealed to be a robot built by which group?",
+      "options": [
+        "The Guardians of the Universe",
+        "The Computer Tyrants of Colu",
+        "The Controllers",
+        "The Psions"
+      ],
+      "answer": 1,
+      "why": "Superman #167 recast him as a machine produced by the Computer Tyrants of his home planet, built to scout and conquer worlds.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-09",
+      "q": "Who played Brainiac in the live-action TV series Smallville?",
+      "options": ["Blake Ritson", "John Noble", "James Marsters", "Corey Burton"],
+      "answer": 2,
+      "why": "James Marsters played Brainiac on Smallville, while Blake Ritson later played him in Krypton.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    },
+    {
+      "id": "brainiac-10",
+      "q": "In the post-Crisis comics, what is the name of the Coluan scientist who becomes Brainiac?",
+      "options": ["Milton Fine", "Querl Dox", "Rond Vidar", "Vril Dox"],
+      "answer": 3,
+      "why": "After the history rewrite he became Vril Dox, a radical scientist whom the computers of Colu condemned to death.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Brainiac_(character)"
+    }
+  ]
+}

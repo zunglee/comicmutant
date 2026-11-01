@@ -1,0 +1,108 @@
+{
+  "character": "madara-uchiha",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "madara-uchiha-01",
+      "q": "Which clan leader was Madara's great rival and fellow founder of Konoha?",
+      "options": ["Hiruzen Sarutobi", "Tobirama Senju", "Minato Namikaze", "Hashirama Senju"],
+      "answer": 3,
+      "why": "Madara and Hashirama founded the village together, then ended up on opposite sides.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-02",
+      "q": "Who created Madara Uchiha and the Naruto series?",
+      "options": ["Eiichiro Oda", "Tite Kubo", "Masashi Kishimoto", "Akira Toriyama"],
+      "answer": 2,
+      "why": "Kishimoto introduced Madara in the manga as a villain with no weaknesses.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-03",
+      "q": "Which world-spanning genjutsu plan is Madara most associated with?",
+      "options": ["Izanagi", "Infinite Tsukuyomi", "Amaterasu", "Kamui space-time warp"],
+      "answer": 1,
+      "why": "His goal was to trap everyone in a dream world through the Infinite Tsukuyomi.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-04",
+      "q": "What is the name of Madara's younger brother, whose death left him bitter?",
+      "options": ["Itachi", "Shisui", "Sasuke", "Izuna"],
+      "answer": 3,
+      "why": "Izuna's death turned Madara cynical and vengeful.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-05",
+      "q": "Using his rival's DNA, Madara awakens which eye power?",
+      "options": ["Jougan", "Byakugan", "Tenseigan", "Rinnegan"],
+      "answer": 3,
+      "why": "Madara's eyes advance from Sharingan through the Eternal Mangekyō to Rinnegan.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-06",
+      "q": "Who reanimates Madara's corpse so he can return to the battlefield?",
+      "options": ["Orochimaru", "Black Zetsu", "Kabuto Yakushi", "Pain"],
+      "answer": 2,
+      "why": "Kabuto brought him back through reanimation, adding him to the war against the Allied Shinobi Forces.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-07",
+      "q": "Which Uchiha did Madara use as his agent, and who later posed as him?",
+      "options": ["Itachi Uchiha", "Obito Uchiha", "Shisui Uchiha", "Sasuke Uchiha"],
+      "answer": 1,
+      "why": "Obito carried out Madara's plans and even took his name when it suited.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha",
+      "giveawayOk": true
+    },
+    {
+      "id": "madara-uchiha-08",
+      "q": "Who voices Madara in the English dub of the Naruto anime?",
+      "options": ["Yuri Lowenthal", "Troy Baker", "Liam O'Brien", "Neil Kaplan"],
+      "answer": 3,
+      "why": "Neil Kaplan voices the original Madara; Xander Mobus voices the young version.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    },
+    {
+      "id": "madara-uchiha-09",
+      "q": "In which Naruto manga chapter does Madara first appear?",
+      "options": ["Chapter 370", "Chapter 300", "Chapter 341", "Chapter 355"],
+      "answer": 0,
+      "why": "Madara debuts in chapter 370, Unease, in 2007.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha",
+      "giveawayOk": true
+    },
+    {
+      "id": "madara-uchiha-10",
+      "q": "Who stabs Madara late in the war and takes control of his body?",
+      "options": ["Obito Uchiha", "Kabuto Yakushi", "Black Zetsu", "Itachi Uchiha"],
+      "answer": 2,
+      "why": "Black Zetsu betrays him, taking over his body before Kaguya takes his place.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Madara_Uchiha"
+    }
+  ]
+}

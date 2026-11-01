@@ -1,0 +1,111 @@
+{
+  "character": "green-lantern-hal-jordan",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "green-lantern-hal-jordan-01",
+      "q": "In which year did Hal Jordan first appear as Green Lantern, in Showcase #22?",
+      "options": ["1961", "1956", "1963", "1959"],
+      "answer": 3,
+      "why": "Hal Jordan debuted in Showcase #22, cover-dated October 1959, as a modern reinvention of the Golden Age Green Lantern.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-02",
+      "q": "Which writer and artist created Hal Jordan?",
+      "options": [
+        "Gardner Fox and Joe Kubert",
+        "Robert Kanigher and Carmine Infantino",
+        "John Broome and Gil Kane",
+        "Dennis O'Neil and Neal Adams"
+      ],
+      "answer": 2,
+      "why": "John Broome wrote and Gil Kane drew Hal in 1959, at editor Julius Schwartz's request.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-03",
+      "q": "What is Hal Jordan's day job in his civilian life?",
+      "options": ["Police officer", "Race car driver", "Test pilot", "Air traffic controller"],
+      "answer": 2,
+      "why": "Hal is a former fighter pilot who works as a test pilot for Ferris Aircraft.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-04",
+      "q": "What does Hal Jordan's power ring turn into energy constructs?",
+      "options": ["Fear and anger", "Hope", "Willpower", "Rage"],
+      "answer": 2,
+      "why": "The Green Lantern ring channels willpower into glowing constructs, and Hal is known for his exceptional willpower.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-05",
+      "q": "Which woman is Hal's on-again, off-again love interest, who has sometimes become Star Sapphire?",
+      "options": ["Iris West", "Carol Ferris", "Lois Lane", "Jessica Cruz"],
+      "answer": 1,
+      "why": "Carol Ferris, who is connected to Ferris Aircraft, has been his main love interest and at times his enemy as Star Sapphire.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-06",
+      "q": "Which Hollywood actor was the artist's visual inspiration for Hal Jordan?",
+      "options": ["Steve McQueen", "Robert Redford", "Cary Grant", "Paul Newman"],
+      "answer": 3,
+      "why": "Kane drew Hal with the looks of Paul Newman, unlike the folklore-inspired Alan Scott.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-07",
+      "q": "Which alien tyrant destroyed Coast City in 1993, pushing Hal toward becoming Parallax?",
+      "options": ["Sinestro", "Mongul", "Darkseid", "Brainiac"],
+      "answer": 1,
+      "why": "During Reign of the Supermen, Mongul destroyed Hal's hometown, and the loss led to Hal's turn as Parallax.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-08",
+      "q": "In the 1999 miniseries Day of Judgment, Hal Jordan becomes the newest incarnation of which cosmic being?",
+      "options": ["Doctor Fate", "Phantom Stranger", "The Spectre", "Deadman"],
+      "answer": 2,
+      "why": "After his turn as Parallax, Hal became the Spectre, an agent of God's wrath, in Day of Judgment.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-09",
+      "q": "Who played Hal Jordan in the 2011 film Green Lantern?",
+      "options": ["Nathan Fillion", "Josh Keaton", "Kyle Chandler", "Ryan Reynolds"],
+      "answer": 3,
+      "why": "Ryan Reynolds starred as the test pilot in Martin Campbell's film, the character's cinematic debut.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    },
+    {
+      "id": "green-lantern-hal-jordan-10",
+      "q": "Which actor voices Hal Jordan in Justice League: Doom and Green Lantern: Emerald Knights?",
+      "options": ["Josh Keaton", "Jonah Hill", "Michael Rye", "Nathan Fillion"],
+      "answer": 3,
+      "why": "Nathan Fillion voiced Hal in several DC animated films, including Emerald Knights and Justice League: Doom.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hal_Jordan"
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "character": "grand-master-robo",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "grand-master-robo-01",
+      "q": "Which worldwide terror network does Grand Master Robo lead?",
+      "options": ["The Robo Army", "The Robo Brigade", "The Robo Syndicate", "The Robo Legion"],
+      "answer": 0,
+      "why": "He leads the Robo Army, a global terrorist organisation.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies",
+      "giveawayOk": true
+    },
+    {
+      "id": "grand-master-robo-02",
+      "q": "Which character is Grand Master Robo's daughter?",
+      "options": ["Chandika", "Natasha", "Black Cat", "Renu"],
+      "answer": 1,
+      "why": "Natasha, Dhruva's love interest, is the daughter of his arch-enemy.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "grand-master-robo-03",
+      "q": "Which side of Grand Master Robo's body is metallic?",
+      "options": ["His right half", "His upper half", "His left half", "His lower half"],
+      "answer": 2,
+      "why": "His left half is mechanical.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies"
+    },
+    {
+      "id": "grand-master-robo-04",
+      "q": "What is fitted into one of Grand Master Robo's eyes?",
+      "options": ["A camera", "A telescope", "A scanner", "A laser"],
+      "answer": 3,
+      "why": "A laser eye is built into his left eye.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies"
+    },
+    {
+      "id": "grand-master-robo-05",
+      "q": "Who created the hero whose arch-enemy is Grand Master Robo?",
+      "options": ["Anupam Sinha", "Sanjay Gupta", "Manoj Gupta", "Tarun Kumar Wahi"],
+      "answer": 0,
+      "why": "Anupam Sinha created Dhruva and the Robo storyline.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva"
+    },
+    {
+      "id": "grand-master-robo-06",
+      "q": "In Maut Ka Olympic, what did the winning criminal earn?",
+      "options": [
+        "A seat on the games committee",
+        "The right to execute Dhruva",
+        "A million-rupee reward",
+        "Control of Rajnagar"
+      ],
+      "answer": 1,
+      "why": "The crime Olympics offered the winner the right to kill the hero.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies"
+    },
+    {
+      "id": "grand-master-robo-07",
+      "q": "Grand Master Robo is the arch-enemy of which hero?",
+      "options": ["Nagraj, the Snake King", "Doga", "Super Commando Dhruva", "Parmanu"],
+      "answer": 2,
+      "why": "He is Dhruva's most famous recurring enemy.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies"
+    },
+    {
+      "id": "grand-master-robo-08",
+      "q": "In which city does the crime Olympics of Maut Ka Olympic take place?",
+      "options": ["Mumbai", "Delhi", "Swarna Nagri", "Rajnagar"],
+      "answer": 3,
+      "why": "The criminal games were staged in Dhruva's home city of Rajnagar.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies"
+    }
+  ]
+}

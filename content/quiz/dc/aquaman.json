@@ -1,0 +1,116 @@
+{
+  "character": "aquaman",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "aquaman-01",
+      "q": "Aquaman first appeared in 1941 in which DC anthology comic?",
+      "options": ["Adventure Comics", "More Fun Comics", "Detective Comics", "Flash Comics"],
+      "answer": 1,
+      "why": "More Fun Comics #73, dated November 1941, was Aquaman's first outing; he transferred to Adventure Comics in 1946.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-02",
+      "q": "Which writer and artist pair created Aquaman?",
+      "options": [
+        "Bob Kane and Bill Finger",
+        "Jerry Siegel and Joe Shuster",
+        "Mort Weisinger and Paul Norris",
+        "Gardner Fox and Harry Lampert"
+      ],
+      "answer": 2,
+      "why": "Editor-writer Mort Weisinger and artist Paul Norris came up with the sea-dwelling hero for More Fun Comics.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-03",
+      "q": "Who played Arthur Curry in the 2018 film Aquaman?",
+      "options": ["Alan Ritchson", "Ben Affleck", "Henry Cavill", "Jason Momoa"],
+      "answer": 3,
+      "why": "Jason Momoa plays Aquaman in the DC Extended Universe films, including the 2018 solo movie.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-04",
+      "q": "In Aquaman's Silver Age comic origin, what is his human father Tom Curry's job?",
+      "options": ["Marine biologist", "Lighthouse keeper", "Deep-sea diver", "Ferry captain"],
+      "answer": 1,
+      "why": "Arthur Curry's father is Tom Curry, a lighthouse keeper, and his mother Atlanna is an Atlantean outcast who breathes underwater.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-05",
+      "q": "In which year (cover date) did Aquaman marry Mera in Aquaman #18?",
+      "options": ["1964", "1966", "1952", "1962"],
+      "answer": 0,
+      "why": "Aquaman #18 (December 1964) stages Arthur's wedding to Mera, queen of a dimension made of water.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-06",
+      "q": "Which villain is generally called Aquaman's archenemy in the comics?",
+      "options": ["Black Hand", "Black Mask", "Black Adam", "Black Manta"],
+      "answer": 3,
+      "why": "Black Manta, who debuted in the 1960s Aquaman series, is described as the hero's archenemy.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-07",
+      "q": "In the Silver Age comics, what is the birth name of Aquaman's half-brother, who becomes the villain Ocean Master?",
+      "options": ["Orin", "Garth", "Vulko", "Orm"],
+      "answer": 3,
+      "why": "Orm Curry, Tom Curry's son from a later marriage, grows to resent Arthur and returns as the Ocean Master.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-08",
+      "q": "After Aquaman lost his hand in the comics, what did he first replace it with?",
+      "options": ["A retractable hook", "A harpoon point", "A trident head", "A cybernetic claw"],
+      "answer": 1,
+      "why": "He began with a simple harpoon point; a cyber-hook that retracts and further prosthetics followed.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-09",
+      "q": "In what year did Aquaman first appear in animation?",
+      "options": ["1964", "1973", "1967", "1963"],
+      "answer": 2,
+      "why": "The 1967 Superman/Aquaman Hour of Adventure marked his animated debut, and Super Friends followed in the 1970s.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    },
+    {
+      "id": "aquaman-10",
+      "q": "In which film did the star of 2018's Aquaman first play Arthur Curry on the big screen?",
+      "options": [
+        "Justice League (2017)",
+        "Suicide Squad: Extended Cut (2016)",
+        "Man of Steel (2013)",
+        "Batman v Superman (2016)"
+      ],
+      "answer": 3,
+      "why": "Momoa's Arthur Curry cameoed in Batman v Superman in 2016, before Justice League (2017) and his own 2018 film.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Aquaman"
+    }
+  ]
+}

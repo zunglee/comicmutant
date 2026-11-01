@@ -8,6 +8,8 @@ export function loader({ request }: { request: Request }) {
     '/originals',
     '/arena',
     '/freefall',
+    '/quiz',
+    '/quiz/leaders',
     '/versus',
     '/rumours',
     '/themes',

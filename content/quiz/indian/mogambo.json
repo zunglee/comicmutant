@@ -1,0 +1,122 @@
+{
+  "character": "mogambo",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "mogambo-01",
+      "q": "Which actor played Mogambo in the 1987 superhero comedy?",
+      "options": ["Amrish Puri", "Prem Chopra", "Amjad Khan", "Pran"],
+      "answer": 0,
+      "why": "Amrish Puri's Mogambo became his most iconic and cult role.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-02",
+      "q": "Mogambo is the villain of which 1987 film?",
+      "options": ["Mard", "Mr. India", "Shaan", "Tezaab"],
+      "answer": 1,
+      "why": "Mogambo is the megalomaniacal villain in Shekhar Kapur's Mr. India.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-03",
+      "q": "Which line became Mogambo's famous catchphrase?",
+      "options": [
+        "Mogambo gussa hua",
+        "Mogambo jeet gaya",
+        "Mogambo khush hua",
+        "Mogambo zinda hai"
+      ],
+      "answer": 2,
+      "why": "'Mogambo khush hua' (Mogambo is pleased) is the villain's signature line, credited to Javed Akhtar.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+      "giveawayOk": true
+    },
+    {
+      "id": "mogambo-04",
+      "q": "Where is Mogambo's high-tech lair located?",
+      "options": ["On a secret island", "In a Himalayan fortress", "Under Mumbai", "On a ship"],
+      "answer": 0,
+      "why": "He rules from a secret island base with missiles and acid tanks.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-05",
+      "q": "What is Mogambo's background according to the character's page?",
+      "options": [
+        "A former spy",
+        "A retired army general",
+        "A bankrupt industrialist",
+        "A mad scientist"
+      ],
+      "answer": 1,
+      "why": "He is an eccentric retired general turned dictator who wants to conquer India.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-06",
+      "q": "Which actor was considered for Mogambo but turned it down?",
+      "options": ["Gulshan Grover", "Shakti Kapoor", "Anupam Kher", "Ranjeet"],
+      "answer": 2,
+      "why": "Anupam Kher declined the part, and Amrish Puri was cast after much of the film was shot.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-07",
+      "q": "Roughly how much of the film had been shot when the actor was cast as Mogambo?",
+      "options": ["About 20 percent", "About 40 percent", "Nearly all of it", "Over 60 percent"],
+      "answer": 3,
+      "why": "Puri joined late: more than 60 percent of the film was already in the can.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-08",
+      "q": "How did Shekhar Kapur want the actor to play Mogambo?",
+      "options": [
+        "Comic-book flamboyant, not frightening",
+        "Grounded and realistic, like a mobster",
+        "Silent and menacing",
+        "Tragic and sympathetic"
+      ],
+      "answer": 0,
+      "why": "Puri recalled that Kapur wanted a larger-than-life baddie that children could enjoy rather than fear.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-09",
+      "q": "Which writer, in tandem with Salim, created Mogambo?",
+      "options": ["Gulzar", "Javed Akhtar", "Kader Khan", "Sagar Sarhadi"],
+      "answer": 1,
+      "why": "The Salim-Javed duo wrote Mr. India and created Mogambo.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    },
+    {
+      "id": "mogambo-10",
+      "q": "How much was the actor reportedly paid for Mogambo, making him the era's costliest villain?",
+      "options": ["Rs 10 lakh", "Rs 25 lakh", "Rs 50 lakh", "Rs 1 crore"],
+      "answer": 3,
+      "why": "He reportedly earned Rs 1 crore, the highest pay for a screen villain at the time.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)"
+    }
+  ]
+}

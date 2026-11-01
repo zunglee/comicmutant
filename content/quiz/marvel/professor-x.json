@@ -1,0 +1,107 @@
+{
+  "character": "professor-x",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "professor-x-01",
+      "q": "What is Professor X's primary mutant power?",
+      "options": ["Telekinesis", "Precognition", "Probability manipulation", "Telepathy"],
+      "answer": 3,
+      "why": "Xavier is one of the world's most powerful telepaths, able to read and control minds.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-02",
+      "q": "Who played the older Professor X in the X-Men films beginning in 2000?",
+      "options": ["Patrick Stewart", "James McAvoy", "Ian McKellen", "Hugh Jackman"],
+      "answer": 0,
+      "why": "Patrick Stewart played the older Xavier, with James McAvoy playing him in the younger prequel era.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-03",
+      "q": "What device does Professor X use to detect and locate mutants?",
+      "options": ["The Danger Room", "Cerebro", "The Blackbird", "Sentinel Core"],
+      "answer": 1,
+      "why": "Xavier designed Cerebro to amplify his mind and find people carrying the mutant gene.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-04",
+      "q": "Which hero was a member of the original X-Men and codenamed Marvel Girl?",
+      "options": ["Storm", "Rogue", "Jean Grey", "Emma Frost"],
+      "answer": 2,
+      "why": "Jean Grey, the only girl in the first X-Men lineup, took the name Marvel Girl.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-05",
+      "q": "In which county of New York is Xavier's School for Gifted Youngsters located, in Salem Center?",
+      "options": ["Nassau County", "Suffolk County", "Rockland County", "Westchester County"],
+      "answer": 3,
+      "why": "The school and X-Mansion sit in Salem Center, which is in Westchester County, New York.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Professor_X",
+      "giveawayOk": true
+    },
+    {
+      "id": "professor-x-06",
+      "q": "Professor X's son David Haller grows up to become which mutant?",
+      "options": ["Legion", "Bishop", "Cable", "Proteus"],
+      "answer": 0,
+      "why": "David, the child of Charles and Gabrielle Haller, became the powerful and unstable mutant Legion.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-07",
+      "q": "Who co-created Professor X with artist Jack Kirby?",
+      "options": ["Steve Ditko", "Stan Lee", "Chris Claremont", "Len Wein"],
+      "answer": 1,
+      "why": "Stan Lee wrote The X-Men #1 and created Xavier with Kirby in 1963.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-08",
+      "q": "In his original comics backstory, which alien scout dropped a stone block that paralyzed Xavier's legs?",
+      "options": ["Cassandra Nova", "Shadow King", "Lucifer", "Mojo"],
+      "answer": 2,
+      "why": "Lucifer dropped a block of stone on Xavier near the Himalayas, which paralysed him.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-09",
+      "q": "In which city did Charles Xavier and Erik Lehnsherr first meet in the comics?",
+      "options": ["Jerusalem", "Tel Aviv", "Cairo", "Haifa"],
+      "answer": 3,
+      "why": "Xavier and Magneto met in Haifa, Israel, and became friends before their ideals pulled them apart.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    },
+    {
+      "id": "professor-x-10",
+      "q": "Xavier formed a psychic bond with which alien princess, later becoming her consort?",
+      "options": ["Lilandra Neramani", "Cal'syee Neramani", "Hepzibah", "Gamora"],
+      "answer": 0,
+      "why": "Lilandra of the Shi'ar empire fell for Xavier and he later became her consort.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Professor_X"
+    }
+  ]
+}

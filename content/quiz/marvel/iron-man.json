@@ -1,0 +1,111 @@
+{
+  "character": "iron-man",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "iron-man-01",
+      "q": "Which actor first played Tony in 2008's Iron Man?",
+      "options": ["Mark Ruffalo", "Chris Pratt", "Jeremy Renner", "Robert Downey Jr."],
+      "answer": 3,
+      "why": "Robert Downey Jr. played Tony Stark in the first MCU film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-02",
+      "q": "Which weapons manufacturing company does Tony run?",
+      "options": ["Oscorp", "Roxxon Energy", "Stark Industries", "Pym Technologies"],
+      "answer": 2,
+      "why": "Stark Industries was his weapons company, later Stark International.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-03",
+      "q": "Which executive assistant eventually becomes CEO of Tony's firm?",
+      "options": ["Maria Hill", "Pepper Potts", "Betty Brant", "Jan van Dyne"],
+      "answer": 1,
+      "why": "Pepper Potts rose from assistant to CEO.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-04",
+      "q": "In the original 1963 comics, in which war is Tony wounded and captured?",
+      "options": ["The Vietnam War", "The Korean War", "The Gulf War", "World War II"],
+      "answer": 0,
+      "why": "The original setting was the Vietnam War.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-05",
+      "q": "What does Tony install to treat the heart injury an explosion gives his assistant?",
+      "options": [
+        "Vibranium implants",
+        "Pym particles",
+        "Arc reactor technology",
+        "Extremis serum"
+      ],
+      "answer": 2,
+      "why": "After a blast hurt her heart as his had been hurt, he fitted her with arc reactor tech.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-06",
+      "q": "Which recurring nemesis of Iron Man first appeared in Tales of Suspense #50 (1964)?",
+      "options": ["Whiplash", "Crimson Dynamo", "The Mandarin", "Titanium Man"],
+      "answer": 2,
+      "why": "The Mandarin debuted in Tales of Suspense #50.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-07",
+      "q": "James Rhodes briefly replaced Tony in the armor, then adopted which armored name?",
+      "options": ["Silver Centurion", "War Machine", "Ironclad", "Titanium Man"],
+      "answer": 1,
+      "why": "James Rhodes became War Machine.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-08",
+      "q": "Which business rival of Tony becomes the Iron Monger?",
+      "options": ["Obadiah Stane", "Wilson Fisk", "Norman Osborn", "Warren Worthington"],
+      "answer": 0,
+      "why": "Obadiah Stane became the Iron Monger.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-09",
+      "q": "Which 1979 Iron Man storyline dealt with Tony's struggle with alcoholism?",
+      "options": ["The Armor Wars saga", "Extremis", "Civil War", "Demon in a Bottle"],
+      "answer": 3,
+      "why": "Demon in a Bottle (1979) made Stark an alcoholic.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    },
+    {
+      "id": "iron-man-10",
+      "q": "In 1987-88's 'Armor Wars,' which arms dealer sells Tony's tech to villains?",
+      "options": ["Obadiah Stane", "Howard Stark", "Justin Hammer", "Wilson Fisk"],
+      "answer": 2,
+      "why": "Justin Hammer distributed Iron Man's armor technology.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Iron_Man"
+    }
+  ]
+}

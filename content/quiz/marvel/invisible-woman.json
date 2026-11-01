@@ -1,0 +1,127 @@
+{
+  "character": "invisible-woman",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "invisible-woman-01",
+      "q": "Which Fantastic Four member is Sue's younger brother?",
+      "options": ["Ben", "Johnny", "Reed", "Namor"],
+      "answer": 1,
+      "why": "Johnny is Sue's hot-headed younger brother, the Human Torch.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-02",
+      "q": "Besides turning invisible, what is Sue best known for projecting?",
+      "options": ["Fire", "Force fields", "Lightning", "Sonic screams"],
+      "answer": 1,
+      "why": "Her core powers are invisibility and invisible force fields.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-03",
+      "q": "Which actress played Sue Storm in the 2005 Fantastic Four film?",
+      "options": ["Jessica Alba", "Kate Mara", "Vanessa Kirby", "Jessica Biel"],
+      "answer": 0,
+      "why": "Jessica Alba played Sue in the 2005 film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-04",
+      "q": "Which two children do Sue Storm and Mister Fantastic have?",
+      "options": [
+        "Franklin and Nathaniel",
+        "Alex and Valeria",
+        "Reed Jr. and Susan",
+        "Franklin and Valeria"
+      ],
+      "answer": 3,
+      "why": "Sue and Reed's children are Franklin and Valeria Richards.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-05",
+      "q": "Which duo created Sue Storm?",
+      "options": [
+        "Stan Lee and Steve Ditko",
+        "Stan Lee and Don Heck",
+        "Stan Lee and Jack Kirby",
+        "Jack Kirby and Joe Simon"
+      ],
+      "answer": 2,
+      "why": "Stan Lee and Jack Kirby created her in Fantastic Four #1.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-06",
+      "q": "Sue's power was inspired by which 1933 film?",
+      "options": [
+        "The Invisible Man Returns",
+        "The Invisible Man",
+        "The Invisible Agent",
+        "The Invisible Ray"
+      ],
+      "answer": 1,
+      "why": "Stan Lee was inspired by The Invisible Man (1933).",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman",
+      "giveawayOk": true
+    },
+    {
+      "id": "invisible-woman-07",
+      "q": "After a stillbirth, which villain manipulated Sue into becoming Malice?",
+      "options": ["Psycho-Man", "Doctor Doom", "Mole Man", "Mad Thinker"],
+      "answer": 0,
+      "why": "Psycho-Man manipulated Sue into becoming Malice.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-08",
+      "q": "Which sea-king was attracted to Sue, forming a love triangle with Reed?",
+      "options": ["Attuma", "Triton", "Black Bolt", "Namor"],
+      "answer": 3,
+      "why": "Sue was attracted to Namor, forming Marvel's first love triangle.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-09",
+      "q": "Sue Storm is described as Marvel's first female superhero of which comics age?",
+      "options": ["The Golden Age", "The Bronze Age", "The Silver Age", "The Modern Age"],
+      "answer": 2,
+      "why": "She is called the first female superhero Marvel published in the Silver Age.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    },
+    {
+      "id": "invisible-woman-10",
+      "q": "In which issue does Sue change her codename to Invisible Woman?",
+      "options": [
+        "Fantastic Four #200",
+        "Fantastic Four #284",
+        "Fantastic Four #250",
+        "Fantastic Four #300"
+      ],
+      "answer": 1,
+      "why": "She changed her codename to Invisible Woman in Fantastic Four #284.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Invisible_Woman"
+    }
+  ]
+}

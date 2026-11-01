@@ -1,0 +1,121 @@
+{
+  "character": "hellboy",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "hellboy-01",
+      "q": "Who created Hellboy?",
+      "options": ["Mike Mignola", "Frank Miller", "Todd McFarlane", "Jeff Smith"],
+      "answer": 0,
+      "why": "Mike Mignola wrote and drew Hellboy, which Dark Horse Comics publishes.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-02",
+      "q": "Hellboy's signature Right Hand of Doom is made of what material?",
+      "options": ["Iron", "Stone", "Crystal", "Bone"],
+      "answer": 1,
+      "why": "His right hand is a huge stone fist, and he files down his horns.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-03",
+      "q": "Which organisation does Hellboy work for?",
+      "options": [
+        "Department of Extranormal Operations and Defense",
+        "Division of Occult Investigations",
+        "Bureau for Paranormal Research and Defense",
+        "Agency of Supernatural Affairs"
+      ],
+      "answer": 2,
+      "why": "The B.P.R.D. employs Hellboy alongside Abe Sapien and Liz Sherman.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-04",
+      "q": "Which professor was the B.P.R.D.'s first director and Hellboy's adoptive father?",
+      "options": ["Trevor Bruttenholm", "Tom Manning", "Kate Corrigan", "Johann Kraus"],
+      "answer": 0,
+      "why": "Bruttenholm named the infant and formally adopted him in March 1946.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-05",
+      "q": "Which 1994 Dark Horse miniseries launched Hellboy's own series?",
+      "options": ["Wake the Devil", "Seed of Destruction", "The Chained Coffin", "The Wild Hunt"],
+      "answer": 1,
+      "why": "Mignola and John Byrne made Seed of Destruction from March to June 1994.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-06",
+      "q": "What is Hellboy's oversized revolver called in the 2004 and 2008 films?",
+      "options": ["The Samaritan", "The Peacemaker", "The Exorcist", "The Judge"],
+      "answer": 0,
+      "why": "The Samaritan is the name of his oversized revolver in the del Toro films.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-07",
+      "q": "Who directed the 2004 Hellboy film and its 2008 sequel?",
+      "options": [
+        "Neil Marshall",
+        "Alejandro González Iñárritu",
+        "Guillermo del Toro",
+        "Peter Jackson"
+      ],
+      "answer": 2,
+      "why": "Del Toro directed Hellboy and The Golden Army; the 2019 reboot had a different filmmaker.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-08",
+      "q": "Which subtitle belongs to the 2024 live-action Hellboy film?",
+      "options": ["The Crooked Man", "The Golden Army", "The Wild Hunt", "The Chained Coffin"],
+      "answer": 0,
+      "why": "The Crooked Man is the 2024 live-action Hellboy film.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-09",
+      "q": "When did the B.P.R.D.'s founding director formally adopt Hellboy?",
+      "options": ["June 1944", "March 1946", "December 1944", "January 1950"],
+      "answer": 1,
+      "why": "The professor named the infant Hellboy and formally adopted him in March 1946.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    },
+    {
+      "id": "hellboy-10",
+      "q": "Hellboy's true name, Anung Un Rama, Urush An Rama, translates as what?",
+      "options": [
+        "King of Hell, Lord of Fire",
+        "Devourer of Souls, Herald of the Final Doom",
+        "Destroyer of Worlds, Creator of Worlds",
+        "Bringer of Dawn, Keeper of Flame"
+      ],
+      "answer": 2,
+      "why": "The full name is rendered as Destroyer of Worlds, Creator of Worlds.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    }
+  ]
+}

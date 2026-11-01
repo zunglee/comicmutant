@@ -1,0 +1,111 @@
+{
+  "character": "shibu",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "shibu-01",
+      "q": "Which actor plays the villain Shibu in the 2021 Malayalam superhero film?",
+      "options": ["Guru Somasundaram", "Tovino Thomas", "Fahadh Faasil", "Vijay Sethupathi"],
+      "answer": 0,
+      "why": "Tamil actor Guru Somasundaram plays Shibu, a social outcast.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-02",
+      "q": "What is Shibu's job at the start of the film?",
+      "options": [
+        "He is a tailor",
+        "He works at a teashop",
+        "He is a bus conductor",
+        "He is a fisherman"
+      ],
+      "answer": 1,
+      "why": "Shibu is an outcast who works at a teashop in the village.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-03",
+      "q": "Which woman has Shibu loved since childhood?",
+      "options": ["Biji", "Jesmi", "Usha", "Bincy"],
+      "answer": 2,
+      "why": "His obsession with childhood love Usha drives his path to tragedy.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-04",
+      "q": "Which actress plays the woman Shibu has loved since childhood?",
+      "options": ["Femina George", "Arya Salim", "Sneha Babu", "Shelly Kishore"],
+      "answer": 3,
+      "why": "Shelly Kishore plays Usha, with Vyshnavi Narayan as the young Usha.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-05",
+      "q": "Who dies when Shibu burns down the tailor shop in anger?",
+      "options": ["Daasan", "Josemon", "Siby Pothan", "Biji"],
+      "answer": 0,
+      "why": "Usha's brother Daasan dies in the fire Shibu sets after he opposes the relationship.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-06",
+      "q": "How does Shibu avoid blame for the shop fire?",
+      "options": [
+        "He blames a short circuit in the wiring",
+        "He frames Minnal Murali for it",
+        "He blames Daasan",
+        "He leaves the village"
+      ],
+      "answer": 1,
+      "why": "Shibu poses as the fake Minnal Murali and frames the hero for the crime.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-07",
+      "q": "Why does Shibu rob a bank after getting his powers?",
+      "options": [
+        "To buy a house",
+        "To repay a debt",
+        "To pay for surgery for Usha's daughter",
+        "To bail out his friend from a loan shark"
+      ],
+      "answer": 2,
+      "why": "He wants the money for the surgery, not knowing it has already been paid for.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-08",
+      "q": "Where do Shibu and Jaison fight, leaving a vehicle hanging over a cliff?",
+      "options": ["On a boat", "On a train", "On a truck", "On a bus"],
+      "answer": 3,
+      "why": "Their bus fight ends with the vehicle dangling over a cliff until Jaison saves it.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "shibu-09",
+      "q": "Where does Jaison confront Shibu for the final fight?",
+      "options": ["A church", "A teashop", "A tailor shop", "A bus stand"],
+      "answer": 0,
+      "why": "Shibu terrorises a church congregation, and Jaison defeats him there.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    }
+  ]
+}

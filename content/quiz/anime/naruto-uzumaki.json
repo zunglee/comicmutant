@@ -1,0 +1,106 @@
+{
+  "character": "naruto-uzumaki",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "naruto-uzumaki-01",
+      "q": "Which Tailed Beast is sealed inside Naruto?",
+      "options": ["Gyuki", "Shukaku", "Matatabi", "Kurama"],
+      "answer": 3,
+      "why": "Kurama, the Nine-Tailed Fox, is sealed inside him.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-02",
+      "q": "Who leads Team 7?",
+      "options": ["Asuma Sarutobi", "Might Guy", "Kakashi Hatake", "Kurenai Yuhi"],
+      "answer": 2,
+      "why": "Kakashi is Team 7's leader, and the team includes Naruto, Sasuke and Sakura.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-03",
+      "q": "Which village leader title does Naruto dream of earning?",
+      "options": ["Raikage", "Hokage", "Mizukage", "Kazekage"],
+      "answer": 1,
+      "why": "Naruto becomes the Seventh Hokage by the end of the story.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-04",
+      "q": "Naruto learns the Rasengan while traveling with which mentor?",
+      "options": ["Kakashi Hatake", "Iruka Umino", "Might Guy", "Jiraiya"],
+      "answer": 3,
+      "why": "Jiraiya teaches him the Rasengan during their journey.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-05",
+      "q": "Which Leaf Village leader was Naruto's father?",
+      "options": ["Minato Namikaze", "Hashirama Senju", "Tobirama Senju", "Hiruzen Sarutobi"],
+      "answer": 0,
+      "why": "Minato, the Fourth Hokage, is Naruto's father.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-06",
+      "q": "In what year did the Naruto series begin in Weekly Shōnen Jump?",
+      "options": ["1988", "1987", "1999", "1997"],
+      "answer": 2,
+      "why": "Chapter 1 began in 1999.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Naruto"
+    },
+    {
+      "id": "naruto-uzumaki-07",
+      "q": "Which studio produced the Naruto TV anime?",
+      "options": ["Bones", "Madhouse", "Pierrot", "Sunrise"],
+      "answer": 2,
+      "why": "Pierrot produced it with Aniplex, and it premiered in 2002.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-08",
+      "q": "In what magazine did the Naruto one-shot appear in 1997?",
+      "options": ["Jump Square", "Akamaru Jump", "V Jump", "Saikyo Jump"],
+      "answer": 1,
+      "why": "The one-shot appeared in the summer 1997 issue of Akamaru Jump.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-09",
+      "q": "Who voices Naruto in Japanese?",
+      "options": ["Mayumi Tanaka", "Masako Nozawa", "Junko Takeuchi", "Rie Kugimiya"],
+      "answer": 2,
+      "why": "Junko Takeuchi voices Naruto in Japanese and Maile Flanagan in English.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    },
+    {
+      "id": "naruto-uzumaki-10",
+      "q": "An early one-shot idea that never made it to print had Naruto working as what?",
+      "options": ["A teacher", "A fisherman", "A doctor", "A chef"],
+      "answer": 3,
+      "why": "Kishimoto once planned a one-shot starring Naruto as a chef, but that version was never printed.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Naruto_Uzumaki"
+    }
+  ]
+}

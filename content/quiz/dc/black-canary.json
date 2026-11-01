@@ -1,0 +1,117 @@
+{
+  "character": "black-canary",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "black-canary-01",
+      "q": "In which year did the original Black Canary, Dinah Drake, debut in Flash Comics #86?",
+      "options": ["1947", "1944", "1941", "1950"],
+      "answer": 0,
+      "why": "Flash Comics #86 (August 1947) introduced Dinah Drake during comics' Golden Age.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-02",
+      "q": "Which writer and artist created the original Black Canary?",
+      "options": [
+        "Gardner Fox and Joe Kubert",
+        "John Broome and Gil Kane",
+        "Robert Kanigher and Carmine Infantino",
+        "Dennis O'Neil and Dick Dillin"
+      ],
+      "answer": 2,
+      "why": "Writer Robert Kanigher and artist Carmine Infantino created her; O'Neil and Dillin later created her daughter Dinah Laurel.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-03",
+      "q": "Dinah Laurel Lance, the second Black Canary, first appeared in which comic?",
+      "options": [
+        "Flash Comics #86",
+        "Birds of Prey #1",
+        "Justice League of America #75",
+        "Green Lantern #76"
+      ],
+      "answer": 2,
+      "why": "Dennis O'Neil and Dick Dillin introduced Dinah Laurel in Justice League of America #75, published November 1969.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-04",
+      "q": "What is the name of the sonic power that Dinah Laurel Lance unleashes by screaming?",
+      "options": ["Canary Wail", "Canary Surge", "Canary Call", "Canary Cry"],
+      "answer": 3,
+      "why": "Her Canary Cry is an ultrasonic scream that can shatter objects, and she can also use it to glide by screaming downwards.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary",
+      "giveawayOk": true
+    },
+    {
+      "id": "black-canary-05",
+      "q": "Which archer is Black Canary's long-time romantic partner in the comics?",
+      "options": ["Hawkman", "Nightwing", "Green Arrow", "The Atom"],
+      "answer": 2,
+      "why": "Dinah Laurel meets Oliver Queen, Green Arrow, in the Justice League, and the two become a couple despite their age difference.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-06",
+      "q": "In the comics' Birds of Prey, Black Canary works with Barbara Gordon under which hacker alias?",
+      "options": ["Spoiler", "Oracle", "Huntress", "Batgirl"],
+      "answer": 1,
+      "why": "After the Joker's attack, Barbara became Oracle, an info broker; she and Black Canary became close friends and Birds of Prey partners.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-07",
+      "q": "Who played Dinah Lance in the 2020 DC film Birds of Prey?",
+      "options": ["Mary Elizabeth Winstead", "Margot Robbie", "Rosie Perez", "Jurnee Smollett"],
+      "answer": 3,
+      "why": "Jurnee Smollett played Dinah Lance, giving the character her big-screen debut in the DC Extended Universe.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-08",
+      "q": "Which actress played Laurel Lance in the CW's 2012 vigilante-archer series?",
+      "options": ["Caity Lotz", "Alaina Huffman", "Alex Kingston", "Katie Cassidy"],
+      "answer": 3,
+      "why": "Katie Cassidy played Laurel Lance on Arrow, with Caity Lotz as her sister Sara Lance.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-09",
+      "q": "What was Dinah Drake's civilian job in her Golden Age Black Canary feature?",
+      "options": ["Nurse", "Newspaper reporter", "Librarian", "Florist"],
+      "answer": 3,
+      "why": "In Flash Comics, Dinah Drake ran a flower shop and was in love with Gotham police detective Larry Lance.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    },
+    {
+      "id": "black-canary-10",
+      "q": "In the 2024 comic series Black Canary: Best of the Best, she battles which rival for the title of top martial artist?",
+      "options": ["Cheshire", "Talia al Ghul", "Catman", "Lady Shiva"],
+      "answer": 3,
+      "why": "The solo series pits Black Canary against Lady Shiva, a deadly martial artist, in a fight over who is the world's best.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Black_Canary"
+    }
+  ]
+}

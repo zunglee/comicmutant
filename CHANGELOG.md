@@ -96,3 +96,26 @@ Fifteen critic rounds (6 → 7 → 8). What changed on the way:
 - 4 hearts, every third person caught heals, rubble kept clear of slabs; ranked daily needs an
   account at the start; owner-bound run tokens; `pnpm admin:create` fixed.
 
+
+## 0.5.0 — 2026-11-01
+
+**Fact Frenzy** (`/quiz`), built as the first Master-Batman run. Batman (Opus) split the work and
+assigned a model to each piece: 6 Sonnet researchers, an Opus core, 2 Sonnet UI builders, a Haiku
+mechanic and a Sonnet content fixer. A fresh Opus critic reviewed each of 8 rounds, and Master-Alfred
+(Opus) scored the workers blind against Batman's scores (`reports/batman-ledger.md`).
+
+- 1,080 web-researched questions, 10 per character on average across all 108 published characters
+  (`content/quiz/`). Each is in our own words with a source URL, and `scripts/validate-quiz.ts --strict`
+  checks give-aways, sibling leaks, numeric spread and copied runs. It runs at prebuild.
+- The server keeps the answers. The clock starts when you ask for the question (`/api/quiz/next`), there
+  are per-player option shuffles, one daily lane plus one other lane, resume on reload, and error codes.
+- The daily challenge is the same 10 for everyone. A wrong answer stays locked until midnight IST, then
+  Yesterday's answers shows it. Guest and repeat dailies are blind practice.
+- Boards: today's daily, the best game per universe (all-time and week), and Facts known (first try).
+  Ties share a rank. A name in a top place waits for a mod look: per game on the daily podium, and a
+  ×1.1 per-board cap elsewhere. Pace holds and near-floor flags gate a game; scouting signals (strong or
+  weak) inform the mod.
+- Personal analytics on `/quiz/me`. Mod trust and held queues, reported-fact retire and restore, and
+  site analytics on `/mod/quiz`.
+- Comic-style animation (slam-in cards, verdict banners, streak flame, combo), reduced-motion support,
+  keyboard play 1–4 / A–D, a PNG share card. Phone-first.

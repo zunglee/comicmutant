@@ -1,0 +1,108 @@
+{
+  "character": "judge-dredd",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "judge-dredd-01",
+      "q": "What is Judge Dredd's signature handgun called?",
+      "options": ["Lawgiver", "Lawkeeper", "Judgebolt", "Peacemaker"],
+      "answer": 0,
+      "why": "The Lawgiver fires only for its owner's palm print.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-02",
+      "q": "Judge Dredd patrols which sprawling metropolis of the future?",
+      "options": ["Mega-City Two", "Mega-City One", "Brit-Cit", "Texas City"],
+      "answer": 1,
+      "why": "Mega-City One sprawls along the east coast of North America.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-03",
+      "q": "Who plays Dredd in the 2012 film Dredd?",
+      "options": ["Sylvester Stallone", "Josh Brolin", "Karl Urban", "Vin Diesel"],
+      "answer": 2,
+      "why": "Karl Urban stars in the 2012 film Dredd, while Sylvester Stallone played him in 1995.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-04",
+      "q": "Which villain leads the Dark Judges?",
+      "options": ["Judge Death", "Judge Fear", "Judge Fire", "Judge Mortis"],
+      "answer": 0,
+      "why": "Judge Death leads the Dark Judges, villains from another dimension who despise life.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd",
+      "giveawayOk": true
+    },
+    {
+      "id": "judge-dredd-05",
+      "q": "Dredd is a clone of which Chief Judge?",
+      "options": ["Barbara Hershey", "Eustace Fargo", "Cal", "McGruder"],
+      "answer": 1,
+      "why": "Dredd is a clone of Chief Judge Eustace Fargo, and Rico is his clone brother.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-06",
+      "q": "Which psychic Judge from Psi-Division is a recurring Dredd ally?",
+      "options": ["Judge Giant", "Judge Fear", "Judge Anderson", "Judge Cal"],
+      "answer": 2,
+      "why": "Judge Anderson of Psi-Division is among Dredd's best-known allies.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd",
+      "giveawayOk": true
+    },
+    {
+      "id": "judge-dredd-07",
+      "q": "Which artist created Dredd's original design with writer John Wagner?",
+      "options": ["Carlos Ezquerra", "Brian Bolland", "Kevin O'Neill", "Brendan McCarthy"],
+      "answer": 0,
+      "why": "Carlos Ezquerra drew the original design while John Wagner wrote the strip.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-08",
+      "q": "Dredd made his debut in which numbered issue of 2000 AD?",
+      "options": ["Prog 1", "Prog 2", "Prog 3", "Prog 5"],
+      "answer": 1,
+      "why": "Dredd first appeared in 2000 AD prog 2, in 1977.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-09",
+      "q": "Which storyline, running in progs 245-270, sees East-Meg One's nuclear strikes kill about half of the city's people?",
+      "options": ["The Apocalypse War", "Block Mania", "The Cursed Earth", "Necropolis"],
+      "answer": 0,
+      "why": "In The Apocalypse War, Soviet-style nuclear attacks cut Mega-City One's population from roughly 800 million to about 400 million.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    },
+    {
+      "id": "judge-dredd-10",
+      "q": "In what year did the Judge Dredd Megazine launch?",
+      "options": ["1985", "1995", "1990", "2000"],
+      "answer": 2,
+      "why": "Judge Dredd Megazine has been published since 1990.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Judge_Dredd"
+    }
+  ]
+}

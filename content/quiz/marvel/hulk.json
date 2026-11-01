@@ -1,0 +1,112 @@
+{
+  "character": "hulk",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "hulk-01",
+      "q": "What kind of explosion transforms Bruce Banner into the Hulk?",
+      "options": [
+        "A gamma bomb test",
+        "A cosmic-ray storm",
+        "A super-soldier lab blast",
+        "A radioactive spider bite"
+      ],
+      "answer": 0,
+      "why": "Banner designed the gamma bomb and was caught in its blast saving Rick Jones.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-02",
+      "q": "Which actor played Bruce Banner in 2012's The Avengers?",
+      "options": ["Edward Norton", "Eric Bana", "Bill Bixby", "Mark Ruffalo"],
+      "answer": 3,
+      "why": "Mark Ruffalo took over the role starting in The Avengers (2012).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-03",
+      "q": "Which 2008 MCU film starred Edward Norton as Bruce Banner?",
+      "options": ["Iron Man", "Hulk", "The Incredible Hulk", "The Incredible Hulk Returns"],
+      "answer": 2,
+      "why": "Edward Norton first played Banner in The Incredible Hulk (2008).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hulk",
+      "giveawayOk": true
+    },
+    {
+      "id": "hulk-04",
+      "q": "What colour was the Hulk's skin in his first issue before Stan Lee changed it?",
+      "options": ["Red", "Grey", "Blue", "Purple"],
+      "answer": 1,
+      "why": "The Hulk was originally drawn grey, and later turned green.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-05",
+      "q": "Betty Ross's father, the general who hunts the Hulk, goes by what nickname?",
+      "options": ["Thunderbolt", "Stonewall", "Bulldog", "Hammer"],
+      "answer": 0,
+      "why": "General Thaddeus 'Thunderbolt' Ross is Betty's father.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-06",
+      "q": "Which bodybuilder played the green Hulk opposite Bill Bixby in the TV series?",
+      "options": ["Dolph Lundgren", "Arnold Schwarzenegger", "Mickey Hargitay", "Lou Ferrigno"],
+      "answer": 3,
+      "why": "Bill Bixby and Lou Ferrigno starred in the 1978 TV series.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-07",
+      "q": "Who directed the 2003 film Hulk?",
+      "options": ["Louis Leterrier", "Sam Raimi", "Ang Lee", "Jon Favreau"],
+      "answer": 2,
+      "why": "Ang Lee directed the 2003 film Hulk, starring Eric Bana.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-08",
+      "q": "Which hypnotist-turned-ally merged Banner's personalities into Professor Hulk?",
+      "options": ["The Leader", "Doc Samson", "Rick Jones", "Walter Langkowski"],
+      "answer": 1,
+      "why": "Doc Samson hypnotizes Banner and the Hulks into the merged Professor Hulk.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-09",
+      "q": "What is the first name of Bruce Banner's abusive father?",
+      "options": ["Brian", "Glenn", "Thaddeus", "Walter"],
+      "answer": 0,
+      "why": "Brian Banner regarded his son as a monster and killed Bruce's mother.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    },
+    {
+      "id": "hulk-10",
+      "q": "In 'Planet Hulk,' on which planet does the Hulk crash after the Illuminati exile him?",
+      "options": ["Knowhere", "Hala", "Xandar", "Sakaar"],
+      "answer": 3,
+      "why": "The ship crashes on the planet Sakaar.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hulk"
+    }
+  ]
+}

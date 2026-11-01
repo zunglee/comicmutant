@@ -1,0 +1,116 @@
+{
+  "character": "all-might",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "all-might-01",
+      "q": "At which institution does All Might take a teaching job?",
+      "options": [
+        "Shiketsu High School",
+        "U.A. High School",
+        "Seiai Academy",
+        "Ketsubutsu Academy"
+      ],
+      "answer": 1,
+      "why": "He becomes a teacher at U.A. High, the school where his successor studies.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-02",
+      "q": "Which Quirk does All Might wield, passing it on to his successor?",
+      "options": ["All For One", "Explosion", "One For All", "Half-Cold Half-Hot"],
+      "answer": 2,
+      "why": "All Might is the eighth holder of One For All, the power he later hands to Izuku Midoriya.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-03",
+      "q": "Who becomes All Might's successor and the ninth holder of his Quirk?",
+      "options": ["Katsuki Bakugo", "Izuku Midoriya", "Shoto Todoroki", "Eijiro Kirishima"],
+      "answer": 1,
+      "why": "All Might hands his power to Izuku Midoriya, whom he picks after the boy tries to rescue Bakugo.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-04",
+      "q": "Which hero mentored the young Toshinori and taught him to smile?",
+      "options": ["Gran Torino", "Sir Nighteye", "Nezu", "Nana Shimura"],
+      "answer": 3,
+      "why": "Nana Shimura believed smiling people are the strongest and passed that creed on to her student.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-05",
+      "q": "All Might is which numbered holder of the Quirk he passes on?",
+      "options": ["Sixth", "Eighth", "Seventh", "Ninth"],
+      "answer": 1,
+      "why": "He is the eighth user; Izuku Midoriya becomes the ninth.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-06",
+      "q": "Which two heroes did Kohei Horikoshi say inspired All Might's design?",
+      "options": [
+        "Batman and Iron Man",
+        "Spider-Man and Captain Marvel",
+        "Superman and Captain America",
+        "Hulk and Wonder Woman"
+      ],
+      "answer": 2,
+      "why": "Horikoshi drew on Superman and Captain America, and the heavy shading made the front-facing pose hard to draw.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-07",
+      "q": "Who voices All Might in the Japanese anime?",
+      "options": ["Tomokazu Sugita", "Daisuke Ono", "Hiroshi Kamiya", "Kenta Miyake"],
+      "answer": 3,
+      "why": "Kenta Miyake plays All Might in the Japanese anime, while Christopher Sabat voices him in English.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    },
+    {
+      "id": "all-might-08",
+      "q": "Which company animates the My Hero Academia TV anime?",
+      "options": ["Wit Studio", "MAPPA", "Ufotable", "Bones"],
+      "answer": 3,
+      "why": "Bones adapted the manga, with the first season airing from April to June 2016.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/My_Hero_Academia"
+    },
+    {
+      "id": "all-might-09",
+      "q": "Before becoming a series, My Hero Academia began as a one-shot in which magazine?",
+      "options": ["Jump Giga", "Akamaru Jump", "Jump Square", "V Jump"],
+      "answer": 1,
+      "why": "Horikoshi revisited his one-shot My Hero, printed in Akamaru Jump, after an earlier series was cancelled.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/My_Hero_Academia"
+    },
+    {
+      "id": "all-might-10",
+      "q": "Which top hero calls All Might his longtime rival?",
+      "options": ["Hawks", "Best Jeanist", "Endeavor", "Edgeshot"],
+      "answer": 2,
+      "why": "Enji Todoroki, Endeavor, resents but respects All Might as the figure he has always chased.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/List_of_My_Hero_Academia_characters"
+    }
+  ]
+}

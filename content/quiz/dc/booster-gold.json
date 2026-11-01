@@ -1,0 +1,111 @@
+{
+  "character": "booster-gold",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "booster-gold-01",
+      "q": "Booster Gold's real name is Michael Jon what?",
+      "options": ["Kord", "Hunter", "Goldman", "Carter"],
+      "answer": 3,
+      "why": "Booster is Michael Jon Carter, a former college football star from the future who uses time travel to become a hero.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-02",
+      "q": "What is the name of Booster Gold's flying robot companion from the future?",
+      "options": ["Red Tornado", "Skeets", "Amazo", "Brother Eye"],
+      "answer": 1,
+      "why": "Skeets is a security robot from the 25th century that can fly, talk and fire a blaster, and he time-travels alongside Booster.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-03",
+      "q": "From which century does Booster Gold travel back to the present day?",
+      "options": ["25th", "23rd", "31st", "30th"],
+      "answer": 0,
+      "why": "Michael Carter was born in the 25th century, in a future Gotham City, before he borrowed a time machine and jumped back.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-04",
+      "q": "In the Justice League International comics, which hero becomes Booster Gold's best friend and partner?",
+      "options": [
+        "Guy Gardner (Green Lantern)",
+        "Captain Atom (Nathaniel Adam)",
+        "Blue Beetle (Ted Kord)",
+        "Martian Manhunter (J'onn J'onzz)"
+      ],
+      "answer": 2,
+      "why": "J. M. DeMatteis and Keith Giffen, as writers, turned Booster and Ted Kord into close friends and a comedy double act.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-05",
+      "q": "In which year did Booster Gold debut in Booster Gold #1?",
+      "options": ["1986", "1984", "1982", "1977"],
+      "answer": 0,
+      "why": "Booster Gold #1 came out in February 1986, making him the first major new hero after Crisis on Infinite Earths.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-06",
+      "q": "Who created Booster Gold?",
+      "options": ["Keith Giffen", "Dan Jurgens", "Geoff Johns", "J. M. DeMatteis"],
+      "answer": 1,
+      "why": "Writer-artist Dan Jurgens created Booster Gold; Giffen and DeMatteis later wrote his Justice League International years.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-07",
+      "q": "What superhero name did Michael plan to use before a president's introduction gave him his famous new one?",
+      "options": ["Gold Rush", "Captain Gold", "Starman", "Goldstar"],
+      "answer": 3,
+      "why": "He meant to be Goldstar; after he saved Ronald Reagan, Reagan blended it with his football nickname Booster.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-08",
+      "q": "In a running DC joke, what do people wrongly call Booster Gold, to his annoyance?",
+      "options": ["Buster", "Bolster", "Baxter", "Booker"],
+      "answer": 0,
+      "why": "People keep mangling his name into 'Buster', a recurring joke that irritates him.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-09",
+      "q": "Booster stole a Legion flight ring and the force field belt of which Legion member from the Metropolis Space Museum?",
+      "options": ["Saturn Girl", "Cosmic Boy", "Lightning Lad", "Brainiac 5"],
+      "answer": 3,
+      "why": "Carter took Brainiac 5's force field belt and a Legion flight ring from the displays he guarded as a night watchman.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    },
+    {
+      "id": "booster-gold-10",
+      "q": "Which actor played Booster Gold in the seventh season of Legends of Tomorrow?",
+      "options": ["Diedrich Bader", "Eric Martsolf", "Tom Everett Scott", "Donald Faison"],
+      "answer": 3,
+      "why": "Donald Faison played Booster Gold in Legends of Tomorrow, while Eric Martsolf was Booster in Smallville.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Booster_Gold"
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "character": "beast-boy",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "beast-boy-01",
+      "q": "In which year did Garfield Logan first appear in Doom Patrol #99?",
+      "options": ["1973", "1969", "1965", "1967"],
+      "answer": 2,
+      "why": "Garfield Logan debuted in Doom Patrol #99, cover-dated November 1965, as a shapeshifting teen with green skin.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-02",
+      "q": "Which writer and artist created Garfield Logan, Beast Boy?",
+      "options": [
+        "Marv Wolfman and George Pérez",
+        "Bob Haney and Nick Cardy",
+        "Arnold Drake and Bob Brown",
+        "Gardner Fox and Carmine Infantino"
+      ],
+      "answer": 2,
+      "why": "Arnold Drake wrote and Bob Brown drew the debut of this relatable kid in the Doom Patrol.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-03",
+      "q": "In the comics, young Garfield Logan was saved from a deadly illness by being turned into which animal?",
+      "options": ["A tiger", "A gorilla", "A chameleon", "A green monkey"],
+      "answer": 3,
+      "why": "His father temporarily turned him into a green monkey, the one species immune to the illness, which left him permanently green with shapeshifting powers.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-04",
+      "q": "After a name was spoiled for him, which alias did Gar Logan use in the comics' 1980s team relaunch?",
+      "options": ["Chameleon Boy", "Changeling", "Metamorpho", "Animal Man"],
+      "answer": 1,
+      "why": "Gar went by Changeling in the New Teen Titans era, after a villain mocked the Beast Boy name so much he dropped it.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-05",
+      "q": "Besides the Doom Patrol, Beast Boy is usually shown on which other team?",
+      "options": [
+        "Justice Society of America",
+        "Teen Titans",
+        "Legion of Super-Heroes",
+        "Outsiders"
+      ],
+      "answer": 1,
+      "why": "Beast Boy is best known as a Teen Titan, and he is also usually portrayed as a Doom Patrol member.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-06",
+      "q": "Who voices Beast Boy in Cartoon Network's 2003 animated series and its comedy spin-off?",
+      "options": ["Scott Menville", "Khary Payton", "Greg Cipes", "Tara Strong"],
+      "answer": 2,
+      "why": "Greg Cipes has voiced Gar Logan in both Teen Titans series, as well as Young Justice's later seasons.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-07",
+      "q": "Which actor plays Gar Logan in the 2018 live-action DC Universe series?",
+      "options": ["Brenton Thwaites", "Alan Ritchson", "Curran Walters", "Ryan Potter"],
+      "answer": 3,
+      "why": "Ryan Potter plays Beast Boy in the Titans series from the DC Universe and HBO Max streaming platforms.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-08",
+      "q": "In the comics, which Doom Patrol member and her husband Steve Dayton adopted Garfield Logan?",
+      "options": ["Madame Rouge", "Crazy Jane", "Raven", "Elasti-Girl"],
+      "answer": 3,
+      "why": "After his crooked guardian was exposed, Elasti-Girl and Steve Dayton took Garfield in and he joined the Doom Patrol.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-09",
+      "q": "Which court-appointed guardian of young Garfield Logan plotted to kill him to hide embezzlement?",
+      "options": ["Samuel Register", "Nicholas Galtry", "Niles Caulder", "Steve Dayton"],
+      "answer": 1,
+      "why": "Nicholas Galtry stole from the Logan estate and hired killers to stop Garfield from inheriting; the Doom Patrol foiled him.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    },
+    {
+      "id": "beast-boy-10",
+      "q": "An unrelated shapeshifter also named Beast Boy debuted in 1964's Adventure Comics #324 as part of which group?",
+      "options": [
+        "Fatal Five",
+        "Legion of Substitute Heroes",
+        "Legion of Super-Outlaws",
+        "Legion of Doom"
+      ],
+      "answer": 2,
+      "why": "That earlier Beast Boy, a Lallor native, belonged to the Legion of Super-Outlaws and appeared before Garfield Logan.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Beast_Boy"
+    }
+  ]
+}

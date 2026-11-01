@@ -1,0 +1,106 @@
+{
+  "character": "shaktimaan",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "shaktimaan-01",
+      "q": "Who created Shaktimaan and also played the hero?",
+      "options": ["Mukesh Khanna", "Mukesh Rishi", "Gufi Paintal", "Pankaj Dheer"],
+      "answer": 0,
+      "why": "Mukesh Khanna produced the show and played both Shaktimaan and his alter ego.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-02",
+      "q": "Which actor plays the wise Mahaguru who guides Shaktimaan?",
+      "options": ["Anupam Kher", "Tom Alter", "Naseeruddin Shah", "Om Puri"],
+      "answer": 1,
+      "why": "Tom Alter appears as the Mahaguru, who explains that Kilvish only falls once evil is gone.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-03",
+      "q": "In which year did the original Shaktimaan series begin?",
+      "options": ["1993", "2004", "2000", "1997"],
+      "answer": 3,
+      "why": "It ran from 1997 until 2005.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-04",
+      "q": "In which year did the original Shaktimaan series end?",
+      "options": ["2005", "2001", "2003", "2008"],
+      "answer": 0,
+      "why": "The final episode aired on 27 March 2005.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-05",
+      "q": "What is the job of the hero's secret identity, Pandit Gangadhar?",
+      "options": ["Photographer", "Teacher", "Police officer", "Chemist"],
+      "answer": 0,
+      "why": "Gangadhar's day job is newspaper photography at Aaj Ki Awaaz.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-06",
+      "q": "Which journalist gives the hero the name Shaktimaan?",
+      "options": ["Sonia Rao", "Geeta Vishwas", "Kavita Joshi", "Priya Mehta"],
+      "answer": 1,
+      "why": "The journalist Geeta Vishwas is the one who names the hero Shaktimaan.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-07",
+      "q": "Who first played the show's journalist heroine before Vaishnavi Mahant took over?",
+      "options": ["Shilpa Shirodkar", "Raveena Tandon", "Kitu Gidwani", "Renuka Shahane"],
+      "answer": 2,
+      "why": "Kitu Gidwani played Geeta initially, and Vaishnavi Mahant took over later.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "shaktimaan-08",
+      "q": "On which channel did Shaktimaan: The Animated Series premiere in 2011?",
+      "options": ["Pogo", "Cartoon Network", "Hungama TV", "Sonic"],
+      "answer": 3,
+      "why": "Reliance Animation's version began on Sonic on 20 December 2011.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan_(franchise)"
+    },
+    {
+      "id": "shaktimaan-09",
+      "q": "The creator said his hero was inspired by which Hollywood superhero?",
+      "options": ["Superman", "Batman", "Spider-Man", "Captain America"],
+      "answer": 0,
+      "why": "Khanna said the character drew on Superman.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan_(franchise)"
+    },
+    {
+      "id": "shaktimaan-10",
+      "q": "Which biscuit brand sponsored Shaktimaan from its first episode?",
+      "options": ["Britannia Good Day", "Parle-G", "Sunfeast", "Priyagold"],
+      "answer": 1,
+      "why": "Parle-G backed the show from the start.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan_(franchise)"
+    }
+  ]
+}

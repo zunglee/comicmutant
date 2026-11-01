@@ -1,0 +1,116 @@
+{
+  "character": "darkseid",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "darkseid-01",
+      "q": "After cameos in Superman's Pal Jimmy Olsen, in which comic did Darkseid make his first full appearance?",
+      "options": [
+        "New Gods #1",
+        "Mister Miracle #1",
+        "Justice League of America #1",
+        "Forever People #1"
+      ],
+      "answer": 3,
+      "why": "Darkseid cameoed in Jimmy Olsen #134 in December 1970, then was fully introduced in Forever People #1 in February 1971.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-02",
+      "q": "Who created Darkseid?",
+      "options": ["Stan Lee", "Bob Kane", "Jerry Siegel", "Jack Kirby"],
+      "answer": 3,
+      "why": "Writer-artist Jack Kirby created Darkseid as the chief villain of his Fourth World saga.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-03",
+      "q": "Darkseid is the tyrannical ruler of which planet?",
+      "options": ["New Genesis", "Thanagar", "Apokolips", "Oa"],
+      "answer": 2,
+      "why": "Darkseid is a New God who rules the hellish planet Apokolips.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-04",
+      "q": "What are the eye blasts Darkseid fires called?",
+      "options": ["Radion Rays", "Omega Beams", "Boom Beams", "Mother Beams"],
+      "answer": 1,
+      "why": "His signature power is the Omega Effect, usually fired as Omega Beams from his eyes.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-05",
+      "q": "What does Darkseid hunt for in order to enslave the multiverse and erase free will?",
+      "options": [
+        "The Source Wall",
+        "The Miracle Machine",
+        "The Spear of Destiny",
+        "The Anti-Life Equation"
+      ],
+      "answer": 3,
+      "why": "He wants the Anti-Life Equation because it would let him dominate every living mind, ending hope and free will across the multiverse.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-06",
+      "q": "Who played Darkseid in Zack Snyder's Justice League (2021)?",
+      "options": ["Michael Ironside", "Ray Porter", "Tony Todd", "Andre Braugher"],
+      "answer": 1,
+      "why": "Ray Porter voiced and performed Darkseid in Zack Snyder's cut, the character's live-action film debut.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-07",
+      "q": "According to his creator, Darkseid's face was modeled on which actor?",
+      "options": ["Lee Marvin", "Charles Bronson", "Christopher Lee", "Jack Palance"],
+      "answer": 3,
+      "why": "The artist based the stone-faced look on Palance, and drew on Hitler and Nixon for his personality.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-08",
+      "q": "Darkseid is credited as the inspiration for which Marvel villain?",
+      "options": ["Galactus", "Doctor Doom", "Dormammu", "Thanos"],
+      "answer": 3,
+      "why": "Thanos's creators have said Kirby's Darkseid inspired him.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-09",
+      "q": "In Final Crisis, which New God kills Darkseid by ripping out his heart?",
+      "options": ["Kalibak", "Metron", "Steppenwolf", "Orion"],
+      "answer": 3,
+      "why": "Orion, who is Darkseid's son, returns via boom tube and kills his father in their final battle.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    },
+    {
+      "id": "darkseid-10",
+      "q": "What was Darkseid's name before he took the title, when he was a prince of his home world?",
+      "options": ["Drax", "Uxas", "Yuga Khan", "Kalibak"],
+      "answer": 1,
+      "why": "Born Prince Uxas, he schemed to take the throne from his older brother Drax and became Darkseid.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Darkseid"
+    }
+  ]
+}

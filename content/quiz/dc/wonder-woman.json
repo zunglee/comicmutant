@@ -1,0 +1,121 @@
+{
+  "character": "wonder-woman",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "wonder-woman-01",
+      "q": "What effect does Wonder Woman's golden lasso have on anyone it binds?",
+      "options": [
+        "They cannot lie",
+        "They must obey her orders",
+        "They forget the last hour",
+        "They fall asleep"
+      ],
+      "answer": 0,
+      "why": "Anyone caught in the lasso can only speak the truth.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-02",
+      "q": "What is the name of Wonder Woman's island home?",
+      "options": ["Atlantis", "Tamaran", "Attilan", "Themyscira"],
+      "answer": 3,
+      "why": "Her home island, formerly Paradise Island, is called Themyscira.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-03",
+      "q": "Which U.S. pilot crashes on the Amazon island and is returned to Man's World?",
+      "options": ["Hal Jordan", "Clark Kent", "Steve Trevor", "Barry Allen"],
+      "answer": 2,
+      "why": "Steve Trevor crashed on the island and Diana brought him home.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-04",
+      "q": "Which pair created Wonder Woman?",
+      "options": [
+        "Jerry Siegel and Joe Shuster",
+        "William Moulton Marston and H. G. Peter",
+        "Bill Finger, Bob Kane and Jerry Robinson",
+        "Gardner Fox and Joe Kubert"
+      ],
+      "answer": 1,
+      "why": "Marston wrote as Charles Moulton, with H. G. Peter drawing.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-05",
+      "q": "In her original origin, how was Diana created?",
+      "options": [
+        "Sculpted from clay by Queen Hippolyta",
+        "Born to Zeus and Queen Hippolyta of Themyscira",
+        "Forged from fire by Hephaestus",
+        "Found on a boat by Amazons"
+      ],
+      "answer": 0,
+      "why": "The original clay origin has Hippolyta sculpt Diana and the gods give her life.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-06",
+      "q": "In which film did Gal Gadot first play the Amazon princess?",
+      "options": ["Wonder Woman", "Justice League", "Wonder Woman 1984", "Batman v Superman"],
+      "answer": 3,
+      "why": "Gadot debuted in 2016's Batman v Superman.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-07",
+      "q": "Who directed the 2017 Wonder Woman film?",
+      "options": ["Zack Snyder", "James Wan", "Patty Jenkins", "Ava DuVernay"],
+      "answer": 2,
+      "why": "Patty Jenkins directed the film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-08",
+      "q": "In which year did Wonder Woman debut in All Star Comics #8?",
+      "options": ["1941", "1939", "1938", "1937"],
+      "answer": 0,
+      "why": "She debuted in All Star Comics #8 in late 1941.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-09",
+      "q": "During which years did Lynda Carter's Wonder Woman TV series run?",
+      "options": ["1975 to 1979", "1966 to 1968", "1960 to 1962", "1970 to 1973"],
+      "answer": 0,
+      "why": "Lynda Carter starred from 1975 to 1979.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    },
+    {
+      "id": "wonder-woman-10",
+      "q": "Whose bracelets inspired Wonder Woman's bracelets?",
+      "options": ["Elizabeth Marston", "Marjorie Wilkes", "Margaret Sanger", "Olive Byrne"],
+      "answer": 3,
+      "why": "Marston took the idea from bracelets worn by Olive Byrne.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Woman"
+    }
+  ]
+}

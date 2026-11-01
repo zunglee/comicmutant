@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "react-router dev --port 4323 --host 127.0.0.1",
-    "prebuild": "tsx scripts/validate.ts",
+    "prebuild": "tsx scripts/validate.ts && tsx scripts/validate-quiz.ts --strict",
     "build": "react-router build",
     "start": "NODE_ENV=production PORT=${PORT:-4335} HOST=${HOST:-127.0.0.1} react-router-serve ./build/server/index.js",
     "preview": "pnpm build && pnpm start",

@@ -1,0 +1,111 @@
+{
+  "character": "black-widow",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "black-widow-01",
+      "q": "Which actress played Natasha Romanoff in the Marvel Cinematic Universe?",
+      "options": ["Elizabeth Olsen", "Brie Larson", "Scarlett Johansson", "Florence Pugh"],
+      "answer": 2,
+      "why": "Scarlett Johansson first played the character in Iron Man 2 (2010) and led Black Widow (2021).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-02",
+      "q": "In the comics, Natasha was trained in which Soviet facility?",
+      "options": ["Weapon X", "The Red Room", "Project Rebirth", "The Raft"],
+      "answer": 1,
+      "why": "The Red Room is the Soviet program that biotechnologically augmented her and trained her as a spy.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-03",
+      "q": "In her 1964 debut, Black Widow was a Soviet spy who targeted which billionaire?",
+      "options": ["Tony Stark", "Warren Worthington III", "Justin Hammer", "Wilson Fisk"],
+      "answer": 0,
+      "why": "Natasha first appeared as a seductress spy menacing Tony Stark in Tales of Suspense.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-04",
+      "q": "In which comic did Black Widow debut in April 1964?",
+      "options": [
+        "Tales to Astonish",
+        "Strange Tales",
+        "Journey into Mystery",
+        "Tales of Suspense"
+      ],
+      "answer": 3,
+      "why": "Her debut came in Tales of Suspense #52, cover-dated April 1964.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-05",
+      "q": "She switched sides in the Avengers comics in 1966, driven by her love for whom?",
+      "options": ["Daredevil", "Winter Soldier", "Hawkeye", "Iron Man"],
+      "answer": 2,
+      "why": "Her love for Hawkeye pushed her to defect and later join the Avengers.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-06",
+      "q": "Which artist designed her black costume with long red hair, introduced in Amazing Spider-Man #86 (1970)?",
+      "options": ["Don Heck", "John Romita Sr.", "Gene Colan", "John Buscema"],
+      "answer": 1,
+      "why": "John Romita Sr. gave her the black catsuit and long red hair look in Amazing Spider-Man #86.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-07",
+      "q": "Which Captain America sidekick, as the Winter Soldier, instructed Natasha in the Soviet program and became her lover?",
+      "options": ["Bucky Barnes", "Sam Wilson", "Nick Fury", "Alexei Shostakov"],
+      "answer": 0,
+      "why": "Bucky Barnes, as the Winter Soldier, was one of her instructors and they were romantically involved.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-08",
+      "q": "She joined the cast of a Marvel title with issue #81 (1971) and became its hero's romantic partner. Whose title?",
+      "options": ["Spider-Man", "Iron Man", "Captain America", "Daredevil"],
+      "answer": 3,
+      "why": "She joined Daredevil #81 in 1971 and became closely tied to Matt Murdock through the 1970s.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-09",
+      "q": "Which Russian operative took the Black Widow name in Inhumans #5 (1999)?",
+      "options": ["Melina Vostokoff", "Ava Starr", "Yelena Belova", "Maria Hill"],
+      "answer": 2,
+      "why": "Yelena Belova claimed the Black Widow name in 1999, and the two Widows later clashed.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    },
+    {
+      "id": "black-widow-10",
+      "q": "Which film first featured Natasha Romanoff in the Marvel Cinematic Universe?",
+      "options": ["Iron Man", "Iron Man 2", "The Avengers", "Captain America: The Winter Soldier"],
+      "answer": 1,
+      "why": "She debuted as the character in Iron Man 2 (2010), before the Avengers films.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Black_Widow_(Natasha_Romanova)"
+    }
+  ]
+}

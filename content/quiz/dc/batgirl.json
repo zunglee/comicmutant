@@ -1,0 +1,111 @@
+{
+  "character": "batgirl",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "batgirl-01",
+      "q": "In which year did Barbara Gordon first appear as Batgirl, in Detective Comics #359?",
+      "options": ["1961", "1965", "1967", "1955"],
+      "answer": 2,
+      "why": "The story 'The Million Dollar Debut of Batgirl!' ran in Detective Comics #359, cover-dated January 1967.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-02",
+      "q": "Batgirl was created at the request of the producer of which 1960s TV series?",
+      "options": ["The Green Hornet", "Batman", "The Man from U.N.C.L.E.", "Lost in Space"],
+      "answer": 1,
+      "why": "Producer William Dozier wanted a female counterpart for his show's third season, so DC created Barbara Gordon's Batgirl.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-03",
+      "q": "Which actress played Batgirl in the third season of the 1960s ABC live-action series?",
+      "options": ["Julie Newmar", "Lee Meriwether", "Yvonne Craig", "Eartha Kitt"],
+      "answer": 2,
+      "why": "Yvonne Craig debuted as Batgirl in the season three premiere, 'Enter Batgirl, Exit Penguin', in September 1967.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-04",
+      "q": "In the classic comics, what is Barbara Gordon's day job before she becomes a crimefighter?",
+      "options": [
+        "Head of the Gotham City Public Library",
+        "Forensic lab technician",
+        "Gotham Gazette reporter",
+        "Schoolteacher at the Gotham Academy for Girls"
+      ],
+      "answer": 0,
+      "why": "Barbara holds a doctorate in library science and runs the Gotham City Public Library in her civilian life.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-05",
+      "q": "After the Joker paralyzes her in 1988, what information-broker hero identity does Barbara Gordon take on?",
+      "options": ["Huntress", "Nightwing", "Spoiler", "Oracle"],
+      "answer": 3,
+      "why": "Barbara became Oracle, a computer expert and info broker who supports heroes from behind the screens.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-06",
+      "q": "Which writer wrote the 1988 graphic novel The Killing Joke, in which Barbara is shot?",
+      "options": ["Frank Miller", "Alan Moore", "Grant Morrison", "Neil Gaiman"],
+      "answer": 1,
+      "why": "Alan Moore wrote The Killing Joke, where the Joker shoots Barbara through the spine to torment her father.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-07",
+      "q": "In which series did Barbara Gordon first appear in her post-paralysis identity in 1989?",
+      "options": ["Birds of Prey", "Detective Comics", "Batman Family", "Suicide Squad"],
+      "answer": 3,
+      "why": "Oracle debuted in Suicide Squad #23, offering anonymous help to Task Force X; Birds of Prey only arrived in 1996.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-08",
+      "q": "Which comics writer coined the term 'Women in Refrigerators', a list that included Barbara's paralysis?",
+      "options": ["Chuck Dixon", "Devin Grayson", "Gail Simone", "Kelley Puckett"],
+      "answer": 2,
+      "why": "Gail Simone named the phenomenon of female characters being harmed or killed for plot, citing Barbara among them.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-09",
+      "q": "Who voices Barbara Gordon, the new police commissioner, in the 2017 Lego movie about the Dark Knight?",
+      "options": ["Rosario Dawson", "Gina Rodriguez", "Mae Whitman", "Zazie Beetz"],
+      "answer": 0,
+      "why": "Rosario Dawson voices Barbara in The Lego Batman Movie, where she replaces her father as Gotham's commissioner.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    },
+    {
+      "id": "batgirl-10",
+      "q": "Who starred as Barbara Gordon in the 2002 live-action TV series Birds of Prey?",
+      "options": ["Alicia Silverstone", "Savannah Welch", "Leslie Grace", "Dina Meyer"],
+      "answer": 3,
+      "why": "Dina Meyer played Barbara, the former Batgirl turned Oracle, in the short-lived 2002 Birds of Prey series.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Barbara_Gordon"
+    }
+  ]
+}

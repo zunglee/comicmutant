@@ -1,0 +1,111 @@
+{
+  "character": "astro-boy",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "astro-boy-01",
+      "q": "Why did Dr. Tenma build Astro Boy?",
+      "options": [
+        "To serve as a lab assistant",
+        "To win a robot tournament",
+        "To guard the Ministry of Science",
+        "To replace his dead son"
+      ],
+      "answer": 3,
+      "why": "Tenma lost his son Tobio and built a robot boy to take his place, though the robot could not grow up.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+    },
+    {
+      "id": "astro-boy-02",
+      "q": "Which manga artist created Astro Boy?",
+      "options": ["Shotaro Ishinomori", "Mitsuteru Yokoyama", "Osamu Tezuka", "Fujiko F. Fujio"],
+      "answer": 2,
+      "why": "Osamu Tezuka introduced the character in 1951 and made him the star of his own manga the next year.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+    },
+    {
+      "id": "astro-boy-03",
+      "q": "Astro Boy's robot strength is usually given as how many horsepower?",
+      "options": ["120,000", "110,000", "100,000", "150,000"],
+      "answer": 2,
+      "why": "The robot hero is famous for a strength rating of 100K horsepower, along with jet flight.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+    },
+    {
+      "id": "astro-boy-04",
+      "q": "What is the Japanese name of Astro Boy's younger sister, known in English as Astro Girl?",
+      "options": ["Rika", "Akane", "Tomoe", "Uran"],
+      "answer": 3,
+      "why": "Uran is Atom's sister, known as Astro Girl in English releases.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+    },
+    {
+      "id": "astro-boy-05",
+      "q": "Who rescues Astro from the robot circus and raises him?",
+      "options": ["Dr. Tenma", "Hamegg, the ringmaster", "Atlas", "Professor Ochanomizu"],
+      "answer": 3,
+      "why": "After Tenma sold him to the circus run by Hamegg, Professor Ochanomizu took him in.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+    },
+    {
+      "id": "astro-boy-06",
+      "q": "In which periodical did the Astro Boy manga run from 1952 to 1968?",
+      "options": ["Shōnen", "Ribon", "Nakayoshi", "Monthly CoroCoro"],
+      "answer": 0,
+      "why": "Kobunsha's Shōnen magazine serialized the manga, which was gathered into 23 volumes.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+    },
+    {
+      "id": "astro-boy-07",
+      "q": "Which studio produced the groundbreaking 1963 Astro Boy TV anime?",
+      "options": ["Toei Animation", "Mushi Production", "Tatsunoko Production", "Nippon Animation"],
+      "answer": 1,
+      "why": "Tezuka's Mushi Production made the 1963 show, the first hugely popular Japanese animated TV series.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+    },
+    {
+      "id": "astro-boy-08",
+      "q": "In what year did Astro Boy first appear, as a supporting character in Ambassador Atom?",
+      "options": ["1947", "1956", "1951", "1954"],
+      "answer": 2,
+      "why": "He debuted in Shōnen in April 1951 before getting his own series in 1952.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+    },
+    {
+      "id": "astro-boy-09",
+      "q": "Who voiced Astro Boy in the English version of the 2009 CGI film?",
+      "options": ["Daniel Radcliffe", "Freddie Highmore", "Asa Butterfield", "Dakota Fanning"],
+      "answer": 1,
+      "why": "Highmore voiced Astro in the 2009 film, while Aya Ueto took the Japanese role.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy_(character)"
+    },
+    {
+      "id": "astro-boy-10",
+      "q": "Which mangaka wrote Pluto, a murder-mystery remake of an Astro Boy storyline?",
+      "options": ["Takehiko Inoue", "Taiyō Matsumoto", "Fumi Yoshinaga", "Naoki Urasawa"],
+      "answer": 3,
+      "why": "Urasawa's Pluto, serialized from 2003 to 2009, reimagines the Greatest Robot on Earth arc.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Astro_Boy"
+    }
+  ]
+}

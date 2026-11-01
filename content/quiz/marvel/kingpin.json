@@ -1,0 +1,116 @@
+{
+  "character": "kingpin",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "kingpin-01",
+      "q": "In which series did Kingpin make his debut in 1967?",
+      "options": ["Daredevil", "Fantastic Four", "The Incredible Hulk", "The Amazing Spider-Man"],
+      "answer": 3,
+      "why": "Wilson Fisk first showed up in The Amazing Spider-Man #50, so he began as a Spider-Man foe before Daredevil claimed him.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-02",
+      "q": "Which actor played Kingpin in the 2003 film about the blind vigilante?",
+      "options": [
+        "Michael Clarke Duncan",
+        "Vincent D'Onofrio",
+        "Liev Schreiber",
+        "John Rhys-Davies"
+      ],
+      "answer": 0,
+      "why": "Michael Clarke Duncan played Fisk in the 2003 Daredevil movie, reportedly bulking up by about forty pounds for the part.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-03",
+      "q": "Who voiced Kingpin in the animated film Into the Spider-Verse (2018)?",
+      "options": ["Mahershala Ali", "Liev Schreiber", "Vincent D'Onofrio", "Michael Clarke Duncan"],
+      "answer": 1,
+      "why": "Liev Schreiber voiced the hulking Wilson Fisk, who runs the collider that opens the multiverse in that film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-04",
+      "q": "Starting in 1981 under Frank Miller, which hero became Kingpin's main adversary in the comics?",
+      "options": ["The Punisher", "Luke Cage", "Daredevil", "Iron Fist"],
+      "answer": 2,
+      "why": "Frank Miller shifted Fisk into Daredevil's book from issue #170, and he has been Matt Murdock's arch-nemesis ever since.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-05",
+      "q": "In the 1970 stories, what villain name did Kingpin's son Richard use?",
+      "options": ["Hammerhead", "Tombstone", "The Rose", "The Schemer"],
+      "answer": 3,
+      "why": "Richard Fisk, after faking his death, returned as the Schemer in Amazing Spider-Man #83 to 85 to take on his father's rivals.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-06",
+      "q": "Which artist drew the 1986 storyline Born Again, issues #227 to 233?",
+      "options": ["David Mazzucchelli", "John Romita Jr.", "Bill Sienkiewicz", "Klaus Janson"],
+      "answer": 0,
+      "why": "David Mazzucchelli provided the art for Born Again, the arc in which Fisk methodically tears down Matt Murdock's life.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-07",
+      "q": "In the comics, besides a laser, what does Kingpin's trick cane release?",
+      "options": ["Tear gas", "Sleeping gas", "Smoke screens", "Poison darts"],
+      "answer": 1,
+      "why": "Fisk's cane can fire a laser pulse and also puff out sleeping gas, a gadget matched by his tie in some stories.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-08",
+      "q": "In Charles Soule's run (2017 to 2018) on the blind vigilante's book, what public office does Kingpin win?",
+      "options": [
+        "District Attorney of Manhattan",
+        "Governor of New York",
+        "Mayor of New York City",
+        "Police Commissioner"
+      ],
+      "answer": 2,
+      "why": "Fisk ran on an anti-vigilante platform and won the mayoralty, giving him legal power over the city's costumed heroes.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-09",
+      "q": "Who was Kingpin's first wife?",
+      "options": ["Typhoid Mary", "Maya Lopez", "Vanessa Fisk", "Karen Page"],
+      "answer": 2,
+      "why": "He married Vanessa first; Typhoid Mary came later.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    },
+    {
+      "id": "kingpin-10",
+      "q": "Which classic Hollywood actor did John Romita Sr. base Kingpin's build on?",
+      "options": ["Sydney Greenstreet", "Orson Welles", "Peter Lorre", "Humphrey Bogart"],
+      "answer": 0,
+      "why": "Romita modelled Fisk's massive frame on character actor Sydney Greenstreet, along with Robert Middleton.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Kingpin_(character)"
+    }
+  ]
+}

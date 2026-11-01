@@ -1,0 +1,106 @@
+{
+  "character": "invincible",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "invincible-01",
+      "q": "What is Invincible's civilian name?",
+      "options": ["Mark Grayson", "Mark Kent", "Mark Wayne", "Mark Lang"],
+      "answer": 0,
+      "why": "Mark Grayson is the half-human, half-Viltrumite teenager who becomes Invincible.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-02",
+      "q": "Which hero alias does Mark's father use?",
+      "options": ["Battle Beast", "Omni-Man", "Allen the Alien", "Immortal"],
+      "answer": 1,
+      "why": "Mark's father, Nolan, is the Viltrumite hero Omni-Man.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-03",
+      "q": "Which superheroine is Mark's wife in the comics?",
+      "options": ["Monster Girl", "Dupli-Kate", "Atom Eve", "Shrinking Rae"],
+      "answer": 2,
+      "why": "The character's infobox lists Atom Eve as Mark's wife.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-04",
+      "q": "Who co-created Invincible with writer Robert Kirkman?",
+      "options": ["Cory Walker", "Ryan Ottley", "Tony Moore", "Charlie Adlard"],
+      "answer": 0,
+      "why": "Kirkman and Walker created Invincible, and Ryan Ottley later became the main artist.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-05",
+      "q": "Who voices Mark in Amazon's Invincible animated series?",
+      "options": ["J.K. Simmons", "Steven Yeun", "Sandra Oh", "Zazie Beetz"],
+      "answer": 1,
+      "why": "Yeun voices Mark, while J.K. Simmons voices Omni-Man.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-06",
+      "q": "Which Grand Regent of the Viltrum Empire is Mark's main foe?",
+      "options": ["Thragg", "Battle Beast", "Conquest", "Anissa"],
+      "answer": 0,
+      "why": "Thragg is Mark's main Viltrumite opponent, and Mark eventually rules the empire.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-07",
+      "q": "In what year did Amazon's animated Invincible premiere?",
+      "options": ["2019", "2017", "2021", "2020"],
+      "answer": 2,
+      "why": "It premiered on March 26, 2021.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-08",
+      "q": "In which other Image series did Invincible first appear in a 2002 preview?",
+      "options": ["Savage Dragon", "The Walking Dead", "Spawn", "Witchblade"],
+      "answer": 0,
+      "why": "A preview ran in Savage Dragon #102 in August 2002, before Invincible #1.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-09",
+      "q": "Mark teams up with which Marvel hero in Marvel Team-Up #14?",
+      "options": ["Daredevil", "Captain America", "Spider-Man", "Hulk"],
+      "answer": 2,
+      "why": "The crossover pits them against Doctor Octopus.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    },
+    {
+      "id": "invincible-10",
+      "q": "What is the name of Mark's half-brother, who takes on a junior version of his father's hero name?",
+      "options": ["Oliver Grayson", "Nolan Grayson Jr.", "Allen the Alien", "Rex Sloan"],
+      "answer": 0,
+      "why": "Oliver Grayson is Mark's half-brother, who grows up as Kid Omni-Man.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Invincible_(character)"
+    }
+  ]
+}

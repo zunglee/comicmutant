@@ -1,0 +1,116 @@
+{
+  "character": "red-skull",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "red-skull-01",
+      "q": "In which comic did the Red Skull make his first appearance in 1941?",
+      "options": [
+        "Marvel Mystery Comics #1",
+        "Captain America Comics #1",
+        "Tales of Suspense #63",
+        "The Avengers #4"
+      ],
+      "answer": 1,
+      "why": "He turns up already fighting the hero in Captain America Comics #1, dated March 1941.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-02",
+      "q": "What is the Red Skull's real name in the comics?",
+      "options": ["Helmut Zemo", "Arnim Zola", "Johann Shmidt", "Klaus Kruger"],
+      "answer": 2,
+      "why": "Johann Shmidt was a Nazi who became the Red Skull, Hitler's personal head of terror.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-03",
+      "q": "Who played the Red Skull in the 1990 direct-to-video superhero film?",
+      "options": ["Hugo Weaving", "Tommy Lee Jones", "Scott Paulin", "Ross Marquand"],
+      "answer": 2,
+      "why": "Scott Paulin took the role in the 1990 direct-to-video movie.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-04",
+      "q": "Which actor plays the Red Skull as the stonekeeper in Avengers: Infinity War?",
+      "options": ["Ross Marquand", "Hugo Weaving", "Scott Paulin", "Josh Brolin"],
+      "answer": 0,
+      "why": "Ross Marquand took over as the Red Skull, who guards the Soul Stone, in Infinity War and Endgame.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-05",
+      "q": "On which planet does the MCU Red Skull guide seekers of the Soul Stone?",
+      "options": ["Titan", "Vormir", "Xandar", "Morag"],
+      "answer": 1,
+      "why": "Schmidt was transported to Vormir after the first Cap film and became its stonekeeper.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-06",
+      "q": "Which real historical figure did the Red Skull serve in the comics?",
+      "options": ["Benito Mussolini", "Joseph Stalin", "Adolf Hitler", "Emperor Hirohito"],
+      "answer": 2,
+      "why": "Hitler gave the red skull mask to his protege and made him the Reich's head of terror and espionage.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-07",
+      "q": "Who wrote and drew the Red Skull's 1941 debut story?",
+      "options": [
+        "Stan Lee and Steve Ditko",
+        "Stan Lee and Jack Kirby",
+        "Bob Kane and Bill Finger",
+        "Joe Simon and Jack Kirby"
+      ],
+      "answer": 3,
+      "why": "Joe Simon and Jack Kirby wrote and drew Captain America Comics #1, where the Skull first appears.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-08",
+      "q": "Which Nazi geneticist transferred the Red Skull's mind into a clone body?",
+      "options": ["Arnim Zola", "Baron Strucker", "Helmut Zemo", "Doctor Faustus"],
+      "answer": 0,
+      "why": "Arnim Zola obtained Steve Rogers' DNA and used it to clone a new body for the Skull's mind.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-09",
+      "q": "From which organization did the Red Skull steal the Cosmic Cube in the comics?",
+      "options": ["S.H.I.E.L.D.", "A.I.M.", "Roxxon", "The Hand"],
+      "answer": 1,
+      "why": "He stole the Cosmic Cube from Advanced Idea Mechanics before building his own reality-warping device.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    },
+    {
+      "id": "red-skull-10",
+      "q": "Which villain is the Red Skull's daughter, who briefly took his name after being scarred?",
+      "options": ["Viper", "Madame Hydra", "Sin", "Mother Night"],
+      "answer": 2,
+      "why": "Sinthea Shmidt, called Sin, is Johann's daughter and briefly used the Red Skull name after being scarred.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Red_Skull"
+    }
+  ]
+}

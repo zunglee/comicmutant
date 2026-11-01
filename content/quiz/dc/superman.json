@@ -1,0 +1,121 @@
+{
+  "character": "superman",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "superman-01",
+      "q": "Which duo created Superman?",
+      "options": [
+        "Jerry Siegel and Joe Shuster",
+        "Bill Finger and Bob Kane",
+        "Stan Lee and Jack Kirby",
+        "Gardner Fox and Carmine Infantino"
+      ],
+      "answer": 0,
+      "why": "Jerry Siegel wrote and Joe Shuster drew the first Superman story.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-02",
+      "q": "What was Superman's name at birth on Krypton?",
+      "options": ["Jor-El", "Zor-El", "Clark Kent", "Kal-El"],
+      "answer": 3,
+      "why": "He was born Kal-El and later became Clark Kent.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-03",
+      "q": "Who played Superman in the 1978 film Superman?",
+      "options": ["George Reeves", "Dean Cain", "Christopher Reeve", "Henry Cavill"],
+      "answer": 2,
+      "why": "Christopher Reeve led the 1978 film and each of its sequels.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-04",
+      "q": "In which year did Superman debut in Action Comics #1?",
+      "options": ["1945", "1938", "1941", "1939"],
+      "answer": 1,
+      "why": "Action Comics #1 was released in April 1938, cover-dated June 1938.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-05",
+      "q": "Who plays Superman in James Gunn's 2025 film Superman?",
+      "options": ["David Corenswet", "Henry Cavill", "Brandon Routh", "Nicholas Hoult"],
+      "answer": 0,
+      "why": "David Corenswet stars in the 2025 film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-06",
+      "q": "Which actor played Clark Kent in the TV series Smallville?",
+      "options": ["Dean Cain", "Tyler Hoechlin", "Brandon Routh", "Tom Welling"],
+      "answer": 3,
+      "why": "Tom Welling starred in the show, which aired from 2001 to 2011.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-07",
+      "q": "Which monster appeared in 1992 and apparently killed Superman in physical combat?",
+      "options": ["Brainiac", "Bizarro", "Doomsday", "Metallo"],
+      "answer": 2,
+      "why": "Doomsday debuted in 1992 in the 'Death of Superman' storyline.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-08",
+      "q": "In which medium did Kryptonite first appear in 1943?",
+      "options": [
+        "A newspaper strip",
+        "A radio serial",
+        "A cartoon short",
+        "A live-action film serial"
+      ],
+      "answer": 1,
+      "why": "Kryptonite first appeared in a 1943 radio serial before its comic debut in Superman #61 in 1949.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Kryptonite"
+    },
+    {
+      "id": "superman-09",
+      "q": "Before moving to the Planet, which paper employed Clark Kent in the earliest stories?",
+      "options": [
+        "The Daily Star",
+        "The Daily Globe",
+        "The Metropolis Times",
+        "The Gotham Gazette"
+      ],
+      "answer": 0,
+      "why": "A radio serial changed his employer from The Daily Star to the Daily Planet.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    },
+    {
+      "id": "superman-10",
+      "q": "Who starred in the 1950s TV series Adventures of Superman?",
+      "options": ["Christopher Reeve", "Dean Cain", "Tom Welling", "George Reeves"],
+      "answer": 3,
+      "why": "George Reeves starred in the TV series that aired from 1952 to 1958.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Superman"
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "character": "joker",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "joker-01",
+      "q": "In which year did the Joker first appear in comics?",
+      "options": ["1940", "1942", "1945", "1938"],
+      "answer": 0,
+      "why": "The Joker debuted in Batman #1, which hit stands in spring 1940.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-02",
+      "q": "Which artist, alongside Bill Finger and Bob Kane, is credited as a co-creator of the Joker?",
+      "options": ["Jerry Robinson", "Dick Sprang", "Carmine Infantino", "Neal Adams"],
+      "answer": 0,
+      "why": "Jerry Robinson produced the playing-card sketch tied to the Joker, though Kane disputed how much he contributed.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-03",
+      "q": "Which 1928 silent film's grinning lead inspired the Joker's permanent smile?",
+      "options": ["Nosferatu", "The Cabinet of Dr. Caligari", "Metropolis", "The Man Who Laughs"],
+      "answer": 3,
+      "why": "Bill Finger passed around a photo of Conrad Veidt from The Man Who Laughs, whose grin shaped the Joker's look.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-04",
+      "q": "In The Killing Joke, what alias does the future Joker wear when he falls into a chemical vat?",
+      "options": ["Black Mask", "Red Robin", "Red Hood", "Hush"],
+      "answer": 2,
+      "why": "The 1988 graphic novel by Moore and Bolland shows a failed comedian disguised as the Red Hood during a heist that goes wrong.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-05",
+      "q": "Which member of the Bat-family does the Joker shoot and paralyze in The Killing Joke?",
+      "options": ["Vicki Vale", "Barbara Gordon", "Selina Kyle", "Harleen Quinzel"],
+      "answer": 1,
+      "why": "He cripples Barbara Gordon, then tortures her father, trying to prove one bad day can break anyone.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-06",
+      "q": "Who played the Joker in Tim Burton's 1989 Batman film?",
+      "options": ["Jack Nicholson", "Cesar Romero", "Heath Ledger", "Jared Leto"],
+      "answer": 0,
+      "why": "Jack Nicholson played the character, named Jack Napier, in the 1989 film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-07",
+      "q": "Which actor played the Joker in the 1966 Batman TV series?",
+      "options": ["Frank Gorshin", "Burgess Meredith", "Victor Buono", "Cesar Romero"],
+      "answer": 3,
+      "why": "Cesar Romero was the Clown Prince of Crime in the 1960s series and its film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-08",
+      "q": "Which voice actor first voiced the Joker in Batman: The Animated Series in 1992?",
+      "options": ["Kevin Conroy", "Michael Emerson", "Mark Hamill", "John DiMaggio"],
+      "answer": 2,
+      "why": "Mark Hamill started voicing the Joker with the 1992 series and became a definitive version of the role.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-09",
+      "q": "In which 2016 film did Jared Leto first play the Joker?",
+      "options": [
+        "Batman v Superman: Dawn of Justice",
+        "Suicide Squad",
+        "Justice League",
+        "Birds of Prey"
+      ],
+      "answer": 1,
+      "why": "Leto debuted as the Joker in the DC Extended Universe film Suicide Squad in 2016.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    },
+    {
+      "id": "joker-10",
+      "q": "Which editor overruled Bill Finger's wish to kill off the Joker after his first story?",
+      "options": ["Whitney Ellsworth", "Julius Schwartz", "Mort Weisinger", "Vin Sullivan"],
+      "answer": 0,
+      "why": "Finger wanted the villain to die in his debut, but editor Whitney Ellsworth kept him alive for future stories.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Joker_(character)"
+    }
+  ]
+}

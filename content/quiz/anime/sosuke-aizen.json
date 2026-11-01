@@ -1,0 +1,117 @@
+{
+  "character": "sosuke-aizen",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "sosuke-aizen-01",
+      "q": "Which Zanpakutō does Aizen wield?",
+      "options": ["Senbonzakura", "Zangetsu", "Kyōka Suigetsu", "Hyōrinmaru"],
+      "answer": 2,
+      "why": "Kyōka Suigetsu is his sword; its shikai plants complete illusions.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-02",
+      "q": "Aizen is the captain of which Gotei 13 division when introduced?",
+      "options": ["Third", "Fifth", "Ninth", "Eleventh"],
+      "answer": 1,
+      "why": "He leads the Fifth Division.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-03",
+      "q": "Aizen's elite Arrancar guard in Hueco Mundo is called what?",
+      "options": ["Vizard", "Sternritter", "Privaron Espada", "Espada"],
+      "answer": 3,
+      "why": "The Espada are his elite Arrancar.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Bleach_(manga)"
+    },
+    {
+      "id": "sosuke-aizen-04",
+      "q": "What is the shikai ability of Aizen's sword?",
+      "options": [
+        "Ten Thousand Blades",
+        "Absolute Freeze",
+        "Complete Hypnosis",
+        "Lightning Release"
+      ],
+      "answer": 2,
+      "why": "Its shikai, set off by the command shatter, gives Complete Hypnosis.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-05",
+      "q": "Who created the Hōgyoku that Aizen craves?",
+      "options": ["Mayuri Kurotsuchi", "Kisuke Urahara", "Jūshirō Ukitake", "Genryūsai Yamamoto"],
+      "answer": 1,
+      "why": "Urahara created it, and Aizen framed him and forced his exile.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-06",
+      "q": "Which two Soul Reapers are Aizen's closest allies?",
+      "options": [
+        "Shunsui Kyōraku and Jūshirō Ukitake",
+        "Kenpachi Zaraki and Byakuya Kuchiki",
+        "Gin Ichimaru and Kaname Tōsen",
+        "Sajin Komamura and Tōshirō Hitsugaya"
+      ],
+      "answer": 2,
+      "why": "Gin Ichimaru and Kaname Tōsen join Aizen's side.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-07",
+      "q": "Which studio animated the Bleach TV anime?",
+      "options": ["Bones", "Madhouse", "Pierrot", "MAPPA"],
+      "answer": 2,
+      "why": "Pierrot's TV anime premiered in October 2004.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Bleach_(manga)"
+    },
+    {
+      "id": "sosuke-aizen-08",
+      "q": "Which palace in Hueco Mundo serves as Aizen's fortress?",
+      "options": ["Seireitei", "Rukongai", "Sōkyoku Hill", "Las Noches"],
+      "answer": 3,
+      "why": "Aizen took over Barragan's palace, Las Noches.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-09",
+      "q": "Who voices Aizen in the Japanese anime?",
+      "options": ["Tomokazu Seki", "Masakazu Morita", "Jun Fukuyama", "Shō Hayami"],
+      "answer": 3,
+      "why": "Shō Hayami is Aizen's Japanese voice.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen"
+    },
+    {
+      "id": "sosuke-aizen-10",
+      "q": "In which Bleach chapter does Aizen first appear?",
+      "options": ["Chapter 31", "Chapter 79", "Chapter 12", "Chapter 55"],
+      "answer": 1,
+      "why": "He first appears in chapter 79, Fourteen Days for Conspiracy, in 2003.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/S%C5%8Dsuke_Aizen",
+      "giveawayOk": true
+    }
+  ]
+}

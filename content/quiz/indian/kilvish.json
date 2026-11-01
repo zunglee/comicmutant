@@ -1,0 +1,101 @@
+{
+  "character": "kilvish",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "kilvish-01",
+      "q": "Which actor played Tamraj Kilvish in the Doordarshan superhero series?",
+      "options": ["Surendra Pal", "Mukesh Khanna", "Mukesh Rishi", "Gufi Paintal"],
+      "answer": 0,
+      "why": "Surendra Pal played Kilvish from 1997 to 2005 on DD National.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Surendra_Pal"
+    },
+    {
+      "id": "kilvish-02",
+      "q": "Tamraj Kilvish is the main enemy of which TV superhero?",
+      "options": ["Captain Vyom", "Krrish", "Shaktimaan", "Mr. India"],
+      "answer": 2,
+      "why": "Kilvish is the dark-lord nemesis of the yogi-hero Shaktimaan.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-03",
+      "q": "What does Kilvish's catchphrase 'Andhera Kayam Rahe' mean?",
+      "options": [
+        "Let the night be silent",
+        "May darkness prevail",
+        "Fear shall rule",
+        "Evil never sleeps"
+      ],
+      "answer": 1,
+      "why": "The line translates to 'may darkness prevail', which sums up his goal of spreading darkness.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-04",
+      "q": "What does Kilvish want to achieve in the series?",
+      "options": [
+        "Rule the world by spreading darkness and hatred",
+        "Take revenge on the police",
+        "Become the richest man in the whole world through crime",
+        "Free his jailed gang"
+      ],
+      "answer": 0,
+      "why": "Kilvish is a lord of the dark who wants to spread sin and evil and rule the world.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-05",
+      "q": "Which crystal in Kilvish's possession is the hero's only weakness?",
+      "options": ["Papmani", "Nagmani", "Shaktimani", "Chandramani"],
+      "answer": 0,
+      "why": "Shaktimaan loses his powers when the evil-filled Papmani gem is used against him.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-06",
+      "q": "Kilvish can only be killed by which figure, whose rebirth the hero is said to be?",
+      "options": ["Shri Satya", "The Mahaguru", "Ranjit Singh", "Vidyadhar Shastri"],
+      "answer": 0,
+      "why": "The show reveals that only Shri Satya can end Kilvish, and Shaktimaan is told he is that figure reborn.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-07",
+      "q": "Which evil scientist helps Kilvish by cloning the hero?",
+      "options": ["Dr. Mathur", "Dr. Jackal", "Dr. Vishwanath", "Dr. Bhargav"],
+      "answer": 1,
+      "why": "Dr. Jackal, a scientist turned bitter after losing a scholarship, works for Kilvish and builds a clone of the hero.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    },
+    {
+      "id": "kilvish-08",
+      "q": "What does the \"Tamraj\" in Kilvish's name mean?",
+      "options": [
+        "King of Darkness",
+        "King of Fire",
+        "Lord of the Underworld",
+        "Master of Illusions"
+      ],
+      "answer": 0,
+      "why": "Tama stands for the dark and raj for king, so the title reads as ruler of the dark.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan"
+    }
+  ]
+}

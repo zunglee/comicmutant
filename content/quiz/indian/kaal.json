@@ -1,0 +1,116 @@
+{
+  "character": "kaal",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "kaal-01",
+      "q": "Which actor plays the villain Kaal in Krrish 3?",
+      "options": ["Vivek Oberoi", "Rohit Roy", "Arjun Rampal", "Sanjay Dutt"],
+      "answer": 0,
+      "why": "Vivek Oberoi plays Kaal, a disabled scientist with telekinetic powers.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-02",
+      "q": "What power does the disabled Kaal use against his enemies?",
+      "options": ["Super speed", "Telekinesis", "Invisibility", "Flight"],
+      "answer": 1,
+      "why": "Though he cannot walk, Kaal moves objects with his mind.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-03",
+      "q": "In which year did Krrish 3 release, on the occasion of Diwali?",
+      "options": ["2011", "2013", "2016", "2014"],
+      "answer": 1,
+      "why": "Krrish 3 opened on 1 November 2013 and became the highest-grossing Indian superhero film.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-04",
+      "q": "How does Kaal plan to profit from the deadly virus he spreads?",
+      "options": [
+        "By selling it as a weapon",
+        "By holding a city to ransom",
+        "By taking over hospitals",
+        "By selling the antidote"
+      ],
+      "answer": 3,
+      "why": "Kaal releases the virus himself so he can sell the cure.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-05",
+      "q": "Which actress plays Kaal's shapeshifting henchwoman Kaya?",
+      "options": ["Kangana Ranaut", "Deepika Padukone", "Katrina Kaif", "Bipasha Basu"],
+      "answer": 0,
+      "why": "Kangana Ranaut plays Kaya, a mutant who can change her form.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-06",
+      "q": "What name does the film give to Kaal's human-animal hybrid creations?",
+      "options": ["Janvars", "Maanvars", "Pashuvars", "Naarvars"],
+      "answer": 1,
+      "why": "The Maanvars include Striker the Frogman, Cheetah Woman, Ant Man, Scorpion Woman and Rhino Man.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-07",
+      "q": "Which real Alpine site served as Kaal's lab on screen?",
+      "options": [
+        "The Eiger Glacier Station",
+        "The Zugspitze Observatory",
+        "The Sphinx Observatory",
+        "The Mont Blanc Hut"
+      ],
+      "answer": 2,
+      "why": "Filming in the Alps used the Sphinx Observatory as Kaal's lab.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-08",
+      "q": "Roughly how heavy was Kaal's costume, reportedly?",
+      "options": ["About 8 kg", "About 15 kg", "About 40 kg", "About 28 kg"],
+      "answer": 3,
+      "why": "The elaborate suit was said to weigh around 28 kilograms.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-09",
+      "q": "What does Krrish use to kill Kaal at the end of Krrish 3?",
+      "options": ["Rohit's solar pen", "A laser gun", "A sonic blast", "A rocket launcher"],
+      "answer": 0,
+      "why": "Krrish finishes Kaal with the solar pen, a device left over from his father Rohit's experiment.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    },
+    {
+      "id": "kaal-10",
+      "q": "Who directed Krrish 3?",
+      "options": ["Sanjay Gadhvi", "Rakesh Roshan", "Rohit Shetty", "Ayan Mukerji"],
+      "answer": 1,
+      "why": "Rakesh Roshan was writer, producer and director of this third Krrish film.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    }
+  ]
+}

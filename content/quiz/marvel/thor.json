@@ -1,0 +1,111 @@
+{
+  "character": "thor",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "thor-01",
+      "q": "In which comic did Thor debut in August 1962?",
+      "options": [
+        "Journey into Mystery #83",
+        "Tales of Suspense #39",
+        "Strange Tales #101",
+        "Tales to Astonish #27"
+      ],
+      "answer": 0,
+      "why": "Journey into Mystery #83 (August 1962) featured Thor's first appearance.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-02",
+      "q": "In early comics, what mortal identity does Thor live under on Earth?",
+      "options": ["Stephen Strange", "Donald Blake", "Bruce Banner", "Hank Pym"],
+      "answer": 1,
+      "why": "Odin sent Thor to Earth as the doctor Donald Blake, whose walking stick turns into Mjolnir.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-03",
+      "q": "What item does Thor wear that doubles his strength but drains his energy?",
+      "options": ["A cloak of storms", "A magic belt", "A winged helmet", "Golden boots"],
+      "answer": 1,
+      "why": "The enchanted belt multiplies his strength twofold, yet the energy it costs him makes him use it rarely.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-04",
+      "q": "Who became the new Thor in the 2014 storyline following Original Sin?",
+      "options": ["Sif", "Valkyrie", "Amora", "Jane Foster"],
+      "answer": 3,
+      "why": "Jane Foster took up Mjolnir and became the Mighty Thor in 2014.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-05",
+      "q": "Who is Thor's adoptive brother and long-time rival?",
+      "options": ["Loki", "Balder", "Heimdall", "Hogun"],
+      "answer": 0,
+      "why": "Loki is Odin's adopted son and Thor's longtime nemesis.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-06",
+      "q": "Which actor plays Thor in the Marvel Cinematic Universe?",
+      "options": ["Chris Evans", "Chris Hemsworth", "Chris Pratt", "Chris Pine"],
+      "answer": 1,
+      "why": "Chris Hemsworth has played Thor since the 2011 film Thor.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-07",
+      "q": "Which alien hero was given the hammer Stormbreaker by Odin after proving worthy?",
+      "options": ["Hercules", "Balder the Brave", "Beta Ray Bill", "Hogun"],
+      "answer": 2,
+      "why": "Beta Ray Bill earned Stormbreaker from Odin after proving himself worthy.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-08",
+      "q": "In which year did Thor #159 reveal that Thor's mortal identity was a fabrication?",
+      "options": ["1964", "1960", "1968", "1972"],
+      "answer": 2,
+      "why": "Thor #159, published in 1968, revealed that Blake was a persona created for Thor.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-09",
+      "q": "Who wrote the 2012 series Thor: God of Thunder?",
+      "options": ["Jason Aaron", "Matt Fraction", "Walt Simonson", "Al Ewing"],
+      "answer": 0,
+      "why": "Jason Aaron and artist Esad Ribic launched Thor: God of Thunder in 2012.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    },
+    {
+      "id": "thor-10",
+      "q": "Which writer, Stan Lee's younger brother, scripted Thor's 1962 debut?",
+      "options": ["Jack Kirby", "Larry Lieber", "Don Heck", "Joe Simon"],
+      "answer": 1,
+      "why": "Larry Lieber scripted Thor's debut, working with Stan Lee and Jack Kirby.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Thor_(Marvel_Comics)"
+    }
+  ]
+}

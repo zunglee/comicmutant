@@ -1,0 +1,106 @@
+{
+  "character": "g-one",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "g-one-01",
+      "q": "Who plays both the game hero G.One and his creator in Ra.One?",
+      "options": ["Shah Rukh Khan", "Salman Khan", "Aamir Khan", "Hrithik Roshan"],
+      "answer": 0,
+      "why": "Shah Rukh Khan has a dual role: the game designer Shekhar Subramaniam and his steel-blue hero G.One.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-02",
+      "q": "What is the name of the game designer whose face G.One borrows?",
+      "options": ["Prateek Subramaniam", "Shekhar Subramaniam", "Akashi", "Barron"],
+      "answer": 1,
+      "why": "Shekhar, a designer at Barron Industries, lends his face to the protagonist of his own video game.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-03",
+      "q": "Which colour is G.One's suit, compared with the villain's red?",
+      "options": ["Gold", "Black", "Steel blue", "Silver and green"],
+      "answer": 2,
+      "why": "The physical costumes were steel blue for the hero and red for his rival Ra.One.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-04",
+      "q": "Who works with the boy to bring G.One to life in the real world?",
+      "options": ["Sonia Subramaniam", "Akashi", "Barron", "Jenny Nayar"],
+      "answer": 3,
+      "why": "Jenny, the programmer behind the tech that moves digital objects into reality, helps Prateek activate G.One.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-05",
+      "q": "In Ra.One, which device gives both hero and villain their powers and keeps them from being killed?",
+      "options": ["H.A.R.T.", "N.O.V.A.", "C.H.I.P.", "P.U.L.S.E."],
+      "answer": 0,
+      "why": "Each character's H.A.R.T. grants powers; destroying it is the only way to kill them.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-06",
+      "q": "Which boy does G.One protect after he enters the real world?",
+      "options": ["Akash", "Prateek", "Rohan", "Kabir"],
+      "answer": 1,
+      "why": "Prateek, the creator's son, bonds with G.One and ends up controlling him in the final fight.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-07",
+      "q": "Which superstar appears as Chitti the Robot in Ra.One, only as a computer-generated likeness?",
+      "options": ["Kamal Haasan", "Chiranjeevi", "Rajinikanth", "Vijay"],
+      "answer": 2,
+      "why": "Rajinikanth was unavailable, so his Chitti cameo was built digitally.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-08",
+      "q": "Who narrates the video game inside Ra.One?",
+      "options": ["Mithun Chakraborty", "Sanjay Dutt", "Amrish Puri", "Amitabh Bachchan"],
+      "answer": 3,
+      "why": "Amitabh Bachchan voices the game's narration; Sanjay Dutt and Priyanka Chopra cameo in other bits.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-09",
+      "q": "In which year was the film Ra.One, featuring G.One, released?",
+      "options": ["2013", "2011", "2012", "2020"],
+      "answer": 1,
+      "why": "Ra.One reached Indian screens on 26 October 2011, around Diwali.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    },
+    {
+      "id": "g-one-10",
+      "q": "Who directed Ra.One?",
+      "options": ["Rakesh Roshan", "Anubhav Sinha", "Karan Johar", "Farhan Akhtar"],
+      "answer": 1,
+      "why": "Anubhav Sinha wrote and directed the film, produced by Gauri Khan's Red Chillies Entertainment.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ra.One"
+    }
+  ]
+}

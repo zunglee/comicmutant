@@ -1,0 +1,116 @@
+{
+  "character": "blue-beetle-jaime-reyes",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "blue-beetle-jaime-reyes-01",
+      "q": "In which year did Jaime Reyes make his first comic appearance, in the Infinite Crisis event?",
+      "options": ["2010", "2015", "2008", "2006"],
+      "answer": 3,
+      "why": "Jaime Reyes debuted in Infinite Crisis in early 2006, and his own Blue Beetle series launched a couple of months later.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-02",
+      "q": "Which creative trio created Jaime Reyes?",
+      "options": [
+        "Geoff Johns, Phil Jimenez and Jim Lee",
+        "Keith Giffen, John Rogers and Cully Hamner",
+        "Brian Bendis, Michael Turner and Dan Jurgens",
+        "Mark Waid, Alex Ross and Greg Rucka"
+      ],
+      "answer": 1,
+      "why": "Keith Giffen and John Rogers wrote this third Blue Beetle's debut in 2006, with Cully Hamner on art.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-03",
+      "q": "Who plays Jaime Reyes in the 2023 DC film Blue Beetle?",
+      "options": ["Diego Luna", "Oscar Isaac", "Xolo Maridueña", "Anthony Ramos"],
+      "answer": 2,
+      "why": "Xolo Maridueña played Jaime Reyes in the 2023 film and is slated to continue in the new DC Universe.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-04",
+      "q": "What gives Jaime Reyes his powers and armor in the comics?",
+      "options": [
+        "A power ring",
+        "A scarab fused to his spine",
+        "A cosmic belt",
+        "A magic amulet from an Egyptian tomb"
+      ],
+      "answer": 1,
+      "why": "An ancient scarab bonds to Jaime's spine and manifests armored powers, often with blue energy from its antennae.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-05",
+      "q": "In the comics, Jaime Reyes is a high-school student from which Texas city?",
+      "options": ["San Antonio", "El Paso", "Austin", "Laredo"],
+      "answer": 1,
+      "why": "The comic version of Jaime lives in El Paso, Texas, with his parents and sister Milagro; the 2023 film moved him to Palmera City.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-06",
+      "q": "In the comics, which alien race originally created the Blue Beetle artifact as a weapon?",
+      "options": ["The Dominators", "The Khunds", "The Daxamites", "The Reach"],
+      "answer": 3,
+      "why": "It turned out to be a Reach device that escaped their command once the first humans bonded with it.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-07",
+      "q": "Which time-traveling hero turns up looking for the artifact, only to find it already bonded with Jaime?",
+      "options": ["Hal Jordan", "Ted Kord", "Kyle Rayner", "Booster Gold"],
+      "answer": 3,
+      "why": "Booster Gold comes to recover the scarab but ends up recruiting Jaime to help Batman take on Brother Eye.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-08",
+      "q": "Which Green Lantern fights Jaime early in his solo series after his ring reacts furiously to the alien artifact?",
+      "options": ["Hal Jordan", "Kyle Rayner", "Guy Gardner", "John Stewart"],
+      "answer": 2,
+      "why": "In the early issues Guy Gardner's ring reacts to the scarab, sends him into a fury and he attacks Jaime.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-09",
+      "q": "Jaime Reyes appeared in a 2011 live-action episode of which TV series, played by Jaren Brandt Bartlett?",
+      "options": ["Arrow", "Gotham", "Smallville", "Titans"],
+      "answer": 2,
+      "why": "In the Smallville episode 'Booster', Jaime is a shy Metropolis teen who bonds with the Blue Beetle scarab.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    },
+    {
+      "id": "blue-beetle-jaime-reyes-10",
+      "q": "Who voices Jaime Reyes in the animated series Batman: The Brave and the Bold?",
+      "options": ["Eric Lopez", "Jake T. Austin", "Will Friedle", "Dee Bradley Baker"],
+      "answer": 2,
+      "why": "Will Friedle voices Blue Beetle in Batman: The Brave and the Bold; Eric Lopez and Jake T. Austin voice him elsewhere.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Blue_Beetle_(Jaime_Reyes)"
+    }
+  ]
+}

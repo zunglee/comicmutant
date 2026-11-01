@@ -1,0 +1,117 @@
+{
+  "character": "frieza",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "frieza-01",
+      "q": "What is Frieza's species called?",
+      "options": ["Majin", "Saiyan", "Namekian", "Frost Demon"],
+      "answer": 3,
+      "why": "Frieza belongs to the Frost Demon race, which also includes his father and his brother Cooler.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-02",
+      "q": "Who is Frieza's father?",
+      "options": ["King Vegeta", "King Kai", "King Cold", "Cooler"],
+      "answer": 2,
+      "why": "King Cold is Frieza's father; Cooler is a brother.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-03",
+      "q": "After Frieza kills Krillin on Namek, which hero first turns Super Saiyan?",
+      "options": ["Vegeta", "Goku", "Gohan", "Piccolo"],
+      "answer": 1,
+      "why": "The loss of Krillin triggers Goku's famous golden transformation.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-04",
+      "q": "Frieza wiped out which Saiyan homeworld?",
+      "options": ["Planet Cereal", "Planet Yardrat", "Planet Kanassa", "Planet Vegeta"],
+      "answer": 3,
+      "why": "He blew up Planet Vegeta long before later destroying Namek.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-05",
+      "q": "Who is credited with slicing the mechanical Frieza to pieces?",
+      "options": ["Super Saiyan Goku", "Piccolo", "Tien", "Future Trunks"],
+      "answer": 3,
+      "why": "Trunks sliced the mechanical Frieza into pieces.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-06",
+      "q": "In Funimation's in-house English dub of Dragon Ball Z, who voiced Frieza?",
+      "options": ["Pauline Newstone", "Christopher Sabat", "Linda Young", "Christopher Ayres"],
+      "answer": 2,
+      "why": "Linda Young played him through the Z series; Christopher Ayres took over later in Kai and onward.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-07",
+      "q": "Toriyama named Frieza's elite fighters after which kind of items?",
+      "options": [
+        "Vegetables",
+        "Spices, herbs and condiments",
+        "Fish and seafood",
+        "Fruits and dairy products"
+      ],
+      "answer": 3,
+      "why": "The Ginyu Force and other minions have names from fruits and dairy, a refrigerator joke tied to the boss's name.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-08",
+      "q": "In which Dragon Ball manga chapter does Frieza make his debut?",
+      "options": ["Chapter 204", "Chapter 247", "Chapter 183", "Chapter 219"],
+      "answer": 1,
+      "why": "Dark Clouds Swirl Over Planet Namek, chapter 247 in late 1989, first brought him in.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Frieza",
+      "giveawayOk": true
+    },
+    {
+      "id": "frieza-09",
+      "q": "Frieza's Golden form in Resurrection 'F' follows how long of training?",
+      "options": ["Two weeks", "Ten days", "One year", "Four months"],
+      "answer": 3,
+      "why": "After being revived, he trained for four months to reach the golden form.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    },
+    {
+      "id": "frieza-10",
+      "q": "Toriyama said Frieza was modelled on which group of people?",
+      "options": [
+        "Bubble-era real estate speculators",
+        "Yakuza bosses of the postwar black market",
+        "Feudal warlords of the Sengoku period",
+        "Stock market regulators"
+      ],
+      "answer": 0,
+      "why": "Toriyama pointed to bubble-era land speculators, a kind of people he disliked, as the model for the polite tyrant.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Frieza"
+    }
+  ]
+}

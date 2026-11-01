@@ -1,0 +1,137 @@
+{
+  "character": "spider-man",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "spider-man-01",
+      "q": "In which comic did the web-slinger debut in 1962?",
+      "options": [
+        "Marvel Tales #1",
+        "Marvel Team-Up #1",
+        "Amazing Fantasy #15",
+        "Tales of Suspense #39"
+      ],
+      "answer": 2,
+      "why": "Spidey first swung into view in Amazing Fantasy #15, the final issue of that anthology series.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-02",
+      "q": "Who co-created Spider-Man with Stan Lee?",
+      "options": ["Jack Kirby", "John Romita Sr.", "Todd McFarlane", "Steve Ditko"],
+      "answer": 3,
+      "why": "Steve Ditko co-created Spider-Man and designed his costume, with Stan Lee writing.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-03",
+      "q": "What does Spider-Man's 'spider-sense' do for him?",
+      "options": [
+        "Gives a precognitive warning of danger",
+        "Lets him read the minds of nearby people",
+        "Detects hidden spiders",
+        "Lets him see in the dark"
+      ],
+      "answer": 0,
+      "why": "The spider-sense gives Peter a quick, precognitive warning when he is in danger.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-04",
+      "q": "In the original comics, who designed Spider-Man's web-shooters?",
+      "options": [
+        "Tony Stark",
+        "Peter Parker himself",
+        "Reed Richards of the Baxter Building",
+        "Hank Pym"
+      ],
+      "answer": 1,
+      "why": "Peter built the wrist-mounted web-shooters himself, a showcase of his science talent.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-05",
+      "q": "In which 1973 issue does Gwen Stacy die in the comics?",
+      "options": [
+        "The Amazing Spider-Man #50",
+        "The Amazing Spider-Man #98",
+        "The Amazing Spider-Man #121",
+        "The Amazing Spider-Man #105"
+      ],
+      "answer": 2,
+      "why": "Gwen died after being thrown from a bridge tower by the Green Goblin in ASM #121, a turning point for the comics.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man",
+      "giveawayOk": true
+    },
+    {
+      "id": "spider-man-06",
+      "q": "In which year did Miles Morales debut in comics?",
+      "options": ["2011", "1999", "2008", "2004"],
+      "answer": 0,
+      "why": "Miles Morales first appeared in 2011 in the Ultimate Comics: Spider-Man series.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-07",
+      "q": "Which actor first played Spider-Man in the Marvel Cinematic Universe, starting in 2016?",
+      "options": ["Tom Holland", "Tobey Maguire", "Andrew Garfield", "Jake Johnson"],
+      "answer": 0,
+      "why": "Tom Holland joined the MCU as Spider-Man in 2016, in Captain America: Civil War.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-08",
+      "q": "For which newspaper does the hero work as a photographer?",
+      "options": ["The Daily Planet", "The Daily Bugle", "The Daily Globe", "The Gotham Gazette"],
+      "answer": 1,
+      "why": "Peter sells photos to the Daily Bugle, run by his foe J. Jonah Jameson.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-09",
+      "q": "What is the civilian name of the Green Goblin in the comics?",
+      "options": ["Otto Octavius", "Curt Connors", "Norman Osborn", "Flint Marko"],
+      "answer": 2,
+      "why": "Norman Osborn, father of Harry, is the original Green Goblin and one of Spidey's worst foes.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-10",
+      "q": "In which New York City borough was the hero born?",
+      "options": ["Brooklyn", "Manhattan", "The Bronx", "Queens"],
+      "answer": 3,
+      "why": "Peter was born in Forest Hills, Queens.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    },
+    {
+      "id": "spider-man-11",
+      "q": "In which year did the comic event Spider-Verse introduce variants like Spider-Gwen and Spider-Man Noir?",
+      "options": ["2011", "2003", "2014", "2013"],
+      "answer": 2,
+      "why": "Spider-Verse began in November 2014 and brought many alternate-universe spiders together.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Spider-Man"
+    }
+  ]
+}

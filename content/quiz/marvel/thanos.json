@@ -1,0 +1,111 @@
+{
+  "character": "thanos",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "thanos-01",
+      "q": "Thanos debuted in which series in 1973?",
+      "options": [
+        "The Incredible Hulk",
+        "Captain Marvel",
+        "The Invincible Iron Man",
+        "Fantastic Four"
+      ],
+      "answer": 2,
+      "why": "Thanos made his debut in The Invincible Iron Man #55, dated February 1973.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-02",
+      "q": "Which writer-artist created Thanos?",
+      "options": ["Jack Kirby", "Roy Thomas", "Steve Englehart", "Jim Starlin"],
+      "answer": 3,
+      "why": "Jim Starlin created Thanos for Marvel, and later shaped his best-known stories.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-03",
+      "q": "In the comics, which world is Thanos from?",
+      "options": ["Titan", "Xandar", "Sakaar", "Knowhere"],
+      "answer": 0,
+      "why": "Thanos is an Eternal-Deviant hybrid from Titan, a moon of Saturn.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-04",
+      "q": "In the comics, whom does Thanos hope to woo with the power of the Infinity Gauntlet?",
+      "options": ["Gamora", "Mistress Death", "Hela, Goddess of Death", "Mephisto"],
+      "answer": 1,
+      "why": "His obsession with Mistress Death drives him to erase half of all life in Infinity Gauntlet.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-05",
+      "q": "Which actor has played Thanos in the Marvel films since 2014?",
+      "options": ["Damion Poitier", "Djimon Hounsou", "Josh Brolin", "Michael Clarke Duncan"],
+      "answer": 2,
+      "why": "Josh Brolin plays Thanos, largely through motion capture, beginning with Guardians of the Galaxy in 2014.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-06",
+      "q": "Which actor played Thanos in the 2012 film The Avengers?",
+      "options": ["Josh Brolin", "Ron Perlman", "Benicio del Toro", "Damion Poitier"],
+      "answer": 3,
+      "why": "Damion Poitier played the Mad Titan before Brolin took over the role.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-07",
+      "q": "Thanos's brother, who is also called Starfox, goes by which name?",
+      "options": ["Eros", "Drax", "Quasar", "Nova"],
+      "answer": 0,
+      "why": "Eros, also known as Starfox, is Thanos's brother in the comics.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-08",
+      "q": "How many Infinity Gems does Thanos collect in the comics' Infinity Gauntlet storyline?",
+      "options": ["Four", "Six", "Five", "Seven"],
+      "answer": 1,
+      "why": "The Infinity Gauntlet story centres on six gems, which give Thanos near-total power.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-09",
+      "q": "Which Jack Kirby villain from DC Comics was an influence on Thanos?",
+      "options": ["Ra's al Ghul", "Lex Luthor", "Darkseid", "Brainiac"],
+      "answer": 2,
+      "why": "Jim Starlin drew on Darkseid, though his first sketches looked more like Metron.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    },
+    {
+      "id": "thanos-10",
+      "q": "In which year was the Infinity Gauntlet storyline published?",
+      "options": ["1981", "1989", "1980", "1991"],
+      "answer": 3,
+      "why": "In 1991's Infinity Gauntlet, Thanos erases half the universe's life before it is undone.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Thanos"
+    }
+  ]
+}

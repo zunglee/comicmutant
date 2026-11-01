@@ -1,0 +1,106 @@
+{
+  "character": "chacha-chaudhary",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "chacha-chaudhary-01",
+      "q": "Who created Chacha Chaudhary and wrote and drew the early stories?",
+      "options": ["Pran Kumar Sharma", "Anant Pai", "Narayan Debnath", "Sanjay Gupta"],
+      "answer": 0,
+      "why": "Cartoonist Pran Kumar Sharma created the red-turbaned old man and handled both story and art.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-02",
+      "q": "In which Hindi magazine did Chacha Chaudhary first appear in 1971?",
+      "options": ["Champak", "Lotpot", "Nandan", "Chandamama"],
+      "answer": 1,
+      "why": "The character began in the Hindi children's magazine Lotpot before becoming a Diamond Comics mainstay.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-03",
+      "q": "Which publisher is best known for the Chacha Chaudhary comic books?",
+      "options": ["Raj Comics", "Manoj Comics", "Diamond Comics", "Indrajal Comics"],
+      "answer": 2,
+      "why": "Diamond Comics published Chacha Chaudhary in around ten Indian languages, selling over ten million copies.",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-04",
+      "q": "Chacha's giant strongman friend Sabu comes from which planet?",
+      "options": ["Mars", "Saturn", "Venus", "Jupiter"],
+      "answer": 3,
+      "why": "Sabu is an alien from Jupiter, roughly fifteen feet tall, who supplies the muscle to Chacha's brains.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-05",
+      "q": "What is the name of Chacha Chaudhary's pet dog?",
+      "options": ["Rocket", "Tommy", "Moti", "Sheru"],
+      "answer": 0,
+      "why": "Rocket is a stray Chacha adopted, described as the only vegetarian dog in the world.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-06",
+      "q": "Which character is Chacha's wife, who sometimes chases thieves with a rolling pin?",
+      "options": ["Gudiya Chachi", "Bini Chachi", "Munni Bai", "Sheela Chachi"],
+      "answer": 1,
+      "why": "Bini Chachi runs the household and is not above taking on robbers with her rolling pin.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-07",
+      "q": "Which dacoit became immortal after accidentally drinking a potion in the Chacha Chaudhary comics?",
+      "options": ["Gobar Singh", "Dhamaka Singh", "Raaka", "Paleeta"],
+      "answer": 2,
+      "why": "Raaka is the series' main villain, made immortal by an accidentally swallowed potion.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-08",
+      "q": "Which actor played Chacha Chaudhary in the 2002 live-action series on Sahara One?",
+      "options": ["Pankaj Kapur", "Om Puri", "Sanjay Mishra", "Raghubir Yadav"],
+      "answer": 3,
+      "why": "Raghubir Yadav starred in the Sahara One show, which ran two seasons and 415 episodes from May 2002.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-09",
+      "q": "What is the name of Chacha's truck, which is part machine and part human?",
+      "options": ["Dag Dag", "Tuk Tuk", "Dhak Dhak", "Chhuk Chhuk"],
+      "answer": 0,
+      "why": "Dag Dag is Chacha's odd half-machine, half-human truck in the comic.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    },
+    {
+      "id": "chacha-chaudhary-10",
+      "q": "Chacha Chaudhary's brain is famously said to work faster than what?",
+      "options": ["A calculator", "A computer", "A speeding train", "A lightning bolt"],
+      "answer": 1,
+      "why": "The signature line says his mind runs faster than a computer, which is why Chacha outwits every villain.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary"
+    }
+  ]
+}

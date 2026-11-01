@@ -1,0 +1,106 @@
+{
+  "character": "human-torch",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "human-torch-01",
+      "q": "What does Johnny Storm shout when he ignites?",
+      "options": ["It's clobberin' time!", "Flame on!", "Avengers, assemble!", "Hulk smash!"],
+      "answer": 1,
+      "why": "'Flame on!' is the cry Johnny uses to set himself alight.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-02",
+      "q": "Johnny's older sister is which Fantastic Four member?",
+      "options": ["The Invisible Woman", "The Wasp", "Ms. Marvel", "Medusa of the Inhumans"],
+      "answer": 0,
+      "why": "Johnny's older sister is Sue Storm, the Invisible Woman.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-03",
+      "q": "Which actor played Johnny Storm in the 2005 Fantastic Four film?",
+      "options": ["Michael B. Jordan", "Joseph Quinn", "Ioan Gruffudd", "Chris Evans"],
+      "answer": 3,
+      "why": "Chris Evans played Johnny Storm in the 2005 film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-04",
+      "q": "How old was Johnny when cosmic radiation gave him his powers?",
+      "options": ["16", "12", "14", "10"],
+      "answer": 0,
+      "why": "Johnny was 16 when cosmic radiation gave him his powers.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-05",
+      "q": "In which year did Johnny debut in Fantastic Four #1?",
+      "options": ["1961", "1962", "1969", "1963"],
+      "answer": 0,
+      "why": "Fantastic Four #1 carried a November 1961 cover date.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-06",
+      "q": "Which wall-crawling hero is Johnny's friend and frequent ally, roughly his age?",
+      "options": ["Spider-Man", "Daredevil", "Hawkeye", "Iron Man"],
+      "answer": 0,
+      "why": "Spider-Man is Johnny's friend and frequent ally.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-07",
+      "q": "The 1939 android Human Torch that Johnny reinvented was created by whom?",
+      "options": ["Bill Everett", "Joe Simon", "Jack Cole", "Carl Burgos"],
+      "answer": 3,
+      "why": "Johnny was created as a reinvention of Carl Burgos's android Torch.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-08",
+      "q": "What is the name for Johnny's maximum heat output, unleashed in every direction at once?",
+      "options": ["Solar burst", "Plasma surge", "Nova flame", "Inferno blast"],
+      "answer": 2,
+      "why": "Johnny's top-power release, the nova, is his maximum output.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-09",
+      "q": "Whom did Johnny help recover his memory in Fantastic Four #4?",
+      "options": ["Captain America", "Namor", "Silver Surfer", "Hulk"],
+      "answer": 1,
+      "why": "Johnny helped the amnesiac Namor regain his memory.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    },
+    {
+      "id": "human-torch-10",
+      "q": "In which year did Johnny's apparent death occur in Fantastic Four #587?",
+      "options": ["2011", "2016", "2018", "2012"],
+      "answer": 0,
+      "why": "Johnny's apparent death was shown in Fantastic Four #587 (March 2011).",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Human_Torch"
+    }
+  ]
+}

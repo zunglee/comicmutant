@@ -1,0 +1,111 @@
+{
+  "character": "ryomen-sukuna",
+  "universe": "anime",
+  "questions": [
+    {
+      "id": "ryomen-sukuna-01",
+      "q": "How many mummified fingers hold Sukuna's power?",
+      "options": ["25", "30", "24", "20"],
+      "answer": 3,
+      "why": "Sukuna's power was sealed in 20 fingers scattered around the world.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-02",
+      "q": "Who swallows one of Sukuna's fingers and becomes his vessel?",
+      "options": ["Satoru Gojo", "Megumi Fushiguro", "Yuji Itadori", "Nobara Kugisaki"],
+      "answer": 2,
+      "why": "Yuji eats a finger at Sugisawa High School.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-03",
+      "q": "What title is Sukuna known by?",
+      "options": ["Prince of Spirits", "King of Curses", "Emperor of Hollows", "Lord of Shadows"],
+      "answer": 1,
+      "why": "He is the King of Curses.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-04",
+      "q": "What is Sukuna's Domain Expansion called?",
+      "options": [
+        "Unlimited Void",
+        "Chimera Shadow Garden",
+        "Coffin of the Iron Mountain",
+        "Malevolent Shrine"
+      ],
+      "answer": 3,
+      "why": "The Malevolent Shrine uses Cleave and Dismantle.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-05",
+      "q": "In which Japanese historical era was Sukuna the strongest sorcerer?",
+      "options": ["Kamakura", "Edo", "Sengoku", "Heian"],
+      "answer": 3,
+      "why": "He was a Heian-era sorcerer, over a thousand years ago.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-06",
+      "q": "Which company produces the Jujutsu Kaisen TV anime?",
+      "options": ["Wit Studio", "Ufotable", "MAPPA", "Bones"],
+      "answer": 2,
+      "why": "MAPPA's TV anime premiered on October 3, 2020.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+    },
+    {
+      "id": "ryomen-sukuna-07",
+      "q": "In what year did the Jujutsu Kaisen manga begin serialization?",
+      "options": ["2016", "2017", "2018", "2019"],
+      "answer": 2,
+      "why": "The manga began on March 5, 2018, after a 2017 prequel.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+    },
+    {
+      "id": "ryomen-sukuna-08",
+      "q": "Which ancient chronicle describes Ryomen-sukuna as two-faced with four arms?",
+      "options": ["Man'yōshū", "Kojiki", "Nihon Shoki", "Heike Monogatari"],
+      "answer": 2,
+      "why": "The Nihon Shoki describes a figure named Ryomen-sukuna.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-09",
+      "q": "Who voices Sukuna in the English dub of the anime?",
+      "options": ["Johnny Yong Bosch", "Sean Schemmel", "Ray Chase", "Christopher Sabat"],
+      "answer": 2,
+      "why": "Ray Chase gives the King of Curses his English voice.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ryomen_Sukuna"
+    },
+    {
+      "id": "ryomen-sukuna-10",
+      "q": "In which magazine did Akutami's 2017 prequel run?",
+      "options": ["Jump Next", "Jump Square", "Ultra Jump", "Jump Giga"],
+      "answer": 3,
+      "why": "The four-chapter prequel Tokyo Metropolitan Curse Technical School ran in Jump Giga in 2017.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Jujutsu_Kaisen"
+    }
+  ]
+}

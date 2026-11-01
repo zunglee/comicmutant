@@ -1,0 +1,111 @@
+{
+  "character": "krrish",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "krrish-01",
+      "q": "Which actor plays Krishna, the masked hero of Krrish?",
+      "options": ["Hrithik Roshan", "Tiger Shroff", "Ranbir Kapoor", "Shahid Kapoor"],
+      "answer": 0,
+      "why": "Hrithik Roshan has a dual role, as the masked hero and as the scientist in the story.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-02",
+      "q": "Besides Krishna, which character does the star play in Krrish?",
+      "options": ["His grandfather", "His father Rohit Mehra", "Siddhant Arya", "Vikram Sinha"],
+      "answer": 1,
+      "why": "Hrithik has a dual role as Krishna and Dr. Rohit Mehra.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-03",
+      "q": "The Krrish look began as a disguise for rescuing children trapped at which place?",
+      "options": ["A school", "A hospital", "A circus", "A train station"],
+      "answer": 2,
+      "why": "Krishna's black clown-style mask and inside-out jacket came from a rescue during a fire at the Great Bombay Circus.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-04",
+      "q": "Krishna follows Priya to which foreign city, where most of Krrish was shot?",
+      "options": ["Hong Kong", "Dubai", "Kuala Lumpur", "Singapore"],
+      "answer": 3,
+      "why": "More than 60 percent of the film was shot in Singapore.",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-05",
+      "q": "Which actress plays Priya, Krishna's love interest?",
+      "options": ["Priyanka Chopra", "Kareena Kapoor", "Katrina Kaif", "Deepika Padukone"],
+      "answer": 0,
+      "why": "Priyanka Chopra plays Priya Kalyanan in the 2006 film.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-06",
+      "q": "Which veteran actress plays Krishna's grandmother Sonia?",
+      "options": ["Hema Malini", "Rekha", "Jaya Bachchan", "Waheeda Rehman"],
+      "answer": 1,
+      "why": "Rekha plays Sonia Mehra, who raises Krishna away from the world's eyes.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-07",
+      "q": "Which Hong Kong action director choreographed Krrish's stunts?",
+      "options": ["Yuen Woo-ping", "Sammo Hung", "Tony Ching", "Corey Yuen"],
+      "answer": 2,
+      "why": "Tony Ching (Ching Siu-Tung) designed the film's wire-fu action.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-08",
+      "q": "During a flying stunt, a wire broke and the lead actor fell roughly how far?",
+      "options": ["About 50 feet", "About 10 feet", "About 25 feet", "About 100 feet"],
+      "answer": 0,
+      "why": "Hrithik reportedly fell around fifty feet when a wire snapped during a flying stunt.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-09",
+      "q": "Krrish won the National Film Award for which category?",
+      "options": [
+        "Best Music Direction",
+        "Best Special Effects",
+        "Best Choreography",
+        "Best Cinematography"
+      ],
+      "answer": 1,
+      "why": "The film won the 54th National Film Award for Best Special Effects.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish"
+    },
+    {
+      "id": "krrish-10",
+      "q": "Krrish (2006) is the sequel to which 2003 film?",
+      "options": ["Kaho Naa... Pyaar Hai", "Kabhi Khushi Kabhie Gham", "Dhoom", "Koi... Mil Gaya"],
+      "answer": 3,
+      "why": "It follows Koi... Mil Gaya (2003); the third film, Krrish 3, came in 2013.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3"
+    }
+  ]
+}

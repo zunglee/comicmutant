@@ -1,0 +1,126 @@
+{
+  "character": "storm",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "storm-01",
+      "q": "In which 1975 comic did Storm debut?",
+      "options": [
+        "Uncanny X-Men #94",
+        "Giant-Size X-Men #1",
+        "X-Men #1",
+        "The Incredible Hulk #181"
+      ],
+      "answer": 1,
+      "why": "Storm debuted in Giant-Size X-Men #1 as part of the new, international X-Men team.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-02",
+      "q": "Which artist co-created Storm with writer Len Wein?",
+      "options": ["Chris Claremont", "John Byrne", "Dave Cockrum", "Jim Lee"],
+      "answer": 2,
+      "why": "Len Wein and Dave Cockrum created Storm, and she became a cornerstone of the X-Men.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-03",
+      "q": "What is Storm's main power?",
+      "options": [
+        "Shapeshifting into animals",
+        "Teleportation",
+        "Mind reading",
+        "Controlling the weather"
+      ],
+      "answer": 3,
+      "why": "Storm can control the weather and fly using her atmospheric power.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-04",
+      "q": "What is Storm's real first name?",
+      "options": ["Ororo", "Raven", "Kitty", "Jean"],
+      "answer": 0,
+      "why": "Ororo Munroe is her birth name; Storm is her codename. Her mother was a Kenyan princess and her father an American photojournalist.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-05",
+      "q": "What lasting phobia did Storm develop after her parents died in a plane crash?",
+      "options": ["Fear of heights", "Claustrophobia", "Fear of water", "Fear of fire"],
+      "answer": 1,
+      "why": "The crash that killed her parents left Ororo orphaned and permanently claustrophobic.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-06",
+      "q": "As a young thief in Cairo, Storm once picked the pocket of which future mentor?",
+      "options": ["Magneto", "Colonel Nick Fury", "Charles Xavier", "Forge"],
+      "answer": 2,
+      "why": "Young Ororo stole from Charles Xavier in Cairo, long before he recruited her.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-07",
+      "q": "Who voiced Storm in X-Men: The Animated Series (1992-1997)?",
+      "options": ["Cree Summer", "Alison Sealy-Smith", "Tara Strong", "Kath Soucie"],
+      "answer": 1,
+      "why": "Alison Sealy-Smith voiced her in the 1990s cartoon and returned in X-Men '97.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-08",
+      "q": "In which year did Storm adopt her punk mohawk look in Uncanny X-Men #173?",
+      "options": ["1986", "1983", "1980", "1976"],
+      "answer": 1,
+      "why": "Storm famously swapped her flowing locks for a mohawk in 1983.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-09",
+      "q": "Which actress played Storm in the 2000 X-Men film?",
+      "options": ["Alexandra Shipp", "Halle Berry", "Zoe Saldana", "Angela Bassett"],
+      "answer": 1,
+      "why": "Halle Berry played Storm in the Fox X-Men films, and Alexandra Shipp later took over the role.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-10",
+      "q": "Which mutant inventor built the weapon that stripped Storm of her powers in the 1980s?",
+      "options": ["Cable", "Beast", "Forge", "Mister Sinister"],
+      "answer": 2,
+      "why": "Forge created the device that took away her powers, and they later had a relationship.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    },
+    {
+      "id": "storm-11",
+      "q": "What is the name of Storm's magical hammer in the comics?",
+      "options": ["Mjolnir", "Stormbreaker", "Skyrender", "Stormcaster"],
+      "answer": 3,
+      "why": "Stormcaster is a magical hammer Storm wields, separate from Thor's weapons.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Storm_(Marvel_Comics)"
+    }
+  ]
+}

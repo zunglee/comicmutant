@@ -1,0 +1,107 @@
+{
+  "character": "the-mask",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "the-mask-01",
+      "q": "Which publisher released The Mask comics?",
+      "options": ["Dark Horse Comics", "Image Comics", "DC Comics", "Marvel Comics"],
+      "answer": 0,
+      "why": "Dark Horse Comics published The Mask, with Mike Richardson behind the concept.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)",
+      "giveawayOk": true
+    },
+    {
+      "id": "the-mask-02",
+      "q": "Which actor starred as The Mask in the 1994 film?",
+      "options": ["Eddie Murphy", "Jim Carrey", "Robin Williams", "Mike Myers"],
+      "answer": 1,
+      "why": "Jim Carrey played Stanley Ipkiss in the 1994 film directed by Chuck Russell.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-03",
+      "q": "What colour does the Mask make its wearer's head?",
+      "options": ["Green", "Blue", "Red", "Yellow"],
+      "answer": 0,
+      "why": "The mask's wearer gets a green head with a toothy grin and reality-bending powers.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-04",
+      "q": "Which actress made her screen debut as Tina Carlyle in the 1994 film?",
+      "options": ["Julia Roberts", "Drew Barrymore", "Cameron Diaz", "Sandra Bullock"],
+      "answer": 2,
+      "why": "The 1994 film marked Cameron Diaz's screen debut, as Tina Carlyle.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-05",
+      "q": "Who conceived The Mask concept at the publisher?",
+      "options": ["Mike Richardson", "John Arcudi", "Doug Mahnke", "Chris Warner"],
+      "answer": 0,
+      "why": "Mike Richardson of the publisher came up with the idea of the Mask.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-06",
+      "q": "Which Norse god is the Mask's creator in Son of the Mask?",
+      "options": ["Odin", "Loki", "Thor", "Baldur"],
+      "answer": 1,
+      "why": "Alan Cumming took the role of Loki, the mask's maker, in 2005's Son of the Mask.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-07",
+      "q": "Who directed the 1994 film The Mask?",
+      "options": ["Tim Burton", "Joel Schumacher", "Chuck Russell", "Barry Sonnenfeld"],
+      "answer": 2,
+      "why": "Chuck Russell directed the 1994 film, which starred its comedy lead.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-08",
+      "q": "Who designed the definitive look of The Mask comics?",
+      "options": ["Chris Warner", "Doug Mahnke", "John Arcudi", "Mike Richardson"],
+      "answer": 0,
+      "why": "Chris Warner designed the definitive look of the Mask, while John Arcudi wrote and Doug Mahnke drew.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-09",
+      "q": "The Big Head Mask first appeared in a 1989 anthology named what?",
+      "options": ["Dark Horse Presents", "Mayhem", "Comics' Greatest World", "Dark Horse Insider"],
+      "answer": 1,
+      "why": "The Big Head version debuted in Mayhem #1 in May 1989.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    },
+    {
+      "id": "the-mask-10",
+      "q": "Who voices Stanley Ipkiss in the 1995 animated series?",
+      "options": ["Rob Paulsen", "Tom Kenny", "Jim Carrey", "Dee Bradley Baker"],
+      "answer": 0,
+      "why": "The Mask: Animated Series ran from 1995 to 1997 with Rob Paulsen as Stanley Ipkiss.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/The_Mask_(comics)"
+    }
+  ]
+}

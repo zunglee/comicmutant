@@ -1,0 +1,111 @@
+{
+  "character": "jean-grey",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "jean-grey-01",
+      "q": "What codename did Jean Grey use when she debuted in 1963?",
+      "options": ["Marvel Girl", "Phoenix", "Ms. Marvel", "Invisible Girl"],
+      "answer": 0,
+      "why": "Marvel Girl was Jean's debut codename, first seen in The X-Men #1.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-02",
+      "q": "Which entity gave Jean a new body after her shuttle sacrifice?",
+      "options": ["The Power Cosmic", "The Celestials", "Eternity", "The Phoenix Force"],
+      "answer": 3,
+      "why": "The Phoenix Force created a new body after she died piloting a damaged shuttle.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-03",
+      "q": "Jean Grey married which X-Men leader in X-Men vol. 2 #30 (1994)?",
+      "options": ["Wolverine", "Beast", "Cyclops", "Iceman"],
+      "answer": 2,
+      "why": "X-Men volume 2 #30 (March 1994) is where Jean and Cyclops wed.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-04",
+      "q": "Which power did Jean start out with at debut, before telepathy was added?",
+      "options": ["Precognition", "Telekinesis", "Teleportation", "Pyrokinesis"],
+      "answer": 1,
+      "why": "She started with telekinesis only; telepathy was added later.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-05",
+      "q": "Which creative duo made the 1980 storyline in Uncanny X-Men #129-138?",
+      "options": [
+        "Chris Claremont and John Byrne",
+        "Stan Lee and Jack Kirby",
+        "Len Wein and Dave Cockrum",
+        "Steve Englehart and George Perez"
+      ],
+      "answer": 0,
+      "why": "Claremont wrote and Byrne illustrated the Dark Phoenix Saga.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-06",
+      "q": "Which secret society manipulates Jean into becoming her dark alter ego?",
+      "options": ["The Hand", "The Brotherhood of Evil Mutants", "Hydra", "The Hellfire Club"],
+      "answer": 3,
+      "why": "The Hellfire Club's manipulation turns Phoenix into Dark Phoenix.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-07",
+      "q": "Alongside Sophie Turner, which actress played Jean Grey in the 2000-2019 X-Men film series?",
+      "options": ["Halle Berry", "Anna Paquin", "Famke Janssen", "Rebecca Romijn"],
+      "answer": 2,
+      "why": "Famke Janssen and Sophie Turner both played Jean in the film series.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-08",
+      "q": "Which Marvel editor-in-chief demanded the 1980 saga's ending be rewritten in issue #137?",
+      "options": ["Stan Lee", "Jim Shooter", "Roy Thomas", "Tom DeFalco"],
+      "answer": 1,
+      "why": "Jim Shooter felt Jean living was morally unacceptable, forcing a rewrite.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-09",
+      "q": "Which villain created Madelyne Pryor, the clone of Jean who married Scott Summers?",
+      "options": ["Mister Sinister", "Apocalypse", "Mastermind", "Sebastian Shaw"],
+      "answer": 0,
+      "why": "Mister Sinister created Madelyne Pryor.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    },
+    {
+      "id": "jean-grey-10",
+      "q": "New X-Men #150, the cover-dated issue in which Jean dies, carries which year?",
+      "options": ["2010", "2005", "2004", "2006"],
+      "answer": 2,
+      "why": "Jean's second death comes in New X-Men #150, dated February 2004.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Jean_Grey"
+    }
+  ]
+}

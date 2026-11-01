@@ -1,0 +1,111 @@
+{
+  "character": "deathstroke",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "deathstroke-01",
+      "q": "In which year did Deathstroke make his debut, in The New Teen Titans #2?",
+      "options": ["1980", "1987", "1988", "1984"],
+      "answer": 0,
+      "why": "Marv Wolfman and George Pérez introduced Deathstroke the Terminator in The New Teen Titans #2, dated December 1980.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-02",
+      "q": "Which Marvel character was first modeled on Deathstroke's name, powers and costume?",
+      "options": ["Taskmaster", "Deadpool", "Bullseye", "Punisher"],
+      "answer": 1,
+      "why": "Rob Liefeld modeled Deadpool, whose real name is also Wade Wilson, on Deathstroke, who is Slade Wilson.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-03",
+      "q": "Deathstroke's real name is Slade what?",
+      "options": ["Wayne", "Grayson", "Kord", "Wilson"],
+      "answer": 3,
+      "why": "Deathstroke is Slade Joseph Wilson, a mercenary and former US Army soldier.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-04",
+      "q": "In the comics, how does Slade gain his enhanced strength, speed and reflexes?",
+      "options": [
+        "A radioactive spider bite at a research lab",
+        "A magic ring",
+        "An experimental super-soldier serum",
+        "Alien armor"
+      ],
+      "answer": 2,
+      "why": "An experimental super-soldier serum boosted his body and mind far past human limits.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-05",
+      "q": "What two colors make up Deathstroke's comic book mask, which covers his missing eye?",
+      "options": ["Red and black", "Blue and white", "Black and orange", "Green and gold"],
+      "answer": 2,
+      "why": "A split black-and-orange mask covers his missing right eye and has become his visual trademark.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-06",
+      "q": "Deathstroke is the archenemy of the Teen Titans and which former Robin?",
+      "options": ["Tim Drake", "Jason Todd", "Barbara Gordon", "Dick Grayson"],
+      "answer": 3,
+      "why": "After his son Grant died, Slade swore revenge, which set him against Dick Grayson and the Titans.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-07",
+      "q": "Slade's son Joseph fights alongside the Titans under which codename?",
+      "options": ["Ravager", "Terra", "Changeling", "Jericho"],
+      "answer": 3,
+      "why": "Joseph Wilson is Jericho, who once transferred his consciousness into his father to take over his body.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-08",
+      "q": "In The Judas Contract, which young hero helps Deathstroke by betraying the Titans' secret identities?",
+      "options": ["Raven", "Terra", "Starfire", "Jericho"],
+      "answer": 1,
+      "why": "The Titans trusted Terra with their identities, and Slade used that information to subdue them one by one.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-09",
+      "q": "Who played Deathstroke in the 2017 film Justice League?",
+      "options": ["Manu Bennett", "Joe Manganiello", "Esai Morales", "Michael Hogan"],
+      "answer": 1,
+      "why": "Joe Manganiello played Deathstroke in Justice League and in Zack Snyder's director's cut.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    },
+    {
+      "id": "deathstroke-10",
+      "q": "In the TV series Arrow, Slade is injected with which drug that drives him insane?",
+      "options": ["Venom", "Vertigo", "Mirakuru", "Joker Venom"],
+      "answer": 2,
+      "why": "On Arrow, Manu Bennett's Slade takes the Mirakuru super-soldier serum and blames Oliver Queen for his troubles.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Deathstroke"
+    }
+  ]
+}

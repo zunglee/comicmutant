@@ -1,0 +1,111 @@
+{
+  "character": "raven",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "raven-01",
+      "q": "Which demon lord is Raven's father?",
+      "options": ["Darkseid", "Trigon", "Neron", "Etrigan"],
+      "answer": 1,
+      "why": "Raven's father is Trigon, a demon lord, and her mother is a human named Arella.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-02",
+      "q": "What is the name of Raven's mystical homeland dimension?",
+      "options": ["Azarath", "Tamaran", "Themyscira", "Thanagar"],
+      "answer": 0,
+      "why": "Raven comes from Azarath, the realm where her mother Arella sought refuge.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-03",
+      "q": "Which two creators introduced Raven?",
+      "options": [
+        "Bill Finger and Bob Kane",
+        "Dennis O'Neil and Neal Adams",
+        "Geoff Johns and Gary Frank",
+        "Marv Wolfman and George Pérez"
+      ],
+      "answer": 3,
+      "why": "Raven was created for the New Teen Titans by Marv Wolfman (writer) and George Pérez (artist).",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-04",
+      "q": "In which year did Raven first appear, in a preview insert that launched the New Teen Titans?",
+      "options": ["1990", "1976", "1984", "1980"],
+      "answer": 3,
+      "why": "DC Comics Presents #26 (October 1980) carried her first appearance, in a special insert.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-05",
+      "q": "What is the name of Raven's mother?",
+      "options": ["Alura", "Arella", "Sindella", "Lara"],
+      "answer": 1,
+      "why": "Arella is a human woman whose union with a demon lord produced Raven.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-06",
+      "q": "What colour is Raven's astral 'Soul Self'?",
+      "options": ["Black", "Violet", "Silver", "Crimson"],
+      "answer": 0,
+      "why": "George Pérez drew the Soul Self in solid black, so it reads as a gigantic raven.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-07",
+      "q": "Who voices Raven in the animated series Teen Titans and Teen Titans Go!?",
+      "options": ["Hynden Walch", "Taissa Farmiga", "Grey DeLisle", "Tara Strong"],
+      "answer": 3,
+      "why": "Tara Strong has voiced Raven in both cartoons.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-08",
+      "q": "Which actress plays Rachel Roth, Raven, in the live-action series Titans?",
+      "options": ["Anna Diop", "Taissa Farmiga", "Teagan Croft", "Brenton Thwaites"],
+      "answer": 2,
+      "why": "Teagan Croft plays the teenage Raven in Titans.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-09",
+      "q": "Which actress voices Raven in the DC Animated Movie Universe films?",
+      "options": ["Tara Strong", "Taissa Farmiga", "Teagan Croft", "Elizabeth Olsen"],
+      "answer": 1,
+      "why": "Taissa Farmiga took over the role for the DC animated movie line.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    },
+    {
+      "id": "raven-10",
+      "q": "Which of these supernatural teams has Raven belonged to in the comics?",
+      "options": ["Night Force", "Doom Patrol", "The Outsiders", "Legion of Super-Heroes"],
+      "answer": 0,
+      "why": "Besides the Titans and Justice League, Raven has been tied to groups such as Justice League Dark, Sentinels of Magic and Night Force.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Raven_(DC_Comics)"
+    }
+  ]
+}

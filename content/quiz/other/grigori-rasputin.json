@@ -1,0 +1,112 @@
+{
+  "character": "grigori-rasputin",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "grigori-rasputin-01",
+      "q": "In the comic series, Rasputin aligns himself with which wartime regime?",
+      "options": ["The Nazis", "The Soviets", "The British Empire", "The Vatican"],
+      "answer": 0,
+      "why": "The comic Rasputin works with the Nazis, who recruit him for an occult war effort.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-02",
+      "q": "Which publisher releases the comic series in which Rasputin appears?",
+      "options": ["Image Comics", "Vertigo", "Dark Horse Comics", "IDW Publishing"],
+      "answer": 2,
+      "why": "Dark Horse Comics publishes Hellboy and its spin-offs.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-03",
+      "q": "In the comics, Rasputin's wartime ritual summons which demonic child?",
+      "options": ["Hellboy", "Abe Sapien", "Roger the Homunculus", "Lobster Johnson"],
+      "answer": 0,
+      "why": "The summoning meant for Nazi use ended up delivering the baby into Allied hands.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-04",
+      "q": "What is the Third Reich occult project that Rasputin directs called?",
+      "options": ["Project Hyperborea", "Project Ragna Rok", "Project Odin", "Project Valhalla"],
+      "answer": 1,
+      "why": "After being revived, Rasputin steered the Nazis' work into Project Ragna Rok, bending it to his apocalyptic goal.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)",
+      "giveawayOk": true
+    },
+    {
+      "id": "grigori-rasputin-05",
+      "q": "In which 1994 miniseries does Rasputin make his debut?",
+      "options": ["Wake the Devil", "The Chained Coffin", "Seed of Destruction", "Conqueror Worm"],
+      "answer": 2,
+      "why": "He debuts in Seed of Destruction, the first Hellboy miniseries by Mike Mignola and John Byrne.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-06",
+      "q": "Which BPRD agent's flames finally destroy Rasputin in that 1994 miniseries?",
+      "options": ["Liz Sherman", "Abe Sapien", "Kate Corrigan", "Johann Kraus"],
+      "answer": 0,
+      "why": "Abe Sapien impales him first, then Liz Sherman's fire destroys what is left of the mystic.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-07",
+      "q": "Which actor played Rasputin in Guillermo del Toro's 2004 film?",
+      "options": ["Ron Perlman", "Karel Roden", "Doug Jones", "Jeffrey Tambor"],
+      "answer": 1,
+      "why": "Karel Roden plays the main antagonist in the 2004 film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-08",
+      "q": "Which folk witch hid a piece of Rasputin's soul in the roots of Yggdrasil in 1895?",
+      "options": ["Hecate", "Morgan le Fay", "Baba Yaga", "Circe"],
+      "answer": 2,
+      "why": "By hiding the fragment, she made him immortal, long before the Ogdru Jahad revived him.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-09",
+      "q": "In the 2004 film, which Third Reich assassin helps Ilsa resurrect Rasputin?",
+      "options": [
+        "Karl Ruprecht Kroenen",
+        "Herman von Klempt",
+        "Roderick Zinco",
+        "Lobster Johnson"
+      ],
+      "answer": 0,
+      "why": "Kroenen, a Nazi assassin, joins Ilsa in resurrecting Rasputin in the film.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Grigori_Rasputin_(Hellboy)"
+    },
+    {
+      "id": "grigori-rasputin-10",
+      "q": "On what date in 1944 was the ritual Rasputin oversaw that summoned the demon child?",
+      "options": ["June 6", "December 23", "December 16", "January 1"],
+      "answer": 1,
+      "why": "A ritual overseen by Rasputin summoned Hellboy on December 23, 1944.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hellboy"
+    }
+  ]
+}

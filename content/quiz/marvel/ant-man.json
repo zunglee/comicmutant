@@ -1,0 +1,121 @@
+{
+  "character": "ant-man",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "ant-man-01",
+      "q": "In the comics, why does Scott Lang steal Hank Pym's Ant-Man suit?",
+      "options": [
+        "To save a doctor who could treat his sick daughter",
+        "To pay off a debt to a crime boss",
+        "To stop Darren Cross from selling it to a foreign army",
+        "To get back at Pym for firing him"
+      ],
+      "answer": 0,
+      "why": "Scott took the suit so he could rescue Dr. Erica Sondheim, the specialist his ill daughter Cassie needed. Pym let him keep it if he used it for good.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-02",
+      "q": "Scott Lang is a reformed thief and an expert in which field?",
+      "options": ["Genetics", "Electronics", "Aviation", "Chemistry"],
+      "answer": 1,
+      "why": "The comics describe him as a reformed thief and an electronics expert.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-03",
+      "q": "Which actor plays Scott Lang in the Marvel Cinematic Universe?",
+      "options": ["Jeremy Renner", "Chris Pratt", "Paul Rudd", "Anthony Mackie"],
+      "answer": 2,
+      "why": "Paul Rudd has played Scott Lang since Ant-Man (2015) and in later films such as Endgame and Quantumania.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-04",
+      "q": "Scott Lang's very first appearance, cover-dated March 1979, was in which title?",
+      "options": [
+        "Marvel Premiere #47",
+        "The Avengers #181",
+        "Iron Man #128",
+        "Fantastic Four #200"
+      ],
+      "answer": 1,
+      "why": "Scott debuted in The Avengers #181 (March 1979); his first outing as Ant-Man followed a month later in Marvel Premiere #47.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-05",
+      "q": "Which trio created Scott Lang?",
+      "options": [
+        "David Michelinie, Bob Layton and John Byrne",
+        "Stan Lee, Larry Lieber and Don Heck",
+        "Roy Thomas, John Buscema and Gene Colan",
+        "Steve Englehart, Sal Buscema and Len Wein"
+      ],
+      "answer": 0,
+      "why": "Writer David Michelinie, artist/co-plotter Bob Layton and John Byrne created the second Ant-Man in 1979.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-06",
+      "q": "In the comics, Scott's helmet lets him communicate crudely with which creatures?",
+      "options": ["Birds", "Rodents", "Reptiles", "Insects"],
+      "answer": 3,
+      "why": "His cybernetic helmet allows rough telepathic communication with insects, and also carries sound amplification and a limited air supply.",
+      "difficulty": 2,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-07",
+      "q": "In issue #500 (2004) of the flagship team title, whose explosion at the team mansion seemingly kills Scott Lang?",
+      "options": ["Wonder Man", "Sentry", "Jack of Hearts", "Vision"],
+      "answer": 2,
+      "why": "Jack of Hearts blew up at the Mansion during the Avengers Disassembled era, apparently killing Scott until his return in 2011.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-08",
+      "q": "In Scott's origin, which businessman's company kidnaps Dr. Erica Sondheim?",
+      "options": ["Justin Hammer", "Darren Cross", "Obadiah Stane", "Norman Osborn"],
+      "answer": 1,
+      "why": "Darren Cross's Cross Technological Enterprises kidnapped Sondheim, which is why Scott stole the Ant-Man suit to save her.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-09",
+      "q": "After prison, which company hired Scott Lang for its design department?",
+      "options": ["Stark International", "Oscorp", "Pym Technologies", "Roxxon Energy"],
+      "answer": 0,
+      "why": "Scott is an electronics expert; after his parole he found work in the design department at Stark International.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_(Scott_Lang)"
+    },
+    {
+      "id": "ant-man-10",
+      "q": "Who directed Ant-Man and the Wasp: Quantumania (2023)?",
+      "options": ["Edgar Wright", "Jon Watts", "Taika Waititi", "Peyton Reed"],
+      "answer": 3,
+      "why": "Peyton Reed directed the third Ant-Man film, Quantumania, released in 2023.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ant-Man_and_the_Wasp:_Quantumania"
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "character": "starfire",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "starfire-01",
+      "q": "Which planet is Starfire's homeworld?",
+      "options": ["Tamaran", "Korugar", "Rann", "Thanagar"],
+      "answer": 0,
+      "why": "Starfire is a princess from Tamaran, in the Vega system.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-02",
+      "q": "Who voices Starfire in the animated series Teen Titans and Teen Titans Go!?",
+      "options": ["Tara Strong", "Taissa Farmiga", "Grey DeLisle", "Hynden Walch"],
+      "answer": 3,
+      "why": "Hynden Walch has voiced Starfire since 2003.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-03",
+      "q": "Which actress plays Starfire in the live-action series Titans?",
+      "options": ["Teagan Croft", "Brenton Thwaites", "Anna Diop", "Minka Kelly"],
+      "answer": 2,
+      "why": "Anna Diop plays Starfire in Titans, which ran from 2018 to 2023.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-04",
+      "q": "What type of radiation does Starfire absorb and turn into energy?",
+      "options": ["Gamma", "Ultraviolet", "Infrared", "X-ray"],
+      "answer": 1,
+      "why": "She converts ultraviolet light into power for flight, strength and durability.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-05",
+      "q": "What is the name of Starfire's sister, who seized the throne of her home planet and sold her into slavery?",
+      "options": ["Blackfire", "Redfire", "Moonfire", "Starbolt"],
+      "answer": 0,
+      "why": "Komand'r, called Blackfire, took the throne and enslaved Koriand'r.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-06",
+      "q": "Which two creators introduced Starfire?",
+      "options": [
+        "Bill Finger and Bob Kane",
+        "Dennis O'Neil and Neal Adams",
+        "Geoff Johns and Gary Frank",
+        "Marv Wolfman and George Pérez"
+      ],
+      "answer": 3,
+      "why": "Marv Wolfman and George Pérez created her for the New Teen Titans.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-07",
+      "q": "Alongside Starfire, Robin and Raven, which hero was a core member of the New Teen Titans?",
+      "options": ["Supergirl", "Aquaman", "Cyborg", "Hawkman"],
+      "answer": 2,
+      "why": "The New Teen Titans lineup was Robin, Wonder Girl, Kid Flash, Cyborg, Changeling, Raven and Starfire.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-08",
+      "q": "In which comic did Starfire first appear in an October 1980 preview?",
+      "options": [
+        "Teen Titans",
+        "DC Comics Presents",
+        "Justice League of America",
+        "Action Comics"
+      ],
+      "answer": 1,
+      "why": "A preview in DC Comics Presents #26 introduced the new Titans team before their own book launched.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-09",
+      "q": "What name does Starfire use when working as a model on Earth?",
+      "options": ["Kory Anders", "Kara Danvers", "Karen Starr", "Kate Kane"],
+      "answer": 0,
+      "why": "On Earth she is Kory Anders, a model.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    },
+    {
+      "id": "starfire-10",
+      "q": "Whose experiments gave Starfire her energy 'starbolts'?",
+      "options": ["The Gordanians", "The Citadel", "The Controllers", "The Psions"],
+      "answer": 3,
+      "why": "Psion experiments gave her starbolts that she fires from her hands or eyes.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Starfire_(Teen_Titans)"
+    }
+  ]
+}

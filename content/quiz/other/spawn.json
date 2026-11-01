@@ -1,0 +1,112 @@
+{
+  "character": "spawn",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "spawn-01",
+      "q": "What is Spawn's real name?",
+      "options": ["Al Simmons", "Bruce Stinson", "Jason Wynn", "Terry Fitzgerald"],
+      "answer": 0,
+      "why": "Albert Francis Simmons, a government assassin from Detroit, becomes Spawn.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-02",
+      "q": "Which demon makes the deal that returns Al as a Hellspawn?",
+      "options": ["Malebolgia", "Violator", "Cogliostro", "Jason Wynn"],
+      "answer": 0,
+      "why": "Al strikes a deal with Malebolgia, returns as a Hellspawn, and discovers he has been dead for five years.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-03",
+      "q": "Which Image Comics co-founder created Spawn?",
+      "options": ["Rob Liefeld", "Jim Lee", "Todd McFarlane", "Erik Larsen"],
+      "answer": 2,
+      "why": "Todd McFarlane created Spawn and published him through Image Comics.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-04",
+      "q": "What energy fuels Spawn's powers?",
+      "options": ["Necroplasm", "Ectoplasm", "Plasma", "Chaos"],
+      "answer": 0,
+      "why": "Spawn's hellish abilities are powered by necroplasm.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-05",
+      "q": "Which former best friend of Al marries his widow Wanda?",
+      "options": ["Twitch", "Terry", "Sam", "Jason"],
+      "answer": 1,
+      "why": "Wanda marries Terry, and the two have a daughter named Cyan.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-06",
+      "q": "In what year did Spawn #1 appear?",
+      "options": ["1993", "2003", "1992", "1995"],
+      "answer": 2,
+      "why": "Spawn #1 came out in May 1992 and sold about 1.7 million copies.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-07",
+      "q": "Which actor starred in the 1997 live-action Spawn film?",
+      "options": [
+        "Michael Jai White",
+        "Wesley Snipes",
+        "Michael Clarke Duncan",
+        "Laurence Fishburne"
+      ],
+      "answer": 0,
+      "why": "Michael Jai White played Spawn in the 1997 live-action film.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-08",
+      "q": "Which landmark Spawn release in 2019 broke Cerebus's record for the longest-running creator-owned superhero series?",
+      "options": ["Issue 301", "Issue 300", "Issue 200", "Issue 250"],
+      "answer": 0,
+      "why": "Spawn #301 arrived in 2019, one past Cerebus's 300, and Guinness certified it as a record for a creator-owned superhero run.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://www.syfy.com/syfy-wire/todd-mcfarlane-guinness-world-record-spawn-301st-issue"
+    },
+    {
+      "id": "spawn-09",
+      "q": "Who voices Spawn in HBO's 1997 animated series?",
+      "options": ["Samuel L. Jackson", "Keith David", "Michael Clarke Duncan", "Dennis Haysbert"],
+      "answer": 1,
+      "why": "Keith David voices Spawn in HBO's Todd McFarlane's Spawn, which ran from 1997 to 1999.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)"
+    },
+    {
+      "id": "spawn-10",
+      "q": "Neil Gaiman sued the series' creator over characters from which Spawn issue?",
+      "options": ["Issue 1", "Issue 5", "Issue 9", "Issue 25"],
+      "answer": 2,
+      "why": "Gaiman's lawsuit concerned Spawn #9 characters and ended in 2012.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Spawn_(character)",
+      "giveawayOk": true
+    }
+  ]
+}

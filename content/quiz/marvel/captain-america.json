@@ -1,0 +1,117 @@
+{
+  "character": "captain-america",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "captain-america-01",
+      "q": "Which duo created Captain America?",
+      "options": [
+        "Stan Lee and Jack Kirby",
+        "Stan Lee and Steve Ditko",
+        "Joe Simon and Bill Everett",
+        "Joe Simon and Jack Kirby"
+      ],
+      "answer": 3,
+      "why": "Joe Simon and Jack Kirby created Cap for Timely Comics, years before Marvel's Silver Age.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-02",
+      "q": "Which actor led the Marvel Cinematic Universe's Captain America trilogy?",
+      "options": ["Chris Hemsworth", "Sebastian Stan", "Chris Evans", "Anthony Mackie"],
+      "answer": 2,
+      "why": "Chris Evans starred in the Captain America trilogy of the 2010s.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-03",
+      "q": "Who is Captain America's primary archenemy, introduced as an apprentice to the Nazi leader?",
+      "options": ["Baron Zemo", "Red Skull", "Arnim Zola", "MODOK"],
+      "answer": 1,
+      "why": "The Red Skull is Cap's main archenemy, introduced as Hitler's protege.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-04",
+      "q": "Whom does Captain America punch on the cover of Captain America Comics #1?",
+      "options": ["Adolf Hitler", "Benito Mussolini", "Hideki Tojo", "Joseph Goebbels"],
+      "answer": 0,
+      "why": "The first issue's cover shows Cap landing a punch on Hitler.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-05",
+      "q": "Who invented the Super-Soldier Serum in the comics?",
+      "options": ["Howard Stark", "Arnim Zola", "Hank Pym", "Abraham Erskine"],
+      "answer": 3,
+      "why": "Dr. Erskine devised the serum, and a Nazi spy killed him soon after its first success.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Abraham_Erskine"
+    },
+    {
+      "id": "captain-america-06",
+      "q": "Captain America first appeared in 1940-41 from which Marvel predecessor?",
+      "options": [
+        "All-American Publications",
+        "Fawcett Publications",
+        "Timely Publications",
+        "Quality Comics"
+      ],
+      "answer": 2,
+      "why": "Captain America Comics #1 came out from Timely Publications, a corporate predecessor of Marvel.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-07",
+      "q": "Which Avengers issue, cover-dated March 1964, brought Steve Rogers back from the ice?",
+      "options": ["The Avengers #1", "The Avengers #4", "The Avengers #7", "The Avengers #16"],
+      "answer": 1,
+      "why": "Steve Rogers was formally reintroduced to the modern era in The Avengers #4 (March 1964).",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Captain_America",
+      "giveawayOk": true
+    },
+    {
+      "id": "captain-america-08",
+      "q": "Sharon Carter was first introduced as the younger sister of which wartime love of Steve Rogers?",
+      "options": ["Peggy", "Bernie", "Gail", "Maria"],
+      "answer": 0,
+      "why": "Sharon was introduced as Peggy Carter's younger sister, later retconned into her grandniece.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-09",
+      "q": "In which year did a Captain America serial become the first non-comics adaptation of a Marvel character?",
+      "options": ["1949", "1954", "1941", "1944"],
+      "answer": 3,
+      "why": "The 1944 serial was the first screen appearance of any Marvel Comics character outside comics.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    },
+    {
+      "id": "captain-america-10",
+      "q": "Which Avenger known as Falcon took over the Captain America mantle in 2014 comics?",
+      "options": ["Bucky Barnes", "John Walker", "Sam Wilson", "Clint Barton"],
+      "answer": 2,
+      "why": "Sam Wilson, the Falcon, took up the shield and mantle in 2014 comics.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Captain_America"
+    }
+  ]
+}

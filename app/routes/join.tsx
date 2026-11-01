@@ -9,6 +9,8 @@ import {
 } from '~/.server/auth';
 import { getSql } from '~/.server/db';
 import { allow, assertSameOrigin, clientIp, readForm } from '~/.server/guard';
+import { mergeGuestHistory } from '~/.server/quiz';
+import { guestId } from '~/.server/voter';
 import { AuthCard } from '~/components/auth-form';
 import { PASSWORD_MAX, PASSWORD_MIN } from '~/lib/community';
 import type { Route } from './+types/join';
@@ -51,6 +53,9 @@ export async function action({ request }: Route.ActionArgs) {
   }
   const id = await createUser(sql, name, password, null);
   if (!id) return data({ error: 'That nickname is taken. Try another.', name }, { status: 409 });
+  // Quiz questions this browser saw as a guest count as seen for the fan (Fact Frenzy Q12).
+  const guest = guestId(request);
+  if (guest) await mergeGuestHistory(sql, id, guest);
   throw redirect(next, { headers: { 'Set-Cookie': await startSession(sql, id) } });
 }
 

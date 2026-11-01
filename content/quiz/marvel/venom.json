@@ -1,0 +1,127 @@
+{
+  "character": "venom",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "venom-01",
+      "q": "From which 1984 event did Spider-Man bring back his black alien costume?",
+      "options": ["Civil War", "Secret Wars", "Infinity Gauntlet", "Inferno"],
+      "answer": 1,
+      "why": "Peter got the costume in Marvel Super Heroes Secret Wars #8; it was later revealed to be a symbiote.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-02",
+      "q": "Which artist co-created Venom with writer David Michelinie?",
+      "options": ["Rob Liefeld", "Erik Larsen", "Todd McFarlane", "Jim Lee"],
+      "answer": 2,
+      "why": "David Michelinie and Todd McFarlane created Venom.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-03",
+      "q": "Which reporter first bonded with the symbiote to become Venom?",
+      "options": ["Peter Parker", "Flash Thompson", "Mac Gargan", "Eddie Brock"],
+      "answer": 3,
+      "why": "Eddie Brock, a disgraced reporter, became Venom when the symbiote bonded with him.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-04",
+      "q": "Which Spider-Man villain was the main Venom host from 2005 to 2009?",
+      "options": ["Scorpion", "Vulture", "Rhino", "Sandman"],
+      "answer": 0,
+      "why": "Mac Gargan, the Scorpion, took on the Venom symbiote from 2005 to 2009.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-05",
+      "q": "Which former classmate of Peter Parker became Agent Venom?",
+      "options": ["Harry Osborn", "Flash Thompson", "Ned Leeds", "Miles Morales"],
+      "answer": 1,
+      "why": "Flash Thompson served as Agent Venom from 2011 to 2016.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-06",
+      "q": "Which serial killer bonds with Venom's spawn, Carnage?",
+      "options": ["Wilson Fisk", "Norman Osborn", "Cletus Kasady", "Flint Marko"],
+      "answer": 2,
+      "why": "Carnage first bonded with serial killer Cletus Kasady around ASM #344.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-07",
+      "q": "Which pair of things hurt the Venom symbiote?",
+      "options": [
+        "Cold and magnetism",
+        "Lightning and silver",
+        "Water and electricity",
+        "Fire and sonic waves"
+      ],
+      "answer": 3,
+      "why": "The symbiote is hurt by fire and high sonic waves.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-08",
+      "q": "Which actor starred as the symbiote host in the 2018 Venom film?",
+      "options": ["Tom Hardy", "Topher Grace", "Andrew Garfield", "Jake Gyllenhaal"],
+      "answer": 0,
+      "why": "Tom Hardy played Eddie Brock in the 2018 Venom.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-09",
+      "q": "Which actor played Venom in Spider-Man 3 (2007)?",
+      "options": ["Tom Hardy", "Topher Grace", "Willem Dafoe", "James Franco"],
+      "answer": 1,
+      "why": "Topher Grace played Eddie Brock in Sam Raimi's Spider-Man 3.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-10",
+      "q": "For which newspaper did the man who becomes Venom work as a reporter in the comics?",
+      "options": ["The Daily Bugle", "The Daily Planet", "The Daily Globe", "The Daily News"],
+      "answer": 2,
+      "why": "Brock was a disgraced Daily Globe reporter before becoming Venom.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)"
+    },
+    {
+      "id": "venom-11",
+      "q": "In which Amazing Spider-Man issue did Venom make his full first appearance?",
+      "options": [
+        "The Amazing Spider-Man #252",
+        "The Amazing Spider-Man #121",
+        "The Amazing Spider-Man #361",
+        "The Amazing Spider-Man #300"
+      ],
+      "answer": 3,
+      "why": "Venom made a cameo in #299 and fully debuted in #300, in May 1988.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Venom_(character)",
+      "giveawayOk": true
+    }
+  ]
+}

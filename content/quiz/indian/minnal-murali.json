@@ -1,0 +1,106 @@
+{
+  "character": "minnal-murali",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "minnal-murali-01",
+      "q": "Which actor plays the title hero Jaison in Minnal Murali?",
+      "options": ["Tovino Thomas", "Dulquer Salmaan", "Fahadh Faasil", "Prithviraj Sukumaran"],
+      "answer": 0,
+      "why": "Tovino Thomas plays Jaison, and also a second role in the same film.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-02",
+      "q": "Who directed Minnal Murali?",
+      "options": ["Lijo Jose Pellissery", "Basil Joseph", "Dileesh Pothan", "Jude Anthany Joseph"],
+      "answer": 1,
+      "why": "Basil Joseph directed the 2021 Malayalam superhero film.",
+      "difficulty": 1,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-03",
+      "q": "Which streaming service released Minnal Murali worldwide in December 2021?",
+      "options": ["Amazon Prime Video", "Disney+ Hotstar", "Netflix", "ZEE5"],
+      "answer": 2,
+      "why": "After plans for a theatrical release were dropped, Netflix released it on 24 December 2021.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-04",
+      "q": "What is the name of the village where Jaison lives?",
+      "options": ["Anjanadri", "Rajnagar", "Takshaknagar", "Kurukkanmoola"],
+      "answer": 3,
+      "why": "The story is set in the fictional village of Kurukkanmoola in Kerala.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-05",
+      "q": "What is Jaison's job before the lightning strike?",
+      "options": ["Tailor", "Teashop worker", "Bus driver", "Policeman"],
+      "answer": 0,
+      "why": "Jaison works as a tailor in Varkey's shop.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-06",
+      "q": "On which evening does lightning strike Jaison and Shibu?",
+      "options": ["New Year's Eve", "Christmas Eve", "Onam night", "Diwali night"],
+      "answer": 1,
+      "why": "The lightning strikes on Christmas Eve, giving both men their powers.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-07",
+      "q": "Besides Jaison, which character does the lead actor play in Minnal Murali?",
+      "options": ["Josemon", "Varkey", "Martin Rangakala", "Daasan"],
+      "answer": 2,
+      "why": "Tovino has a dual role: Jaison and Martin Rangakala, Jaison's biological father.",
+      "difficulty": 3,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-08",
+      "q": "Who composed the film score of Minnal Murali?",
+      "options": ["Gopi Sundar", "Hesham Abdul Wahab", "Rex Vijayan", "Sushin Shyam"],
+      "answer": 3,
+      "why": "Sushin Shyam scored the film and shared songs with Shaan Rahman.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-09",
+      "q": "Who produced Minnal Murali under Weekend Blockbusters?",
+      "options": ["Sophia Paul", "Anto Joseph", "Antony Perumbavoor", "Listin Stephen"],
+      "answer": 0,
+      "why": "Sophia Paul produced the film through her banner Weekend Blockbusters.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    },
+    {
+      "id": "minnal-murali-10",
+      "q": "Which character is Jaison's karate-instructor girlfriend?",
+      "options": ["Usha", "Bruce Lee Biji", "Jesmi", "Bincy"],
+      "answer": 1,
+      "why": "'Bruce Lee' Biji, played by Femina George, is a travel agent and karate instructor.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    }
+  ]
+}

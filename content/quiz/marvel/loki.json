@@ -1,0 +1,111 @@
+{
+  "character": "loki",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "loki-01",
+      "q": "In which year did Tom Hiddleston first appear as Loki in a Marvel film?",
+      "options": ["2010", "2012", "2011", "2013"],
+      "answer": 2,
+      "why": "Hiddleston debuted as Loki in the first Thor film in 2011 and has reprised the role in many MCU titles since.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-02",
+      "q": "Loki's scheme of manipulating the Hulk led to the formation of which hero team?",
+      "options": ["The X-Men", "The Avengers", "The Defenders", "The Fantastic Four"],
+      "answer": 1,
+      "why": "In the comics, Loki's plot to frame the Hulk pulled several heroes together, who then stayed on as the Avengers.",
+      "difficulty": 1,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-03",
+      "q": "In the comics, Loki grew up in which realm?",
+      "options": ["Jotunheim", "Midgard", "Asgard", "Alfheim"],
+      "answer": 2,
+      "why": "Odin took Loki in as an infant and raised him in Asgard alongside Thor, though the boy was born a Frost Giant.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-04",
+      "q": "Loki's earliest modern clash with Thor on Earth comes after he escapes from what?",
+      "options": ["A volcano", "A tree", "A glacier", "A dungeon"],
+      "answer": 1,
+      "why": "Loki gets free of the tree and squares off against Thor on Earth; Thor pulls him from the water, then hurls him home to Asgard.",
+      "difficulty": 3,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-05",
+      "q": "Which legendary artist redesigned Loki and drew his Silver Age debut?",
+      "options": ["Jack Kirby", "Steve Ditko", "John Buscema", "Don Heck"],
+      "answer": 0,
+      "why": "Jack Kirby penciled the modern Loki's debut and gave him the look that defined the Silver Age version.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-06",
+      "q": "In the 2021 Disney+ series Loki, which variant is the show's Lady Loki?",
+      "options": ["Hela", "Sylvie", "Sif", "Amora"],
+      "answer": 1,
+      "why": "Episode two of the show reveals Sylvie as a female Loki variant, a nod to Lady Loki from the comics.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-07",
+      "q": "In which 1962 comic did the modern, Silver Age Loki debut?",
+      "options": [
+        "Tales of Suspense",
+        "Strange Tales",
+        "Journey into Mystery",
+        "Tales to Astonish"
+      ],
+      "answer": 2,
+      "why": "The Silver Age Loki first appeared in Journey into Mystery #85, a few issues after Thor himself arrived.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-08",
+      "q": "An earlier version of Loki appeared in Venus #6, published in which year?",
+      "options": ["1949", "1951", "1953", "1954"],
+      "answer": 0,
+      "why": "A Loki appeared in Venus #6 in 1949, long before the Thor-era version created in 1962.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-09",
+      "q": "Which writer, with artist Jamie McKelvie, wrote the 2010 one-shot Siege: Loki?",
+      "options": ["Kieron Gillen", "Al Ewing", "Jason Aaron", "Matt Fraction"],
+      "answer": 0,
+      "why": "Kieron Gillen wrote Siege: Loki #1 with art by Jamie McKelvie, and later made a child Loki a lead character.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    },
+    {
+      "id": "loki-10",
+      "q": "Which team did Kid Loki join in the 2013 relaunch of its series?",
+      "options": ["Runaways", "Young Avengers", "New Warriors", "Avengers Academy"],
+      "answer": 1,
+      "why": "Kid Loki became a member of Young Avengers in the 2013 relaunch, alongside Wiccan and Hulkling.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Loki_(Marvel_Comics)"
+    }
+  ]
+}

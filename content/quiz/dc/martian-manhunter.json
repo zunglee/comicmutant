@@ -1,0 +1,116 @@
+{
+  "character": "martian-manhunter",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "martian-manhunter-01",
+      "q": "In which year did the Martian Manhunter debut in Detective Comics #225?",
+      "options": ["1961", "1955", "1958", "1951"],
+      "answer": 1,
+      "why": "J'onn J'onzz first appeared in Detective Comics #225, dated November 1955.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-02",
+      "q": "Which two creators introduced the Martian Manhunter?",
+      "options": [
+        "Joseph Samachson and Joe Certa",
+        "Gardner Fox and Carmine Infantino",
+        "Otto Binder and Curt Swan",
+        "John Broome and Gil Kane"
+      ],
+      "answer": 0,
+      "why": "Joseph Samachson wrote and Joe Certa drew his 1955 debut.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-03",
+      "q": "Which new ability did Detective Comics #226 add to J'onn's powers?",
+      "options": ["Weather control", "Precognition", "Time travel", "Gravity control"],
+      "answer": 1,
+      "why": "Issue #226 gave him precognition, and telepathy and flight followed soon after.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-04",
+      "q": "What human alias does J'onn J'onzz use on Earth?",
+      "options": ["John Smith", "Jonathan Jones", "John Jones", "Jon Jonzz"],
+      "answer": 2,
+      "why": "He blends in as the detective John Jones.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-05",
+      "q": "How many heroes made up the original Silver Age JLA, with J'onn among them?",
+      "options": ["Five", "Seven", "Six", "Nine"],
+      "answer": 1,
+      "why": "J'onn was one of the seven founding members of the Justice League of America.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-06",
+      "q": "What food obsession did J'onn develop during the 1987 JLA relaunch?",
+      "options": ["Chocos cookies", "Glazed doughnuts", "Hot pretzels", "Peanut brittle"],
+      "answer": 0,
+      "why": "A running gag from the 1987 relaunch is his love of 'Chocos', a cookie that stands in for Oreos.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-07",
+      "q": "In his debut story, whose experimental device teleported J'onn from Mars to Earth?",
+      "options": ["Hugo Strange", "Niles Caulder", "T. O. Morrow", "Dr. Saul Erdel"],
+      "answer": 3,
+      "why": "Scientist Saul Erdel's teleportation experiment accidentally pulled J'onn across space.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-08",
+      "q": "Who voiced the Martian Manhunter in the DC Animated Universe's 2001-2006 JLA cartoon?",
+      "options": ["Phil LaMarr", "Kevin Michael Richardson", "Carl Lumbly", "Nicholas Guest"],
+      "answer": 2,
+      "why": "Carl Lumbly gave J'onn his voice across the DC Animated Universe, using a South African accent.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-09",
+      "q": "Which actor played J'onn J'onzz, disguised as Hank Henshaw, in the TV series Supergirl?",
+      "options": ["Harry Lennix", "David Harewood", "Phil Morris", "Carl Lumbly"],
+      "answer": 1,
+      "why": "David Harewood portrayed him in the Arrowverse's Supergirl.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    },
+    {
+      "id": "martian-manhunter-10",
+      "q": "Which 2021 DC Extended Universe film finally shows J'onn J'onzz in his true form?",
+      "options": [
+        "Zack Snyder's Justice League",
+        "Wonder Woman 1984",
+        "The Suicide Squad",
+        "Black Adam"
+      ],
+      "answer": 0,
+      "why": "Harry Lennix's General Swanwick turns out to be J'onn J'onzz in disguise, revealed in Zack Snyder's Justice League.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Martian_Manhunter"
+    }
+  ]
+}

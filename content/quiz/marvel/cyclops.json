@@ -1,0 +1,111 @@
+{
+  "character": "cyclops",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "cyclops-01",
+      "q": "Which crystal in Scott Summers' visor lets him open his eyes safely?",
+      "options": ["Amethyst", "Ruby quartz", "Obsidian", "Smoky quartz"],
+      "answer": 1,
+      "why": "His optic beams are stopped only by eyelids or ruby quartz, so his visor uses ruby-quartz lenses.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-02",
+      "q": "Which actor first played Cyclops in the 2000 film X-Men?",
+      "options": ["James Marsden", "Hugh Jackman", "Tye Sheridan", "Patrick Stewart"],
+      "answer": 0,
+      "why": "James Marsden first played Cyclops in X-Men (2000).",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-03",
+      "q": "What is the codename of Scott's younger brother Alex Summers?",
+      "options": ["Vulcan", "Cable", "Banshee", "Havok"],
+      "answer": 3,
+      "why": "Alex Summers, Cyclops's younger brother, is the mutant Havok.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-04",
+      "q": "Who recruited Scott and named him field leader of the X-Men?",
+      "options": ["Magneto", "Nick Fury", "Professor X", "Wolverine"],
+      "answer": 2,
+      "why": "Charles Xavier took Scott in, trained him and made him the team's field leader.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-05",
+      "q": "In which year did Cyclops debut in The X-Men #1?",
+      "options": ["1961", "1962", "1959", "1963"],
+      "answer": 3,
+      "why": "The X-Men #1 carried a September 1963 cover date.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-06",
+      "q": "In 1994, Cyclops married which X-Men teammate?",
+      "options": ["Jean Grey", "Emma Frost", "Storm", "Rogue"],
+      "answer": 0,
+      "why": "Scott and Jean wed in X-Men volume 2, issue 30, dated March 1994.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-07",
+      "q": "Madelyne Pryor, mother of Scott's son Nathan, first appeared in Uncanny X-Men #168 in which year?",
+      "options": ["1983", "1985", "1981", "1988"],
+      "answer": 0,
+      "why": "Madelyne Pryor, a Jean Grey clone, debuted in April 1983.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-08",
+      "q": "Scott's father, Corsair, leads which band of space pirates?",
+      "options": [
+        "The Nova Corps",
+        "The Guardians of the Galaxy",
+        "The Starjammers",
+        "The Thunderbolts"
+      ],
+      "answer": 2,
+      "why": "Corsair, Scott's father, leads the Starjammers.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-09",
+      "q": "Whose spacecraft attacked the plane carrying young Scott's family over Alaska?",
+      "options": ["The Kree", "The Shi'ar", "The Skrulls", "The Brood"],
+      "answer": 1,
+      "why": "A Shi'ar spacecraft attacked the family's plane over Alaska, orphaning Scott.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    },
+    {
+      "id": "cyclops-10",
+      "q": "X-Men: Schism (2011) split the team over a rift between Cyclops and which teammate?",
+      "options": ["Wolverine", "Beast", "Storm", "Gambit"],
+      "answer": 0,
+      "why": "Disagreement over violence between Cyclops and Wolverine split the X-Men into two factions in Schism.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Cyclops_(Marvel_Comics)"
+    }
+  ]
+}

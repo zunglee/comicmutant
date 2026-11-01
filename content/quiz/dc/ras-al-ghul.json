@@ -1,0 +1,106 @@
+{
+  "character": "ras-al-ghul",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "ras-al-ghul-01",
+      "q": "Which longtime DC editor is credited, with Dennis O'Neil and Neal Adams, as a creator of Ra's al Ghul?",
+      "options": ["Mort Weisinger", "Whitney Ellsworth", "Vin Sullivan", "Julius Schwartz"],
+      "answer": 3,
+      "why": "Editor Julius Schwartz conceived the villain and his name, with O'Neil writing and Adams drawing.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-02",
+      "q": "In which year did Ra's al Ghul debut in Batman #232?",
+      "options": ["1980", "1971", "1978", "1974"],
+      "answer": 1,
+      "why": "Ra's first appeared in Batman #232, dated June 1971.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-03",
+      "q": "What name is given to the restorative chemical pools Ra's uses to extend his life?",
+      "options": ["Eden Well", "Lazarus Pit", "Genesis Font", "Phoenix Basin"],
+      "answer": 1,
+      "why": "Lazarus Pits can heal injuries and revive the dying; repeated dips have given Ra's a lifespan of centuries.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-04",
+      "q": "The name Ra's al Ghul is often translated into English as what title?",
+      "options": ["The Demon's Head", "The Serpent's Eye", "The Shadow's Hand", "The Night King"],
+      "answer": 0,
+      "why": "The Arabic name is usually rendered 'Head of the Ghoul', which gives Ra's his comics title of the Demon's Head.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-05",
+      "q": "Which of Ra's daughters is Batman's love interest in the comics?",
+      "options": ["Nyssa", "Shiva", "Cassandra", "Talia"],
+      "answer": 3,
+      "why": "Talia, who debuted in 1971, is Batman's on-again, off-again love and the mother of his son.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-06",
+      "q": "Which Robin is the grandson of Ra's al Ghul?",
+      "options": ["Jason Todd", "Tim Drake", "Damian Wayne", "Dick Grayson"],
+      "answer": 2,
+      "why": "Damian is the son of Talia al Ghul and Bruce Wayne, which makes Ra's his grandfather.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-07",
+      "q": "Which of Ra's daughters, created in 2003 by Greg Rucka and Klaus Janson, is his oldest known child?",
+      "options": ["Talia", "Nyssa Raatko", "Lady Shiva", "Cassandra Cain"],
+      "answer": 1,
+      "why": "Nyssa Raatko debuted in 2003 and is his eldest known daughter; she mortally wounds him in Death and the Maidens.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-08",
+      "q": "Who played Ra's al Ghul across Christopher Nolan's Dark Knight trilogy?",
+      "options": ["Liam Neeson", "Ken Watanabe", "Matt Nable", "Alexander Siddig"],
+      "answer": 0,
+      "why": "Liam Neeson played the role, first appearing in Batman Begins as the mentor Henri Ducard.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-09",
+      "q": "Which actor played Ra's al Ghul in the Arrowverse series Arrow?",
+      "options": ["Liam Neeson", "Alexander Siddig", "Michael Emerson", "Matt Nable"],
+      "answer": 3,
+      "why": "Australian actor Matt Nable played Ra's in Arrow.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    },
+    {
+      "id": "ras-al-ghul-10",
+      "q": "Which actor played Ra's al Ghul in the TV series Gotham?",
+      "options": ["Matt Nable", "Liam Neeson", "Alexander Siddig", "Ben McKenzie"],
+      "answer": 2,
+      "why": "Alexander Siddig portrayed Ra's in Gotham.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra%27s_al_Ghul"
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "character": "hanu-man",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "hanu-man-01",
+      "q": "Which actor plays the title hero Hanumanthu in the 2024 film Hanu-Man?",
+      "options": ["Teja Sajja", "Nani", "Vijay Deverakonda", "Naga Chaitanya"],
+      "answer": 0,
+      "why": "Teja Sajja plays Hanumanthu, a small-time thief from the village of Anjanadri who gains strength from a gem.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-02",
+      "q": "Which fictional village is Hanumanthu's home in the film?",
+      "options": ["Kurukkanmoola", "Anjanadri", "Rajnagar", "Takshaknagar"],
+      "answer": 1,
+      "why": "The story is set in Anjanadri, where a gem that activates in sunlight grants superhuman strength.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-03",
+      "q": "What does Hanumanthu do for a living before he gains his powers?",
+      "options": [
+        "He is a tailor",
+        "He is a teashop worker",
+        "He is a petty thief",
+        "He is a schoolteacher"
+      ],
+      "answer": 2,
+      "why": "Before the gem, Hanumanthu gets by on small-time theft.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-04",
+      "q": "Who wrote and directed Hanu-Man?",
+      "options": ["Prasanth Neel", "Sandeep Reddy Vanga", "Sukumar", "Prasanth Varma"],
+      "answer": 3,
+      "why": "Prasanth Varma wrote the story and directed the film, the first in his Prasanth Varma Cinematic Universe.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-05",
+      "q": "On what date did Hanu-Man release in cinemas for the Sankranti festival?",
+      "options": ["12 January 2024", "14 January 2023", "15 January 2024", "26 January 2024"],
+      "answer": 0,
+      "why": "The Telugu superhero film opened on 12 January 2024, with dubbed versions in other languages.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-06",
+      "q": "Which actress plays Hanumanthu's sister Anjamma?",
+      "options": ["Amritha Aiyer", "Varalaxmi Sarathkumar", "Anushka Shetty", "Rashmika Mandanna"],
+      "answer": 1,
+      "why": "Varalaxmi Sarathkumar plays Anjamma, whose wedding becomes the film's turning point.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-07",
+      "q": "Which star voices the monkey Koti in Hanu-Man?",
+      "options": ["Prabhas", "Allu Arjun", "Ravi Teja", "Mahesh Babu"],
+      "answer": 2,
+      "why": "The veteran star lent his voice to Koti, the monkey character.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-08",
+      "q": "Which actor was announced as the lead of the sequel Jai Hanuman in October 2024?",
+      "options": ["Yash", "Prabhas", "Dulquer Salmaan", "Rishab Shetty"],
+      "answer": 3,
+      "why": "Rishab Shetty was announced for Jai Hanuman on 30 October 2024.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    },
+    {
+      "id": "hanu-man-09",
+      "q": "Hanu-Man is the first film in which shared film universe?",
+      "options": [
+        "Prasanth Varma Cinematic Universe",
+        "Lokesh Cinematic Universe",
+        "YRF Spy Universe",
+        "Maddock Supernatural Universe"
+      ],
+      "answer": 0,
+      "why": "The film launched the PVCU, a series of connected superhero stories by its director.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "giveawayOk": true
+    },
+    {
+      "id": "hanu-man-10",
+      "q": "At India's 71st national awards, which category did Hanu-Man win?",
+      "options": [
+        "Best Music Direction",
+        "Best AVGC film",
+        "Best Feature Film in Telugu",
+        "Best Costume Design"
+      ],
+      "answer": 1,
+      "why": "The film took several National Awards, including Best Film in the animation, VFX and comics category.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man"
+    }
+  ]
+}

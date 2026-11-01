@@ -1,0 +1,37 @@
+{
+  "task": "quiz-v2 fix rounds",
+  "round": "4-9",
+  "scorer": "alfred",
+  "scores": [
+    {
+      "agent": "C1 core",
+      "model": "opus",
+      "criteria": { "correctness": 7, "scope": 8, "quality": 7, "verification": 7, "efficiency": 8 },
+      "note": "107/107 quiz tests and typecheck pass. On my own prod server, Q23a resume, Q24 held approval ('no cap set') and Q26 blind reveals (correct/why/answer null) all work, and 40 live games (394 questions) had 0 earlier questions printing a later answer (Q25). Q26 hole: fanStats (quiz.ts:1683) skips only today's blind dailies, not flood-blind games. So /quiz/me shows a blind Anime game as '10 / 10 right 2,427' and gives per-universe accuracy (Desi 0% after an all-wrong blind game). That is a right/wrong oracle, and the test at test:2974 only checks factsMastered. quiz.ts is 2,432 lines."
+    },
+    {
+      "agent": "U1 play-ui",
+      "model": "sonnet",
+      "criteria": { "correctness": 8, "scope": 8, "quality": 7, "verification": 6, "efficiency": 8 },
+      "note": "The hub resume prompt renders right on my server ('question 2 of 10, clock running (13s left)'), hub axe is clean at 375, and the flood-blind copy is mode-aware. Its checks (scratchpad/u1/r7.ts, r8.ts, r9.ts) only console.log values and assert nothing, and no quiz e2e spec exists in test/e2e. Rounds r6 and r9 left no screenshots."
+    },
+    {
+      "agent": "U2 data-ui",
+      "model": "sonnet",
+      "criteria": { "correctness": 7, "scope": 8, "quality": 7, "verification": 6, "efficiency": 5 },
+      "note": "The grouped held card ('+1 more held today'), strong/weak signals and the floor table check out live, and after one approval the next card surfaces. Axe is clean on /mod/quiz and /quiz/me at 375. But quiz-me.tsx never calls useNoDock, unlike quiz.tsx:86, quiz-play.tsx:75 and quiz-leaders.tsx:85, so the theme dock covers the 'Facts known board: not ranked y…' pill. Its own u2r9-me-held-only-phone.png shows this and it shipped anyway. The no-dock effect is copy-pasted inline in 3 routes. Rounds 4–7 took 990–1454 s each."
+    },
+    {
+      "agent": "R7 content-fix",
+      "model": "sonnet",
+      "criteria": { "correctness": 7, "scope": 8, "quality": 7, "verification": 6, "efficiency": 6 },
+      "note": "The validator passes with --strict: 1080 questions, 0 problems, 0 question-text sibling leaks. My plural and 2-digit probe also found 0. parmanu-03 'Bufalo' now matches the Wikipedia raw text. Churn: the round-7 rewrites left half-name leaks (found in round 8), and the round-8 parmanu-03 rewrite was wrong until round 9. It fixed only the 22 flagged mini-quiz copies. 46 bank questions still ask the same fact with the same answer as the character-page mini-quiz, which ships its answers to the browser (e.g. sinestro-01 Korugar, raven-01 Trigon, superman-07 Doomsday)."
+    },
+    {
+      "agent": "B0 batman (orchestrator)",
+      "model": "opus",
+      "criteria": { "correctness": 6, "scope": 7, "quality": 7, "verification": 5, "efficiency": 6 },
+      "note": "Q23–Q26 are coherent and Q22 frankly fixed an IP-as-block error. But rulings flip-flopped: the Q18 tight-band gate became a signal in Q23c, then got a narrower σ in Q24. The validator kept trailing the critics: half-names (round 8), then years and lowercase words (round 9). Sibling leaks fail only under --strict (validate-quiz.ts), and prebuild runs without it. The mini-quiz check needs Jaccard ≥0.6, which misses 46 same-answer copies. The data-no-dock shell rule hid the phone tab bar (a round-8 regression). It raised the critic cap from 8 to 10 itself."
+    }
+  ]
+}

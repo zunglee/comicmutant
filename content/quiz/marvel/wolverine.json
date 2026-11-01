@@ -1,0 +1,116 @@
+{
+  "character": "wolverine",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "wolverine-01",
+      "q": "In which series did Wolverine debut in 1974?",
+      "options": ["X-Men", "The Incredible Hulk", "The Avengers", "Captain America"],
+      "answer": 1,
+      "why": "Wolverine had a cameo in The Incredible Hulk #180 and full debut in #181.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-02",
+      "q": "Which artist designed Wolverine's look?",
+      "options": ["Jack Kirby", "Dave Cockrum", "John Romita Sr.", "John Byrne"],
+      "answer": 2,
+      "why": "John Romita Sr. designed Wolverine, who was created by Len Wein.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-03",
+      "q": "What is Wolverine's birth name, as revealed in the Origin miniseries?",
+      "options": ["Victor Creed", "Remy LeBeau", "Scott Summers", "James Howlett"],
+      "answer": 3,
+      "why": "The Origin miniseries gave his birth name as James Howlett.",
+      "difficulty": 2,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-04",
+      "q": "Which country is Wolverine from?",
+      "options": ["Canada", "The United States", "Japan", "Russia"],
+      "answer": 0,
+      "why": "Wolverine was born near Cold Lake, Alberta, Canada.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-05",
+      "q": "Which actor first played Wolverine in 2000's X-Men film?",
+      "options": ["Ryan Reynolds", "Hugh Jackman", "Patrick Stewart", "Liev Schreiber"],
+      "answer": 1,
+      "why": "Hugh Jackman first played Wolverine in 2000.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-06",
+      "q": "Which metal is bonded to Wolverine's skeleton?",
+      "options": ["Vibranium", "Uru", "Adamantium", "Titanium"],
+      "answer": 2,
+      "why": "Adamantium was grafted to his skeleton in Weapon X.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-07",
+      "q": "In 1993's Fatal Attractions, what are Wolverine's claws revealed to be made of?",
+      "options": ["Steel", "Vibranium", "Keratin", "Bone"],
+      "answer": 3,
+      "why": "Fatal Attractions revealed his claws are natural bone, after Magneto stripped his adamantium.",
+      "difficulty": 2,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-08",
+      "q": "Who became Wolverine's archenemy in the 1986 Mutant Massacre arc?",
+      "options": ["Sabretooth", "Lady Deathstrike", "Omega Red", "Juggernaut"],
+      "answer": 0,
+      "why": "Sabretooth became Wolverine's archenemy in the Mutant Massacre arc.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-09",
+      "q": "Who is Wolverine's fiancee in Japan, later poisoned by the Hand?",
+      "options": ["Jean Grey", "Mariko Yashida", "Viper", "Silver Fox"],
+      "answer": 1,
+      "why": "Mariko Yashida was engaged to Wolverine and was poisoned by the Hand.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-10",
+      "q": "Who created the 1991 Weapon X story arc?",
+      "options": ["Frank Miller", "Chris Claremont", "Barry Windsor-Smith", "John Byrne"],
+      "answer": 2,
+      "why": "Barry Windsor-Smith's Weapon X story depicts adamantium being grafted to him.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    },
+    {
+      "id": "wolverine-11",
+      "q": "Who teamed with Chris Claremont on the 1982 four-issue Wolverine miniseries?",
+      "options": ["Barry Windsor-Smith", "John Byrne", "Bill Sienkiewicz", "Frank Miller"],
+      "answer": 3,
+      "why": "Frank Miller worked with Claremont on the 1982 miniseries.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Wolverine_(character)"
+    }
+  ]
+}

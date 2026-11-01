@@ -1,0 +1,131 @@
+{
+  "character": "harley-quinn",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "harley-quinn-01",
+      "q": "In which TV show did Harley Quinn first appear in 1992?",
+      "options": [
+        "Batman: The Animated Series",
+        "Superman: The Animated Series",
+        "Justice League",
+        "Teen Titans"
+      ],
+      "answer": 0,
+      "why": "She debuted in the Batman: The Animated Series episode 'Joker's Favor', broadcast on September 11, 1992.",
+      "difficulty": 1,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-02",
+      "q": "Which two people created Harley Quinn?",
+      "options": [
+        "Bill Finger and Bob Kane",
+        "Frank Miller and David Mazzucchelli",
+        "Alan Moore and Brian Bolland",
+        "Paul Dini and Bruce Timm"
+      ],
+      "answer": 3,
+      "why": "Dini wrote and Timm drew her for the animated series before she crossed into comics.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-03",
+      "q": "What is Harley Quinn's real first name?",
+      "options": ["Harriet", "Helena", "Harleen", "Holly"],
+      "answer": 2,
+      "why": "Her civilian name is Harleen Frances Quinzel; Harley is the nickname she takes as Joker's partner.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-04",
+      "q": "What was Dr. Quinzel's career before she became Harley Quinn?",
+      "options": [
+        "Circus acrobat",
+        "Psychiatrist at Arkham Asylum",
+        "Newspaper reporter at the Gotham Gazette",
+        "Police detective"
+      ],
+      "answer": 1,
+      "why": "She worked as a psychiatrist at Arkham Asylum, where she became fixated on one of her patients.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-05",
+      "q": "Harley's pet hyenas, Bud and Lou, are named after which classic comedy duo?",
+      "options": [
+        "Abbott and Costello",
+        "Laurel and Hardy",
+        "Martin and Lewis",
+        "Cheech and Chong"
+      ],
+      "answer": 0,
+      "why": "The hyenas were created for the animated series and take their names from Bud Abbott and Lou Costello.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-06",
+      "q": "Which Gotham rogue is Harley's closest friend and eventual romantic partner in the comics?",
+      "options": ["Catwoman", "Batgirl", "Black Canary", "Poison Ivy"],
+      "answer": 3,
+      "why": "Ivy was introduced to Harley in a 1993 episode, and the pair's friendship grows into a relationship in the comics.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-07",
+      "q": "Which 1994 one-shot by the character's creators won both an Eisner and a Harvey award for Best Single Issue?",
+      "options": [
+        "Batman: Gotham Sirens",
+        "Batman: Gotham Girls",
+        "The Batman Adventures: Mad Love",
+        "Batman: Gotham Adventures"
+      ],
+      "answer": 2,
+      "why": "Mad Love, by Dini and Timm, was published in February 1994 and later adapted into an episode of The New Batman Adventures.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-08",
+      "q": "In the 2020 film Birds of Prey, what is the name of Harley's pet hyena?",
+      "options": ["Bud", "Bruce", "Lou", "Stanley"],
+      "answer": 1,
+      "why": "Margot Robbie's Harley adopts a hyena named Bruce in the film, rather than Bud and Lou.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-09",
+      "q": "Who voices Harley Quinn in the adult animated series Harley Quinn?",
+      "options": ["Kaley Cuoco", "Margot Robbie", "Tara Strong", "Lady Gaga"],
+      "answer": 0,
+      "why": "Kaley Cuoco voices the lead in the animated series built around Harley and Poison Ivy.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    },
+    {
+      "id": "harley-quinn-10",
+      "q": "Which actress voiced Harley in her 1992 debut, and also inspired the character?",
+      "options": ["Tara Strong", "Mia Sara", "Margot Robbie", "Arleen Sorkin"],
+      "answer": 3,
+      "why": "Arleen Sorkin voiced Harley in Batman: The Animated Series and was also an inspiration for the character.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Harley_Quinn"
+    }
+  ]
+}

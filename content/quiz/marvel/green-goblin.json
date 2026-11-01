@@ -1,0 +1,127 @@
+{
+  "character": "green-goblin",
+  "universe": "marvel",
+  "questions": [
+    {
+      "id": "green-goblin-01",
+      "q": "Who is the original Green Goblin's secret identity?",
+      "options": ["Harry Osborn", "Otto Octavius", "Norman Osborn", "Max Dillon"],
+      "answer": 2,
+      "why": "Norman Osborn is the first and best-known Green Goblin.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-02",
+      "q": "Which actor played the Green Goblin in Sam Raimi's Spider-Man films?",
+      "options": ["Alfred Molina", "Willem Dafoe", "Thomas Haden Church", "Tobey Maguire"],
+      "answer": 1,
+      "why": "Willem Dafoe played Norman in Raimi's trilogy and returned in No Way Home.",
+      "difficulty": 1,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-03",
+      "q": "Which of Peter Parker's girlfriends dies at the Goblin's hands in Amazing Spider-Man #121-122?",
+      "options": ["Gwen Stacy", "Mary Jane Watson", "Betty Brant", "Liz Allan"],
+      "answer": 0,
+      "why": "The Goblin kills Gwen in 'The Night Gwen Stacy Died' (1973).",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-04",
+      "q": "Who created the Green Goblin?",
+      "options": [
+        "Stan Lee and Jack Kirby",
+        "Gerry Conway and John Romita Sr.",
+        "Roger Stern and John Romita Jr.",
+        "Stan Lee and Steve Ditko"
+      ],
+      "answer": 3,
+      "why": "Stan Lee scripted and Steve Ditko drew the Goblin into being.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-05",
+      "q": "In which issue of The Amazing Spider-Man did the Green Goblin debut?",
+      "options": [
+        "The Amazing Spider-Man #10",
+        "The Amazing Spider-Man #12",
+        "The Amazing Spider-Man #14",
+        "The Amazing Spider-Man #9"
+      ],
+      "answer": 2,
+      "why": "He debuted in Amazing Spider-Man #14 (July 1964).",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin",
+      "giveawayOk": true
+    },
+    {
+      "id": "green-goblin-06",
+      "q": "After the death of Peter's girlfriend, which member of the original Goblin's family took up the Goblin identity?",
+      "options": ["Normie Osborn", "Harry Osborn", "Liz Allan", "Emily Osborn"],
+      "answer": 1,
+      "why": "Writer Gerry Conway had Harry, Norman's son, become the second Goblin.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-07",
+      "q": "Which villain did Roger Stern introduce to take over as Spider-Man's archenemy?",
+      "options": ["Hobgoblin", "Jackal", "Venom", "Kingpin"],
+      "answer": 0,
+      "why": "Roger Stern introduced the Hobgoblin as Spider-Man's new archenemy.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-08",
+      "q": "Under optimal conditions, how much weight can the Goblin Formula let the original Goblin lift?",
+      "options": ["3 tons", "6 tons", "12 tons", "9 tons"],
+      "answer": 3,
+      "why": "The Goblin Formula grants superhuman strength, up to about nine tons at best.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-09",
+      "q": "In which issue, the first after the co-creating artist left, is the Goblin unmasked?",
+      "options": [
+        "The Amazing Spider-Man #31",
+        "The Amazing Spider-Man #37",
+        "The Amazing Spider-Man #39",
+        "The Amazing Spider-Man #41"
+      ],
+      "answer": 2,
+      "why": "Ditko left after #38, and #39 revealed Norman as the Goblin.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    },
+    {
+      "id": "green-goblin-10",
+      "q": "What did the Green Goblin ride in his debut, before switching to the bat-shaped glider?",
+      "options": [
+        "A rocket-powered broomstick",
+        "A jet-powered skateboard",
+        "A flying carpet",
+        "A hovering trash can"
+      ],
+      "answer": 0,
+      "why": "In The Amazing Spider-Man #14 he flew a steel, wingless broomstick with a rocket motor; the bat glider arrived two issues later.",
+      "difficulty": 3,
+      "topic": "gear",
+      "source": "https://en.wikipedia.org/wiki/Green_Goblin"
+    }
+  ]
+}

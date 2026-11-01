@@ -1,0 +1,107 @@
+{
+  "character": "omni-man",
+  "universe": "other",
+  "questions": [
+    {
+      "id": "omni-man-01",
+      "q": "Omni-Man belongs to which alien race?",
+      "options": ["Viltrumite", "Thraxan", "Flaxan", "Kryptonian"],
+      "answer": 0,
+      "why": "Omni-Man is an alien Viltrumite from the planet Viltrum.",
+      "difficulty": 1,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-02",
+      "q": "What is Omni-Man's birth name?",
+      "options": ["Mark", "Nolan", "Oliver", "Allen"],
+      "answer": 1,
+      "why": "He was born Nolan and goes by Nolan Grayson on Earth.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-03",
+      "q": "Who is Omni-Man's human wife?",
+      "options": ["Eve Wilkins", "Andressa", "Debbie Grayson", "Rae Cimmino"],
+      "answer": 2,
+      "why": "Debbie is Omni-Man's first wife and the mother of Mark.",
+      "difficulty": 1,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-04",
+      "q": "In which issue of the comic does Omni-Man kill the Guardians of the Globe?",
+      "options": ["Issue 7", "Issue 1", "Issue 3", "Issue 5"],
+      "answer": 0,
+      "why": "In issue #7 he turns on the Guardians of the Globe and kills them.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man",
+      "giveawayOk": true
+    },
+    {
+      "id": "omni-man-05",
+      "q": "Which Grand Regent rules the Viltrum Empire over Omni-Man?",
+      "options": ["Conquest", "Thragg", "Anissa", "Battle Beast"],
+      "answer": 1,
+      "why": "Thragg rules the Viltrum Empire as Grand Regent, and he gravely wounds Nolan.",
+      "difficulty": 2,
+      "topic": "enemies",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-06",
+      "q": "Who voices Omni-Man in Amazon's Invincible?",
+      "options": ["J.K. Simmons", "Steven Yeun", "Walton Goggins", "Mark Hamill"],
+      "answer": 0,
+      "why": "J.K. Simmons voices Nolan in the Invincible series and other media.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-07",
+      "q": "Who is credited with writing Omni-Man alongside artist Cory Walker?",
+      "options": ["Mark Millar", "Kurt Busiek", "Robert Kirkman", "Brian K. Vaughan"],
+      "answer": 2,
+      "why": "Robert Kirkman wrote Invincible, and Cory Walker was the original artist.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-08",
+      "q": "Roughly how old is Omni-Man, thanks to his alien longevity?",
+      "options": ["About 200 years", "Over 2,000 years", "About 500 years", "Over 20,000 years"],
+      "answer": 1,
+      "why": "Extreme longevity is one of his Viltrumite traits, and the character is said to be over two thousand years old.",
+      "difficulty": 3,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-09",
+      "q": "Which artist, later the main penciller, helped design Omni-Man's look?",
+      "options": ["Ryan Ottley", "Cory Walker", "Tony Moore", "Charlie Adlard"],
+      "answer": 0,
+      "why": "Ryan Ottley helped with Omni-Man's design and later became the comic's regular artist.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    },
+    {
+      "id": "omni-man-10",
+      "q": "Omni-Man debuted in Invincible #1 in which year?",
+      "options": ["2001", "2003", "2005", "2000"],
+      "answer": 1,
+      "why": "Omni-Man debuted in Invincible #1, cover-dated January 2003.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Omni-Man"
+    }
+  ]
+}

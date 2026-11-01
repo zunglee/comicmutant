@@ -1,0 +1,111 @@
+{
+  "character": "parmanu",
+  "universe": "indian",
+  "questions": [
+    {
+      "id": "parmanu-01",
+      "q": "Who created the Raj Comics hero Parmanu?",
+      "options": ["Sanjay Gupta", "Anupam Sinha", "Tarun Kumar Wahi", "Parshuram Sharma"],
+      "answer": 0,
+      "why": "Sanjay Gupta of Raj Comics created the atomic hero.",
+      "difficulty": 2,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-02",
+      "q": "What is Parmanu's civilian identity?",
+      "options": ["Inspector Steel", "Inspector Vinay", "Captain Dhruva", "Dr. Vijay"],
+      "answer": 1,
+      "why": "Vinay, a police inspector, wears the Parmanu suit.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-03",
+      "q": "Which monster attacks the lab just before Parmanu's costume is revealed?",
+      "options": ["Kankal", "Bufalo", "Zorbo", "Hydra"],
+      "answer": 1,
+      "why": "Bufalo attacks Vinay and his uncle in the uncle's lab, and the uncle then reveals the costume.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-04",
+      "q": "What colour is Parmanu's power suit?",
+      "options": ["Deep red", "Midnight blue", "Forest green", "Bright yellow"],
+      "answer": 3,
+      "why": "His bright yellow suit gives him flight, teleportation and shrinking.",
+      "difficulty": 1,
+      "topic": "gear",
+      "source": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/"
+    },
+    {
+      "id": "parmanu-05",
+      "q": "In which year did Parmanu first appear, in the comic Aag?",
+      "options": ["1987", "1989", "1991", "1994"],
+      "answer": 2,
+      "why": "Parmanu debuted in Aag in 1991.",
+      "difficulty": 2,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-06",
+      "q": "Parmanu's shrinking power is often compared to which Marvel hero?",
+      "options": ["Ant-Man", "Hawkeye", "Iron Man", "Thor"],
+      "answer": 0,
+      "why": "Observers liken his shrinking to Ant-Man and his origin to Batman.",
+      "difficulty": 2,
+      "topic": "trivia",
+      "source": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/"
+    },
+    {
+      "id": "parmanu-07",
+      "q": "Who reveals the costume that gives the hero his superpowers?",
+      "options": [
+        "His father",
+        "His police chief",
+        "His maternal uncle Prof. K. K. Verma",
+        "A rival inspector from the Delhi force"
+      ],
+      "answer": 2,
+      "why": "Professor Kamal Kumar Verma rescued the boy and showed him the suit.",
+      "difficulty": 3,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-08",
+      "q": "Which ally converted Parmanu's belt controls to voice recognition?",
+      "options": ["Pralayanka", "Shipra", "Sheena", "Probot"],
+      "answer": 3,
+      "why": "Probot upgraded the controls to voice recognition.",
+      "difficulty": 3,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-09",
+      "q": "In which Raj Comics series does Parmanu reportedly die?",
+      "options": ["Akhiri", "Aag", "Bulletproof", "Gangster"],
+      "answer": 0,
+      "why": "In Akhiri, he blasts himself into space to save Earth.",
+      "difficulty": 3,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Parmanu"
+    },
+    {
+      "id": "parmanu-10",
+      "q": "Parmanu is a member of which team alongside Nagraj and Dhruva?",
+      "options": ["Panchnag", "Brahmand Rakshak", "Commando Force", "Neernag"],
+      "answer": 1,
+      "why": "Raj Comics lists Parmanu in Brahmand Rakshak, the Protectors of the Universe, with Nagraj and Dhruva.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics"
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "character": "static",
+  "universe": "dc",
+  "questions": [
+    {
+      "id": "static-01",
+      "q": "What is Static's real name?",
+      "options": ["Victor Stone", "John Henry Irons", "Virgil Hawkins", "Calvin Ellis"],
+      "answer": 2,
+      "why": "Virgil Ovid Hawkins is a teenager from the city of Dakota.",
+      "difficulty": 1,
+      "topic": "identity",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    },
+    {
+      "id": "static-02",
+      "q": "Static's stories are set in which fictional place?",
+      "options": ["Gotham City", "Dakota", "Metropolis", "Central City"],
+      "answer": 1,
+      "why": "The original Milestone stories take place in Dakota.",
+      "difficulty": 1,
+      "topic": "trivia",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    },
+    {
+      "id": "static-03",
+      "q": "What kind of power does Static primarily command?",
+      "options": ["Electromagnetism", "Super-speed", "Telepathy", "Shape-shifting"],
+      "answer": 0,
+      "why": "Static generates electricity and magnetic fields, allowing force fields and flight on a metal disc.",
+      "difficulty": 1,
+      "topic": "powers",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    },
+    {
+      "id": "static-04",
+      "q": "People who gained powers from the event that created Static are nicknamed what?",
+      "options": ["Metahumans", "Quantum Kids", "Gene Freaks", "Bang Babies"],
+      "answer": 3,
+      "why": "The Big Bang dosed bystanders with a mutagen, creating the Bang Babies.",
+      "difficulty": 2,
+      "topic": "origin",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    },
+    {
+      "id": "static-05",
+      "q": "In which year did the Static Shock animated series premiere?",
+      "options": ["2000", "1998", "2002", "1989"],
+      "answer": 0,
+      "why": "The show premiered on September 23, 2000, and ended in 2004.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Static_Shock"
+    },
+    {
+      "id": "static-06",
+      "q": "Who voices Static in the Static Shock animated series?",
+      "options": ["Kevin Michael Richardson", "Phil LaMarr", "Tara Strong", "Khary Payton"],
+      "answer": 1,
+      "why": "Phil LaMarr voiced Virgil Hawkins throughout the series.",
+      "difficulty": 2,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Static_Shock"
+    },
+    {
+      "id": "static-07",
+      "q": "In the Static Shock cartoon, Richie Foley becomes which hero in season 3?",
+      "options": ["Gear", "Hardware", "Icon", "Rocket"],
+      "answer": 0,
+      "why": "Static's best friend Richie Foley gains powers and becomes Gear.",
+      "difficulty": 2,
+      "topic": "allies",
+      "source": "https://en.wikipedia.org/wiki/Static_Shock"
+    },
+    {
+      "id": "static-08",
+      "q": "In which other Milestone comic did Static first appear in a three-page preview in 1993?",
+      "options": ["Hardware", "Blood Syndicate", "Xombi", "Icon"],
+      "answer": 3,
+      "why": "A preview in Icon #1 introduced him a month before Static #1.",
+      "difficulty": 3,
+      "topic": "debut",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    },
+    {
+      "id": "static-09",
+      "q": "On which broadcast block did Static Shock air?",
+      "options": ["Cartoon Network", "Nickelodeon", "Kids' WB", "Fox Kids"],
+      "answer": 2,
+      "why": "Static Shock aired on Kids' WB, the WB Television Network's children's block.",
+      "difficulty": 3,
+      "topic": "screen",
+      "source": "https://en.wikipedia.org/wiki/Static_Shock"
+    },
+    {
+      "id": "static-10",
+      "q": "Which artist co-founded Milestone Media and co-created Static with Dwayne McDuffie?",
+      "options": ["Neal Adams", "Denys Cowan", "John Romita Jr.", "Jim Lee"],
+      "answer": 1,
+      "why": "Denys Cowan was among the founders of Milestone alongside McDuffie.",
+      "difficulty": 3,
+      "topic": "creators",
+      "source": "https://en.wikipedia.org/wiki/Static_(DC_Comics)"
+    }
+  ]
+}
