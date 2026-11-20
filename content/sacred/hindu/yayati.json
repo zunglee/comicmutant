@@ -1,0 +1,272 @@
+{
+  "slug": "yayati",
+  "name": "Yayati",
+  "aka": ["Yayāti", "Nahusha's son"],
+  "native": "ययाति",
+  "role": "Ancient king who traded old age for his son's youth",
+  "summary": "Yayati is the ancient king whose marriages to Devayani and Sharmishtha led to a curse of old age, which his youngest son Puru took upon himself. Through his sons Yadu and Puru he is called ancestor of both the Yadavas and the Kurus.",
+  "about": "Yayati is an ancient king in the Mahabharata and the Puranas, described as a world-conquering ruler and son of Nahusha. In the Mahabharata and Bhagavata Purana he marries Devayani, daughter of the sage Shukracharya, after rescuing her from a well, and also Sharmishtha, daughter of the asura king Vrishaparvan. When Devayani learns of Sharmishtha's sons, her father Shukra curses Yayati with old age before his time. Shukra allows the curse to pass to a willing son, and only the youngest, Puru, agrees. After enjoying a thousand years of youth, Yayati says desire is never satisfied by indulging it, returns Puru's youth and retires to the forest. Tradition makes him ancestor of both the Yadavas, through Yadu, and the Kurus, through Puru. His story inspired modern works by V. S. Khandekar and Girish Karnad.",
+  "kidSummary": "King Yayati was cursed to become old before his time. He asked his sons if one of them would give him their youth for a while, and the youngest, Puru, said yes. Yayati enjoyed being young for a very long time, then realised that wanting more and more never makes anyone truly happy. He gave Puru's youth back with thanks.",
+  "story": [
+    {
+      "title": "A well and a rescue",
+      "text": "Princess Devayani was thrown into a well after a quarrel. King Yayati found her and pulled her out, and they later married."
+    },
+    {
+      "title": "A second wife",
+      "text": "Sharmishtha, Devayani's former rival, also became Yayati's wife and had sons. When Devayani found out, she told her father, the sage Shukracharya."
+    },
+    {
+      "title": "The curse of old age",
+      "text": "Shukracharya was angry and cursed Yayati to grow old at once. He allowed Yayati to hand the old age to a son who agreed."
+    },
+    {
+      "title": "Puru says yes",
+      "text": "Four sons said no. The youngest, Puru, willingly took his father's old age and gave his own youth."
+    },
+    {
+      "title": "What Yayati learned",
+      "text": "After many years of enjoying life, Yayati said wishes grow the more one feeds them. He returned Puru's youth, made him king and went to the forest."
+    }
+  ],
+  "teaches": ["Wanting more never ends", "Respect what others give you", "Know when to be content"],
+  "symbol": "tree",
+  "emblems": ["Youth traded for old age", "Well where he rescued Devayani"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Nahusha"
+    },
+    {
+      "relation": "Wife",
+      "name": "Devayani",
+      "slug": "devayani"
+    },
+    {
+      "relation": "Wife",
+      "name": "Sharmishtha",
+      "slug": "sharmishtha"
+    },
+    {
+      "relation": "Father-in-law",
+      "name": "Shukracharya",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Sons",
+      "name": "Yadu, Turvasu, Druhyu, Anu (Anudruhyu), Puru"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Madhavi"
+    },
+    {
+      "relation": "Grandson (via Madhavi)",
+      "name": "Shibi",
+      "slug": "shibi"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Bhagavata Purana (Canto 9)", "Matsya Purana", "Harivamsa"],
+  "places": [
+    "Kashi (the Mahabharata calls him ruler of the Kasis)",
+    "Naimisha forest (where he landed when he fell from heaven)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Yayati enjoyed a thousand years of pleasure and said desire grows with indulgence, like pouring ghee on a fire.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Devayani later proposed, she argued that no other man had touched her hand, so she would choose none but him. That one rescue is the hinge of the whole story.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Yayati first handed Devayani his own upper cloth, then caught her hand and pulled her out of the well, and he left once she was safe.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/18/19/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yayati cursed the sons who refused him: Yadu's children would never be kings, Druhyu would rule only in name over a roadless land, and Anu's sons would die once grown, says the Mahabharata.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01085.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His father Nahusha ruled as Indra for a time and became proud, so he was cursed to become a snake, says the Mahabharata.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Indra, disguised as the wind, mixed up the girls' clothes and started the quarrel between Devayani and Sharmishtha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Asked for their youth, each son had a different excuse: Yadu feared trouble with food, Turvasu said old age steals strength, Druhyu said the old cannot enjoy chariots, and Anu said the old eat like children.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01085.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Galava story, a sage owes his teacher 800 white horses, each with one black ear. Yayati, whose wealth had shrunk, gave his daughter Madhavi so Galava could win the horses from kings.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05115.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "With Puru's youth, Yayati wandered Indra's garden, Alaka and Mount Meru in the company of the apsara Vishvachi, yet kept his royal duties. He grew sad only as the thousand years ran out.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01086.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the forest he lived on fruit and gleaned grain, then spent a year on air alone without sleep and six months standing on one leg, before the Mahabharata says he rose to heaven.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01087.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yayati told Puru that, though the youngest, he would be the first of all his sons. Puru answered with humility that he would wear the old age and let his father take the youth.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01085.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Yayati tells his wife a parable of a he-goat who dug a she-goat out of a well. Though he enjoyed life with her for years, he was never satisfied. Yayati says he is just like that goat.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/19/12/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Devayani proposed, Yayati warned that an angry Brahmin is more dangerous than a snake or fire, since one can wreck whole cities. He would wed her only if her father gave her.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The text says Yayati's boasting in heaven angered Indra, who threw him out, and he hung in the sky until his grandsons offered their merits.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Five golden chariots then carried him and his grandsons to a realm of lasting bliss, says the Mahabharata.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In modern English the phrase 'Yayati syndrome' is sometimes used for giving up one's conscience in exchange for some outside gain.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata credits Yayati with a hundred Rajasuya and a hundred Ashvamedha sacrifices, and says wherever he threw a shami stick he performed one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Yayati told Garuda and Galava that no act is worse than answering a seeker with 'I have nothing'. That belief is why he gave his own daughter Madhavi to help Galava.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05115.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madhavi, Yayati's daughter, married four men and had one son with each: Vasumanas, Pratardana, Shibi and Ashtaka. All four later became kings, and later saved their grandfather.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yayati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "If a single person owned all of earth's rice, barley, gold, gems and animals, Yayati says, it would still not satisfy him. So the thirst for more should simply be given up.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01086.htm",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who cursed Yayati with early old age?",
+      "options": ["Shukracharya", "Durvasa", "Narada", "Vishvamitra"],
+      "answer": 0,
+      "why": "Shukracharya, Devayani's father, cursed him."
+    },
+    {
+      "q": "Which son agreed to take his father's old age?",
+      "options": ["Yadu", "Puru", "Turvasu", "Druhyu"],
+      "answer": 1,
+      "why": "Only the youngest, Puru, agreed."
+    },
+    {
+      "q": "How long did Yayati enjoy his youth?",
+      "options": ["100 years", "A year", "A thousand years", "12 years"],
+      "answer": 2,
+      "why": "The texts say a thousand years."
+    },
+    {
+      "q": "Who did Yayati rescue from a well?",
+      "options": ["Sharmishtha", "Devayani", "Madhavi", "Satyavati"],
+      "answer": 1,
+      "why": "Devayani was thrown into the well."
+    },
+    {
+      "q": "What did Yayati learn about desire?",
+      "options": [
+        "It fades quickly",
+        "It grows when fed",
+        "It is always good",
+        "It makes you strong"
+      ],
+      "answer": 1,
+      "why": "The text compares it to ghee poured on fire."
+    }
+  ],
+  "related": ["devayani", "sharmishtha", "shukracharya", "indra", "krishna", "shibi"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yayati",
+    "bhagavata_9_18": "https://vedabase.io/en/library/sb/9/18/",
+    "yayati_novel": "https://en.wikipedia.org/wiki/Yayati_(novel)",
+    "yadu": "https://en.wikipedia.org/wiki/Yadu",
+    "adi_84": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01085.htm",
+    "udyoga_115": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05115.htm",
+    "udyoga_121": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05121.htm"
+  },
+  "palette": {
+    "c1": "#E6DCF0",
+    "c2": "#F2E3BF"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

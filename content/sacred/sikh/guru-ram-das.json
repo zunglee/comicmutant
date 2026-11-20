@@ -1,0 +1,256 @@
+{
+  "slug": "guru-ram-das",
+  "name": "Guru Ram Das",
+  "aka": ["Jetha", "Ram Das Ji"],
+  "native": "ਗੁਰੂ ਰਾਮ ਦਾਸ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Fourth Sikh Guru and founder of Amritsar",
+  "years": "1534–1581",
+  "order": 4,
+  "summary": "Guru Ram Das (1534–1581), born Jetha in Lahore, founded the city of Ramdaspur, now Amritsar, around a sacred pool, and is linked to the Laavan wedding hymns.",
+  "about": "Sikh histories say Jetha was born in 1534 in Lahore and lost both parents around the age of seven. He grew up with his grandmother in Basarke, where he sold boiled chickpeas. He later joined Guru Amar Das at Goindwal, worked in the langar, and married Bibi Bhani in 1553. Amar Das named him Guru in 1574, and he took the name Ram Das, 'servant of God'. He founded the town of Ramdaspur around a pool, which grew into Amritsar, and invited merchants and artisans to settle. He composed 638 hymns in 30 ragas, and the Laavan wedding verses are linked with him. He was the first Guru to be succeeded by his own son, Guru Arjan, and died in 1581.",
+  "kidSummary": "Guru Ram Das lost his parents as a child and sold boiled chickpeas to help his family. He grew up to become the fourth Guru and began the city of Amritsar around a beautiful pool. His name means 'servant of God', and he is remembered for humble service.",
+  "story": [
+    {
+      "title": "A young seller",
+      "text": "Jetha lost his parents when he was about seven. He lived with his grandmother and sold boiled chickpeas in the market of Basarke."
+    },
+    {
+      "title": "Sharing with holy men",
+      "text": "He often shared his food with holy visitors, even when his grandmother scolded him, because he liked helping others."
+    },
+    {
+      "title": "Serving at Goindwal",
+      "text": "As a young man he joined Guru Amar Das, cleaned the langar utensils and helped dig the great stepwell."
+    },
+    {
+      "title": "Choosing a successor",
+      "text": "Guru Amar Das asked his two sons-in-law to build a seat. One gave up after four tries, but Jetha kept going, and the Guru was pleased."
+    },
+    {
+      "title": "A servant of God",
+      "text": "In 1574 he became Guru and took the name Ram Das, meaning 'servant of God'."
+    },
+    {
+      "title": "A city around a pool",
+      "text": "He founded Ramdaspur around a sacred pool, which grew into Amritsar, and invited traders and craftspeople from all over to live there."
+    }
+  ],
+  "teaches": ["Humble service", "Share what you have", "Build community together"],
+  "symbol": "lamp",
+  "emblems": ["Sarovar (sacred pool)", "Langar"],
+  "family": [
+    {
+      "relation": "wife",
+      "name": "Bibi Bhani"
+    },
+    {
+      "relation": "father-in-law and predecessor",
+      "name": "Guru Amar Das",
+      "slug": "guru-amar-das"
+    },
+    {
+      "relation": "son and successor",
+      "name": "Guru Arjan",
+      "slug": "guru-arjan"
+    },
+    {
+      "relation": "son",
+      "name": "Prithi Chand"
+    },
+    {
+      "relation": "son",
+      "name": "Mahadev"
+    }
+  ],
+  "texts": ["Guru Granth Sahib (hymns in 30 ragas, Laavan)"],
+  "places": ["Lahore (Chuna Mandi)", "Basarke", "Goindwal Sahib", "Amritsar"],
+  "festivals": ["Gurpurab"],
+  "facts": [
+    {
+      "text": "In a Lahore story, his mother gave him boiled grams to sell, but he took them to the bank of the Ravi and fed wandering holy men instead, an episode that echoes Nanak's true bargain.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At about nine in Basarke he sold boiled chickpeas, grams and wheat, but kept giving food free to holy men and was scolded by his grandmother. A few years later, at Khadur, he sold boiled corn to earn a living while attending Guru Angad's gatherings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a story about Bibi Bhani, Amar Das's daughter, a leg of his wooden meditation seat began to break, and she held it up with her hands. When he saw her bleeding hand, he blessed her that the guruship would stay with her descendants.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mata_Bhani",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He was the only Guru whose verses appear in the early Goindwal Pothis before he became Guru, under the pen-name Ghulam Sadasevak, 'eternal servant of the Lord'. Later hands crossed out some of the pages, which puzzled historians.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Brahmins near Goindwal complained to the Lahore authorities about the free kitchen and the Sikhs' rejection of caste. Amar Das sent young Jetha to Akbar's court, where his answer, that all human beings are equal, pleased the emperor.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one story Sri Chand, Nanak's son and an Udasi leader, remarked on Ram Das's long beard; the Guru said it was good for wiping the feet of saints and did so. He was the first Guru in the line to rebuild ties with the Udasis.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He was the first Guru whose successor was his own son. The first four Gurus were not related by descent, but the fifth through tenth were all descended from Ram Das.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His guruship lasted only seven years, 1574 to 1581, yet he dug two pools at Guru-da-Chak, the Ramdas Sarovar and the Amritsar Sarovar, and invited merchants and artisans to settle in his new town, Ramdaspur.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Two versions say how the land for Amritsar came to the Sikhs. A Gazetteer-based account says Sikh donations bought it for 700 rupees from the owners of Tung village, while Sikh records say Guru Amar Das chose the site, called Guru da Chakk.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amritsar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The four Laavan wedding verses are linked with him; couples walk four times around the scripture, and they shaped the Anand Marriage Act of 1909.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ram Das asked Prithi Chand to attend a Lahore wedding for him, but Prithi refused, fearing for his chance of succeeding; Mahadev declined too, and Arjan went. Prithi stole Arjan's letters home, but his fourth poem won his father's heart.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he died at Goindwal on 1 September 1581, he had named his youngest son Arjan as successor. Prithi Chand protested loudly and later started a rival group that Arjan's followers called Minas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He added the masand system to Amar Das's manji network, after Baba Buddha suggested new ways to raise funds. Masands led distant congregations; early ones were committed, but the system later became notorious for corruption.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Bhai Gurdas, a well-educated relative of Nanak's line, joined him and helped advance the Sikh cause. Gurdas was born in Goindwal in 1551.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His three sons were very different. Prithi Chand ran the langar and kept records, Mahadev preferred solitude and had no interest in worldly affairs, and the youngest, Arjan, was deeply devoted and saw his father as a teacher.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Amar Das's wife, Mata Mansa Devi, picked Jetha for her daughter Bhani, impressed by his devoted and pious character.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jetha lived five years in Basarke, learning shlokas, mantras, the Vedas and the Upanishads, but felt spiritually unsatisfied until he met Amar Das.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahima Prakash Vartak, probably written in 1741, is the earliest known text covering the lives of all ten Gurus, and it describes the building work at Ramdaspur between 1574 and 1604.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A pond at Ramdasar was said to have curative waters. Bhai Jetha enlarged it into a sarovar named Amritsar, 'Lake of Amrit', and the modern city takes its name from it.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mata_Bhani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His 638 hymns, about ten percent of the Guru Granth Sahib, are set to 30 ragas and still sung daily at Harmandir Sahib. His poetry was more innovative than Amar Das's, with new ragas and rhythms and a move toward Sanskritic and Hindi vocabulary.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did young Jetha sell in the market?",
+      "options": ["Boiled chickpeas", "Silk cloth", "Pots", "Flowers"],
+      "answer": 0,
+      "why": "He sold boiled grams to help his family."
+    },
+    {
+      "q": "What does the name Ram Das mean?",
+      "options": ["King of kings", "Servant of God", "Teacher of music", "Builder of towns"],
+      "answer": 1,
+      "why": "Das means servant."
+    },
+    {
+      "q": "Which city did he found around a sacred pool?",
+      "options": ["Ramdaspur (Amritsar)", "Kartarpur", "Tarn Taran", "Delhi"],
+      "answer": 0,
+      "why": "Ramdaspur later became Amritsar."
+    },
+    {
+      "q": "What verses linked to him are used in Sikh weddings?",
+      "options": ["Japji", "Laavan", "Rehras", "Sukhmani"],
+      "answer": 1,
+      "why": "The Laavan are sung as couples circle the scripture."
+    },
+    {
+      "q": "Who became Guru after him?",
+      "options": ["Guru Arjan", "Guru Hargobind", "Guru Angad", "Guru Nanak"],
+      "answer": 0,
+      "why": "His youngest son Arjan followed him."
+    }
+  ],
+  "related": ["guru-amar-das", "guru-arjan", "bhai-gurdas", "guru-granth-sahib"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+    "amritsar": "https://en.wikipedia.org/wiki/Amritsar",
+    "goldentemple": "https://en.wikipedia.org/wiki/Golden_Temple",
+    "bhani": "https://en.wikipedia.org/wiki/Mata_Bhani"
+  },
+  "palette": {
+    "c1": "#f3e0b8",
+    "c2": "#bfd8e6"
+  },
+  "depth": "full"
+}

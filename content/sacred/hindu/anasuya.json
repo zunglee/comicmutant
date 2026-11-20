@@ -1,0 +1,311 @@
+{
+  "name": "Anasuya",
+  "aka": ["Anusuya", "Sati Anasuya"],
+  "native": "अनसूया",
+  "role": "Ascetic and wife of the sage Atri, mother of Dattatreya",
+  "summary": "Anasuya is a revered ascetic and the wife of Atri. Her name means one free from envy. Texts tell of her tapas, her welcome to Sita and the birth of her three sons.",
+  "about": "Anasuya is a woman ascetic in Hindu texts, the wife of the sage Atri. The Bhagavata Purana names her parents as Kardama and Devahuti and her brother as Kapila. Her name means free from envy. The Valmiki Ramayana shows her in a hermitage at Chitrakuta, where she welcomes Sita and shares gifts and advice. Atri says her tapas kept the forest alive during a long drought. Puranic stories say the three great gods were born as her sons, Chandra, Dattatreya and Durvasa. A popular legend, outside the main Puranas, tells how she turned the three gods into babies. Her story is told at the Anasuya Devi temple in Uttarakhand and the Sati Anasuya ashram at Chitrakoot.",
+  "kidSummary": "Anasuya is a kind and wise woman whose name means one who does not feel jealous. In stories, she welcomed Rama and Sita to her forest home and gave Sita a lovely gift. Many tales say she became the mother of Dattatreya, Chandra and Durvasa.",
+  "story": [
+    {
+      "title": "A quiet hermitage",
+      "text": "Anasuya lives with her husband Atri in a small forest hermitage near Chitrakuta, spending her days in prayer."
+    },
+    {
+      "title": "Guests from Ayodhya",
+      "text": "When Rama, Sita and Lakshmana arrive in exile, Anasuya welcomes them with great care."
+    },
+    {
+      "title": "Words and gifts",
+      "text": "In the Valmiki Ramayana, Anasuya speaks kindly with Sita and gives her gifts, after hearing how Sita chose to join Rama."
+    },
+    {
+      "title": "The popular legend",
+      "text": "A popular legend says the three great goddesses wished to test her. The Trimurti arrive as guests and ask for a strange favour."
+    },
+    {
+      "title": "A clever answer",
+      "text": "She sprinkles water on them and they become babies, and she cares for them lovingly until the goddesses ask her to restore them."
+    },
+    {
+      "title": "A gift for her kindness",
+      "text": "Pleased, the gods grant her wish: they will be born as her sons."
+    }
+  ],
+  "teaches": [
+    "Be free from jealousy",
+    "Care for guests with respect",
+    "Quiet devotion has great strength"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Hermitage at Chitrakuta", "Mandakini river"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Atri",
+      "slug": "atri"
+    },
+    {
+      "relation": "Son",
+      "name": "Dattatreya",
+      "slug": "dattatreya"
+    },
+    {
+      "relation": "Son",
+      "name": "Durvasa",
+      "slug": "durvasa"
+    },
+    {
+      "relation": "Son",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Brother",
+      "name": "Kapila",
+      "slug": "kapila"
+    },
+    {
+      "relation": "Daughter (Brahma Purana)",
+      "name": "Shubhatreyi"
+    },
+    {
+      "relation": "Sister",
+      "name": "Arundhati",
+      "slug": "arundhati"
+    },
+    {
+      "relation": "Father",
+      "name": "Kardama"
+    },
+    {
+      "relation": "Mother",
+      "name": "Devahuti"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Ayodhya Kanda)",
+    "Bhagavata Purana",
+    "Markandeya Purana",
+    "Shiva Purana",
+    "Brahma Purana"
+  ],
+  "places": [
+    "Sati Anasuya Ashram, Chitrakoot",
+    "Anasuya Devi Temple, Uttarakhand",
+    "Porbandar Krishna-Sudama temple carving"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Valmiki Ramayana, Atri tells Rama that when a ten-year drought scorched the land, Anasuya's severe tapas made fruit and roots grow and brought the Ganga flowing again.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Valmiki text says she did severe penance for ten thousand years, and a footnote adds she turned ten nights into one for a divine purpose.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Brahmanda Purana says Shiva placed his anger into Anasuya, and her son Durvasa was born from it. That is why Durvasa is known for his temper.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, Anasuya gives Sita a garland, clothing, jewels and cosmetics, with the promise that they will stay fresh however often she uses them.",
+      "kind": "symbol",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga118/ayodhya_118_prose.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Markandeya Purana tells of a sage's curse that said a man would die at sunrise. His wife Shandili stopped the sun from rising, and the universe fell into chaos.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In that Markandeya story, the gods asked Anasuya for help. She spoke with Shandili and promised that her husband would live, and the sun rose again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A separate legend says the three goddesses argued over who was the most virtuous woman, and Narada named Anasuya, saying her devotion could even cook iron beans.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Trimurti legend, the three gods visit her as young guests, and she turns them into babies to answer their demand without breaking her principles.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some tellings she lays the baby gods in a cradle after feeding them as her own. In others they merge into one three-headed child, and she also asks for a daughter, Shubhatreyi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her son Dattatreya is said to have taught himself by watching nature, counting twenty-four teachers, among them earth, wind, sky and water.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her son Durvasa, whose name means 'difficult to live with', curses Indra in the Vishnu Purana, which sets off the churning of the ocean of milk. Other texts give other causes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana shows Anasuya as an old, frail woman with grey hair, her body shaking like a banana tree in a storm. Yet her tapas is so strong that Atri lists her feats to Rama with great respect.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Atri introduces her to Rama as someone who is like a mother to him, and Rama tells Sita to go to her without delay. That meeting is where Sita receives Anasuya's gifts and advice.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Anasuya was one of nine sisters, all born to Kardama and Devahuti on the same day. Her sisters include Khyati, wife of Bhrigu, and Arundhati, and each daughter was married to a great sage.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kardama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her brother Kapila is described in the Bhagavata Purana as Vishnu born to Kardama and Devahuti. His birth came with auspicious signs, and nine great sages and Brahma arrived to honour him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kardama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her father Kardama is said to have made a flying palace, a vimana, by his yoga powers. He toured the world in it with her mother Devahuti, visiting gardens and heavenly places.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kardama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Two Telugu films called Sati Anasuya were made, one in 1957 and one in 1971. The 1957 film was directed by Kadaru Nagabhushanam, and the 1971 film by B. A. Subba Rao.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A tradition at Chitrakoot says Anasuya's austerities brought the Mandakini river down to earth. Her ashram stands upstream, where several hill streams meet to form the river.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The baby-gods story is from a popular legend that is not in the main Puranas. That is why the Markandeya and Bhagavata tellings of her sons' births read quite differently.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the sunrise story, the gods offer Anasuya a boon. She asks that the Trimurti be born as her sons, and that she and Atri be freed from the cycle of rebirth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Anasuya mean?",
+      "options": ["Born of the sun", "Free from envy", "Mother of rivers", "Gift of gods"],
+      "answer": 1,
+      "why": "It means one free from envy."
+    },
+    {
+      "q": "Who is Anasuya's husband?",
+      "options": ["Atri", "Vasishtha", "Gautama", "Kashyapa"],
+      "answer": 0,
+      "why": "She is the wife of the sage Atri."
+    },
+    {
+      "q": "Whom did she welcome in the Ramayana?",
+      "options": [
+        "Hanuman and Sugriva",
+        "Rama and Sita",
+        "Arjuna and Krishna",
+        "Bharata and Shatrughna"
+      ],
+      "answer": 1,
+      "why": "Rama, Sita and Lakshmana visited her hermitage."
+    },
+    {
+      "q": "What are her three sons in the Puranas?",
+      "options": [
+        "Chandra, Dattatreya, Durvasa",
+        "Lava, Kusha, Angada",
+        "Nakula, Sahadeva, Bhima",
+        "Shuka, Vyasa, Parashara"
+      ],
+      "answer": 0,
+      "why": "The three sons are Chandra, Dattatreya and Durvasa."
+    },
+    {
+      "q": "Which river is linked to her ashram at Chitrakoot?",
+      "options": ["Mandakini", "Narmada", "Kaveri", "Sindhu"],
+      "answer": 0,
+      "why": "The ashram is upstream on the Mandakini."
+    }
+  ],
+  "related": [
+    "atri",
+    "dattatreya",
+    "durvasa",
+    "chandra",
+    "sita",
+    "rama",
+    "kapila",
+    "brahma",
+    "vishnu",
+    "shiva"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anasuya",
+    "valmiki": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+    "atri": "https://en.wikipedia.org/wiki/Atri",
+    "kardama": "https://en.wikipedia.org/wiki/Kardama",
+    "dattatreya": "https://en.wikipedia.org/wiki/Dattatreya"
+  },
+  "palette": {
+    "c1": "#e8cfd0",
+    "c2": "#c9dcc0"
+  },
+  "order": 740,
+  "slug": "anasuya",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

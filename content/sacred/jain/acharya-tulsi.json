@@ -1,0 +1,257 @@
+{
+  "slug": "acharya-tulsi",
+  "name": "Acharya Tulsi",
+  "aka": ["Tulsi Gani", "Yug Pradhan"],
+  "native": "आचार्य तुलसी",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Ninth Acharya of the Shvetambara Terapanth, founder of the Anuvrat movement",
+  "summary": "Acharya Tulsi (1914-1997) led the Shvetambara Terapanth from 1936 and started the Anuvrat movement in 1949. He walked over 70,000 km, helped revive preksha meditation and founded the Saman order.",
+  "about": "Acharya Tulsi was born in 1914 in Ladnun, Rajasthan, and became a Jain monk at the age of 11. In 1936 he became the ninth Acharya of the Shvetambara Terapanth, the monastic order founded by Acharya Bhikshu in 1760. He launched the Anuvrat movement in 1949, which, as the Terapanth tells it, adapts the Jain vows of non-violence and truthfulness as small vows for any person, of any faith. He walked more than 70,000 kilometres on foot across India, helped develop preksha meditation with his disciple Mahapragya, started the Saman order in 1980, worked on translating the Jain Agamas and wrote over a hundred books. In 1994 he stepped down as Acharya, handing the post to Mahapragya and becoming known as Ganadhipati, and he died on 23 June 1997.",
+  "kidSummary": "Acharya Tulsi was a Jain monk who became the leader of his order when he was only in his early twenties. He walked tens of thousands of kilometres on foot, from village to village, teaching that people of every religion can live kindly and honestly. He also helped teach meditation.",
+  "story": [
+    {
+      "title": "A boy in Ladnun",
+      "text": "Tulsi was born in 1914 in the town of Ladnun in Rajasthan. At age eleven he joined the Terapanth Jain monks and began his training."
+    },
+    {
+      "title": "Leader at a young age",
+      "text": "In 1936 his teacher named him the next Acharya. Tulsi was just in his early twenties, and now led a large group of monks and nuns."
+    },
+    {
+      "title": "Small vows for everyone",
+      "text": "In 1949 he launched the Anuvrat movement. It asked people of any faith to keep small promises: be honest, be peaceful, and avoid harm."
+    },
+    {
+      "title": "Walking across India",
+      "text": "Jain monks do not ride in vehicles, so he travelled on foot. Over his life he walked more than 70,000 km, visiting people across India."
+    },
+    {
+      "title": "Meditation and learning",
+      "text": "With his disciple Mahapragya he revived a Jain meditation called preksha dhyan, 'seeing deeply'. He also worked on commentaries on the old Jain texts."
+    }
+  ],
+  "teaches": [
+    "Small daily vows can change a person",
+    "Non-violence and honesty for everyone",
+    "Meditation as looking deeply within"
+  ],
+  "symbol": "book",
+  "emblems": ["Anuvrat (small vows)", "Preksha dhyan", "Padayatra (long walks)"],
+  "family": [
+    {
+      "relation": "Guru who named him successor",
+      "name": "Acharya Kalugani"
+    },
+    {
+      "relation": "Disciple and 10th Acharya",
+      "name": "Acharya Mahapragya"
+    },
+    {
+      "relation": "Disciple, later 11th Acharya",
+      "name": "Acharya Mahashraman"
+    },
+    {
+      "relation": "Founder of the Terapanth",
+      "name": "Acharya Bhikshu"
+    }
+  ],
+  "texts": ["Jain Agamas (commentaries and editions)", "Samana Suttam", "Anuvrat writings"],
+  "places": [
+    "Ladnun, Rajasthan",
+    "Gangapur",
+    "Sardarshahar",
+    "Todgarh",
+    "Jain Vishva Bharati, Ladnun"
+  ],
+  "festivals": ["Mahavir Jayanti"],
+  "facts": [
+    {
+      "text": "He became a monk at only 11, in 1925, and was strongly shaped by Acharya Kalugani, the leader of the Shvetambara Terapanth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1936 Kalugani named him his successor at Gangapur, making him the ninth Acharya of the Terapanth when he was in his early twenties.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The name Terapanth began as a label for a 'sect of thirteen'. Acharya Bhikshu, who founded it in 1760, turned it into 'your path', meaning Mahavira's path, because 'tera' can mean both thirteen and your.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Over his life he walked more than 70,000 km on foot, since Jain monks and nuns do not use vehicles. That is about one and three-quarter times round the Earth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Around 1980 he created the Saman order, whose members may use vehicles and accept prepared food so that they can teach Jainism abroad.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In February 1994 Tulsi did something rare for a living leader. He announced that he was giving up the post of Acharya and handing it to Mahapragya, who was formally consecrated as the 10th Acharya in Delhi on 5 February 1995.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mah%C4%81praj%C3%B1a",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1971 the President of India, V. V. Giri, gave him the title Yug Pradhan, meaning leader of the age.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In November 1978 Tulsi gave Muni Nathmal the epithet Mahapragya, 'highly knowledgeable'. In February 1979 it became his new name and he was made Yuvacharya, the heir to Tulsi's post.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mah%C4%81praj%C3%B1a",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1966 he walked from Rajasthan through Gujarat, Maharashtra, Tamil Nadu, Pondicherry, Kerala, Karnataka, Andhra Pradesh, Orissa and Madhya Pradesh, and then back to Rajasthan.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Terapanth is strict about not using idols in worship. Its followers stress self-control, discipline and meditation instead.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sadhvi Pramukha Kanakprabha, a Terapanth nun, wrote an account of his travels called Foot Journeys of Acharya Shri Tulsi, in several volumes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 2014 the Reserve Bank of India issued two coins with his image, of 5 and 20 rupees. Finance Minister P. Chidambaram released them at Bikaner to mark his birth centenary.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In February 2020 Salkia School Road, a main road of Howrah in West Bengal, was renamed Acharya Tulsi Marg in his honour.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Terapanth monks and nuns have published about 500 books in recent decades, and Tulsi wrote a great deal about the Anuvrat movement.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tulsi's disciple Mahapragya out-walked him. He is said to have covered more than 100,000 km on foot and visited over 10,000 villages.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mah%C4%81praj%C3%B1a",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 2 May 1950 New York Times headline reported 600 people pledging high ethics, a year after Anuvrat began. In May 1950 Time magazine also covered it in a piece called 'Atomic Vows'.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Anuvrat takes five Jain principles, truth, non-violence, non-possession, non-stealing and celibacy, and applies them in limited form to lay people, even in non-religious parts of life.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The movement was open to all, yet its first 25 Anuvratis, 23 men and 2 women, were all Terapanthis. They included Gandhians, doctors, industrialists and traders.",
+      "kind": "history",
+      "source": "https://jainqq.org/pagetext/Anuvrat_Movement_Theory_And_Practice/007797/33",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "India's first President, Rajendra Prasad, praised Tulsi's work on Anuvrat and said that he would gladly accept the role of its supporter.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tulsi was born on 20 October 1914 in Ladnun, to parents named Vadana and Jhumarmal Khater, and he died on 23 June 1997 at the age of 82.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In what year did Acharya Tulsi launch the Anuvrat movement?",
+      "options": ["1925", "1936", "1949", "1997"],
+      "answer": 2,
+      "why": "He launched it in 1949."
+    },
+    {
+      "q": "About how far did he walk in his life?",
+      "options": ["7,000 km", "20,000 km", "70,000 km", "200,000 km"],
+      "answer": 2,
+      "why": "He walked over 70,000 km, as Jain monks do not use vehicles."
+    },
+    {
+      "q": "Which meditation did he help revive with Mahapragya?",
+      "options": ["Preksha dhyan", "Zen", "Vipassana", "Mantra chanting"],
+      "answer": 0,
+      "why": "Preksha dhyan means deep seeing within."
+    },
+    {
+      "q": "What does Anuvrat mean in simple terms?",
+      "options": ["Small vows", "Pilgrim walks", "Silent fasting", "Temple rules"],
+      "answer": 0,
+      "why": "Anuvrat is a movement of small vows for everyone."
+    },
+    {
+      "q": "How old was Tulsi when he became a monk?",
+      "options": ["7", "11", "14", "18"],
+      "answer": 1,
+      "why": "He became a monk at 11, in 1925."
+    }
+  ],
+  "related": ["mahavira", "hemachandra", "kundakunda", "gautama-swami", "bhadrabahu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Acharya_Tulsi",
+    "terapanth": "https://en.wikipedia.org/wiki/%C5%9Avet%C4%81mbara_Terapanth",
+    "mahapragya": "https://en.wikipedia.org/wiki/Mahapragya",
+    "jvbi": "https://en.wikipedia.org/wiki/Jain_Vishva_Bharati_Institute",
+    "preksha": "https://en.wikipedia.org/wiki/Preksha_meditation",
+    "anuvrat": "https://jainqq.org/pagetext/Anuvrat_Movement_Theory_And_Practice/007797/33"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1e2bf",
+    "c2": "#d6e1ea"
+  },
+  "years": "1914-1997"
+}

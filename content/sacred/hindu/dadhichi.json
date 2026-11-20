@@ -1,0 +1,277 @@
+{
+  "slug": "dadhichi",
+  "name": "Dadhichi",
+  "aka": ["Dadhyancha", "Dadhyanga", "Dadhichi Rishi"],
+  "native": "दधीचि",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage who gave his bones for Indra's vajra",
+  "summary": "Dadhichi is a sage remembered for giving his bones so the gods could make the vajra. India's Param Vir Chakra medal bears four vajras in his honour.",
+  "about": "In many Puranas, Dadhichi is a sage, son of Atharvan, known for the sacrifice of his body. The Devi Bhagavata Purana says Vishnu told Indra that only a weapon made from Dadhichi's bones could defeat Vritra. The sage agreed, and the vajra was made. The Rigveda has an older story in which he offers Indra a horse's head, and the Jaiminiya Brahmana tells how the Ashvins gave him one. Shiva and Linga Puranas add a dispute with King Kshuva. His son Pippalada is credited with the Prashna Upanishad. Ashram sites are claimed at Misrikh near Naimisharanya, and the Param Vir Chakra is regarded as inspired by his story.",
+  "kidSummary": "Dadhichi was a kind sage in the stories of the Puranas. When the gods needed a strong weapon, he gave up his own bones so the vajra could be made. Because of that, India's highest medal for bravery, the Param Vir Chakra, has four vajras on it.",
+  "story": [
+    {
+      "title": "The gods in trouble",
+      "text": "In the Puranas, the asura Vritra was growing so strong that Indra and the gods could not stop him. They went to Vishnu for advice."
+    },
+    {
+      "title": "The only way",
+      "text": "Vishnu told them that only a weapon made from the bones of the sage Dadhichi could defeat Vritra, so Indra went to ask him."
+    },
+    {
+      "title": "A generous gift",
+      "text": "Dadhichi agreed, but first wished to visit all the holy rivers. Indra gathered their waters at Naimisharanya, and the sage bathed in them."
+    },
+    {
+      "title": "The vajra is forged",
+      "text": "After Dadhichi gave up his life, tradition says his bones were taken to the divine craftsman Vishvakarma. He forged the vajra, the thunderbolt, for Indra."
+    },
+    {
+      "title": "A memory in a medal",
+      "text": "Today, the Param Vir Chakra, India's highest wartime gallantry award, has four vajras on it to remember the sage's gift."
+    }
+  ],
+  "teaches": [
+    "Generosity can protect many",
+    "Give for a greater good",
+    "Courage includes self-sacrifice"
+  ],
+  "symbol": "flame",
+  "emblems": ["Vajra (thunderbolt from his bones)", "Horse's head (Rigvedic tale)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Atharvan"
+    },
+    {
+      "relation": "Mother",
+      "name": "Chitti"
+    },
+    {
+      "relation": "Wife",
+      "name": "Suvarcas"
+    },
+    {
+      "relation": "Son",
+      "name": "Pippalada"
+    },
+    {
+      "relation": "Linked to",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Linked to",
+      "name": "Ashvins",
+      "slug": "ashvins"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Jaiminiya Brahmana",
+    "Devi Bhagavata Purana",
+    "Linga Purana",
+    "Shiva Purana"
+  ],
+  "places": [
+    "Misrikh, near Naimisharanya",
+    "Daheli, Sambhal district",
+    "Nagaur (Dadhimati Mata temple)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Rigveda, Dadhichi urged Indra to destroy asuras and offered a horse's head found in a lake, and with its bones they defeated many.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Jaiminiya Brahmana, Dadhichi taught the Ashvins a secret mantra although he knew his head would burst; the Ashvins then gave him a horse's head and restored his life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva and Linga Puranas, Dadhichi and King Kshuva argue over whether knowledge or force is greater and come to blows; when Shiva offers a boon, the sage asks for unbreakable bones, immortality and freedom from distress.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In that story Vishnu comes disguised as a Brahmin, but Dadhichi sees through it; the devas' attack fails under Shiva's protection, and blades of kusha grass the sage throws turn into a trishula.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Shiva and Linga Puranas, Dadhichi curses Indra and the devas to be destroyed when they attend Daksha's sacrifice. Separately, he is said to have been the first guest to walk out of it, since Shiva was not invited.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Vishnu tells Indra that only a weapon made from Dadhichi's bones can defeat Vritra. Before giving his life, the sage wants to bathe in all holy rivers, so Indra gathers their waters at Naimisharanya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another version, Dadhichi guards the gods' weapons, dissolves them in sacred water and drinks it; he then gives his life in a pit of flames raised by his austerity, and Vishvakarma forges the vajra from his spine.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "India's Param Vir Chakra is regarded as inspired by Dadhichi's sacrifice, and its design has four vajras around the National Emblem.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Param_Vir_Chakra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The mantra of the goddess Hinglaj is attributed to Dadhichi, who is said to have hidden Kshatriya children in her temple to save them from Parashurama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His son Pippalada became a famous rishi, credited with the Prashna Upanishad, one of the ten principal Upanishads, and the Pippalada school of Atharvaveda study is named after him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pippalada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Dadhichi dies, a heavenly voice tells his wife she is expecting; the baby, Pippalada, is left by a banyan tree, and in the Pippalada account the tree and the moon-god Chandra nourish him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pippalada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pippalada is said to be named after the pippala (sacred fig) tree, whose juice he lived on, and some Puranas treat him as a partial form of Shiva.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Pippalada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a story about Pippalada, he meets the planetary deity Shani and asks him to perform rituals that protect people from Shani's harmful influence.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pippalada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition holds that the site of the Sabarmati Ashram in Ahmedabad is one of Dadhichi's ancient ashram sites, and a Dahod legend says he meditated beside the Dudhimati river.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Puranas cite Naimisharanya, at Misrikh near Lucknow, as Dadhichi's ashram, and an ashram there still stands; another ancient ashram is claimed at Daheli village in Sambhal district.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, the gods ask Dadhichi for his bones even though Indra had once slain him, and the sage still agrees to help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Param Vir Chakra was designed by Savitri Khanolkar, an army officer's wife, at the request of Major General Hira Lal Atal; the first one went to Major Somnath Sharma for actions in November 1947.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Param_Vir_Chakra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Only 21 Param Vir Chakras have been awarded, 14 of them after the recipient's death; the bronze disc, 35 mm wide, shows the National Emblem ringed by four vajras.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Param_Vir_Chakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Rigveda the vajra is made by the divine craftsman Tvashtar; the tale of a weapon made from Dadhichi's bones comes from the later Puranas, so the two versions are best told separately.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vajra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The word vajra means both diamond and thunderbolt, standing for what cannot be broken and cannot be resisted, a fitting name for a weapon made from the sage's unbreakable bones.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vajra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Dadhichi give so the vajra could be made?",
+      "options": ["His staff", "His bones", "His horse", "His crown"],
+      "answer": 1,
+      "why": "The Puranas say the vajra came from his bones."
+    },
+    {
+      "q": "Whose weapon is the vajra?",
+      "options": ["Indra's", "Varuna's", "Yama's", "Vayu's"],
+      "answer": 0,
+      "why": "The vajra is Indra's thunderbolt."
+    },
+    {
+      "q": "Which asura did the vajra help defeat?",
+      "options": ["Ravana", "Vritra", "Mahisha", "Kamsa"],
+      "answer": 1,
+      "why": "The vajra was made to defeat Vritra."
+    },
+    {
+      "q": "Which Indian medal shows four vajras?",
+      "options": ["Bharat Ratna", "Padma Shri", "Param Vir Chakra", "Ashoka Chakra"],
+      "answer": 2,
+      "why": "The Param Vir Chakra has four vajras."
+    },
+    {
+      "q": "Who forged the vajra in one telling?",
+      "options": ["Vishvakarma", "Garuda", "Kubera", "Surya"],
+      "answer": 0,
+      "why": "Vishvakarma forged it in one version."
+    }
+  ],
+  "related": [
+    "indra",
+    "vritra",
+    "vishvakarma",
+    "ashvins",
+    "angiras",
+    "shiva",
+    "vishnu",
+    "parashurama"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dadhichi",
+    "param_vir_chakra": "https://en.wikipedia.org/wiki/Param_Vir_Chakra",
+    "pippalada": "https://en.wikipedia.org/wiki/Pippalada",
+    "vajra": "https://en.wikipedia.org/wiki/Vajra"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e9dcef",
+    "c2": "#c9bbdb"
+  }
+}

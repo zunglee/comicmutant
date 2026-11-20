@@ -1,0 +1,265 @@
+{
+  "slug": "tyagaraja",
+  "name": "Tyagaraja",
+  "aka": ["Tyagayya", "Kakarla Tyagabrahmam"],
+  "native": "త్యాగరాజు",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Composer-saint of Carnatic music devoted to Rama",
+  "summary": "Tyagaraja (1767-1847) was a Telugu composer-saint who lived at Thiruvaiyaru and sang of Rama. He is one of the three great composers of Carnatic music, known as its Trinity.",
+  "about": "Tyagaraja was born in 1767 in a Telugu-speaking Brahmin family in the Thanjavur region of Tamil Nadu and spent most of his life in Thiruvaiyaru on the Kaveri. He is counted with Syama Sastri and Muthuswami Dikshitar as one of the Trinity of Carnatic music. He lived during the rule of the Thanjavur Maratha kings but never served in their court, choosing a life of devotion to Rama. About 720 of his kritis survive, mostly in Telugu, along with two musical plays. A story says the sage Narada appeared to him in a vision and gave him a music treatise. Each year musicians gather at his samadhi in Thiruvaiyaru to sing his five Pancharatna kritis together.",
+  "kidSummary": "Tyagaraja lived in Thiruvaiyaru in South India more than 200 years ago and spent his life singing songs to Rama. A story says he turned down a king's invitation to stay in his court. Every year, musicians gather at his memorial to sing his most famous songs together.",
+  "story": [
+    {
+      "title": "A musical childhood",
+      "text": "Tyagaraja was born in a Telugu family in 1767. His grandfather played the veena and taught him, and young Tyagaraja soon loved music."
+    },
+    {
+      "title": "Songs for Rama",
+      "text": "He grew up devoted to Rama and composed his first song in Sanskrit. He wrote most of his later songs in Telugu."
+    },
+    {
+      "title": "A king invites him",
+      "text": "King Serfoji II invited him to join the royal court. The story says Tyagaraja said no, preferring to sing for Rama alone, and composed a song about it."
+    },
+    {
+      "title": "The Pancharatnas",
+      "text": "He composed five special songs, the Pancharatna kritis, meaning five gems, each in a different raga but the same rhythm."
+    },
+    {
+      "title": "A yearly gathering",
+      "text": "After he passed away in 1847 at Thiruvaiyaru, musicians began gathering each year at his samadhi to sing the five gems together."
+    }
+  ],
+  "teaches": [
+    "Devotion matters more than fame or wealth",
+    "Music can be an offering",
+    "Contentment comes from within"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Veena or tambura (music)", "Rama idol worshipped at home"],
+  "family": [
+    {
+      "relation": "Devotion to",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Visited in a vision by",
+      "name": "Narada",
+      "slug": "narada"
+    },
+    {
+      "relation": "Father",
+      "name": "Kakarla Ramabrahmam"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sitamma"
+    }
+  ],
+  "texts": [
+    "Kritis in Telugu and Sanskrit",
+    "Pancharatna kritis",
+    "Prahlada Bhakti Vijayam",
+    "Nauka Charitam"
+  ],
+  "places": [
+    "Thiruvaiyaru (samadhi)",
+    "Tiruvarur (birthplace per most accounts)",
+    "Thanjavur region"
+  ],
+  "festivals": ["Tyagaraja Aradhana"],
+  "related": ["rama", "narada", "purandara-dasa", "hanuman", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tyagaraja",
+    "aradhana": "https://en.wikipedia.org/wiki/Thyagaraja_Aradhana",
+    "nagarathnamma": "https://en.wikipedia.org/wiki/Bangalore_Nagarathnamma"
+  },
+  "palette": {
+    "c1": "#e9dcc0",
+    "c2": "#c3d6c9"
+  },
+  "years": "1767–1847",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "How many Pancharatna kritis are there?",
+      "options": ["Three", "Five", "Seven", "Ten"],
+      "answer": 1,
+      "why": "Pancharatna means five gems."
+    },
+    {
+      "q": "Which deity did Tyagaraja mainly sing about?",
+      "options": ["Ganesha", "Rama", "Krishna", "Surya"],
+      "answer": 1,
+      "why": "Most of his songs praise Rama."
+    },
+    {
+      "q": "Where is his samadhi?",
+      "options": ["Thiruvaiyaru", "Madurai", "Mysuru", "Puri"],
+      "answer": 0,
+      "why": "He passed away and was buried at Thiruvaiyaru on the Kaveri."
+    },
+    {
+      "q": "Which two composers form the Trinity with him?",
+      "options": [
+        "Kabir and Tulsidas",
+        "Syama Sastri and Muthuswami Dikshitar",
+        "Purandara Dasa and Annamacharya",
+        "Swathi Thirunal and Kanaka Dasa"
+      ],
+      "answer": 1,
+      "why": "The Carnatic Trinity is Tyagaraja, Syama Sastri and Muthuswami Dikshitar."
+    },
+    {
+      "q": "What did he do when a king invited him to the court?",
+      "options": ["Moved in", "Said no", "Asked for gold", "Sent his son"],
+      "answer": 1,
+      "why": "He declined and, as the story goes, composed a song about it."
+    }
+  ],
+  "facts": [
+    {
+      "text": "A well-known story says King Serfoji II invited him to the royal court and Tyagaraja refused; the kriti Nidhi Chala Sukhama, 'Does wealth bring happiness?', is said to have been written then.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His first kriti, Namo Namo Raghavaaya, is in Sanskrit and Desika Todi raga, and it was reportedly inscribed on the walls of his house.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A legend says the sage Narada appeared to him in a vision and gave him a music book called Svararnavam.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pancharatna Jagadanandakaraka contains ninety names of Rama, and his disciples asked him to add two more verses with eighteen more, bringing the total to 108.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "About 720 of his kritis survive. Claims that he wrote 24,000 songs have no biographical support.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A popular story says his jealous elder brother threw the Rama idol Tyagaraja worshipped into the Kaveri; Rama is said to have shown him the spot in a dream, and he recovered it.",
+      "kind": "story",
+      "source": "https://madraswallah.com/2017/05/05/in-search-of-rama-life-of-saint-thyagaraja/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The singer Bangalore Nagarathnamma, who said a dream told her to do it, built a temple over his samadhi at Thiruvaiyaru with her own money; it was consecrated in 1921.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bangalore_Nagarathnamma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rival male groups kept Nagarathnamma from singing at the Aradhana, so she ran her own women's festival alongside it, and by 1941 the groups merged and women could sing too.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bangalore_Nagarathnamma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says he chanted Rama's name about 96 crore times, roughly 960 million, over the years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramanama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He spent most of his life in a one-room house in Thiruvaiyaru that King Thuljaji had given to his father, and it has since been renovated and opened to music lovers.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A crater on the planet Mercury was named Tyagaraja in 1976.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "A day before he died he took the vow of sannyasa; his last composition was Giripai Nelakonna in raga Sahana, and he was laid to rest the next day on the Kaveri bank at Thiruvaiyaru.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He is said to have learned the veena as a child from his maternal grandfather, the noted veena player Kalahastayya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tyagaraja lived through the reigns of four Thanjavur Maratha kings, Thuljaji, Amarasimha, Serfoji II and Shivaji II, yet served none of them.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Thiruvaiyaru on Pushya Bahula Panchami, thousands of people and hundreds of musicians sing the five Pancharatna kritis together, backed by veenas, violins, flutes and drums.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tyagaraja, Syama Sastri and Muthuswami Dikshitar are together called the Trinity of Carnatic music.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is known for ninda stuti, lovingly scolding the divine in his songs, as when he gently chides Krishna in the Pancharatna Sadhinchene.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1893 A. M. Chinnaswami Mudaliar published an early collection of his kritis in European staff notation, in a volume titled Oriental Music in European Notation.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Nauka Charitam, a one-act musical play with 21 kritis in 13 ragas, is his most popular opera and came from his own imagination, not from the Bhagavata Purana.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Pancharatna Duduku Gala, he takes the blame for human misdeeds on himself and wonders who will come to rescue him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tyagaraja",
+      "interest": 7,
+      "kid": false
+    }
+  ]
+}

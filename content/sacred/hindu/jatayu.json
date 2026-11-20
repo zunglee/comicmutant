@@ -1,0 +1,257 @@
+{
+  "slug": "jatayu",
+  "name": "Jatayu",
+  "aka": ["Jatayus", "Gridhraraja", "Vulture king"],
+  "native": "जटायु",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Vulture king who tried to rescue Sita",
+  "summary": "Jatayu is the aged vulture king of the Ramayana. He tries to stop Ravana from carrying Sita away, and Rama honours him with funeral rites. Temples in South India keep his memory alive.",
+  "about": "In the Valmiki Ramayana, Jatayu is an old vulture, called the vulture king, who had been a friend of Rama's father Dasharatha. He is the younger son of Aruna and Shyeni, brother of Sampati and nephew of Garuda. When Ravana flies off with Sita, Jatayu hears her cries and challenges him, even though he is old and Ravana is young and armed. The text says he broke Ravana's bows and chariot before Ravana cut off his wings with a sword. Jatayu lives long enough to tell Rama what happened, and Rama performs his last rites. Temples in Tamil Nadu, Kerala and Andhra Pradesh keep places linked to his story.",
+  "kidSummary": "Jatayu is a kind, brave old vulture in the Ramayana. When he hears Sita crying for help, he flies at Ravana to stop him, even though he is old. He cannot win, but he tells Rama which way Ravana went. Rama honours him with funeral rites.",
+  "story": [
+    {
+      "title": "An old friend",
+      "text": "Jatayu is an elderly vulture who was once a friend of King Dasharatha, Rama's father. He rests in a tree in the forest."
+    },
+    {
+      "title": "A cry for help",
+      "text": "One day he hears Sita calling out as Ravana carries her through the sky in a chariot. Jatayu decides that he must try to stop him."
+    },
+    {
+      "title": "A brave fight",
+      "text": "Jatayu tells Ravana to let Sita go. When Ravana refuses, he attacks: he breaks Ravana's bow, wrecks his chariot and fights as hard as he can."
+    },
+    {
+      "title": "Wings cut",
+      "text": "Ravana, much younger, finally cuts off Jatayu's wings. Jatayu falls to earth, badly hurt, but he does not give up trying to help."
+    },
+    {
+      "title": "Rama's thanks",
+      "text": "Rama and Lakshmana find Jatayu. He tells them what happened, and Rama says goodbye to him with funeral rites."
+    }
+  ],
+  "teaches": [
+    "Courage to help even when you may lose",
+    "Loyalty to friends and their families",
+    "Doing right matters more than winning"
+  ],
+  "symbol": "feather",
+  "emblems": ["Vulture form", "Wings"],
+  "family": [
+    {
+      "relation": "Elder brother",
+      "name": "Sampati",
+      "slug": "sampati"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Garuda",
+      "slug": "garuda"
+    },
+    {
+      "relation": "Friend of",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Honoured by",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Aranya Kanda", "Ramcharitmanas", "Kakawin Ramayana"],
+  "places": ["Chadayamangalam, Kerala", "Lepakshi, Andhra Pradesh", "Thiruputkuli, Tamil Nadu"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "As youths, Jatayu and Sampati raced each other towards the sun. At noon Jatayu's wings started to scorch from the heat.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sampati spread his own wings over his brother, saving him. Sampati's wings burned instead, and he fell to the Vindhya mountains.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Valmiki text says Jatayu was old, while Ravana was young, armoured and in a chariot, yet Jatayu still vowed to fight him as long as he lived.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the fight Jatayu shattered Ravana's bow with his feet and broke a second one too, then killed the golden-armoured mules pulling the chariot and splintered it.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He even brought down the royal parasol and fans, and pecked off the charioteer's head with his beak.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Ravana dropped to the ground with Sita, Jatayu tore off ten of his left arms in the Valmiki account, but they grew back.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jatayu Earth's Center in Chadayamangalam has a bird sculpture about 61 m across, credited as the world's largest bird sculpture.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Lepakshi in Andhra Pradesh is said to be where Jatayu fell, and its name comes from a Telugu phrase meaning get up, bird.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "When Rama first met the huge bird at Panchavati, he took it for a rakshasa; Jatayu spoke gently, called himself Dasharatha's friend and offered to guard Sita while the brothers were away.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jatayu said Ravana had taken Sita at the hour called Vinda, when lost property is quickly recovered, a sign that Ravana would soon lose her.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rama had Lakshmana fetch firewood and lit the pyre himself, cremating Jatayu as he would his own father, and wished him the heavenly worlds reserved for the virtuous.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "For the second time Rama took Jatayu for a rakshasa: finding the dying bird, he thought it had eaten Sita and readied an arrow, until it spoke and named itself his father's friend.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before dying, Jatayu said that by stealing Sita Ravana had swallowed a baited hook like a fish and would bring about his own ruin, and that Rama would soon regain her.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Facing Ravana, Jatayu said he was sixty thousand years old and that he was ruling in his forefathers' way, yet he would not let Ravana carry Sita off safely.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jatayu lectured Ravana that a king is the model his people copy, and that he should guard other men's wives as he would guard his own.",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Jatayu fell, Sita wept over him as if he were her own relative, according to Valmiki.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Jatayu's last rites, Rama laid out offerings on sacred grass and chanted the hymns used for a father's funeral, treating the bird as family.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rama blessed Jatayu to reach the worlds of those who perform sacrifices, give land away or never retreat in battle.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kerala town Chadayamangalam, where Jatayu is said to have fallen, is believed to take its name from Jatayu-mangalam.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vijayaraghava Perumal temple at Thiruputkuli in Tamil Nadu is linked to Jatayu's last rites, and its water tank is called Jatayu Tirtham.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What kind of creature is Jatayu?",
+      "options": ["A vulture king", "A monkey", "A bear", "A deer"],
+      "answer": 0,
+      "why": "He is the king of vultures."
+    },
+    {
+      "q": "Who was Jatayu's older brother?",
+      "options": ["Garuda", "Sampati", "Hanuman", "Angada"],
+      "answer": 1,
+      "why": "Sampati is his elder brother."
+    },
+    {
+      "q": "Whom was Jatayu trying to rescue?",
+      "options": ["Sita", "Urmila", "Kaikeyi", "Tara"],
+      "answer": 0,
+      "why": "He fought Ravana to save Sita."
+    },
+    {
+      "q": "Who performed Jatayu's last rites?",
+      "options": ["Ravana", "Sugriva", "Rama", "Bharata"],
+      "answer": 2,
+      "why": "Rama performed his last rites."
+    },
+    {
+      "q": "Where in Kerala is a giant bird sculpture of Jatayu?",
+      "options": ["Kochi", "Chadayamangalam", "Munnar", "Varkala"],
+      "answer": 1,
+      "why": "Jatayu Earth's Center is in Chadayamangalam."
+    }
+  ],
+  "related": ["sampati", "sita", "rama", "ravana", "garuda", "dasharatha", "lakshmana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jatayu",
+    "aranya50": "https://www.valmikiramayan.net/utf8/aranya/sarga50/aranyasans50.htm",
+    "aranya51": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyasans51.htm",
+    "aranya67": "https://www.valmikiramayan.net/utf8/aranya/sarga67/aranyasans67.htm",
+    "a14": "https://www.valmikiramayan.net/utf8/aranya/sarga14/aranyasans14.htm",
+    "a49": "https://www.valmikiramayan.net/utf8/aranya/sarga49/aranyasans49.htm",
+    "a68": "https://www.valmikiramayan.net/utf8/aranya/sarga68/aranyasans68.htm",
+    "k56": "https://www.valmikiramayan.net/utf8/kish/sarga56/kishkindhasans56.htm"
+  },
+  "palette": {
+    "c1": "#E3C494",
+    "c2": "#C9D6D9"
+  },
+  "order": 213,
+  "depth": "full"
+}

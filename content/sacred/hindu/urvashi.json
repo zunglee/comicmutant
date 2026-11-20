@@ -1,0 +1,277 @@
+{
+  "slug": "urvashi",
+  "name": "Urvashi",
+  "aka": ["Urvasi", "Urvaśī"],
+  "native": "उर्वशी",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Celebrated apsara of Indra's court",
+  "summary": "Urvashi is the most famous apsara in Hindu texts, a heavenly dancer of Indra's court. She appears in the Rig Veda, the Mahabharata and the Puranas, and her love of King Pururavas inspired Kalidasa's play.",
+  "about": "In the Rig Veda, Urvashi is named in the 95th hymn of the tenth book, a dialogue with the mortal king Pururavas. Later Hindu texts call her the most beautiful of the apsaras and an expert dancer. Her origin is told in several ways. The Devi Bhagavata Purana says that the sage Narayana made her appear from his thigh, while the Rig Veda links her to the birth of the sages Vasishtha and Agastya at the sacrifice of Mitra and Varuna. Her marriage to Pururavas also differs in the telling: the Vishnu and Bhagavata Puranas speak of a curse by Mitra, while the Devi Bhagavata Purana names Brahma. In the Mahabharata, the hero Arjuna meets her in Indra's heaven, and a curse she speaks is later said to help him. Kalidasa's Sanskrit play Vikramorvashiyam, thought to be from the 4th or 5th century CE, makes her story into a romance. Poets such as Rabindranath Tagore have written about her as well.",
+  "kidSummary": "Urvashi was a heavenly dancer in Indra's court, and many texts call her the most beautiful of the apsaras. She is part of many stories: the king she married, the sages born from a jar, and Arjuna's visit to heaven. The Devi Bhagavata Purana even says she appeared from a sage's thigh.",
+  "story": [
+    {
+      "title": "A dancer appears",
+      "text": "The Devi Bhagavata Purana says the sage Narayana made Urvashi appear from his thigh, so beautiful that Indra's other dancers stepped back. The sages gave her to Indra's court."
+    },
+    {
+      "title": "A meeting with a king",
+      "text": "Many texts tell that Urvashi met King Pururavas on earth. She agreed to stay with him as long as certain promises were kept."
+    },
+    {
+      "title": "The promise is broken",
+      "text": "In the Puranic version, Gandharvas stole her pet sheep. When the king ran out to save them, a flash of lightning showed him, and she returned to the sky."
+    },
+    {
+      "title": "Reunion",
+      "text": "In some versions she tells him where to meet her, and after penance he joins her in the Gandharva world. Kalidasa's play gives them a gentler ending, too."
+    },
+    {
+      "title": "Arjuna in Indra's heaven",
+      "text": "Later, Arjuna visits Indra's heaven. He turns down Urvashi's request and she speaks a curse. Indra says it will help Arjuna during his exile."
+    }
+  ],
+  "teaches": [
+    "Promises and trust matter",
+    "Respect for others, whoever they are",
+    "Old stories keep inspiring poets and dancers"
+  ],
+  "symbol": "feather",
+  "emblems": ["Apsara of Indra's court", "Dance", "Two pet sheep (Puranic versions)"],
+  "family": [
+    {
+      "relation": "Husband in the story",
+      "name": "Pururavas",
+      "slug": "pururavas"
+    },
+    {
+      "relation": "Court of",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Sage who made her appear (a Purana)",
+      "name": "Narayana"
+    },
+    {
+      "relation": "Sage born at the sacrifice (Rig Veda)",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Sage born at the sacrifice (Rig Veda)",
+      "name": "Agastya",
+      "slug": "agastya"
+    },
+    {
+      "relation": "Met her in Indra's heaven",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": [
+    "Rig Veda (10.95)",
+    "Shatapatha Brahmana",
+    "Devi Bhagavata Purana",
+    "Vishnu Purana",
+    "Bhagavata Purana",
+    "Mahabharata",
+    "Vayu Purana",
+    "Kalidasa's Vikramorvashiyam"
+  ],
+  "places": ["Indra's court", "Kumaravana (in Kalidasa's play)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In Kalidasa's play she slips on stage and says Pururavas where Purushottama belongs. Sage Bharata curses her to leave heaven, and Indra softens it to end when the king sees their son.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata links Urvashi to the birth of Rishyashringa, a sage born to a doe that was a cursed apsara, after the sage Vibhandaka had glimpsed Urvashi by a river.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Devi Bhagavata Purana explains her name: while Indra's apsaras tried to distract the sages Nara and Narayana, Narayana struck his thigh (uru) and Urvashi appeared, outshining them all.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindi poet Ramdhari Singh Dinkar wrote an epic poem called Urvashi in 1961 and won the Jnanpith Award in 1972 for it. Its theme is love between man and woman on a spiritual plane.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramdhari_Singh_Dinkar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Arjuna refused her because Pururavas was his ancestor. He told her he saw her as the mother of the Kuru line, someone to honour as a mother, not a wife.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03046.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some scholars suggest her romance with Pururavas may be one of the oldest forms of the swan-maiden tale, the world-wide story of a heavenly bride who bathes in a lake and later leaves.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Swan_maiden",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Indologist Monier Monier-Williams read her name as 'widely pervasive' and thought she began in early Vedic texts as a personified dawn. Some scholars think the name has a non-Aryan origin.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars regard the Mahabharata tale of Urvashi and Arjuna as a later addition, so it is missing from the epic's Critical Edition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Rig Veda ties the birth of the sages Vasishtha and Agastya to a sacrifice of Mitra and Varuna where Urvashi appeared. They are said to have come from a jar, so she is sometimes called their mother.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Urvashi came to Arjuna he closed his eyes in modesty, then covered his ears and said she was to him like Kunti or Indra's queen Sachi, a respected elder.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03046.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vayu Purana, Urvashi misses a dance beat when she and Indra's son Jayanta exchange glances. They are cursed: Jayanta to be born as bamboo, and Urvashi on earth as a woman named Madhavi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Arjuna refused Urvashi in Indra's heaven, she cursed him to lose his manhood for a year. Indra said it would strike in his hidden thirteenth year of exile, when he lived as a dancer.",
+      "interest": 9,
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03046.htm",
+      "kind": "story",
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's play the danava Keshi seizes Urvashi and her friend Chitralekha. Her apsara friends Rambha, Menaka and Sahajanya cry out, Pururavas rescues them, and the two fall in love at first sight.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the play Urvashi writes her feelings on birch bark. The wind carries the letter into the hands of the chief queen, who learns of her husband's new love.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Rig Veda names her specially, in a text dated about 1900 to 1200 BCE. Kalidasa wrote his play on her in the 4th or 5th century CE, so her tale was being retold across well over a thousand years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's play she uses a spell of invisibility to listen as Pururavas speaks of her, then steps up behind him and covers his eyes, and he knows her by her touch.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the play, she walks into the Kumaravana forest in anger after seeing the king glance at a vidyadhari. A curse there turns women into creepers, so she becomes one.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Rig Veda's Urvashi is self-willed and leaves after four years. Later texts tell it differently: she loves Pururavas and the heavenly beings are blamed for splitting them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Vana Parva, Indra noticed Arjuna's glances at Urvashi and planned a visit as part of his heavenly schooling. Arjuna's refusal upset the plan, yet Indra later said her curse would help him in exile.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03045.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Indra tried many illusions against Nara and Narayana, all failed, so he sent Kama and Rati with Rambha, Menaka and Tilottama. The sages answered by making Urvashi appear.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "According to the Devi Bhagavata Purana, from what part of a sage did Urvashi appear?",
+      "options": ["His hand", "His thigh", "His eye", "His breath"],
+      "answer": 1,
+      "why": "Her name is linked with uru, the Sanskrit word for thigh."
+    },
+    {
+      "q": "Whose court is Urvashi a famous member of?",
+      "options": ["Indra's", "Yama's", "Kubera's", "Brahma's"],
+      "answer": 0,
+      "why": "She is an apsara of Indra's heavenly court."
+    },
+    {
+      "q": "Which Mahabharata hero did she meet in Indra's heaven?",
+      "options": ["Bhima", "Karna", "Arjuna", "Yudhishthira"],
+      "answer": 2,
+      "why": "Arjuna visited Indra's heaven, where she spoke a curse that later helped him."
+    },
+    {
+      "q": "In Kalidasa's play, what does Urvashi turn into in the Kumaravana forest?",
+      "options": ["A swan", "A peacock", "A deer", "A creeper"],
+      "answer": 3,
+      "why": "A curse turns women who enter the forest into vines."
+    },
+    {
+      "q": "Which two sages do the Rig Veda say were born at the sacrifice of Mitra and Varuna?",
+      "options": [
+        "Vasishtha and Agastya",
+        "Valmiki and Vyasa",
+        "Atri and Kashyapa",
+        "Gautama and Bharadvaja"
+      ],
+      "answer": 0,
+      "why": "The Rig Veda links both sages to that sacrifice and to Urvashi."
+    }
+  ],
+  "related": ["pururavas", "indra", "apsaras", "arjuna", "vasishtha", "agastya", "gandharvas"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Urvashi",
+    "play": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+    "kalidasa": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+    "vana_45": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03045.htm",
+    "vana_46": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03046.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F0D9D6",
+    "c2": "#D5E2E8"
+  },
+  "order": 500
+}

@@ -1,0 +1,227 @@
+{
+  "slug": "maya-mother-of-the-buddha",
+  "name": "Maya",
+  "aka": ["Mahamaya", "Mayadevi", "Queen Maya", "Gyutrulma"],
+  "native": "माया",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Mother of Siddhartha Gautama, the Buddha",
+  "summary": "Queen Maya, of the Koliya clan, is remembered in Buddhist tradition as the mother of Siddhartha Gautama. Her dream of a white elephant and the birth at Lumbini are among the best-loved scenes in Buddhist art.",
+  "about": "Buddhist texts describe Maya as a Koliya princess from Devadaha who married her cousin Suddhodana, leader of the Shakyas at Kapilavastu. According to the tradition, she dreamed that a white elephant carrying a white lotus entered her side, and the Brahmins took this as a sign that a great being was to be born. The texts say she carried the child for ten lunar months. On a journey toward her parents' home she paused in the garden at Lumbini, held the branch of a sal tree and gave birth. Most Buddhist sources say she died seven days later, and her younger sister Mahapajapati Gotami raised the boy. Later commentaries say she was reborn as a god in a heaven realm, and that the Buddha went there to teach her. Her story is carved in stone at Bharhut and Sanchi and still shapes the shrine at Lumbini, a World Heritage Site. Texts differ on small details, and dates for the birth are debated by historians.",
+  "kidSummary": "Maya was the mother of Prince Siddhartha, who grew up to become the Buddha. Stories say she had a wonderful dream of a white elephant before he was born. He was born in a peaceful garden called Lumbini, under a tree. Her sister Gotami then raised him with great love.",
+  "story": [
+    {
+      "title": "The elephant dream",
+      "text": "One night Queen Maya dreamed that a gentle white elephant, holding a white lotus, walked three times around her and entered her side. She woke feeling calm and happy."
+    },
+    {
+      "title": "What the wise men said",
+      "text": "The court teachers heard the dream and said it was a very good sign. The child she carried, they said, would grow up to be a great teacher of the world."
+    },
+    {
+      "title": "A journey to Lumbini",
+      "text": "When the time was near, Maya travelled toward her parents' town. On the way she stopped to rest in the beautiful garden at Lumbini, where sal trees were in flower."
+    },
+    {
+      "title": "Under the sal tree",
+      "text": "Maya reached up and held a branch of a sal tree. In that quiet garden her son, Siddhartha, was born. Stories say gods and nature rejoiced."
+    },
+    {
+      "title": "A sister's care",
+      "text": "Maya died a week later, but her sister Mahapajapati Gotami lovingly raised Siddhartha as her own son. Later stories say the Buddha went to heaven to teach his mother."
+    }
+  ],
+  "teaches": [
+    "Motherly love and care",
+    "A calm mind welcomes great changes",
+    "Family support when someone is lost"
+  ],
+  "symbol": "lotus",
+  "emblems": ["White elephant (dream)", "Sal tree branch", "White lotus"],
+  "family": [
+    { "relation": "Husband and cousin", "name": "Suddhodana", "slug": "suddhodana" },
+    { "relation": "Son", "name": "Siddhartha Gautama, the Buddha", "slug": "gautama-buddha" },
+    {
+      "relation": "Younger sister, foster mother",
+      "name": "Mahapajapati Gotami",
+      "slug": "mahapajapati-gotami"
+    }
+  ],
+  "texts": ["Lalitavistara Sutra", "Pali commentaries", "Mahavastu"],
+  "places": ["Lumbini (Nepal)", "Devadaha", "Kapilavastu", "Maya Devi Temple"],
+  "festivals": ["Vesak (Buddha Purnima)"],
+  "facts": [
+    {
+      "text": "In the traditional story, four devas carried Maya to Lake Anotatta in the Himalayas before a white elephant with a lotus entered her side in a dream.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Under the brick Maya Devi Temple, diggers found an older timber structure that looks like an ancient tree shrine. The later Ashokan shrine followed its layout, hinting that worship at the spot carried on for centuries.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Texts say that after her death Maya sometimes came down from her heaven to give her son advice, even though her sister raised him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Commentaries say Maya was reborn as a male deva called Mayadevaputta, in either the Tushita or the Tavatimsa heaven.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 8
+    },
+    {
+      "text": "Buddhist tradition says that seven years after the awakening Maya came down to visit Tavatimsa heaven, where the Buddha taught her the Abhidharma. Another telling has him spend three months in heaven teaching her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The nativity sculpture in the Maya Devi Temple shows Maya holding a sal branch while her sister Mahapajapati Gotami supports her. A marker stone beside it commemorates the spot where tradition places the birth.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Lumbini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A team from UNESCO, Durham University and Nepal's archaeology department began digging at the Maya Devi Temple in 2010. In 2013 a 6th-century BCE timber shrine came to light, dated as the earliest Buddhist shrine in South Asia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Lumbini",
+      "interest": 7
+    },
+    {
+      "text": "Nepal's 100-rupee note of 2013, made for the Dashain festival, features Lumbini and a portrait of Mayadevi in metallic silver. A black dot on it helps blind and low-vision people recognise it.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the full moon of Baisakh, thousands of Hindus come to Lumbini to honour Queen Mayadevi as Rupa Devi, the mother goddess of the place, because some Hindus regard the Buddha as an avatar of Vishnu.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 8
+    },
+    {
+      "text": "When Chinese pilgrim Xuanzang saw the Lumbini pillar in the 7th century it was snapped in two, and its Ashoka inscription stayed buried until it was dug up in December 1896.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lumbini_pillar_inscription",
+      "interest": 7
+    },
+    {
+      "text": "Buddhist tradition says the mothers of all Buddhas die soon after giving birth, so Maya's early death is seen as part of a pattern.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Lumbini's monastic zone only monasteries may be built, with no shops or hotels. Theravada monasteries line the east side and Mahayana and Vajrayana ones the west, split by a long canal with brick arch bridges.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 7
+    },
+    {
+      "text": "After Maya told Suddhodana her dream, a learned priest was sent for. He said the child would either rule the whole world or give up worldly life and become a Buddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Queen_Maya's_Dream",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahaparinibbana Sutta the Buddha named four places worth visiting: where he was born, awakened, gave his first sermon and passed away. Lumbini, where Maya gave birth, is the first.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Lumbini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Buddhist tradition says the newborn Siddhartha took seven steps in the four directions, a sign of spiritual sovereignty. Himalayan art shows him standing on a double lotus.",
+      "kind": "story",
+      "source": "https://rubinmuseum.org/projecthimalayanart/essays/mayadevi-giving-birth-to-siddhartha/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some accounts say Maya gave her son his first bath in the Puskarini pond at Lumbini. Another legend says the gods made rain fall to wash the newborn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 19th-century Burmese painting shows the newborn bodhisatta being received by three groups: Brahmas holding a golden net, devas with a leopard skin and human princes with a white cloth.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Village remains from about 1300 BCE lie a few hundred metres south of the Maya Devi Temple, and radiocarbon dating suggests the sacred space itself was marked out in the 6th century BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Lumbini",
+      "interest": 8
+    },
+    {
+      "text": "In the dream, the white elephant first walked around her three times before entering from her right side. Tradition sees the elephant as a symbol of greatness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the pillar was found in 1896 by Nepalese general Khadga Shamsher Rana and Alois Fuhrer, nobody knew the site as Lumbini. The park had been called Rupandehi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal appeared in Maya's dream before the Buddha's birth?",
+      "options": ["A white elephant", "A golden deer", "A black cobra", "A grey horse"],
+      "answer": 0,
+      "why": "In the traditional story a white elephant carrying a lotus entered her side in a dream."
+    },
+    {
+      "q": "Where was Siddhartha born, according to tradition?",
+      "options": ["Rajgir", "Lumbini", "Sarnath", "Kushinagar"],
+      "answer": 1,
+      "why": "Lumbini, now in Nepal, is honoured as the birthplace and is a World Heritage Site."
+    },
+    {
+      "q": "Who raised Siddhartha after Maya died?",
+      "options": ["Yashodhara", "Ananda", "Her sister Mahapajapati Gotami", "A palace guard"],
+      "answer": 2,
+      "why": "Maya's younger sister Mahapajapati Gotami raised him as her own son."
+    },
+    {
+      "q": "What did Maya hold in the traditional birth scene?",
+      "options": ["A lamp", "A lotus stem", "A bowl", "A sal tree branch"],
+      "answer": 3,
+      "why": "Texts and art show her holding a sal tree branch in the garden at Lumbini."
+    }
+  ],
+  "related": ["suddhodana", "gautama-buddha", "mahapajapati-gotami", "yashodhara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maya_(mother_of_the_Buddha)",
+    "lumbini": "https://en.wikipedia.org/wiki/Maya_Devi_Temple,_Lumbini",
+    "pillar": "https://en.wikipedia.org/wiki/Lumbini_pillar_inscription",
+    "dream": "https://en.wikipedia.org/wiki/Queen_Maya's_Dream",
+    "buddha": "https://en.wikipedia.org/wiki/The_Buddha",
+    "rubin": "https://rubinmuseum.org/projecthimalayanart/essays/mayadevi-giving-birth-to-siddhartha/"
+  },
+  "depth": "full",
+  "palette": { "c1": "#E6D7A3", "c2": "#B8D4C6" },
+  "years": "c. 6th–5th century BCE",
+  "order": 1
+}

@@ -1,0 +1,252 @@
+{
+  "slug": "guha",
+  "name": "Guha",
+  "aka": ["Guhan", "Nishadraj", "Nishada king"],
+  "native": "गुह",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Nishada king and faithful friend of Rama",
+  "summary": "Guha is the king of the Nishadas who greets Rama on the bank of the Ganga at the start of his exile. He ferries the royal party across the river and guards them through the night.",
+  "about": "In the Valmiki Ramayana, Guha is the king of the Nishadas at Shringaverapura on the Ganga and is described as a close friend of Rama. When Rama, Sita and Lakshmana reach the river, Guha welcomes them with food and rest, but Rama, living as an ascetic, accepts only fodder for the horses. Guha stays awake all night with his bow to keep watch over them, then arranges the ferry across the Ganga. Later, when Bharata's large army appears, Guha first fears an attack, readies his boats, and then helps Bharata reach Rama when he learns the army's peaceful purpose. Later versions add details: in Tulsidas's Ramcharitmanas and in the Tamil Kamba Ramayana, Guha's devotion is celebrated, and in Kamban's telling Rama calls him a brother. The village Shringverpur, near Prayagraj, is identified with his capital.",
+  "kidSummary": "Guha was a kind king of the Nishadas, the forest and river people who lived beside the Ganga. When Rama came by, Guha offered him comfort, food and a boat ride across the river. He even stayed awake all night to keep Rama safe. Guha shows that real friendship has nothing to do with rank. Rama treated him as an equal, even as a brother.",
+  "story": [
+    {
+      "title": "A king by the river",
+      "text": "Rama, Sita and Lakshmana reached the bank of the Ganga near Shringaverapura. Guha, the king of the Nishadas, came out to meet them with his ministers."
+    },
+    {
+      "title": "A warm welcome",
+      "text": "Guha offered cooked rice, soft beds and drinks, as though Rama were still in his own palace. Rama thanked him but took only water and food for the horses, because he was living as a hermit."
+    },
+    {
+      "title": "A night of watching",
+      "text": "While Rama and Sita slept on the ground, Guha stayed awake with his bow, talking quietly with Lakshmana, to keep them safe through the long night."
+    },
+    {
+      "title": "Crossing the Ganga",
+      "text": "In the morning Guha arranged a boat and boatmen to take Rama, Sita and Lakshmana across the wide river."
+    },
+    {
+      "title": "Bharata's army",
+      "text": "Later, Guha saw a huge army and readied hundreds of boats, in case it meant harm. When Bharata explained he only wanted to bring Rama home, Guha guided him onward."
+    }
+  ],
+  "teaches": [
+    "Friendship beyond rank",
+    "Loyalty and watchfulness",
+    "Welcoming a guest with what you have"
+  ],
+  "symbol": "tree",
+  "emblems": ["Boat on the Ganga", "Bow", "Ingudi tree"],
+  "family": [
+    {
+      "relation": "Friend",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Guest",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Guest",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Guest",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    }
+  ],
+  "texts": ["Valmiki Ramayana (Ayodhya Kanda)", "Ramcharitmanas", "Kamba Ramayanam"],
+  "places": ["Shringaverapura (Shringverpur)", "Ganga river", "Prayagraj district"],
+  "festivals": ["Rama Navami"],
+  "facts": [
+    {
+      "text": "In Kamban's Tamil Ramayanam, Guha stays awake all night guarding Rama, and Rama calls him a brother and promises to visit again.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guha_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki, Guha walks out on foot with elderly ministers and relatives to meet Rama, hugs him tightly, and tells him the whole land is his to rule. Rama is moved and hugs him back, asking after his family and kingdom.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guha later shows Bharata the spot at the foot of an ingudi tree and the very grass where Rama and Sita slept that night beside the Ganga.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga87/ayodhyasans87.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki's crossing has no foot-washing. In later devotional tellings the ferryman asks to wash Rama's feet first, fearing the boat might turn into a woman, as the stone did in Ahalya's story.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guha_(Ramayana)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At the Ganga bank Rama asked Guha for the milky sap of a banyan tree, and used it to mat his own hair and Lakshmana's into the topknots of hermits before they crossed.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga52/ayodhyasans52.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Bharata reached the Ganga, Bharata called Guha his elder brother's friend. Guha said he saw nobody equal to Bharata on earth, for he was giving up a kingdom that had come to him without any effort.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga85/ayodhyasans85.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Rama's grass bed, Bharata noticed specks of gold and silk threads from Sita's clothing clinging to the crushed grass. He grieved to think that Rama and Sita, used to soft cushions, had slept on bare ground.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga88/ayodhyasans88.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Excavations at Shringverpur uncovered a brick-lined water tank about 800 feet long and 2,000 years old, which took in Ganga water to settle, with wells for the dry season.",
+      "kind": "history",
+      "source": "https://science-frontiers.com/sf038/sf038p02.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Seeing Bharata's army, Guha fears for Rama and orders his kin to guard the Ganga banks. He stations 500 boats, each crewed by 100 young men, and says the army may cross only if Bharata means Rama well.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga84/ayodhyasans84.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rama sends Hanuman to Shringaverapura before Ayodhya, in Valmiki's Yuddha Kanda. He asks Hanuman to bring Guha news of his safe return, calling Guha a friend as dear as himself, and to learn the way to Ayodhya.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga125/yuddhasans125.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas, Guha does not stop at the river. He walks with Rama, Sita and Lakshmana to sage Bharadvaja's hermitage after the crossing, and is sent back before they go on toward Valmiki's hermitage.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guha_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guha offers Lakshmana a comfortable bed, saying his people are used to hardship and Lakshmana to comfort. He swears by truth that no one is dearer to him than Rama, and promises to guard him through the night with bow in hand.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guha tells Lakshmana that nothing in the forest where he roams is unknown to him, and that he and his kin could withstand even a four-part army of elephants, chariots, horsemen and foot soldiers.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Lakshmana declines Guha's bed, asking how he could sleep or enjoy comforts while Rama and Sita lie on the ground. The two talk through the night, and Lakshmana speaks of his worry for their father and mothers.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga51/ayodhyasans51.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "For Bharata's crossing Guha supplied a fine white-canvas boat for the princes and queens. The elephants swam across with banners flying, looking to the poet like winged mountains, and the empty boats rowed back as lightly as toys.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga89/ayodhyasans89.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindu folklore says Rama crossed the Ganga at Shringverpur, near Prayagraj, and a small shrine there marks where Nishadraj is said to have worshipped a Shivling.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shringverpur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Archaeological Survey digs at Shringverpur from 1977 to 1986, reported by B. B. Lal, uncovered a temple of Shringi Rishi, after whom the village may be named.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shringverpur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Boatmen who spotted Rama's royal chariot told Guha, who hurried to meet him. Later it was the minister Sumantra who recognised Guha and alerted Bharata.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guha_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas, Guha is moved to tears when he sees how deeply Bharata loves Rama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kalidasa's Raghuvamsa presents the Nishadas as boatmen, which fits Guha's role in ferrying Rama over the Ganga.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nishada",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which river did Guha help Rama cross?",
+      "options": ["Yamuna", "Ganga", "Narmada", "Godavari"],
+      "answer": 1,
+      "why": "Guha ferried Rama across the Ganga."
+    },
+    {
+      "q": "What did Guha do all night while Rama slept?",
+      "options": ["He sang", "He kept watch with his bow", "He sailed away", "He cooked"],
+      "answer": 1,
+      "why": "Guha stayed awake to guard Rama."
+    },
+    {
+      "q": "How many boats did Guha prepare when Bharata's army came?",
+      "options": ["Five", "50", "500", "5,000"],
+      "answer": 2,
+      "why": "He prepared 500 boats, each with 100 young men."
+    },
+    {
+      "q": "Which people did Guha rule?",
+      "options": ["Nishadas", "Vanaras", "Rakshasas", "Gandharvas"],
+      "answer": 0,
+      "why": "Guha was the king of the Nishadas."
+    },
+    {
+      "q": "In Kamban's version, what does Rama call Guha?",
+      "options": ["A servant", "A brother", "A stranger", "A teacher"],
+      "answer": 1,
+      "why": "In Kamban's telling, Rama calls Guha a brother."
+    }
+  ],
+  "related": ["rama", "sita", "lakshmana", "bharata-ramayana", "dasharatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guha_(Ramayana)",
+    "valmiki": "https://www.valmikiramayan.net/utf8/ayodhya/sarga50/ayodhyasans50.htm",
+    "shringverpur": "https://en.wikipedia.org/wiki/Shringverpur"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#D2E5E0",
+    "c2": "#EFE3CB"
+  },
+  "order": 500
+}

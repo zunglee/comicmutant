@@ -1,0 +1,305 @@
+{
+  "slug": "thunderbird-neal-shaara",
+  "name": "Thunderbird (Neal Shaara)",
+  "realName": "Neal Shaara",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "The first Indian member of the X-Men. A mutant from a wealthy Kolkata family, he turns his body into solar plasma and is unrelated to the earlier Thunderbirds.",
+  "origin": "Neal Shaara grows up in an affluent family in Kolkata, where his father is the city's police chief. When his brother Sanjit disappears, Neal investigates against his parents' wishes and teams up with the officer Karima Shapandar. The villain Bastion captures them to turn them into Prime Sentinels, and the shock of the process awakens Neal's latent mutant power to generate and control solar plasma.",
+  "creators": ["Chris Claremont (writer)", "Leinil Francis Yu (artist)"],
+  "firstAppearance": {
+    "title": "X-Men (vol. 2)",
+    "issue": "#100",
+    "year": 2000
+  },
+  "powers": [
+    "Turns his body's molecules into solar plasma",
+    "Plasma beams, blinding light and heat",
+    "Explosive thrust from his legs for flight",
+    "Supersonic flight",
+    "Concussive blasts that release force without heat"
+  ],
+  "affiliations": ["X-Men", "X-Treme X-Men", "X-Corporation"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "2000",
+      "title": "Search for Sanjit",
+      "beat": "Neal's hunt for his missing brother in Kolkata ends with Bastion's capture of him and Karima, and his plasma powers erupt."
+    },
+    {
+      "era": "X-Men",
+      "years": "2000-2001",
+      "title": "Joining the team",
+      "beat": "He joins the X-Men to learn control, but fears hurting someone with his plasma, and he becomes close to Psylocke."
+    },
+    {
+      "era": "X-Treme X-Men",
+      "years": "2001 onward",
+      "title": "Destiny's diaries",
+      "beat": "He leaves with a splinter group hunting the diaries of the seer Destiny, and trains with Psylocke to use only a small amount of plasma at a time."
+    },
+    {
+      "era": "X-Treme X-Men",
+      "years": "2001 onward",
+      "title": "Loss of Psylocke",
+      "beat": "Psylocke is killed by Vargas, leaving Neal grieving, and Lifeguard joins the group."
+    },
+    {
+      "era": "X-Corporation",
+      "years": "2000s",
+      "title": "Singapore branch",
+      "beat": "With Lifeguard he joins X-Corporation's Singapore office, which Cyclops disbands after the events of M-Day."
+    },
+    {
+      "era": "Krakoan Age",
+      "years": "2021",
+      "title": "Back to X-Corp",
+      "beat": "In the Krakoan era he applies to rejoin the reopened X-Corporation."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Karima later joined the anti-mutant group Orchis once her Sentinel programming came back, a long way from the officer who once saved Neal.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Even though he has faded into the background of the X-Men's world, CBR notes that both Sunspot and Bishop speak highly of Neal.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "He fell for Psylocke while she was with Archangel, who made his displeasure clear in front of Neal.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Neal is related to the earlier X-Men called Thunderbird.",
+      "truth": "He has no connection to John or James Proudstar; they just share a codename.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Handbooks disagree on where Neal was born: X-Men Unlimited #27 gives Calcutta, while X-Men: Declassified #1 gives Assam.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which city does Neal grow up in, where his father is police chief?",
+      "options": ["Mumbai", "Kolkata", "Chennai", "Delhi"],
+      "answer": 1,
+      "why": "His debut story places him in an affluent Kolkata family."
+    },
+    {
+      "q": "Who captures Neal and Karima and triggers his powers?",
+      "options": ["Magneto", "Apocalypse", "Bastion", "Mystique"],
+      "answer": 2,
+      "why": "Bastion tries to turn them into Prime Sentinels, which awakens Neal's solar plasma."
+    },
+    {
+      "q": "What does Neal turn his body into to use his powers?",
+      "options": ["Ice", "Solar plasma", "Metal", "Smoke"],
+      "answer": 1,
+      "why": "He transforms his molecules into solar plasma."
+    }
+  ],
+  "rivals": [],
+  "allies": ["storm"],
+  "theme": {
+    "palette": {
+      "c1": "#ff7a1a",
+      "c2": "#6a1c00",
+      "c3": "#ffd54a"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Solar fire, held back with care."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+    "marvelDatabase": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+    "whatCulture": "https://whatculture.com/comics/10-most-interesting-x-men-youve-never-heard-of?page=5"
+  },
+  "timeline": [
+    {
+      "year": 2000,
+      "kind": "debut",
+      "title": "X-Men #100",
+      "note": "Neal debuts as the first Indian X-Man, created by Chris Claremont and Leinil Francis Yu."
+    },
+    {
+      "year": 2001,
+      "kind": "comic",
+      "title": "X-Treme X-Men",
+      "note": "He joins Storm's splinter team hunting Destiny's diaries."
+    },
+    {
+      "year": 2001,
+      "kind": "comic",
+      "title": "Lifeguard joins",
+      "note": "Heather Cameron debuts in X-Treme X-Men #6 and later becomes his partner."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "After M-Day",
+      "note": "X-Men: The 198 Files lists him among the few mutants who kept their powers after M-Day."
+    },
+    {
+      "year": 2021,
+      "kind": "return",
+      "title": "Krakoan Age",
+      "note": "He applies to rejoin X-Corporation in the Krakoan era (X-Corp, 2021)."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Created by Chris Claremont and Leinil Francis Yu in X-Men (vol. 2) #100, Neal Shaara is the first Indian member of the X-Men, a milestone for a team created in 1963.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+      "interest": 8
+    },
+    {
+      "text": "His intended codename was reportedly Agni, after the Hindu god of fire, which a fan article says would have suited his plasma powers better.",
+      "kind": "creator",
+      "source": "https://whatculture.com/comics/10-most-interesting-x-men-youve-never-heard-of?page=5",
+      "interest": 9
+    },
+    {
+      "text": "Neal's missing brother Sanjit, already turned into a Sentinel, fights his programming long enough to disable the other Sentinels, and is gravely hurt doing it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+      "interest": 7
+    },
+    {
+      "text": "As Karima's own Sentinel change begins, she briefly defies her programming and tells Neal to leave her, because once it finishes she would kill him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+      "interest": 8
+    },
+    {
+      "text": "In Black Sun, Storm is possessed by the demonic N'Garai, and Magik recruits Neal to help, so he tests his plasma power against one of his own teammates.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "A fan roundup notes that Bishop once told him he would be the X-Man everyone remembered in Bishop's future, even as writers later largely forgot him.",
+      "kind": "culture",
+      "source": "https://whatculture.com/comics/10-most-interesting-x-men-youve-never-heard-of?page=5",
+      "interest": 8
+    },
+    {
+      "text": "In X-Men (vol. 2) #101 Neal says his homeland has suffered too long from hatred between castes and between religions, and that such hatred must be fought or it will destroy people.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "Before the kidnappings, Neal lived as a rich playboy in Calcutta, obsessed with fast cars, until his older brother Sanjit vanished while looking into disappearances in the poorer parts of the city.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "Trapped in a cramped hideout, Neal refuses to use his dangerous plasma in so small a space, and that choice helps get him and two fellow X-Men captured by mercenaries answering to the villain Goth.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "In a Black Sun story set in his X-Men days, Neal fights N'Garai hordes at the Xavier Institute and then fully unleashes his power to help Wolverine and Jean Grey end the demons.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "In X-Corp #2 in 2021, Neal reveals he has had access to the X-Corp headquarters from the start and even lent his powers to get it running, surprising Monet and Angel.",
+      "kind": "story",
+      "source": "https://www.cbr.com/x-men-thunderbird-neal-shaara-return-hellfire-gala/",
+      "interest": 8
+    },
+    {
+      "text": "A file from Operation: Zero Tolerance in X-Men: Declassified #1 says he studied at Oxford and came from Assam, but Marvel Database warns that Bastion seeded those files with misinformation.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "Neal's origin story appeared in X-Men Unlimited #27 (June 2000), a few months after his debut in X-Men #100, with art by Brett Booth.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+      "interest": 8
+    },
+    {
+      "text": "His family has long known the mutant doctor Moira MacTaggert, so he went to Muir Island to ask her questions, uneasy about being a mutant, until Jean Grey invited him to join the X-Men to learn control.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "Marvel Database says Neal comes from a family of Assam tea planters and feels a deep emotional pull toward the Himalayas.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "According to the Official Handbook, Neal's plasma power works by converting ambient heat into solar plasma, which he can then use for blasts, light and flight.",
+      "kind": "powers",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "In Sydney, while the X-Treme X-Men guarded the children of a murdered crime boss, Neal began flirting with the lifeguard Heather Cameron, who later became the mutant hero Lifeguard.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "Marvel Database says his police-officer father assigned the detective Karima Shapandar to watch over Neal, and the two grew close while hunting for Sanjit, so their romance began from a babysitting job.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "The X-Treme X-Men's first stop in their search for Destiny's diaries was Valencia, Spain, where the warrior Vargas killed Psylocke, and Neal's optimism slowly turned to thoughtfulness as he mourned.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "Psylocke's flirting with Neal helped end her relationship with Archangel, which had left the winged X-Man openly jealous of the newcomer.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Neal_Shaara_(Earth-616)",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Neal Shaara is a rich young man from Kolkata who searches for his missing brother. A scary event awakens his power to turn into blazing solar plasma, and he becomes the first Indian member of the X-Men, learning to use his power carefully.",
+  "story": [
+    {
+      "title": "Search in Kolkata",
+      "text": "Neal's brother Sanjit vanishes, so Neal goes looking for him with the officer Karima Shapandar, even though his parents object."
+    },
+    {
+      "title": "Bastion's trap",
+      "text": "The villain Bastion captures them and tries to turn them into Sentinels. The shock awakens Neal's power to make solar plasma."
+    },
+    {
+      "title": "Learning control",
+      "text": "Neal joins the X-Men and worries he might hurt someone. Psylocke trains him to use just a small amount of plasma at a time."
+    },
+    {
+      "title": "A new team",
+      "text": "He leaves with Storm's X-Treme X-Men to hunt Destiny's diaries, later working with Lifeguard in X-Corporation."
+    },
+    {
+      "title": "Back in the light",
+      "text": "In the Krakoan era he applies to rejoin X-Corporation, where his solar energy could power its machines."
+    }
+  ]
+}

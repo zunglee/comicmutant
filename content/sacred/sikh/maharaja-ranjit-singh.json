@@ -1,0 +1,262 @@
+{
+  "slug": "maharaja-ranjit-singh",
+  "name": "Maharaja Ranjit Singh",
+  "aka": ["Sher-e-Punjab", "Ranjit Singh"],
+  "native": "ਮਹਾਰਾਜਾ ਰਣਜੀਤ ਸਿੰਘ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Founder and first Maharaja of the Sikh Empire",
+  "summary": "Sher-e-Punjab, the Lion of Punjab: founder of the Sikh Empire, crowned in 1801, known for gilding Harmandir Sahib and for a court of many faiths.",
+  "about": "Maharaja Ranjit Singh was born in 1780 in Gujranwala and became head of the Sukerchakia Misl at about 12. He took Lahore in 1799 and was crowned there in 1801, building the Sikh Empire from many small Sikh chiefdoms. Historians say his realm stretched from Ladakh to Sindh and from the Khyber to the Sutlej. His court and army included Sikhs, Hindus, Muslims and Europeans. He restored and gilded Harmandir Sahib and gave to temples of other faiths too, and is credited with a policy that did not force conversion. Historians also note that his army used Lahore's Badshahi Mosque as an ammunition store and stables, and that some Muslim writers of his own time found his rule harsh. He died in 1839, and the empire was weakened by disputes among heirs and was taken over by the British after two Anglo-Sikh wars. Accounts differ about some episodes, such as the Koh-i-Noor's fate and his marriages.",
+  "kidSummary": "Ranjit Singh became a leader when he was only twelve and later ruled all of Punjab. His ministers and soldiers came from many faiths. He gave gold to the Golden Temple and to temples of other faiths.",
+  "story": [
+    {
+      "title": "A young leader",
+      "text": "Ranjit Singh was born in 1780. When he was about twelve, his father died and he became head of his family's group of fighters."
+    },
+    {
+      "title": "Lahore opens its gates",
+      "text": "In 1799 he took Lahore, the great city of Punjab. Two years later, in 1801, he was crowned there as Maharaja."
+    },
+    {
+      "title": "A court for everyone",
+      "text": "His ministers were Sikh, Hindu and Muslim. His army included people of many faiths and some European officers."
+    },
+    {
+      "title": "Gold for temples",
+      "text": "He covered Harmandir Sahib in gold leaf, and gave a tonne of gold for the dome of Kashi Vishwanath Temple in Varanasi."
+    },
+    {
+      "title": "End of an era",
+      "text": "Ranjit Singh died in 1839. After him, disputes among heirs weakened the kingdom, and the British took Punjab in 1849."
+    }
+  ],
+  "teaches": [
+    "Respect for people of every faith",
+    "Generosity toward holy places",
+    "Leading with fairness"
+  ],
+  "symbol": "sun",
+  "emblems": ["Nanakshahi coin", "Koh-i-Noor (armlet)"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Maha Singh"
+    },
+    {
+      "relation": "mother",
+      "name": "Raj Kaur"
+    },
+    {
+      "relation": "son and successor",
+      "name": "Kharak Singh"
+    },
+    {
+      "relation": "son",
+      "name": "Duleep Singh"
+    }
+  ],
+  "texts": ["Court chronicles of the Sikh Empire", "Modern histories of Punjab"],
+  "places": [
+    "Lahore Fort",
+    "Harmandir Sahib, Amritsar",
+    "Kashi Vishwanath, Varanasi",
+    "Gujranwala"
+  ],
+  "festivals": ["Vaisakhi"],
+  "facts": [
+    {
+      "text": "He was born Buddh Singh in 1780 in Gujranwala; his father renamed him Ranjit, meaning victor in battle, to mark a win over Pir Muhammad.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As a baby he caught smallpox, which cost him the sight of his left eye and left marks on his face.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He fought his first battle beside his father at ten, and at 13 survived the first attempt on his life, killing the attacker Hashmat Khan himself.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In 1835 he gave a tonne of gold for the dome of Kashi Vishwanath Temple in Varanasi, helping it earn the name Golden Temple of Varanasi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His court and army mixed faiths. His prime minister Dhian Singh and finance minister Dina Nath were Hindus, his foreign minister Fakir Azizuddin was a Muslim, and Europeans such as Jean-François Allard and Jean-Baptiste Ventura served his army.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Asked what the Koh-i-Noor was worth, Shuja's wife Wafa Begum said a strong man could throw a stone in four directions and upward, and the gem would beat the gold and jewels filling that space.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He guarded the Koh-i-Noor with a convoy of 40 camels carrying identical panniers. The diamond always rode on the first camel behind the guards, and only his treasurer Misr Beli Ram knew which camel it was.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Accounts say that on his deathbed courtiers argued over the Koh-i-Noor; one said it was willed to Jagannath Temple in Puri, but his treasurer refused to send it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The population of his empire was roughly 70 percent Muslim, 24 percent Hindu and only about 6 to 7 percent Sikh.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "People popularly called him Sher-i-Punjab, the Lion of the Punjab. The Encyclopaedia of Sikhism says he was seen as the first Indian in about a thousand years to turn back invasions from the northwest.",
+      "kind": "language",
+      "source": "https://eos.learnpunjabi.org/RANJIT%20SINGH%20(1780-1839).html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He is said to have married Moran Sarkar, a Muslim dancer, in 1802 and been rebuked by the Akal Takht before being forgiven. Her own page says 1806 with a flogging, and some writers say no marriage took place.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 2020 a poll by BBC World Histories Magazine named him the greatest leader of all time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At his 1801 coronation he refused royal regalia and a throne. Coins were struck in Guru Nanak's name (Nanakshahi) without his face or name, and the state seal omitted him. He preferred plain Singh Sahib and styled the state Sarkar Khalsa.",
+      "kind": "history",
+      "source": "https://eos.learnpunjabi.org/RANJIT%20SINGH%20(1780-1839).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He never learned to read or write beyond the Gurmukhi alphabet, though he was trained at home in riding, musketry and other martial skills.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1802, at 22, he took Amritsar and vowed to rebuild Harmandir Sahib in marble and gold. Much of the gilding and marblework seen today, as well as protective walls and a water supply, comes from his patronage, which is why it is called the Golden Temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He got the Koh-i-Noor from Shah Shuja in 1813, which Shuja's memoir describes as extortion. Ranjit Singh then had it paraded on an elephant and wore it as an armlet at festivals such as Diwali and Dussehra.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Koh-i-Noor left Punjab in 1849, when 11-year-old Maharaja Duleep Singh was made to surrender it to Queen Victoria after the Second Anglo-Sikh War.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia notes that his army turned Lahore's Badshahi Mosque into an ammunition store and horse stables, while he also built mosques such as Mai Moran Masjid at the request of his wife Moran Sarkar.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Historians disagree about his rule. The Muslim writer Shahamat Ali called it despotic, while Bikramjit Hasrat describes him as a benevolent despot.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He paid his standing army from the treasury instead of the old Mughal habit of paying with local land grants, and strengthened its infantry and artillery.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which eye did Ranjit Singh lose to smallpox?",
+      "options": ["Right", "Left", "Both", "Neither"],
+      "answer": 1,
+      "why": "Smallpox cost him the sight of his left eye."
+    },
+    {
+      "q": "In whose name did he issue his coins?",
+      "options": ["His own", "Guru Nanak", "Akbar", "Queen Victoria"],
+      "answer": 1,
+      "why": "He issued Nanakshahi coins in Guru Nanak's name."
+    },
+    {
+      "q": "How old was he when his father died?",
+      "options": ["About 5", "About 12", "About 25", "About 40"],
+      "answer": 1,
+      "why": "He took over at about age 12 in 1792."
+    },
+    {
+      "q": "Which temple dome got a tonne of gold from him?",
+      "options": ["Konark", "Kashi Vishwanath", "Meenakshi", "Somnath"],
+      "answer": 1,
+      "why": "In 1835 he donated gold for Kashi Vishwanath's dome."
+    },
+    {
+      "q": "Which famous diamond did he own?",
+      "options": ["Hope", "Koh-i-Noor", "Cullinan", "Orlov"],
+      "answer": 1,
+      "why": "He took the Koh-i-Noor in 1813."
+    }
+  ],
+  "related": [
+    "guru-nanak",
+    "guru-gobind-singh",
+    "hari-singh-nalwa",
+    "banda-singh-bahadur",
+    "baba-deep-singh"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ranjit_Singh",
+    "kohinoor": "https://en.wikipedia.org/wiki/Koh-i-Noor",
+    "kashi": "https://en.wikipedia.org/wiki/Kashi_Vishwanath_Temple",
+    "eos": "https://eos.learnpunjabi.org/RANJIT%20SINGH%20(1780-1839).html",
+    "treaty-of-amritsar": "https://en.wikipedia.org/wiki/Treaty_of_Amritsar_(1809)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3deae",
+    "c2": "#d4dde8"
+  },
+  "years": "1780–1839",
+  "order": 30
+}

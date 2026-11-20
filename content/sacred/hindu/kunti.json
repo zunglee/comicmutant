@@ -1,0 +1,245 @@
+{
+  "slug": "kunti",
+  "name": "Kunti",
+  "aka": ["Pritha", "Prithaa"],
+  "native": "कुन्ती",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Mother of the Pandavas in the Mahabharata",
+  "summary": "Kunti, born Pritha, is the queen and mother of the three eldest Pandavas in the Mahabharata. The epic also names her as the mother of Karna, and she holds a mantra that lets her call on the gods.",
+  "about": "In the Mahabharata, Kunti is born Pritha to the Yadava king Shurasena and is given in adoption to his childless cousin Kuntibhoja, whose name she takes. As a girl she serves the sage Durvasa for a year, and the epic says he rewards her with a mantra that lets her call a god to give her a child. The text tells that she tests it out of curiosity on the sun god Surya, and Karna is born. She later chooses Pandu at her svayamvara and becomes queen of Hastinapura. When a curse stops Pandu from having children, the epic says Kunti uses the mantra to bear Yudhishthira, Bhima and Arjuna, and shares it with Pandu's second wife Madri. After Pandu dies she brings the five sons home, guides them through hardship, and in the end retires to the forest. Tradition counts her among the five panchakanya, women whose names are said to be worth remembering.",
+  "kidSummary": "Kunti is a brave and clever mother in the Mahabharata. As a young girl she looked after a famous sage so well that he gave her a special gift, a mantra for calling the gods. She raised the Pandava brothers and always tried to keep them together, even in very hard times.",
+  "story": [
+    {
+      "title": "A girl who is given away",
+      "text": "Pritha is born to one king but promised to his cousin, who has no children. She grows up in the palace of Kuntibhoja and everyone begins to call her Kunti."
+    },
+    {
+      "title": "The gift of a sage",
+      "text": "A famous but short-tempered sage named Durvasa stays at the palace. Kunti looks after him patiently for a whole year, and he thanks her with a mantra that can call any god."
+    },
+    {
+      "title": "The first call",
+      "text": "Out of curiosity, Kunti tries the mantra on the sun god Surya. The Mahabharata says a baby named Karna is born, and she lets him go in a basket on the river."
+    },
+    {
+      "title": "Mother of the Pandavas",
+      "text": "Later, Kunti marries King Pandu. When he is cursed, she uses the mantra again, and Yudhishthira, Bhima and Arjuna are born. She shares the mantra with Madri too."
+    },
+    {
+      "title": "Keeping the family together",
+      "text": "After Pandu dies, Kunti brings her sons home and holds them together through many dangers, from the burning palace to the long exile."
+    },
+    {
+      "title": "Before the war",
+      "text": "Before the great war, Kunti goes to Karna and tells him the truth. He stays loyal to his friend Duryodhana but promises that she will still have five sons."
+    }
+  ],
+  "teaches": [
+    "Patience and service to others",
+    "Standing by family through hard times",
+    "Courage in hard times"
+  ],
+  "symbol": "sun",
+  "emblems": ["The mantra from Durvasa", "Basket on the river (Karna's story)"],
+  "family": [
+    { "relation": "Husband", "name": "Pandu", "slug": "pandu" },
+    { "relation": "Co-wife", "name": "Madri", "slug": "madri" },
+    { "relation": "Son (by Surya)", "name": "Karna", "slug": "karna" },
+    { "relation": "Son (by Dharma/Yama)", "name": "Yudhishthira", "slug": "yudhishthira" },
+    { "relation": "Son (by Vayu)", "name": "Bhima", "slug": "bhima" },
+    { "relation": "Son (by Indra)", "name": "Arjuna", "slug": "arjuna" },
+    { "relation": "Nephew (her brother Vasudeva's son)", "name": "Krishna", "slug": "krishna" },
+    { "relation": "Daughter-in-law", "name": "Draupadi", "slug": "draupadi" }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva)",
+    "Bhagavata Purana",
+    "Southern and Northern recensions of the Mahabharata"
+  ],
+  "places": ["Hastinapura", "Kuntibhoja's kingdom", "River Ashva (in the epic)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Scholar Alf Hiltebeitel reads Kunti's birth name Pritha as 'the Wide', echoing the Earth goddess. Madeleine Biardeau adds that Pritha ties her to the whole Earth, not just one region like other queens.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the epic, Kunti tests the mantra on Surya just out of curiosity. Surya could not leave without a gift, so he gave her a son, Karna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Karna is born already wearing armour and golden earrings, and Kunti floats him in a basket sealed with beeswax on the River Ashva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8
+    },
+    {
+      "text": "Baby Karna's basket was found and adopted by a charioteer named Adhiratha and his wife Radha, while Kunti went back to the palace carrying her secret.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Durvasa's mantra let Kunti call any god, and the god was bound to appear and obey her, whether he wished to or not.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Years later, Kunti is said to have remembered feeling like property when she was handed over in adoption while she played with a ball.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    },
+    {
+      "text": "When the Pandavas returned from Draupadi's svayamvara calling that they had brought alms, Kunti, not looking, told them to share it. Shocked when she saw what she had said, she scolded them, but Draupadi accepted it and became wife to all five.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Kunti prays to Krishna to let hardships keep coming to her again and again, because each one would bring her back to seeing him.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/1/8/25/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kunti's father Shurasena also had a son named Vasudeva, the father of Krishna, which makes Kunti Krishna's aunt.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Ekachakra, Kunti heard their Brahmin host weep that his family must feed the giant Bakasura. She suggested her son Bhima go instead and is credited with the plan that let him win.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the war Kunti begged Karna to join the Pandavas. He would not leave Duryodhana but promised to spare her other sons, saying she would still have five sons, the fifth being either Arjuna or himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8
+    },
+    {
+      "text": "After the war, Kunti finally told the Pandavas that Karna was their eldest brother. Grieving, Yudhishthira blamed her long secrecy and, in the epic's own explanation of a saying, declared that no woman would ever keep a secret again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    },
+    {
+      "text": "During the war Kunti stayed in the Kaurava camp with her sister-in-law Gandhari, even though her own sons fought on the other side.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    },
+    {
+      "text": "While the Pandavas lived in exile, Dhritarashtra made Kunti stay in the capital. She chose to live in Vidura's house rather than in the royal palace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    },
+    {
+      "text": "When Pandu despaired of dying childless, Kunti first resisted using the mantra and agreed only after his repeated pleas, which one scholar reads as a sign of her inner strength.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "After the war Kunti retired to a forest near the Himalayas with Dhritarashtra, Gandhari, Vidura and Sanjaya. Vidura died after two years, Sanjaya left for the Himalayas, and the rest perished in a forest fire.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    },
+    {
+      "text": "Tradition counts Kunti among the panchakanya, five maidens whose names are believed to dispel sin when recited.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Alf Hiltebeitel counts 195 verses on Kunti in one stretch of the Adi Parva, against 85 for Madri and only 36 for Gandhari. One whole chapter is devoted to Kunti's childhood.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8
+    },
+    {
+      "text": "Scholar Pradip Bhattacharya contrasts Kunti with Satyavati: Kunti hid her premarital son Karna to protect Pandu's honour, while Satyavati openly called on her premarital son Vyasa to continue the royal line.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 8
+    },
+    {
+      "text": "Translator J. A. B. van Buitenen calls Kunti largely self-effacing in her role as wife and mother, yet someone who asserts herself at key moments, such as her plea to Karna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Kunti's name when she was born?",
+      "options": ["Madri", "Pritha", "Gandhari", "Ambika"],
+      "answer": 1,
+      "why": "She was born Pritha and became Kunti after Kuntibhoja adopted her."
+    },
+    {
+      "q": "Which sage gave Kunti the special mantra?",
+      "options": ["Vyasa", "Narada", "Durvasa", "Kindama"],
+      "answer": 2,
+      "why": "She served Durvasa for a year and he gave her the mantra."
+    },
+    {
+      "q": "Which god did Kunti call first, out of curiosity?",
+      "options": ["Surya", "Vayu", "Indra", "Agni"],
+      "answer": 0,
+      "why": "The sun god Surya came, and Karna was born."
+    },
+    {
+      "q": "What did Kunti place baby Karna in before setting him on the River Ashva?",
+      "options": ["A golden boat", "A beeswax-sealed basket", "A hollow log", "A woven cloth"],
+      "answer": 1,
+      "why": "The epic says she sealed the basket with beeswax and prayed for his protection."
+    },
+    {
+      "q": "Who shared Kunti's mantra to have the twins Nakula and Sahadeva?",
+      "options": ["Madri", "Draupadi", "Gandhari", "Subhadra"],
+      "answer": 0,
+      "why": "Madri used it to call the Ashvins."
+    }
+  ],
+  "related": [
+    "pandu",
+    "madri",
+    "karna",
+    "yudhishthira",
+    "bhima",
+    "arjuna",
+    "surya",
+    "durvasa",
+    "krishna",
+    "draupadi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kunti",
+    "bhagavata": "https://vedabase.io/en/library/sb/1/8/25/",
+    "madri": "https://en.wikipedia.org/wiki/Madri"
+  },
+  "depth": "full",
+  "palette": { "c1": "#F2D7E3", "c2": "#F6E7C8" },
+  "order": 520
+}

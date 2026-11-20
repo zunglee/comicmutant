@@ -1,0 +1,261 @@
+{
+  "slug": "dhrishtadyumna",
+  "name": "Dhrishtadyumna",
+  "aka": ["Dhristadyumna", "Drishtadyumna", "Parshata"],
+  "native": "धृष्टद्युम्न",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Prince of Panchala and commander of the Pandava army",
+  "summary": "In the Mahabharata, Dhrishtadyumna is the son of King Drupada, born from a fire sacrifice, and the brother of Draupadi who leads the Pandava army in the Kurukshetra war.",
+  "about": "In the Mahabharata, Dhrishtadyumna is the son of King Drupada of Panchala and the twin brother of Draupadi. The epic says Drupada held a fire sacrifice to get a son able to face Drona, and a fully armed prince and a princess appeared from the fire. A voice from the sky declared that he was born to bring Drona down. Drona, who knew this, still taught him the art of war. At Draupadi's svayamvara he explained the rules and secretly followed the winner. In the Kurukshetra war he becomes the Pandava commander-in-chief, arranging armies in different battle formations, and the epic says he ends Drona's life on the fifteenth day. Wikipedia places Drona's end on the fifteenth day, while a Puranic Encyclopedia summary puts it on the morning of the sixteenth. On the eighteenth night he is attacked by Ashwatthama in the Pandava camp.",
+  "kidSummary": "Dhrishtadyumna is a prince in the Mahabharata who, the epic says, stepped out of a sacred fire with a crown and armour. He is Draupadi's brother. He grows up to lead the Pandava army and arranges the soldiers in clever shapes like the crane and the hawk.",
+  "story": [
+    {
+      "title": "Born from a fire",
+      "text": "In the Mahabharata, King Drupada holds a fire sacrifice to get a son. A young prince steps out of the fire, ready for battle, with a crown and armour."
+    },
+    {
+      "title": "A voice from the sky",
+      "text": "A voice from the sky announces that the prince will protect Panchala and defeat Drona. The priests name him Dhrishtadyumna, the courageous one."
+    },
+    {
+      "title": "The student of Drona",
+      "text": "Even knowing the prophecy, Drona teaches Dhrishtadyumna the arts of war. Dhrishtadyumna becomes a great warrior."
+    },
+    {
+      "title": "Leading an army",
+      "text": "In the great war at Kurukshetra, the Pandavas make Dhrishtadyumna commander-in-chief. He arranges their soldiers in battle shapes like the crane and the hawk."
+    },
+    {
+      "title": "The war's end",
+      "text": "He keeps his duty to the end. On the last night he is attacked in the camp, and his story in the epic ends there."
+    }
+  ],
+  "teaches": [
+    "Courage is a duty to your people",
+    "A role can be given before you are ready",
+    "Hard choices are remembered in stories"
+  ],
+  "symbol": "flame",
+  "emblems": ["Fire altar (yajna)", "Sword and bow"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Drupada",
+      "slug": "drupada"
+    },
+    {
+      "relation": "Sister",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    },
+    {
+      "relation": "Sibling",
+      "name": "Shikhandi",
+      "slug": "shikhandi"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva, Bhishma Parva, Drona Parva)", "Bhagavata Purana"],
+  "places": ["Panchala", "Kampilya (Kampil)", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Mahabharata he is called ayonija, someone not born from a womb. He stepped out of a sacrificial fire together with his sister Draupadi, who is sometimes called his twin.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He appeared from the fire already grown, glowing, with a crown, armour, sword, bow and arrows, and climbed onto a chariot. His name means 'the courageous and splendid one' in Sanskrit.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The priests named the fire-born pair: the boy Dhrishtadyumna and the girl Krishnaa, who became known as Draupadi, 'daughter of Drupada'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A voice from the sky said he was born to bring down Drona, and Drona knew it. Even so, Drona accepted him as a student and taught him advanced martial arts, including celestial weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Draupadi's svayamvara he performed the fire ritual, announced the challenge and presented the kings. He then secretly followed the winning brahmin and his sister home and told his father they were no ordinary brahmins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The fire ritual that produced the twins is described as abhichara, a death-dealing kind of sacrifice. The priest Upayaja disapproved of it, and only Drupada's persuasion brought his elder brother Yaja to perform it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "The epic credits him with arranging the Pandava army in different battle formations: the crane, the half-moon, the hawk and the crocodile.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Pandava war council, Arjuna named Dhrishtadyumna as commander, while Bhima argued for Shikhandin. Krishna then said his own choice was Dhrishtadyumna.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05151.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Arjuna said Dhrishtadyumna alone could bear Bhishma's arrows, which in an earlier age only Rama had withstood in battle, and he praised his armour as impossible for weapons to pierce.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05151.htm",
+      "interest": 8
+    },
+    {
+      "text": "In the Bhishma Parva he had to be rescued by Bhima in a clash with Drona, and he later paid the debt back by rescuing Bhima.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one clash Bhishma pierced him with arrows, yet Dhrishtadyumna kept coming back to attack the grandsire on several days of the war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7
+    },
+    {
+      "text": "He showed his mastery of celestial weapons by launching the Pramohana missile against Drona and others.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Drona Parva he made Drona faint with a volley of arrows and even jumped onto Drona's chariot. Drona recovered and defeated him, so the duel was far from one-sided.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Drona Parva he defeated Chandravarma and Brihatkshatra, the king of Nishadha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7
+    },
+    {
+      "text": "On the fourteenth day he stood in Drona's way when Drona tried to capture Yudhishthira. Drona wounded and disarmed him, and Satyaki then held Drona back, so the commander was rescued himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "The epic says Bhima killed an elephant named Ashwatthama, and the news that Ashwatthama was dead made Drona lower his weapons and sit in meditation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 8
+    },
+    {
+      "text": "On the fifteenth day he struck down Drona as he sat in meditation, fulfilling the prophecy of his birth. The Drona article calls it a gross violation of the war's rules, and says Arjuna condemned the act.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "In the Sauptika Parva, the 'Book of the Sleepers', Ashwatthama came to Dhrishtadyumna first on the last night. The prince asked to die fighting with a weapon, but Ashwatthama refused, and Dhrishtadyumna fell that night.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sauptika_Parva",
+      "interest": 7
+    },
+    {
+      "text": "After that night, only eight warriors of the Pandava side were left alive: the five Pandavas, Krishna, Satyaki and Yuyutsu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sauptika_Parva",
+      "interest": 7
+    },
+    {
+      "text": "Dhrishtadyumna had four sons, named Kshatradharman, Kshatravarman, Kshatranjaya and Dhrishtaketu. The epic has the first three fall in the war to Drona, and the fourth to Karna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How is Dhrishtadyumna said to have been born?",
+      "options": ["From a river", "From a fire sacrifice", "From a lotus", "From the moon"],
+      "answer": 1,
+      "why": "The epic says he appeared from Drupada's fire sacrifice."
+    },
+    {
+      "q": "Which warrior was Dhrishtadyumna born to bring down?",
+      "options": ["Bhishma", "Drona", "Karna", "Jayadratha"],
+      "answer": 1,
+      "why": "A voice from the sky said he was born to bring down Drona."
+    },
+    {
+      "q": "What job did the Pandavas give him in the war?",
+      "options": ["Treasurer", "Commander-in-chief", "Royal priest", "Charioteer"],
+      "answer": 1,
+      "why": "He led the Pandava army."
+    },
+    {
+      "q": "Which battle shape is NOT named among those he arranged?",
+      "options": ["Crane", "Hawk", "Crocodile", "Snail"],
+      "answer": 3,
+      "why": "The epic lists crane, half-moon, hawk and crocodile formations."
+    },
+    {
+      "q": "Who attacked Dhrishtadyumna on the eighteenth night?",
+      "options": ["Karna", "Ashwatthama", "Kripa", "Duryodhana"],
+      "answer": 1,
+      "why": "Ashwatthama raided the Pandava camp at night."
+    }
+  ],
+  "related": [
+    "drupada",
+    "draupadi",
+    "shikhandi",
+    "drona",
+    "ashwatthama",
+    "arjuna",
+    "bhima",
+    "yudhishthira"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+    "wisdomlib": "https://www.wisdomlib.org/definition/dhrishtadyumna",
+    "draupadi": "https://en.wikipedia.org/wiki/Draupadi",
+    "shikhandi": "https://en.wikipedia.org/wiki/Shikhandi",
+    "panchala": "https://en.wikipedia.org/wiki/Panchala_kingdom",
+    "kampil": "https://en.wikipedia.org/wiki/Kampil",
+    "sauptika": "https://en.wikipedia.org/wiki/Sauptika_Parva",
+    "drona": "https://en.wikipedia.org/wiki/Drona",
+    "drupada": "https://en.wikipedia.org/wiki/Drupada",
+    "ganguli_udyoga151": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05151.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e3b9a0",
+    "c2": "#f1e7d4"
+  },
+  "order": 500
+}

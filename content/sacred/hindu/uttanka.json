@@ -1,0 +1,260 @@
+{
+  "slug": "uttanka",
+  "name": "Uttanka",
+  "aka": ["Utanka"],
+  "native": "उत्तङ्क",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Sage of the Maru desert and seeker of the queen's earrings",
+  "summary": "Uttanka is a sage in the Mahabharata who fetches a queen's earrings as his teacher's fee, meets Krishna after the war and is granted a boon of water in the desert.",
+  "about": "In the Mahabharata, Uttanka is a sage said to live in the Maru desert. His tale appears in two versions. In the first book, he is a pupil of Veda and must fetch the earrings of King Pushya's queen as his teacher's fee, and the serpent king Takshaka steals them on the way back. In the horse-sacrifice book, he is a pupil of Gautama and fetches the earrings of Madayanti, with Indra and Agni helping him against the serpents. He also urges King Janamejaya to hold the snake sacrifice. Later the text says he meets Krishna, sees his universal form and receives a boon of water. Other works connect him with the demon Dhundhu and with the Naradiya Purana's story of Gulika.",
+  "kidSummary": "Uttanka is a sage in the Mahabharata who lives in the desert. To thank his teacher, he sets out to bring a queen's earrings, but a snake steals them and he has a wild adventure to win them back. Later Krishna blesses him so he always finds water.",
+  "story": [
+    {
+      "title": "A teacher's request",
+      "text": "Uttanka is a student who wants to thank his teacher. His teacher's wife asks for a special gift, the earrings of a queen, and says she needs them in three days."
+    },
+    {
+      "title": "The queen gives the earrings",
+      "text": "Uttanka travels to the queen, who gives him the earrings and warns him that the serpent king Takshaka wants them."
+    },
+    {
+      "title": "The theft",
+      "text": "While Uttanka bathes, Takshaka steals the earrings and slips into a hole in the ground."
+    },
+    {
+      "title": "Digging to the snake world",
+      "text": "In one version, Uttanka digs into the ground, and Indra's thunderbolt opens a tunnel for him. In the snake world, a fiery horse, really Agni in the later version, fills the place with smoke when Uttanka blows on it, and the snakes hand back the earrings."
+    },
+    {
+      "title": "Water in the desert",
+      "text": "Years later, Uttanka meets Krishna, who grants him a boon: water whenever he is thirsty. Clouds called Uttanka's clouds bring rain to the desert."
+    }
+  ],
+  "teaches": ["Keep your promises, however hard", "Persistence beats every obstacle"],
+  "symbol": "tree",
+  "emblems": ["Earrings (the guru-dakshina)"],
+  "family": [
+    {
+      "relation": "Teacher (Adi Parva)",
+      "name": "Veda"
+    },
+    {
+      "relation": "Teacher (Ashvamedhika)",
+      "name": "Gautama"
+    },
+    {
+      "relation": "Teacher's wife",
+      "name": "Ahalya",
+      "slug": "ahalya"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva)",
+    "Mahabharata (Ashvamedhika Parva)",
+    "Naradiya Purana",
+    "Utankopakhyana (Malayalam)"
+  ],
+  "places": ["Maru desert", "Sauvira", "Badari"],
+  "quiz": [
+    {
+      "q": "What did Uttanka have to fetch as a teacher's fee?",
+      "options": ["A golden bow", "Earrings", "A magic horse", "A jewelled crown"],
+      "answer": 1,
+      "why": "A queen's earrings."
+    },
+    {
+      "q": "Which Naga king stole the earrings?",
+      "options": ["Vasuki", "Takshaka", "Shesha", "Karkotaka"],
+      "answer": 1,
+      "why": "Takshaka stole them while Uttanka was bathing."
+    },
+    {
+      "q": "Which god took the form of a horse to help him in one version?",
+      "options": ["Agni", "Varuna", "Surya", "Vayu"],
+      "answer": 0,
+      "why": "Agni helped him force the serpents to return the earrings."
+    },
+    {
+      "q": "What boon did Krishna give him?",
+      "options": [
+        "Wealth",
+        "Flight",
+        "Water whenever he is thirsty",
+        "Strength of a thousand elephants"
+      ],
+      "answer": 2,
+      "why": "Krishna granted water for his thirst in the desert."
+    },
+    {
+      "q": "Which king did Uttanka urge to hold a snake sacrifice?",
+      "options": ["Janamejaya", "Parikshit", "Yudhishthira", "Pushya"],
+      "answer": 0,
+      "why": "Janamejaya, to punish Takshaka."
+    }
+  ],
+  "related": [
+    "janamejaya",
+    "krishna",
+    "indra",
+    "agni",
+    "vasuki",
+    "ahalya",
+    "vishnu",
+    "parikshit",
+    "yudhishthira"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Uttanka",
+    "takshaka": "https://en.wikipedia.org/wiki/Takshaka",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#e8d3a8",
+    "c2": "#e4ecdc"
+  },
+  "order": 45,
+  "facts": [
+    {
+      "text": "In the first version his teacher's wife demanded the queen's earrings out of a grudge. Uttanka had refused to break his duty to his teacher while the teacher was away, and the teacher had praised him for it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On the road a giant on a bullock tells him to eat its dung and drink its urine, which he does after hearing his teacher did too. His teacher later says the giant was Indra on Airavata and the dung was life-giving amrita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Uttanka and the king cursed each other over a meal with a hair in it, then made peace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Takshaka, disguised as a naked ascetic, stole the earrings while Uttanka bathed, then turned into a snake and slipped down a hole. Uttanka dug after him, and Indra's thunderbolt carved a tunnel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the snake world he saw two women weaving black and white threads on a twelve-spoke wheel turned by six youths. His teacher said the women were Dhata and Vidhata, the threads day and night, the wheel the year and the youths the seasons.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The rider in the snake world gave Uttanka his horse, which carried him to the hermitage just before sunset, as the teacher's wife was about to curse him for being late.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the later version Uttanka serves the sage Gautama for a hundred years until he collapses under a load of firewood. Gautama restores his youth and gives him his daughter in marriage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In that version, Gautama's wife Ahalya asks for Madayanti's earrings. Madayanti is the queen of a cursed cannibal king, Kalmashapada.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The cursed cannibal king Kalmashapada wanted to eat Uttanka, but the sage asked him to wait until the teacher's fee was paid, and the king agreed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Madayanti warned him the earrings must not touch the ground. When they fell as he climbed a tree, a snake seized them and slid into an ant-hill, so he dug for 35 days until Indra stepped in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The horse, really Agni, told Uttanka to blow into it from behind. Flames and smoke poured from its body and choked the snake homes, and Vasuki's serpents handed back the earrings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the war, Uttanka met Krishna, was angry the war had not been prevented, and nearly cursed him. Krishna explained and showed his universal form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Uttanka was one of few people said to have seen Krishna's universal form. The others named are Akrura, Arjuna, Dhritarashtra, Sanjaya, Yashoda and Vyasa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the desert Indra, disguised as an outcast, offered Uttanka amrita, and Uttanka refused. Krishna then explained that the offer came from Indra at his own request and that refusing it had been a mistake.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Krishna promised Uttanka water whenever he thirsted, and added that rain clouds would come at his bidding. Rare desert rain clouds are still called Uttanka's clouds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Vana Parva Uttanka does tapas to Vishnu about the demon Dhundhu under the desert sands. Vishnu says King Kuvalashva will slay him, and the king earns the name Dhundhumara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the snake sacrifice Takshaka hid at Indra's throne, so Uttanka's chants began pulling Indra and his throne toward the fire. Indra let go of the snake and escaped.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Naradiya Purana, a hunter named Gulika is caught stealing golden plates from a Vishnu temple and tries to kill Uttanka. He repents and falls dead, and Uttanka sprinkles Ganga water on him to revive him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Vana Parva, the demon Dhundhu has a boon against anyone with divinity and breathes flames at his attackers. King Kuvalashva douses the flames with a stream of water and defeats him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the first version Uttanka was one of three chief disciples of the sage Veda, who had himself studied under Ayoda Dhaumya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "depth": "full"
+}

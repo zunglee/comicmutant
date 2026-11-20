@@ -1,0 +1,349 @@
+{
+  "slug": "rama",
+  "name": "Rama",
+  "aka": ["Ramachandra", "Raghava", "Dasarathi", "Sri Ram", "Raghunatha"],
+  "native": "राम",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "Seventh avatar of Vishnu and hero of the Ramayana",
+  "summary": "In Hindu tradition Rama is the seventh avatar of Vishnu and the hero of the Ramayana. Many Hindus see him as a model of dharma, keeping his word, honouring his family and ruling with fairness.",
+  "about": "Rama is the prince of Ayodhya whose life is told in the Ramayana. In the Valmiki Ramayana he is born to King Dasharatha and Queen Kaushalya, marries Sita, spends fourteen years in forest exile with her and his brother Lakshmana, and later returns to rule. When Sita is carried off by Ravana, the rakshasa king of Lanka, Rama and the vanara army, helped by Hanuman, cross the sea and defeat him. Vaishnava tradition counts him as the seventh avatar of Vishnu and, in some texts, as a complete avatar who shows ideal human qualities. Many tellings differ: Tulsidas's Hindi Ramcharitmanas, Kamban's Tamil Ramavataram, Jain Paumacariya, the Buddhist Dasaratha Jataka and Southeast Asian versions such as the Thai Ramakien each shape the story in their own way. His birth is celebrated on Rama Navami, his homecoming around Diwali, and his story is acted out in Ramlila performances every autumn. He is shown with a bow, a dark complexion and a calm face.",
+  "kidSummary": "Rama is a prince from a city called Ayodhya in the old stories of the Ramayana. He is remembered for keeping promises, being kind to everyone he meets and standing by his family. Millions of people tell his story every year with plays, songs and lamps at Diwali.",
+  "story": [
+    {
+      "title": "A prince is born",
+      "text": "In the Ramayana, King Dasharatha of Ayodhya has four sons. The eldest, Rama, grows up gentle and brave, and the people of the city love him."
+    },
+    {
+      "title": "A promise and a journey",
+      "text": "On the day Rama is to become king, his father's old promise to Queen Kaikeyi sends him to the forest for fourteen years. Rama accepts it calmly, to keep his father's word."
+    },
+    {
+      "title": "Sita and Lakshmana",
+      "text": "His wife Sita and his brother Lakshmana choose to go with him. The three live simply in the forest and meet sages, birds and animals as friends."
+    },
+    {
+      "title": "Friends in the forest",
+      "text": "When Ravana, the rakshasa king of Lanka, carries Sita away, Rama meets Sugriva and Hanuman and the vanara army. They become his allies and help him search for her."
+    },
+    {
+      "title": "The bridge to Lanka",
+      "text": "The vanaras build a bridge over the sea to reach Lanka. After a great battle Sita is brought back safely."
+    },
+    {
+      "title": "Home to Ayodhya",
+      "text": "After fourteen years Rama returns to Ayodhya. People light rows of lamps to welcome him, a story remembered at Diwali."
+    }
+  ],
+  "teaches": [
+    "Keep your promises",
+    "Respect and care for family",
+    "Be fair and kind as a leader",
+    "Face hard times with a calm mind"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrow", "Dark blue-green complexion", "Two hands", "Raghu dynasty"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Kaushalya",
+      "slug": "kaushalya"
+    },
+    {
+      "relation": "Wife",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Brother",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Sons",
+      "name": "Lava and Kusha",
+      "slug": "lava-and-kusha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas",
+    "Kamban Ramavataram",
+    "Paumacariya",
+    "Dasaratha Jataka",
+    "Adhyatma Ramayana"
+  ],
+  "places": [
+    "Ayodhya, Uttar Pradesh",
+    "Bhadrachalam, Telangana",
+    "Rameswaram, Tamil Nadu",
+    "Ramnagar, Varanasi"
+  ],
+  "festivals": ["Rama Navami", "Vijayadashami", "Diwali", "Ramlila"],
+  "facts": [
+    {
+      "text": "In the Valmiki Ramayana, King Janaka keeps a giant bow called Pinaka that nobody has been able to string. Rama tries to string it and breaks it, and wins the hand of Sita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The sage Gautama's wife Ahalya is cursed and lives unseen, and in the earliest telling Rama frees her when she offers him hospitality. The popular picture of her turning to stone and returning to life at the touch of Rama's foot developed later.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jatayu, the old king of the vultures, tries to rescue Sita and loses his wings fighting Ravana. As a young bird he once flew so close to the sun that his wings began to burn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jatayu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Sundara Kanda, Hanuman grows gigantic and leaps across the sea to Lanka. The mountain Mainaka offers him a rest, but Hanuman refuses because the search for Sita cannot wait.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Lakshmana is badly wounded, Hanuman cannot tell which herbs are the right ones, so he carries a whole mountain peak to the battlefield.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Buddhist Dasaratha Jataka there is no kidnapping and no war with Ravana. Dasaratha rules Benares, and Rama is said to be an earlier life of the Buddha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 9
+    },
+    {
+      "text": "In Jain versions, Lakshmana is the one who defeats Ravana. Rama later gives up his kingdom and attains liberation, and Ravana is said to become a future Tirthankara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 9
+    },
+    {
+      "text": "In a much-loved telling of the forest years, Shabari, a devoted forest dweller, offers Rama berries and tastes each one first to make sure it is sweet. Rama eats them with love.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The yakshi Tataka, said to have the strength of a thousand elephants, attacks sages' sacrifices. Rama first says he will only strip her of her power rather than kill a woman, but when she charges at him he ends her with a single arrow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tataka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Bharata, Rama's younger brother, refuses the throne and rules Ayodhya only as regent, living as an ascetic at Nandigram. When Rama returns, Bharata meets him carrying Rama's shoes on his head and hands them back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Adiya Ramayana from Wayanad in Kerala shows Rama, Lakshmana and Hanuman standing trial in a tribal court for leaving Sita while she was expecting.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8
+    },
+    {
+      "text": "To convince the doubtful Sugriva that he can beat Vali, Rama shoots one arrow through seven sal trees in a row, and it then splits a boulder behind them. Sugriva had only ever seen Vali pierce a single tree.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vali_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Valmiki invented the shloka verse form after seeing a hunter shoot one of two birds. His sorrow, it is said, turned into the first verse.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In devotional art and popular retellings, Hanuman is shown tearing open his chest to reveal Rama and Sita in his heart, a picture of how deeply he loves them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Balinese kecak dance retells the Ramayana with over fifty men chanting cak as a chorus, and a fire show recalls Hanuman burning Lanka.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ramnagar Ramlila near Varanasi lasts 31 days and recites the whole Ramcharitmanas. The audience walks through the town from one scene to the next, as if it were one giant stage.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ramlila",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Ramnagar the role of Ravana stayed in a single family from 1835 until 1990.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ramlila",
+      "interest": 8
+    },
+    {
+      "text": "The 1987 TV serial Ramayan, made by Ramanand Sagar, was planned for 52 episodes but stretched to 78 because viewers wanted more. Reports say Sunday streets emptied while it aired.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramayan_(1987_TV_series)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ram Setu, or Adam's Bridge, is a chain of limestone shoals about 48 km long between Rameswaram and Mannar. The sea over it rarely goes deeper than about a metre.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the war, some versions say Rama asks Sita to pass an ordeal of fire, the Agni Pariksha. In some, Agni appears to vouch for her, or says an illusion was the one Ravana took. It makes Lakshmana angry with Rama for the first time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On 17 April 2024, the first Rama Navami after the Ayodhya Ram Mandir opened, a ray of noon sunlight lit the forehead of the Ram Lalla image.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Rama_Navami",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A popular sub-plot in some regions has Hanuman rescue Rama and Lakshmana from the cave of Ahi-Mahi Ravana, who holds them to be offered to the goddess Kali.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Akbar had the Ramayana translated into Persian by a team of Sanskrit-reading pandits and Mughal scholars, finished in the late 1580s at his court in Lahore.",
+      "kind": "history",
+      "source": "https://indianhistorycollective.com/translating-rama-the-making-and-meaning-of-akbars-persian-ramayana/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Ramayana describes Rama as ajanabahu, a person with arms so long that the middle finger reaches past the knee.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A well-loved legend of the bridge to Lanka says a small squirrel helped by rolling in beach sand and shaking it off on the bridge. Rama stroked its back, and the squirrel's stripes are believed to be marks of his fingers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indian_palm_squirrel",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sita shelters at Valmiki's hermitage when she is sent away, and there she gives birth to twin sons, Lava and Kusha. Later Rama acknowledges them as his sons, and Sita asks her mother, the earth goddess Bhumi, to take her back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ravana's younger brother Vibhishana, a rakshasa, left Lanka because he opposed Sita's kidnapping and went over to Rama. After the war Rama crowned him king of Lanka, and he is counted among the eight Chiranjivi, the long-lived ones.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many years was Rama's forest exile in the Ramayana?",
+      "options": ["Seven years", "Fourteen years", "Twenty years", "One year"],
+      "answer": 1,
+      "why": "The Ramayana says Rama spent fourteen years in the forest before returning to Ayodhya."
+    },
+    {
+      "q": "Which festival remembers Rama's birth?",
+      "options": ["Holi", "Raksha Bandhan", "Rama Navami", "Pongal"],
+      "answer": 2,
+      "why": "Rama Navami falls on the ninth day of the bright half of Chaitra."
+    },
+    {
+      "q": "What is the Thai version of the Ramayana called?",
+      "options": ["Ramakien", "Reamker", "Ramcharitmanas", "Kakawin"],
+      "answer": 0,
+      "why": "The Thai Ramakien was compiled under King Rama I, around 1799 to 1807."
+    },
+    {
+      "q": "Who wrote the Hindi Ramcharitmanas in the 16th century?",
+      "options": ["Kamban", "Valmiki", "Tulsidas", "Kabir"],
+      "answer": 2,
+      "why": "Tulsidas wrote the Ramcharitmanas, a much-loved Hindi retelling."
+    },
+    {
+      "q": "What does the Ram Setu connect, according to the Ramayana?",
+      "options": [
+        "Ayodhya and Mathura",
+        "India and Lanka",
+        "Kashi and Puri",
+        "Hastinapura and Delhi"
+      ],
+      "answer": 1,
+      "why": "In the Ramayana the vanaras build a bridge over the sea to reach Lanka."
+    }
+  ],
+  "related": [
+    "vishnu",
+    "sita",
+    "hanuman",
+    "lakshmana",
+    "ravana",
+    "valmiki",
+    "tulsidas",
+    "vibhishana",
+    "shabari",
+    "krishna"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rama",
+    "ramayana": "https://en.wikipedia.org/wiki/Ramayana",
+    "ramlila": "https://en.wikipedia.org/wiki/Ramlila",
+    "ramakien": "https://en.wikipedia.org/wiki/Ramakien",
+    "ramanavami": "https://en.wikipedia.org/wiki/Rama_Navami",
+    "ramsetu": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+    "tvserial": "https://en.wikipedia.org/wiki/Ramayan_(1987_TV_series)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe3c8",
+    "c2": "#f3e3b8"
+  },
+  "order": 7
+}

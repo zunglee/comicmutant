@@ -1,0 +1,280 @@
+{
+  "slug": "tulsi",
+  "name": "Tulsi",
+  "aka": ["Tulasi", "Vrinda", "Vishnupriya", "Haripriya"],
+  "native": "तुलसी",
+  "role": "Sacred holy basil plant and goddess dear to Vishnu",
+  "summary": "Tulsi is the holy basil, a plant honoured in Hindu homes and regarded by many Vaishnavas as the goddess Tulasi, a form of Lakshmi dear to Vishnu. Her wedding to Vishnu is celebrated each autumn.",
+  "about": "Tulsi is the holy basil, planted in the courtyards of many Hindu homes. Many Vaishnavas regard it as an earthly form of the goddess Tulasi, linked with Lakshmi and called Vrinda, Vishnupriya and Haripriya. The Devi Bhagavata Purana tells how Lakshmi was reborn as Tulasi, while the Skanda, Padma and Shiva Puranas tell of Vrinda, wife of the asura Jalandhara. Different traditions say she became the plant after her husband's death or after a curse tied to the Shaligram stone. Every year Tulsi Vivah, her wedding to Vishnu, takes place between Prabodhini Ekadashi and Kartik Purnima, opening the wedding season. Vaishnavas wear beads made of her wood.",
+  "kidSummary": "Tulsi is a little green plant that many Hindu families keep in a special pot at home. In Hindu stories she is a goddess who is very dear to Vishnu. Every year in autumn, people hold a ceremonial wedding for Tulsi and Vishnu.",
+  "story": [
+    {
+      "title": "Vrinda and Jalandhara",
+      "text": "Many Puranas say Vrinda was a very devoted wife of the asura Jalandhara. Her devotion kept him safe in battle with the gods."
+    },
+    {
+      "title": "A hard choice",
+      "text": "To end the war, Vishnu took Jalandhara's form. In these versions, Vrinda realised the trick, cursed Vishnu to be separated from his own wife, and left her body."
+    },
+    {
+      "title": "A plant is born",
+      "text": "The Puranas say that from her ashes or the place she left grew the Tulasi plant. Vishnu promised to keep her always close."
+    },
+    {
+      "title": "The wedding",
+      "text": "Because of that promise, tradition says Vishnu, in the form of a Shaligram stone, marries Tulsi each year on Prabodhini Ekadashi."
+    },
+    {
+      "title": "A leaf that balanced the scale",
+      "text": "In an Odisha folktale, Satyabhama sets Krishna on a scale against her jewels, but the scale does not move. Rukmini adds one tulsi leaf with a prayer, and it balances."
+    },
+    {
+      "title": "Caring for Tulsi",
+      "text": "Families water her daily, light a lamp beside her, and walk around her in prayer."
+    }
+  ],
+  "teaches": [
+    "Care for plants is also care for the divine",
+    "Loyalty and devotion are honoured",
+    "Small daily acts such as watering a plant carry meaning"
+  ],
+  "symbol": "tree",
+  "emblems": ["Holy basil plant", "Tulsi beads", "Vrindavan planter", "Shaligram stone"],
+  "family": [
+    {
+      "relation": "Beloved of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Form of",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Husband in some Puranas",
+      "name": "Jalandhara"
+    },
+    {
+      "relation": "Husband in the Devi Bhagavata Purana",
+      "name": "Shankhachuda"
+    },
+    {
+      "relation": "Cursed to become stone",
+      "name": "Vishnu as Shaligram",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": [
+    "Devi Bhagavata Purana",
+    "Padma Purana",
+    "Skanda Purana",
+    "Shiva Purana",
+    "Bhagavata Purana"
+  ],
+  "places": [
+    "Home courtyard Vrindavan planter",
+    "Gandaki River (Shaligram stones)",
+    "Prabhu Dham, Saunja (Bihar)"
+  ],
+  "festivals": ["Tulsi Vivah", "Prabodhini Ekadashi", "Kartik Purnima", "Tulasi Kalyanam"],
+  "quiz": [
+    {
+      "q": "Which town is named after groves of tulsi?",
+      "options": ["Vrindavan", "Haridwar", "Puri", "Mathura"],
+      "answer": 0,
+      "why": "Vrindavan joins vrinda, holy basil, with vana, grove."
+    },
+    {
+      "q": "Which festival celebrates the wedding of Tulsi and Vishnu?",
+      "options": ["Tulsi Vivah", "Holi", "Raksha Bandhan", "Pongal"],
+      "answer": 0,
+      "why": "Tulsi Vivah is held in the month of Kartik."
+    },
+    {
+      "q": "Which stone stands for Vishnu at the wedding?",
+      "options": ["Ruby", "Shaligram", "Pearl", "Jade"],
+      "answer": 1,
+      "why": "Shaligram is the black fossil stone for Vishnu."
+    },
+    {
+      "q": "What do Vaishnavas make from Tulsi wood?",
+      "options": ["Drums", "Beads for prayer", "Boats", "Combs"],
+      "answer": 1,
+      "why": "Japa malas of Tulsi stems or roots symbolise initiation."
+    }
+  ],
+  "related": ["vishnu", "lakshmi", "jalandhara", "shiva", "krishna", "rama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulsi",
+    "tulasi": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+    "vivah": "https://en.wikipedia.org/wiki/Tulsi_Vivah",
+    "satyabhama": "https://en.wikipedia.org/wiki/Satyabhama",
+    "ocimum": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
+    "vrindavan": "https://en.wikipedia.org/wiki/Vrindavan"
+  },
+  "palette": {
+    "c1": "#e3efdb",
+    "c2": "#f4ead2"
+  },
+  "order": 80,
+  "facts": [
+    {
+      "text": "One explanation of the name links it to immeasurable or unmatched, from tula, a scale, since nothing can be weighed against her.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Green-leaved Tulsi is called Rama or Lakshmi Tulasi, and the dark purple kind is Krishna or Shyama Tulasi, loved for a colour like Krishna's dark complexion.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Lakshmi is reborn as Tulasi and marries the daitya Shankhachuda, whom Shiva slays. She moves to curse Vishnu, but he says her body will become the Gandaki river and her hair the Tulasi plant.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Regional versions say Tulasi cursed Vishnu to turn into stone, which is why Shaligram stones are found on the banks of the Gandaki.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The town of Vrindavan takes its name from tulsi. Its ancient Sanskrit name joins vrinda, holy basil, with vana, grove, so it means the groves of tulsi.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vrindavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Vaishnava legend says Tulasi arose from the happy tears of Vishnu falling into the nectar during the churning of the ocean.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Brahma lives in Tulasi branches, the Ganga and pilgrim places in her roots, and the Vedas in her upper branches.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "For centuries people mixed dried tulsi leaves into stored grain to keep insects away.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Garlands made of ten thousand Tulasi leaves are offered to Vishnu and Krishna.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Thailand holy basil, called kaphrao, is the star leaf of phat kaphrao, a popular stir-fry made with meat or seafood.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ocimum_tenuiflorum",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A prayer of forgiveness may be said before plucking leaves, and a withered plant is ritually put into water, as with old holy images.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Odisha a water pot with a small hole is hung above the plant for the whole month of Vaishakha, believed to wash away sin and bring good monsoons.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 19th-century Bengal some families treated Tulasi as their clan deity, and a census in the North-Western Provinces listed Tulasi worshippers as a separate group.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At the Tulsi wedding, people believe Vrinda's spirit stays in the plant through the night and departs at dawn.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In two Rama temples in Saurashtra, Gujarat, the bride temple sends an invitation card to the groom's temple, and a procession carries an image of Vishnu in a palanquin to the wedding.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulsi_Vivah",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tulasi stands in many courtyards on a raised brick or stone block, a miniature Vrindavan. A home with a tulsi plant is sometimes treated as a small place of pilgrimage, and the plant as a threshold between heaven and earth.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Accounts disagree about tulsi and Shiva. Bael leaves are the usual offering, some writers allow tulsi too and others forbid it, and Shiva's linga is sometimes prescribed to be made from soil around a tulasi root.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vaishnavas wear japa malas made from tulasi stems or roots as a sign of initiation, and are even known as those who bear the tulasi round the neck.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tulasi is not offered in worship of the Devi, since tradition says its sharp scent would anger her. It is also kept from Hanuman's worship, because he is celibate and Tulasi is seen as a goddess.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one Vrinda story, the seeds of Prakriti, standing for the three gunas, grow into three plants: Dhatri, Malati and Tulasi, who help Vishnu forget his grief and go with him to Vaikuntha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Odisha the tulasi plant is said to stand for all the local deities, and the Nayars of Malabar offer tulasi plants to calm unfriendly spirits.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Padma Purana says that a person cremated with tulasi twigs in the pyre reaches Vishnu's home, Vaikuntha, and water mixed with tulsi leaves is given to the dying to lift their spirit.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

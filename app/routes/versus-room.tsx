@@ -120,7 +120,7 @@ export default function Room({ loaderData: d }: Route.ComponentProps) {
       {/* Tug of war */}
       <div className="panel my-10 p-4">
         <div
-          className="relative h-12 overflow-hidden rounded-md border-[3px] border-line"
+          className="relative h-12 overflow-hidden rounded-skin-s border-[3px] border-line"
           role="img"
           aria-label={`${Math.round(pa * 100)}% ${d.a.name}, ${Math.round((1 - pa) * 100)}% ${d.b.name}`}
         >
@@ -132,7 +132,7 @@ export default function Room({ loaderData: d }: Route.ComponentProps) {
             transition={{ type: 'spring', stiffness: 140, damping: 12 }}
           />
           <m.div
-            className="absolute top-1/2 size-10 -translate-x-1/2 -translate-y-1/2 rounded-full border-[3px] border-line bg-white"
+            className="absolute top-1/2 size-10 -translate-x-1/2 -translate-y-1/2 round border-[3px] border-line bg-white"
             animate={{ left: `${pa * 100}%` }}
             transition={{ type: 'spring', stiffness: 140, damping: 12 }}
           />

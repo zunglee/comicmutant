@@ -1,0 +1,240 @@
+{
+  "slug": "rajimati",
+  "name": "Rajimati",
+  "aka": ["Rajul", "Rajulakumari", "Rajamati"],
+  "native": "राजीमती",
+  "role": "Bride of Neminatha who followed him to Girnar",
+  "summary": "In Jain stories Rajimati was the princess engaged to Neminatha, the 22nd Tirthankara. When he left his wedding to become a monk, she chose the same path.",
+  "about": "Jain tradition says Rajimati, also called Rajul or Rajamati, was a daughter of King Ugrasena and was engaged to Prince Nemi, the future 22nd Tirthankara. At the wedding, Nemi heard animals crying out, penned for the feast, and left in compassion to become a monk. Rajimati grieved and then followed him to Mount Girnar. Svetambara texts such as the Uttaradhyayana Sutra tell how she steadied Nemi's brother Rathanemi in a cave. The sects differ: Svetambaras say she became a nun, while Digambaras say she did not take that role but was honoured as a satī. A Jain account says the two had been bound together across several earlier lives.",
+  "kidSummary": "Rajimati was a princess who was about to marry Prince Nemi. Jain stories say he heard animals crying for the wedding feast and decided never to harm any living being. After a time of sadness, she also chose a life of prayer.",
+  "story": [
+    {
+      "title": "A wedding day",
+      "text": "Prince Nemi rode in a grand wedding procession to marry Rajimati, daughter of King Ugrasena."
+    },
+    {
+      "title": "The crying animals",
+      "text": "On the way, Nemi heard animals crying in pens, kept for the wedding feast. He was so moved that he told his charioteer to turn back."
+    },
+    {
+      "title": "Following the path",
+      "text": "Rajimati was very sad. After some time she decided that she, too, would follow Nemi to Mount Girnar."
+    },
+    {
+      "title": "A storm on Girnar",
+      "text": "In the Svetambara story, rain drove her into a cave, where Nemi's brother Rathanemi, now a monk, tried to tempt her."
+    },
+    {
+      "title": "A steady heart",
+      "text": "She calmly reminded him of his vows. He listened and returned to his path, and Rajimati became a respected nun in this telling."
+    }
+  ],
+  "teaches": [
+    "Compassion for animals",
+    "Staying steady when tested",
+    "Choosing a path with courage"
+  ],
+  "symbol": "moon",
+  "emblems": ["Wedding threshold", "Cave on Girnar", "Veil songs"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Ugrasena"
+    },
+    {
+      "relation": "Betrothed",
+      "name": "Neminatha",
+      "slug": "neminatha"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Rathanemi"
+    }
+  ],
+  "texts": [
+    "Uttaradhyayana Sutra",
+    "Kalpa Sutra",
+    "Neminatha-phagu",
+    "Nemanath Saloko",
+    "Harivamsa Purana"
+  ],
+  "places": ["Mount Girnar", "Dwarka", "Rajula, Gujarat"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Nemi is said to have heard animals crying as they were readied for the wedding feast, and in pity he turned his chariot around.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/rajimati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Svetambara account, rain drove Rajimati into a cave on Girnar. There Nemi's elder brother Rathanemi, a monk, proposed they enjoy a rare human birth together first. She refused firmly, and he returned to his vows.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/rajimati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambara tradition says she became a nun, and that she and Nemi both reached liberation on the same day.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/rajimati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The town of Rajula in Gujarat is said by some sources to take its name from Princess Rajulakumari, also known as Rajamati.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rajula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one Jain account, a sage tells Shankha and his wife Yashomati that they were married in six earlier lives. He adds that in Shankha's ninth incarnation he will be born as Neminatha and she as Rajimati.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-22.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Uttaradhyayana 22, Rajimati rebukes Rathanemi when he urges her back to worldly joys. She says taking back what was given up is like swallowing what was thrown up, and that chasing every fancy would leave him like a plant tossed by the wind.",
+      "kind": "text",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Uttaradhyayana, it was Keshava, Krishna, who asked for Rajimati's hand for Nemi. Her father agreed and told Krishna to let the prince come.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Uttaradhyayana ends by saying that Rajimati and Rathanemi, after severe austerities, both became omniscient and reached the highest perfection.",
+      "kind": "text",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Uttaradhyayana, Rajimati was overwhelmed with sorrow when Nemi renounced. She resolved to become a nun, cut her black hair, and led many relatives and servants to join the order too.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Rajimati took the vows, the Uttaradhyayana has Krishna (Vasudeva) bless her with a wish that she cross the dreadful ocean of rebirth without difficulty.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Jacobi's note, Rajimati's father Ugrasena was set on the throne by Krishna after the death of Kamsa, whom the Vishnu Purana calls Ugrasena's son. This ties her family to the Krishna stories.",
+      "kind": "family",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Uttaradhyayana calls Nemi's mountain Raivataka. Jacobi's note says this is Girnar in Kathiawad, covered with Jain temples and also sacred to Hindus through its link to Krishna.",
+      "kind": "place",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her sorrow when Nemi left is the subject of the Nemidutakavya, a Sanskrit poem by Vikrama. Each stanza ends with a line borrowed from Kalidasa's Meghaduta.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jacobi cites a legend from Haribhadra's commentary: Rajimati drank a sweet drink, brought it up into a cup and offered it to Rathanemi. When he recoiled, she said Nemi had given her up in the same way.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rajimati warns Rathanemi not to be like gandhana snakes. Jacobi's note says such snakes can be made to suck back their poison, while other snakes would rather die than do so.",
+      "kind": "teaching",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rajimati tells Rathanemi she would not want him even with the beauty of Kubera, the grace of Nalakubara or the might of Indra. Her self-control, not his looks, is what matters to her.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rajimati appears in every list of the sixteen satis, the exemplary Jain women. Her story is the most widely told of them, partly because it is central to Nemi's renunciation.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/rajimati",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Rajimati engaged to marry?",
+      "options": ["Mahavira", "Neminatha", "Parshvanatha", "Rishabhanatha"],
+      "answer": 1,
+      "why": "She was engaged to Neminatha, the 22nd Tirthankara."
+    },
+    {
+      "q": "Why did Nemi turn back from the wedding in the story?",
+      "options": [
+        "He heard animals crying for the feast",
+        "A flood blocked the road",
+        "He lost his way",
+        "A storm began"
+      ],
+      "answer": 0,
+      "why": "He was moved by the cries of animals about to be killed for the feast."
+    },
+    {
+      "q": "On which mountain did Rajimati follow him?",
+      "options": ["Mount Girnar", "Mount Kailash", "Mount Abu", "Mount Meru"],
+      "answer": 0,
+      "why": "Girnar is closely linked to Neminatha."
+    },
+    {
+      "q": "What do Svetambara and Digambara tellings disagree about?",
+      "options": [
+        "Her name",
+        "Whether she became a nun",
+        "Her city",
+        "Whether she met Nemi on Girnar"
+      ],
+      "answer": 1,
+      "why": "Svetambaras say she became a nun; Digambaras do not."
+    }
+  ],
+  "related": ["neminatha", "krishna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Neminatha",
+    "jainpedia": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/rajimati",
+    "devdutt": "https://devdutt.com/the-forgotten-women-who-helped-shape-jainism/",
+    "rajula": "https://en.wikipedia.org/wiki/Rajula",
+    "mahasatis": "https://jainqq.org/pagetext/ISJS_Jainism_Study_Notes_E5_Vol_01/007711/199",
+    "nineLives": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-22.htm",
+    "manuscript": "https://jainpedia.org/manuscript/rajimati-in-the-cave-with-rathanemi",
+    "girnar": "https://en.wikipedia.org/wiki/Neminath_Jain_Temple,_Girnar",
+    "uttaradhyayana22": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe45/sbe4524.htm"
+  },
+  "palette": {
+    "c1": "#d9d3ec",
+    "c2": "#e9d3c1"
+  },
+  "order": 605,
+  "tradition": "jain",
+  "group": "jain-figure",
+  "depth": "compact"
+}

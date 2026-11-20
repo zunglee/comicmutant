@@ -1,0 +1,263 @@
+{
+  "slug": "upali",
+  "name": "Upali",
+  "aka": ["Upali the barber", "Upali Thera", "Vinayadhara"],
+  "native": "उपालि",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Barber turned monk, foremost in monastic discipline",
+  "years": "c. 5th century BCE",
+  "order": 13,
+  "summary": "In Buddhist tradition, Upali was a barber from Kapilavatthu who became a monk. The Buddha named him foremost in knowing the monastic rules, and he recited them at the First Council.",
+  "about": "Buddhist texts say Upali was born into a barber family in Kapilavatthu, the Shakya capital, and served the Shakya princes. When the princes, including Anuruddha, left to join the Buddha, he went along and, the Pali texts say, was ordained before them so their pride in rank would be humbled. The Buddha taught him the whole Vinaya, the rules of monastic life, and named him foremost among those who keep it. Tradition says that at the First Council he recited the rules, and the Vinaya Pitaka was compiled from his recitation. His line of students, the vinayadharas, kept the tradition alive in Sri Lanka and Myanmar. Scholars often cite him as a sign that the early community cared little about caste.",
+  "kidSummary": "Upali was a barber who became one of the Buddha's most important students. He had a wonderful memory for the rules the monks lived by. Even the Shakya princes, who used to be his customers, bowed to him because he joined first.",
+  "story": [
+    {
+      "title": "The princes' barber",
+      "text": "Upali worked as a barber for the princes of the Shakya clan. His job was not respected in those days, but he was careful, friendly and clever."
+    },
+    {
+      "title": "A journey together",
+      "text": "When the princes decided to become monks, Upali went with them to see the Buddha. They gave him their jewels to take home, but he worried people would think he had harmed them, so he gave them back and joined."
+    },
+    {
+      "title": "Ordained first",
+      "text": "The princes asked the Buddha to ordain Upali before them. This meant that for the rest of their lives, the proud princes had to bow to their former barber."
+    },
+    {
+      "title": "Keeper of the rules",
+      "text": "The Buddha taught Upali all the rules for monks and nuns. Upali learned them so well that the Buddha called him the best at remembering them."
+    },
+    {
+      "title": "Reciting for everyone",
+      "text": "After the Buddha died, monks gathered at the First Council. Upali recited the rules from memory, and the monks learned them by heart and passed them on, so that they could be kept for everyone."
+    }
+  ],
+  "teaches": [
+    "Kindness and respect matter more than birth",
+    "A good memory and honesty serve everyone",
+    "Rules help a community live in peace"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Razor (his trade)", "Vinaya recitation", "Lineage of vinayadharas"],
+  "family": [
+    {
+      "relation": "Teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "King who bowed to him",
+      "name": "Bimbisara",
+      "slug": "bimbisara"
+    },
+    {
+      "relation": "Fellow monk at the Council",
+      "name": "Mahakashyapa",
+      "slug": "mahakashyapa"
+    },
+    {
+      "relation": "Questioned at the Council",
+      "name": "Ananda",
+      "slug": "ananda"
+    }
+  ],
+  "texts": ["Vinaya Pitaka", "Pali Canon", "Upalipariprccha", "Theragatha"],
+  "places": ["Kapilavatthu", "Rajagaha (First Council)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Apadana says that before being born a barber, Upali had been a mighty wheel-turning king for a thousand lives and a king of the gods for another thousand, which is offered as a reason he became the keeper of the rules.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some texts say that as a boy he shaved the Buddha's hair, unafraid where grown-ups were nervous, and that while the Buddha guided him he slipped into deep meditation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahavastu, the Buddha asked the former princes to bow to their old barber, and King Bimbisara and his ministers followed their example.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Historian Sangh Sen Singh argues that Upali could have led the community after the Buddha instead of Mahakashyapa, but his humble birth stood in the way.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A rich man could not decide whether to leave his wealth to his pious nephew or his own son. The monk Ajjuka invited the nephew, and Ananda thought that was wrong. Upali ruled that inviting a layperson broke no rule, and Ananda agreed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When a newly ordained nun turned out to be pregnant, Devadatta judged her unfit to stay. The Buddha had Upali look again; with the help of the laywoman Visakha he found she had conceived before ordaining, and she was cleared.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Chinese sources describe a custom of adding a dot to a manuscript each year after the Council, continued by Upali's successors until 489 CE. Modern scholars now consider this unlikely to be true history.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 7th-century Chinese Vinaya school, whose monks dressed in black and stressed guarding against error, saw itself as Upali's continuation and believed one of its founders was Upali reborn.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahasamghika account of the First Council, it was Upali who charged Ananda with several offences, the opposite of the role Mahakashyapa plays in the Pali story.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The texts give three reasons for his ordaining with the princes: in the Pali version they let him go first, in the Tibetan Mulasarvastivada version Sariputta persuaded him when he hesitated over his low class, and in the Mahavastu he decided himself.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Buddha is said to have told a Jataka tale in which the king and his advisers had also bowed to Upali in a previous life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sixteen years after the Buddha's passing, Upali ordained a pupil named Dasaka, who became his successor as the expert on the rules. The late Dipavamsa says Upali died at 74, if that figure means his lifespan.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The princes handed Upali all their jewels to carry home, but he knew them to be hot-headed and feared their kin might say he killed them for it. So he asked to join the monks alongside them.",
+      "kind": "story",
+      "source": "https://www.palikanon.com/english/pali_names/u/upaali.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Three verses in the Theragatha are credited to him. They urge monks to look for noble friends, to learn the monastic code and to live in quiet places.",
+      "kind": "text",
+      "source": "https://www.palikanon.com/english/pali_names/u/upaali.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In an earlier life, as a prince named Sunanda riding the elephant Sirika, he insulted a solitary Buddha. A burning heat seized him until he went with his followers to beg pardon. Texts give this as a reason he was born a barber.",
+      "kind": "text",
+      "source": "https://www.palikanon.com/english/pali_names/u/upaali.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His teacher Kappitaka lived in cemeteries. When he smashed a monument that noisy nuns were building, they plotted revenge on his cell. Upali warned him in time and Kappitaka fled, so the nuns scolded Upali instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The scholar Przyluski reads Upali's fame in the Pali texts as a sign that their compilers valued rules over sermons. The Mulasarvastivada texts raise Ananda higher, because their compilers preferred sermons.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When thieves stole some monks' robes, the monks turned to Upali for protection. In the Buddha's lifetime it was seen as a privilege to learn the rules from him, and monks thought of him as a friend to visit in trouble.",
+      "kind": "history",
+      "source": "https://www.palikanon.com/english/pali_names/u/upaali.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Upali asked for a short teaching, the Buddha said that anything which does not lead to turning away from craving and to calm is not part of his teaching.",
+      "kind": "teaching",
+      "source": "https://www.palikanon.com/english/pali_names/u/upaali.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In ancient and medieval India he was honoured as a patron saint of monks who specialise in the monastic rules. He is also counted among eight enlightened disciples honoured in Burmese ceremonies.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "T. W. Rhys Davids called Upali striking proof that the Buddha ignored class. Yet one estimate says only about six percent of the earliest monks and nuns came from humble families like his.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upali",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Upali's job before he became a monk?",
+      "options": ["Farmer", "Soldier", "Barber", "Teacher"],
+      "answer": 2,
+      "why": "He was a barber for the Shakya princes."
+    },
+    {
+      "q": "Why did the Buddha ordain Upali before the princes?",
+      "options": [
+        "To make them wait",
+        "To humble their pride",
+        "To save time",
+        "Because he asked first"
+      ],
+      "answer": 1,
+      "why": "Pali texts say it taught the princes that rank does not matter in the community."
+    },
+    {
+      "q": "What was Upali best at remembering?",
+      "options": ["Hymns", "Healing herbs", "The rules for monks (Vinaya)", "Royal family trees"],
+      "answer": 2,
+      "why": "The Buddha called him foremost in the Vinaya."
+    },
+    {
+      "q": "What did Upali do at the First Council?",
+      "options": [
+        "Recited the monastic rules",
+        "Chose the next leader",
+        "Led the nuns' order",
+        "Taught the first sermon"
+      ],
+      "answer": 0,
+      "why": "The Vinaya Pitaka was compiled from his recitation."
+    }
+  ],
+  "related": ["mahakashyapa", "ananda", "gautama-buddha", "bimbisara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Upali",
+    "palikanon": "https://www.palikanon.com/english/pali_names/u/upaali.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e6d9c0",
+    "c2": "#bfd3d0"
+  }
+}

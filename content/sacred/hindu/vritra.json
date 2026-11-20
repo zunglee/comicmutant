@@ -1,0 +1,246 @@
+{
+  "slug": "vritra",
+  "name": "Vritra",
+  "aka": ["Ahi", "Vrtra"],
+  "native": "वृत्र",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Serpent-like enveloper of the waters in the Rigveda",
+  "summary": "Vritra is the serpent-like being of the Rigveda who holds back the cosmic waters until Indra frees them. Later texts tell the story in new ways.",
+  "about": "In the Rigveda, Vritra, whose name is glossed as enveloper, is a serpent-like being, also called Ahi, who holds back the cosmic waters. The hymns say Indra, using a thunderbolt forged by Tvashtri, frees them, and he earns the title Vritrahan. The Rigveda calls him a danava, a son of Danu. The Mahabharata says Tvashtri made Vritra to avenge his son, and tells of a truce ended by sea-foam. The Bhagavata Purana tells it differently, presenting Vritra as a devotee of Vishnu who accepts the outcome calmly. The tale is also compared with dragon tales elsewhere.",
+  "kidSummary": "Vritra is a huge serpent in the oldest Hindu hymns, and he keeps the waters locked up. The god Indra frees the rivers, so rain can fall again. In later stories, Vritra is a wise devotee who is not afraid. Some tales tell of a clever battle, a promise and a surprising weapon made of sea-foam.",
+  "story": [
+    {
+      "title": "Waters held back",
+      "text": "In the Rigveda, Vritra winds around the waters of the sky and keeps them from flowing. The world is dry."
+    },
+    {
+      "title": "Indra prepares",
+      "text": "Indra drinks Soma, and Tvashtri forges his thunderbolt. The Vedas say Vishnu's three strides make room for the fight."
+    },
+    {
+      "title": "The contest",
+      "text": "In the Vedic hymns Indra defeats Vritra, and the waters rush down to the earth as rain and rivers."
+    },
+    {
+      "title": "A promise and sea-foam",
+      "text": "In the Mahabharata, Indra promises not to strike Vritra with anything wet or dry, by day or night. At twilight he finds sea-foam, which is neither."
+    },
+    {
+      "title": "A calm devotee",
+      "text": "In the Bhagavata Purana, Vritra tells Indra that life and death are the same to him, because both belong to Vishnu. Indra is amazed by his faith."
+    }
+  ],
+  "teaches": [
+    "Calm faith can stay steady even in hard times",
+    "Even a great hero can learn from an opponent"
+  ],
+  "symbol": "serpent",
+  "emblems": ["Serpent form", "Cosmic waters"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Danu"
+    },
+    {
+      "relation": "Maker (Mahabharata)",
+      "name": "Tvashtri"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Gave his bones for the vajra (Puranas)",
+      "name": "Dadhichi",
+      "slug": "dadhichi"
+    }
+  ],
+  "texts": ["Rigveda", "Mahabharata", "Bhagavata Purana", "Devi Bhagavata Purana", "Pali Canon"],
+  "places": ["Naimisharanya"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Rigveda, Vishnu makes room for the battle by taking his three great strides, a feat later reused in the tale of Vamana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one Vedic version, Varuna, Soma and Agni first side with Vritra and call him Father, until Indra persuades them to change sides.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Vritra swallows Indra, but the other gods force him to vomit Indra back out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Indra gathers sea-foam, which is neither wet nor dry, and Vishnu enters it before Indra strikes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Vritra is a devotee of Vishnu; when Indra drops the vajra after a blow, Vritra calmly tells him to pick it up, since life and death are the same to him.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Vritra swallows Indra and his elephant Airavata, but Indra escapes and Vritra goes to Vaikuntha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "India's highest military decoration, the Param Vir Chakra, is regarded as inspired by Dadhichi's sacrifice.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vedic battle, Vritra breaks Indra's two jaws before Indra throws him down, and in falling he crushes his own shattered fortresses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The hymns say Indra smashed Vritra's 99 fortresses, though some hymns say they belonged to Sambara instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Under the truce in the Mahabharata, Indra swears not to strike Vritra with anything of metal, wood or stone, dry or wet, by day or night, and the two become friends.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Tvashtri creates Vritra to avenge his own son Trishiras, also called Vishvarupa, who was killed by Indra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the Puranas, Brahmahatya, the guilt of killing a Brahmin shown as a fearsome woman, chases Indra into hiding, and Nahusha is invited to take his place.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana, Indra falls paralysed with the guilt after killing Vritra, and the gods arrange an ashvamedha sacrifice to cleanse him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahmahatya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Nahusha ruled heaven while Indra was away fighting Vritra, grew proud, and had the Seven Sages carry his palanquin until Agastya turned him into a snake.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nahusha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Taittiriya Samhita says Indra shared the guilt of killing Vishvarupa with the earth, trees and others, which became natural fissures in the ground and sap in trees.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Brahmahatya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Avestan Verethragna, the Iranian god of victory, shares a name with Indra's title Vritrahan, yet no surviving Iranian myth shows him slaying a dragon.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Verethragna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Pali Canon, the Buddha addresses the god Sakka with the title Vatrabhu, a title that alludes to Vritra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The word vritra means cover or obstacle, from a root meaning to cover, which is why the hymns picture him holding back or covering the waters.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Rigveda, the fight began soon after Indra was born, and he drank a great deal of Soma at Tvashtri's house to prepare.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda calls Indra Vritrahan, slayer of Vritra, and also slayer of the first-born of dragons.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vritra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Vritra hold back in the Rigveda?",
+      "options": ["The sun", "The waters", "The wind", "The moon"],
+      "answer": 1,
+      "why": "Vritra covers or holds the waters."
+    },
+    {
+      "q": "Which god frees them?",
+      "options": ["Agni", "Indra", "Yama", "Surya"],
+      "answer": 1,
+      "why": "Indra is called Vritrahan."
+    },
+    {
+      "q": "What did Indra use after the truce, since it was neither wet nor dry?",
+      "options": ["Sea-foam", "A silver bow", "A golden net", "A mace of iron"],
+      "answer": 0,
+      "why": "Sea-foam is neither wet nor dry, and Vishnu entered it before the blow."
+    },
+    {
+      "q": "Whose bones make the vajra in many Puranas?",
+      "options": ["Dadhichi", "Narada", "Vyasa", "Atri"],
+      "answer": 0,
+      "why": "Dadhichi gave his bones."
+    }
+  ],
+  "related": ["indra", "dadhichi", "vishnu", "airavata", "vishvakarma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vritra",
+    "dadhichi": "https://en.wikipedia.org/wiki/Dadhichi",
+    "indra": "https://en.wikipedia.org/wiki/Indra",
+    "brahmahatya": "https://en.wikipedia.org/wiki/Brahmahatya",
+    "nahusha": "https://en.wikipedia.org/wiki/Nahusha",
+    "verethragna": "https://en.wikipedia.org/wiki/Verethragna"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#b8d0e8",
+    "c2": "#d8c8e4"
+  },
+  "order": 500
+}

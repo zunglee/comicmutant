@@ -1,0 +1,314 @@
+{
+  "slug": "dasharatha",
+  "name": "Dasharatha",
+  "aka": ["Nemi (earlier name)", "Dasharath"],
+  "native": "दशरथ",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "King of Ayodhya and father of Rama",
+  "summary": "In the Ramayana, Dasharatha is the king of Kosala who rules from Ayodhya. He prayed for sons through a great sacrifice and became father of Rama, Bharata, Lakshmana and Shatrughna.",
+  "about": "Dasharatha is the king of Kosala, ruling from Ayodhya, in the Valmiki Ramayana. His name is explained as ten chariots, for a chariot that could move in all ten directions. The text says he had three principal queens, Kaushalya, Sumitra and Kaikeyi, among a large household. Without a son, he held the Putrakameshti sacrifice led by the sage Rishyashringa, and a bowl of sweet pudding gave him four sons. His promise of two boons to Kaikeyi, made after she helped him in battle, led to Rama's exile. The text tells that Dasharatha died of grief, remembering the curse of the blind parents of a young ascetic, later remembered as Shravana. The Buddhist Dasaratha Jataka and Jain tellings give the family different shapes.",
+  "kidSummary": "Dasharatha is the king of Ayodhya in the Ramayana and the father of Rama and his three brothers. He was a strong ruler who loved his sons very much. He once made a promise to his queen Kaikeyi, and keeping it was very hard. His story shows how important it is to think before you promise.",
+  "story": [
+    {
+      "title": "A king without a son",
+      "text": "King Dasharatha ruled Ayodhya well, but he and his queens had no children. Wise people told him to hold a special sacrifice and invite the sage Rishyashringa to lead it."
+    },
+    {
+      "title": "A gift of sweet pudding",
+      "text": "From the sacrificial fire came a being carrying a golden bowl of sweet pudding. Dasharatha shared it among his queens, and soon four sons were born: Rama, Bharata, Lakshmana and Shatrughna."
+    },
+    {
+      "title": "Kaikeyi's two wishes",
+      "text": "Long before, Kaikeyi had helped the king in a great battle. Pleased, Dasharatha promised her two wishes to use whenever she liked."
+    },
+    {
+      "title": "The promise comes due",
+      "text": "When Rama was about to be crowned, Kaikeyi asked for her two wishes: Bharata as king and Rama sent to the forest for fourteen years. The king was heartbroken but had given his word."
+    },
+    {
+      "title": "An old memory",
+      "text": "As Rama left, Dasharatha remembered a long-ago accident in which he had hurt a young ascetic, later remembered as Shravana. The boy's parents had warned that he too would suffer losing a son."
+    },
+    {
+      "title": "The king's last days",
+      "text": "Dasharatha missed Rama deeply and died of sadness soon after. His story is told as a reminder to think carefully before making promises."
+    }
+  ],
+  "teaches": [
+    "Keeping your word, and thinking before promising",
+    "Love between parents and children",
+    "Actions have consequences"
+  ],
+  "symbol": "sun",
+  "emblems": ["Royal chariot", "Sacred fire of the Putrakameshti sacrifice"],
+  "family": [
+    {
+      "relation": "Eldest queen",
+      "name": "Kaushalya",
+      "slug": "kaushalya"
+    },
+    {
+      "relation": "Queen",
+      "name": "Sumitra",
+      "slug": "sumitra"
+    },
+    {
+      "relation": "Queen",
+      "name": "Kaikeyi",
+      "slug": "kaikeyi"
+    },
+    {
+      "relation": "Son",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Son",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Son (twin)",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Son (twin)",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Daughter in some versions",
+      "name": "Shanta"
+    },
+    {
+      "relation": "Priest of the sacrifice",
+      "name": "Rishyashringa",
+      "slug": "rishyashringa"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas (Tulsidas)",
+    "Dasaratha Jataka (Buddhist)",
+    "Paumachariya (Jain)"
+  ],
+  "places": ["Ayodhya", "Sarayu river", "Darvan Lake (Ambedkar Nagar)", "Anga"],
+  "festivals": ["Rama Navami", "Ramlila"],
+  "facts": [
+    {
+      "text": "According to later tradition his first name was Nemi. He became Dasharatha, which means ten chariots, because his chariot could roll in all ten directions.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Dasharatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ayodhya Kanda counts about 350 junior wives besides the three chief queens, whom later texts place in the lands of Kosala, Kashi and Kekaya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dasharatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana's account, Kaushalya received half of the payasam, Sumitra a quarter, Kaikeyi an eighth, and Sumitra a second eighth after the king thought again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dasharatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki, young prince Dasharatha hunted by the Sarayu and shot at the gurgle of a pitcher filling, thinking an elephant was drinking. The arrow struck a young ascetic.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Buddhist Dasaratha Jataka, King Dasaratha of Varanasi sends his son Rama-Pandita away for twelve years but dies after nine, and the Buddha is said to have been Rama-Pandita in a past life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dasaratha_Jataka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Dasharatha died, the ministers laid his body in a trough of oil, because they would not cremate a king without a son present. Bharata was away in Kekaya.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A popular tale says Dasharatha confronted Shani to stop him entering Rohini, which was feared to bring twelve years of famine, then praised him in a hymn and won his blessing.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sanaischara_Stotram_by_Dasaratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Rama left, Sumantra told the king, as Valmiki has it, that the horses wept warm tears on the way back and would not move forward.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas, Dasharatha sees that the hair near his ears has turned white and takes it as old age urging him to name Rama crown prince.",
+      "kind": "story",
+      "source": "https://www.dailyexcelsior.com/raja-dashrath-chooses-his-successor/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the fire trial, Dasharatha comes down from heaven in a celestial car to see Rama, tells Sita not to be angry at the ordeal, and agrees when Rama asks him to show grace to Bharata and Kaikeyi.",
+      "kind": "story",
+      "source": "https://greenmesg.org/bharatavarsha/scriptures/itihasas/valmiki_ramayana/yuddha_kanda/lanka-dasharatha_meeting_rama.php",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's telling, Rishyashringa, the sage who led Dasharatha's sacrifice, grew up never having seen a woman, and was brought to Anga to end a drought, where he married Shanta.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Sita put on bark clothes, Dasharatha collapsed and called his own boons a burden that was consuming him, like a bamboo that dies after it flowers.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423985.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "For Dasharatha's great sacrifice, eighteen pillars of different woods were covered in gold, and the fire pit was shaped like a golden eagle with wings set with gems.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423864.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the sacrifice Dasharatha gave his whole kingdom to the priests, who handed it back and asked for gold and silver instead; a needy visitor even received the king's diamond bracelet.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423864.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Announcing Rama as his successor, Dasharatha says in Valmiki that he has spent sixty thousand years under the royal parasol, and that his body is old and wants rest.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423949",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "For the council on Rama's succession, Dasharatha invited vassal kings from afar but, as Valmiki tells it, did not inform the rulers of Kekaya or Mithila, saying they would hear of it afterwards.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423948",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Rama came to say goodbye, the king rose and ran toward him with his wives, but fell unconscious before reaching him. Rama and Lakshmana carried him to a couch.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423981",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As Rama's chariot rolled away, Dasharatha came out of the palace barefoot among his queens, calling after it while the whole city ran behind.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423987",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Northern versions of the Ramayana say Dasharatha had a daughter, Shanta, whom his friend Romapada of Anga adopted; she later married the sage Rishyashringa.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dying at midnight, Dasharatha told Kaushalya he could no longer see her and asked her to touch him, saying his senses were going out like a lamp that has used up its oil. She and Sumitra were beside him.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424041",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Dasharatha mean?",
+      "options": ["Ten chariots", "Ten rivers", "Ten warriors", "Ten lamps"],
+      "answer": 0,
+      "why": "His chariot could travel in all ten directions."
+    },
+    {
+      "q": "Which sage led the Putrakameshti sacrifice?",
+      "options": ["Valmiki", "Rishyashringa", "Vishvamitra", "Agastya"],
+      "answer": 1,
+      "why": "Rishyashringa led the rite that gave Dasharatha four sons."
+    },
+    {
+      "q": "In a popular telling, what did Kaikeyi use to hold the chariot wheel?",
+      "options": ["A rope", "Her thumb", "A stone", "A stick"],
+      "answer": 1,
+      "why": "In that telling she pushed her thumb into the hole where the axle bolt had slipped out."
+    },
+    {
+      "q": "Whom did Dasharatha accidentally hurt, bringing a curse? Later tradition names him.",
+      "options": ["Shravana", "Jatayu", "Hanuman", "Sugriva"],
+      "answer": 0,
+      "why": "The young ascetic's blind parents cursed him to suffer the loss of a son; later tradition calls the ascetic Shravana."
+    },
+    {
+      "q": "In the Buddhist Dasaratha Jataka, where is the king?",
+      "options": ["Ayodhya", "Lanka", "Varanasi", "Taxila"],
+      "answer": 2,
+      "why": "In that Buddhist telling the king rules in Varanasi."
+    }
+  ],
+  "related": [
+    "rama",
+    "kaushalya",
+    "kaikeyi",
+    "sumitra",
+    "bharata-ramayana",
+    "lakshmana",
+    "shatrughna",
+    "rishyashringa",
+    "manthara"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dasharatha",
+    "putrakameshti": "https://en.wikipedia.org/wiki/Putrakameshti",
+    "shravana": "https://en.wikipedia.org/wiki/Shravana_Kumara",
+    "jataka": "https://en.wikipedia.org/wiki/Dasaratha_Jataka",
+    "shanta": "https://en.wikipedia.org/wiki/Shanta_(Ramayana)",
+    "oil": "https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm",
+    "shani": "https://hindupedia.com/en/Sanaischara_Stotram_by_Dasaratha",
+    "horses": "https://www.valmikiramayan.net/utf8/ayodhya/sarga59/ayodhyasans59.htm",
+    "tulsidas": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+    "hair": "https://www.dailyexcelsior.com/raja-dashrath-chooses-his-successor/",
+    "spirit": "https://greenmesg.org/bharatavarsha/scriptures/itihasas/valmiki_ramayana/yuddha_kanda/lanka-dasharatha_meeting_rama.php",
+    "rishya": "https://en.wikipedia.org/wiki/Rishyasringa",
+    "ayodhya3": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423950.html",
+    "ayodhya6": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423953.html",
+    "ayodhya12": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423959.html",
+    "ayodhya38": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423985.html",
+    "ayodhya2": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423949",
+    "ayodhya1": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423948",
+    "ayodhya34": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423981",
+    "ayodhya40": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423987",
+    "shantapage": "https://en.wikipedia.org/wiki/Shanta",
+    "ayodhya64": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424041"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f4e3b8",
+    "c2": "#ead6c8"
+  },
+  "order": 500
+}

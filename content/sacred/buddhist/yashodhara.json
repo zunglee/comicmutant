@@ -1,0 +1,240 @@
+{
+  "slug": "yashodhara",
+  "name": "Yashodhara",
+  "aka": ["Bhaddakaccana", "Bimbadevi", "Rahulamata", "Gopa"],
+  "native": "यशोधरा",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Wife of Siddhartha and nun in the Buddha's order",
+  "summary": "Yashodhara was the wife of Prince Siddhartha and mother of Rahula. Buddhist tradition says she later became a nun and an arahant, and her own name varies from text to text.",
+  "about": "In Buddhist tradition, Yashodhara was a Koliya-Shakya noblewoman who married her cousin Siddhartha and bore their only child, Rahula. The earliest Pali sources seem to call her Bhaddakaccana, and the name Yashodhara, meaning 'bearer of glory', appears later. Other traditions name the Buddha's wife Gopa, Mrigaja or Manodhara, and some scholars think these may be one woman with several titles. After her husband left to seek awakening, stories describe her grief, her plain living and her patient waiting. When their son entered the order, she and Mahapajapati Gotami's followers joined the nuns, and she is remembered as an arahant. Pali tradition lists her among nuns with great supernormal powers. She is said to have died about two years before the Buddha, around the age of 78. Her story is told in poems, murals and recent books.",
+  "kidSummary": "Yashodhara was the wife of Prince Siddhartha and the mother of Rahula. She was sad when Siddhartha left home, but she lived simply and bravely. Later she became a Buddhist nun and is remembered as wise and strong.",
+  "story": [
+    {
+      "title": "A prince's wife",
+      "text": "Yashodhara was a noble young woman of the Koliya and Shakya families. She married Prince Siddhartha when they were both young, and they had a son, Rahula."
+    },
+    {
+      "title": "Siddhartha leaves",
+      "text": "One night Siddhartha left the palace to search for wisdom. Yashodhara was left to raise their baby. Stories say she was deeply sad but patient."
+    },
+    {
+      "title": "A simple life",
+      "text": "Stories say she took off her jewels, wore plain yellow clothes and ate only one meal a day. She turned down princes who wanted to marry her."
+    },
+    {
+      "title": "Sending Rahula",
+      "text": "When the Buddha came back to Kapilavastu, she sent young Rahula to ask for his inheritance. She trusted that the Buddha would come to her if she had earned his respect."
+    },
+    {
+      "title": "Joining the nuns",
+      "text": "After Rahula became a monk, Yashodhara joined the nuns with Mahapajapati Gotami. She is remembered as an arahant, a person fully free of suffering."
+    }
+  ],
+  "teaches": [
+    "Patience in times of sadness",
+    "Living simply with a steady heart",
+    "It is never too late to begin the path"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Five lotuses (past-life story)", "Plain yellow robe"],
+  "family": [
+    { "relation": "Husband", "name": "Siddhartha Gautama, the Buddha", "slug": "gautama-buddha" },
+    { "relation": "Son", "name": "Rahula", "slug": "rahula" },
+    { "relation": "Father-in-law", "name": "Suddhodana", "slug": "suddhodana" },
+    {
+      "relation": "Mother-in-law (and aunt)",
+      "name": "Mahapajapati Gotami",
+      "slug": "mahapajapati-gotami"
+    }
+  ],
+  "texts": [
+    "Apadana (Yasodhara Theri)",
+    "Buddhavamsa",
+    "Anguttara Nikaya",
+    "Great Chronicle of Buddhas"
+  ],
+  "places": ["Kapilavastu", "Wat Pho (Bangkok)", "Wat Kasattrathirat (Ayutthaya)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Pali Canon never uses the name Yashodhara, only Bhaddakaccana, in two places. Early translations mostly say Gopa, and Yashodhara became the favourite name only in texts from the late 5th century on.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7
+    },
+    {
+      "text": "In chapter 13 of the Lotus Sutra the Buddha predicts that Yashodhara will become a buddha herself in the future, as he does for Mahapajapati Gotami too.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says she was born on the same day of the month of Vaishakha as Siddhartha.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She married Siddhartha when both were 16, and her only child, Rahula, was born when she was 29. In the tradition the prince left the palace on the very night of the birth.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Chinese collection of the Buddha's past acts says Yashodhara and Siddhartha met in an earlier life, when a girl offered five lotuses and asked to marry him in future lives.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Rahula's birth stories include a legend where Yashodhara proves he is Siddhartha's son by placing him on a stone in a pond, and he floats as she had vowed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "In Chinese avadana-style tales from the 5th century CE onward, her purity is doubted and she faces a test by fire. She makes a vow of truth and the flames turn into a pond. Scholar Reiko Ohnuma reads the fire as a symbol for the Buddha's awakening.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "Some texts say Yashodhara carried Rahula for six years, and explain it as the result of an unkind deed in a past life, when she left her mother to carry an extra pail of milk.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hearing her husband lived a holy life, she is said to have put aside her jewellery, worn a plain yellow robe and eaten one meal a day. She turned down offers of support from relatives and proposals from princes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the Buddha came home she did not go to him. She sent Rahula to ask for his inheritance, sure that if she had any virtue he would come to her. He came, and he praised her patience.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7
+    },
+    {
+      "text": "The Jinacarita says Yashodhara saw the Buddha walking for alms through Kapilavastu from her palace window. She called young Rahula over, pointed him out as his father, then went to tell Suddhodana.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/27-Suddhodana.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mulasarvastivada texts say a false rumour that Siddhartha had died from his austerities left her desperate. When news of his awakening arrived she was overjoyed, and Rahula was born.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8
+    },
+    {
+      "text": "Long ago, under Buddha Padumuttara, she aspired to be named foremost among nuns in great supernormal power. In the time of Gotama Buddha, at Jetavana, he named her exactly that.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/44-11.htm",
+      "interest": 8
+    },
+    {
+      "text": "The Great Chronicle names only four disciples who could recall past lives across one incalculable period plus 100,000 aeons: Sariputta, Maha Moggallana, Bakula and her. Others reach back about 100,000 aeons.",
+      "kind": "text",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/44-11.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She was ordained as a nun with the 500 women who followed Mahapajapati Gotami, the first nuns' order. She is said to have died at 78, two years before the Buddha passed away.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7
+    },
+    {
+      "text": "The Shakya and Koliya clans were branches of one Ikshvaku line, and no other families were seen as their equals, so the two royal families married only among themselves.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7
+    },
+    {
+      "text": "Scholar Thomas Rhys Davids suggested the Buddha had only one wife who gathered several titles over time. Later stories may have turned names like Gopa, Mrigaja and Manodhara into separate wives.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 7
+    },
+    {
+      "text": "Just before leaving, the prince looked once at Yashodhara and the newborn Rahula. Fearing his resolve might waver, he did not pick up his son and left as he had planned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Great Chronicle says five Sakyan princesses whose husbands had become monks after the Great Assembly Sutta joined Mahapajapati Gotami as nuns, in the same group as Yashodhara.",
+      "kind": "history",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/44-11.htm",
+      "interest": 7
+    },
+    {
+      "text": "One poetic reading says she always knew his goal was buddhahood and had shared his efforts in countless past lives. What she could not grasp was why this once he left without a word to her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yasodhara",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was the name of Yashodhara and Siddhartha's son?",
+      "options": ["Nanda", "Ananda", "Devadatta", "Rahula"],
+      "answer": 3,
+      "why": "Their son was Rahula, who later became a Buddhist novice monk."
+    },
+    {
+      "q": "What does the name Yashodhara roughly mean?",
+      "options": ["Bearer of glory", "Queen of the forest", "River of milk", "Lotus pond"],
+      "answer": 0,
+      "why": "It comes from words for glory and bearing, so it is read as 'bearer of glory'."
+    },
+    {
+      "q": "What is the earliest Pali name linked to the Buddha's wife?",
+      "options": ["Gotami", "Bhaddakaccana", "Khema", "Maya"],
+      "answer": 1,
+      "why": "Pali sources use Bhaddakaccana; Yashodhara appears as a later name."
+    },
+    {
+      "q": "What did Yashodhara send Rahula to ask for?",
+      "options": ["Food", "A new robe", "His inheritance", "A blessing song"],
+      "answer": 2,
+      "why": "Tradition says she sent Rahula to ask his father for his inheritance."
+    },
+    {
+      "q": "What did she become after Rahula joined the order?",
+      "options": ["A queen", "A teacher of kings", "A potter", "A Buddhist nun"],
+      "answer": 3,
+      "why": "She joined the order of nuns and is remembered as an arahant."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "rahula",
+    "suddhodana",
+    "mahapajapati-gotami",
+    "maya-mother-of-the-buddha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yasodhara",
+    "rahula": "https://en.wikipedia.org/wiki/Rahula",
+    "chronicle": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/44-11.htm",
+    "jinacarita": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/27-Suddhodana.htm"
+  },
+  "depth": "full",
+  "palette": { "c1": "#EBD3C5", "c2": "#C8D9C9" },
+  "years": "c. 6th–5th century BCE",
+  "order": 3
+}

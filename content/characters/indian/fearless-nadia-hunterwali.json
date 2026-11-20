@@ -1,0 +1,319 @@
+{
+  "slug": "fearless-nadia-hunterwali",
+  "name": "Fearless Nadia (Hunterwali)",
+  "realName": "Mary Ann Evans, who played Princess Madhuri alias Hunterwali",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Wadia Movietone",
+  "summary": "India's first screen action heroine: Mary Ann Evans as 'Fearless Nadia', the masked whip-wielding Princess Madhuri of the 1935 film Hunterwali, a stunt-film star for decades.",
+  "origin": "Hunterwali (1935) was made by Wadia Movietone in Bombay. It follows a princess named Madhuri who secretly becomes a masked crusader, Hunterwali, 'the woman with the whip', to protect the poor and fight a wicked minister. Australian-born Mary Ann Evans, known as Nadia, played her and did her own stunts. The film grew out of J. B. H. Wadia's story and Homi Wadia's direction, and it made Nadia the best-known stunt star in India.",
+  "creators": [
+    "Homi Wadia (director, screenplay)",
+    "J. B. H. Wadia (story, producer)",
+    "Joseph David (dialogues)",
+    "Mary Ann Evans, known as Fearless Nadia (lead)"
+  ],
+  "firstAppearance": {
+    "title": "Hunterwali",
+    "issue": "1935 Hindi film",
+    "year": 1935
+  },
+  "powers": [
+    "Whip-cracking and fist-fighting",
+    "Horse riding and leaps from moving carriages",
+    "Circus acrobatics: cartwheels and splits",
+    "Jumping from trains and swinging from chandeliers",
+    "Masked identity as a protector of the poor"
+  ],
+  "affiliations": ["Wadia Movietone", "Cunnoo (sidekick in the film)"],
+  "storyline": [
+    {
+      "era": "Hunterwali",
+      "years": "1935",
+      "title": "A princess in a mask",
+      "beat": "Princess Madhuri hides her identity as Hunterwali to protect ordinary people and defeat the evil minister Ranamal."
+    },
+    {
+      "era": "Stunt queen",
+      "years": "1936-1940",
+      "title": "Train and carriage fights",
+      "beat": "Nadia follows up with films like Miss Frontier Mail and Diamond Queen, repeating the formula of leaps, fights and rescues."
+    },
+    {
+      "era": "Sequel",
+      "years": "1943",
+      "title": "Hunterwali Ki Beti",
+      "beat": "Hunterwali's sequel, Hunterwali Ki Beti, is another blockbuster, and Wikipedia's pages on both films describe Hunterwali as the first Indian film to get a sequel."
+    },
+    {
+      "era": "Later years",
+      "years": "1968",
+      "title": "Khiladi",
+      "beat": "In her late 50s she appears in Khiladi, a James Bond spoof."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Before stardom she worked as a salesgirl at the Army & Navy Store in Bombay.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her early parts were small: a slave girl in Desh Deepak and Princess Parizaad in Noor-e-Yaman.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The BBC once called her perhaps the first foreigner to gain cult status in Bollywood.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Wadia Movietone made its last film in 1941, and V. Shantaram bought the studio in 1942 to found Rajkamal Kalamandir.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the word Hunterwali refer to?",
+      "options": ["A woman with a whip", "A bird hunter", "A forest guard", "A horse rider"],
+      "answer": 0,
+      "why": "Hunter is the English word for a whip, so Hunterwali means the woman with the whip."
+    },
+    {
+      "q": "Which Wadia Movietone film made Nadia a star?",
+      "options": ["Diamond Queen", "Hunterwali", "Khiladi", "Miss Frontier Mail"],
+      "answer": 1,
+      "why": "Hunterwali (1935) was her first lead role and a runaway hit."
+    },
+    {
+      "q": "Where was Fearless Nadia born?",
+      "options": ["Perth, Australia", "Bombay", "Peshawar", "Calcutta"],
+      "answer": 0,
+      "why": "Mary Ann Evans was born in Perth, Western Australia."
+    },
+    {
+      "q": "According to Wikipedia, what is Hunterwali (1935) remembered as, thanks to its 1943 sequel Hunterwali Ki Beti?",
+      "options": [
+        "The first Indian film to get a sequel",
+        "The first colour film",
+        "The first talkie",
+        "The first film shot abroad"
+      ],
+      "answer": 0,
+      "why": "Wikipedia's pages on both Hunterwali and Hunterwali Ki Beti describe it as the first Indian film to get a sequel."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#c9962b",
+      "c2": "#2a1a0a",
+      "c3": "#8d6e63"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Black-and-white, boots on, whip cracking."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hunterwali",
+    "actor": "https://en.wikipedia.org/wiki/Fearless_Nadia",
+    "studio": "https://en.wikipedia.org/wiki/Wadia_Movietone",
+    "director": "https://en.wikipedia.org/wiki/Homi_Wadia",
+    "feature": "https://www.aljazeera.com/features/2018/1/8/why-google-honours-fearless-nadia-today",
+    "sequel": "https://en.wikipedia.org/wiki/Hunterwali_Ki_Beti"
+  },
+  "timeline": [
+    {
+      "year": 1935,
+      "kind": "screen",
+      "title": "Hunterwali released",
+      "note": "The 164-minute black-and-white film runs for 25 weeks and makes Nadia a cult star."
+    },
+    {
+      "year": 1936,
+      "kind": "screen",
+      "title": "Miss Frontier Mail",
+      "note": "Billed as the 'Indian Pearl White', Nadia fights a gang of bandits on top of a speeding train."
+    },
+    {
+      "year": 1943,
+      "kind": "screen",
+      "title": "Hunterwali Ki Beti",
+      "note": "The sequel is another blockbuster, and Wikipedia's pages on both films credit Hunterwali as the first Indian film to get a sequel."
+    },
+    {
+      "year": 1968,
+      "kind": "screen",
+      "title": "Khiladi",
+      "note": "Nadia plays in a James Bond spoof in her late 50s."
+    },
+    {
+      "year": 1993,
+      "kind": "legacy",
+      "title": "Documentary revives interest",
+      "note": "Riyad Vinci Wadia's film Fearless: The Hunterwali Story is shown at the Berlin festival and leads to a book on her life."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Google Doodle",
+      "note": "Google marks her 110th birthday on 8 January with a doodle drawn by Devaki Neogi."
+    }
+  ],
+  "heat": 35,
+  "facts": [
+    {
+      "text": "Mary Ann Evans was born on 8 January 1908 in Perth, Western Australia, to a Scottish father and a Greek mother. Brought to Bombay at five, she moved to Peshawar after her father died in the First World War and learned riding, hunting, fishing and shooting.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Fearless_Nadia",
+      "interest": 8
+    },
+    {
+      "text": "An Armenian fortune teller told her she needed a name starting with N for success. She chose Nadia because it sounded exotic.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Fearless_Nadia",
+      "interest": 9
+    },
+    {
+      "text": "Hunterwali was inspired by Hollywood's Robin Hood (1922) with Douglas Fairbanks, while Nadia took cues from the serial The Perils of Pauline to do her own stunts.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    },
+    {
+      "text": "The film took six months to make on a budget of Rs 80,000, a fortune then. With no distributors interested, the Wadias spent heavily on publicity, and the film ran for 25 weeks, making record earnings for the year and Wadia Movietone's first big success.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    },
+    {
+      "text": "The line announcing 'from today I am Hunterwali' in the third reel drew the loudest cheers, and her yell 'hey-y-y' became a catchphrase.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "Hunterwali's fame spawned products with her name, including whips, belts, playing cards, chappals, bags, bangles and matchboxes. Wadia later regretted not patenting the word.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 9
+    },
+    {
+      "text": "The 'wali' suffix became a trend, with film titles like Cyclewali, Chabukwali and Motorwali.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "After Hunterwali, Nadia became the highest-paid actress in Indian cinema for the next two decades.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "She played in more than 38 films and was famous for leaping from speeding trains, swinging from chandeliers and taming lions.",
+      "kind": "powers",
+      "source": "https://www.aljazeera.com/features/2018/1/8/why-google-honours-fearless-nadia-today",
+      "interest": 9
+    },
+    {
+      "text": "Kangana Ranaut's character Julia in Vishal Bhardwaj's film Rangoon (2017) was inspired by Nadia.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Rangoon_(2017_Hindi_film)",
+      "interest": 7
+    },
+    {
+      "text": "In Miss Frontier Mail (1936) she was billed as the 'Indian Pearl White'. The film's highlight is her stunt work on top of a speeding train, fighting a gang of railway bandits.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Miss_Frontier_Mail",
+      "interest": 8
+    },
+    {
+      "text": "In the Hunterwali plot, the masked heroine defeats 20 soldiers in one sweep of her whip. She even steals a horse called Punjab from the young man Jaswant, then gives it back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "Before films she trained in ballet under a Russian teacher, Madame Astrova, and also worked in a circus. Her troupe danced for British soldiers and Indian royalty, and the cartwheels and splits she mastered later helped her stunts.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Fearless_Nadia",
+      "interest": 7
+    },
+    {
+      "text": "Homi Wadia directed Hunterwali. Nadia married him in 1961, more than 25 years after the film, and became Nadia Wadia.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Fearless_Nadia",
+      "interest": 7
+    },
+    {
+      "text": "A CNN-IBN list marking a century of Indian cinema named Hunterwali the best-loved character in Bollywood, according to Wikipedia's page on the film.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "A famous scene shows Hunterwali lifting a man over her head, in the middle of a chase, while her sidekicks tumble and pirouette around her. Scenes like it became a staple of her later films.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "Hunterwali's masked alter ego is billed as the protector of the poor and punisher of evildoers, and Wikipedia's production notes describe the blue-eyed, blonde Nadia as playing her in a male-style disguise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    },
+    {
+      "text": "Nadia's Hindi was heavily accented and she struggled with dialogue, yet audiences adored her stunts on trains, horse carriages and with animals, and she became a huge star after Hunterwali.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 8
+    },
+    {
+      "text": "In the plot, the villain Ranamal has locked up the king and wants to marry the princess, while Madhuri herself is drawn to a young man named Jaswant, who later joins her to defeat Ranamal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    },
+    {
+      "text": "Hunterwali Nadia is described as a feminist icon of Hindi cinema, a heroine who challenged the idea that action belonged to men. Biographer Dorothee Wenner calls her a radical feminist actress.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    },
+    {
+      "text": "In April 2013, during the centenary festival of Indian cinema in Delhi, Hunterwali was screened in a special tent cinema, alongside the 1931 silent film Diler Jiger.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hunterwali",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Fearless Nadia was an Australian-born stunt star in India. In the 1935 film Hunterwali she played a princess who wore a mask, cracked a whip and rescued poor people from a wicked minister. She did her own stunts, from leaping off trains to swinging from chandeliers.",
+  "story": [
+    {
+      "title": "A princess in secret",
+      "text": "Princess Madhuri hides her real identity so she can help ordinary people who are being treated badly."
+    },
+    {
+      "title": "The mask",
+      "text": "She puts on a mask and becomes Hunterwali, the woman with the whip."
+    },
+    {
+      "title": "The whip",
+      "text": "With her whip, her fists and her horse, she rescues the poor and stands up to the wicked minister Ranamal."
+    },
+    {
+      "title": "A big hit",
+      "text": "The film runs for 25 weeks, and shops sell Hunterwali whips, belts and bangles."
+    },
+    {
+      "title": "A first",
+      "text": "The sequel Hunterwali Ki Beti comes out in 1943, and Wikipedia calls Hunterwali the first Indian film to get one."
+    }
+  ]
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "jamadagni",
+  "name": "Jamadagni",
+  "aka": ["Jamadagnya", "Jamdagni", "Yamadaggi (Pali)"],
+  "native": "जमदग्नि",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage of the Saptarishi and father of Parashurama",
+  "summary": "Jamadagni is a fiery-named sage of the Bhrigu line. Puranic lists count him among the seven sages of our present age, and the epics know him as the father of Parashurama.",
+  "about": "Many Puranas and the Mahabharata describe Jamadagni as a sage of the Bhrigu family, born to Richika and Satyavati. His name is glossed as 'great fire'. Tradition says he married Renuka and had five sons, the youngest being Rama, later called Parashurama. Several texts tell of his patience: in the Mahabharata he stays calm even when Dharma tests him in the form of Anger. The Brahmanda Purana and other texts tell the painful story of Renuka, while the Padma Purana and others tell how the king Kartavirya Arjuna took his wish-granting cow, which set off Parashurama's wars. Puranic lists place him in the Saptarishi of the present Vaivasvata age. Temples to him stand in Uttarakhand, and the tellings differ in details.",
+  "kidSummary": "Jamadagni was a wise sage whose name means 'great fire'. He lived in a forest hermitage with his wife Renuka and five sons, and he had a magical cow that gave anything asked. He was so patient that even Anger could not upset him. His youngest son became the famous Parashurama.",
+  "story": [
+    {
+      "title": "A sage with a great-fire name",
+      "text": "In the Puranas, Jamadagni is born to the sage Richika and Satyavati. He grows up learning the Vedas and the skills of weapons, and sets up a hermitage by the river Narmada with his wife Renuka."
+    },
+    {
+      "title": "Anger in the milk",
+      "text": "In the Mahabharata, Dharma comes to test Jamadagni disguised as Anger and slips into a pot of milk from the sacred cow. Jamadagni drinks the milk and stays perfectly calm, so Dharma gives him a blessing."
+    },
+    {
+      "title": "The sun and the umbrella",
+      "text": "The Mahabharata also says the hot sun troubled him, so he shot arrows at the sky. Surya, disguised as a Brahmin, calmed him and gave sandals and an umbrella for everyone to use."
+    },
+    {
+      "title": "The wonderful cow",
+      "text": "A king named Kartavirya Arjuna visited the hermitage and was fed a royal feast by Jamadagni's cow. The king wanted the cow, Jamadagni refused, and the cow was taken by his minister."
+    },
+    {
+      "title": "A great loss",
+      "text": "The king's minister, Chandragupta, took the cow by force. When Jamadagni followed after her, the minister struck him down. Renuka beat her chest 21 times in grief, and Parashurama vowed to act against the warrior kings."
+    },
+    {
+      "title": "The son who returned it",
+      "text": "Before the cremation, the sage Shukra arrived and revived Jamadagni with the Mritasanjivani mantra. Parashurama then fought Kartavirya at the gates of Mahishmati and brought the cow Kamadhenu home."
+    }
+  ],
+  "teaches": [
+    "Patience, even when tested",
+    "Do not take what belongs to someone else",
+    "Knowledge grows with calm practice"
+  ],
+  "symbol": "flame",
+  "emblems": [
+    "Kamadhenu (wish-granting cow)",
+    "Umbrella and sandals (gift of Surya)",
+    "Pot of milk (Dharma's test)"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Richika"
+    },
+    {
+      "relation": "Mother",
+      "name": "Satyavati"
+    },
+    {
+      "relation": "Wife",
+      "name": "Renuka"
+    },
+    {
+      "relation": "Son",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    },
+    {
+      "relation": "Maternal uncle",
+      "name": "Vishvamitra",
+      "slug": "vishvamitra"
+    },
+    {
+      "relation": "Ancestor",
+      "name": "Bhrigu",
+      "slug": "bhrigu"
+    }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Brahmanda Purana",
+    "Bhagavata Purana",
+    "Padma Purana",
+    "Vinaya Pitaka (Pali mention)"
+  ],
+  "places": ["Narmada riverbank (hermitage)", "Thaan, Uttarkashi", "Janapav hills"],
+  "festivals": ["Parashurama Jayanti"],
+  "facts": [
+    {
+      "text": "In the Mahabharata, Dharma comes disguised as Anger and hides in a pot of milk from the wish-granting cow. Jamadagni drinks it and stays calm, so Dharma blesses him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says a hot sun annoyed him, so he shot arrows at the sky. Surya, as a Brahmin, gave him sandals and an umbrella, tools people have used ever since.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "His father Richika is said to have got 1,000 white horses with black ears with Varuna's help, to win Satyavati's hand from her father, King Gadhi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a Puranic tale, Satyavati and her mother swapped two bowls of mantra-blessed milk-rice, so her own son would be a warrior. She prayed, and the warrior nature passed to her grandson Parashurama, leaving Jamadagni a sage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Satyavati's mother's son was Kaushika, later the sage Vishvamitra, which makes Vishvamitra Jamadagni's maternal uncle.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jamadagni is said to have received Vishnu's celestial bow, Sharanga, from his father Richika. After Jamadagni's death, Parashurama inherited it and set out on his twenty-one expeditions.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to the Brahmanda Purana, Jamadagni ordered his sons to kill Renuka. Four refused and were exiled, but Parashurama obeyed, then used a boon from his father to bring her back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Puranas, the Haihaya king Kartavirya Arjuna was said to have a thousand arms. His minister offered ten million cows or half the kingdom for Jamadagni's cow, and the sage refused.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Renuka found Jamadagni struck down by the king's minister, bloodied and nearly lifeless, she beat her chest 21 times. Parashurama then vowed to travel the world 21 times against warrior kings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As Jamadagni was about to be cremated, the sage Shukra arrived and revived him with the Mritasanjivani mantra, the knowledge of bringing the dead back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Pali Mahavagga, the Buddha honours Yamadaggi, the Pali form of Jamadagni, as one of the original seers to whom the Vedas were revealed in their true form.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Padma Purana, Kamadhenu herself defeats Kartavirya Arjuna and his army when he tries to seize her, then flies to heaven. In anger the king attacks Jamadagni.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Brahma Vaivarta Purana the celestial cow, called Kapila there, creates weapons and an army that help Jamadagni beat the king again and again, until the king uses a divine spear from Dattatreya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A lost archery text, the Aushanasa Dhanurveda, was said to be a conversation between Jamadagni and the sage Ushanas, also called Shukra, about the exercises of warfare.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He is said to have visited many holy places before reaching King Prasenajit's palace. He fell in love with the princess Renuka, and they had five sons: Rumanvan, Suhotra, Vasu, Vishvavasu and Rama.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Later, while Parashurama was away on penance, Shurasena, a son of Kartavirya Arjuna, and his men beheaded Jamadagni and carried off his head so that he could not be revived again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jamadagni",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Brahmanda Purana, Kamadhenu builds a whole city to house Kartavirya Arjuna's army when the king visits the hermitage. The king's minister Chandragupta then talks him into seizing the cow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the earliest version, in the Mahabharata, the thousand-armed king destroys the hermitage and takes Kamadhenu's calf rather than the cow. Parashurama kills him to get the calf back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ramayana tells a very similar cow tale about Vasishtha and King Vishvamitra, who was Jamadagni's own uncle. There the cow is called Sabala and the king wants her after a banquet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brahmanda Purana says the cow Jamadagni kept, Sushila, was a gift from Surabhi, the divine cow who rules the cattle-realm Goloka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Jamadagni's name mean?",
+      "options": ["Great fire", "Golden river", "Bright moon", "Silent bird"],
+      "answer": 0,
+      "why": "His name is explained as great fire."
+    },
+    {
+      "q": "Who is Jamadagni's famous son?",
+      "options": ["Hanuman", "Parashurama", "Arjuna", "Drona"],
+      "answer": 1,
+      "why": "Parashurama is the sage's youngest son."
+    },
+    {
+      "q": "What did Surya give Jamadagni after he shot arrows at the sun?",
+      "options": ["A crown", "A chariot", "Sandals and an umbrella", "A bow"],
+      "answer": 2,
+      "why": "The Mahabharata says Surya gave sandals and an umbrella."
+    },
+    {
+      "q": "Who tested Jamadagni by hiding in a pot of milk?",
+      "options": ["Indra disguised as a cow", "Dharma disguised as Anger", "Brahma", "Varuna"],
+      "answer": 1,
+      "why": "Dharma, as Anger, was calmly met by the sage."
+    },
+    {
+      "q": "Which river bank did Jamadagni and Renuka do tapasya on?",
+      "options": ["Ganga", "Godavari", "Narmada", "Kaveri"],
+      "answer": 2,
+      "why": "The Puranas place their tapasya on the Narmada."
+    }
+  ],
+  "related": [
+    "parashurama",
+    "vishvamitra",
+    "bhrigu",
+    "kamadhenu",
+    "surya",
+    "kashyapa",
+    "bharadvaja"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jamadagni",
+    "saptarishi": "https://en.wikipedia.org/wiki/Saptarishi",
+    "parashurama": "https://en.wikipedia.org/wiki/Parashurama",
+    "vishnuPurana": "https://web.archive.org/web/2023/https://sacred-texts.com/hin/vp/vp075.htm",
+    "kamadhenu": "https://en.wikipedia.org/wiki/Kamadhenu"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f6dfc0",
+    "c2": "#e0a96f"
+  }
+}

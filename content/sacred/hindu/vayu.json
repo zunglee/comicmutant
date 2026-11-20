@@ -1,0 +1,253 @@
+{
+  "slug": "vayu",
+  "name": "Vayu",
+  "aka": ["Vata", "Pavana", "Anila", "Mukhya Prana"],
+  "native": "वायु",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Vedic god of wind, air and the life-breath",
+  "summary": "Vayu is the Hindu god of wind and breath, a swift messenger of the gods. In the epics he is the father of Hanuman and Bhima, and he guards the north-west direction.",
+  "about": "Vayu is the god of wind, air and breath in Hinduism. In the Rigveda he is born from the breath of the cosmic being Vishvapurusha, and he is closely paired with Indra, as the first of the gods to drink soma. The Upanishads honour him as Prana, the life-breath that keeps every living being moving. Later texts make him a guardian of the north-west, and the epics name him as the father of Hanuman and of Bhima. Followers of the saint Madhva in Dvaita Vedanta give Vayu a special role as Mukhya Prana, saying he appears alongside each incarnation of Vishnu, as Hanuman, Bhima and Madhva himself. Vayu is also known in Buddhist lands, as Fengtian in China and Futen in Japan.",
+  "kidSummary": "Vayu is the Hindu god of wind and breath. In the old hymns he rides a fast chariot, and the stories say he is the father of two famous strong heroes, Hanuman and Bhima. Every time you take a breath or feel a breeze, you could remember Vayu, the god who keeps the air moving.",
+  "story": [
+    {
+      "title": "Breath of the cosmos",
+      "text": "The Rigveda says Vayu was born from the breath of the first cosmic being, Vishvapurusha, so wind and breath began together."
+    },
+    {
+      "title": "First sip of soma",
+      "text": "In the old hymns, Vayu is the first to be offered soma, and he shares the drink with Indra, who rides beside him."
+    },
+    {
+      "title": "A son called Hanuman",
+      "text": "In the Ramayana tradition, Vayu is the father of Hanuman, who grows up to leap across the ocean and carry a mountain of healing herbs."
+    },
+    {
+      "title": "The wind stops",
+      "text": "When the child Hanuman is struck down, Vayu holds back the air from the world. Everyone struggles to breathe, until the gods restore Hanuman and the wind returns."
+    }
+  ],
+  "teaches": [
+    "Life depends on the gentle things we forget, like breath",
+    "A good parent protects a child fiercely",
+    "Everyone in a team depends on each other"
+  ],
+  "symbol": "feather",
+  "emblems": [
+    "Gazelle or deer",
+    "Chariot with white banner",
+    "Mace and goad",
+    "The Vayavyastra weapon"
+  ],
+  "family": [
+    {
+      "relation": "Son (Ramayana tradition)",
+      "name": "Hanuman",
+      "slug": "hanuman"
+    },
+    {
+      "relation": "Son (Mahabharata)",
+      "name": "Bhima",
+      "slug": "bhima"
+    },
+    {
+      "relation": "Close companion in the Rigveda",
+      "name": "Indra",
+      "slug": "indra"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Brihadaranyaka Upanishad",
+    "Chandogya Upanishad",
+    "Garuda Purana",
+    "Ramayana",
+    "Mahabharata"
+  ],
+  "places": ["North-west direction (dikpala)", "Shingon temples in Japan (Futen)"],
+  "festivals": ["Hanuman Jayanti (honours his son)", "Madhva Jayanti (Dvaita tradition)"],
+  "facts": [
+    {
+      "text": "Vata means blown, Vayu means blower and Prana means breathing, so one family of words covers wind, air and the breath of life. The chief Vayu is sometimes called Mukhya Prana.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rigveda hymns picture Vayu's chariot drawn by two, forty-nine or even a thousand horses, with a white banner as his main emblem.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7
+    },
+    {
+      "text": "In the Kena Upanishad, Vayu is sent to learn about a mysterious being, which sets a blade of grass before him. Vayu cannot lift it, and he returns humbled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kena_Upanishad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "As a baby, Bhima fell from his mother Kunti's lap onto a rock. The rock shattered while he stayed unhurt, an early sign of the strength he had from Vayu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Tirumala legend says Vayu and the serpent Sesha once argued. Vayu blew away Mount Meru, which Sesha had wound around, and a part of it landed on Earth as the Venkata hill, where the Tirumala temple stands.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tirumala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata Bhima fought with a celestial bow called Vayavya, a gift from his father Vayu, and with a mace said to have the strength of a hundred thousand maces.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "In the Valmiki Ramayana, Vayu grants Anjana a son through a blessing that does not need a body. Hanuman is thus counted as Vayu's own son and, in the social sense, as the son of the vanara chief Kesari.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Javanese shadow-puppet tales, Hanoman is the disciple and adopted son of Batara Bayu, the Javanese form of Vayu.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    },
+    {
+      "text": "In ancient Iran's Avesta, a wind god named Vayu is shown as mightier than the Beneficent Spirit and even Ohrmazd, who has to ask him for help. Yet the Vedic Vayu has little else in common with him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vayu-Vata",
+      "interest": 8
+    },
+    {
+      "text": "In the Brihadaranyaka Upanishad the gods who run the body's powers argue over who is greatest. When Mukhya Prana starts to leave, the others are pulled off their posts as a strong horse tears out the pegs it is tied to, and they see they depend on him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda describes the Maruts, the storm deities, as born from Vayu's belly.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7
+    },
+    {
+      "text": "Vayu's mount is listed as a gazelle, as well as a chariot drawn by horses.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Followers of the saint Madhva say Vayu comes to Earth whenever Vishnu does: as Hanuman in the Ramayana, as Bhima in the Mahabharata and as Madhva in this age. Some modern scholars question the textual basis of that claim.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 8
+    },
+    {
+      "text": "In another Upanishad episode, Vayu is the only god the attacking demons of sin cannot afflict, and this Vayu is called Mukhya Prana Vayu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7
+    },
+    {
+      "text": "The Kerala town of Guruvayur is named from Guru and Vayu. Tradition says Brihaspati, teacher of the gods, and Vayu carried an idol of Krishna south and installed it there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Guruvayur_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the Pandavas flee the burning house of lac, Bhima, son of Vayu, carries his mother Kunti and his brothers on his shoulders through the forest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the Kauravas poisoned Bhima and threw him into the Ganges, he met the Nagas, serpent beings of the underwater realm, instead of drowning.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Draupadi faints during the search for Arjuna, Bhima calls his son Ghatotkacha, who carries the Pandavas on his shoulders. So the wind god's strength passes down to a grandson.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8
+    },
+    {
+      "text": "In one telling of the child Hanuman's leap at the sun, his father Vayu blows a cold wind on him to protect him from the burning heat.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kushan coins show the wind god Oado, a form of the Iranian wind god Vata, who is related to the Vedic Vayu. He was known in Bactria in Central Asia, far from India.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vayu-Vata",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Vayu the god of?",
+      "options": ["Fire", "Rain", "Wind and breath", "The sea"],
+      "answer": 2,
+      "why": "Vayu is the god of wind, air and breath."
+    },
+    {
+      "q": "Who are Vayu's two famous sons?",
+      "options": ["Rama and Lakshmana", "Hanuman and Bhima", "Arjuna and Karna", "Luv and Kush"],
+      "answer": 1,
+      "why": "The epics call him father of Hanuman and Bhima."
+    },
+    {
+      "q": "Which direction does Vayu guard?",
+      "options": ["South", "East", "North-east", "North-west"],
+      "answer": 3,
+      "why": "As a dikpala, Vayu guards the north-west."
+    },
+    {
+      "q": "What does the word Prana mean?",
+      "options": ["Life-breath", "Rainbow", "Mountain", "Gold"],
+      "answer": 0,
+      "why": "Prana is the breath or life force."
+    },
+    {
+      "q": "In the Rigveda, which god first drinks soma?",
+      "options": ["Brahma", "Agni", "Vayu", "Kubera"],
+      "answer": 2,
+      "why": "Vayu is named the first to drink soma."
+    }
+  ],
+  "related": ["hanuman", "bhima", "indra", "agni", "varuna", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vayu",
+    "hanuman": "https://en.wikipedia.org/wiki/Hanuman",
+    "tirumala": "https://en.wikipedia.org/wiki/Tirumala",
+    "trincomalee": "https://en.wikipedia.org/wiki/Trincomalee",
+    "bhima": "https://en.wikipedia.org/wiki/Bhima",
+    "vayupurana": "https://en.wikipedia.org/wiki/Vayu_Purana",
+    "vayuvata": "https://en.wikipedia.org/wiki/Vayu-Vata",
+    "vasu": "https://en.wikipedia.org/wiki/Vasu",
+    "meru": "https://en.wikipedia.org/wiki/Mount_Meru",
+    "guruvayur": "https://en.wikipedia.org/wiki/Guruvayur_Temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#B5D6E0",
+    "c2": "#E3ECE8"
+  },
+  "order": 60
+}

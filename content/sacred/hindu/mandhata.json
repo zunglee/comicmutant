@@ -1,0 +1,307 @@
+{
+  "slug": "mandhata",
+  "name": "Mandhata",
+  "aka": ["Mandhatri", "Mandhatr", "Yauvanashvi", "Trasadasyu", "Mandhatu (Pali)"],
+  "native": "मान्धाता",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Great king of the Solar dynasty, a world-ruler",
+  "summary": "Mandhata is a king of the Solar dynasty remembered in the Mahabharata, the Puranas and Buddhist Jataka tales. Tradition says he was born in an unusual way from his father, and that he ruled the whole earth.",
+  "about": "Many texts, including the Mahabharata, the Bhagavata Purana and the Pali Jataka collection, speak of Mandhata. In Hindu tradition he is a king of the Solar dynasty and a son of Yuvanashva of Ayodhya. The Mahabharata and Puranas tell that Yuvanashva drank water or ghee prepared for a ritual for his queens, and as a result the king himself carried the child. The Ashvin twins are said to have delivered him, and Indra fed the baby from his finger. The name is explained as a playful word play on that moment. Mandhata is said to have conquered the world in a day, to have performed hundreds of sacrifices, and to be a chakravartin, a universal ruler. The Mahabharata gives him fifty daughters and the Puranas name three sons, Purukutsa, Ambarisha and Muchukunda. In the Buddhist Mandhatu Jataka, he rules in heaven alongside Sakka, then falls through greed. Local tradition at Omkareshwar and the peak Gurla Mandhata also keep his name alive.",
+  "kidSummary": "Mandhata was a great king of the Solar dynasty. The Puranas say his father, King Yuvanashva, drank some blessed water by mistake and Mandhata was born in a very surprising way, then fed by Indra's finger. He grew up to rule the whole earth, and his name lives on in a river island and a Himalayan peak.",
+  "story": [
+    {
+      "title": "A surprising birth",
+      "text": "King Yuvanashva had no child. The Puranas say he drank blessed water meant for his queens, and so Mandhata was born from the king himself, with the Ashvin twins helping."
+    },
+    {
+      "title": "Fed by Indra",
+      "text": "The gods wondered how the baby would eat. Indra put his finger in the baby's mouth, and nectar flowed from it. The name Mandhata is explained as a joke on this."
+    },
+    {
+      "title": "A world-ruling king",
+      "text": "Mandhata grew up to be a mighty king. Texts say he ruled the whole earth, performed many sacrifices and was generous to his people."
+    },
+    {
+      "title": "The rain returns",
+      "text": "In the Padma Purana, there is a drought. Mandhata finds another way instead of harming anyone: he asks everyone to keep the Padma Ekadashi fast, and rain returns."
+    },
+    {
+      "title": "A lesson about greed",
+      "text": "In the Buddhist tale, Mandhata rules half of heaven but wants more, and he falls back to earth. The story teaches that wanting more and more never ends."
+    }
+  ],
+  "teaches": [
+    "Kindness to everyone is part of a king's duty",
+    "Greed can undo great success",
+    "Fasting and prayer as a way to help others"
+  ],
+  "symbol": "sun",
+  "emblems": [
+    "Solar dynasty",
+    "Wheel of a universal ruler (chakravartin)",
+    "Gurla Mandhata peak",
+    "Mandhata island on the Narmada"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Yuvanashva"
+    },
+    {
+      "relation": "Wife",
+      "name": "Bindumati"
+    },
+    {
+      "relation": "Son",
+      "name": "Ambarisha",
+      "slug": "ambarisha"
+    },
+    {
+      "relation": "Sons",
+      "name": "Purukutsa and Muchukunda"
+    },
+    {
+      "relation": "Helper at his birth",
+      "name": "The Ashvins",
+      "slug": "ashvins"
+    },
+    {
+      "relation": "Fed him as an infant",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Descendant",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Bhagavata Purana",
+    "Padma Purana",
+    "Rig Veda (10.134)",
+    "Mandhatu Jataka (Pali, no. 258)"
+  ],
+  "places": ["Mandhata island, Omkareshwar (Madhya Pradesh)", "Gurla Mandhata peak"],
+  "festivals": ["Padma Ekadashi"],
+  "facts": [
+    {
+      "text": "The Mahabharata says Mandhata conquered Patala, the earth and half of Svarga, which made him ruler of the three worlds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to the Bhagavata Purana, King Yuvanashva had a hundred queens but no children. Sages prepared sacred water for the queens, but the king drank it by mistake.",
+      "kind": "story",
+      "source": "https://www.hindu-blog.com/2022/06/story-of-king-mandhata-of-solar-dynasty.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata version, a thirsty Yuvanashva drank the consecrated ghee at a ritual site after a hunt, and that made him pregnant. The Ashvin twins delivered the child.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says the baby came from the lower right side of Yuvanashva's abdomen. Brahmins fretted over how it would feed, and Indra gave his finger.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/9/6/30/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The gods worried about how to feed the newborn, so Indra gave him nectar from his own finger. The baby's strength is said to come from Indra's hand.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His name is explained as wordplay on what Indra said while feeding him, roughly that he may feed from me.",
+      "kind": "language",
+      "source": "https://www.hindu-blog.com/2022/06/story-of-king-mandhata-of-solar-dynasty.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata says Mandhata married Bindumati, a Yadava king's daughter, and had three sons and fifty daughters. His eldest son Susandhi succeeded him on the throne.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, the aged sage Saubhari asked Mandhata for a daughter. The king said any of them could choose, so Saubhari made himself young and handsome, and all fifty chose him.",
+      "kind": "family",
+      "source": "https://vedabase.io/en/library/sb/9/6/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Pali Milindapanha names Mandhatu as one of only four people who reached the gods' realm in their own earthly bodies, together with Guttila, Sadhina and Nimi.",
+      "kind": "text",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says Mandhata won the whole earth in a single day, by sheer will, and defeated kings such as Marutta, Angara, Gaya and Gandhara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one tale, Mandhata fought Ravana, the king of Lanka, in a duel that ended without a winner.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Northern Buddhist texts such as the Divyavadana say he was born from the top of his father Uposatha's head, so he is also called Murdhata. Reliefs of his story survive at Borobudur in Java and at Amaravati.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a retelling of the Padma Purana's drought story, Mandhata refused a grim remedy and asked the sages for another way. They advised the Padma Ekadashi fast, and rain returned once his people observed it.",
+      "kind": "festival",
+      "source": "https://www.hindu-blog.com/2022/06/story-of-king-mandhata-of-solar-dynasty.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says Mandhata gave Brahmins gold statues of rohita fish spanning several kilometres, and ten thousand padmas of the finest cows during his sacrifices.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one account, as an old man Mandhata wanted to conquer heaven. Indra told him that Lavana was still unconquered, and Lavana's trident burned him and his army.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Divyavadana telling, before rising to heaven Mandhata sends five hundred irritable sages out of his kingdom after one of them cursed a flock of cranes for disturbing his meditation.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandhatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "While he was away in the heavens, the Pali commentaries say, his minister ran the kingdom with Mandhatu's shoes placed on the throne.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Pali commentary says he lived 84,000 years as a prince, 84,000 as a viceroy and 84,000 as a king.",
+      "kind": "text",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Pali tradition, he could clench his left hand, touch it with his right, and make seven kinds of jewels fall from the sky knee-deep.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Buddhist story Sakka gave him half of heaven, and he reigned through the lives of 36 Sakkas before wishing to kill Sakka and rule alone. His power faded, he fell into his own park, and sent word that even he must die.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "He took people from all four continents with him to the heavens. When he fell, they could not go home, so the minister gave them lands, and settlers formed regions such as Videha and Kuru.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mandhata.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Himalayan peak Gurla Mandhata, 7,694 metres high near Lake Manasarovar, is said to be named after the king, who legend says passed that way.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurla_Mandhata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some versions of the legend, the mountain Gurla Mandhata is the king's body after his death.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurla_Mandhata",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "On Mandhata island in the Narmada, shaped like the symbol Om and holding the Omkareshwar Jyotirlinga, local tradition says King Mandhata worshipped Shiva and made it his capital.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mandhata",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who fed baby Mandhata with nectar from his finger?",
+      "options": ["Brahma", "Indra", "Vishnu", "Surya"],
+      "answer": 1,
+      "why": "The texts say Indra fed him because the gods worried he had no one to nurse him."
+    },
+    {
+      "q": "Which twin gods helped deliver Mandhata?",
+      "options": ["Nakula and Sahadeva", "Lava and Kusha", "The Ashvins", "Rama and Lakshmana"],
+      "answer": 2,
+      "why": "The Ashvin twins, the divine physicians, are said to have helped."
+    },
+    {
+      "q": "In the Buddhist Mandhatu Jataka, what led to Mandhata's fall?",
+      "options": ["Greed", "Illness", "A flood", "A curse from Indra"],
+      "answer": 0,
+      "why": "He had half of heaven but wanted all of it."
+    },
+    {
+      "q": "Which sacred island in the Narmada is linked to King Mandhata?",
+      "options": ["Majuli", "Srirangam", "Omkareshwar", "Elephanta"],
+      "answer": 2,
+      "why": "Local tradition says he worshipped Shiva on this island and made it his capital."
+    },
+    {
+      "q": "Near which sacred lake does the peak named after Mandhata stand?",
+      "options": ["Dal Lake", "Pushkar Lake", "Manasarovar", "Chilika Lake"],
+      "answer": 2,
+      "why": "Gurla Mandhata rises near Lake Manasarovar, which legend says he visited."
+    }
+  ],
+  "related": ["ambarisha", "indra", "ashvins", "shatrughna", "ravana", "vishnu", "shiva"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mandhatri",
+    "bhagavata": "https://www.hindu-blog.com/2022/06/story-of-king-mandhata-of-solar-dynasty.html",
+    "pali": "https://aimwell.org/DPPN/mandhata.html",
+    "peak": "https://en.wikipedia.org/wiki/Gurla_Mandhata",
+    "island": "https://en.wikipedia.org/wiki/Mandhata",
+    "jataka_258": "https://ancient-buddhist-texts.net/English-Texts/Jataka/258.htm",
+    "bhagavata_9_6": "https://vedabase.io/en/library/sb/9/6/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F2E2B8",
+    "c2": "#E6D0C4"
+  },
+  "order": 500
+}

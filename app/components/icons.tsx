@@ -1,6 +1,12 @@
 /** Inline stroke icons (24px grid). Decorative unless given a `title`. */
 type P = { className?: string; title?: string };
 
+// Stroke weight and cap come from the skin (--icon-stroke / --icon-linecap); fallbacks are the comic values.
+const ICON_STYLE = {
+  strokeWidth: 'var(--icon-stroke, 2.4)',
+  strokeLinecap: 'var(--icon-linecap, round)',
+} as unknown as React.CSSProperties;
+
 function Svg({ className = 'size-5', title, children }: P & { children: React.ReactNode }) {
   return (
     // biome-ignore lint/a11y/noSvgWithoutTitle: decorative by default; a title is rendered when given.
@@ -8,9 +14,8 @@ function Svg({ className = 'size-5', title, children }: P & { children: React.Re
       viewBox="0 0 24 24"
       fill="none"
       stroke="currentColor"
-      strokeWidth={2.4}
-      strokeLinecap="round"
       strokeLinejoin="round"
+      style={ICON_STYLE}
       className={className}
       aria-hidden={title ? undefined : true}
       role={title ? 'img' : undefined}

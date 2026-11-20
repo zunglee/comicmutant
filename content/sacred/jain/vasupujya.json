@@ -1,0 +1,172 @@
+{
+  "slug": "vasupujya",
+  "name": "Vasupujya",
+  "aka": ["Vasupujya Swami", "Vasupujya Bhagwan"],
+  "native": "वासुपूज्य",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "Twelfth Tirthankara of the present age",
+  "summary": "Vasupujya is the twelfth Jain Tirthankara. Many Jain accounts say all five of his great life events happened at Champapuri in Bihar, and tradition says he never married.",
+  "about": "Jain texts count Vasupujya as the twelfth Tirthankara of this descending age. He is said to have been born at Champapuri, near modern Bhagalpur in Bihar, to King Vasupujya and Queen Jaya (Vijaya in Digambara lists) of the Ikshvaku family. Tradition says he never married, and Hemachandra adds that he never took the throne. Jains believe he gained omniscience within a month of beginning his penance and that all five of his kalyanakas (conception, birth, renunciation, omniscience and liberation) took place at Champapuri, which is unusual, as most Tirthankaras are said to have been liberated at Shikharji. His images are red and have a water buffalo on the pedestal. Sources name his colour differently, with some texts saying gold.",
+  "kidSummary": "Vasupujya is the twelfth Tirthankara. Many Jains say every big moment of his life happened in one place, Champapuri in Bihar. A water buffalo marks his statues, and a 31-foot stone statue of him stands there today.",
+  "story": [
+    {
+      "title": "A baby in Champapuri",
+      "text": "Jains say Vasupujya was born in the city of Champapuri to King Vasupujya and Queen Jaya. At his naming festival Indra is said to have put nectar on his thumb."
+    },
+    {
+      "title": "A prince who did not marry",
+      "text": "When he grew up, he chose not to marry. Jain stories say he wanted a life of peace and self-discipline."
+    },
+    {
+      "title": "Leaving the palace",
+      "text": "He left royal life and became a wandering monk. Within a month of beginning his penance, Jains say, he gained perfect knowledge."
+    },
+    {
+      "title": "Teaching",
+      "text": "He taught people to be gentle and truthful. Others, including a king named Shrivijay, are said to have joined his group of monks."
+    },
+    {
+      "title": "Back to Champapuri",
+      "text": "Jains believe he reached liberation at Champapuri, the same city where his life began."
+    }
+  ],
+  "teaches": ["Self-discipline", "Non-violence", "Choose a simple life over comfort"],
+  "symbol": "lotus",
+  "emblems": ["Water buffalo (lanchana)", "Red colour", "Kadamba or patalika tree"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Vasupujya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Jaya"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Shreyanasanatha",
+      "slug": "shreyanasanatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Vimalanatha",
+      "slug": "vimalanatha"
+    }
+  ],
+  "texts": ["Triṣaṣṭiśalākāpuruṣacaritra", "Uttarapurana", "Aupapatika Sutra (about Champa)"],
+  "places": ["Champapuri (Bhagalpur)", "Nathnagar", "Alleppey", "Ernakulam"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In Hemachandra's account, when his parents urge marriage he argues that karma sets each Jina's path and names Malli, Nemi and Parshva as others who will renounce unmarried. Jainpedia adds that Shilanka, 9th century, has him live as a householder and king.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/vasupujya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Many Jain accounts say all five of his kalyanakas (conception, birth, renunciation, omniscience, liberation) took place at Champapuri, which would be unique among the 24.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vasupujya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Twenty of the 24 Tirthankaras are said to be liberated at Shikharji. The other four are Rishabhanatha at Ashtapada, Vasupujya at Champapuri, Neminatha at Girnar and Mahavira at Pawapuri.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tirthankara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 31-foot (9.4 m) stone statue of him was inaugurated at Champapur in 2014, with the first ritual bathing on 3 March. Its stone came from Koyra in Karnataka, weighed over 100 tonnes, travelled by road and was carved in about 14 months.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Vasupujya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His name has three explanations: it comes from his father's name, or from Indra giving his father wealth (vasu) while he was in the womb, or from the Vasu gods worshipping him.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/vasupujya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At his naming festival Indra is said to have put nectar in the infant's thumb, since Arhats are not nursed in the usual way.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/vasupujya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a child he played with gods and princes in boy form: jewelled balls, whirling tops, tree-climbing, racing, swimming and wrestling, says Hemachandra.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213248.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After a two-day fast he broke it at the house of King Sunanda in Mahapura, then wandered for one month before omniscience, says Jainpedia. Svetambaras name his tree the patala, Digambaras the kadamba.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/jina/vasupujya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vardhamana wrote a Vasupujya-charita in 1242 CE, a Sanskrit life of over 5,000 verses in four chapters.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/vasupujya",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where do many Jain accounts place all five of his life events?",
+      "options": ["Shikharji", "Champapuri", "Girnar", "Ayodhya"],
+      "answer": 1,
+      "why": "Champapuri near Bhagalpur; some Digambara pilgrims also visit Mandargiri."
+    },
+    {
+      "q": "Which animal marks his images?",
+      "options": ["Rhinoceros", "Bull", "Water buffalo", "Elephant"],
+      "answer": 2,
+      "why": "A water buffalo is his lanchana."
+    },
+    {
+      "q": "At his naming festival, where did Indra put nectar for the baby?",
+      "options": ["On his thumb", "In a golden cup", "On his forehead", "In a river"],
+      "answer": 0,
+      "why": "Arhats are said not to be nursed in the usual way, so Indra put nectar on his thumb."
+    },
+    {
+      "q": "Which future Tirthankaras did Vasupujya say would also renounce without marrying or ruling?",
+      "options": [
+        "Malli, Nemi and Parshva",
+        "Rishabha, Ajita and Sambhava",
+        "Shanti, Kunthu and Ara",
+        "Chandraprabha, Pushpadanta and Shitala"
+      ],
+      "answer": 0,
+      "why": "In Hemachandra's account he names Malli, Nemi and Parshva; Vira would marry but never rule."
+    }
+  ],
+  "related": ["shreyanasanatha", "vimalanatha", "mahavira", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasupujya",
+    "wisdomlib": "https://www.wisdomlib.org/definition/vasupujya",
+    "champapuri": "https://en.wikipedia.org/wiki/Champapuri",
+    "statue": "https://en.wikipedia.org/wiki/Statue_of_Vasupujya",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213241.html",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/vasupujya"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f2d3cb",
+    "c2": "#e0ab9d"
+  },
+  "order": 12
+}

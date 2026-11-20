@@ -1,0 +1,268 @@
+{
+  "slug": "parashurama",
+  "name": "Parashurama",
+  "aka": ["Rama Jamadagnya", "Bhargava Rama", "Virarama"],
+  "native": "परशुराम",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The axe-wielding sage avatar of Vishnu, sixth of the Dashavatara",
+  "summary": "Parashurama, Rama with the axe, is a warrior-sage and the sixth avatar of Vishnu. Many texts call him a Chiranjivi, who lives on and will teach Kalki.",
+  "about": "Parashurama is the sixth avatar in the usual Dashavatara list. His name means Rama with an axe, a weapon traditionally said to be a gift from Shiva. He is the son of the sage Jamadagni and Renuka. The Puranas tell that the king Kartavirya Arjuna, also called Sahasrabahu, took away the wish-granting cow of his father's hermitage, and Jamadagni was killed, which led Parashurama to fight a long war with warrior kings. In the Ramayana he meets Rama and yields to him. In the Mahabharata he teaches Bhishma, Drona and Karna. Many traditions call him a Chiranjivi, one of the immortals, and expect him to guide Kalki.",
+  "kidSummary": "Parashurama is a mighty sage who carries an axe. He is a form of Vishnu who is said to live for a very long time. He taught the great warriors Bhishma, Drona and Karna.",
+  "story": [
+    {
+      "title": "A sage's family",
+      "text": "Parashurama was born to the sage Jamadagni and Renuka. He studied hard and received an axe from Shiva."
+    },
+    {
+      "title": "The wish-granting cow",
+      "text": "King Kartavirya Arjuna took away his father's special cow, and in the Puranas, Jamadagni was killed. Parashurama grieved and defeated the king."
+    },
+    {
+      "title": "A long struggle",
+      "text": "Many texts say he then fought warrior kings who had misused their power, in a series of campaigns."
+    },
+    {
+      "title": "A meeting with Rama",
+      "text": "In the Ramayana, he meets Rama, tests him with a bow, and then steps back, ready to retire in peace."
+    },
+    {
+      "title": "The teacher",
+      "text": "In the Mahabharata he teaches weapons to Bhishma, Drona and Karna. Tradition says he lives on and will teach Kalki."
+    }
+  ],
+  "teaches": ["Respect for parents", "Power must be used with care", "A teacher shapes a hero"],
+  "symbol": "wave",
+  "emblems": ["Axe (parashu)", "Bow and arrows (in some texts)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Jamadagni",
+      "slug": "jamadagni"
+    },
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Met",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Bhishma",
+      "slug": "bhishma"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Karna",
+      "slug": "karna"
+    },
+    {
+      "relation": "Will teach",
+      "name": "Kalki",
+      "slug": "kalki"
+    }
+  ],
+  "texts": ["Ramayana", "Mahabharata", "Padma Purana", "Bhagavata Purana"],
+  "places": ["Salher Fort, Maharashtra", "Gokarna", "Tunga river"],
+  "festivals": ["Akshaya Tritiya", "Parashurama Jayanti"],
+  "facts": [
+    {
+      "text": "In the Mahabharata, Karna disguises himself as a Brahmin to learn the Brahmastra from Parashurama. When the teacher discovers the lie, he curses Karna to forget the secret just when he needs it most.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Vishnu Purana, the sage Rcika prepares two meals for two women, and one of them would give a son with martial powers. Renuka eats that one by accident, and Parashurama is born.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, the baby Parashurama is born surrounded by such bright light that it blinds the warriors. They repent and are given back their sight.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Parashurama is the only avatar said never to die. In some versions of the Ramayana and Mahabharata he meets Rama and Krishna, other avatars living in the same age.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata's Sangraha Parva says that after 21 generations of warrior kings he filled five pools with their blood, called Samanta Panchaka, and these pools are regarded as holy.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana he loses his divine power when Rama strings a bow that Parashurama had been holding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata he fights his own former pupil Bhishma for 23 days over Amba, and the fight ends in a draw.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana, Parashurama appears on the road to Ayodhya amid omens: an earthquake and a dust storm shake Rama's wedding party.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some versions of the Mahabharata he kills his own mother because his father asks him to test his obedience. His father then grants a boon, and Parashurama asks that she be brought back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A legend says a drop of blood would not wash off his axe, so he travelled south to cleanse it in the Tunga river in Karnataka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Kerala legend in the 17th-century Keralolpathi says he threw his axe across the sea and the water drew back as far as it flew, making land from Gokarna to Kanyakumari. Hence Kerala is called Parashurama Kshetram, his land.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The reclaimed land was salty until the snake king Vasuki spat out poison to make the soil fertile, and snakes became its guardians.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local tradition says Salher Fort in Maharashtra is where he threw his axe, and the rock there has footprints said to be about four times human size.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Sangam poem, the Purananuru, tells of the Chera king Senkuttuvan, who conquered lands from Kanyakumari to the Himalayas and, lacking worthy foes, besieged the sea by hurling his spear into it. One scholar thinks Parashurama's tale inspired it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The king who took the wish-granting cow Surabhi was Kartavirya Arjuna, also called Sahasrabahu, and he is not the Pandava Arjuna. According to the Padma Purana, Parashurama defeated him in battle with his axe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahmanda Purana, Ganesha stops Parashurama at the door of Shiva's home. In the quarrel Parashurama throws the axe Shiva gave him, and it breaks Ganesha's left tusk, so he becomes Ekadanta, the one-tusked.",
+      "kind": "story",
+      "source": "https://www.greenmesg.org/bharatavarsha/scriptures/puranas/brahmanda_purana/parashurama/kailasha-parashurama_encountering_ganesha.php",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata he is the teacher of Bhishma, Drona, Karna and Rukmi, so warriors on both sides of the great war learned from him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After clearing the earth of warrior kings, one telling says he spared only the lines of Manu and Ikshvaku, then performed a horse sacrifice, gave the earth with its seven islands to Brahmin sages and retired to the hermitage of Nara-Narayana for penance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Local tradition says Parashurama's parents lived in a hut at Janapav. The hills there are topped by a Shiva temple where he is believed to have worshipped, and the place is known as Jamadagni Ashram.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vayu Purana, his mother Renuka eats an offering made to both Rudra and Vishnu, so he is born with the traits of both a Brahmin and a warrior.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sahyadrikhanda calls the Konkan coast Parashuramakshetra. A stretch of south Gujarat from Vapi to Tapi is called Parshuram Ni Bhoomi, and in Goa a temple at Canacona is dedicated to him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashurama",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Parashurama carry?",
+      "options": ["A bow", "An axe", "A flute", "A trident"],
+      "answer": 1,
+      "why": "Parashu means axe."
+    },
+    {
+      "q": "Who gave him the axe in tradition?",
+      "options": ["Brahma", "Shiva", "Indra", "Agni"],
+      "answer": 1,
+      "why": "Shiva is said to have given it."
+    },
+    {
+      "q": "Which famous warrior did he fight for 23 days?",
+      "options": ["Arjuna", "Bhishma", "Bhima", "Drona"],
+      "answer": 1,
+      "why": "He fought Bhishma over Amba."
+    },
+    {
+      "q": "Which avatar will he teach, according to tradition?",
+      "options": ["Rama", "Krishna", "Kalki", "Buddha"],
+      "answer": 2,
+      "why": "Kalki is the final avatar."
+    },
+    {
+      "q": "Which part of India does legend say he made by throwing his axe?",
+      "options": ["Kerala and Konkan coast", "Kashmir", "Bengal", "Punjab"],
+      "answer": 0,
+      "why": "The west coast legend says the sea drew back."
+    }
+  ],
+  "related": ["vishnu", "jamadagni", "rama", "bhishma", "drona", "karna", "kalki", "amba"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parashurama",
+    "dashavatara": "https://en.wikipedia.org/wiki/Dashavatara"
+  },
+  "palette": {
+    "c1": "#e8bfa8",
+    "c2": "#f6e2cf"
+  },
+  "order": 6
+}

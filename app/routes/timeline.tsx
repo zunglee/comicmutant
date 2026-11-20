@@ -122,7 +122,7 @@ export default function Timeline({ loaderData: d }: Route.ComponentProps) {
                   preventScrollReset
                   aria-current={on ? 'page' : undefined}
                   aria-label={`${c.d}s: ${c.hero} hero milestones, ${c.rogue} villain milestones`}
-                  className={`flex w-16 flex-col items-center rounded-md px-1 py-2 transition-colors hover:bg-bg ${on ? 'bg-bg outline-3 outline-c3-text' : ''}`}
+                  className={`flex w-16 flex-col items-center rounded-skin-s px-1 py-2 transition-colors hover:bg-bg ${on ? 'bg-bg outline-3 outline-c3-text' : ''}`}
                 >
                   <span className="flex h-20 w-full items-end justify-center">
                     {c.hero > 0 && (

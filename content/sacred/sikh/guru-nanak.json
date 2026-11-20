@@ -1,0 +1,303 @@
+{
+  "slug": "guru-nanak",
+  "name": "Guru Nanak",
+  "aka": ["Nanak Dev", "Baba Nanak", "Nanak Shah"],
+  "native": "ਗੁਰੂ ਨਾਨਕ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "First Sikh Guru and founder of the Sikh path",
+  "years": "1469–1539",
+  "order": 1,
+  "summary": "Guru Nanak (1469–1539) was born in Talwandi, now Nankana Sahib in Pakistan. He taught one Creator, honest work, sharing with others and equality, and he began the Sikh tradition.",
+  "about": "Sikh records and the janamsakhi life-stories say Nanak was born in 1469 in Rai Bhoi di Talwandi, in present-day Pakistan. As a young man he worked in a storehouse at Sultanpur Lodhi and married Sulakhani. Sikh tradition says that around the age of 27 he vanished into a river for days, came back with a message of one Creator, and began to teach. The janamsakhis describe four long journeys called udasis, though historians note that early sources say little about them. In his later years he settled at Kartarpur beside the Ravi, farmed the land and gathered a community that ate together in langar. He composed 974 hymns found in the Guru Granth Sahib, including the Japji. He chose Bhai Lehna, later Guru Angad, to follow him, and died in 1539.",
+  "kidSummary": "Guru Nanak lived about 550 years ago in Punjab. He taught that there is one God for everyone, that we should work honestly, share what we have, and treat all people as equals. He travelled far, sang hymns with his friend Mardana, and began the free community kitchen called langar.",
+  "story": [
+    {
+      "title": "A boy who asked questions",
+      "text": "Nanak was born in 1469 in the village of Talwandi. Even as a child he asked deep questions and thought about God and kindness more than about games."
+    },
+    {
+      "title": "The true bargain",
+      "text": "Stories say his father gave him money to start a small business. Nanak met hungry holy men and used the money to feed them, calling it the true bargain."
+    },
+    {
+      "title": "A new message",
+      "text": "Sikh tradition says that at about 27 he disappeared into the river for days. When he returned, he spoke of one Creator and of the equality of all people."
+    },
+    {
+      "title": "Travels with Mardana",
+      "text": "With his friend Mardana playing the rabab, he walked to many lands and sang hymns. Along the way, people of many faiths listened to him."
+    },
+    {
+      "title": "Kartarpur",
+      "text": "Later he settled at Kartarpur, farmed the land and welcomed everyone to sit together and eat in langar, rich and poor side by side."
+    },
+    {
+      "title": "Choosing Lehna",
+      "text": "Before he died in 1539 he picked his faithful student Lehna as his successor and renamed him Angad."
+    }
+  ],
+  "teaches": [
+    "There is one Creator for all people",
+    "Earn an honest living and share with others",
+    "All people are equal, whatever their caste or faith",
+    "Remember God in daily life"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Ik Onkar (the numeral one as a written idea)",
+    "Rabab (the stringed instrument)",
+    "Langar"
+  ],
+  "family": [
+    {
+      "relation": "sister",
+      "name": "Bebe Nanaki",
+      "slug": "bebe-nanaki"
+    },
+    {
+      "relation": "companion",
+      "name": "Bhai Mardana",
+      "slug": "bhai-mardana"
+    },
+    {
+      "relation": "successor",
+      "name": "Guru Angad",
+      "slug": "guru-angad"
+    },
+    {
+      "relation": "father",
+      "name": "Mehta Kalu"
+    },
+    {
+      "relation": "mother",
+      "name": "Mata Tripta"
+    },
+    {
+      "relation": "wife",
+      "name": "Mata Sulakhani"
+    },
+    {
+      "relation": "son",
+      "name": "Sri Chand"
+    },
+    {
+      "relation": "son",
+      "name": "Lakhmi Das"
+    }
+  ],
+  "texts": ["Guru Granth Sahib (Japji, Asa di Var, Sidh Gosht)", "Janamsakhis"],
+  "places": ["Nankana Sahib", "Sultanpur Lodhi", "Kartarpur Sahib", "Dera Baba Nanak"],
+  "festivals": ["Gurpurab (Guru Nanak's birthday)"],
+  "facts": [
+    {
+      "text": "Most janamsakhis give April for his birth, on 15 April 1469 at Nankana Sahib, now in Pakistan, and his fair was still held in April in 1815. The Gurpurab later moved to Kattak, in November; its earliest recorded celebration at Nankana Sahib is 1868.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Stories say he refused to wear the sacred thread in a childhood ceremony, an early sign that he valued honest living over ritual badges.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 'true bargain' (sacha sauda) story, his father gave him money for trade and Nanak spent it feeding hungry holy men instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikh accounts say that while he worked at the Sultanpur storehouse and weighed out grain, he reached the number thirteen, which sounds like 'tera', meaning 'yours' in Punjabi, and kept repeating 'yours, yours, yours' as an offering to God.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A shrine called Nanak Math in Balaju, Kathmandu, is believed to mark a place where he meditated for more than a year around 1516, and local people remember him as Nanak Rishi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhai Lalo legend, a rich official named Malik Bhago held a feast, but Nanak preferred the plain bread of the honest worker Lalo. When he squeezed Lalo's bread, milk came out, and Bhago's rich food gave blood.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Lalo",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sikh tradition says that around 1496 he entered the Bein river to bathe and was gone for several days; he returned saying there was no Hindu and no Muslim.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The janamsakhis describe four long journeys (udasis) east to Bengal and Assam, south to Sri Lanka, north to Ladakh and Tibet, and west toward Mecca and Baghdad.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In janamsakhi tales from his boyhood, witnessed by Rai Bular, a tree's still shadow, or in the Bala version a cobra, shaded the sleeping Nanak. In another, buffalo he minded trampled a field, yet the crops were found unharmed; Gurdwara Kiara Sahib marks it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His travelling companion Mardana was a Muslim musician who played the rabab, and Nanak sang his hymns to its music.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Mecca episode from the janamsakhis, a Qazi objected that Nanak's feet pointed toward the Kaaba. When Nanak turned his feet away, the building seemed to turn toward them, showing that God is everywhere.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Janamsakhis",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Sajjan story, a man whose name means 'friend' ran an inn at Tulamba but robbed and killed his guests. Nanak and Mardana stayed there, Nanak sang a hymn about hollow outward piety, and Sajjan confessed, gave away his loot and changed his life.",
+      "kind": "story",
+      "source": "https://www.sikhmissionarysociety.org/sms/smsarticles/gurunanaksakhis/sajjanthug/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikh legend says that at Hasan Abdal, in about 1521, the proud local saint Wali Qandhari hurled a piece of the hill at Nanak, who stopped it with his hand. A handprint on the rock is revered at Gurdwara Panja Sahib, and a spring there flows without stopping.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Panja_Sahib",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His teaching is often summed up in three Punjabi phrases: naam japo (remember God), kirat karo (work honestly) and vand chhako (share what you have).",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Haridwar, say Sikh stories, pilgrims threw water toward the sun for their ancestors. Nanak threw it the other way, saying he watered his farm at Kartarpur, and asked how their water could reach the sun if his could not travel 300 miles to his fields.",
+      "kind": "story",
+      "source": "https://sikhmissionarysociety.org/sms/smspublications/gurunanakforchildren/chapter7",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sikh tradition says that on his way back from his last tour Nanak was an eyewitness to Babur's armies invading at Saidpur. What he saw is recorded in the four hymns called Babur Vani in the Guru Granth Sahib.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A stone in Baghdad said to commemorate him is disputed: some read its inscription as 1511-12, others as 1521-22, and many Western scholars say the stone dates from the 19th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He settled at Kartarpur around the age of 55 and lived there as a farming householder, not a wandering ascetic. There he began langar and pangat, where people of every caste and both genders sat in one row to eat the same meal.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He passed over his own sons and chose Bhai Lehna as successor, in a ceremony involving a coconut and five paise, renaming him Angad.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A legend says that after he died on 22 September 1539, his followers lifted the cloth and found only flowers, which Hindus and Muslims divided between them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After his death the Ravi river shifted course and washed away his memorial at Kartarpur. His son rescued the urn holding his ashes and buried it on the river's far bank, where the town of Dera Baba Nanak grew up.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Nanak",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kartarpur Corridor opened on 9 November 2019, days before his 550th birth anniversary, letting pilgrims walk from Dera Baba Nanak in India to the shrine.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Darbar_Sahib_Kartarpur",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of the free community kitchen Guru Nanak began?",
+      "options": ["Langar", "Kirtan", "Sarovar", "Akhara"],
+      "answer": 0,
+      "why": "Langar is a shared meal where everyone sits together as equals."
+    },
+    {
+      "q": "Which friend played the rabab on his journeys?",
+      "options": ["Baba Buddha", "Bhai Mardana", "Bhai Gurdas", "Lehna"],
+      "answer": 1,
+      "why": "Mardana was a Muslim musician who travelled with him."
+    },
+    {
+      "q": "What does 'Kartarpur' mean?",
+      "options": [
+        "City of gold",
+        "Town of the Creator",
+        "Village of five rivers",
+        "Pool of nectar"
+      ],
+      "answer": 1,
+      "why": "Kartar means Creator and pur means town."
+    },
+    {
+      "q": "Whom did Guru Nanak choose as the next Guru?",
+      "options": ["Sri Chand", "Lakhmi Das", "Bhai Lehna (Guru Angad)", "Amar Das"],
+      "answer": 2,
+      "why": "He chose his faithful follower Lehna and renamed him Angad."
+    },
+    {
+      "q": "What does Ik Onkar express?",
+      "options": [
+        "There is one God",
+        "Victory to the Guru",
+        "The five beloved ones",
+        "A town by the river"
+      ],
+      "answer": 0,
+      "why": "Ik Onkar is a way of writing 'One Creator'."
+    }
+  ],
+  "related": ["guru-angad", "bhai-mardana", "bebe-nanaki", "guru-granth-sahib", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Nanak",
+    "kartarpur": "https://en.wikipedia.org/wiki/Gurdwara_Darbar_Sahib_Kartarpur",
+    "granth": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+    "panja": "https://en.wikipedia.org/wiki/Gurdwara_Panja_Sahib",
+    "sajjan": "https://www.sikhmissionarysociety.org/sms/smsarticles/gurunanaksakhis/sajjanthug/"
+  },
+  "palette": {
+    "c1": "#f2d9a0",
+    "c2": "#c9dbe8"
+  },
+  "depth": "full"
+}

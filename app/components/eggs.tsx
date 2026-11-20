@@ -10,6 +10,7 @@ import { useCallback, useEffect, useRef, useState } from 'react';
 import { SFX } from '~/lib/clips/motifs';
 import { useAnimate } from '~/lib/fx';
 import { useTheme } from '~/lib/theme/context';
+import { useSkinMotion } from '~/skins/motion';
 
 const KONAMI = [
   'ArrowUp',
@@ -50,6 +51,7 @@ function typingInField(e: KeyboardEvent) {
 }
 
 export function EasterEggs() {
+  const mo = useSkinMotion();
   const animate = useAnimate();
   const { current, equip } = useTheme();
   const [toasts, setToasts] = useState<Toast[]>([]);
@@ -152,7 +154,7 @@ export function EasterEggs() {
             style={{ left: s.x - 8, top: s.y - 8 }}
             initial={{ scale: 1, rotate: 0, y: 0 }}
             animate={{ scale: 0, rotate: 90, y: 14 }}
-            transition={{ duration: 0.5, ease: 'easeOut' }}
+            transition={mo.tween(0.5, { ease: 'easeOut' })}
           >
             <polygon
               points="0,-9 2.5,-2.5 9,0 2.5,2.5 0,9 -2.5,2.5 -9,0 -2.5,-2.5"
@@ -170,8 +172,8 @@ export function EasterEggs() {
               style={{ left: `${s.x}%`, top: `${s.y}%` }}
               initial={{ scale: 0, rotate: s.r - 30 }}
               animate={{ scale: 1, rotate: s.r }}
-              exit={{ scale: 0, opacity: 0, transition: { duration: 0.2 } }}
-              transition={{ type: 'spring', stiffness: 500, damping: 14, delay: i * 0.06 }}
+              exit={{ scale: 0, opacity: 0, transition: mo.tween(0.2) }}
+              transition={mo.spring({ stiffness: 500, damping: 14 }, mo.delay(i, 0.06))}
             >
               {s.word}
             </m.div>
@@ -189,7 +191,7 @@ export function EasterEggs() {
               className="bubble font-head text-sm"
               initial={{ y: -20, scale: 0.8, opacity: 0 }}
               animate={{ y: 0, scale: 1, opacity: 1 }}
-              exit={{ y: -10, opacity: 0, transition: { duration: 0.15 } }}
+              exit={{ y: -10, opacity: 0, transition: mo.tween(0.15) }}
             >
               {t.text}
             </m.p>

@@ -1,0 +1,244 @@
+{
+  "slug": "sariputta",
+  "name": "Sariputta",
+  "aka": ["Sariputra", "Shariputra", "Upatissa", "Dhammasenapati"],
+  "native": "सारिपुत्त",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Chief disciple of the Buddha, foremost in wisdom",
+  "years": "c. 6th–5th century BCE",
+  "order": 10,
+  "summary": "In Buddhist tradition, Sariputta was one of the two chief male disciples of the Buddha. He was known for his wisdom, his patience and his skill at explaining the teaching.",
+  "about": "Buddhist texts describe Sariputta as a learned young brahmin from a village near Rajagaha in Magadha, born on the same day as his lifelong friend Kolita, later Maudgalyayana. Both grew restless with worldly life, followed a wandering teacher, and then met the monk Assaji, whose short verse on causes opened Sariputta's understanding. He followed the Buddha, ordained, and, the Pali texts say, became an arahant within about two weeks. The Buddha named him a chief disciple, sitting at his right side, and called him the Marshal of the Dhamma for his skill in teaching. Tradition remembers him as patient, grateful to his teachers and humble. Pali sources say he died a few months before the Buddha. Mahayana sutras also feature him, often as the questioner.",
+  "kidSummary": "Sariputta was one of the Buddha's two top students and was famous for being wise and patient. He listened carefully, stayed calm when people were unkind, and never forgot the teacher who first showed him the way.",
+  "story": [
+    {
+      "title": "Two best friends",
+      "text": "Sariputta and his friend Kolita were born on the same day. Once, watching a lively festival, they thought that all the fun would soon pass, and they decided to look for something that lasts."
+    },
+    {
+      "title": "A short verse",
+      "text": "One morning Sariputta saw a calm monk named Assaji walking for alms. Assaji shared a very short verse about how things arise from causes, and Sariputta understood it at once."
+    },
+    {
+      "title": "Finding the Buddha",
+      "text": "He told his friend, and together they went to the Buddha and became monks. Sariputta grew wise very quickly and became one of the Buddha's two chief disciples."
+    },
+    {
+      "title": "Calm under insult",
+      "text": "Once a monk wrongly accused Sariputta of hurting him. Sariputta did not get angry. He described how his own heart was steady like the earth, and the monk felt sorry and apologised."
+    },
+    {
+      "title": "Saying goodbye",
+      "text": "Near the end of his life, Pali texts say, Sariputta visited his home village, taught his mother and passed away a few months before the Buddha."
+    }
+  ],
+  "teaches": [
+    "Patience and calm under insult",
+    "Gratitude to every teacher",
+    "Wisdom grows with humility"
+  ],
+  "symbol": "book",
+  "emblems": ["Right-hand disciple", "Golden complexion (in tradition)", "Relic casket at Sanchi"],
+  "family": [
+    { "relation": "Lifelong friend", "name": "Maudgalyayana", "slug": "maudgalyayana" },
+    { "relation": "Teacher", "name": "Gautama Buddha", "slug": "gautama-buddha" },
+    { "relation": "Ordained the Buddha's son", "name": "Rahula", "slug": "rahula" },
+    { "relation": "Close friend", "name": "Ananda", "slug": "ananda" }
+  ],
+  "texts": [
+    "Pali Canon (Suttas and Vinaya)",
+    "Abhidhamma tradition",
+    "Vimalakirti Sutra",
+    "Lotus Sutra"
+  ],
+  "places": ["Rajagaha", "Nalanda area (his birth village)", "Sanchi stupa"],
+  "festivals": ["Poya days in Sri Lanka and Myanmar"],
+  "facts": [
+    {
+      "text": "His name means \"son of Sari\". Tradition says his mother's eyes looked like those of the sarika bird.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He was born on the very same day as his friend Maudgalyayana, and the two families had been friends for seven generations.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sariputta had six siblings: three brothers, Upasena, Cunda and Revata, and three sisters, Cala, Upacala and Sisupacala. Texts say every one of them became an arhat disciple of the Buddha.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Even as a chief disciple he honoured Assaji, his first teacher, and when Assaji lived elsewhere he bowed toward that direction. Monks thought he was worshipping the skies, but the Buddha said he was honouring the man who taught him the Dhamma.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Dasuttara and Sangiti suttas the Buddha says his back needs rest and has Sariputta teach while he sits among the listeners.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Once, while he meditated, a spirit struck him hard on the head. The texts say he noticed only a mild headache.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 9
+    },
+    {
+      "text": "Falsely accused of hitting a monk, he answered with a series of calm comparisons. The texts say the earth answered nine times and the accuser repented.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html",
+      "interest": 8
+    },
+    {
+      "text": "Once ill with a complaint that garlic could cure, Sariputta refused it, since the Buddha had banned garlic for monks. He took it only after the Buddha lifted the rule.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vimalakirti Sutra, a goddess's flowers stick to Sariputta's robes. She later swaps bodies with him to make a point about appearances.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 9
+    },
+    {
+      "text": "In 1851 Cunningham and Maisey opened a Sanchi stupa and found two stone boxes inscribed in Brahmi with the chief disciples' names. Sariputta's lay on the south, the 'right' side in ancient usage, as at the Buddha's side.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8
+    },
+    {
+      "text": "When Devadatta split the community, Sariputta and Maudgalyayana pretended to join him. Devadatta had a backache and asked Sariputta to give the talk, then fell asleep, and the two led the monks back to the Buddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A poor brahman once gave Sariputta a ladle of his own begged food in Rajagaha. Years later Sariputta remembered the kindness and, at the Buddha's request, ordained him, and he became the elder Radha.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Catuma Sutta noisy young monks were sent away, and the Buddha chided Sariputta for not seeing that looking after the monks was a chief disciple's task. Maudgalyayana had worked that out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholar Reginald Ray says the Pali canon ranks Sariputta close to a second Buddha. One text calls him 'King of the Dharma', a title usually kept for the Buddha, and others say he 'turns the wheel'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8
+    },
+    {
+      "text": "In a Mulasarvastivada story Maudgalyayana tried to hurry the sewing Sariputta by shaking the ground, but Sariputta was unmoved and reached the Buddha first. Maudgalyayana admitted psychic power was no match for wisdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Several texts say Sariputta was a snake in an earlier life, and the Buddha used this to explain his stubborn streak, for example when he would not change his mind about a punishment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mulasarvastivada texts tell of a contest at Savatthi where Sariputta faced six rival teachers, raising a huge storm and taking many forms until the city's people were won over.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7
+    },
+    {
+      "text": "Pali commentaries say Sariputta realised he had seven days left. He went home to teach his mother, who had not yet turned to the Buddha's path, and then died peacefully on the full moon of Kartika.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Burma, Sariputta is believed to grant wisdom to those who honour him, and he is one of eight arhats commonly shown devotion in protective rituals.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7
+    },
+    {
+      "text": "Cunningham sent his finds to Britain on two ships and one sank, so the Sanchi relics were long thought lost. Historian Brekke argues all survived. They went to Sri Lanka in 1947 and Nehru received them in India in 1949.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Relics_of_Sariputta_and_Moggallana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mulasarvastivada texts say Sariputta chose to pass away because he did not want to see the Buddha die. In the Sarvastivada account he and Maudgalyayana passed away on the same day.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7
+    },
+    {
+      "text": "In Mulasarvastivada texts Sariputta and Maudgalyayana visit hell. Maudgalyayana's rain fails to ease the suffering, but Sariputta's rain, made through wisdom-based meditation, brings relief.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7
+    },
+    {
+      "text": "A commentary says that when the other monks left to collect alms, Sariputta cleaned and tidied the whole monastery so rival teachers could not find fault with the disciples.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sariputta",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which side of the Buddha did Sariputta sit on, in tradition?",
+      "options": ["Left", "Right", "Behind him", "In front of him"],
+      "answer": 1,
+      "why": "Tradition puts Sariputta on the Buddha's right and Maudgalyayana on his left."
+    },
+    {
+      "q": "What does \"Sariputta\" mean?",
+      "options": ["Son of Sari", "King of birds", "Lord of wisdom", "Friend of Assaji"],
+      "answer": 0,
+      "why": "His name means son of Sari, his mother."
+    },
+    {
+      "q": "What did Sariputta hear from Assaji that changed his life?",
+      "options": ["A long prayer", "A war song", "A short verse on causes", "A royal command"],
+      "answer": 2,
+      "why": "A very short verse on causes was enough for him to understand."
+    },
+    {
+      "q": "Which quality is Sariputta best remembered for?",
+      "options": ["Psychic power", "Memory", "Discipline", "Wisdom"],
+      "answer": 3,
+      "why": "He was foremost in wisdom among the Buddha's disciples."
+    }
+  ],
+  "related": ["maudgalyayana", "gautama-buddha", "ananda", "rahula", "mahakashyapa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sariputta",
+    "accesstoinsight": "https://www.accesstoinsight.org/lib/authors/nyanaponika/wheel090.html"
+  },
+  "depth": "full",
+  "palette": { "c1": "#e9dcb8", "c2": "#b9d3d6" }
+}

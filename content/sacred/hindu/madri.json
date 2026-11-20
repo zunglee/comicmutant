@@ -1,0 +1,231 @@
+{
+  "slug": "madri",
+  "name": "Madri",
+  "aka": ["Madravati", "Bahliki", "Madrarajasuta"],
+  "native": "माद्री",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Second wife of Pandu and mother of Nakula and Sahadeva",
+  "summary": "Madri is the princess of Madra who becomes Pandu's second wife in the Mahabharata. The epic says she is the mother of the twin Pandavas, Nakula and Sahadeva, and calls her an incarnation of the goddess Dhriti.",
+  "about": "In the Mahabharata, Madri is a princess of the Madra kingdom in the north-west and the sister of King Shalya. The epic says Bhishma arranged her marriage to Pandu and paid her family gifts of gold, elephants and horses. When a sage's curse keeps Pandu from having children, Kunti shares with her the mantra that calls the gods, and Madri calls the divine twins, the Ashvins, to be the fathers of Nakula and Sahadeva. The epic says Pandu dies after forgetting his curse while with her, and in the best known telling Madri ends her life in grief on his funeral pyre, leaving her twins in Kunti's care. The Mahabharata's manuscripts and its regional retellings disagree about details of her death and her relations with Kunti, which makes her a figure that scholars love to discuss.",
+  "kidSummary": "Madri is a princess from the faraway kingdom of Madra and a wife of King Pandu. She is the mother of the twin brothers Nakula and Sahadeva, who are said to be children of the twin gods, the Ashvins. After she was gone, Kunti raised her twins together with her own sons.",
+  "story": [
+    {
+      "title": "A princess of Madra",
+      "text": "Madri is a princess from the north-west kingdom of Madra. Bhishma arranges for her to marry Pandu, and she joins his family in Hastinapura."
+    },
+    {
+      "title": "To the forest",
+      "text": "After a sage's curse, Pandu leaves the palace. Madri and Kunti go with him and live in the forest as a hermit family."
+    },
+    {
+      "title": "A mantra for twins",
+      "text": "Kunti shares her special mantra with Madri. Madri calls the twin gods, the Ashvins, and the twins Nakula and Sahadeva are born."
+    },
+    {
+      "title": "A heavy sorrow",
+      "text": "Pandu dies, and Madri is filled with sorrow and blames herself. The best known version says she gave up her life beside him."
+    },
+    {
+      "title": "Twins who are loved",
+      "text": "Madri asks Kunti to look after her sons. Kunti raises Nakula and Sahadeva with the Pandavas, and in the end the five brothers stay together."
+    }
+  ],
+  "teaches": [
+    "Caring for others' children as your own",
+    "Love and courage in sorrow",
+    "Strong family bonds"
+  ],
+  "symbol": "moon",
+  "emblems": ["The twin Ashvins' blessing", "The Madra kingdom"],
+  "family": [
+    { "relation": "Husband", "name": "Pandu", "slug": "pandu" },
+    { "relation": "Co-wife", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Brother", "name": "Shalya", "slug": "shalya" },
+    { "relation": "Son", "name": "Nakula", "slug": "nakula" },
+    { "relation": "Son", "name": "Sahadeva", "slug": "sahadeva" },
+    { "relation": "Divine father of the twins", "name": "The Ashvins", "slug": "ashvins" }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva)",
+    "Svargarohana Parva",
+    "Sarala Das's Odia Mahabharata",
+    "Jain Pandava Charitra of Devaprabhasuri"
+  ],
+  "places": ["Madra kingdom", "Hastinapura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "After Madri got twin sons from one use of the mantra, Kunti refused to share it again. She felt tricked, and said she would have called the twin Ashvins herself had she known.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madri belonged to the Bahlika clan, which came from Balkh in Bactria, so she is sometimes called Bahliki and the epic places her roots in what is today northern Afghanistan.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Madri's brother Shalya fought for the Kauravas but secretly hoped the Pandavas would win. Duryodhana made him Karna's charioteer, and he kept praising Arjuna to Karna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Pandu wanted to live as a strict ascetic after the sage's curse, both Kunti and Madri objected and persuaded him to take a hermit's household life, so his wives could come along.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "Madra custom required a bride price for Madri, so Bhishma travelled there himself and offered gold, elephants and horses before bringing her to Hastinapura as Pandu's wife.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madri could not ask Kunti directly, as Kunti's rival, so she told Pandu of her sorrow at being childless and asked him to request the mantra for her. Scholars call this clever planning.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8
+    },
+    {
+      "text": "Pandu let Madri choose the god she would call, a freedom Kunti had not been given. She chose the twin Ashvins, so one invocation brought two sons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Adi Parva calls Madri an incarnation of Dhriti, the goddess of endurance.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madri's tribute called Kunti her light and guide, greater in status and virtue. A scholar reads it as honest recognition, and Irawati Karve notes Kunti raised the twins with more devotion than her own sons.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madri asked Kunti to raise Nakula and Sahadeva, trusting her to be fair. She said she feared she could not raise Kunti's sons with equal dedication.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Southern Recension adds a talk in which Madri asks the young Yudhishthira to look after his younger brothers as a father would.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Two verses of the epic seem to disagree: one says Madri joined Pandu on his pyre, the next says both bodies were taken to Hastinapura after seventeen days for the funeral.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8
+    },
+    {
+      "text": "The 17th-century commentator Nilakantha tried to reconcile those verses by reading the word for bodies as bones or ashes, an explanation many scholars find the most convincing.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8
+    },
+    {
+      "text": "Editor V. S. Sukthankar kept both accounts in the Critical Edition since every manuscript has them. M. A. Mehendale sees an inserted passage, while Sadashiv Dange says the word may mean a ritual stand-in.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8
+    },
+    {
+      "text": "Madri's death is often cited as the earliest textual mention of sati, yet it is very rare in the epic, and some scholars dispute the account.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8
+    },
+    {
+      "text": "Devdutt Pattanaik supports the idea of a later insertion, suggesting medieval editors shaped the scene to reflect values that honoured widow immolation.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "Madri is retold differently in Sarala Das's Odia Mahabharata, the Jain Pandavacharita of Devaprabhasuri, and the Pandava-lila performances of Garhwal, where her story departs a lot from the epic.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Baisakhi Ghosh says Madri and Kunti's rivalry grew from Kunti thinking Madri was favoured for her beauty, while Madri felt the chief queen's status could have been hers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "Some critics note that the epic's focus on Madri's beauty reduces her to a beloved wife, hiding her own character and cleverness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "Madravati, a name used for Madri, is also the name of Parikshit's wife in the epic literature.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which kingdom was Madri from?",
+      "options": ["Kashi", "Gandhara", "Madra", "Matsya"],
+      "answer": 2,
+      "why": "Her name means woman of Madra."
+    },
+    {
+      "q": "Who are the divine fathers of Nakula and Sahadeva?",
+      "options": ["Surya and Vayu", "The Ashvins", "Indra and Yama", "Agni and Varuna"],
+      "answer": 1,
+      "why": "Madri called the twin Ashvins with Kunti's mantra."
+    },
+    {
+      "q": "What was Madri's brother Shalya later asked to do in the war?",
+      "options": ["Drive Karna's chariot", "Carry a banner", "Guard the forest", "Blow a conch"],
+      "answer": 0,
+      "why": "Duryodhana asked Shalya to be Karna's charioteer."
+    },
+    {
+      "q": "Whom did Madri ask to look after Nakula and Sahadeva?",
+      "options": ["Draupadi", "Gandhari", "Kunti", "Satyavati"],
+      "answer": 2,
+      "why": "Kunti raised them together with her own sons."
+    },
+    {
+      "q": "Which goddess is Madri said to be an incarnation of?",
+      "options": ["Dhriti", "Lakshmi", "Saraswati", "Mati"],
+      "answer": 0,
+      "why": "The epic names Dhriti, goddess of endurance."
+    }
+  ],
+  "related": ["pandu", "kunti", "nakula", "sahadeva", "ashvins", "shalya", "karna", "bhishma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madri",
+    "shalya": "https://en.wikipedia.org/wiki/Shalya",
+    "kunti": "https://en.wikipedia.org/wiki/Kunti"
+  },
+  "depth": "full",
+  "palette": { "c1": "#D6E6F2", "c2": "#F3E1C9" },
+  "order": 522
+}

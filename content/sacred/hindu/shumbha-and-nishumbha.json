@@ -1,0 +1,268 @@
+{
+  "slug": "shumbha-and-nishumbha",
+  "name": "Shumbha and Nishumbha",
+  "aka": ["Sumbha", "Nisumbha"],
+  "native": "शुम्भ और निशुम्भ",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura brothers in the Devi Mahatmya",
+  "summary": "Shumbha and Nishumbha are asura brothers in the Devi Mahatmya who took the three worlds from the gods and were set aside by the Goddess in a long battle.",
+  "about": "In the Devi Mahatmya, part of the Markandeya Purana, Shumbha and Nishumbha are brothers who rule the three worlds after the gods lose heaven to them. The Devi Bhagavata Purana adds that they won a boon from Brahma after ten thousand years of penance, one that guarded them from every male being but not from a woman. Their servants Chanda and Munda describe a radiant goddess, and Shumbha sends word asking her to join him. She answers that she will only accept the one who can defeat her in battle. A series of commanders, among them Dhumralochana, Chanda, Munda and Raktabija, are sent against her and fall. At the end the brothers fight in person, and the Goddess wins. Many tellers read the tale as a lesson about pride, and it is recited every Navaratri.",
+  "kidSummary": "In the Devi Mahatmya, Shumbha and Nishumbha are two brothers who grow so proud of their power that they take heaven away from the gods. The Goddess, in the form of Durga or Ambika, stands up for the gods, and after a long contest the three worlds become peaceful again.",
+  "story": [
+    {
+      "title": "Brothers with a boon",
+      "text": "In the Devi Bhagavata Purana, Shumbha and Nishumbha did long penance, and Brahma gave them a boon that kept them safe from every male being."
+    },
+    {
+      "title": "Heaven taken",
+      "text": "In the Devi Mahatmya, the brothers drive the gods out of heaven and rule the three worlds. The gods turn to the Goddess for help."
+    },
+    {
+      "title": "A message and a reply",
+      "text": "The brothers heard about a shining goddess and sent a message asking her to join them. She said she would only accept someone who could defeat her."
+    },
+    {
+      "title": "The armies come",
+      "text": "Commanders such as Dhumralochana, Chanda and Munda were sent with large armies. One after another they were stopped."
+    },
+    {
+      "title": "Raktabija and the last fight",
+      "text": "Raktabija, whose blood made copies of him, was stopped when Kali drank his blood and the Goddess struck him. Then Nishumbha fell, and Shumbha rushed in and was struck down."
+    },
+    {
+      "title": "Peace returns",
+      "text": "After the brothers were gone, the three worlds went back to their calm order and the gods returned."
+    }
+  ],
+  "teaches": [
+    "Pride can grow until it forgets others",
+    "Courage and humility can protect the weak",
+    "A boon is only as good as the heart that holds it"
+  ],
+  "symbol": "flame",
+  "emblems": ["Boon from Brahma", "Sword-armed armies"],
+  "family": [
+    {
+      "relation": "Guru in the Devi Bhagavata Purana",
+      "name": "Bhrigu",
+      "slug": "bhrigu"
+    },
+    {
+      "relation": "Fought",
+      "name": "Durga",
+      "slug": "durga"
+    },
+    {
+      "relation": "Fought",
+      "name": "Kali",
+      "slug": "kali"
+    },
+    {
+      "relation": "Army commander",
+      "name": "Raktabija",
+      "slug": "raktabija"
+    }
+  ],
+  "texts": ["Devi Mahatmya (Markandeya Purana)", "Devi Bhagavata Purana"],
+  "places": [],
+  "festivals": ["Navaratri", "Durga Puja"],
+  "facts": [
+    {
+      "text": "When Dhumralochana demanded that Ambika come with him, the Devi Mahatmya says she answered with one roar, the hum sound, and it reduced him to ash.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117165.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, Chanda and Munda are killed by Kali, who springs from the brow of the Goddess, and from their names comes the name Chamunda.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chamunda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the last duel the Goddess is described as drawing the Matrikas and Kali back into herself, so that she stands alone against Shumbha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, the Goddess sends Shiva himself to the asuras as her messenger, which is how her fierce form from her own body came to be called Shivaduti.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya, Kali springs from the furrowed brow of the angry Goddess and flings elephants, riders and chariots into her mouth.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117166.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, a dart pierces Nishumbha's heart and a second Nishumbha steps out of his body, but she beheads that one too.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117169.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, Shumbha mocks the Goddess for relying on the strength of other goddesses, and she answers that she is alone and the others are her own powers.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117170.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata retelling, the brothers ask the sage Bhrigu to be their guru, and Shumbha is crowned with Nishumbha second in command.",
+      "kind": "text",
+      "source": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Devi Bhagavata says they ruled heaven and earth for a thousand years, humbling Indra, Varuna, Agni, Vayu, Yama and Kubera.",
+      "kind": "text",
+      "source": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Indra's guru Brihaspati tells the gods their trouble comes from karma and urges them to turn to the Goddess, who had promised help after the Mahishasura battle.",
+      "kind": "text",
+      "source": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata, the Goddess answers Shumbha's offer by saying she once made a childhood bet with friends that she would only marry whoever defeated her in a fight.",
+      "kind": "story",
+      "source": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shumbha first sends the asura Sugriva as an envoy to court the Goddess, and she turns him away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shumbha calls up eighty-six Daityas, eighty-four Kambus, fifty asura families and a hundred families of Dhaumra, along with the Kalakas, Mauryas and Kalakeyas.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, Narasimhi arrives with a cluster of stars scattered down by the tossing of her mane.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Goddess's message through Shiva tells the asuras to let Indra have the three worlds and go to Patala if they wish to live, or else come and fight.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kali brings the heads of Chanda and Munda to the Goddess as an offering, saying she herself will slay Shumbha and Nishumbha in the battle-sacrifice.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117166.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Nishumbha's shield is painted with eight moons, but the Goddess splits it with an arrow; Shumbha's shield later shows a hundred moons and she splits that too.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117169.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shumbha rides into the last fight in his chariot, and with eight arms raised he seems to fill the whole sky.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117169.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Goddess's lion roars so loudly in the Devi Mahatmya that it checks the flow from the rutting elephants of the asura army.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117169.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Shumbha falls, the Devi Mahatmya says rivers return to their channels, sacred fires burn calmly and gentle breezes blow.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117170.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholars Hawley and Wulff read the brothers as arrogance and pride, overcome by humility; Shashi Tharoor's novel The Great Indian Novel also borrows the tale as a metaphor.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Shumbha and Nishumbha their boon?",
+      "options": ["Indra", "Brahma", "Agni", "Vayu"],
+      "answer": 1,
+      "why": "The Devi Bhagavata Purana says Brahma granted it after their penance."
+    },
+    {
+      "q": "What kind of opponent did the boon forget to cover?",
+      "options": ["A deva", "A king", "A goddess", "An asura"],
+      "answer": 2,
+      "why": "It kept them safe from men, devas and asuras, but not from a goddess."
+    },
+    {
+      "q": "Which text tells this story?",
+      "options": ["Devi Mahatmya", "Panchatantra", "Arthashastra", "Gita Govinda"],
+      "answer": 0,
+      "why": "It is in the Devi Mahatmya, part of the Markandeya Purana."
+    },
+    {
+      "q": "During which festival is this story recited?",
+      "options": ["Holi", "Baisakhi", "Navaratri", "Onam"],
+      "answer": 2,
+      "why": "The Devi Mahatmya is read during Navaratri and Durga Puja."
+    }
+  ],
+  "related": ["durga", "kali", "raktabija", "mahishasura", "saptamatrikas", "parvati"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha",
+    "devi-mahatmya": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "raktabija": "https://en.wikipedia.org/wiki/Raktabija",
+    "matrikas": "https://en.wikipedia.org/wiki/Matrikas",
+    "chamunda": "https://en.wikipedia.org/wiki/Chamunda",
+    "kaushiki": "https://en.wikipedia.org/wiki/Kaushiki",
+    "devi-bhagavata": "https://en.wikipedia.org/wiki/Devi_Bhagavata_Purana",
+    "dbp-summary": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+    "markandeya-ch6": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117165.html",
+    "markandeya-ch7": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117166.html",
+    "markandeya-ch8": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+    "markandeya-ch9": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117169.html",
+    "markandeya-ch10": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117170.html",
+    "sugriva-note": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9c3d9",
+    "c2": "#f0dcc0"
+  },
+  "order": 500
+}

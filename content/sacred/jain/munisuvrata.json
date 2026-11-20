@@ -1,0 +1,187 @@
+{
+  "name": "Munisuvrata",
+  "aka": ["Munisuvratanatha", "Munisuvrat Swami"],
+  "native": "मुनिसुव्रतनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "20th Tirthankara of the present Jain age",
+  "summary": "Munisuvrata is the 20th Tirthankara, with a tortoise as emblem. Jain texts set the Jain Ramayana in his lifetime.",
+  "about": "Jains count Munisuvrata as the 20th ford-maker (tirthankara) of the present age. Jain texts say he was born in Rajgir to King Sumitra and Queen Padmavati, ruled for a very long time, and then became a monk. According to tradition, after eleven months of austerity he gained omniscience under a champaka tree and taught through 18 chief disciples. The Jain Padmapurana places him in the same age as Rama. Jain texts say he was liberated at Shikharji. His idols show a tortoise as his emblem, and temples and tall statues stand in Karnataka, Maharashtra, Rajasthan and Bihar.",
+  "kidSummary": "Munisuvrata is the 20th of the 24 Tirthankaras, the great teachers of Jainism. His symbol is a tortoise, a calm animal that moves slowly and gently. Jain stories say he lived in the same age as Rama, the hero of the Ramayana. His name is remembered in temples all over India.",
+  "story": [
+    {
+      "title": "Fourteen dreams",
+      "text": "Jain stories say Queen Padmavati of Rajgir saw fourteen wonderful dreams. King Sumitra told her that a great teacher would soon be born."
+    },
+    {
+      "title": "A prince in Rajgir",
+      "text": "The boy grew up as a prince and later became king. Jain tradition says he ruled for a very long age before turning to quiet life."
+    },
+    {
+      "title": "Giving up the throne",
+      "text": "He left the palace and became a monk. For eleven months he practised hard meditation, eating little and speaking little."
+    },
+    {
+      "title": "Wisdom under the champaka tree",
+      "text": "Jains believe he gained perfect knowledge sitting under a champaka tree, and then began to teach his followers."
+    },
+    {
+      "title": "Freedom at Shikharji",
+      "text": "At the end of his long life, Jains believe he was freed from birth and rebirth on the mountain Shikharji."
+    },
+    {
+      "title": "A horse at Bharuch",
+      "text": "Jain tradition says he walked a long road to Bharuch to speak to a horse about to be sacrificed. The horse was reborn as a god, and the place is remembered as Ashvabodh tirth."
+    }
+  ],
+  "teaches": [
+    "Calm discipline and self-control",
+    "Non-violence towards all living beings",
+    "Giving up greed to find peace"
+  ],
+  "symbol": "star",
+  "emblems": ["Tortoise (emblem)", "Champaka tree (of omniscience)", "Yaksha Varuna"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Sumitra"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Padmavati"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Mallinatha",
+      "slug": "mallinatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Naminatha",
+      "slug": "naminatha"
+    }
+  ],
+  "texts": ["Padmapurana", "Uttarapurana", "Tiloyapannati", "Svayambhustotra"],
+  "places": [
+    "Rajgir, Bihar",
+    "Shikharji, Jharkhand",
+    "Paithan, Maharashtra",
+    "Jainaragutti, Karnataka",
+    "Chaturmukha Basadi, Karkala",
+    "Bharuch, Gujarat"
+  ],
+  "festivals": ["Munisuvrata Janma Kalyanak", "Raksha Bandhan (linked in one Jain account)"],
+  "facts": [
+    {
+      "text": "Jain texts such as the Padmapurana place Munisuvrata in Rama's age, naming Rama, Lakshmana and Ravana as his contemporaries, the 8th baladeva, vasudeva and prativasudeva.",
+      "kind": "text",
+      "source": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-20.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A black stone Munisuvrata about 54 feet high, in standing meditation, is installed at Jainaragutti near Adagur in Karnataka.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition says Munisuvrata walked a very long way, about 240 miles by one count, to Bharuch to teach a horse meant for sacrifice, and the horse was reborn as a god.",
+      "kind": "story",
+      "source": "https://www.jainheritagecentres.com/jainism-in-india/gujarat/bharuch/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jainheritagecentres says the Bharuch temple of Munisuvrata, later called Shakunika Vihara, was built by a princess who, as a bird, heard the Navkar mantra and remembered her past life.",
+      "kind": "story",
+      "source": "https://www.jainheritagecentres.com/jainism-in-india/gujarat/bharuch/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jainworld links his age to the monk Vishnu Kumar, who saved the Jain community from the minister Namuchi, a rescue the account ties to the Rakshabandhan festival.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-20.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A rare bronze from Akota in Gujarat shows him in the Jivantasvami style, as a standing prince wearing a crown and ornaments.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "An early image of Munisuvrata was set up at the Devanirmita stupa in Mathura in 127 or 157 CE, scholars give both dates. That makes it dated physical evidence of his worship.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Samantabhadra's hymn Svayambhustotra gives Munisuvrata five verses and compares him, among the assembly of sages, to the moon among the stars.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Munisuvrata",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal is the emblem of Munisuvrata?",
+      "options": ["Lion", "Tortoise", "Elephant", "Snake"],
+      "answer": 1,
+      "why": "A tortoise is carved below Munisuvrata's idols."
+    },
+    {
+      "q": "In which epic age do Jain texts place Munisuvrata?",
+      "options": [
+        "Time of the Mahabharata war",
+        "Time of the Buddha",
+        "Time of Rama",
+        "Time of Ashoka"
+      ],
+      "answer": 2,
+      "why": "The Jain Padmapurana places him as a contemporary of Rama."
+    },
+    {
+      "q": "Under which tree is Munisuvrata said to have reached perfect knowledge?",
+      "options": ["Banyan", "Peepal", "Champaka", "Neem"],
+      "answer": 2,
+      "why": "Jain tradition names the champaka tree."
+    },
+    {
+      "q": "Why did Munisuvrata travel to Bharuch, in Jain tradition?",
+      "options": [
+        "To teach a horse meant for sacrifice",
+        "To fight a rival king",
+        "To build a bridge",
+        "To find a lost book"
+      ],
+      "answer": 0,
+      "why": "Jain tradition says he went to Bharuch to teach an Ashvamedha horse, and the place became Ashvabodh tirth."
+    },
+    {
+      "q": "What does the name Munisuvrata mean, according to Jainworld?",
+      "options": ["Vow like an ascetic", "Lord of tortoises", "Light of the moon", "Gentle rain"],
+      "answer": 0,
+      "why": "Jainworld says the name means a vow like an ascetic's, chosen because his mother kept disciplined vows during pregnancy."
+    }
+  ],
+  "related": ["mallinatha", "naminatha", "aranatha", "neminatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Munisuvrata",
+    "jainheritage-bharuch": "https://www.jainheritagecentres.com/jainism-in-india/gujarat/bharuch/",
+    "jainworld": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-20.htm"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#d7e8da",
+    "c2": "#efe3c9"
+  },
+  "order": 20,
+  "slug": "munisuvrata"
+}

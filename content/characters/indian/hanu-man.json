@@ -6,7 +6,7 @@
   "kind": "hero",
   "medium": "film",
   "publisher": "Primeshow Entertainment",
-  "summary": "The hero of Telugu cinema's first superhero film: Hanumanthu, a small-time thief from Anjanadri powered by a gem formed from Lord Hanuman's blood. Played by Teja Sajja (2024).",
+  "summary": "The hero of a film billed as Telugu cinema's first superhero film: Hanumanthu, a small-time thief from Anjanadri who, in the film, is powered by a gem formed from Lord Hanuman's blood. Played by Teja Sajja (2024).",
   "origin": "Hanumanthu is a petty thief in Anjanadri, a village crushed by the tyrant Gajapathi. Defending Meenakshi, a doctor who stands up to Gajapathi, he is badly beaten and thrown into the sea, where he unknowingly touches a divine gemstone formed from a drop of Hanuman's blood. He wakes up healed and discovers that sunlight switches on the gem and gives him enormous strength. He beats Gajapathi in a public wrestling match, then has to protect the gem from Michael, an outsider desperate for real superpowers.",
   "creators": ["Prasanth Varma (writer, director)"],
   "firstAppearance": {
@@ -43,7 +43,7 @@
       "era": "Loss",
       "years": "2024",
       "title": "After sunset",
-      "beat": "His sister Anjamma dies in a clash with Michael after dark, when the gem doesn't work, and Hanumanthu gives up the gem."
+      "beat": "His sister Anjamma is lost in a clash with Michael after dark, when the gem doesn't work, and Hanumanthu gives up the gem."
     },
     {
       "era": "Faith",
@@ -67,18 +67,18 @@
   "gossip": [
     {
       "type": "fact",
-      "text": "At the 71st National Film Awards it won three: Best Film in AVGC, Best VFX Supervisor and Best Stunt Choreography.",
+      "text": "Hanu-Man was Teja Sajja's third film with director Prasanth Varma, after Zombie Reddy and Adbhutham.",
       "spice": 1
     },
     {
-      "type": "gossip",
-      "text": "Rishab Shetty was offered the role of Vibhishana but declined because of Kantara. He was later announced as Hanuman in the sequel.",
-      "spice": 3
+      "type": "fact",
+      "text": "Hanu-Man was shown at the 28th Fantasia International Film Festival in Montreal on 3 August 2024.",
+      "spice": 1
     },
     {
       "type": "fact",
-      "text": "Ravi Teja voiced the monkey character Koti.",
-      "spice": 2
+      "text": "The trailer was released in five languages on 18 December 2023 and was attached to prints of Salaar: Part 1 in cinemas.",
+      "spice": 1
     },
     {
       "type": "fact",
@@ -100,10 +100,10 @@
       "why": "The gem works in sunlight, which is why sunset is so dangerous for him."
     },
     {
-      "q": "In which language was Hanu-Man made?",
-      "options": ["Tamil", "Malayalam", "Telugu", "Hindi"],
-      "answer": 2,
-      "why": "It's a Telugu film directed by Prasanth Varma."
+      "q": "Who gives the voice of Koti, the monkey who helps find the gem?",
+      "options": ["Ravi Teja", "Prabhas", "Allu Arjun", "Chiranjeevi"],
+      "answer": 0,
+      "why": "Ravi Teja voices Koti, a monkey companion in the film."
     },
     {
       "q": "Who turns out to be the old sage helping Hanumanthu?",
@@ -156,8 +156,169 @@
       "year": 2025,
       "kind": "legacy",
       "title": "National Award haul",
-      "note": "The film wins Best Film in AVGC and Best Stunt Choreography at the 71st National Film Awards."
+      "note": "The film wins Best Film in AVGC, Best VFX Supervisor and Best Stunt Choreography at the 71st National Film Awards."
+    },
+    {
+      "year": 2026,
+      "kind": "screen",
+      "title": "3D version announced",
+      "note": "As of May 2026, a 3D version of the film is announced for a worldwide release on 25 June 2026."
     }
   ],
-  "heat": 60
+  "heat": 60,
+  "facts": [
+    {
+      "text": "Hanumanthu's strength runs on sunlight: his gem works only while the sun is up. India Today compared that rule to Jadoo's powers in Koi... Mil Gaya.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "In the film, the Rudramani gem is formed from a drop of Hanuman's blood, with that drop shaped as Rama's name inside, ringed by a protective shield. The art team made over a hundred test versions.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 9
+    },
+    {
+      "text": "After beating the tyrant Gajapathi in a wrestling bout, Hanumanthu is offered his seat, the title of Polygar, but turns it down and calls for the village to be run democratically.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "An elderly sage who seems to be a bystander secretly defeats Michael's mercenaries while disguised as Hanumanthu, and rescues the missing Siri.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "The sage is finally revealed as Vibhishana, the immortal king of Lanka, who reminds Hanumanthu that Lord Hanuman has always helped people who uphold Dharma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "In the film's finale the gem breaks and its divine power flows into Hanumanthu. The blast also breaks an ancient seal and wakes asuras, and Lord Hanuman rises from deep meditation in the Himalayas to stand beside him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Varma compared the fictional village Anjanadri to Gotham, and noted that Anjanadri is also the name traditionally given to Hanuman's birthplace. He imagined it as an island in Andhra Pradesh.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "The final edit had about 1,600 visual effects shots, roughly 30% of the film, and the photoreal Hanuman for the climax song took nearly seven months of effects work.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "The villain Michael is a boy obsessed with superheroes in 1998 Saurashtra. Years later he works in Mumbai as 'Mega Man', a gadget-based vigilante, while secretly hunting for real superpowers.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "Michael and his friend Siri reach Anjanadri posing as a corporate social responsibility team. Michael secretly plans to release a neurotoxic gas to freeze the villagers and grab the gem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Prasanth Varma announced the film on 29 May 2021, his birthday, and it was billed as the first superhero film in Telugu cinema. He says the title honours the many who think of Hanuman when they think of a Hindu superhero.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Varma had planned to sign the Kannada star Yash to play Hanuman in live action. Instead the film went with a photorealistic computer-generated Hanuman for the climax.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Hanu-Man had a listed budget of about 40 crore rupees but grossed an estimated 298 to 350 crore worldwide, making it the eleventh highest-grossing Telugu film of all time.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 9
+    },
+    {
+      "text": "A monkey called Koti, voiced by Ravi Teja, helps Hanumanthu locate the gem during the fight against Michael.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "The underwater sequence was filmed in Mumbai in December 2022, and Teja Sajja trained under a special trainer for fifteen days in Hyderabad to prepare for it.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "The film winks at pop culture, with references to Spider-Man, Superman and Batman, and tributes to Telugu stars like Prabhas, Mahesh Babu, Pawan Kalyan, Allu Arjun and Nandamuri Balakrishna.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "After the teaser, distributors in Japan and Korea approached the makers, according to Varma.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "The team built the Anjanadri sets near Hyderabad over about 150 to 200 days, and the giant Hanuman statue above the village was made digitally, inspired by the seven hills of Tirumala.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "The makers used the AI tools ChatGPT and Midjourney to design the film's posters, an early use of such tools in Indian film marketing.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "At the 71st National Film Awards, announced in 2025, Hanu-Man won three prizes: Best Film in AVGC, Best VFX Supervisor and Best Stunt Choreography.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "Hanu-Man opens the Prasanth Varma Cinematic Universe, and its end credits announce the sequel Jai Hanuman, whose pre-production was launched on the day the Ram Mandir in Ayodhya was inaugurated.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Hanumanthu is a small-time thief in the village of Anjanadri. When he touches a glowing gem in the sea, sunlight gives him amazing strength. He uses it to protect his village, with help from an old sage who turns out to be Vibhishana.",
+  "story": [
+    {
+      "title": "A thief in Anjanadri",
+      "text": "Hanumanthu is a thief in a village ruled by a bully. He tries to protect Meenakshi, a doctor, and gets thrown into the sea."
+    },
+    {
+      "title": "The glowing gem",
+      "text": "In the sea he touches a gem that, in the film, was formed from a drop of Hanuman's blood. He wakes up healed."
+    },
+    {
+      "title": "Powered by sunlight",
+      "text": "The gem works in sunlight and gives Hanumanthu huge strength. He wins a wrestling match against the village ruler."
+    },
+    {
+      "title": "A hard lesson",
+      "text": "After a sad loss one evening, when the sun has set, Hanumanthu gives up the gem and loses hope."
+    },
+    {
+      "title": "The sage's advice",
+      "text": "An old sage reveals he is Vibhishana, the immortal king of Lanka. He reminds Hanumanthu that Hanuman helps those who stand for dharma."
+    },
+    {
+      "title": "The final battle",
+      "text": "Hanumanthu stops the outsider Michael, the gem fuses with him, and in the film Lord Hanuman rises to join him."
+    }
+  ]
 }

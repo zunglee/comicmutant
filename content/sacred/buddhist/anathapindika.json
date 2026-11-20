@@ -1,0 +1,269 @@
+{
+  "slug": "anathapindika",
+  "name": "Anathapindika",
+  "aka": ["Sudatta", "Anathapindada", "Anathapindika-setthi"],
+  "native": "अनाथपिण्डिक",
+  "role": "Merchant who gave the Jetavana monastery to the Buddha",
+  "summary": "In Buddhist tradition, Anathapindika was a wealthy merchant of Shravasti who bought Prince Jeta's park with gold coins and built the Jetavana monastery, where the Buddha stayed 19 rainy seasons.",
+  "about": "Anathapindika, born Sudatta, was a rich merchant and banker of Savatthi (Shravasti) in the time of the Buddha. He earned his nickname, which means one who gives alms to the unprotected, because he loved to help people in need. The Pali texts say he first heard of the Buddha at Rajagaha, met him early one morning and understood his teaching. He then bought the park of Prince Jeta by covering the ground with coins and built the Jetavana monastery, a home for the Buddha and his monks. Buddhist tradition names him the chief male patron of the Buddha and the lay follower foremost in generosity. Many stories tell how he stayed generous even after losing much of his wealth. He is remembered at Jetavana, now an archaeological park in Uttar Pradesh.",
+  "kidSummary": "Anathapindika was a very rich merchant who loved to share. When the Buddha needed a home for his monks, he bought a whole park by covering the ground with gold coins. He kept giving, even in hard times, and is remembered as the Buddha's biggest helper.",
+  "story": [
+    {
+      "title": "A name for his kindness",
+      "text": "His birth name was Sudatta, but people called him Anathapindika, 'the one who feeds the helpless', because he always shared his food with people who needed it."
+    },
+    {
+      "title": "Meeting the Buddha",
+      "text": "On a trip to Rajagaha, he heard the Buddha was nearby. He set out before dawn, and, as the texts tell it, the Buddha greeted him by his first name. He understood the teaching."
+    },
+    {
+      "title": "A park for the monks",
+      "text": "Back home he found the perfect shady park, owned by Prince Jeta. The prince joked that it would cost as many gold coins as would cover the ground. Anathapindika said yes."
+    },
+    {
+      "title": "Coins on the ground",
+      "text": "Carts of gold coins were laid across the park. When one small corner was left, Prince Jeta was so moved that he gave the rest and added a gate and trees."
+    },
+    {
+      "title": "Giving in good and hard times",
+      "text": "He fed the monks every day. Even when he lost much of his money, he kept giving what he could, and the stories say his fortune came back."
+    }
+  ],
+  "teaches": [
+    "Generosity is a joy, not a burden",
+    "Give to those who need it most",
+    "Kindness continues in hard times"
+  ],
+  "symbol": "star",
+  "emblems": ["Gold coins", "Jetavana (Jeta's Grove)", "Bodhi tree at the gateway"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Sumana"
+    },
+    {
+      "relation": "Wife",
+      "name": "Punnalakkhana"
+    },
+    {
+      "relation": "Son",
+      "name": "Kala"
+    },
+    {
+      "relation": "Fellow chief patron",
+      "name": "Visakha"
+    },
+    {
+      "relation": "Guest and teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    }
+  ],
+  "texts": [
+    "Pali Canon and commentaries",
+    "Anathapindikovada Sutta (MN 143)",
+    "Cullavagga",
+    "Dhammapada commentary"
+  ],
+  "places": ["Savatthi (Shravasti)", "Jetavana monastery (Sahet-Mahet)", "Rajagaha"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Prince Jeta said he was only joking, but arbitrators ruled that naming a price counted as a sale. The coins covered all but one spot at the entrance, and the moved prince gave the rest and added a wall, gate and trees.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On first hearing of the Buddha at his brother-in-law's house in Rajagaha, he mistook the feast preparations for a wedding or a royal visit, and was thrilled to learn that an awakened being had appeared.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He set out in the dark before dawn; a friendly yakkha urged him on, and the Buddha called him by his birth name Sudatta, a name the public did not know.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Chinese pilgrim Faxian wrote that the monastery once had seven sections, perhaps storeys, until a rat carrying a lit lamp wick set fire to the hangings and burned it down; it was rebuilt with two.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Buddha spent 19 of his rainy-season retreats at Jetavana, more than at any other monastery, and later alternated between Anathapindika's monastery and Visakha's.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Japan the god Gozu Tenno, central to the Gion faith, is said to have begun as a guardian of Jetavana, and the name of the Gion district is a version of the word Jetavana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Kalakanni, a poor childhood friend whose name means 'unlucky bird', was given a job by him despite the household's worries about it, and later scared off thieves by making a lot of noise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to commentaries he never asked the Buddha a question, afraid of troubling him, so the Buddha taught him unasked.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tibetan sources say the monastery was laid out to a plan sent by the gods of Tusita, with sixty large halls and sixty small ones.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He planted a Bodhi tree at the monastery gate, later called the Ananda Bodhi, which is counted as the second holiest tree in Buddhism.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His daughter-in-law Sujata (not the milkmaid) was Visakha's youngest sister. She was proud and quarrelsome until the Buddha described seven kinds of wives to her, and she changed her ways.",
+      "kind": "family",
+      "source": "https://aimwell.org/DPPN/sujataa.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The ceremony to dedicate Jetavana was so grand that the festivities lasted nine months, with his whole family taking part.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A relief at Bharhut shows Anathapindika covering the ground of Jetavana with coins.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Jetavana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A flash flood washed away much of his gold, and lending to friends added to his losses. Yet he kept supporting the monks, only more modestly.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A deity in his house, upset at stepping aside whenever monks visited, urged him to stop giving. He said his only treasures were the Buddha, the teaching and the community, and sent it away. Sakka told the deity to make amends, and his wealth returned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he fell ill, Sariputta and Ananda visited, and Sariputta taught him to loosen his clinging. He called it the most profound teaching he had heard; Sariputta said it was not usually given to laypeople. He died soon after.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Scholar Hellmuth Hecker estimated that buying the land and building Jetavana cost him about three-fifths of his whole fortune, with several million more coins spent on the buildings and furnishings.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His generosity inspired King Pasenadi of Kosala, another follower of the Buddha, to begin giving generously to the community as well.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He hosted hundreds of monks at his house for meals every day, and also sent food, medicine and supplies to Jetavana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After meeting the Buddha he took up the five precepts strictly and encouraged his family, friends, employees and everyone around him to do the same.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Anathapindika",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Anathapindika's name mean?",
+      "options": [
+        "One who gives alms to the unprotected",
+        "King of merchants",
+        "Friend of princes",
+        "Builder of temples"
+      ],
+      "answer": 0,
+      "why": "Anatha means unprotected and pinda is alms."
+    },
+    {
+      "q": "How did he buy Prince Jeta's park?",
+      "options": [
+        "By trading elephants",
+        "By building a palace",
+        "By covering the ground with coins",
+        "By paying with jewels"
+      ],
+      "answer": 2,
+      "why": "The prince said the park would be his if it was covered with coins."
+    },
+    {
+      "q": "What was the name of the monastery he built?",
+      "options": ["Nalanda", "Jetavana", "Mahabodhi", "Veluvana"],
+      "answer": 1,
+      "why": "Jetavana means Jeta's Grove."
+    },
+    {
+      "q": "How many rainy seasons did the Buddha spend at Jetavana?",
+      "options": ["3", "7", "12", "19"],
+      "answer": 3,
+      "why": "He spent 19 rainy seasons there, more than at any other monastery."
+    },
+    {
+      "q": "What was Anathapindika's birth name?",
+      "options": ["Jeta", "Sudatta", "Kala", "Sumana"],
+      "answer": 1,
+      "why": "He was born Sudatta; Anathapindika was a nickname."
+    }
+  ],
+  "related": ["gautama-buddha", "sariputta", "ananda", "bimbisara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anathapindika",
+    "jetavana": "https://en.wikipedia.org/wiki/Jetavana",
+    "visakha": "https://en.wikipedia.org/wiki/Visakha"
+  },
+  "palette": {
+    "c1": "#f0e4c4",
+    "c2": "#e0ead6"
+  },
+  "years": "c. 6th–5th century BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "full"
+}

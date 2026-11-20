@@ -1,0 +1,288 @@
+{
+  "slug": "ajooba",
+  "name": "Ajooba",
+  "realName": "Ali",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Aasia Films / Gorky Film Studio",
+  "summary": "A black-clad masked rider played by Amitabh Bachchan in the 1990-91 Indo-Soviet fantasy epic Ajooba, India's costliest film of its day. It is now a cult favourite.",
+  "origin": "Ajooba comes from a Hindi-Russian fantasy film loosely based on Arabian folk tales such as the Thousand and One Nights. The title role of Shehzada Ali, who fights as the masked Ajooba, was played by Amitabh Bachchan. Shashi Kapoor produced and directed with Soviet co-director Gennadi Vasilyev.",
+  "creators": [
+    "Shashi Kapoor (producer, director)",
+    "Gennadi Vasilyev (co-director)",
+    "Prayag Raj (writer)",
+    "Brij Katyal (writer)",
+    "Laxmikant-Pyarelal (songs)",
+    "Vanraj Bhatia (score)"
+  ],
+  "firstAppearance": {
+    "title": "Ajooba",
+    "issue": "Film (USSR cut: Black Prince Ajuba)",
+    "year": 1990
+  },
+  "powers": [
+    "Immune to poison and strangulation (a divine spark)",
+    "Trained by a blacksmith in martial arts",
+    "Zorro-style masked vigilante persona"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Pre-production",
+      "years": "1980s",
+      "title": "A third Soviet venture",
+      "beat": "After Alibaba aur 40 Chor and Sohni Mahiwal, Indian and Soviet studios team up again. Shashi Kapoor takes on the directing chair himself."
+    },
+    {
+      "era": "Shoot",
+      "years": "1990",
+      "title": "A giant two-country unit",
+      "beat": "A 200-strong Indian crew works alongside Soviet technicians, with three cinematographers and two editors from both countries."
+    },
+    {
+      "era": "Soviet release",
+      "years": "1990",
+      "title": "Black Prince Ajuba",
+      "beat": "A Russian-language cut reaches Soviet cinemas in July 1990, nine months before India sees the film."
+    },
+    {
+      "era": "Indian release",
+      "years": "1991",
+      "title": "Eid weekend opening",
+      "beat": "The Hindi version opens in India on 12 April 1991 and falls well short of its record budget at the box office."
+    },
+    {
+      "era": "Afterlife",
+      "years": "1990s onward",
+      "title": "Cult status",
+      "beat": "Repeated television re-runs turn a famous flop into a much-quoted cult curiosity and a case study in big-budget misfires."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "One character in the cast list is named Shah Rukh, played by Dalip Tahil, in a film made before Shah Rukh Khan was a superstar.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Amjad Khan reportedly shot as the villain for about a month before Amrish Puri took over the role. Reports about why differ, and the blame in them is only his claim.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "A Wikipedia page on actress Ariadna Shengelaya gives the Russian release title as Return of the Baghdad Thief, while the Ajooba page says Black Prince Ajuba.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Ajooba flopped everywhere, so nobody in the USSR watched it.",
+      "truth": "Wikipedia, India.com and ZarinTV all describe it as a success in the USSR, even though it flopped in India.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Soviet studio co-produced Ajooba?",
+      "options": ["Mosfilm", "Lenfilm", "Soyuzmultfilm", "Gorky Film Studio"],
+      "answer": 3,
+      "why": "Aasia Films teamed up with Gorky Film Studio."
+    },
+    {
+      "q": "What does the word Ajooba roughly mean?",
+      "options": ["Shadow", "Wonder", "Thunder", "Rider"],
+      "answer": 1,
+      "why": "The title translates roughly as wonder."
+    },
+    {
+      "q": "Who directed Ajooba with a Soviet co-director?",
+      "options": ["Raj Kapoor", "Rishi Kapoor", "Shashi Kapoor", "Shammi Kapoor"],
+      "answer": 2,
+      "why": "Shashi Kapoor produced and directed with Gennadi Vasilyev."
+    },
+    {
+      "q": "Which famous masked swordsman is Ajooba compared to?",
+      "options": ["Batman", "Zorro", "The Phantom", "Robin Hood"],
+      "answer": 1,
+      "why": "Wikipedia notes the masked rider in black recalls Zorro."
+    },
+    {
+      "q": "Who carried baby Ali ashore in the film?",
+      "options": ["A dolphin", "A blacksmith", "An eagle", "A camel"],
+      "answer": 0,
+      "why": "A dolphin carried the infant ashore, and he thought of it as his mother."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#111827",
+      "c2": "#7c2d12",
+      "c3": "#fbbf24"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "A masked rider from the last Indo-Soviet dream."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajooba",
+    "shashikapoor": "https://en.wikipedia.org/wiki/Shashi_Kapoor",
+    "shengelaya": "https://en.wikipedia.org/wiki/Ariadna_Shengelaya",
+    "indiacom": "https://www.india.com/entertainment/amitabh-bachchans-biggest-flop-even-2-directors-shashi-kapoor-couldnt-save-it-film-name-is-ajooba-it-released-in-1991-7647092/",
+    "zorro": "https://en.wikipedia.org/wiki/Zorro",
+    "dna": "https://www.dnaindia.com/bollywood/report-india-s-biggest-flop-film-ajooba-most-expensive-indian-film-superstar-amitabh-rishi-kapoor-dimple-box-office-3082838",
+    "zarintv": "https://zarintv.com/english/2025123132155"
+  },
+  "timeline": [
+    {
+      "year": 1990,
+      "kind": "debut",
+      "title": "Soviet release",
+      "note": "The Russian-language Black Prince Ajuba opens in the USSR in July, before India."
+    },
+    {
+      "year": 1991,
+      "kind": "screen",
+      "title": "Indian release",
+      "note": "The Hindi cut arrives on 12 April over Eid and under-performs against its Rs 8 crore budget."
+    },
+    {
+      "year": 1991,
+      "kind": "turn",
+      "title": "Last of the Indo-Soviet co-productions",
+      "note": "The film's failure is cited as why it was the last India-USSR film collaboration."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Amitabh Bachchan marks 30 years of Ajooba",
+      "note": "In April 2021 a New Indian Express piece headlined Amitabh Bachchan celebrates 30 years of Ajooba appears, as cited on Ariadna Shengelaya's Wikipedia page."
+    }
+  ],
+  "heat": 30,
+  "facts": [
+    {
+      "text": "Its Rs 8 crore budget made it the most expensive Indian film made until then.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 8
+    },
+    {
+      "text": "The Russian-language version, titled Black Prince Ajuba, hit Soviet cinemas in July 1990, about nine months before the Indian opening on 12 April 1991.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "Shashi Kapoor's son Kunal says the crew flew 650 kg of dal to the USSR, because the roughly 200-member Indian unit found local food too bland and ran its own kitchen on location.",
+      "kind": "culture",
+      "source": "https://zarintv.com/english/2025123132155",
+      "interest": 9
+    },
+    {
+      "text": "A spark of divine intervention enters the Sultan's wife before the birth, and the newborn prince turns out immune to every plot the Vazir's maids try against him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "Baby Ali is washed ashore by a dolphin, and he grows up thinking of the dolphin as his mother.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 9
+    },
+    {
+      "text": "A magic sword is thrust into a pillar and only a member of the royal family can pull it out, much like Excalibur in the King Arthur legends.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 8
+    },
+    {
+      "text": "The Vazir revives Fauladi Shaitan, a giant demon made of stone, and uses the slogan Shaitan Zindabad, meaning long live the Devil.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 8
+    },
+    {
+      "text": "By day Ali is an ordinary restaurateur with a friend named Hassan, played by Rishi Kapoor, and by night they raid the Vazir's caravans.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "Ajooba was Shashi Kapoor's first time directing, and DNA says the setback meant he never directed another film.",
+      "kind": "creator",
+      "source": "https://www.dnaindia.com/bollywood/report-india-s-biggest-flop-film-ajooba-most-expensive-indian-film-superstar-amitabh-rishi-kapoor-dimple-box-office-3082838",
+      "interest": 7
+    },
+    {
+      "text": "In the opening battle, with magic carpets, storms and ships, the Sultan goes missing, Queen Malika loses her sight and baby Ali drifts away to a blacksmith's shore.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "In India the film earned only about Rs 3.5 crore according to DNA, against its record Rs 8 crore budget; India.com gives about Rs 3.8 crore, so either way under half the cost.",
+      "kind": "record",
+      "source": "https://www.dnaindia.com/bollywood/report-india-s-biggest-flop-film-ajooba-most-expensive-indian-film-superstar-amitabh-rishi-kapoor-dimple-box-office-3082838",
+      "interest": 8
+    },
+    {
+      "text": "Kunal Kapoor says the crew flew club class and stayed for weeks even to shoot minor scenes, which helped the budget balloon.",
+      "kind": "culture",
+      "source": "https://zarintv.com/english/2025123132155",
+      "interest": 8
+    },
+    {
+      "text": "Amjad Khan was first cast as the villain and shot for about a month before Shashi Kapoor replaced him with Amrish Puri, as India.com tells it.",
+      "kind": "creator",
+      "source": "https://www.india.com/entertainment/amitabh-bachchans-biggest-flop-even-2-directors-shashi-kapoor-couldnt-save-it-film-name-is-ajooba-it-released-in-1991-7647092/",
+      "interest": 8
+    },
+    {
+      "text": "India.com says Raj Kapoor was first meant to direct but was too ill, so Shashi Kapoor took over and, on Amitabh's advice, brought in Soviet co-director Gennady Vasilyev.",
+      "kind": "creator",
+      "source": "https://www.india.com/entertainment/amitabh-bachchans-biggest-flop-even-2-directors-shashi-kapoor-couldnt-save-it-film-name-is-ajooba-it-released-in-1991-7647092/",
+      "interest": 7
+    },
+    {
+      "text": "The Russian actress Ariadna Shengelaya, who plays Queen Malika, made her Indian debut here and, DNA says, never acted in India again.",
+      "kind": "screen",
+      "source": "https://www.dnaindia.com/bollywood/report-india-s-biggest-flop-film-ajooba-most-expensive-indian-film-superstar-amitabh-rishi-kapoor-dimple-box-office-3082838",
+      "interest": 7
+    },
+    {
+      "text": "The story is set in the Afghan kingdom of Baharistan, a land ruled by a kind Sultan who hopes for a son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "The film was made in a Hindi version and a Russian version, and India.com calls it an Indo-Russian project shot in both languages.",
+      "kind": "culture",
+      "source": "https://www.india.com/entertainment/amitabh-bachchans-biggest-flop-even-2-directors-shashi-kapoor-couldnt-save-it-film-name-is-ajooba-it-released-in-1991-7647092/",
+      "interest": 7
+    },
+    {
+      "text": "Shashi Kapoor had lost heavily on his earlier film Utsav, and India.com says he made Ajooba partly to win the money back, giving it about five to six years.",
+      "kind": "creator",
+      "source": "https://www.india.com/entertainment/amitabh-bachchans-biggest-flop-even-2-directors-shashi-kapoor-couldnt-save-it-film-name-is-ajooba-it-released-in-1991-7647092/",
+      "interest": 7
+    },
+    {
+      "text": "Two earlier Indo-Soviet films, Alibaba aur 40 Chor and Sohni Mahiwal, paved the way, but Ajooba's failure in India made it the last such collaboration.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Ajooba",
+      "interest": 7
+    },
+    {
+      "text": "Amitabh Bachchan was not signing new films then, yet he made an exception for Ajooba out of friendship with Shashi Kapoor, who wanted him in his first film as director.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Shashi_Kapoor",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Ajooba is a brave masked rider in a Hindi-Russian fantasy film. As a baby he is carried ashore by a dolphin and raised by a blacksmith, and as a grown man he takes on a wicked Vazir and a giant stone demon."
+}

@@ -1,0 +1,296 @@
+{
+  "slug": "harishchandra",
+  "name": "Harishchandra",
+  "aka": ["Raja Harishchandra", "Satyavrata Harishchandra"],
+  "native": "हरिश्चन्द्र",
+  "role": "Legendary king of Ayodhya, remembered for truthfulness",
+  "summary": "Harishchandra is the legendary Solar-dynasty king of Kosala remembered across India as the king who kept his word through every hardship. His name has become a byword for truthfulness.",
+  "about": "In the Puranas Harishchandra is a king of the Solar dynasty, a son of Trishanku, who ruled Kosala from Ayodhya. The Markandeya Purana, in a tale told by wise birds, says the sage Vishvamitra tests him by asking for his entire kingdom and then for more gold. To repay, the king sells his queen Shaivya, also called Taramati, and their son Rohitashva in Kashi and finally himself, working at a cremation ground. In the end the gods appear, and the king declines heaven unless his subjects can come too. Other texts tell versions: the Aitareya Brahmana links him with the sacrifice of Shunahshepa, and the Devi Bhagavata Purana combines the two. Harishchandra Ghat in Varanasi is named after him, and his story has been told in plays, in Kannada poet Raghavanka's poem, and in India's first full-length feature film. Mahatma Gandhi said the play he saw as a boy shaped his love of truth.",
+  "kidSummary": "Harishchandra is a king in old Indian stories who never told a lie. The tales say a sage tested him with great hardships, but he kept his word every time. In the end the gods praised him. His name is still used for someone who always tells the truth.",
+  "story": [
+    {
+      "title": "A king of his word",
+      "text": "According to the Markandeya Purana, King Harishchandra of Ayodhya was known for never breaking a promise. The sage Vishvamitra decided to test him."
+    },
+    {
+      "title": "Giving everything",
+      "text": "Harishchandra promised the sage a gift and ended up giving away his whole kingdom, then still owed more gold."
+    },
+    {
+      "title": "Kashi",
+      "text": "In Kashi he sold his wife and son so he could pay, and then he sold himself to work at the cremation ground."
+    },
+    {
+      "title": "A hard job",
+      "text": "The story says Harishchandra stayed honest even in sorrow, collecting the small fee for each cremation. When his wife came with their son, he still did his duty."
+    },
+    {
+      "title": "The gods appear",
+      "text": "The gods then appeared and praised him. Harishchandra would not enter heaven unless his people could come too."
+    }
+  ],
+  "teaches": [
+    "Keep your promises",
+    "Honesty matters even when it is hard",
+    "Care about others as well as yourself"
+  ],
+  "symbol": "flame",
+  "emblems": ["Cremation-ground fire", "Kashi (Varanasi)", "Solar dynasty"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Trishanku"
+    },
+    {
+      "relation": "Wife",
+      "name": "Shaivya (Taramati)"
+    },
+    {
+      "relation": "Son",
+      "name": "Rohitashva"
+    },
+    {
+      "relation": "Priest",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Tester",
+      "name": "Vishvamitra",
+      "slug": "vishvamitra"
+    }
+  ],
+  "texts": ["Markandeya Purana", "Devi Bhagavata Purana", "Aitareya Brahmana", "Vishnu Purana"],
+  "places": ["Harishchandra Ghat, Varanasi", "Ayodhya (Kosala)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Markandeya Purana, Vishvamitra curses the five guardians of the directions, who had condemned his harsh treatment of the queen, to be born as humans. They become the sons of Draupadi and the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Narada tells Yudhishthira that Harishchandra was the only earthly king to have a seat in the assembly of the gods, after he performed the rajasuya sacrifice and gave generously.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, the obstacle god Vighnaraja makes a cry for help that draws the king into disturbing Vishvamitra's meditation, which starts the story.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Aitareya Brahmana, Harishchandra had a hundred wives but no son until Varuna granted a boon on Narada's advice, when his son Rohita was born.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In that version, Rohita refuses to be sacrificed to Varuna, the king falls ill with a swollen stomach, and the boy Shunahshepa is offered in his place.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, Queen Shaivya herself suggests that Harishchandra sell her, so he sells her and their son to an elderly man. Then he offers to be Vishvamitra's slave, and the sage sells him to a cremation-ground keeper, an outcaste (chandala).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, the cremation-ground keeper who bought Harishchandra (an outcaste chandala in the text) is secretly Yama in disguise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, when Shaivya brings the body of their son, who died of a snake bite, to the cremation ground, Harishchandra tells her he cannot allow the rite until the fee is paid.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Yama and the gods offer Harishchandra heaven, but he says no unless his subjects come with him, and Indra lets them in for a day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The cremation ground at Kashi, now Varanasi, is called Harishchandra Ghat after him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dadasaheb Phalke's Raja Harishchandra premiered on 21 April 1913 in Bombay and is recognised by the Government of India as the first Indian feature film.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Phalke's film dream began in 1911, when he watched a film about the life of Jesus in Bombay and found himself imagining Rama and Krishna on the screen instead.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "To win backers, Phalke planted peas in a pot and filmed them with one frame a day for over a month. The short film Growth of a Pea Plant showed a seed turning into a climber.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Because no women were available, Anna Salunke, a restaurant cook, played Taramati.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Friends and neighbours nicknamed Phalke 'Harishchandra', because he had sold nearly everything he owned to fund the film and kept only his wife's mangalsutra, much like the king in the tale.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Villagers at Vangani mistook Phalke's rehearsing troupe for dacoits and told the headman, and the Faujdar, a local commander, arrested everyone until Phalke explained filmmaking and mimed a scene without film.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Because film work was seen as shameful, Phalke told his actors to say they worked in a factory for a man named Harishchandra.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Gandhi wrote that, as a schoolboy, he saw a Harishchandra play with his father's permission, kept acting it in his mind, and wondered why everyone should not be truthful.",
+      "kind": "history",
+      "source": "https://franpritchett.com/00litlinks/gandhi/part1/printingtext_101_110.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the 12th century the Hoysala poet Raghavanka wrote the Harishchandra Kavya in Kannada, a much-praised epic of the king's trials; the 1965 film Satya Harishchandra was based on it.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Puranas, Harishchandra's father Trishanku wanted to rise to heaven in his own body; the gods expelled him, Vishvamitra stopped his fall, and he was left hanging in mid-air.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trishanku",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After giving away everything, Harishchandra still owed the sage more and promised to pay within a month. In Kashi, Vishvamitra turned up early, but the king pointed out the month was not over, so the sage agreed to return at the next sunset.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "While working at the cremation ground, Harishchandra dreams of his past lives and sees his queen in tears. When he wakes, she really is there, holding their son who had died of a snake bite.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Purana says each cremation fee was split three ways: a share for his master, a share for the local king, and a share as Harishchandra's own pay.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, the test begins with an argument: Vasishtha praises the king's honesty, but Vishvamitra objects, pointing out that the king was once ready to sacrifice a boy named Sunahshepa, and vows to prove him less noble.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tamil, calling someone a Raja Harishchandra is often a gentle scolding, aimed at a person who sticks to the truth even when it hurts his own relatives.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Markandeya Purana, the queen is called Shaivya, also known as Taramati, and their son is Rohitashva.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Harishchandra's father in the Puranas?",
+      "options": ["Trishanku", "Dasharatha", "Raghu", "Ambarisha"],
+      "answer": 0,
+      "why": "The Puranas call Harishchandra the son of King Trishanku."
+    },
+    {
+      "q": "Where did Harishchandra work at the cremation ground?",
+      "options": ["Kashi", "Ujjain", "Prayag", "Puri"],
+      "answer": 0,
+      "why": "Kashi, now Varanasi, has Harishchandra Ghat."
+    },
+    {
+      "q": "Who made the 1913 film Raja Harishchandra?",
+      "options": ["Satyajit Ray", "Dadasaheb Phalke", "Raj Kapoor", "V. Shantaram"],
+      "answer": 1,
+      "why": "Phalke made India's first full-length feature film."
+    },
+    {
+      "q": "What was Harishchandra's son's name in the Markandeya Purana?",
+      "options": ["Rohitashva", "Lava", "Kusha", "Abhimanyu"],
+      "answer": 0,
+      "why": "His son is Rohitashva, or Rohita."
+    },
+    {
+      "q": "Which sage tested Harishchandra?",
+      "options": ["Vishvamitra", "Valmiki", "Kapila", "Atri"],
+      "answer": 0,
+      "why": "The Markandeya Purana names Vishvamitra."
+    }
+  ],
+  "related": ["vishvamitra", "vasishtha", "yama", "ambarisha", "satyavan"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Harishchandra",
+    "raja_harishchandra_film": "https://en.wikipedia.org/wiki/Raja_Harishchandra",
+    "gandhi_autobiography": "https://franpritchett.com/00litlinks/gandhi/part1/printingtext_101_110.html"
+  },
+  "palette": {
+    "c1": "#E6C98E",
+    "c2": "#D9E4EC"
+  },
+  "order": 60,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

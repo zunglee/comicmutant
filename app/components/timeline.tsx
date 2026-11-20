@@ -42,7 +42,7 @@ export function Spine({ items }: { items: TimelineItem[] }) {
       {/* The spine: an ink track with a fill that follows the scroll (transform only). */}
       <div
         aria-hidden
-        className="absolute top-0 bottom-0 left-5 w-2 -translate-x-1/2 rounded-full border-2 border-line bg-card md:left-1/2"
+        className="absolute top-0 bottom-0 left-5 w-2 -translate-x-1/2 rounded-skin-pill border-skin-s border-line bg-card md:left-1/2"
       />
       <m.div
         aria-hidden
@@ -54,7 +54,7 @@ export function Spine({ items }: { items: TimelineItem[] }) {
         return (
           <li key={y} className="relative">
             <m.p
-              className="h-display relative z-10 ml-10 inline-block -rotate-2 border-[3px] border-line bg-c1 px-3 text-3xl text-on-c1 md:mx-auto md:block md:w-fit"
+              className="h-display relative z-10 ml-10 inline-block tilt-skin-2 border-skin border-line bg-c1 px-3 text-3xl text-on-c1 md:mx-auto md:block md:w-fit"
               initial={animate ? { scale: 0.6, rotate: -12 } : false}
               whileInView={{ scale: 1, rotate: -2 }}
               viewport={{ once: true, margin: '-40px' }}
@@ -89,7 +89,7 @@ function MilestoneCard({ it, index }: { it: TimelineItem; index: number }) {
       {/* Connector tick to the spine. */}
       <span
         aria-hidden
-        className={`absolute top-6 hidden h-[3px] w-8 bg-line md:block ${left ? '-right-8' : '-left-8'}`}
+        className={`absolute top-6 hidden h-(--border-w) w-8 bg-line md:block ${left ? '-right-8' : '-left-8'}`}
       />
       <article className="panel border-l-[10px] border-l-c1 p-4">
         <div className="mb-1 flex flex-wrap items-center gap-2">
@@ -141,10 +141,10 @@ export function MilestoneStrip({ items }: { items: Milestone[] }) {
           transition={{ type: 'spring', stiffness: 300, damping: 20, delay: i * 0.06 }}
         >
           {/* Rail + dot. */}
-          <span aria-hidden className="absolute -top-3 right-0 left-0 h-[3px] bg-line" />
+          <span aria-hidden className="absolute -top-3 right-0 left-0 h-(--border-w) bg-line" />
           <span
             aria-hidden
-            className="absolute -top-[18px] left-4 size-4 rounded-full border-[3px] border-line bg-c3"
+            className="absolute -top-[18px] left-4 size-4 rounded-skin-pill border-skin border-line bg-c3"
           />
           <article className="panel h-full p-4">
             <p className="h-display text-3xl text-c1-text-card">{it.year}</p>

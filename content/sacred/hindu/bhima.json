@@ -1,0 +1,255 @@
+{
+  "slug": "bhima",
+  "name": "Bhima",
+  "aka": ["Bhimasena", "Vrikodara", "Vallava", "Vayuputra"],
+  "native": "भीम",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Second Pandava, mighty warrior and son of the wind",
+  "summary": "Bhima is the second of the Pandava brothers in the Mahabharata, famed for enormous strength, a huge appetite and fierce loyalty to his family and to Draupadi.",
+  "about": "In the Mahabharata, Bhima is the second son of Kunti. The epic says his divine father was Vayu, the wind god, which makes him a brother, in the tradition's telling, of Hanuman. He is remembered for wrestling and mace fighting, and for helping his family many times: he fights the rakshasa Bakasura who troubled the village of Ekachakra, defeats Jarasandha in a long wrestling duel, and serves in disguise as the cook Vallava at King Virata's court. His marriage to the rakshasi Hidimbi gave him the son Ghatotkacha. In the war he keeps his promises to Draupadi, ending with the mace duel against Duryodhana. Alongside the epic, Bhima appears in temple art and in Javanese and Balinese tradition as Werkudara.",
+  "kidSummary": "Bhima is the strongest of the Pandava brothers in the Mahabharata. He loves food, wrestling and protecting his family. Many tales show him using his strength to help people, such as the villagers of Ekachakra, and he also learns a lesson in humility from a very old monkey.",
+  "story": [
+    {
+      "title": "Strong from the start",
+      "text": "In the Mahabharata, baby Bhima falls from his mother's lap onto a rock, and the rock breaks while he is fine. Later he drinks the nagas' special elixir and gains the strength of a thousand elephants."
+    },
+    {
+      "title": "The village and the giant",
+      "text": "The Pandavas hide in the village of Ekachakra, where a giant called Bakasura eats villagers one at a time. Bhima goes in place of one family and puts a stop to this."
+    },
+    {
+      "title": "The old monkey's tail",
+      "text": "In the forest, Bhima finds an old monkey lying across the path and tells him to move his tail. Bhima cannot lift it at all, and learns the monkey is Hanuman, his brother through Vayu."
+    },
+    {
+      "title": "The cook who wrestled",
+      "text": "In the hidden year, Bhima works as Vallava, the palace cook, and also wrestles. He beats the champion wrestler Jimuta at King Virata's court."
+    },
+    {
+      "title": "Guarding Draupadi",
+      "text": "At Virata's court, a bully named Kichaka troubles Draupadi. Bhima waits in disguise and defeats him quietly, so the secret of the hidden year stays safe."
+    },
+    {
+      "title": "The mace duel",
+      "text": "At the end of the war, Bhima and Duryodhana fight with maces. Bhima strikes Duryodhana's thigh after Arjuna slaps his own thigh as a hint, and the long war is over."
+    }
+  ],
+  "teaches": [
+    "Strength is for protecting others",
+    "Humility, even for the strong",
+    "Keep your promises"
+  ],
+  "symbol": "mace",
+  "emblems": ["Mace (gada)", "Conch Paundra"],
+  "family": [
+    { "relation": "Father (by tradition)", "name": "Vayu", "slug": "vayu" },
+    { "relation": "Mother", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Brother through Vayu", "name": "Hanuman", "slug": "hanuman" },
+    { "relation": "Wife", "name": "Draupadi", "slug": "draupadi" },
+    { "relation": "Wife", "name": "Hidimbi", "slug": "hidimbi" },
+    { "relation": "Son", "name": "Ghatotkacha", "slug": "ghatotkacha" },
+    { "relation": "Elder brother", "name": "Yudhishthira", "slug": "yudhishthira" },
+    { "relation": "Younger brother", "name": "Arjuna", "slug": "arjuna" }
+  ],
+  "texts": ["Mahabharata", "Javanese wayang tales"],
+  "places": ["Ekachakra", "Kurukshetra", "Gandhamadana"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Vrikodara means wolf-bellied, a name that points to his huge appetite. In the epic he sometimes eats about half of the whole family's food.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, when Bhima was a baby he slipped from Kunti's lap onto a mountain rock, and the rock shattered while the baby was unhurt.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "As a boy, Bhima was poisoned by Duryodhana's side and thrown into the Ganga. The epic says the nagas' venom cancelled the poison and revived him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8
+    },
+    {
+      "text": "Under the water, the naga king Vasuki gave Bhima a powerful drink. He drank eight pots, and the epic says he gained the strength of a thousand elephants.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 9
+    },
+    {
+      "text": "A wind-borne flower reached Draupadi and sent Bhima searching. On the way, an old monkey he could not push aside turned out to be Hanuman, his half-brother through their father Vayu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhima's wrestling duel with Jarasandha went on for days. Following a hint from Krishna, Bhima defeated him, freeing a hundred imprisoned kings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "Bhima's mace is said to have been a gift from the architect Maya, and the epic says it was as strong as a hundred thousand ordinary maces.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "After the war, Krishna put a metal statue in Bhima's place when grieving Dhritarashtra asked to embrace him. The king shattered the statue, and his anger cooled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the war, Bhima is said to have thrown his own teacher Drona off his chariot eight times.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the lac house burned, Bhima carried his mother and brothers on his shoulders through the forest when the rest were too tired to walk.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bhima's chariot flew a flag showing a giant silver lion with eyes of lapis lazuli, and its horses are described as dark as bears or black antelopes.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Javanese wayang, Werkudara (Bhima) searches for Tirta Amerta, the water of life, dives into the ocean and meets Dewaruci, a tiny divine form of himself who teaches humility and inner knowledge.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "To spread the false news that Drona's son Ashwatthama had died, Bhima killed an elephant that shared that name. The trick led Drona to give up fighting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "When Bhima leapt toward Karna's chariot, Karna struck back and Bhima hid behind an elephant. Karna later dragged him with his bow tip, but remembered a vow to Kunti and spared him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kerala's food tradition says Bhima invented avial. As the palace cook Vallava, he chopped whatever vegetables he had, boiled them together and topped them with grated coconut, in one telling for unexpected guests.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avial",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A rakshasi named Hidimbi was sent to lure the Pandavas for her brother, but she fell for Bhima and warned him. Their son Ghatotkacha, like his mother, is described as kind despite his rakshasa birth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Himachal, Hadimba is worshipped as a goddess with her own temple in Manali. She is identified with Bhima's wife Hidimbi, though her worship seems older than that link to the epic.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8
+    },
+    {
+      "text": "Before the war, Bhima told Krishna he thought peace was better than fighting, yet he also said he was fully ready to fight if it came to war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The epic names three wives of Bhima, each with one son: the rakshasi Hidimbi, Draupadi, and Balandhara, a princess of Kashi whom he won at her svayamvara. Her son was Savarga.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "Kichaka's brothers blamed Draupadi for his death and tried to burn her on his pyre. Bhima came running, killed them and saved her, keeping the Pandavas' secret in the hidden year.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7
+    },
+    {
+      "text": "Bhima carried a celestial bow called Vayavya, a gift from his father Vayu, and a huge conch named Paundra. His chariot driver was named Vishoka.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the final journey, Bhima fell. Yudhishthira told him it was because of his gluttony, eating much while unmindful of others' hunger, and his pride in his strength. Bhima is later seen beside his father Vayu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhima",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is said to be Bhima's divine father?",
+      "options": ["Indra", "Vayu", "Agni", "Surya"],
+      "answer": 1,
+      "why": "Vayu, the wind god, is his father in the epic."
+    },
+    {
+      "q": "What name did Bhima use as a palace cook in the hidden year?",
+      "options": ["Brihannala", "Kanka", "Vallava", "Tantripala"],
+      "answer": 2,
+      "why": "Vallava means cook."
+    },
+    {
+      "q": "Who blocked Bhima's path in the forest with a tail he could not lift?",
+      "options": ["A bear", "Hanuman", "Jambavan", "An elephant"],
+      "answer": 1,
+      "why": "Hanuman was his brother through Vayu."
+    },
+    {
+      "q": "What is Bhima called in Javanese shadow puppet plays?",
+      "options": ["Werkudara", "Ciptaning", "Semar", "Gareng"],
+      "answer": 0,
+      "why": "Werkudara is his Javanese form."
+    },
+    {
+      "q": "Which village did Bhima save from the giant Bakasura?",
+      "options": ["Dwaraka", "Hastinapura", "Ekachakra", "Mathura"],
+      "answer": 2,
+      "why": "The Pandavas were hiding in Ekachakra at the time."
+    }
+  ],
+  "related": [
+    "hanuman",
+    "vayu",
+    "draupadi",
+    "arjuna",
+    "yudhishthira",
+    "ghatotkacha",
+    "hidimbi",
+    "duryodhana"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhima",
+    "avial": "https://en.wikipedia.org/wiki/Avial",
+    "hidimbi": "https://en.wikipedia.org/wiki/Hidimbi"
+  },
+  "depth": "full",
+  "palette": { "c1": "#d9a27a", "c2": "#f0e4cf" },
+  "order": 2
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "agastya",
+  "name": "Agastya",
+  "aka": ["Kumbhayoni", "Kumbhamuni", "Maitravaruni", "Agattiyar", "Kalasaja"],
+  "native": "अगस्त्य",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage of the south, linked to Tamil tradition and the star Canopus",
+  "summary": "Agastya is a revered sage of Vedic, epic and Tamil tradition, said to have been born from a pitcher. Stories link him to the Vindhya mountains, the star Canopus, the Tamil language and the Siddha tradition.",
+  "about": "Hindu tradition makes Agastya a rishi of the Rigveda, a husband of Lopamudra, and a figure who travelled south and made it his home. One account names Mitra and Varuna as his parents and says he was born from a pitcher, which gives him names like Kumbhayoni. In the Ramayana he gives Rama divine weapons, and in the Mahabharata he is said to drink the ocean to reveal hidden asuras. Many tales say he asked the Vindhya mountains to bow low so he could pass south. Tamil tradition calls him a father of the Tamil language and the first Siddhar, and links him to the Pothigai hills. In Java, Cambodia and elsewhere in Southeast Asia, he was honoured too, and the star Canopus is called Agastya in Indian astronomy.",
+  "kidSummary": "Agastya is a sage from many old stories who made his home in the south of India. People say he was born from a pot, drank the sea, and asked a tall mountain to bow. Tamil tradition also honours him as a teacher of the Tamil language, and the star Canopus bears his name.",
+  "story": [
+    {
+      "title": "Born from a pitcher",
+      "text": "In an old tale, when the gods Mitra and Varuna held a ritual and the nymph Urvashi appeared, their power gathered in a clay pitcher, and Agastya formed inside it. That is why he is called Kumbhayoni."
+    },
+    {
+      "title": "The tall mountain",
+      "text": "The Vindhya mountains once grew so tall they blocked the sun. Agastya asked Vindhya to bow so he could cross south, and Vindhya agreed to stay low until he returned. He never came back."
+    },
+    {
+      "title": "Drinking the ocean",
+      "text": "The Mahabharata says some asuras hid in the sea. To help the gods, Agastya drank the whole ocean so the hidden ones could be seen."
+    },
+    {
+      "title": "Balancing the earth",
+      "text": "The Skanda Purana says everyone went north to see Shiva's wedding, and the earth tilted. Shiva sent Agastya south, and his presence there balanced the world."
+    },
+    {
+      "title": "A friend of the south",
+      "text": "Tamil tradition says Agastya learned Tamil from Murugan and shared it with the world. He is also called the first of the Siddhars, the healers and sages."
+    }
+  ],
+  "teaches": [
+    "A calm presence can bring balance",
+    "Knowledge is meant to be shared",
+    "Humility can move mountains"
+  ],
+  "symbol": "star",
+  "emblems": ["Kumbha (pitcher)", "Star Canopus", "Pothigai hills"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Lopamudra",
+      "slug": "lopamudra"
+    },
+    {
+      "relation": "Said twin",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 1)",
+    "Valmiki Ramayana",
+    "Mahabharata",
+    "Skanda Purana",
+    "Agastya-parva (Old Javanese)"
+  ],
+  "places": ["Pothigai hills", "Agastyarkoodam (Agastya Malai)", "Kanyakumari", "Prambanan, Java"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Canopus, the second-brightest star in the night sky after Sirius, is called Agastya in Indian astronomy.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Canopus",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A folk etymology in the Ramayana splits his name into \"mountain\" and \"move\", reading it as \"mover of mountains\".",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, the asura Ilvala cooked his brother Vatapi as a meal and called him back out of the guest's belly. When Agastya was the guest, he had already digested Vatapi, so the trick failed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Agastya drinks up the ocean to expose asuras hiding in it during the war between Indra and Vritra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says his son Drdhasyu learned the Vedas by listening to his parents while still in the womb, and was born already reciting the hymns.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tamil tradition calls him a father of Tamil and compiler of the first grammar, the Agattiyam, and says he learned Tamil from the god Murugan.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the war with Ravana, Agastya gives Rama a divine bow and arrow and is credited with the Aditya Hridayam, a hymn to the sun god that Rama is told to recite to win.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Agastimata, an early text on gems and diamonds, is attributed to Agastya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition counts him the founder of Silambam and the healing art of varmam, which Murugan is said to have taught him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Medieval Tamil stories say the First Tamil Sangam, led by Agastya, lasted 4,440 years, and that he also took part in the Second Sangam, which lasted another 3,700 years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the proud king Nahusha makes sages carry his palanquin, shouting 'sarpa, sarpa' (move on). Agastya turns him into a sarpa, a serpent, and he is freed only after meeting Yudhishthira.",
+      "kind": "story",
+      "interest": 9,
+      "source": "https://en.wikipedia.org/wiki/Nahusha",
+      "kid": true
+    },
+    {
+      "text": "In Java's medieval Shiva temples Agastya is carved on the southern face, and the central Shiva shrine at Prambanan gives its southern chamber to him.",
+      "kind": "place",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, Ganesha in the shape of a crow topples Agastya's water pot, and the water that spills becomes the Kaveri river. Another version says the water was his wife Lopamudra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaveri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition takes Agastyarkoodam (Agastya Malai) near Thiruvananthapuram as his final resting place; tales also place his ashram in the Pothigai hills, Tirunelveli or Thanjavur, and a penance rock at Kanyakumari.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana describes Agastya as short and heavy in build, yet says that by living in the south he balances the powers of Shiva and the weight of Kailasa and Mount Meru.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Two Sanskrit works, the Anargharaghava and the 9th-century Balaramayana, place a shrine of Agastya on or near Adam's Peak in Sri Lanka, with a river from there flowing to a lagoon on the Gulf of Mannar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A relief of Agastya appears at Borobudur, the great Buddhist monument in Java.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Javanese inscription of 760 CE at Dinoyo is dedicated to him, and in 9th-century Cambodia the king Indravarman was declared a descendant of Agastya.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ramayana's Tataka had a son, Maricha, who is said to have become a rakshasa through Agastya's curse, linking the sage to the story of Rama's youth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tataka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vedic literature links the star Canopus with Agastya as 'cleanser of waters', and its rising is said to coincide with the Indian Ocean growing calm.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Canopus",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which star is called Agastya in Indian astronomy?",
+      "options": ["Polaris", "Canopus", "Sirius", "Arcturus"],
+      "answer": 1,
+      "why": "Canopus, the second-brightest star, is named after him."
+    },
+    {
+      "q": "Which mountains did Agastya ask to bow low?",
+      "options": ["Himalayas", "Aravallis", "Vindhyas", "Nilgiris"],
+      "answer": 2,
+      "why": "Tales say Vindhya stayed low until he returned, and he never did."
+    },
+    {
+      "q": "The name Kumbhayoni, used for Agastya, refers to being born from what?",
+      "options": ["A lotus", "A clay pitcher", "A mountain cave", "A conch shell"],
+      "answer": 1,
+      "why": "Kumbha means pitcher, and Yoni here means womb, so Kumbhayoni is the one whose womb was a pot."
+    },
+    {
+      "q": "Which language is he traditionally called a father of?",
+      "options": ["Telugu", "Bengali", "Kannada", "Tamil"],
+      "answer": 3,
+      "why": "Tamil tradition says he learned Tamil from Murugan and compiled the first grammar."
+    },
+    {
+      "q": "What did he drink in the Mahabharata?",
+      "options": ["A river", "A pitcher of milk", "The ocean", "A lake"],
+      "answer": 2,
+      "why": "He drank the ocean to reveal hiding asuras."
+    }
+  ],
+  "related": [
+    "lopamudra",
+    "vasishtha",
+    "rama",
+    "ilvala-and-vatapi",
+    "vritra",
+    "shiva",
+    "kartikeya",
+    "patanjali"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Agastya",
+    "canopus": "https://en.wikipedia.org/wiki/Canopus",
+    "vindhya": "https://en.wikipedia.org/wiki/Vindhya_Range",
+    "sangams": "https://en.wikipedia.org/wiki/Tamil_Sangams"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe3e8",
+    "c2": "#f3e5c4"
+  },
+  "order": 60
+}

@@ -1,0 +1,253 @@
+{
+  "name": "Uttara",
+  "aka": ["Uttaraa", "Princess of Matsya", "Mother of Parikshit"],
+  "native": "उत्तरा",
+  "role": "Princess of Matsya, wife of Abhimanyu",
+  "summary": "Uttara is the princess of Matsya who marries Abhimanyu and becomes the mother of Parikshit, the king who carries the Kuru line forward after the great war.",
+  "about": "In the Mahabharata, Uttara is the daughter of King Virata and Queen Sudeshna of Matsya. During the Pandavas' year in hiding, Arjuna, disguised as Brihannala, teaches her dance and music. Rather than marry her himself, he suggests she wed his son Abhimanyu, and the wedding is held at Upaplavya. After the Kurukshetra War, which takes her father, brothers and husband, she is expecting a child. Tradition says Ashvatthama's weapon was aimed at her womb and that Krishna saved the baby, who grows up as King Parikshit. The Bhagavata Purana and the epic tell the rescue a little differently, and Vaishnava traditions hold her in special regard.",
+  "kidSummary": "Uttara was a princess who learned dance from a teacher who was secretly the hero Arjuna. She married his brave son Abhimanyu. Later, when her baby was in danger, the stories say Krishna kept him safe, and he grew up to become a king called Parikshit.",
+  "story": [
+    {
+      "title": "A teacher in disguise",
+      "text": "The Pandavas hide at King Virata's palace for a year. Arjuna lives there as a dance and music teacher called Brihannala, and Princess Uttara is one of his students."
+    },
+    {
+      "title": "A teacher's answer",
+      "text": "When the king offers Uttara as a bride for Arjuna, he says no. Instead he suggests that she marry his son Abhimanyu, and the king agrees."
+    },
+    {
+      "title": "A wedding at Upaplavya",
+      "text": "The wedding takes place at Upaplavya, and two families who have become friends are joined together."
+    },
+    {
+      "title": "Hard days",
+      "text": "The great war at Kurukshetra begins. In the epic, Uttara loses her father, her brothers and Abhimanyu, and she carries Abhimanyu's child."
+    },
+    {
+      "title": "A baby is saved",
+      "text": "The texts say Ashvatthama aimed a terrible weapon at the unborn baby, but Krishna protected him. He is born and named Parikshit, the one who has been tested."
+    }
+  ],
+  "teaches": [
+    "Respect for teachers and students",
+    "Courage through loss",
+    "Hope that protects the next generation"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Dance and music", "Lotus"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Virata",
+      "slug": "virata"
+    },
+    {
+      "relation": "Husband",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    },
+    {
+      "relation": "Son",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    },
+    {
+      "relation": "Dance teacher",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Protector of her child",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": ["Mahabharata (Virata Parva)", "Mahabharata (Ashvamedhika Parva)", "Bhagavata Purana"],
+  "places": ["Matsya Kingdom", "Bairat, Rajasthan", "Upaplavya"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "While the Pandavas hid at her father's court, Arjuna lived there as Brihannala and taught Uttara dance and music he had learned from the apsaras, praising her as exceptionally talented.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Arjuna's disguise as Brihannala was possible thanks to a curse by the apsara Urvashi, after Arjuna turned down her advances while learning dance in Indra's heaven.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brihannala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When King Virata offered Uttara to Arjuna as a bride, he declined because a teacher is like a parent to a student. He proposed his son Abhimanyu instead, and the marriage went ahead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A poor brahmin who saw Uttara at Upaplavya foretold that she would bear a son when the Kuru line was ending, and that he would be called Parikshit.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7
+    },
+    {
+      "text": "Her brother Prince Uttara took Brihannala as his charioteer to face the Kauravas. Panicking at first, he learned that his teacher was really Arjuna, who then drove off the army.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttara_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Prince Uttara had lost his charioteer, so Draupadi, serving as Sairindhri, suggested Brihannala. He felt unable to ask himself, so he sent his sister Uttara to fetch Brihannala from the dancing hall.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04036.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As the prince set out against the Kauravas, Uttara and her friends asked Brihannala to bring back fine cloths for their dolls from Bhishma, Drona and the other warriors. Arjuna smilingly promised to do so if the prince won.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04037.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Once Arjuna's weapon left the Kuru army senseless, he remembered Uttara's words and sent the prince to fetch garments: white ones from Drona and Kripa, yellow from Karna, and blue ones from Duryodhana and Ashwatthama.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04065.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Arjuna feared slander after teaching her for a year, so he accepted Uttara as his daughter-in-law. He said this would prove her purity, since a daughter-in-law is like a daughter.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04072.htm",
+      "interest": 7
+    },
+    {
+      "text": "In the Javanese wayang, Abimanyu's wives include Dewi Siti Sundari, Krishna's daughter, and Dewi Utari. The story says he lied that he was unmarried when proposing to Utari, and that this oath cost him his life.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "For the wedding Virata gave seven thousand wind-swift horses, two hundred fine elephants and much wealth, then offered the Pandavas his kingdom, army and treasury.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04072.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guests at Upaplavya included Krishna, Balarama, the kings of Kashi and Shaivya, and Drupada with Shikhandin and Dhrishtadyumna, many of them bringing armies.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04072.htm",
+      "interest": 7
+    },
+    {
+      "text": "Puranic accounts say Uttara ran to Krishna in fear of losing her child, and Krishna entered her womb as the child's inner soul to protect him. The Mahabharata tells it differently.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, her baby is born lifeless in the Ashvamedhika Parva, and Krishna brings him back to life. He is named Parikshit, roughly 'the tested one'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Krishna was furious that a warrior had turned a weapon on an unborn child, and he cursed Ashwatthama to live for thousands of years, alone and weighed down by illness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 8
+    },
+    {
+      "text": "A popular narrative in Braja and Rajasthan says Krishna's great-grandson Vajranabh asked the aged Uttara to describe Krishna, and her account guided the sculptors of the Govind Dev, Gopinath and Madan Mohan images.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In that narrative, Uttara's description did not satisfy the sculptors at first. After prayer the three images, Govind Dev, Gopinath and Madan Mohan, appeared; each caught some features of Krishna, and they vanished until rediscovered in medieval times.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7
+    },
+    {
+      "text": "Mythologist Devdutt Pattanaik says a variant of the tale ties more famous Krishna icons to Uttara's description, among them Banke Bihari in Vrindavan, Srinathji at Nathdwara, the Udupi Krishna and Venkateswara at Tirumala.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7
+    },
+    {
+      "text": "Uttara means 'upper', 'higher' or 'excellent', and it is also a word for the north and for 'an answer'. Her elder brother, Prince Uttara, bears the male form of the name.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Fifteen years after the war, Uttara walked part of the way with Dhritarashtra, Gandhari, Kunti and Vidura as they left for the forest, then returned to the capital.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who taught Princess Uttara dance and music while in disguise?",
+      "options": ["Bhima", "Arjuna", "Sahadeva", "Nakula"],
+      "answer": 1,
+      "why": "Arjuna lived at Virata's court as Brihannala."
+    },
+    {
+      "q": "Whom did Uttara marry?",
+      "options": ["Abhimanyu", "Karna", "Ashvatthama", "Satyaki"],
+      "answer": 0,
+      "why": "Arjuna proposed his son Abhimanyu."
+    },
+    {
+      "q": "Which king was Uttara's son?",
+      "options": ["Janamejaya", "Parikshit", "Shveta", "Shankha"],
+      "answer": 1,
+      "why": "Her son was Parikshit, grandson of Arjuna."
+    },
+    {
+      "q": "According to a Braja and Rajasthan narrative, whom did Vajranabh ask to describe Krishna for the sculptors?",
+      "options": ["Uttara", "Draupadi", "Kunti", "Gandhari"],
+      "answer": 0,
+      "why": "The aged queen-mother Uttara gave a detailed description, alongside Uddhava."
+    },
+    {
+      "q": "What disguised name did Arjuna use as Uttara's teacher?",
+      "options": ["Brihannala", "Kanka", "Vallabha", "Tantipala"],
+      "answer": 0,
+      "why": "Arjuna lived at Virata's court as Brihannala, the dance and music teacher."
+    }
+  ],
+  "related": ["virata", "abhimanyu", "parikshit", "arjuna", "krishna", "ashwatthama", "subhadra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Uttar%C4%81",
+    "shlokam": "https://shlokam.org/bhagavatam/canto-1-chapter-12.htm",
+    "abhimanyu": "https://en.wikipedia.org/wiki/Abhimanyu",
+    "ganguli_virata36": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04036.htm",
+    "ganguli_virata37": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04037.htm",
+    "ganguli_virata65": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04065.htm",
+    "ganguli_virata72": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04072.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f4e3c8",
+    "c2": "#c9a6d8"
+  },
+  "order": 520,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "slug": "uttara"
+}

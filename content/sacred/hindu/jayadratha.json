@@ -1,0 +1,274 @@
+{
+  "slug": "jayadratha",
+  "name": "Jayadratha",
+  "aka": ["Sindhuraja", "Saindhava", "King of Sindhu"],
+  "native": "जयद्रथ",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "King of Sindhu, husband of Dushala, ally of the Kauravas",
+  "summary": "In the Mahabharata, Jayadratha is the king of Sindhu and the husband of Dushala, whose actions in the forest and at Abhimanyu's last battle lead to Arjuna's famous sunset vow.",
+  "about": "In the Mahabharata, Jayadratha is the king of the Sindhu land along the Indus and the husband of Dushala, sister of the hundred Kauravas. The epic says that during the Pandavas' forest exile he tried to take Draupadi away, was caught and shamed by the Pandavas, and was spared at Yudhishthira's word. He then prayed to Shiva and received a boon that he could hold the Pandavas back for one day. On the thirteenth day of the Kurukshetra war this boon kept them from entering Drona's formation after Abhimanyu. Arjuna vowed to bring him down before sunset, and in the retellings Krishna creates an illusion of sunset to help. His father, Vriddhakshatra, held a boon that turned back on him when his son fell. The story continues with Dushala and her grandson at the ashvamedha.",
+  "kidSummary": "Jayadratha is the king of Sindhu in the Mahabharata and the husband of Dushala. The epic says Bhima once shaved his head, leaving five tufts, as a mark of shame, and in tellings of Arjuna's famous sunset vow, Krishna makes it look like evening for a moment. His story shows that mercy and deeds both matter.",
+  "story": [
+    {
+      "title": "A guest at the hermitage",
+      "text": "In the Mahabharata, the Pandavas are in the forest. Jayadratha, king of Sindhu, meets Draupadi at their hermitage and asks her to come with him. She refuses."
+    },
+    {
+      "title": "The rescue",
+      "text": "When the Pandavas return, they chase him and free Draupadi, and Bhima shaves his head, leaving five tufts, as a mark of shame. Yudhishthira lets him go out of mercy."
+    },
+    {
+      "title": "A boon from Shiva",
+      "text": "Jayadratha prays to Shiva. The epic says he gets a boon: for one day he can hold back the Pandavas."
+    },
+    {
+      "title": "Abhimanyu's day",
+      "text": "On the thirteenth day of the war the boon works, and Jayadratha blocks the gate of the formation. Abhimanyu is left alone, and the Pandavas are heartbroken."
+    },
+    {
+      "title": "Sunset",
+      "text": "Arjuna vows to defeat him by sunset. In the tellings, Krishna makes it look as if the sun has set, Jayadratha comes out, and Arjuna's arrow ends his story."
+    }
+  ],
+  "teaches": [
+    "Mercy can be given even when it is hard",
+    "Anger and revenge lead to more sorrow",
+    "Promises made in the heat of grief carry weight"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Chariot", "Silver boar banner"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Dushala"
+    },
+    {
+      "relation": "Father-in-law",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Mother-in-law",
+      "name": "Gandhari",
+      "slug": "gandhari"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Slain by",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Vana Parva, Drona Parva, Stri Parva)",
+    "Bhagavata Purana",
+    "Bhasa's Dutaghatotkacha"
+  ],
+  "places": ["Sindhu", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Jayadratha's wife Dushala was the only daughter of Dhritarashtra and Gandhari. Gandhari wished for a daughter, and Vyasa shaped the one extra portion of the divided flesh into a girl, sister to all hundred Kauravas.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Duhshala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he met Draupadi in the forest, the Vana Parva says Jayadratha was travelling with six thousand chariots plus horses, elephants and foot soldiers, and twelve Sauvira princes carried his banners.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03263.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Draupadi refused his proposal. Her friend Dhatreyika told the Pandavas, who raced after him; he was two miles ahead until Arjuna's divine weapon stopped his horses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Draupadi warned him that angering the Pandavas was like waking a sleeping lion or stepping on two cobras' tails. Jayadratha replied that he looked down on the Pandavas.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03266.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the way home the Pandavas saw a jackal howling on their left, which Yudhishthira read as a sign that enemies were troubling them. Soon they found Dhatreyika in tears at the hermitage.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03267.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhima caught Jayadratha and, remembering Yudhishthira's instruction not to kill him, shaved his head and left five tufts of hair. It was a punishment meant to shame him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vana Parva Bhima uses a crescent-shaped arrow to cut his hair and makes him agree to say publicly that he is the Pandavas' slave. Yudhishthira, smiling, tells them to set Jayadratha free.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03270.htm",
+      "interest": 8
+    },
+    {
+      "text": "The epic says Yudhishthira spared Jayadratha partly for the sake of his cousin Dushala, so that she would not be widowed, and Draupadi suggested mercy as well.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushala",
+      "interest": 7
+    },
+    {
+      "text": "After this humiliation, Jayadratha did penance to Shiva, asking to defeat all five Pandavas. Shiva said that was impossible but granted a one-day check on them, warning that Arjuna, with Krishna as charioteer, could not be held.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7
+    },
+    {
+      "text": "After this humiliation, Jayadratha handed the running of his kingdom to his wife Dushala before he began his severe penance to Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7
+    },
+    {
+      "text": "On the eleventh day Jayadratha defeated Drupada, but Abhimanyu then beat him in a sword fight and he had to flee. Two days later he would help trap Abhimanyu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7
+    },
+    {
+      "text": "On the thirteenth day, during Drona's chakravyuha, Jayadratha blocked the opening behind Abhimanyu. Shiva's boon held back the other Pandavas, who could not follow Abhimanyu in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "The Kauravas had a plan for that day: Susharma and the Trigarta army kept Arjuna and Krishna busy elsewhere, so no help reached Abhimanyu inside the formation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7
+    },
+    {
+      "text": "Draupadi, Yudhishthira and Bhima felt guilty that they had once spared Jayadratha. Arjuna vowed to kill him before sunset the next day, or else enter fire himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 8
+    },
+    {
+      "text": "On the day of Arjuna's vow, Shalya is listed among the Kaurava warriors who protected Jayadratha from Arjuna's assault (Drona Parva, chapter 145).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7
+    },
+    {
+      "text": "To protect Jayadratha, Drona set up three formations together: the cart, the needle and the lotus, so the Pandava army had to break through layer after layer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Wikipedia retelling, Krishna sends his Sudarshana Chakra to hide the sun so it looks like evening, and Jayadratha steps out. A Wisdomlib summary of the epic speaks only of a brief illusion of darkness, so tellings differ.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Krishna freed the sun again and pointed Jayadratha out. The epic says Arjuna's divine arrow ended his life and flew far away, landing in the lap of his father, Vriddhakshatra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 9
+    },
+    {
+      "text": "Vriddhakshatra had a boon that whoever made his son's head fall to the earth would meet the same end. When he stood up in shock, he caused it himself, and the boon turned back on the father.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jayadratha",
+      "interest": 9
+    },
+    {
+      "text": "Jayadratha's son Suratha died of fear when Arjuna's ashvamedha horse neared Sindhu. Dushala brought her baby grandson to plead for mercy, Arjuna spared him, and Yudhishthira later had the child crowned king of Sindhu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushala",
+      "interest": 8
+    },
+    {
+      "text": "After the rescue, a grieving Yudhishthira asked the sage Markandeya whether anyone had ever suffered more than he had. Markandeya answered with the story of Rama and Sita.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03272.htm",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which sage told Yudhishthira the story of Rama after Jayadratha's attempt on Draupadi?",
+      "options": ["Markandeya", "Vyasa", "Narada", "Dhaumya"],
+      "answer": 0,
+      "why": "In the Vana Parva, Markandeya answers Yudhishthira's question about suffering by telling the Rama story."
+    },
+    {
+      "q": "What mark of shame did Bhima leave on Jayadratha after shaving his head?",
+      "options": ["Five tufts of hair", "A single braid", "A crown of hair", "A red cloth"],
+      "answer": 0,
+      "why": "Bhima left five tufts of hair on the shaved head."
+    },
+    {
+      "q": "Which god gave Jayadratha a boon to hold back the Pandavas for a day?",
+      "options": ["Brahma", "Indra", "Shiva", "Vayu"],
+      "answer": 2,
+      "why": "He prayed to Shiva after his humiliation."
+    },
+    {
+      "q": "What did Krishna do to help Arjuna keep his vow?",
+      "options": ["Moved the moon", "Hid the sun for a time", "Stopped the wind", "Made it rain"],
+      "answer": 1,
+      "why": "In the tellings, the sun was hidden or darkened so it looked like sunset."
+    },
+    {
+      "q": "Who was Jayadratha's wife?",
+      "options": ["Dushala", "Subhadra", "Uttara", "Hidimbi"],
+      "answer": 0,
+      "why": "Dushala was the only sister of the Kauravas."
+    }
+  ],
+  "related": [
+    "draupadi",
+    "arjuna",
+    "abhimanyu",
+    "krishna",
+    "drupada",
+    "drona",
+    "dhritarashtra",
+    "gandhari"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jayadratha",
+    "wisdomlib": "https://www.wisdomlib.org/definition/jayadratha",
+    "dushala": "https://en.wikipedia.org/wiki/Dushala",
+    "sindhu": "https://en.wikipedia.org/wiki/Sindhu_Kingdom",
+    "abhimanyu": "https://en.wikipedia.org/wiki/Abhimanyu",
+    "duhshala": "https://en.wikipedia.org/wiki/Duhshala",
+    "wisdomlib_summary": "https://www.wisdomlib.org/hinduism/book/mahabharata-english-summary/d/doc1346256.html",
+    "ganguli_vana263": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03263.htm",
+    "ganguli_vana266": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03266.htm",
+    "ganguli_vana267": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03267.htm",
+    "ganguli_vana270": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03270.htm",
+    "ganguli_vana272": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03272.htm",
+    "shalya": "https://en.wikipedia.org/wiki/Shalya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#b7c9d6",
+    "c2": "#efe4cb"
+  },
+  "order": 500
+}

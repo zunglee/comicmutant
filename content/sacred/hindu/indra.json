@@ -1,0 +1,270 @@
+{
+  "slug": "indra",
+  "name": "Indra",
+  "aka": ["Shakra", "Purandara", "Shatakratu", "Devendra", "Sakka"],
+  "native": "इन्द्र",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Vedic king of the devas and lord of rain and thunder",
+  "summary": "Indra is the thunderbolt-wielding chief of the devas in the Rigveda, remembered for freeing the waters from Vritra. Buddhists and Jains also honour a figure called Indra or Sakka.",
+  "about": "Indra is the most frequently praised deity in the Rigveda, where about 250 hymns are addressed to him alone. The Vedic poets describe him as a golden-haired hero who wields the vajra, the thunderbolt, rides the white elephant Airavata and drinks soma before battle. His great deed in the hymns is slaying Vritra, the serpent-like being who held back the waters, so that rivers and rain could flow. In later Hinduism he is the king of the devas in Svarga, though in the Puranas his role becomes smaller, and stories often show him learning humility. The Vishnu Purana says Indra is a title held by a different being in each cosmic age, and the present one is Purandhara. Buddhist and Jain texts give him roles too, as Sakka or Shakra, and festivals such as Indra Jatra in Nepal remember him today.",
+  "kidSummary": "Indra is the king of the devas, the shining gods of the sky. In the oldest Hindu hymns, he carries a thunderbolt and sends the rain to help crops grow. His white elephant Airavata is huge and gentle. A rainbow is sometimes called Indra's bow.",
+  "story": [
+    {
+      "title": "The waters are locked",
+      "text": "In the Rigveda, a huge serpent-like being named Vritra coils around a mountain and holds back all the waters, so the land is dry and the rivers cannot flow."
+    },
+    {
+      "title": "Indra takes his bolt",
+      "text": "Indra drinks the sacred soma and picks up his thunderbolt, the vajra, which later Puranas say was made from the bones of the sage Dadhichi."
+    },
+    {
+      "title": "The great battle",
+      "text": "Indra strikes Vritra and breaks open the mountain. The hymns say that Indra's victory sets the waters free to rush down to the sea."
+    },
+    {
+      "title": "Rain and sunshine return",
+      "text": "With the waters flowing, the poets say, life returns to the earth and the sun shines again. People praise Indra as the giver of rain."
+    },
+    {
+      "title": "Pride and a lifted hill",
+      "text": "In a later Bhagavata story, Indra sends storms to the cowherds of Vrindavan, but Krishna lifts Mount Govardhana to shelter them, and Indra learns humility."
+    }
+  ],
+  "teaches": [
+    "Courage can free what is stuck",
+    "Pride is gentler when it learns humility",
+    "Rain and light are gifts to be thanked"
+  ],
+  "symbol": "wave",
+  "emblems": ["Vajra (thunderbolt)", "Airavata, the white elephant", "Rainbow", "Golden hair"],
+  "family": [
+    {
+      "relation": "Mount",
+      "name": "Airavata",
+      "slug": "airavata"
+    },
+    {
+      "relation": "Queen",
+      "name": "Shachi"
+    },
+    {
+      "relation": "Son",
+      "name": "Jayanta"
+    },
+    {
+      "relation": "Son (Ramayana)",
+      "name": "Vali",
+      "slug": "vali"
+    },
+    {
+      "relation": "Human son (Mahabharata)",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Aitareya Upanishad",
+    "Vishnu Purana",
+    "Mahabharata",
+    "Ramayana",
+    "Pali canon"
+  ],
+  "places": [
+    "Svarga (heaven)",
+    "Trayastrimsa heaven (Buddhist)",
+    "Banteay Srei, Cambodia",
+    "Bhaja Caves",
+    "Kathmandu"
+  ],
+  "festivals": ["Indra Jatra (Nepal)", "Indra Vizha (Tamil tradition)"],
+  "facts": [
+    {
+      "text": "The Rigveda describes Indra with glowing golden hair, and in Indian tradition the rainbow is called Indra's bow.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vritra hymns Indra kills a serpent-like being coiled around a mountain. Scholars read Vritra as clouds, winter ice or any obstacle that holds back life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 7
+    },
+    {
+      "text": "In another Vedic tale, Indra uses chanted songs to split open a cave and free stolen cattle and the dawn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 7
+    },
+    {
+      "text": "Vedic hymns do not agree on Indra's parents, and one hymn hints that even Indra might not have known who they were.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "After the asura king Mahabali defeated Indra, Vishnu was born as the dwarf Vamana, a younger brother of Indra, and won the three worlds back with three steps. In this telling Indra and the gods kept their heavenly city.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Indra was the guardian of the Khandava forest. When Agni tried to burn it, Indra sent rain to put out the flames, and Arjuna and Krishna shot arrows at the clouds to stop it. The region was later called Indraprastha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khandava_Forest",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu Purana says Indra is a title that passes to a new holder in every Manvantara, an age of the world. The current holder is called Purandhara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 9
+    },
+    {
+      "text": "A Hittite treaty tablet from about 1400 BCE names Indra together with Mitra, Varuna and the Nasatya Ashvins, among the earliest written references to these gods.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "In the Avesta of ancient Iran, Indra appears as a demon, while the Vedas honour him as a hero, a striking difference between related traditions.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "Scholars compare Indra with other thunder gods such as Zeus, Thor and Perun. Max Muller noted that Indra and Thor both have a hammer-like weapon and myths of milking cloud-cows.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "In the Mahabharata, Indra disguises himself as a Brahmin to ask Karna for his armour and earrings, and gives Karna a celestial dart in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "Indra's net is an image used in some Buddhist schools and in Hindu thought: a universe like a net with a jewel at every knot, each jewel reflecting all the others, a metaphor for how all things are connected.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "Buddhists know him as Sakka and place him in the Trayastrimsa heaven above Mount Sumeru. Buddhist tradition says Indra and Brahma bathed the infant Buddha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 7
+    },
+    {
+      "text": "Indra Jatra in Kathmandu lasts eight days. Its legend says a disguised Indra was caught picking a flower for his mother and was freed, so she granted winter dew.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Indra_Jatra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Kalash people of Pakistan still worship Indra, which keeps an ancient Vedic god alive today.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    },
+    {
+      "text": "Some Puranas say a curse from the sage Durvasa, after Indra's elephant tossed aside the sage's garland, led to the churning of the ocean. Other epics give different reasons for the churning.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Indra's queen Shachi gives him the title Shachipati. When the mortal king Nahusha tried to claim her while Indra was away, she devised a clever plan that toppled him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shachi",
+      "interest": 7
+    },
+    {
+      "text": "The seven-headed flying horse Uchchaihshravas rose from the churning of the ocean, and the Mahabharata says Indra took it as his mount.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Vishnu tells Indra that only weapons made from the thunder-filled bones of the sage Dadhichi can kill Vritra. Another telling says the gods' weapons had dissolved into Dadhichi's bones, so he gave up his life for them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Puranas, Indra sends furious rains to punish people, and Krishna lifts Mount Govardhana on his fingertip so everyone can shelter under it until Indra's anger fades.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Indra is still on official seals in Southeast Asia, including the seal of Bangkok, and the Thai name for him is Phra In.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 7
+    },
+    {
+      "text": "In Buddhist art of China, Korea and Japan, Indra is shown opposite Brahma, and the two are often pictured giving the infant Buddha his first bath. In Japan he is Taishakuten, one of the Twelve Devas.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Indra's weapon called?",
+      "options": ["Trishula", "Sudarshana", "Vajra", "Pinaka"],
+      "answer": 2,
+      "why": "The vajra is his thunderbolt."
+    },
+    {
+      "q": "Which animal does Indra ride?",
+      "options": ["A white elephant", "A tiger", "A horse", "A bull"],
+      "answer": 0,
+      "why": "His mount is Airavata, the white elephant."
+    },
+    {
+      "q": "Who lifted a hill to shelter people from Indra's storms?",
+      "options": ["Balarama", "Krishna", "Arjuna", "Bhima"],
+      "answer": 1,
+      "why": "Krishna lifted Mount Govardhana."
+    },
+    {
+      "q": "In the Rigveda, which being does Indra defeat to free the waters?",
+      "options": ["Ravana", "Kamsa", "Mahishasura", "Vritra"],
+      "answer": 3,
+      "why": "Vritra is the one who held back the waters."
+    },
+    {
+      "q": "In the Puranas, whose bones became Indra's thunderbolt?",
+      "options": ["Dadhichi", "Valmiki", "Vyasa", "Narada"],
+      "answer": 0,
+      "why": "The sage Dadhichi gave his bones for the vajra."
+    }
+  ],
+  "related": ["airavata", "vayu", "agni", "varuna", "krishna", "vritra", "karna", "surya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Indra",
+    "dadhichi": "https://en.wikipedia.org/wiki/Dadhichi",
+    "indrajatra": "https://en.wikipedia.org/wiki/Indra_Jatra",
+    "vamana": "https://en.wikipedia.org/wiki/Vamana",
+    "khandava": "https://en.wikipedia.org/wiki/Khandava_Forest"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#A9CCE3",
+    "c2": "#F5E3A8"
+  },
+  "order": 40
+}

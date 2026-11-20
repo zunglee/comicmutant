@@ -1,0 +1,278 @@
+{
+  "slug": "vishvakarma",
+  "name": "Vishvakarma",
+  "aka": ["Vishwakarma", "Vishvakarman", "Tvastar"],
+  "native": "विश्वकर्मा",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Divine architect and craftsman of the devas",
+  "summary": "Hindus honour Vishvakarma as the divine architect who made cities, chariots and weapons for the gods. Workers celebrate him with a festival each September.",
+  "about": "Vishvakarma, whose name means 'all-maker', is the craftsman and architect of the devas in Hindu tradition. In the Rigveda the name first describes a creator who sees on every side; the divine builder of the early hymns is Tvastar, and the two figures later merge. The Puranas and epics say he made the Vajra, the Pushpaka Vimana and the cities of Lanka, Dvaraka and Indraprastha. Texts such as the Vishnu Purana make him the father of Sanjna, the wife of Surya. Many craft communities across India regard him as their patron, and his festival, Vishwakarma Puja, is held when tools and machines are cleaned and worshipped. Sources differ on his parents, which shows how old and varied the traditions are.",
+  "kidSummary": "Vishvakarma is the great builder of the gods. Stories say he made flying chariots, shining weapons and whole cities for the devas. Today people in India thank him by cleaning and worshipping their tools and machines on Vishwakarma Puja.",
+  "story": [
+    {
+      "title": "The builder of the gods",
+      "text": "The devas needed beautiful homes, strong weapons and fast chariots. They turned to Vishvakarma, the divine craftsman, who could make anything."
+    },
+    {
+      "title": "Cities of wonder",
+      "text": "In the epics he builds great cities such as Lanka, Dvaraka and Indraprastha, each one planned with care and decorated with marvellous things."
+    },
+    {
+      "title": "A hot problem",
+      "text": "His daughter Sanjna found her husband Surya's heat too much to bear. In the Vishnu Purana, Surya agrees to be made a little less fiery."
+    },
+    {
+      "title": "Weapons from sunlight",
+      "text": "Vishvakarma carefully trims the sun's blazing glow. The shavings are used to forge divine weapons for the gods."
+    },
+    {
+      "title": "Thanking the maker",
+      "text": "Today, workers set flowers and incense before their tools on Vishwakarma Puja and ask for safe and happy work."
+    }
+  ],
+  "teaches": [
+    "Honest craft and skilled work deserve respect",
+    "Care for the tools and machines that help us",
+    "Good design makes life better for everyone"
+  ],
+  "symbol": "wheel",
+  "emblems": [
+    "Tools of the craftsman",
+    "Goose or swan (western images)",
+    "Elephant (eastern images)",
+    "Measuring rod"
+  ],
+  "family": [
+    {
+      "relation": "Daughter",
+      "name": "Sanjna"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Son, in the Ramayana",
+      "name": "Nala",
+      "slug": "nala-ramayana"
+    },
+    {
+      "relation": "Made weapon from bones of",
+      "name": "Dadhichi",
+      "slug": "dadhichi"
+    },
+    {
+      "relation": "Made weapon for",
+      "name": "Indra",
+      "slug": "indra"
+    }
+  ],
+  "texts": [
+    "Rigveda (book 10)",
+    "Vishnu Purana",
+    "Skanda Purana",
+    "Brahmavaivarta Purana",
+    "Ramayana",
+    "Shilpa Shastra works"
+  ],
+  "places": ["Puri (Jagannath tradition)", "Lanka", "Dvaraka"],
+  "festivals": ["Vishwakarma Puja", "Rishi Panchami"],
+  "facts": [
+    {
+      "text": "The Rigveda describes him as all-seeing, with eyes, faces, arms and feet on every side, and even wings, so that he seems to look in every direction at once.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Many Puranas credit him with building the chariots of the devas and the Vajra, Indra's thunderbolt; one tale says the Vajra was shaped from the bones of the sage Dadhichi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Puranas say Vishvakarma trimmed the Sun's brilliance for his daughter Sanjna and shaped from it Vishnu's Sudarshana disc, Shiva's trident and the flying Pushpaka Vimana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sudarshana_Chakra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Epics and Puranas say he built whole cities: golden Lanka, Krishna's island city Dvaraka, and the Pandavas' Indraprastha.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, the sea god Varuna tells Rama that the vanara Nala, a son of Vishvakarma, has an architect's skill, and Nala goes on to engineer the Rama Setu bridge to Lanka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Texts describe the Pushpaka Vimana, a celestial flying chariot, as his creation, which makes him something like the first aircraft designer of Hindu lore.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Brahma's request he made the apsara Tilottama from the best of everything, and in the Mahabharata her beauty brings the asura brothers Sunda and Upasunda to destroy each other.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tilottama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one Vedic story, Tvashtr creates Vritra to avenge his son, but a slip in pronouncing the spell lets Indra defeat Vritra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tvashtr",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Vishwakarma Puja, workers in factories and workshops set up small shrines and worship their own tools and machines, praying for safe work and smooth running.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Puranic story of Jagannath's image, an old master carver, traditionally identified as Vishvakarma, asked to work undisturbed for 21 days; the king opened the doors after 15 and the carver vanished, leaving the images unfinished.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His images differ by region: in the west he is an old white-bearded man with four arms and a hamsa goose, while eastern images show a young muscular man with a black moustache and an elephant.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa says Vishvakarma raised Krishna's city Dvaraka in a single day, and with his mind alone, on land the ocean had released.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dvaraka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana the Sudarshana disc is Vishvakarma's making, and Vishnu seizes it from a danava named Hayagriva on the mountain Chakravana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sudarshana_Chakra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vishvakarma Puja falls on Kanya Sankranti, so it usually lands between 16 and 18 September, in the last days of the month of Bhadra.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some places Vishvakarma Puja is held a day after Diwali, alongside Govardhan Puja, in October or November.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Nepal gives a full public holiday for Vishvakarma Puja, while in many parts of India 17 September is only a restricted holiday.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In South India five craft groups, carpenters, blacksmiths, goldsmiths, coppersmiths and stonemasons, are together called Vishwakarma, since the Brahmavaivarta Purana credits him with originating craft groups.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The name Vishvakarma was once a title for any mighty god, used of Indra and the Sun, before it came to mean the divine craftsman.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vishvakarma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda's craftsman Tvashtr, sometimes identified with Vishvakarma, is called a universal father and an ancestor of humans through his daughter Saranyu.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Tvashtr",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On Vishvakarma Puja workers link their skill with shakti, sometimes see themselves as his children, and share prasada after the prayers.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Vishvakarma mean?",
+      "options": ["All-maker", "Sun-bringer", "River-keeper", "Wind-rider"],
+      "answer": 0,
+      "why": "The Sanskrit name means 'all-maker', fitting the divine architect."
+    },
+    {
+      "q": "Which city do epics say Vishvakarma built for Krishna?",
+      "options": ["Mathura", "Dvaraka", "Ujjain", "Kanchi"],
+      "answer": 1,
+      "why": "Texts credit him with Dvaraka, along with Lanka and Indraprastha."
+    },
+    {
+      "q": "What do workers do on Vishwakarma Puja?",
+      "options": [
+        "Light bonfires",
+        "Worship their tools and machines",
+        "Climb hills",
+        "Sail boats"
+      ],
+      "answer": 1,
+      "why": "Tools and machines are cleaned and honoured with prayers."
+    },
+    {
+      "q": "In the Vishnu Purana, who is Sanjna's husband?",
+      "options": ["Indra", "Yama", "Brihaspati", "Surya"],
+      "answer": 3,
+      "why": "Sanjna, Vishvakarma's daughter, is the wife of Surya."
+    },
+    {
+      "q": "Which temple deity does the Skanda Purana link to his carving?",
+      "options": ["Jagannath", "Venkateswara", "Vithoba", "Khandoba"],
+      "answer": 0,
+      "why": "The Skanda Purana names him as the sculptor of the Jagannath image at Puri."
+    }
+  ],
+  "related": ["surya", "indra", "jagannath", "dadhichi", "nala-ramayana", "ashvins"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vishvakarma",
+    "vishwakarma-puja": "https://en.wikipedia.org/wiki/Vishwakarma_Puja",
+    "sanjna": "https://en.wikipedia.org/wiki/Sanjna",
+    "jagannath": "https://en.wikipedia.org/wiki/Jagannath",
+    "nala": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+    "sudarshana": "https://en.wikipedia.org/wiki/Sudarshana_Chakra",
+    "dvaraka": "https://en.wikipedia.org/wiki/Dvaraka",
+    "tvashtr": "https://en.wikipedia.org/wiki/Tvashtr"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8d9b5",
+    "c2": "#b9cfc4"
+  },
+  "order": 500
+}

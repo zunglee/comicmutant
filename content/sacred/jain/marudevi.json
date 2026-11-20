@@ -1,0 +1,206 @@
+{
+  "slug": "marudevi",
+  "name": "Marudevi",
+  "aka": ["Marudeva", "Mother of Rishabhanatha", "Queen Marudevi"],
+  "native": "मरुदेवी",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Queen and mother of the first Tirthankara",
+  "summary": "Marudevi is the queen of Ayodhya and mother of Rishabhanatha. Jain texts remember her for her dreams and for reaching liberation first.",
+  "about": "Marudevi was the wife of King Nabhi of Ayodhya and the mother of Rishabhanatha, the first Tirthankara of the present age, according to Jain tradition. Both Jain sects tell of the auspicious dreams she saw before his birth: Svetambaras count 14, Digambaras 16. Digambara texts say her husband explained them; Svetambara texts say Indra did. The rest of the story is Svetambara. Their canon says she grew sad and half-blind from missing her son, who had become a monk. Her grandson Bharata took her on an elephant to see him. Svetambara Jains believe that when she saw his calm, she understood detachment and was freed at once, the first soul to reach moksha in this age. Digambara texts do not tell this and see her as the mother of the Tirthankara. The Hindu Bhagavata Purana also names her as Rishabha's mother.",
+  "kidSummary": "Marudevi was a queen and the mother of Rishabhanatha, the first Tirthankara. Before he was born, Jain stories say, she saw wonderful dreams of a white bull, a lotus pond and a bright flame. Svetambara Jains tell that she missed her son very much, and when she finally saw how calm and peaceful he was, she became free of all worry.",
+  "story": [
+    {
+      "title": "Dreams in the night",
+      "text": "Jains say Queen Marudevi once saw a series of lovely dreams, such as a white bull, a lion, the moon and a shining flame."
+    },
+    {
+      "title": "What the dreams meant",
+      "text": "The dreams were explained as a sign that a great teacher, the first Tirthankara, was coming to be her son."
+    },
+    {
+      "title": "A mother who missed her son",
+      "text": "In the Svetambara story, her son Rishabha left the palace to become a monk. She missed him so much and cried for so long that her eyes grew weak."
+    },
+    {
+      "title": "The elephant ride",
+      "text": "Her grandson Bharata helped her onto an elephant and took her to see Rishabha, who was teaching in a hall prepared by the gods."
+    },
+    {
+      "title": "Seeing with joy",
+      "text": "When she heard how wonderful her son was, her happy tears cleared her sight. She saw how calm he was, with no clinging at all."
+    },
+    {
+      "title": "Free at last",
+      "text": "Svetambara tradition says that in that moment she let go of her own worries and became free, the first soul to be liberated in this age. Digambara tellings do not include this."
+    }
+  ],
+  "teaches": [
+    "Love can grow into letting go",
+    "Calm and detachment bring freedom",
+    "A mother's love and wisdom"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "White bull (first dream)",
+    "Elephant (her last journey)",
+    "Lotus pond (dream)",
+    "Smokeless flame (dream)"
+  ],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "King Nabhi"
+    },
+    {
+      "relation": "Son",
+      "name": "Rishabhanatha",
+      "slug": "rishabhanatha"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Bharata Chakravartin",
+      "slug": "bharata-chakravartin"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Bahubali",
+      "slug": "bahubali"
+    },
+    {
+      "relation": "Granddaughters",
+      "name": "Brahmi and Sundari",
+      "slug": "brahmi-and-sundari"
+    }
+  ],
+  "texts": ["Trishashti Shalaka Purusha Charitra", "Kalpa Sutra", "Adipurana", "Bhagavata Purana"],
+  "places": ["Ayodhya", "Palitana (Shatrunjaya)", "Ranakpur"],
+  "festivals": ["Garbha Kalyanaka"],
+  "quiz": [
+    {
+      "q": "Whose mother was Marudevi?",
+      "options": ["Mahavira", "Rishabhanatha", "Parshvanatha", "Bahubali"],
+      "answer": 1,
+      "why": "She was the mother of Rishabhanatha, the first Tirthankara."
+    },
+    {
+      "q": "What animal is the first dream in the Svetambara list of dreams?",
+      "options": ["A lion", "An elephant", "A white bull", "A swan"],
+      "answer": 2,
+      "why": "Marudevi first sees a white bull, which is also Rishabha's symbol."
+    },
+    {
+      "q": "What did Bharata use to carry Marudevi to see her son?",
+      "options": ["A chariot", "A palanquin", "A horse", "An elephant"],
+      "answer": 3,
+      "why": "Svetambara tellings say she travelled on an elephant."
+    },
+    {
+      "q": "How many auspicious dreams do Digambaras count?",
+      "options": ["16", "14", "10", "24"],
+      "answer": 0,
+      "why": "Digambaras count 16, Svetambaras count 14."
+    }
+  ],
+  "related": [
+    "rishabhanatha",
+    "bharata-chakravartin",
+    "bahubali",
+    "brahmi-and-sundari",
+    "trishala"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Marudevi",
+    "rishabhanatha": "https://en.wikipedia.org/wiki/Rishabhanatha",
+    "dreams": "https://en.wikipedia.org/wiki/Auspicious_dreams_in_Jainism",
+    "jainpedia": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/marudevi",
+    "hemachandra_lament": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212460.html",
+    "hemachandra_birth": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212440.html",
+    "jainjournal": "https://jainqq.org/pagetext/Jain_Journal_1982_10/520068/32"
+  },
+  "palette": {
+    "c1": "#f3e0e4",
+    "c2": "#e4ecd9"
+  },
+  "order": 608,
+  "facts": [
+    {
+      "text": "Svetambara texts name Marudevi as the first person to reach moksha (final liberation) in the current descending half of the Jain time cycle.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Marudevi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Svetambara list her first dream was a bull. Hemachandra gives two reasons for her son's name Rishabha, meaning bull: that first dream, and a bull-shaped mark on the baby's thigh. The bull is still his emblem.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212440.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Svetambara tellings say Marudevi wept so much over her son leaving to be a monk that her eyesight grew weak. Tears of joy at hearing of his glory later cleared it, so she could see him on his throne.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Marudevi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Svetambara story, Bharata lifted Marudevi onto an elephant and took her to Rishabha's preaching hall, built by gods. She gained omniscience there and, in the very next moment, liberation, still sitting on the elephant.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Marudevi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Svetambara account, gods carried out her last rites by placing her body in the ocean of milk.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Marudevi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambara authors treat her as proof that a woman can reach liberation. She did so without ever becoming a nun, as a lay woman.",
+      "kind": "teaching",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/marudevi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambara texts say that before her human life she was a nigoda, the tiniest kind of life in Jain thought, and reached enlightenment in her first human birth. Svetambara thinkers later debated how this was possible, using karma theory.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/marudevi",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Hemachandra's telling, she lamented that her son, once shaded by a royal umbrella and served by fan-waving attendants, now walked on foot, endured gnats and cold, and lived on alms. Bharata promised she would soon see his glory.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212460.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's account, baby Rishabha sat on Nabhi's lap when Indra came with a stalk of sugar-cane. The child reached for it, and the family was named Ikshvaku after the cane.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212440.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Rishabha was born with a twin sister. His parents, Nabhi and Marudevi, named her Sumangala.",
+      "kind": "family",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212440.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Marudevi is named outside Jain texts too. The Hindu Bhagavata Purana also calls her the mother of Rishabha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Marudevi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "compact"
+}

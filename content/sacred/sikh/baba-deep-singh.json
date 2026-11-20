@@ -1,0 +1,251 @@
+{
+  "slug": "baba-deep-singh",
+  "name": "Baba Deep Singh",
+  "aka": ["Baba Deep Singh Shaheed", "Bhai Deep Singh"],
+  "native": "ਬਾਬਾ ਦੀਪ ਸਿੰਘ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Sikh scholar, warrior and martyr, remembered for defending Harmandir Sahib",
+  "years": "1682–1757",
+  "order": 540,
+  "summary": "Baba Deep Singh (1682–1757) was a scholar who copied the Guru Granth Sahib and later led a march to protect Harmandir Sahib in Amritsar, where Sikhs remember his martyrdom in November 1757.",
+  "about": "According to Sikh history, Deep Singh was born in 1682 at Pahuwind, near Amritsar, and took Khalsa initiation at Anandpur in 1700. He studied Gurmukhi and the Gurus' teachings with Bhai Mani Singh, and helped copy the Guru Granth Sahib at Talwandi Sabo. Later he led a fighting band, and in 1748 his group became the Shaheed Misl. In 1757, after Afghan forces desecrated Harmandir Sahib, he left retirement at Damdama Sahib at about 75 to restore it and gathered thousands of Sikhs on the way. He fell near Amritsar in November 1757. Popular accounts say he kept fighting after being struck; another version says his wound was severe but not fatal at first. Sources differ on exact dates.",
+  "kidSummary": "Baba Deep Singh was a Sikh who loved learning as well as bravery. He copied the holy Guru Granth Sahib by hand and helped teach others. When he was old, he marched to protect the Golden Temple in Amritsar, and Sikhs remember his courage with great respect.",
+  "story": [
+    {
+      "title": "A village boy becomes a student",
+      "text": "Deep Singh was born in the village of Pahuwind in 1682. At Anandpur he joined the Khalsa and learned to read Gurmukhi and the Gurus' hymns from Bhai Mani Singh."
+    },
+    {
+      "title": "Copying the holy book",
+      "text": "He helped copy the Guru Granth Sahib by hand at Talwandi Sabo. Later he also had four more copies made from Bhai Mani Singh's version."
+    },
+    {
+      "title": "A leader of a jatha",
+      "text": "As the years went by, Deep Singh led a fighting band of Sikhs. In 1748 his band became known as the Shaheed Misl."
+    },
+    {
+      "title": "News from Amritsar",
+      "text": "In 1757, Harmandir Sahib was damaged by invading forces. Deep Singh was about 75 and living quietly, but he decided to go and protect it."
+    },
+    {
+      "title": "The march",
+      "text": "Hundreds of Sikhs joined him at first, and more came from villages on the road until there were thousands by Tarn Taran."
+    },
+    {
+      "title": "Remembered at Harmandir Sahib",
+      "text": "Sikh tradition says he reached the area of the Golden Temple before he fell. A shrine now marks the place near the sarovar."
+    }
+  ],
+  "teaches": ["Keep your word", "Serve what you hold sacred", "Learning and courage together"],
+  "symbol": "book",
+  "emblems": ["Double-edged sword he carried", "Shaheed Misl"],
+  "family": [
+    {
+      "relation": "teacher",
+      "name": "Bhai Mani Singh",
+      "slug": "bhai-mani-singh"
+    },
+    {
+      "relation": "Guru he met",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    }
+  ],
+  "texts": [
+    "Guru Granth Sahib (copies he prepared)",
+    "Dasam Granth (manuscript folio attributed to him)"
+  ],
+  "places": [
+    "Pahuwind, Amritsar district",
+    "Damdama Sahib (Talwandi Sabo)",
+    "Harmandir Sahib, Amritsar",
+    "Gurdwara Shahidganj Baba Deep Singh"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In 1705 he was called to Talwandi Sabo, where he helped Bhai Mani Singh copy out the Guru Granth Sahib by hand.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In April 1757, Deep Singh's band near Kurukshetra freed many prisoners from Ahmad Shah Durrani's column on its way to Kabul.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At about 75, Deep Singh left retirement at Damdama Sahib to rebuild the shrine. About 500 men joined first, and more than 5,000 had gathered by Tarn Taran.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says he vowed that his head would fall at Darbar Sahib, and that vow is the heart of the stories told about his last day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Popular accounts say he fought on with his head in one hand and a sword in the other; another version says he took a severe neck wound instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 10,
+      "kid": false
+    },
+    {
+      "text": "A shrine within the Golden Temple complex marks the spot where his head fell, and he and Baba Gurbaksh Singh are the only two Sikhs honoured there this way.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says the double-edged sword he used in his last battle is kept at the Akal Takht in Amritsar.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia lists his khanda at about 15 kg (33 lb), though it marks the figure as needing a citation.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In May 1757 the Afghan general Jahan Khan besieged Amritsar, razed the Sikh fort of Ram Rauni and filled in the holy pool, the shock that sent Deep Singh on his march.",
+      "kind": "history",
+      "source": "https://eos.learnpunjabi.org/DIP%20SINGH%20SHAHID%20BABA%20(1682-1757).html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He fell at the Battle of Gohalwar on 11 November 1757 (his own page says 13 November). The battle page counts about 5,000 to 6,000 Sikhs against some 20,000 Afghans, and tellings of the result differ.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Amritsar_(1757)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "News of the desecration led him to vow to free the shrine and celebrate Diwali there, according to the Battle of Amritsar page.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Amritsar_(1757)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is said to have fought a duel with the Afghan commander Jamal Shah, who also died in the battle.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Amritsar_(1757)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Haji Atai Khan reached Gohalwar with about 2,000 troops, and his late arrival helped turn the battle in the Afghans' favour.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Amritsar_(1757)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the battle he was cremated near Gurdwara Ramsar, where the shrine Shahidganj Baba Deep Singh Shaheed now stands.",
+      "kind": "place",
+      "source": "https://eos.learnpunjabi.org/DIP%20SINGH%20SHAHID%20BABA%20(1682-1757).html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Anandpur on Vaisakhi 1700 he was baptised by Guru Gobind Singh and spent time near him learning weapons, riding and other martial skills.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He was born on 26 January 1682 in Pahuwind, in a Sandhu Jat farming family. His father was Bhagta and his mother Jioni.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 1740 polity of Sikhs, Jats and local Muslims near Sirhind, led by a man called Daranat Shah, was crushed in 1741. Historian Hari Ram Gupta thinks Daranat Shah was Deep Singh, one scholar's view.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Nawab Kapur Singh made him leader of a jatha in 1733, and at Vaisakhi 1748 the 65 jathas were regrouped into twelve misls, with Deep Singh heading the Shaheed Misl.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Burj Baba Deep Singh Shaheed, the tower where he lived, still stands beside Takht Sri Damdama Sahib at Talwandi Sabo.",
+      "kind": "place",
+      "source": "https://eos.learnpunjabi.org/DIP%20SINGH%20SHAHID%20BABA%20(1682-1757).html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A biographical film about him, Anokhe Amar Shaheed Baba Deep Singh Ji, directed by Jaswinder Chahal, was released in 2006.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which holy book did Baba Deep Singh help copy by hand?",
+      "options": ["Guru Granth Sahib", "Ramayana", "Zafarnama", "Panchatantra"],
+      "answer": 0,
+      "why": "He helped copy the Guru Granth Sahib at Talwandi Sabo."
+    },
+    {
+      "q": "About how old was he when he marched to protect Harmandir Sahib?",
+      "options": ["25", "75", "45", "100"],
+      "answer": 1,
+      "why": "Wikipedia says he was about 75 in 1757."
+    },
+    {
+      "q": "Which misl did Baba Deep Singh lead?",
+      "options": ["Phulkian", "Ahluwalia", "Shaheed", "Bhangi"],
+      "answer": 2,
+      "why": "He led the Shaheed Misl, set up in 1748."
+    },
+    {
+      "q": "Which holy site was he trying to protect?",
+      "options": ["Hazur Sahib", "Paonta Sahib", "Patna Sahib", "Harmandir Sahib"],
+      "answer": 3,
+      "why": "He marched to defend Harmandir Sahib in Amritsar."
+    }
+  ],
+  "related": [
+    "bhai-mani-singh",
+    "guru-gobind-singh",
+    "banda-singh-bahadur",
+    "bhai-taru-singh",
+    "guru-granth-sahib"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baba_Deep_Singh",
+    "encyclopedia": "https://eos.learnpunjabi.org/DIP%20SINGH%20SHAHID%20BABA%20(1682-1757).html",
+    "battle": "https://en.wikipedia.org/wiki/Battle_of_Amritsar_(1757)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e0c7",
+    "c2": "#c5d3e3"
+  }
+}

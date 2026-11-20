@@ -1,0 +1,264 @@
+{
+  "slug": "banda-singh-bahadur",
+  "name": "Banda Singh Bahadur",
+  "aka": ["Banda Bahadur", "Lachman Dev", "Madho Das", "Banda Bairagi"],
+  "native": "ਬੰਦਾ ਸਿੰਘ ਬਹਾਦਰ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Sikh military leader who took Sirhind in 1710 and gave land to farmers",
+  "years": "1670–1716",
+  "order": 550,
+  "summary": "Banda Singh Bahadur (1670–1716) was a former ascetic who became a Sikh at Nanded in 1708, led the Sikh capture of Sirhind in 1710, and set up a short-lived state with land reforms.",
+  "about": "According to Sikh history, Banda Singh Bahadur was born as Lachman Dev in 1670 at Rajouri in present-day Jammu and Kashmir. After a hunting incident in his teens he became a Bairagi ascetic known as Madho Das, and set up a monastery at Nanded. In 1708 he met Guru Gobind Singh, took amrit, and was given the name Banda Singh and the title Bahadur. The Guru sent him to Punjab with letters to Sikhs. In May 1710 his forces defeated the Mughal governor Wazir Khan at Chappar Chiri and took Sirhind. He ended the zamindari system and gave land to those who farmed it. After a siege at Gurdas Nangal he was captured in December 1715 and executed in Delhi in June 1716. Details differ among sources.",
+  "kidSummary": "Banda Singh Bahadur began life as a wandering ascetic. After meeting Guru Gobind Singh, he became a Sikh and led an army to Punjab. He is remembered for giving land to the farmers who worked on it and for his courage at Sirhind.",
+  "story": [
+    {
+      "title": "From ascetic to Sikh",
+      "text": "Banda was born Lachman Dev and later lived as an ascetic called Madho Das at Nanded. In 1708 Guru Gobind Singh visited him there, and he became a Sikh named Banda Singh."
+    },
+    {
+      "title": "A mission to Punjab",
+      "text": "The Guru gave him the title Bahadur, a war drum, a flag, and letters asking Sikhs to join him. He travelled north to Punjab."
+    },
+    {
+      "title": "Growing support",
+      "text": "Along the way Banda Singh drove out bandits and shared what they had taken. Farmers and villagers who had little joined him."
+    },
+    {
+      "title": "Sirhind",
+      "text": "In May 1710 his forces met the army of the governor, Wazir Khan, at Chappar Chiri. Wazir Khan was killed and Sirhind was taken within a few days."
+    },
+    {
+      "title": "Land to the farmers",
+      "text": "Banda Singh ended the zamindari system, so those who worked the land became its owners. He set up his capital at Lohgarh."
+    },
+    {
+      "title": "Remembered",
+      "text": "After a long siege at Gurdas Nangal, he was captured in 1715 and executed in Delhi in 1716. Sikhs remember him for his courage and for land reform."
+    }
+  ],
+  "teaches": [
+    "Fairness for people who work the land",
+    "Courage in hard times",
+    "Loyalty to a promise"
+  ],
+  "symbol": "sword",
+  "emblems": ["War drum and flag (given by Guru Gobind Singh)", "Fateh Burj, Chappar Chiri"],
+  "family": [
+    {
+      "relation": "Guru who named him",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "comrade until 1714",
+      "name": "Baba Deep Singh",
+      "slug": "baba-deep-singh"
+    }
+  ],
+  "texts": [
+    "Ganda Singh, Life of Banda Singh Bahadur (1935)",
+    "Hukamnamas attributed to Guru Gobind Singh"
+  ],
+  "places": ["Rajouri", "Nanded", "Sirhind and Chappar Chiri", "Lohgarh", "Gurdas Nangal"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "A tale says that at about fifteen he found two unborn fawns in a doe he had hunted; the sight so shook him that he left home to become the ascetic Madho Das.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikh tradition says he was given five arrows, a war drum and a flag, plus letters to Sikhs, and five Panj Pyare companions with about twenty more Singhs.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Chappar Chiri on 12 May 1710 his forces defeated the Mughals, and governor Wazir Khan was killed; sources differ on who struck the blow.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sirhind fell a few days later. Banda Singh abolished the zamindari system and made the farmers who worked the land its owners.",
+      "kind": "history",
+      "source": "https://tribuneindia.com/2010/20100523/spectrum/main3.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He made Mukhlisgarh his capital and renamed it Lohgarh, the iron fort.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Gurdas Nangal, a siege that began in March 1715 lasted about eight months before the Mughals broke in on 7 December 1715.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He was executed in Delhi on 9 June 1716, and a letter from an East India Company envoy about these events is among the earliest Western accounts of Sikhs.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His followers became known as the Bandai Khalsa, and they wore red robes.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Chappar Chiri has the Fateh Burj, described as the tallest victory tower in India, opened in late 2011 to mark the Sikh victory led by Banda Singh.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chappar_Chiri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The name Banda means servant or slave: Madho Das declared himself the Guru's banda, and it became the name by which the world knows him.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says that when Guru Gobind Singh sat on Madho Das's seat at Nanded, the ascetic angrily tried to tip it over by magic, failed, and lost his anger on meeting the Guru.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Near Kaithal, his Sikh foot soldiers ran into a thorny forest, so the Mughal cavalry had to leave their horses behind; the Sikhs then came out and took the horses.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His coins named Guru Nanak and Guru Gobind Singh, not himself. The first Sikh coins are said to have been struck at his fortress of Mukhlisgarh.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sikh_coinage",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His seal carried the words deg, meaning charity, and tegh, the sword, standing for victory, according to the Sikh Encyclopedia.",
+      "kind": "symbol",
+      "source": "https://eos.learnpunjabi.org/BANDA%20SINGH%20BAHADUR%20(1670-1716).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Delhi he was ordered to kill his four-year-old son Ajai Singh, and he refused.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Chappar Chiri he led the charge himself, and the Sikh troops rushed the Mughals and their elephants with a war cry of victory to Waheguru.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On learning how Guru Gobind Singh's younger sons had died, Banda is said to have wept, and the Guru urged him to stand against tyranny.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He travelled to Punjab in disguise, following the route the Guru had taken through Maharashtra and Rajputana, and the journey took about a year.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Documents from his own lifetime do not mention his caste. Only in the twentieth century did tradition call him a Dogra Rajput or a Sodhi Khatri.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Gurdas Nangal he was carried to Delhi in an iron cage, in a procession that included 780 Sikh prisoners.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He was born Lachman Dev on 27 October 1670 at Rajouri, the son of a poor farmer named Ram Dev.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Banda Singh Bahadur's name before he became a Sikh?",
+      "options": ["Lachman Dev", "Hari Das", "Gopal Rai", "Ram Singh"],
+      "answer": 0,
+      "why": "He was born Lachman Dev and later called Madho Das."
+    },
+    {
+      "q": "Which city did his forces take in 1710?",
+      "options": ["Lahore", "Sirhind", "Delhi", "Amritsar"],
+      "answer": 1,
+      "why": "After Chappar Chiri, his forces took Sirhind."
+    },
+    {
+      "q": "What did Banda Singh do for farmers?",
+      "options": [
+        "Built schools",
+        "Reduced taxes only",
+        "Made them owners of the land",
+        "Gave free seeds"
+      ],
+      "answer": 2,
+      "why": "He abolished the zamindari system and gave land to those who farmed it."
+    },
+    {
+      "q": "What did he rename his capital Mukhlisgarh?",
+      "options": ["Sirhind", "Anandpur", "Kartarpur", "Lohgarh"],
+      "answer": 3,
+      "why": "Lohgarh means iron fort."
+    },
+    {
+      "q": "What does the name Banda mean?",
+      "options": ["Servant", "Lion", "King", "Brave"],
+      "answer": 0,
+      "why": "Madho Das called himself the Guru's banda, meaning servant."
+    }
+  ],
+  "related": ["guru-gobind-singh", "panj-pyare", "baba-deep-singh", "sahibzade", "mata-sundari"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+    "tribune": "https://tribuneindia.com/2010/20100523/spectrum/main3.htm",
+    "chappar": "https://en.wikipedia.org/wiki/Chappar_Chiri",
+    "coinage": "https://en.wikipedia.org/wiki/Sikh_coinage",
+    "eos": "https://eos.learnpunjabi.org/BANDA%20SINGH%20BAHADUR%20(1670-1716).html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2dcc5",
+    "c2": "#cfd9e4"
+  }
+}

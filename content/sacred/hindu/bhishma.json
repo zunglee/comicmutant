@@ -1,0 +1,268 @@
+{
+  "slug": "bhishma",
+  "name": "Bhishma",
+  "aka": ["Devavrata", "Gangaputra", "Gangadatta", "Pitamaha"],
+  "native": "भीष्म",
+  "role": "Grand elder of the Kuru family in the Mahabharata",
+  "summary": "Bhishma is the revered grand elder of the Kuru family in the Mahabharata, famous for his lifelong vow, his skill in war and his long wait on a bed of arrows. Many Hindus remember him on Bhishma Ashtami.",
+  "about": "In the Mahabharata, Bhishma is born as Devavrata, the son of King Shantanu and the river goddess Ganga, and tradition says he was one of the eight Vasus born as a human. To let his father marry Satyavati, he vowed never to marry or claim the throne, and the name Bhishma, meaning terrible or fierce, was given for that vow. His father also granted him the choice of the time of his own death. He guided the Kuru house through several generations, was addressed as Pitamaha, grandfather, by both Pandavas and Kauravas, and led the Kaurava army for ten days at Kurukshetra. The epic says Arjuna brought him down with Shikhandi in front, and he lay on a bed of arrows until the sun turned northward. In the Anushasana Parva he teaches Yudhishthira about dharma, and the Vishnu Sahasranama appears in that parva. The festival Bhishma Ashtami remembers him.",
+  "kidSummary": "Bhishma is the wise grandfather figure of the Mahabharata. He made a big promise so that his father could be happy, and he kept it all his life. In the great war, he lay on a bed of arrows but kept teaching until the right moment. He stands for keeping your word.",
+  "story": [
+    {
+      "title": "A promise for his father",
+      "text": "In the Mahabharata, King Shantanu wanted to marry Satyavati, but her father wanted her sons to be kings. Devavrata promised to never take the throne and never marry, so his father could be happy."
+    },
+    {
+      "title": "The name Bhishma",
+      "text": "The gods were so moved by this vow that they rained flowers from the sky. From then on he was called Bhishma, a word that means fierce or terrible, and his father gave him a special boon."
+    },
+    {
+      "title": "A grandfather to all",
+      "text": "Bhishma raised and guided the princes of the Kuru house. Pandavas and Kauravas both called him grandfather, and he arranged marriages and gave counsel when disputes arose."
+    },
+    {
+      "title": "The tenth day",
+      "text": "At Kurukshetra Bhishma led the Kaurava army for ten days. On the tenth day, he fell to Arjuna's arrows, with Shikhandi in front, and lay down on a bed of arrows."
+    },
+    {
+      "title": "A wise teacher",
+      "text": "Arjuna made him a pillow of arrows and gave him water. Bhishma waited for the sun to turn north, and in that time he taught Yudhishthira about duty and kindness."
+    }
+  ],
+  "teaches": [
+    "Keeping a promise, even when it is hard",
+    "Giving up something for family and duty",
+    "Wise advice is a gift to the next generation"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bed of arrows"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shantanu",
+      "slug": "shantanu"
+    },
+    {
+      "relation": "Mother",
+      "name": "Ganga",
+      "slug": "ganga"
+    },
+    {
+      "relation": "Step-mother",
+      "name": "Satyavati",
+      "slug": "satyavati"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    }
+  ],
+  "texts": ["Mahabharata (Adi, Bhishma, Shanti and Anushasana Parvas)"],
+  "places": ["Hastinapura", "Kurukshetra"],
+  "festivals": ["Bhishma Ashtami"],
+  "facts": [
+    {
+      "text": "The Mahabharata links Bhishma to a Vasu named Dyu, also called Prabhasa. The Vasus were cursed to be born as mortals after stealing sage Vashishtha's cow.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Ganga drowned seven of her sons at birth until Shantanu broke his promise of silence. The eighth, Devavrata, lived and was raised by Ganga in other realms, where Indra gave him celestial weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shantanu once found a young Devavrata damming a river with a wall of arrows, and only then did Ganga return the boy to him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Amba blamed Bhishma for her plight after the Kashi abduction. Her cause drew in his teacher Parashurama, who ordered Bhishma to marry her. Bhishma refused, citing his vow, and they fought 23 days until the gods and Narada stopped them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9
+    },
+    {
+      "text": "Shiva told Amba she would be reborn to cause Bhishma's fall. In the epic she returns as Shikhandini, who becomes Shikhandi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8
+    },
+    {
+      "text": "On one of the war days Krishna nearly broke his own promise not to take up arms, by lifting a chariot wheel to charge at Bhishma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9
+    },
+    {
+      "text": "Bhishma told the Pandavas that he would stop fighting if he faced someone who was once of the opposite gender, and he fell on day ten with Shikhandi in front of Arjuna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7
+    },
+    {
+      "text": "After the tenth day, Karna visited Bhishma alone. Bhishma said he had known Karna's birth secret all along, and that his earlier slight at Karna had been a ploy to keep him from fighting his brothers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8
+    },
+    {
+      "text": "As Bhishma lay on the arrows, his head hung unsupported. He turned down soft pillows from the princes and asked Arjuna for one fit for a warrior; Arjuna propped his head on three arrows and shot the ground so that water welled up.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Counts of his wait on the arrows differ. Festival tradition says he waited 58 days for Uttarayana, the sun's northward turn, while the epic summary counts 51 days of advising Pandavas and Kauravas alike.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7
+    },
+    {
+      "text": "At the end of the Anushasana Parva, after Bhishma passed away, the Pandavas and Vidura built his funeral pyre. The goddess Ganga rose from the river to mourn her son, and Krishna comforted her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anushasana_Parva",
+      "interest": 7
+    },
+    {
+      "text": "The great Angkor Wat temple in Cambodia carries a stone relief of Bhishma on his bed of arrows, showing that the epic's scenes travelled far beyond India.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India's Army has a main battle tank, the T-90, which carries the name Bhishma.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the swayamvara of the three Kashi princesses, Amba, Ambika and Ambalika, Bhishma beat their rival Shalva and brought them to Hastinapura for Vichitravirya. Amba loved Shalva, who refused her, which began her long quarrel with Bhishma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Draupadi asked in the dice hall whether Yudhishthira could stake her after losing himself, Bhishma tried but could not answer, saying only that dharma is subtle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before his death Bhishma taught the Vishnu Sahasranama to Yudhishthira and shared his learning on governance, dharma and the duties of a king.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A silent film, Bhishma Pratigya, was made in 1921. Many more followed, including a Hindi film in 1937, a Bengali one in 1942 and another Hindi Bhishma Pratigya in 1950 starring Nargis.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A five-day fast called Bhishma Panchaka runs in Vishnu temples from Bhishma Ashtami to Bhishma Dwadashi. Believers at river banks hope for a child with Bhishma's steadfast qualities.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The epic says Bhishma reached salvation after death and was granted Matru Loka, a realm considered higher even than Swarga.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhishma served as chief adviser and regent to a line of Kuru rulers: his half-brothers Chitrangada and Vichitravirya, then Pandu and Dhritarashtra. He also helped raise their children.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the Pandavas joined their cousins in Hastinapura, Bhishma hired Drona to train the Kuru princes in warfare.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Devavrata promise so that his father could marry Satyavati?",
+      "options": [
+        "Never to fight",
+        "Never to take the throne or marry",
+        "To rule for a year",
+        "To leave the kingdom"
+      ],
+      "answer": 1,
+      "why": "His vow gave him the name Bhishma."
+    },
+    {
+      "q": "Who is Bhishma's mother in the Mahabharata?",
+      "options": ["Satyavati", "Gandhari", "Ganga", "Kunti"],
+      "answer": 2,
+      "why": "Ganga, the river goddess, is his mother."
+    },
+    {
+      "q": "What did Arjuna make for Bhishma's head on the bed of arrows?",
+      "options": ["A cushion of leaves", "A pillow of three arrows", "A silk cloth", "A crown"],
+      "answer": 1,
+      "why": "Arjuna supported his head with three arrows."
+    },
+    {
+      "q": "What is the festival that remembers Bhishma called?",
+      "options": ["Holi", "Bhishma Ashtami", "Baisakhi", "Onam"],
+      "answer": 1,
+      "why": "It falls in the month of Magha, in January or February."
+    },
+    {
+      "q": "What moment did Bhishma wait for before leaving the world?",
+      "options": ["The new moon", "Uttarayana, the sun's northward turn", "The monsoon", "A comet"],
+      "answer": 1,
+      "why": "He used his boon to choose the time of his death."
+    }
+  ],
+  "related": [
+    "shantanu",
+    "ganga",
+    "satyavati",
+    "arjuna",
+    "shikhandi",
+    "amba",
+    "parashurama",
+    "drona",
+    "karna",
+    "duryodhana"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhishma",
+    "ashtami": "https://en.wikipedia.org/wiki/Bhishma_Ashtami",
+    "anushasana": "https://en.wikipedia.org/wiki/Anushasana_Parva"
+  },
+  "palette": {
+    "c1": "#B8C7D9",
+    "c2": "#E4E9F0"
+  },
+  "order": 15,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "depth": "full"
+}

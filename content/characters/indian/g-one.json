@@ -54,11 +54,6 @@
   ],
   "gossip": [
     {
-      "type": "gossip",
-      "text": "Rajinikanth's robot Chitti makes a cameo, created as a computer-generated likeness because the actor wasn't available.",
-      "spice": 2
-    },
-    {
       "type": "fact",
       "text": "Shah Rukh Khan plays both the game designer Shekhar and his creation G.One.",
       "spice": 1
@@ -70,8 +65,13 @@
     },
     {
       "type": "fact",
-      "text": "A. R. Rahman composed the background score for a single sequence of the film.",
+      "text": "Jackie Chan was first approached to play Akashi but declined the offer.",
       "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Ra.One opened on 24 October 2011, the start of the Diwali weekend, with a reported budget of 120 to 150 crore rupees.",
+      "spice": 1
     }
   ],
   "quiz": [
@@ -86,6 +86,12 @@
       "options": ["Shah Rukh Khan", "Hrithik Roshan", "Salman Khan", "Arjun Rampal"],
       "answer": 0,
       "why": "Shah Rukh Khan played both G.One and Shekhar."
+    },
+    {
+      "q": "At which Mumbai station does G.One save Sonia from a runaway train?",
+      "options": ["Chhatrapati Shivaji Terminus", "Howrah", "New Delhi", "Chennai Central"],
+      "answer": 0,
+      "why": "Ra.One sends a train racing toward Chhatrapati Shivaji Terminus, and G.One gets to Sonia in time."
     }
   ],
   "rivals": ["ra-one"],
@@ -106,22 +112,28 @@
   "timeline": [
     {
       "year": 2011,
+      "kind": "screen",
+      "title": "Ra.One - The Game",
+      "note": "A PlayStation 2 and 3 game based on the film comes out on 5 October 2011, ahead of the film's Diwali release."
+    },
+    {
+      "year": 2011,
       "kind": "debut",
-      "title": "A hero with Dad's face",
-      "note": "Shah Rukh Khan plays the game's good guy, built by his own character in his own image."
+      "title": "Diwali release",
+      "note": "Ra.One opens on 24 October 2011 with Shah Rukh Khan as the game designer Shekhar and as his hero creation G.One."
     },
     {
       "year": 2011,
       "kind": "death",
       "title": "Taking the blast",
-      "note": "G.One beats Ra.One in the final level, then absorbs the explosion to save everyone else.",
+      "note": "In the film's finale G.One beats Ra.One in the final level, then absorbs the explosion to save everyone else.",
       "with": "ra-one"
     },
     {
       "year": 2011,
       "kind": "return",
       "title": "Respawn",
-      "note": "Months later Prateek repairs G.One's H.A.R.T. and brings him back online."
+      "note": "In the film's epilogue, Prateek repairs G.One's H.A.R.T. and brings him back online."
     },
     {
       "year": 2012,
@@ -130,11 +142,170 @@
       "note": "Ra.One's effects team takes Best Special Effects at the 59th National Film Awards."
     },
     {
-      "year": 2015,
+      "year": 2012,
       "kind": "turn",
       "title": "The sequel gets his name",
-      "note": "Shah Rukh Khan says a follow-up to Ra.One would be titled G.One. It is still unmade."
+      "note": "After the National Award win, Shah Rukh Khan says a follow-up would be titled G.One, not Ra.Two. In April 2012 Mushtaq Sheikh says pre-production has begun, but no sequel has appeared."
     }
   ],
-  "heat": 50
+  "heat": 50,
+  "facts": [
+    {
+      "text": "Khan called Ra.One the modern, technology version of the mythological Ravana, 'a mixture of ten different evil characters', in his words. In the finale the villain splits into ten copies.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Ra.One is built with far greater powers than G.One, including shapeshifting, mind reading and a self-learning AI, so the hero is the underdog.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "In the game, the only way to finish a player is on level three, with a one-bullet gun that must hit the rival's H.A.R.T. Until then each H.A.R.T. keeps its character effectively unkillable.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Anubhav Sinha says the idea began in 2005, when he saw a TV advertisement of children remotely controlling a human being. He wrote a script around that image before taking it to Shah Rukh Khan.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "The idea that the game's villain should be more powerful than its hero came from Shekhar's son Prateek.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Twenty-one costumes were made, each reportedly costing about 10 million rupees. Khan's suit was moulded by filling a chamber with warm latex-like liquid up to his neck; light beams and electricity were added by computer later.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Sinha said the film was named Ra.One because that sounded cooler than G.One. Khan was urged to name it after his own hero but declined, citing how good and evil depend on each other.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "The cinematography borrowed from video games, with fast switches between first-person and third-person views, and it also used bullet time.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Post-production ran so late that only two days were left to print the film and ship it to theatres. Khan reportedly postponed his knee surgery to get it done on time.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Beyond the film, Sony Computer Entertainment Europe released a Ra.One game for PlayStation 2 and 3 on 5 October 2011, and UTV Indiagames made a social game, Ra.One Genesis, with its own plot based on G.One.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Khan first said a sequel was unlikely because of his other commitments. After the film won a National Award, he said it would be called G.One, not Ra.Two, and would be faster, bigger and better.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Rajinikanth's robot Chitti makes a cameo as a computer-generated likeness, because the actor was unavailable for the shoot.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 9
+    },
+    {
+      "text": "When Ra.One splits into ten copies, G.One recalls Shekhar's saying that evil's shadow always follows those who join it. Only one copy casts a shadow, and G.One destroys that copy's H.A.R.T.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 9
+    },
+    {
+      "text": "Director Anubhav Sinha spent three months studying superhero films, and he and Shah Rukh Khan watched about 200 from around the world. Sinha also wrote a 23-page brief with sketches so the film's suits would be unlike any before.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Khan called his role G.One, or Jeevan, a superhero who saves mankind from Ra.One, and said the film was meant to prove that Indian superheroes can be as cool as international ones.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Prateek plays the game under the gamer alias Lucifer. Ra.One, unable to finish its turn against Lucifer, becomes determined that he must die, which is why it hunts the family.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "After G.One breaks Ra.One into cubes and takes its H.A.R.T., Prateek sees Shekhar in him and Sonia cannot leave him behind. They fly to India together, with G.One travelling on Shekhar's passport.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "G.One promises Sonia to protect Prateek. When Ra.One sends a train racing toward Chhatrapati Shivaji Terminus, he reaches Sonia just in time, even though the train still crashes into the station.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "To shield Prateek, G.One absorbs the remains of Ra.One's blast and disintegrates. Months later, Prateek manages to repair G.One's H.A.R.T. in London and bring him back to the real world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Arjun Rampal plays Ra.One. His faceless look on the poster was kept secret during the whole production, and Kareena Kapoor got the role of Sonia because she insisted on it.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Amitabh Bachchan narrates the game, Sanjay Dutt pops up as Khalnayak and Priyanka Chopra appears as Desi Girl in cameos that kids and parents spot.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Ra.One opened on 24 October 2011, the start of the five-day Diwali weekend, and broke the Diwali opening-day record in India. Dubbed Tamil and Telugu versions and 3-D prints came out too.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "The film won the National Film Award and the Filmfare Award for Best Special Effects, major honours for the team behind G.One's digital world.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "G.One is the good-guy character in a video game who is brought into the real world. He has the face of the game's creator, and he protects a boy named Prateek and his mother Sonia from the game's villain, Ra.One.",
+  "story": [
+    {
+      "title": "A hero with a familiar face",
+      "text": "A game designer gives his own face to the hero of his new video game. The hero is named G.One."
+    },
+    {
+      "title": "Out of the screen",
+      "text": "When the game's villain Ra.One breaks into the real world, Prateek and Jenny bring G.One out through a computer to stop him."
+    },
+    {
+      "title": "Protector in Mumbai",
+      "text": "G.One promises Prateek's mother Sonia to keep the boy safe, and he rescues her from a runaway train in Mumbai."
+    },
+    {
+      "title": "Final level",
+      "text": "With Prateek controlling him like a game, G.One uses a clever clue to find the real Ra.One. He then shields Prateek from the blast."
+    }
+  ]
 }

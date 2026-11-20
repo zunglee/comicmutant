@@ -1,0 +1,254 @@
+{
+  "name": "Lopamudra",
+  "aka": ["Kaveri", "Kaushitaki", "Varaprada"],
+  "native": "लोपामुद्रा",
+  "role": "Vedic seer and wife of the sage Agastya",
+  "summary": "Lopamudra is a woman seer of the Rigveda and the wife of Agastya. Hindu texts tell of her being shaped from the best parts of many creatures, and the Kaveri river is also called by her name.",
+  "about": "Lopamudra is remembered as a Vedic seer, a rishika, and as the wife of the sage Agastya. The Rigveda credits her with a hymn in Book 1 shared with him. The Mahabharata tells that Agastya gathered the finest qualities of many creatures to form her, and that she grew up as a princess of Vidarbha before choosing a forest life with him. When Agastya wished for a son, she asked for the comforts of her palace first, so he set out to find wealth, and their son was Idhmavaha, also called Drdhasyu. A Giridhara Ramayana version and several regional legends tell her story differently. In Karnataka and Tamil lands, many say she became the river Kaveri. The Sri Vidya tradition once had a mantra named for her, popular in South India around the 6th century, though it is no longer practised.",
+  "kidSummary": "Lopamudra is a wise woman of ancient India whose hymn is in the Rigveda. Stories say she was made from the loveliest parts of animals and plants, and that she married the sage Agastya. In the south, many people say she became the river Kaveri.",
+  "story": [
+    {
+      "title": "A princess is shaped",
+      "text": "In the Mahabharata, the sage Agastya gathers the loveliest qualities of many creatures, and a girl of rare beauty and wisdom comes to be."
+    },
+    {
+      "title": "A king's daughter",
+      "text": "The childless king of Vidarbha receives her as his daughter, and the learned brahmins name her Lopamudra."
+    },
+    {
+      "title": "A forest life",
+      "text": "When Agastya asks to marry her, she accepts, leaves royal clothes behind, and serves him in the forest in simple bark dress."
+    },
+    {
+      "title": "A wise request",
+      "text": "Agastya wants a son. Lopamudra says she would like the comforts of her old palace life first, so he sets out to find wealth."
+    },
+    {
+      "title": "A learned son",
+      "text": "She chooses one learned son over a thousand bad ones, and Idhmavaha is born, bringing joy to the whole family."
+    },
+    {
+      "title": "The river story",
+      "text": "In the south, people tell that she flows as the river Kaveri, bringing water to the land."
+    }
+  ],
+  "teaches": [
+    "Wisdom and courage can belong to anyone",
+    "A good home life is a path of learning too",
+    "Quality matters more than quantity"
+  ],
+  "symbol": "wave",
+  "emblems": ["Kaveri river", "Water pot (kamandalu) in the Kaveri tale"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Agastya",
+      "slug": "agastya"
+    },
+    {
+      "relation": "Son",
+      "name": "Idhmavaha (Drdhasyu)"
+    }
+  ],
+  "texts": ["Rigveda 1.179", "Mahabharata (Vana Parva)", "Giridhara Ramayana", "Brihaddevata"],
+  "places": ["Vidarbha", "Haridwar (Gangadwara)", "Talakaveri, Kodagu", "Bhagamandala"],
+  "festivals": ["Kaveri Pushkaram"],
+  "facts": [
+    {
+      "text": "The Rigveda has hymns attributed to 27 women seers, and Lopamudra is one of them. Her hymn sits in Book 1 as hymn 179, which has six verses.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "Her name is read as 'loss' plus 'distinct beauty', recalling the legend that creatures and plants lost a little of their beauty when Agastya shaped her.",
+      "kind": "language",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Agastya shapes her from fine qualities such as a deer's eyes and a swan's soft neck, then hands the girl to the king of Vidarbha to raise.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "In the same tale, Agastya asks whether she wants a thousand sons or one son equal to a thousand. Lopamudra chooses one learned son.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says she carried the baby for seven years. The boy was named Idhmavaha, meaning 'carrier of sacrificial wood'.",
+      "kind": "family",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "In the Giridhara Ramayana, the king of Kanyakubja fears Agastya's curse and offers his son, named Lopamudra, dressed as a girl. After the wedding he is said to become a woman.",
+      "kind": "text",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": false
+    },
+    {
+      "text": "In one Kaveri legend, Agastya keeps Lopamudra confined in his water pot. Hearing her weep, Ganesha overturns the pot, and she flows out as the river Kaveri.",
+      "kind": "story",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "In a Kodava legend she turns away from Agastya so sharply that her sari pleats fall over her right shoulder, the Kodava way of draping. She leaps into a tank on Brahmagiri hill, is reborn as Kaveri and reappears at Bhagamandala.",
+      "kind": "story",
+      "interest": 9,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "Hymn 1.179 reads like a drama: in Griffith's translation its six verses pass between Lopamudra, Agastya and a student. It is often read as a debate between solitary asceticism and household life, with both given a place.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Agastya sees his ancestors hanging head-down over a ravine, waiting for a descendant's son to free them, and so he decides to marry and have a son.",
+      "kind": "story",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "To meet her wish for riches, Agastya asked three kings for gold; none could spare any, so on their advice he visited the asura king Ilvala, who gave him a golden chariot and coins.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "kid": true
+    },
+    {
+      "text": "In the hymn, traditionally called 'Rati' (love), Lopamudra's opening verses say she has toiled for many years and that age wears bodies down, so husbands should now come to their wives.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Agastya's reply in the same hymn, a united couple can win the contest of 'a hundred stratagems', which is why the hymn is often read as a defence of shared home life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata she tells Agastya that his austerity could win anything, so he should go and find wealth, since her fertile years are limited.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tamil poets call the Kaveri 'Ponni', the golden one, for the gold-coloured silt it left across its delta. Sanskrit tradition calls it the Ganges of the South and Half Ganga.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kaveri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindus revere the Kaveri as one of India's seven sacred rivers and worship her as the goddess Kaveri Amma. Many link the river with Lopamudra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kaveri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another version of the legend, the water in Agastya's pot is Lopamudra herself, who later asks Brahma to make her a purifying river.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaveri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Kaveri Pushkaram festival is held every 12 years and lasts 12 days, and every 144 years comes a Maha Pushkaram. Srirangam and Mayiladuthurai are key pilgrimage sites.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kaveri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She is remembered as a brahmavadini, learned in sacred knowledge. Sri Vidya's mantra has twelve versions, each tied to a devotee; Lopamudra's was popular in the 6th century but is now not practised.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "With Agastya she is credited with spreading the Lalita Sahasranama, the thousand names of the Mother Goddess, which Agastya is said to have learned from Hayagriva, a form of Vishnu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lopamudra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the Mahabharata, what is Lopamudra shaped from?",
+      "options": [
+        "Clay from a river",
+        "The finest qualities of many creatures",
+        "A golden lotus",
+        "Fire from a sacrifice"
+      ],
+      "answer": 1,
+      "why": "Agastya gathered fine qualities of many creatures to shape her."
+    },
+    {
+      "q": "Which river is Lopamudra said to have become in southern legends?",
+      "options": ["Narmada", "Yamuna", "Kaveri", "Sindhu"],
+      "answer": 2,
+      "why": "Karnataka and Tamil legends call the Kaveri Lopamudra."
+    },
+    {
+      "q": "Which Veda has a hymn credited to Lopamudra?",
+      "options": ["Rigveda", "Samaveda", "Atharvaveda", "Yajurveda"],
+      "answer": 0,
+      "why": "Her hymn is Rigveda 1.179."
+    },
+    {
+      "q": "What kind of son did she choose in the Mahabharata story?",
+      "options": [
+        "A thousand ordinary sons",
+        "One wise and learned son",
+        "A warrior king",
+        "A son born rich"
+      ],
+      "answer": 1,
+      "why": "She chose one learned son over a thousand."
+    },
+    {
+      "q": "Who tipped over Agastya's pot in the Kaveri legend?",
+      "options": ["Ganesha", "Hanuman", "A peacock", "The wind"],
+      "answer": 0,
+      "why": "Ganesha overturned the pot and the water flowed out as the river."
+    }
+  ],
+  "related": ["agastya", "ganesha", "atri", "anasuya", "vasishtha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lopamudra",
+    "kaveri": "https://en.wikipedia.org/wiki/Kaveri"
+  },
+  "palette": {
+    "c1": "#a9d0d6",
+    "c2": "#e8d6a8"
+  },
+  "order": 700,
+  "slug": "lopamudra",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

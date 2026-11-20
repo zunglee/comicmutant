@@ -1,0 +1,266 @@
+{
+  "slug": "valmiki",
+  "name": "Valmiki",
+  "aka": ["Adi Kavi", "Maharshi Valmiki", "Vanmeegar"],
+  "native": "वाल्मीकि",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage-poet traditionally credited with the Ramayana",
+  "summary": "Valmiki is honoured as Adi Kavi, the first poet. Tradition says he composed the Ramayana, whose first verse came to him as a cry of compassion, and he sheltered Sita and taught her sons Lava and Kusha.",
+  "about": "The Ramayana names Valmiki as its author, and Hindus honour him as Adi Kavi, the first poet, and his epic as the first kavya. The text says he was bathing at the Tamasa river when he saw a hunter strike down one of a pair of krauncha birds. His sorrow flowed out as a verse in a new rhythm, the shloka, and Brahma then told him to compose the story of Rama as Narada had outlined it. Later in the epic, Sita lives in his ashram, where Lava and Kusha are born and learn the poem from him. One tradition describes him as a robber who changed through penance; the Skanda Purana names that man Lohajangha, and popular retellings call him Ratnakara. This is one account among several, and not every community that reveres him tells it. The Balmiki community venerates him, and his name is also found in Tamil Siddhar tradition as Vanmeegar. Scholars date the earliest layer of the Ramayana to about the 8th to 4th centuries BCE.",
+  "kidSummary": "Valmiki is the sage who, in Hindu tradition, wrote the Ramayana, one of India's oldest and most loved stories. People call him the first poet. His first verse is said to have come from his kind heart when he felt sorry for a bird.",
+  "story": [
+    {
+      "title": "A quiet morning",
+      "text": "The Valmiki Ramayana says the sage went to the Tamasa river for a bath, with his student Bharadvaja carrying his water pot and a bark cloth."
+    },
+    {
+      "title": "The sad cry",
+      "text": "He saw two krauncha birds together. A hunter shot one, and the other cried out in sorrow. Valmiki felt great pity for the bird."
+    },
+    {
+      "title": "A new kind of verse",
+      "text": "Words came out of his sorrow in a steady, musical beat. Valmiki wondered at it, and his students memorised and sang the verse, which is called the first shloka."
+    },
+    {
+      "title": "Brahma's message",
+      "text": "The creator Brahma visited and told Valmiki that the verse had come by his wish. He asked the sage to tell the full story of Rama, and promised it would be remembered as long as mountains and rivers last."
+    },
+    {
+      "title": "Lava and Kusha",
+      "text": "Later, Sita lived in Valmiki's ashram where her twin sons Lava and Kusha were born. He taught them the whole poem, and they sang it across the land."
+    }
+  ],
+  "teaches": [
+    "Compassion can inspire great art",
+    "Anyone can change through effort and devotion",
+    "Stories keep goodness alive"
+  ],
+  "symbol": "feather",
+  "emblems": ["Anthill", "Krauncha birds", "Quill (in popular art)"],
+  "family": [
+    {
+      "relation": "Disciple",
+      "name": "Bharadvaja",
+      "slug": "bharadvaja"
+    },
+    {
+      "relation": "Disciples",
+      "name": "Lava and Kusha",
+      "slug": "lava-and-kusha"
+    },
+    {
+      "relation": "Sheltered",
+      "name": "Sita",
+      "slug": "sita"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Yoga Vasistha (traditionally attributed)", "Skanda Purana"],
+  "places": [
+    "Tiruvanmiyur, Chennai",
+    "Ettukudi Murugan Temple, Nagapattinam",
+    "Triveni Dham area, Chitwan, Nepal"
+  ],
+  "festivals": ["Valmiki Jayanti (Pargat Diwas)"],
+  "facts": [
+    {
+      "text": "In the Skanda Purana, Valmiki was born the Brahmin Lohajangha, who robbed travellers during a twelve-year drought. Pulaha gave him a mantra; he sat so still that termite mounds rose around him, and the sages named him Valmiki, 'from an anthill'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In one account, after meeting Narada he did penance repeating 'mara', a word meaning 'die'. Said over and over, it turned into 'rama', the name of Vishnu, and that reversal changed his life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a translation of the last book, Valmiki brings Sita and her sons before Rama's assembly, vouches for her purity and says he has never knowingly lied, staking his years of austerity on his word.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424871.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition holds that Valmiki was later born again as Tulsidas, who wrote the Ramcharitmanas, the Awadhi-Hindi retelling of the Ramayana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Adbhuta Ramayana is a little-known text also attributed to Valmiki. In it Sita takes a fierce form and defeats the thousand-headed Ravana, giving her far more prominence than usual.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Another tradition makes him the god Varuna's tenth son, named for the termite mound where Varuna's seed fell. This competes with the Skanda Purana's account of his name, so the tellings differ.",
+      "kind": "family",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "kid": false
+    },
+    {
+      "text": "The Ramayana attributed to him has over 24,000 couplets in seven books and roughly 480,000 words, about four times the length of the Iliad.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "kid": true
+    },
+    {
+      "text": "Many scholars think the first and last books were added later: both are missing from the oldest known manuscript and a 6th-century Bengal one, and much of the Uttara Kanda is told through other speakers, such as Agastya.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Uttara_Kanda",
+      "kid": false
+    },
+    {
+      "text": "Tiruvanmiyur in Chennai is believed to take its name from Thiru-Valmiki-Oor, the town of Valmiki, and a Valmiki temple there is believed to be about 1,300 years old.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The first shloka, which begins 'ma nishada', is a lament that works like a curse: it tells the hunter he will find no rest for countless years because he killed a bird in love, unaware. Tradition counts it the first shloka in Sanskrit.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tamil Nadu's Siddhar tradition he is Vanmeegar, counted among the 18 revered Siddhars, and the Ettukudi Murugan Temple in Nagapattinam holds what is believed to be his jeeva samadhi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Valmiki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Robert Goldman dates the epic's oral composition to about 750-500 BCE. Clues inside include calling Ayodhya the capital of Kosala, not a later name, and never mentioning Buddhism.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ramayana opens with Valmiki asking Narada whether any truly righteous person is left in the world. Narada names Rama, and the story begins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bala_Kanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki trained Lava and Kusha in archery as well as teaching them the whole poem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttara_Kanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Yoga Vasistha, Vasishtha's long talk with Rama, is traditionally credited to Valmiki, though its real author is unknown. Full editions run past 29,000 verses, more than the Ramayana's roughly 24,000.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Retellings of the Ramayana exist in Cambodian, Malay, Filipino, Thai, Lao, Burmese, Nepali, Maldivian, Vietnamese and more, so Valmiki's story travelled across much of Asia.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Thailand's national epic, the Ramakien, comes from the Ramayana: the main story stays, but it is set in Thai clothes, settings and landscapes.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Old Javanese Kakawin Ramayana, believed to date from about 870 CE, follows Bhattikavya's Ravanavadha rather than Valmiki's epic directly.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramayana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Balmiki community reveres Valmiki as a patron saint, has many temples to him and worships him as an avatar of God.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Valmiki_Jayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Valmiki Jayanti, also called Pargat Diwas, falls on the Purnima of the Ashvin month and marks his birth; he is thought to have lived around 500 BCE.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Valmiki_Jayanti",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What event is said to have inspired Valmiki's first verse?",
+      "options": ["A thunderstorm", "A hunter harming a bird", "A royal wedding", "A river flood"],
+      "answer": 1,
+      "why": "In the Ramayana, grief at the sight of a krauncha bird being shot brought out the first shloka."
+    },
+    {
+      "q": "What does Valmiki's name usually mean?",
+      "options": ["From a mountain", "Born of fire", "From an anthill", "Lord of rivers"],
+      "answer": 2,
+      "why": "The name is explained as \"from an anthill\", linked to the mounds said to have grown round him."
+    },
+    {
+      "q": "Who were the two boys Valmiki taught the Ramayana to?",
+      "options": [
+        "Lava and Kusha",
+        "Nakula and Sahadeva",
+        "Rama and Lakshmana",
+        "Bharata and Shatrughna"
+      ],
+      "answer": 0,
+      "why": "Sita's sons Lava and Kusha learned and sang the epic."
+    },
+    {
+      "q": "Valmiki is honoured as the first what?",
+      "options": ["Warrior", "King", "Merchant", "Poet"],
+      "answer": 3,
+      "why": "He is called Adi Kavi, the first poet."
+    },
+    {
+      "q": "On which kind of day is Valmiki Jayanti held?",
+      "options": ["A full moon day", "A new moon day", "A solstice", "A harvest day"],
+      "answer": 0,
+      "why": "It falls on the full moon of the Ashwin month."
+    }
+  ],
+  "related": [
+    "sita",
+    "lava-and-kusha",
+    "bharadvaja",
+    "narada",
+    "vyasa",
+    "tulsidas",
+    "rama",
+    "brahma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Valmiki",
+    "ramayana_bala_1": "https://www.valmikiramayan.net/utf8/baala/sarga1/balaitrans1.htm",
+    "ramayana_bala_2": "https://www.valmikiramayan.net/utf8/baala/sarga2/balaitrans2.htm",
+    "jayanti": "https://en.wikipedia.org/wiki/Valmiki_Jayanti"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9ecd4",
+    "c2": "#f4e6c8"
+  },
+  "order": 20
+}

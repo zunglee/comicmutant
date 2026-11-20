@@ -1,0 +1,269 @@
+{
+  "slug": "tulsidas",
+  "name": "Tulsidas",
+  "aka": ["Goswami Tulsidas", "Rambola", "Tulsi Das"],
+  "native": "तुलसीदास",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Poet-saint who wrote the Ramcharitmanas",
+  "years": "c. 1532–1623",
+  "summary": "Tulsidas was a 16th-century poet-saint of Awadhi who retold the story of Rama in the Ramcharitmanas. His verses are recited in homes and temples across north India.",
+  "about": "Tulsidas, born Rambola, is traditionally placed between about 1532 and 1623, though scholars still argue over the dates and over his birthplace. Stories about his early life come from later writers, including the Bhaktamal, which calls him an incarnation of Valmiki. A famous tale says he left home after his wife told him he should love God as he loved her. He travelled to holy places and settled in Varanasi. In 1574 he began the Ramcharitmanas in Ayodhya and finished it in 1577. It retells Rama's story in Awadhi, the everyday language of north India, instead of Sanskrit. Tradition also credits him with the Hanuman Chalisa and the Vinaya Patrika, and with founding the Sankat Mochan Hanuman temple in Varanasi. Several works attributed to him may have other authors.",
+  "kidSummary": "Tulsidas was a poet who told the story of Rama in the language ordinary people spoke, so everyone could enjoy it. His long poem, the Ramcharitmanas, is read and sung across India. He is also linked to the Hanuman Chalisa, which many children learn to recite.",
+  "story": [
+    {
+      "title": "A child called Rambola",
+      "text": "Stories say Tulsidas was born as Rambola and was left alone as a small child. Later writers say he grew up learning from teachers in Ayodhya and Varanasi."
+    },
+    {
+      "title": "A call to a new path",
+      "text": "A well-known tale says his wife reminded him that love of God matters most. He took it to heart, left home and became a wandering holy man."
+    },
+    {
+      "title": "A poem in everyday words",
+      "text": "Although he knew Sanskrit well, Tulsidas decided to tell Rama's story in Awadhi. In 1574 he began writing the Ramcharitmanas in Ayodhya."
+    },
+    {
+      "title": "Finished in 1577",
+      "text": "He completed the poem in 1577. Tradition says it grew loved quickly, and people performed its scenes as plays called Ramlila."
+    },
+    {
+      "title": "A legend of the monkeys",
+      "text": "One legend says the emperor Akbar jailed Tulsidas, who chanted a hymn to Hanuman for forty days. Then monkeys filled the town, and he was freed."
+    },
+    {
+      "title": "Hanuman and the temple",
+      "text": "Tradition says he saw Hanuman in Varanasi and founded the Sankat Mochan temple there. He is believed to have died in 1623 at Assi Ghat."
+    }
+  ],
+  "teaches": [
+    "Devotion to Rama in daily life",
+    "Make wisdom easy for everyone to share",
+    "Humility and faithful service, as shown by Hanuman"
+  ],
+  "symbol": "book",
+  "emblems": ["Ramcharitmanas", "Tulsi (holy basil)", "Chandan tilak"],
+  "family": [
+    {
+      "relation": "Lord of his poems",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Hero of his devotion",
+      "name": "Hanuman",
+      "slug": "hanuman"
+    },
+    {
+      "relation": "Said earlier poet (Bhaktamal)",
+      "name": "Valmiki",
+      "slug": "valmiki"
+    }
+  ],
+  "texts": [
+    "Ramcharitmanas",
+    "Hanuman Chalisa",
+    "Vinaya Patrika",
+    "Dohavali",
+    "Krishna Gitavali",
+    "Hanuman Bahuk"
+  ],
+  "places": [
+    "Rajapur (recognised birthplace in Uttar Pradesh)",
+    "Ayodhya",
+    "Varanasi (Tulsi Ghat, Assi Ghat)",
+    "Chitrakoot"
+  ],
+  "festivals": ["Ramlila", "Rama Navami", "Tulsidas Jayanti"],
+  "facts": [
+    {
+      "text": "He was born as Rambola. A story says that at birth he said the word Rama instead of crying, which is how he got that first name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Legend says he stayed in the womb for twelve months and was born with all thirty-two teeth, a sign his followers took as a wonder.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9
+    },
+    {
+      "text": "Thirteen places have claimed to be his birthplace. In 2012 the Uttar Pradesh government officially recognised Rajapur.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 7
+    },
+    {
+      "text": "A well-known story says that when his wife went to her father's home, he swam across the Sarju river at night to reach her. She told him he should love God that much, and he left home soon after.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8
+    },
+    {
+      "text": "He began the Ramcharitmanas in Ayodhya on Rama Navami in 1574 and finished it in 1577. The poem says it took him two years, seven months and 26 days.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ramcharitmanas has seven books, called kandas. Tulsidas compared them to seven steps leading down into Lake Manasarovar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 7
+    },
+    {
+      "text": "A legend says his manuscript was left under Sanskrit scripture in Varanasi's Vishvanath temple overnight. Next morning it lay on top, marked Satyam Shivam Sundaram.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9
+    },
+    {
+      "text": "In May 2024, manuscripts of the Ramcharitmanas were added to UNESCO's Memory of the World Asia-Pacific register. One of them, from the 18th century, was written in Arabic.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 8
+    },
+    {
+      "text": "The Hanuman Chalisa has 43 verses: two opening dohas, forty chaupais and one closing doha. Many recite it on Tuesdays and Saturdays, and tradition credits Tulsidas with writing it in Awadhi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hanuman_Chalisa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vinaya Patrika has 279 stanzas and is thought to be his last work. A legend says Rama himself signed it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 7
+    },
+    {
+      "text": "The Ramnagar Ramlila near Varanasi runs for 31 days, recites the whole Ramcharitmanas and uses the town itself as a stage with named sites like Lanka and Panchavati.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ramlila",
+      "interest": 9
+    },
+    {
+      "text": "Tradition says two thieves came to steal the manuscript but met two bow-bearing guards. The thieves and Tulsidas believed the guards were Rama and Lakshmana, and the thieves became Rama's devotees.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8
+    },
+    {
+      "text": "A legend from the biographer Priyadas says Akbar jailed Tulsidas at Fatehpur Sikri. Tulsidas chanted the Hanuman Chalisa for forty days, and tradition says monkeys overran the town until Akbar freed him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "According to Priyadas, a ghost showed Tulsidas that Hanuman came daily in disguise as an old leper to hear his talks. Tulsidas followed him into the woods, where the Sankat Mochan temple stands today.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mughal court poet Abdur Rahim Khankhana was a personal friend of Tulsidas and wrote a couplet calling the Ramcharitmanas dear to Hindus and to Muslims alike.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A tradition says Hanuman wrote his own Ramayana play on Himalayan rocks. He threw the rocks into the sea so that Valmiki's work would not be overshadowed, then asked Valmiki to be reborn as Tulsidas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9
+    },
+    {
+      "text": "In the poem, Hanuman cannot tell which herb will heal, so he lifts a whole mountain and carries it to Lanka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the poem, the forest woman Shabari tastes every wild berry first, so that she can offer Rama only the sweetest ones.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramcharitmanas, the giant Kumbhakarna asks for the power to sleep six months at a time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Tulsidas first wrote Sanskrit verses in Varanasi, but they vanished every night for eight days. On the eighth night Shiva is said to have told him in a dream to write in the local language instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A tale from Priyadas says a temple head in Vrindavan told Tulsidas to bow only to Rama. Tulsidas answered with a couplet, and the Krishna image is said to have turned into Rama holding a bow. Some doubt the couplet is his.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Krishna poet Sur, a contemporary of Tulsidas, is recorded calling him 'Sant Shiromani', the crown jewel of saints, in an eight-line verse that praises the Ramcharitmanas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which language did Tulsidas write the Ramcharitmanas?",
+      "options": ["Sanskrit", "Awadhi", "Tamil", "Persian"],
+      "answer": 1,
+      "why": "He chose Awadhi so ordinary people could understand."
+    },
+    {
+      "q": "How many kandas (books) does the Ramcharitmanas have?",
+      "options": ["Three", "Five", "Seven", "Twelve"],
+      "answer": 2,
+      "why": "It has seven kandas, like Valmiki's Ramayana."
+    },
+    {
+      "q": "Which temple in Varanasi is linked to Tulsidas?",
+      "options": ["Sankat Mochan", "Meenakshi", "Somnath", "Tirupati"],
+      "answer": 0,
+      "why": "Tradition says he founded the Sankat Mochan Hanuman temple."
+    },
+    {
+      "q": "What does the name Tulsidas mean?",
+      "options": ["Servant of tulsi", "King of lions", "Lord of the river", "Teacher of kings"],
+      "answer": 0,
+      "why": "It joins tulsi (holy basil) with dasa (servant)."
+    },
+    {
+      "q": "What are the plays based on the Ramcharitmanas called?",
+      "options": ["Kathakali", "Yakshagana", "Ramlila", "Kuchipudi"],
+      "answer": 2,
+      "why": "Ramlila is the folk theatre of Rama's story."
+    }
+  ],
+  "related": ["rama", "hanuman", "valmiki", "sita", "surdas", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tulsidas",
+    "ramcharitmanas": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+    "sankatmochan": "https://en.wikipedia.org/wiki/Sankat_Mochan_Hanuman_Temple",
+    "ramlila": "https://en.wikipedia.org/wiki/Ramlila",
+    "hanumanchalisa": "https://en.wikipedia.org/wiki/Hanuman_Chalisa"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F2D3A0",
+    "c2": "#E9E3C9"
+  },
+  "order": 20
+}

@@ -50,14 +50,26 @@ export function handleDataRequest(response: Response, { request }: { request: Re
 }
 
 /**
- * Anonymous GET pages can be shared by caches for a minute (personalisation is only cookies, so
- * `Vary: Cookie` keys it); anything with a session or a write is private.
+ * Anonymous GET pages with no preference cookie can be shared by caches for a minute (`Vary: Cookie`
+ * as a belt; S22: cm_skin, cm_theme, cm_top5 and cm_fx make a page private, since they change the
+ * <html> the server paints); anything with a session or a write is private. S15: so is any response
+ * that sets a cookie (a cached Set-Cookie would hand one voter id to everyone), and any page for a
+ * browser holding a voter cookie — it may embed that visitor's own votes and reactions (S12), and
+ * not every cache honours `Vary: Cookie`.
  */
-function cachePolicy(request: Request, headers: Headers, status: number) {
+export function cachePolicy(request: Request, headers: Headers, status: number) {
+  if (headers.has('Set-Cookie')) {
+    headers.set('Cache-Control', 'private, no-store');
+    return;
+  }
   if (headers.has('Cache-Control')) return;
   const cookie = request.headers.get('cookie') ?? '';
   const anon = !/(^|;\s*)(__Host-)?cm_session=/.test(cookie);
-  if (request.method === 'GET' && status === 200 && anon) {
+  const voter = /(^|;\s*)(cm_voter|cm_vk)=/.test(cookie);
+  // S22: a preference cookie (skin, theme, dock, FX) changes the <html> the server paints. Not every
+  // cache honours `Vary: Cookie`, so a personalised page is never shared: public only without them.
+  const prefs = /(^|;\s*)(cm_skin|cm_theme|cm_top5|cm_fx)=/.test(cookie);
+  if (request.method === 'GET' && status === 200 && anon && !voter && !prefs) {
     headers.set('Cache-Control', 'public, max-age=0, s-maxage=60, stale-while-revalidate=600');
     headers.append('Vary', 'Cookie');
   } else {

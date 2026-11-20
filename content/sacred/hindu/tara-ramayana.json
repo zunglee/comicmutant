@@ -1,0 +1,264 @@
+{
+  "slug": "tara-ramayana",
+  "name": "Tara",
+  "aka": ["Tārā", "Queen of Kishkindha"],
+  "native": "तारा",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Wise vanara queen of Kishkindha in the Ramayana",
+  "summary": "Tara is the wise queen of the vanaras in the Ramayana. She gives sound advice to Vali, calms an angry Lakshmana and is counted among the five revered women of the Panchakanya prayer.",
+  "about": "In the Valmiki Ramayana, Tara is the wife of the vanara king Vali of Kishkindha and is called the daughter of the physician Sushena. When Vali rushes out to answer Sugriva's challenge, she warns him that Rama may be involved and urges peace, but he does not listen. After his death, she remains an influential voice in the kingdom, and Vali's last words tell Sugriva to follow her counsel. When Sugriva neglects his promise to Rama, it is Tara who goes, gently and calmly, to ease Lakshmana's anger. Regional versions differ: some say she rose from the churning of the ocean, others make her the daughter of Brihaspati, and the Kamba Ramayana has her not remarry. She is named in the Panchakanya prayer. Scholars praise her as an unsung heroine.",
+  "kidSummary": "Tara is the clever queen of the monkey kingdom in the Ramayana. She gave good advice even when others did not listen, and she knew how to calm an angry person with gentle words. Her name means star. People remember her as someone who thinks carefully, speaks kindly and keeps her wisdom steady in hard times.",
+  "story": [
+    {
+      "title": "A warning",
+      "text": "When Sugriva challenged Vali, Tara warned that Sugriva might have strong friends and begged Vali to be careful. Vali, proud and angry, did not listen."
+    },
+    {
+      "title": "Farewell",
+      "text": "In Valmiki's telling, she embraced Vali and circled around him in a blessing before he left. After the fight, she lost her husband and grieved deeply."
+    },
+    {
+      "title": "A queen who guides",
+      "text": "Tara remained wise and respected. In the Valmiki Ramayana, Vali's last words tell Sugriva to trust her judgement and follow her counsel."
+    },
+    {
+      "title": "The angry prince",
+      "text": "Months later, Lakshmana reached Kishkindha furious that Sugriva had forgotten his promise to help Rama. Finding the gate barred, he kicked it down and threatened the kingdom. The whole city trembled."
+    },
+    {
+      "title": "Gentle words",
+      "text": "Tara went out to meet him, speaking softly. She asked Lakshmana to forgive Sugriva, explained what had happened and invited him inside, and the anger faded."
+    }
+  ],
+  "teaches": [
+    "Wisdom and clear thinking",
+    "Gentle words can calm anger",
+    "Speak truth even when no one listens"
+  ],
+  "symbol": "star",
+  "emblems": ["Star (the meaning of her name)", "White widow's garments in Kamban's telling"],
+  "family": [
+    {
+      "relation": "First husband",
+      "name": "Vali",
+      "slug": "vali"
+    },
+    {
+      "relation": "Second husband (in many tellings)",
+      "name": "Sugriva",
+      "slug": "sugriva"
+    },
+    {
+      "relation": "Son",
+      "name": "Angada",
+      "slug": "angada"
+    },
+    {
+      "relation": "Father (Ramayana)",
+      "name": "Sushena"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Kishkindha Kanda)",
+    "Kamba Ramayanam",
+    "Adhyatma Ramayana",
+    "Krittivasi Ramayana",
+    "Panchakanya prayer"
+  ],
+  "places": ["Kishkindha"],
+  "festivals": ["Panchakanya morning prayer"],
+  "facts": [
+    {
+      "text": "Some Tamil and Telugu versions say Tara rose from the churning of the ocean of milk with other apsaras and was given to Vali. In Kerala's Theyyam drama she emerges just as Vali begins to churn.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Javanese wayang shadow plays, she appears as Indra's apsara daughter, and her sister Dewi Tari is the wife of Ravana.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Vali's dying words in the Ramayana praise Tara's judgement, tell Sugriva to follow her counsel without doubt, and ask Rama to see that she is never insulted, a rare tribute to a queen's wisdom.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki text Tara calms the furious Lakshmana with gentle words. She reminds him that Sugriva owes Rama his kingdom, his wife Ruma and Tara herself, and that mighty Ravana makes Rama need allies like Sugriva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Kamban's Tamil Ramavataram, Tara wears white, the sign of a widow, and the sight of her reminds Lakshmana of his own widowed mother, which softens his anger.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "North-western Indian manuscripts add a curse in which Tara warns that Rama will lose Sita again after regaining her. The Bengali Krittivasi Ramayana adds that Vali will kill Rama in his next birth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kamban's Ramavataram, Tara never remarries and Sugriva treats her as a mother, which is a very different picture from other versions.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In southern manuscripts of Valmiki's Kishkindha Kanda, a passage seen as a later addition has Tara ask Rama to end her with the same arrow so she can join Vali. Rama refuses and consoles her, saying Angada will become crown prince.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga24/kishkindhasans24.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When monkeys fleeing the battlefield urge Tara to hurry back and crown Angada, she refuses and insists on going first to her husband, taking Angada with her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Adhyatma Ramayana, Tara asks Rama a sharp question: if the body is destructible, why do pleasure and pain feel real? Rama answers that ego chains the mind to desire, and the talk leaves her free of ego.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata's retelling, Vali praises Tara as lustrous as the moon and as one who understands the speech of all creatures, yet he ignores her warning and speaks sharply to her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before the duel, Tara urges Vali to forgive Sugriva, name him crown prince, and make friends with Rama. Vali replies that a warrior cannot refuse a challenge, but he promises to crush Sugriva's pride, not take his life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki, Sugriva's coronation names Angada as crown prince and mentions Tara as Sugriva's wife, with no wedding rite described. Many readers see her choice as a way to secure Angada's future and the kingdom.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien the gods give Vali and Sugriva a weapon and Tara respectively. Sugriva receives Tara, but Vali grabs her as well and marries her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before the second duel Tara notices something odd: Vali had just beaten Sugriva, so a fighter would not normally return so soon. She warns Vali that appearances can deceive.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some versions of the Bala Kanda call Tara the daughter of Brihaspati, guru of the gods, while Vali is the son of Indra and Sugriva the son of Surya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tara is one of the five women of the Panchakanya prayer, with Ahalya, Draupadi, Sita and Mandodari. The names are believed to dispel sin when recited.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Panchakanya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, Vali addresses Tara as the daughter of Sushena, a vanara physician, so the queen of Kishkindha is a healer's daughter.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia calls Tara Kishkindha's chief diplomat. In the Adhyatma Ramayana Sugriva sends her with Angada and Hanuman to calm Lakshmana, and in Tulsidas's Manas she and Hanuman do it by praising Rama.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahanataka and the Ananda Ramayana say that Vali is reborn as the hunter who kills Krishna, Rama's next incarnation.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tara's name means star. Wikipedia's account praises her intelligence, presence of mind and courage, and her devotion to Vali.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Tara mean?",
+      "options": ["Moon", "Star", "River", "Flower"],
+      "answer": 1,
+      "why": "Tara is the Sanskrit word for star."
+    },
+    {
+      "q": "Whom does Tara calm in the Ramayana by speaking gently?",
+      "options": ["Hanuman", "Lakshmana", "Ravana", "Jatayu"],
+      "answer": 1,
+      "why": "She meets an angry Lakshmana at Kishkindha and eases his anger."
+    },
+    {
+      "q": "Who is Tara's son in the Ramayana?",
+      "options": ["Angada", "Nala", "Jambavan", "Indrajit"],
+      "answer": 0,
+      "why": "Angada is the son of Vali and Tara."
+    },
+    {
+      "q": "Which city is Tara queen of?",
+      "options": ["Lanka", "Kishkindha", "Ayodhya", "Mithila"],
+      "answer": 1,
+      "why": "Tara is the queen of the vanara kingdom Kishkindha."
+    },
+    {
+      "q": "In some versions, from what event did Tara rise?",
+      "options": ["A volcano", "The churning of the ocean", "A forest fire", "A river flood"],
+      "answer": 1,
+      "why": "Some Tamil and Telugu texts say she rose from the churning of the ocean."
+    }
+  ],
+  "related": ["vali", "sugriva", "angada", "lakshmana", "rama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_(Ramayana)",
+    "valmiki": "https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm",
+    "panchakanya": "https://en.wikipedia.org/wiki/Panchakanya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#DDE4F2",
+    "c2": "#F2E8D8"
+  },
+  "order": 500
+}

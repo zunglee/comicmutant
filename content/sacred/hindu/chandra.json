@@ -1,0 +1,282 @@
+{
+  "slug": "chandra",
+  "name": "Chandra",
+  "aka": ["Soma", "Indu", "Shashank", "Udupa", "Nishakara"],
+  "native": "चन्द्र",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Moon god, lord of the night, plants and the nakshatras",
+  "summary": "Chandra is the Hindu god of the Moon, linked with Soma, the stars and the night. Puranic stories explain the Moon's waxing and waning through a curse and a bath.",
+  "about": "Chandra is the Moon as a god, also called Soma, though in the Vedas the word Soma mostly names a sacred plant drink and its god. In the epics and Puranas, Chandra is a son of the sage Atri and Anasuya, and is married to the 27 daughters of Daksha, who stand for the lunar stars called nakshatras. Many Puranas say he favoured Rohini, so Daksha cursed him to fade, and bathing in the Sarasvati brought relief, which explains the Moon's phases. Other stories tell of his love for Tara and of their son Budha, and of the eclipses caused by Rahu and Ketu. He is shown as white, with a mace, in a chariot drawn by white horses. Monday, Somavara, belongs to him, and the Sharad Purnima and Karva Chauth rituals involve moonlight.",
+  "kidSummary": "Chandra is the Moon god who lights up the night. Stories say he married 27 sisters, the star groups of the sky, and a curse made him shrink and grow again every month. That is how the Hindu stories explain the Moon's waxing and waning.",
+  "story": [
+    {
+      "title": "Twenty-seven wives",
+      "text": "In many Puranas, Chandra is married to 27 sisters, the daughters of Daksha. They are the 27 star groups that the Moon visits one by one."
+    },
+    {
+      "title": "A favourite wife",
+      "text": "Chandra loved one sister, Rohini, much more than the others. The other sisters felt hurt and told their father."
+    },
+    {
+      "title": "Daksha's curse",
+      "text": "Daksha was upset and cursed Chandra to lose his shine. The Moon began to grow thinner and weaker."
+    },
+    {
+      "title": "A holy bath",
+      "text": "Chandra asked for help and bathed in the sacred waters of the Sarasvati. Because of this bath, the curse was softened."
+    },
+    {
+      "title": "Waxing and waning",
+      "text": "Because of the curse and its remedy, Chandra shrinks for half the month and grows again in the other half. That is how the stories explain the phases of the Moon."
+    }
+  ],
+  "teaches": [
+    "Treat everyone fairly and kindly",
+    "Mistakes can be repaired with humility",
+    "Light returns after dark times"
+  ],
+  "symbol": "moon",
+  "emblems": ["Mace", "White horses", "Three-wheeled chariot", "Hare (Shashank)", "Crescent"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Atri",
+      "slug": "atri"
+    },
+    {
+      "relation": "Mother",
+      "name": "Anasuya",
+      "slug": "anasuya"
+    },
+    {
+      "relation": "Brother",
+      "name": "Dattatreya",
+      "slug": "dattatreya"
+    },
+    {
+      "relation": "Brother",
+      "name": "Durvasa",
+      "slug": "durvasa"
+    },
+    {
+      "relation": "Son by Tara",
+      "name": "Budha"
+    },
+    {
+      "relation": "Rival in the Tara story",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    },
+    {
+      "relation": "Wife",
+      "name": "Rohini"
+    }
+  ],
+  "texts": [
+    "Rigveda (Soma hymns)",
+    "Devi Bhagavata Purana",
+    "Mahabharata",
+    "Harivamsa",
+    "Surya Siddhanta"
+  ],
+  "places": [
+    "Somnath Temple, Gujarat",
+    "Thingalur Kailasanathar Temple, Tamil Nadu",
+    "Thiruindalur Parimala Ranganatha Temple, Tamil Nadu"
+  ],
+  "festivals": ["Sharad Purnima", "Karva Chauth", "Ganesh Chaturthi (moon-viewing custom)"],
+  "facts": [
+    {
+      "text": "Aldous Huxley took the name of the happiness drug in his novel Brave New World from the Vedic Soma.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One list of the treasures that rose from the churning of the ocean includes the Moon, and in that account Shiva took the crescent as his own.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Many Puranas say Chandra is married to 27 daughters of Daksha, who stand for the lunar nakshatras.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The stories say Chandra favoured Rohini, so Daksha cursed him to waste away, and bathing in the Sarasvati eased the curse.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Local tradition at Somnath says Soma regained his glow by bathing at the Sarasvati there, giving the place the names Prabhasa and Someshvara.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Somnath_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Hyades star cluster is called the cart of Rohini, after the nakshatra tied to the red star Aldebaran, and when the Moon passes through it Indian astronomers call it cutting through the cart.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rohini_(nakshatra)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the churning of the ocean story, Surya and Chandra spotted Rahu sneaking a drink of nectar and told Vishnu, so the stories say the shadow planets Rahu and Ketu swallow the Sun and Moon in eclipses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When the sages milked the Earth in the Puranic story, Chandra was the calf, and Brahma crowned him king of stars and healing plants.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Chandra's son Varchas is born again as Abhimanyu, the young son of Arjuna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The story goes that Ganesha fell off his shrew mount after a big feast and Chandra laughed, so Ganesha flung a broken tusk at him; tradition says people avoid looking at the Moon on Ganesh Chaturthi.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "India's lunar missions are called Chandrayaan, Sanskrit for Moon craft; in August 2023 Chandrayaan-3's lander became the first to touch down near the Moon's south pole.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Chandrayaan_programme",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Sharad Purnima, families in northern India leave rice kheer under the full moon to collect its rays, then share it next day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sharad_Purnima",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Karva Chauth, women break their fast after moonrise, looking at the Moon through a sieve before drinking water.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Karva_Chauth",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kurukshetra War of the Mahabharata was fought largely between rival branches of the Lunar dynasty, the royal line said to descend from Chandra through his grandson Pururavas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lunar_dynasty",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A whole book of the Rigveda, the ninth, is devoted to Soma, both as the plant drink and as its god, which made him one of the most important gods of the early hymns.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Buddhist Jataka tale says a hare leapt into a fire to feed a hungry old man, who was really the god Sakra; Sakra then drew the hare's likeness on the Moon for all to see.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Moon_rabbit",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Among Chandra's many titles are Shashank, meaning hare-marked, and Udupa, meaning boat, alongside Oshadhipati, lord of herbs, and Nishakara, maker of the night.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Somnath temple in Gujarat is counted as the first of Shiva's twelve jyotirlinga shrines, and its name means lord of the Soma, the Moon.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Somnath_temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Soma is the root of Somavara, the Hindu name for Monday, and in the Greco-Roman week Monday also belongs to the Moon.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hindu texts say the Sun lights and feeds the Moon, and that the nectar of immortality rests in the Moon.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many wives does Chandra have in the Puranic story?",
+      "options": ["7", "12", "27", "108"],
+      "answer": 2,
+      "why": "Chandra is married to 27 daughters of Daksha, the nakshatras."
+    },
+    {
+      "q": "Which wife did Chandra love most?",
+      "options": ["Rohini", "Ashvini", "Krittika", "Revati"],
+      "answer": 0,
+      "why": "Rohini was his favourite, which led to Daksha's curse."
+    },
+    {
+      "q": "Which day of the week is named after Soma?",
+      "options": ["Tuesday", "Monday", "Friday", "Sunday"],
+      "answer": 1,
+      "why": "Somavara is Monday."
+    },
+    {
+      "q": "Which Indian spacecraft names mean Moon vehicle?",
+      "options": ["Aryabhata", "Mangalyaan", "Chandrayaan", "Gaganyaan"],
+      "answer": 2,
+      "why": "Chandrayaan means Moon vehicle in Sanskrit."
+    }
+  ],
+  "related": [
+    "surya",
+    "ganesha",
+    "brihaspati",
+    "atri",
+    "anasuya",
+    "dattatreya",
+    "durvasa",
+    "abhimanyu",
+    "navagraha",
+    "rahu-and-ketu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chandra",
+    "nakshatra": "https://en.wikipedia.org/wiki/Nakshatra",
+    "somnath": "https://en.wikipedia.org/wiki/Somnath_temple",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "rohini": "https://en.wikipedia.org/wiki/Rohini_(nakshatra)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#dde4f3",
+    "c2": "#f1efe2"
+  },
+  "order": 9
+}

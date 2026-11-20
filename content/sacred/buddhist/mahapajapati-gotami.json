@@ -1,0 +1,234 @@
+{
+  "slug": "mahapajapati-gotami",
+  "name": "Mahapajapati Gotami",
+  "aka": ["Mahaprajapati Gautami", "Prajapati", "Buddhamata"],
+  "native": "महाप्रजापती गौतमी",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Foster mother of the Buddha and first Buddhist nun",
+  "summary": "Mahapajapati Gotami was the younger sister of Queen Maya and raised the infant Siddhartha. Buddhist texts remember her as the first woman to be ordained as a nun by the Buddha.",
+  "about": "In Buddhist tradition, Mahapajapati Gotami was born at Devadaha and was the younger sister of Maya. Both sisters married Suddhodana, and after Maya died she nursed and raised the baby Siddhartha as her own son beside her children Nanda and Sundari Nanda. After the Buddha began teaching, the Pali Anguttara Nikaya tells that she asked three times to join his order and was refused. She then cut her hair, put on ochre robes and walked to Vesali with many Shakya women, where Ananda took up their request. The Buddha agreed on condition she accept eight rules of respect, and she became the first bhikkhuni. Different Vinaya traditions retell this episode in their own ways. Later texts give her titles such as Buddhamata and say she lived to a great age, with some sources giving 120 years.",
+  "kidSummary": "Mahapajapati Gotami was the aunt of Prince Siddhartha, who became the Buddha. When his mother died, she raised him with love. Years later she walked a long way to ask the Buddha if women could become nuns, and she became the first Buddhist nun.",
+  "story": [
+    {
+      "title": "A baby to raise",
+      "text": "After Queen Maya died, her sister Mahapajapati Gotami cared for the newborn Siddhartha and raised him as her own son."
+    },
+    {
+      "title": "A request refused",
+      "text": "Years later, the Buddha was teaching at Kapilavastu. Gotami asked him to let women join his community as nuns. He said no, and she asked two more times."
+    },
+    {
+      "title": "The long walk",
+      "text": "She shaved her head, put on ochre robes and walked to Vesali with many Shakya women. Their feet were swollen and dusty, and they stood weeping outside the hall."
+    },
+    {
+      "title": "Ananda helps",
+      "text": "Ananda saw them and asked why they were crying. He then went to the Buddha and asked again, and pointed out how much Gotami had done for him."
+    },
+    {
+      "title": "The first nun",
+      "text": "The Buddha agreed to ordain women if Gotami accepted eight rules of respect. She did, and she became the first Buddhist nun."
+    }
+  ],
+  "teaches": [
+    "Perseverance when the answer is no",
+    "Courage to walk a long road for something good",
+    "Caring for a child as your own"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Ochre robe", "Shaved head (as a nun)"],
+  "family": [
+    { "relation": "Older sister", "name": "Maya", "slug": "maya-mother-of-the-buddha" },
+    { "relation": "Husband", "name": "Suddhodana", "slug": "suddhodana" },
+    {
+      "relation": "Foster son",
+      "name": "Siddhartha Gautama, the Buddha",
+      "slug": "gautama-buddha"
+    },
+    { "relation": "Supporter at Vesali", "name": "Ananda", "slug": "ananda" }
+  ],
+  "texts": ["Gotami Sutta (AN 8.51)", "Therigatha Apadana", "Cullavagga (Vinaya)", "Lotus Sutra"],
+  "places": ["Devadaha", "Kapilavastu", "Vesali (Gabled Hall)", "Wat Kasattrathirat (Ayutthaya)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Lotus Sutra the Buddha predicts that Mahaprajapati will become a buddha herself in the far future, under the name Sarvasattvapriyadarsana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahapajapati_Gotami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At an assembly in Jetavana the Buddha named her foremost among the nuns of long standing, those with the most experience of the holy life.",
+      "kind": "history",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In AN 8.51 she asked three times at Kapilavatthu and was refused, leaving in tears. She then cut her hair, put on ochre robes and walked to Vesali with many Shakya women, arriving with swollen, dusty feet.",
+      "kind": "story",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ananda succeeded by asking whether a woman could reach the noble attainments, and the Buddha said yes. Ananda also reminded him of Gotami's long care of him.",
+      "kind": "story",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 7
+    },
+    {
+      "text": "She did not walk to Vesali alone. One account says 500 princesses went with her on foot, 250 from the Shakya kingdom and 250 from the Koliya kingdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahapajapati_Gotami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She nursed the baby Siddhartha herself and handed her own newborn son Nanda to nurses so she could do it.",
+      "kind": "family",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She made the Buddha a wonderfully elaborate robe, but he asked her to give it to the whole order. She was disappointed, Ananda spoke up, and the Buddha said this was for her own good, which led to MN 142.",
+      "kind": "story",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Gotami fell ill, the Buddha changed the rule that kept monks from visiting nuns so that he could go and teach her himself.",
+      "kind": "story",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Vesali, aged about 120, she took leave of the Buddha, showed marvels and passed away, and her 500 companions passed away with her. Her cremation was said to be second in wonders only to the Buddha's.",
+      "kind": "history",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 8
+    },
+    {
+      "text": "In her Therigatha poem she says she had been mother, son, father, brother and grandmother in past lives without understanding. Translator Olendzki reads this as a sign that she could recall her past lives.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.06.olen.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In an Apadana past life she led 500 slave women who fed 500 paccekabuddhas, and she got their husbands to build huts for the rains retreat. Her followers kept following her from birth to birth until Gotama's time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahapajapati_Gotami",
+      "interest": 7
+    },
+    {
+      "text": "The Buddha was at Vesali when Suddhodana died. The DPPN says Pajapati decided to leave home and waited for a chance to ask his permission; a note says she was already a stream-enterer.",
+      "kind": "history",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 7
+    },
+    {
+      "text": "When Maya and Mahapajapati were born, readers of bodily marks foretold that each sister's children would be cakkavattins, wheel-turning world rulers.",
+      "kind": "story",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Buddha once visited Kapilavatthu to settle a quarrel between Sakyans and Koliyans over water from the Rohini river. Afterwards 500 young Sakyan men joined the order, and their wives, led by Pajapati, asked to become nuns.",
+      "kind": "history",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+      "interest": 7
+    },
+    {
+      "text": "Told the eight rules, she said she would accept them as gladly as a young person puts on a garland of lotus or jasmine flowers, and would never break them while she lived.",
+      "kind": "story",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In DN 16 the Buddha tells Mara he will not pass away until his community includes nuns. Thanissaro uses this to suggest his first refusal tested whether she would sincerely accept his conditions.",
+      "kind": "text",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 8
+    },
+    {
+      "text": "A translator's note on her poem says Maya married Suddhodana only after Pajapati could not bear an heir. Other accounts simply say both sisters married him.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.06.olen.html",
+      "interest": 7
+    },
+    {
+      "text": "Thanissaro notes that soon after vowing to keep the eight rules she asked that the first one, bowing to every monk, be eased. The Buddha did not grant it, since she had given her word.",
+      "kind": "history",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 8
+    },
+    {
+      "text": "The last stanza of her poem remembers her sister Maya. Olendzki notes it speaks of a dearly loved sister who died young without seeing what her son became, not of a symbol of motherhood.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.06.olen.html",
+      "interest": 8
+    },
+    {
+      "text": "The Buddha compared setting down the eight rules in advance to building an embankment around a great reservoir, so that its water would never overflow.",
+      "kind": "teaching",
+      "source": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How was Mahapajapati Gotami related to the Buddha?",
+      "options": [
+        "She was his aunt and foster mother",
+        "She was his daughter",
+        "She was his teacher",
+        "She was his queen"
+      ],
+      "answer": 0,
+      "why": "She was Maya's younger sister and raised the Buddha after Maya died."
+    },
+    {
+      "q": "What is Mahapajapati Gotami remembered as?",
+      "options": ["A palace cook", "The first Buddhist nun", "A war leader", "A temple builder"],
+      "answer": 1,
+      "why": "Buddhist texts say she was the first woman ordained as a nun by the Buddha."
+    },
+    {
+      "q": "Which town did she walk to with the Shakya women?",
+      "options": ["Sarnath", "Bodh Gaya", "Vesali", "Kushinagar"],
+      "answer": 2,
+      "why": "She walked to the Gabled Hall in the Great Forest near Vesali."
+    },
+    {
+      "q": "Who spoke to the Buddha for the women at Vesali?",
+      "options": ["Rahula", "Devadatta", "Maya", "Ananda"],
+      "answer": 3,
+      "why": "Ananda took up their request and asked the Buddha on their behalf."
+    },
+    {
+      "q": "How many times did she ask at Kapilavatthu before she walked to Vesali?",
+      "options": ["Once", "Twice", "Three times", "Seven times"],
+      "answer": 2,
+      "why": "She asked three times at Kapilavatthu and was refused each time."
+    }
+  ],
+  "related": ["maya-mother-of-the-buddha", "suddhodana", "gautama-buddha", "ananda", "yashodhara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahapajapati_Gotami",
+    "an851": "https://dhammatalks.org/suttas/AN/AN8_51.html",
+    "dppn": "https://buddhadust.net/backmatter/appendixes/personalities/mahapajapati_gotami.htm",
+    "therigatha": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.06.olen.html"
+  },
+  "depth": "full",
+  "palette": { "c1": "#E9D5BF", "c2": "#C4D8CF" },
+  "years": "c. 6th–5th century BCE",
+  "order": 5
+}

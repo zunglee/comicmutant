@@ -1,0 +1,277 @@
+{
+  "slug": "kamadeva",
+  "name": "Kamadeva",
+  "aka": ["Madana", "Manmatha", "Kandarpa", "Ananga", "Kusumashara"],
+  "native": "कामदेव",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "God of love and longing, bearer of the flower bow",
+  "summary": "Kamadeva is the Hindu god of love, shown with a bow of sugarcane and arrows of flowers. In a famous Puranic story, Shiva's third eye burns him and he returns without a body.",
+  "about": "Kamadeva personifies kama, the feeling of longing, love and attraction. Images show a handsome young man with a sugarcane bow strung with bees and five flower arrows, with a parrot nearby. The Rigveda's Nasadiya hymn mentions desire as the first seed of mind, and the Atharvaveda has hymns that call on Kama. In most Puranas he is a mind-born son of Brahma, and his wife is Rati. In a story told in the Matsya and Shiva Puranas, the gods send him to stir Shiva's heart so that Shiva will have a son, and Shiva's third eye burns him. Rati's grief moves Shiva, who lets Kama return without a body, as Ananga. Some texts say Kama is born again as Krishna's son Pradyumna. In Shaiva and Shakta traditions, Holi is linked to this story.",
+  "kidSummary": "Kamadeva is the god of love. He carries a bow made of sugarcane, a string of bees and arrows made of flowers. A famous story says he was turned to ashes by Shiva's third eye, but his wife Rati prayed, and he came back without a body.",
+  "story": [
+    {
+      "title": "A flower bow",
+      "text": "Kamadeva is shown as a young man with a bow of sugarcane and arrows tipped with flowers. A parrot sits at his feet."
+    },
+    {
+      "title": "A task from the gods",
+      "text": "In the Matsya Purana, the gods need Shiva to have a son to face a powerful being. They ask Kamadeva to wake Shiva's heart."
+    },
+    {
+      "title": "The third eye",
+      "text": "Kamadeva shoots a flower arrow at Shiva deep in meditation. Shiva opens his third eye and Kamadeva is turned to ashes."
+    },
+    {
+      "title": "Rati's prayer",
+      "text": "Kamadeva's wife Rati is full of sorrow and prays. Moved by her grief, Shiva promises that Kama will return."
+    },
+    {
+      "title": "Love without a body",
+      "text": "Kamadeva comes back without a body, and that is why he is called Ananga. Many Puranas say he was later born again as Pradyumna, son of Krishna."
+    }
+  ],
+  "teaches": [
+    "Love and longing are part of life",
+    "Anger and haste can cause sorrow",
+    "Kindness and prayer can bring back hope"
+  ],
+  "symbol": "bow",
+  "emblems": ["Sugarcane bow", "String of bees", "Five flower arrows", "Parrot", "Makara banner"],
+  "family": [
+    {
+      "relation": "Father (most Puranas)",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Wife",
+      "name": "Rati"
+    },
+    {
+      "relation": "Assistant",
+      "name": "Vasanta (spring)"
+    },
+    {
+      "relation": "Burned by",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Reborn as",
+      "name": "Pradyumna",
+      "slug": "pradyumna"
+    },
+    {
+      "relation": "Grandson in the Puranas",
+      "name": "Aniruddha",
+      "slug": "aniruddha"
+    }
+  ],
+  "texts": [
+    "Rigveda (Nasadiya hymn)",
+    "Atharvaveda",
+    "Mahabharata",
+    "Matsya Purana",
+    "Shiva Purana",
+    "Kalika Purana"
+  ],
+  "places": ["Kamakhya Temple, Guwahati", "Kamarupa (old Assam)", "Salar Jung Museum, Hyderabad"],
+  "festivals": ["Holi", "Kamuni Punnami (Telugu regions)", "Kama Dahanam"],
+  "facts": [
+    {
+      "text": "Kamadeva's bow is made of sugarcane, and its string is a line of buzzing bees.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His five flower arrows are traditionally tipped with ashoka, mango, jasmine, blue lotus and white lotus blossoms.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to the Lalitopakhyana in the Brahmanda Purana, an asura named Bhandasura rose from the ashes of the burned Kamadeva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Texts disagree on who revived Kama: the Shiva Purana says Shiva did, at his wedding to Parvati, while the Lalitopakhyana says he rose from the eyes of the goddess Lalita, called Kamakshi at Kanchipuram.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Shiva Purana says Kama was struck by one of his own love arrows when he first saw Rati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In parts of Karnataka, wooden idols of Kamanna and Rati are paraded at Holi, and in the north of the state big bamboo figures of Kama are burned.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Matsya and Shiva Puranas, Shiva's third eye burns Kama to ashes, and after Rati grieves, Shiva promises that he will return as Ananga, the bodiless one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kalika Purana says the goddess Kamakhya revived Kama; the land where he regained his form, rupa, became Kamarupa, and in thanks he built the first Kamakhya shrine.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Telangana's Holi lasts ten days: for nine days before it children play Kolata stick games, sing jajiri songs and gather wood, and on the ninth night the pile is lit to stand for Kama Dahanam.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 12th-century Javanese poem called Smaradahana retells how Kama was burned by Shiva and fell from heaven to earth.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the tale of Kama's rebirth as Pradyumna, the asura Shambara hurls the baby into the sea, a huge fish swallows him, and the palace cooks find him alive; Mayavati, Rati reborn, raises him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kama's flag often carries a makara, a crocodile-like water creature that stands for fertility and primal desire.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Besides Rati, Kama's main helper is Vasanta, the god of spring, whom Brahma created; in the Matsya Purana both go with him when he approaches Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kamadeva's vehicle is a bright parrot, and at Hindu weddings the bride's feet are often painted with pictures of this parrot, called Suka.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kamadeva has hardly any temples of his own, but he appears in carvings in Shiva temples in South India, where scenes show his burning.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Jain tradition Kamadeva is not one god but a title for 24 exceptionally handsome men of this age, such as Bahubali, who all become ascetics.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Javanese poetry and wayang tales, Kama and Rati are known as Kamajaya and Kamarati.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kama leads the apsaras, the celestial nymphs, whom Indra often sends to disturb the penance of sages so that they cannot win divine powers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Atharvaveda calls Kama born first, a being whom neither the gods nor the ancestors ever equalled, in one of its hymns to him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At the Kameshwara temple in Aragalur, Tamil Nadu, the local sthala purana says Kamadeva woke Shiva from his meditation at this very place.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Kamadeva's bow made of?",
+      "options": ["Gold", "Bamboo", "Sugarcane", "Silver"],
+      "answer": 2,
+      "why": "His bow is made of sugarcane with a string of bees."
+    },
+    {
+      "q": "Which bird sits at Kamadeva's feet?",
+      "options": ["Peacock", "Parrot", "Crow", "Owl"],
+      "answer": 1,
+      "why": "A parrot is his mount."
+    },
+    {
+      "q": "What does Ananga mean?",
+      "options": ["Without a body", "Born in water", "King of birds", "Lord of rain"],
+      "answer": 0,
+      "why": "Ananga means he who is without a body."
+    },
+    {
+      "q": "Who burned Kamadeva with the third eye?",
+      "options": ["Vishnu", "Brahma", "Indra", "Shiva"],
+      "answer": 3,
+      "why": "Shiva's third eye burned him to ashes in the Puranic story."
+    },
+    {
+      "q": "Who is Kamadeva's wife?",
+      "options": ["Rati", "Sita", "Radha", "Lakshmi"],
+      "answer": 0,
+      "why": "Rati is the wife of Kamadeva."
+    }
+  ],
+  "related": [
+    "shiva",
+    "parvati",
+    "brahma",
+    "indra",
+    "pradyumna",
+    "krishna",
+    "aniruddha",
+    "tarakasura",
+    "apsaras"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamadeva",
+    "holi": "https://en.wikipedia.org/wiki/Holi",
+    "kamakhya": "https://en.wikipedia.org/wiki/Kamakhya_Temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3d4dc",
+    "c2": "#e8dff1"
+  },
+  "order": 12
+}

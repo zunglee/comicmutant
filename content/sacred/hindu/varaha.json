@@ -1,0 +1,264 @@
+{
+  "slug": "varaha",
+  "name": "Varaha",
+  "aka": ["Boar avatar", "Sukara", "Yajna Varaha"],
+  "native": "वराह",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The boar avatar of Vishnu, third of the Dashavatara",
+  "summary": "Varaha is the boar form of Vishnu. In many Puranas he dives into the cosmic ocean and lifts the Earth goddess Bhumi on his tusks after the asura Hiranyaksha pulled her down.",
+  "about": "Varaha is the third avatar in the usual list. The word means boar. The Vedic texts already tell of a cosmic boar that lifts the earth, though they name the creator Prajapati or Emusha, not yet Vishnu. The Puranas say the earth sank into the waters and Vishnu took the form of a great boar to raise her. Many tellings add that Hiranyaksha, an asura, fought him. Artists carved him in two main ways: a Yajna Varaha, who rules from a throne with Bhumi and Lakshmi, and a Pralaya Varaha, shown rescuing Bhumi alone. The Varaha Purana is framed as his teaching to Bhumi.",
+  "kidSummary": "Varaha is Vishnu as a mighty boar. In the story, the Earth sank deep into the ocean. Varaha dived down, lifted her gently on his tusks, and set her safely back on top of the waters.",
+  "story": [
+    {
+      "title": "The Earth sinks",
+      "text": "In the Puranas, the Earth goddess Bhumi was dragged down into the great cosmic ocean. The world was in danger."
+    },
+    {
+      "title": "A tiny boar",
+      "text": "The Bhagavata Purana says a small boar came out of Brahma's nose. It grew until it was as big as a mountain."
+    },
+    {
+      "title": "Diving deep",
+      "text": "Varaha plunged into the waters and searched until he found Bhumi at the bottom."
+    },
+    {
+      "title": "The great lift",
+      "text": "He lifted her on his tusks. In some tellings, the asura Hiranyaksha stopped him and they fought."
+    },
+    {
+      "title": "Back in place",
+      "text": "Varaha carried Bhumi up and set her where she belongs. The world was safe again."
+    }
+  ],
+  "teaches": [
+    "Protect the Earth that holds us all",
+    "Courage means going deep to help",
+    "Care for what is fragile"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Boar", "Bhumi on his tusk", "Conch and discus (in many images)"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Rescued",
+      "name": "Bhumi",
+      "slug": "bhumi"
+    },
+    {
+      "relation": "Met in battle (in some tellings)",
+      "name": "Hiranyaksha",
+      "slug": "hiranyaksha"
+    }
+  ],
+  "texts": ["Taittiriya Samhita", "Bhagavata Purana", "Varaha Purana", "Varaha Upanishad"],
+  "places": [
+    "Udayagiri Caves, Madhya Pradesh",
+    "Khajuraho",
+    "Eran, Madhya Pradesh",
+    "Mahabalipuram"
+  ],
+  "festivals": ["Varaha Jayanti"],
+  "facts": [
+    {
+      "text": "Varaha is the Sanskrit word for boar. In the Rigveda the same word can also mean a rain cloud.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Taittiriya Aranyaka describes the earth-lifting boar as black and having a hundred arms.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one Vedic tale the creator, as a boar, spreads mud over a lotus leaf to make the earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu, Brahma and Bhagavata Puranas say the asura Narakasura was the foster son of Varaha and the earth goddess Bhumi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Puranas such as the Brahmanda, Vayu, Matsya and Linga, and the Harivamsa, picture Varaha as ten yojanas wide and a thousand yojanas high, blazing like the sun. His mane is so fiery that the water god Varuna asks him to fold it away, and Varaha does.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the rescue, the Brahmavaivarta Purana says Varaha decreed that the earth should be honoured when people start building a house or digging a lake, well or dam. It also names Mangala, the god of the planet Mars, as the son of Varaha and the earth goddess.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, mud balls shaken from Varaha's tusk become pinda offerings, which is one explanation of rites for ancestors.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a Brahma Purana tale, a rakshasa named Sindhusena drags the sacrifice down to the netherworld. Varaha brings it back in his mouth, which is why sacrifice is called makha, a word that echoes mukha, mouth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a Shaiva tale Varaha digs down to find the base of Shiva's fiery lingam and cannot, a scene seen in Lingodbhava carvings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Varaha Purana, when Varaha laughs, Bhumi sees the whole universe inside his mouth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Pilgrims at Tirumala are told to worship Varaha first and Venkateswara afterwards, since Venkateswara is said to have asked Varaha's permission to live on the hills.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A boar sculpture at Khajuraho from about 900 to 925 CE is covered in carved sages, planets and deities, with Sarasvati on its tongue.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Udayagiri Cave 5 panel, carved about 400 CE under Chandragupta II, shows Bhumi hanging from the boar's tusk. Around him stand rows of gods, sages, the Vasus and Rudras, and the ocean, plus two real people: King Chandragupta II and his minister Virasena.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_Caves",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One Purana reads Varaha's body as a sacrifice: his four feet are the Vedas, his tusks are sacrificial posts, his mouth is the altar and his tongue is the sacred fire. His eyes are day and night.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Mahabalipuram a rare carving shows Varaha looking down tenderly at Bhumi, whom he carries in his arms rather than on his tusk.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sculptors at Badami solved the puzzle of joining a boar head to a human body by adding a human neck.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana ties Varaha to Narasimha. Jaya and Vijaya, Vishnu's doorkeepers, are cursed by the four Kumaras to be born as asuras: Hiranyaksha, whom Varaha meets, and Hiranyakashipu, whom Narasimha later defeats.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Chalukyas (543 to 753 CE) were the first dynasty to put Varaha on their crest and coins. Later the Pratihara king Mihira Bhoja took the title Adi-varaha, and Vijayanagara also used the boar as a royal emblem.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Eran, a red sandstone boar about 3.4 metres high carries an eight-line Sanskrit inscription on its chest. It names Toramana, a king of the Alchon Huns, and records Dhanyavishnu dedicating a stone temple to Narayana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Eran",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Linga Purana says Vishnu later gave up his boar body and returned to Vaikuntha, because the earth could no longer bear the weight of his tusks.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Purana, Varaha lifts the drowning Pitrs, the ancestors, out of a river with his tusks and then performs the shraddha rites for them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Skanda Purana says the river Shipra sprang from Varaha's heart after he defeated Hiranyaksha, so the river is called his daughter.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal form does Varaha take?",
+      "options": ["Boar", "Elephant", "Lion", "Horse"],
+      "answer": 0,
+      "why": "Varaha means boar."
+    },
+    {
+      "q": "Who does Varaha lift from the cosmic ocean?",
+      "options": ["Lakshmi", "Bhumi", "Sita", "Ganga"],
+      "answer": 1,
+      "why": "Bhumi is the Earth goddess."
+    },
+    {
+      "q": "Which Varaha panel was carved around 400 CE near Vidisha?",
+      "options": ["Ellora", "Udayagiri", "Hampi", "Konark"],
+      "answer": 1,
+      "why": "Udayagiri Cave 5 holds a famous panel."
+    },
+    {
+      "q": "How is Varaha said to have first appeared in the Bhagavata Purana?",
+      "options": ["From a rock", "From Brahma's nostril", "From a river", "From a fire"],
+      "answer": 1,
+      "why": "He came from Brahma's nostril, as a tiny boar."
+    },
+    {
+      "q": "In the Mahabharata, what did the mud balls shaken from his tusk become?",
+      "options": ["Offerings for ancestors", "Small hills", "Stars", "Seeds for farmers"],
+      "answer": 0,
+      "why": "They became pinda offerings to the ancestors."
+    }
+  ],
+  "related": ["vishnu", "bhumi", "hiranyaksha", "brahma", "matsya", "narasimha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Varaha",
+    "udayagiri-caves": "https://en.wikipedia.org/wiki/Udayagiri_Caves"
+  },
+  "palette": {
+    "c1": "#d9c6a5",
+    "c2": "#eee3cc"
+  },
+  "order": 3
+}

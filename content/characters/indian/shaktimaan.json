@@ -6,7 +6,7 @@
   "kind": "hero",
   "medium": "tv",
   "publisher": "DD National (Doordarshan)",
-  "summary": "India's best-loved TV superhero: a yogi-warrior powered by his awakened chakras and the five elements, created by and starring Mukesh Khanna on Doordarshan from 1997 to 2005.",
+  "summary": "A yogi-warrior powered by his awakened chakras and the five elements, created by and starring Mukesh Khanna on Doordarshan from 1997 to 2005; the Asian Wall Street Journal once put Khanna on its front page over the show's influence on children.",
   "origin": "A sun-following sect of sages, the Suryanshis, chose one man to stand against the greed and hatred of the Kali Yuga. Through Kundalini yoga he awakened his seven chakras, then went through a ritual death in sacred fire, after which fire, earth, water, wind and sky rebuilt him as a superhuman. Journalist Geeta Vishwas gave the mystery hero his name. He later learns he is the reborn Shri Satya, the Suryanshi founder from the Mahabharata era. To stay hidden he lives as Gangadhar, a clumsy photographer who speaks extremely formal Hindi.",
   "creators": ["Mukesh Khanna (creator, producer, star)"],
   "firstAppearance": {
@@ -64,16 +64,6 @@
     }
   ],
   "gossip": [
-    {
-      "type": "fact",
-      "text": "Mukesh Khanna first dreamed up the hero in 1981 as a film called Aakash with Rajshri Productions. It took 16 more years to reach TV.",
-      "spice": 1
-    },
-    {
-      "type": "gossip",
-      "text": "Gangadhar's buck teeth and floppy hair were modelled on American comedian Jerry Lewis.",
-      "spice": 2
-    },
     {
       "type": "fact",
       "text": "The show ran 450 episodes and was sponsored by Parle-G from its very first episode.",
@@ -135,7 +125,8 @@
   },
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Shaktimaan",
-    "animated": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series"
+    "animated": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series",
+    "bollywoodhungama": "https://www.bollywoodhungama.com/news/features/mukesh-khanna-brings-nostalgia-back-shaktimaan-different-avatar-actor-says-essence-shaktimaan-alive/"
   },
   "timeline": [
     {
@@ -154,32 +145,211 @@
       "year": 2011,
       "kind": "screen",
       "title": "The animated series",
-      "note": "Reliance Animation's 26-episode cartoon version debuts on Nickelodeon Sonic in December 2011."
+      "note": "Reliance Animation's 26-episode cartoon version debuts on Nickelodeon Sonic in 2011."
     },
     {
       "year": 2020,
       "kind": "legacy",
       "title": "Lockdown rerun",
-      "note": "Doordarshan brings the show back during the COVID-19 lockdown, and a whole new generation tunes in."
+      "note": "DD National re-telecasts the show from 1 April 2020 after ongoing productions are suspended, and DD Retro carries it from 13 April."
     },
     {
       "year": 2022,
       "kind": "screen",
-      "title": "Sony announces a film trilogy",
-      "note": "Sony Pictures International Productions confirms plans for three big-screen Shaktimaan films."
+      "title": "Sony teases a film",
+      "note": "On 10 February 2022 SPE India posts a concept video for a big-screen Shaktimaan film, and a trilogy is reported."
     },
     {
       "year": 2024,
       "kind": "return",
-      "title": "Khanna suits up again",
-      "note": "Mukesh Khanna returns in costume in a November teaser on his Bheeshm International YouTube channel."
+      "title": "Teaser for a return",
+      "note": "On 8 November 2024 Mukesh Khanna's Bheeshm International channel posts a teaser of classic scenes and announces the hero's comeback."
     },
     {
       "year": 2025,
       "kind": "return",
       "title": "Audio adventures",
-      "note": "Khanna voices the hero once more in an original audio series for Pocket FM."
+      "note": "Khanna voices the hero once more in a 40-episode original audio series for Pocket FM."
     }
   ],
-  "heat": 88
+  "heat": 88,
+  "facts": [
+    {
+      "text": "Khanna says he was pushed to make a children's superhero show when his nephew was glued to the programme Power Zone.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "When Geeta was written out, fan protests led producers to bring the character back.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "To revive Geeta, Shaktimaan used his own powers and lost them for a time as the price.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "The demon pair Khali and Bali take their name from the Urdu word khalbali, which means commotion.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "His disguise name, Pandit Gangadhar Vidyadhar Mayadhar Omkarnath Shastri, is a mouthful, and whenever Gangadhar gets a big job he claims to have written an unpublished book on it.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 9
+    },
+    {
+      "text": "Mukesh Khanna plays several roles in the series: Shaktimaan, Gangadhar, Major Ranjeet Singh, Shri Satya and an evil clone of the hero.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Geeta found out Shaktimaan's identity more than once; the first two times he wiped the memory, but the third time he trusted her promise to keep it secret.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "Khanna used part of the show's airtime to explain that its stunts were not real and should not be copied by children.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The villain Kilvish has a trademark call, Andhera Kaayam Rahe, which means May Darkness Prevail, and his followers shout it too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His vibration chakra controls sound, light and healing warmth, lets him hear ultrasonic sounds, and by speeding up his atoms he can travel through space or even time.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Khanna wanted the best special effects on Indian television, and each episode's effects cost about 2 lakh rupees. He later admitted the results fell short of the Superman and Independence Day level he had hoped for.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Students in Bhutan reportedly skipped Saturday classes to watch the show, and local children drew the hero on roads, walls and in their books.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the early episodes Kilvish's face is never shown and his voice differs from the one used later, when Surendra Pal plays him. Eventually his face turns into a distorted wolf-like one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Gangadhar's buck teeth and floppy hair were inspired by American comedian Jerry Lewis, because Khanna wanted a comic persona to contrast with the hero's powerful presence.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Khanna conceived the hero in 1981 while working with Rajshri Productions. They planned a film called Aakash that did not go ahead, so the idea took 16 years to reach television in 1997.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "In the show's lore his energy chakra gives strength, flight, fire and freezing breath, while his heart chakra lets him nudge people's will, but only toward doing good.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One account says Kilvish drew his strength from half of the Shakti Punj, a power store he tricked out of Shri Satya, the sect's founder. Another says it comes from the evil that people do.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the show, Geeta turns out to be the reincarnation of Komalatha, a lady sage whose curse trapped the evil servant Kashtak about 2,500 years earlier.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "Shaktimaan can split his body into five separate bodies of fire, wind, water, earth and sky, one for each element that rebuilt him.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kitanuman, a green villain made entirely of germs, spreads them so badly that children around the world turn into old men. Shaktimaan finally beats him using his own germs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The villain Stone-man petrifies with a glance. Shaktimaan beat him at a party by reflecting that glance back with a metal tray, then swapped looks with him to trick Kapala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "For the 2025 revival, a brand film called Sorry Shaktimaan shows 90s film villains such as Gulshan Grover, Ranjeet and Shehzad Khan panicking at the hero's return.",
+      "kind": "screen",
+      "source": "https://www.bollywoodhungama.com/news/features/mukesh-khanna-brings-nostalgia-back-shaktimaan-different-avatar-actor-says-essence-shaktimaan-alive/",
+      "interest": 8
+    },
+    {
+      "text": "In the 2025 Pocket FM audio series, the villain is Mahatatva, a former guardian of balance who turned bad, and the hero must collect five elemental jewels to restore harmony.",
+      "kind": "story",
+      "source": "https://www.bollywoodhungama.com/news/features/mukesh-khanna-brings-nostalgia-back-shaktimaan-different-avatar-actor-says-essence-shaktimaan-alive/",
+      "interest": 7
+    },
+    {
+      "text": "The 450-episode series was later dubbed in Tamil and Odia, and a re-edited version premiered on Pogo TV in 2006, including an English dub made for that channel.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Shaktimaan is a TV superhero who gets his powers from yoga and the five elements of nature. By day he is Gangadhar, a clumsy photographer, and he helps people by fighting the dark force of Kilvish.",
+  "story": [
+    {
+      "title": "The chosen one",
+      "text": "A group of wise sages picks one man to protect people from greed and hatred. He learns yoga and awakens the seven energy centres in his body."
+    },
+    {
+      "title": "Five elements",
+      "text": "Fire, earth, water, wind and sky fill him with power, and he becomes Shaktimaan, a hero who can fly and see far away."
+    },
+    {
+      "title": "Gangadhar, the clumsy photographer",
+      "text": "To keep his secret, he lives as Gangadhar, a funny photographer who speaks very formal Hindi. Reporter Geeta Vishwas works beside him."
+    },
+    {
+      "title": "Light against darkness",
+      "text": "His great opponent is Kilvish, who wants darkness to win. Shaktimaan's mission is to end the wrong inside people, not to punish them."
+    },
+    {
+      "title": "A lesson at the end",
+      "text": "The show closes each episode with a message for children, and the hero reminds them that the stunts are not real and should not be copied."
+    }
+  ]
 }

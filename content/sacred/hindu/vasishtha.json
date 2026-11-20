@@ -1,0 +1,272 @@
+{
+  "slug": "vasishtha",
+  "name": "Vasishtha",
+  "aka": ["Vasistha", "Brahmarshi Vasishtha", "Arundhati Natha", "Maitravaruni"],
+  "native": "वसिष्ठ",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Saptarishi, Rigvedic poet and teacher of Rama",
+  "summary": "Vasishtha is one of the Seven Sages, the chief poet of Rigveda Mandala 7, and the family priest of Rama's dynasty. The Yoga Vasistha, a long teaching dialogue with Rama, is traditionally linked to his name.",
+  "about": "Hindu tradition counts Vasishtha among the Saptarishi, the seven great sages, and credits him with most of Mandala 7 of the Rigveda. The name means \"most excellent\". The Rigveda presents him as priest to the Bharata chief Sudas, and in the Ramayana he is the guru of the Ikshvaku royal house and teacher of Rama and his brothers. Tellings differ on his wish-granting cow: the Ramayana calls her Sabala and identifies her with Kamadhenu, while the Mahabharata calls her Nandini. Many tales speak of his long rivalry with Vishvamitra which ended in friendship. His wife is Arundhati. The Yoga Vasistha, a long dialogue between him and Rama about the nature of mind and freedom, and the Vasishtha Dharmasutra are both attributed to him, though scholars see them as texts that grew over time.",
+  "kidSummary": "Vasishtha is a wise and patient sage, one of the Seven Sages of the sky. In the Ramayana he is the teacher of Prince Rama and his brothers. A famous book of stories, the Yoga Vasistha, shows him answering Rama's big questions about life.",
+  "story": [
+    {
+      "title": "A calm teacher",
+      "text": "Vasishtha lived in a forest hermitage and taught young princes. In the Ramayana he is the family guru of Rama, Lakshmana, Bharata and Shatrughna."
+    },
+    {
+      "title": "The wish-granting cow",
+      "text": "In many tellings Vasishtha owns a cow who can provide anything, Sabala in the Ramayana and Nandini in the Mahabharata. When the king Vishvamitra wanted her, Vasishtha refused, and her power helped him protect his ashram."
+    },
+    {
+      "title": "Friends at last",
+      "text": "Vishvamitra then took up deep penance and became a brahmarshi. Vasishtha welcomed him as an equal, and their rivalry ended."
+    },
+    {
+      "title": "Rama's big questions",
+      "text": "In the Yoga Vasistha, young Rama feels sad that everything changes. Vasishtha answers with stories, helping him see that his own mind and effort can bring peace."
+    },
+    {
+      "title": "Priest of a tribe",
+      "text": "In the Rigveda, Vasishtha is priest to the chief Sudas. His hymns to Indra and Varuna are remembered for helping Sudas win the Battle of the Ten Kings."
+    }
+  ],
+  "teaches": [
+    "Patience and calm are strengths",
+    "A mind that is understood can bring peace",
+    "Rivals can become friends"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Kamadhenu and Nandini", "Brahmadanda (staff)", "Seven sages (Saptarishi)"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Arundhati",
+      "slug": "arundhati"
+    },
+    {
+      "relation": "Wish-granting cow",
+      "name": "Kamadhenu",
+      "slug": "kamadhenu"
+    },
+    {
+      "relation": "Rival turned friend",
+      "name": "Vishvamitra",
+      "slug": "vishvamitra"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Said twin",
+      "name": "Agastya",
+      "slug": "agastya"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 7)",
+    "Yoga Vasistha",
+    "Vasishtha Dharmasutra",
+    "Agni Purana (attributed)",
+    "Valmiki Ramayana"
+  ],
+  "places": ["Vasishtha ashram, Guwahati", "Cave near Rishikesh"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Battle of the Ten Kings, Vasishtha's hymns are said to have won Indra's favour, and Sudas of the Bharatas beat a larger tribal alliance by breaching a dyke on the Parusni, now the Ravi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_the_Ten_Kings",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda (7.33) names Mitra and Varuna as his parents, with Urvashi as his mother, and a translation of the hymn describes the gods laying the newborn on a lotus blossom.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rigveda 7.33.9 describes Vasishtha crossing the Sarasvati to found his school. One legend says the river split into a hundred shallow channels to stop him falling into its depths; scholar D. P. Agarwal reads it as a memory of a river drying.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Indian astronomy the Big Dipper is the Saptarshi, the seven sages, and Vasishtha is the star Mizar. Beside him shines faint Alcor, called Arundhati after his wife, so the two form a famous double star.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Saptarishi",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In one Hindu wedding ritual, the groom shows the bride the twin stars of Vasishtha and Arundhati as the ideal couple, and the two are asked to look up together at the sky.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Because Arundhati is so faint, people point to brighter stars first and then guide the eye to her. This gave Sanskrit the maxim Arundhati Darshana Nyaya, for explaining the unknown through the known.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Texts name Arundhati as the grandmother of Parashara and great-grandmother of Vyasa, so Vasishtha's family line leads to the compiler of the Mahabharata.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1958 a copper head styled like texts' descriptions of Vasishtha turned up in a Delhi market, where it was due to be melted. Tests at ETH Zurich, Stanford and UC gave about 700 CE, give or take 80 years, but it came from no dig, so its meaning is unclear.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the Arattupuzha Pooram in Thrissur, Kerala, Rama is said to travel from the Thriprayar temple each year to honour his guru Vasishtha, who is the main deity at the Arattupuzha temple.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Many Puranas say Vasishtha was born three times: first as a mind-born son of Brahma, then recreated by Brahma after the Daksha sacrifice, and finally re-emerging from Mitra and Varuna when Urvashi appeared.",
+      "kind": "family",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "kid": false
+    },
+    {
+      "text": "In the Pali Tevijja Sutta the Buddha lists ten early sages, makers of ancient verses, and one of them is Vasettha, the Pali form of Vasishtha.",
+      "kind": "history",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "kid": true
+    },
+    {
+      "text": "In the Puranic tale of Kalmashapada, a king cursed into a man-eating rakshasa takes the life of Vasishtha's son Shakti and, in the telling, all his hundred sons. Shakti was the father of Parashara, who carries the line on to Vyasa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakti_Maharishi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A tradition told of the Beas river says Vasishtha, in despair, bound himself with cords and went to it. The river became a sandbed and the cords snapped, so he named it Vipasa, 'cord-breaker'. The page notes this story lacks a citation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Beas_River",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one version of the Harishchandra tale, Vasishtha takes the form of a bird to help the king, while Vishvamitra curses Harishchandra into poverty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Near Manali, the village of Vashisht, about 2,050 metres up, is linked to the Vashistha clan. It has sulphur hot springs, with three temples beside them for Vashisht, Shiva and Rama.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vashisht,_Himachal_Pradesh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yoga Vasistha is set as a talk before the Ramayana's events, opening with Rama's despair at how everything changes. Its present form is dated to about the 11th-14th century CE, though it likely grew over centuries.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A medieval yoga text, the Vasishtha Samhita, carries his name, and some traditions also credit him with the Agni Purana and the Vishnu Purana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vasishtha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana story, at Vasishtha's command the cow Sabala, said to be Kamadhenu, produces warriors from her own body, and they defeat Vishvamitra's army.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The cow's name varies. The Ramayana calls her Sabala, Kamadhenu herself; the Mahabharata calls her Nandini, daughter of Surabhi; Kalidasa's Raghuvamsa makes Nandini Kamadhenu's daughter.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ancient texts disagree about who the seven rishis are: the Jaiminiya Brahmana, Brihadaranyaka Upanishad and Gopatha Brahmana each name different sages, so the roster depends on which text you read.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Saptarshi",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Vasishtha's name said to mean?",
+      "options": ["Most excellent", "Lord of lions", "Born of fire", "Friend of all"],
+      "answer": 0,
+      "why": "Vasishtha is Sanskrit for \"most excellent\"."
+    },
+    {
+      "q": "Whose family priest was Vasishtha in the Ramayana?",
+      "options": ["Pandavas", "Kauravas", "The Ikshvaku royal house", "Yadavas"],
+      "answer": 2,
+      "why": "He was guru to Rama and his brothers of the Ikshvaku royal house, also called the Raghu line."
+    },
+    {
+      "q": "In the Mahabharata, what is Vasishtha's wish-granting cow called?",
+      "options": ["Lakshmi", "Nandini", "Tulasi", "Saraswati"],
+      "answer": 1,
+      "why": "The Mahabharata names her Nandini, a daughter of Surabhi also given the title Kamadhenu; the Ramayana calls her Sabala."
+    },
+    {
+      "q": "Which book is a dialogue between Vasishtha and Rama?",
+      "options": ["Panchatantra", "Hitopadesha", "Gita Govinda", "Yoga Vasistha"],
+      "answer": 3,
+      "why": "The Yoga Vasistha is told as his teaching to Rama."
+    },
+    {
+      "q": "Which sage became his friend after a long rivalry?",
+      "options": ["Vishvamitra", "Narada", "Vyasa", "Atri"],
+      "answer": 0,
+      "why": "Vishvamitra became a brahmarshi and Vasishtha welcomed him."
+    }
+  ],
+  "related": [
+    "vishvamitra",
+    "rama",
+    "arundhati",
+    "kamadhenu",
+    "agastya",
+    "brahma",
+    "valmiki",
+    "lopamudra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasishtha",
+    "yoga_vasistha": "https://en.wikipedia.org/wiki/Yoga_Vasistha",
+    "ten_kings": "https://en.wikipedia.org/wiki/Battle_of_the_Ten_Kings"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f5e6cc",
+    "c2": "#cfe0e4"
+  },
+  "order": 50
+}

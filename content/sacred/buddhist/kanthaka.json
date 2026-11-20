@@ -1,0 +1,243 @@
+{
+  "slug": "kanthaka",
+  "name": "Kanthaka",
+  "aka": ["Kaṇṭhaka", "Kantaka", "Kanthaka-devaputta"],
+  "native": "कण्टक",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "The loyal white horse of Prince Siddhartha",
+  "summary": "Kanthaka is the white horse who carried Prince Siddhartha out of his palace on the night of the Great Departure. Buddhist texts say he died of sorrow and was later reborn as a deva.",
+  "about": "Kanthaka is the horse of Prince Siddhartha, the future Buddha, in the traditional life story, dated to the 6th-5th century BCE at Kapilavastu. Buddhist texts describe him as a great white horse, the prince's favourite, who carried him from the palace to the river Anoma with Channa at his side. After the prince sent them home, Kanthaka is said to have died of grief. The Pali commentaries and the Vimanavatthu say he was reborn in the Tavatimsa heaven, where he heard the Buddha teach and became a stream-enterer. A different account says he was reborn as a brahmin and reached awakening. The scene is a favourite subject for Buddhist sculptors in India.",
+  "kidSummary": "Kanthaka was the prince's beloved white horse. On the night Siddhartha left home to search for answers, Kanthaka carried him far and fast. Buddhist stories say the horse loved him so much that he was reborn as a happy heavenly being.",
+  "story": [
+    {
+      "title": "A prince's best horse",
+      "text": "Kanthaka was a strong white horse, the favourite of Prince Siddhartha, and they were said to have been born on the same day."
+    },
+    {
+      "title": "The secret night",
+      "text": "One night Siddhartha asked Kanthaka to carry him away to look for the end of suffering. Channa rode along, and the stories say the gods hushed the horse's hooves."
+    },
+    {
+      "title": "The great leap",
+      "text": "At the broad Anoma river, Kanthaka is said to have jumped across in a single bound, carrying the prince to the other side."
+    },
+    {
+      "title": "Saying goodbye",
+      "text": "Kanthaka licked the prince's feet as he was about to leave, then watched him walk into the forest alone, and was heartbroken."
+    },
+    {
+      "title": "A new home",
+      "text": "The Pali stories say Kanthaka died of sadness and was reborn in a beautiful heaven as a deva, where he later listened to the Buddha's teaching."
+    }
+  ],
+  "teaches": ["Loyalty and love", "Being kind to animals", "Good deeds bring peace in the end"],
+  "symbol": "wave",
+  "emblems": ["White horse", "Anoma river leap"],
+  "family": [
+    {
+      "relation": "Rider",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Companion on the departure",
+      "name": "Channa",
+      "slug": "channa"
+    },
+    {
+      "relation": "Visited his heavenly mansion",
+      "name": "Maudgalyayana",
+      "slug": "maudgalyayana"
+    }
+  ],
+  "texts": ["Vimanavatthu 7.7", "Jataka commentary"],
+  "places": ["Kapilavastu", "Anoma river", "Tavatimsa heaven"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Pali dictionary says that just outside Kapilavatthu the prince stopped Kanthaka for one last look back at his home city. A shrine, the Kanthakanivatta-cetiya, was later built on that spot.",
+      "kind": "place",
+      "source": "https://aimwell.org/DPPN/kanthaka.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The commentaries and the Pali dictionary give his length as eighteen cubits from neck to tail, roughly eight metres, and describe him as white as a clean conch shell.",
+      "kind": "symbol",
+      "source": "https://aimwell.org/DPPN/kanthaka.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The dictionary says Kanthaka neighed for joy when saddled that night, and that his neigh and hoofbeats would normally have been heard across the whole city, so the gods muffled them and kept the people asleep.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/kanthaka.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says that riding Kanthaka the prince won the contests before his marriage: archery against his cousin Devadatta, horse-riding against Anuruddha, and swordplay against his half-brother Nanda.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kanthaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Pali dictionary says Channa held on to Kanthaka's tail during the ride out of the city.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/kanthaka.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Gandhara relief now in the British Museum shows the prince parting from Kanthaka and Channa, so the farewell was carved far from India's south as well.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kanthaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary tradition says Kanthaka could have jumped over the city's ramparts, eighteen hands high, carrying two riders, if the gate had stayed closed.",
+      "kind": "story",
+      "source": "https://palikanon.com/namen/ka/kanthaka.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Chinese pilgrim Xuanzang reported that the Ashoka pillar at Lumbini once carried a horse figure on top, which Wikipedia says was likely Kanthaka, though many scholars doubt the claim.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Great_Renunciation",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Anoma river, said to be eight fathoms wide, is described in the commentary as being cleared by Kanthaka in one bound.",
+      "kind": "place",
+      "source": "https://palikanon.com/namen/ka/kanthaka.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary says that at the gate Mara appeared in the sky and urged the prince to stay, promising a wheel-treasure of world rule within seven days. The prince replied that he knew of it, told Mara to go, and Mara vanished.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/15-Departure.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kanthaka is said to have died of a broken heart. In the Vimanavatthu he fell ill and died once his master passed out of sight in the forest; sources differ on whether this was at the river or back in Kapilavastu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kanthaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Pali commentaries say Kanthaka was reborn in Tavatimsa as a deva named Kanthaka-devaputta, with a jewel-studded palace.",
+      "kind": "story",
+      "source": "https://palikanon.com/namen/ka/kanthaka.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Vimanavatthu 7.7, the deva Kanthaka himself tells the monk Moggallana his story, saying he licked the prince's feet and wept as he left.",
+      "kind": "text",
+      "source": "https://suttafriends.org/vv7-7",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In that account, the prince stroked the horse and asked for his help, promising to help the world cross over the cycle of rebirth.",
+      "kind": "story",
+      "source": "https://suttafriends.org/vv7-7",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Moggallana describes Kanthaka's heavenly mansion as moving in every direction, shining like the sun and moon, with a golden-sand lotus pond.",
+      "kind": "place",
+      "source": "https://suttafriends.org/vv7-7",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vimanavatthu, Kanthaka rejoiced when other devas celebrated the prince's awakening, sent respects through Moggallana, and later visited the Buddha, gained the Eye of Dhamma and became a stream-enterer.",
+      "kind": "story",
+      "source": "https://suttafriends.org/vv7-7",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Pali dictionary says it was told that Kanthaka could travel round the whole world-system in a single night.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/kanthaka.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A 2nd-century Amaravati plaque in the Musee Guimet shows Kanthaka saddled but riderless, with four yakshas holding up his hooves so he makes no noise; the prince is shown only by the parasol and whisk bearers.",
+      "kind": "art",
+      "source": "https://guimet.fr/en/nos-collections/monde-indien/le-grand-depart",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia calls a carving on the main stupa at Amaravati, showing the prince leaving Kapilavastu on Kanthaka, the oldest surviving picture of the scene.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kanthaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The retelling says that on the ride, gods carried torches and rained flowers from the sky, and the falling flowers slowed the horses as the prince rode toward the river.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/15-Departure.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What colour is Kanthaka said to be?",
+      "options": ["White", "Black", "Brown", "Golden"],
+      "answer": 0,
+      "why": "Texts describe him as a great white horse."
+    },
+    {
+      "q": "What did Kanthaka cross in one leap?",
+      "options": ["The Anoma river", "The Ganga", "A mountain", "A palace gate"],
+      "answer": 0,
+      "why": "Tradition says he cleared the Anoma, eight fathoms wide."
+    },
+    {
+      "q": "According to the Pali texts, where was Kanthaka reborn?",
+      "options": [
+        "Tavatimsa heaven",
+        "Tusita heaven",
+        "As a royal horse again",
+        "As a forest deer"
+      ],
+      "answer": 0,
+      "why": "He was reborn as a deva in Tavatimsa."
+    },
+    {
+      "q": "Who visited Kanthaka's heavenly mansion?",
+      "options": ["Moggallana", "Ashoka", "Ananda", "Rahula"],
+      "answer": 0,
+      "why": "The Vimanavatthu says the monk Moggallana asked him about his mansion."
+    }
+  ],
+  "related": ["gautama-buddha", "channa", "suddhodana", "maudgalyayana", "devadatta"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kanthaka",
+    "palikanon": "https://palikanon.com/namen/ka/kanthaka.htm",
+    "vimanavatthu": "https://suttafriends.org/vv7-7"
+  },
+  "palette": {
+    "c1": "#e9e1d0",
+    "c2": "#c3d3df"
+  },
+  "years": "6th-5th century BCE (traditional)",
+  "order": 28,
+  "depth": "full"
+}

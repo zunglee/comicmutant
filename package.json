@@ -10,7 +10,7 @@
   },
   "scripts": {
     "dev": "react-router dev --port 4323 --host 127.0.0.1",
-    "prebuild": "tsx scripts/validate.ts && tsx scripts/validate-quiz.ts --strict",
+    "prebuild": "tsx scripts/validate.ts && tsx scripts/validate-quiz.ts --strict && tsx scripts/validate-polls.ts && tsx scripts/validate-sacred.ts",
     "build": "react-router build",
     "start": "NODE_ENV=production PORT=${PORT:-4335} HOST=${HOST:-127.0.0.1} react-router-serve ./build/server/index.js",
     "preview": "pnpm build && pnpm start",
@@ -24,7 +24,14 @@
   "dependencies": {
     "@fontsource/bangers": "^5.3.0",
     "@fontsource/chakra-petch": "^5.3.0",
+    "@fontsource/cormorant-garamond": "^5.3.0",
+    "@fontsource/mukta": "^5.3.0",
+    "@fontsource/noto-sans-gurmukhi": "^5.3.0",
+    "@fontsource/oswald": "^5.3.0",
     "@fontsource/russo-one": "^5.3.0",
+    "@fontsource/teko": "^5.3.0",
+    "@fontsource/tiro-devanagari-hindi": "^5.3.0",
+    "@fontsource/yatra-one": "^5.3.0",
     "@react-router/node": "^8.5.1",
     "@react-router/serve": "^8.5.1",
     "better-sqlite3": "^12.11.1",

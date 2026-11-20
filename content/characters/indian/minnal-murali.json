@@ -14,46 +14,45 @@
     "year": 2021
   },
   "powers": [
-    "Superhuman strength",
-    "Super speed",
-    "Telekinetic abilities",
-    "Powers granted by a lightning strike"
+    "Telekinetic abilities from a Christmas Eve lightning strike",
+    "A supersuit as Minnal Murali",
+    "Grit found by remembering his father's sacrifice"
   ],
   "affiliations": [],
   "storyline": [
     {
       "era": "1990s village",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "Kurukkanmoola dreams",
       "beat": "Jaison wants out of his village and into America, but a disapproving cop and a cancelled engagement keep getting in the way."
     },
     {
       "era": "Christmas Eve",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "One bolt, two men",
       "beat": "Lightning strikes Jaison and Shibu at the same instant, and both discover strange new powers."
     },
     {
       "era": "The mask",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "His father's hero",
       "beat": "Hurt by a family secret, Jaison borrows the identity of Minnal Murali from his late father's unfinished play."
     },
     {
       "era": "Framed",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "Fire at the shop",
       "beat": "Shibu burns down Jaison's tailoring shop, killing Daasan, and blames Minnal Murali."
     },
     {
       "era": "Hero",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "The cliff-edge bus",
       "beat": "Jaison saves a bus hanging over a cliff and wins the villagers' trust."
     },
     {
       "era": "Showdown",
-      "years": "2021",
+      "years": "1990s (film 2021)",
       "title": "Battle at the church",
       "beat": "In a supersuit, Jaison defeats a grief-maddened Shibu at the village church and vows to keep protecting Kurukkanmoola."
     }
@@ -70,7 +69,7 @@
       "spice": 2
     },
     {
-      "type": "gossip",
+      "type": "fact",
       "text": "The concept poster was unveiled on 21 January 2019, Tovino Thomas's birthday.",
       "spice": 1
     },
@@ -109,6 +108,18 @@
       "options": ["Cinemas", "Netflix", "Amazon Prime", "Doordarshan"],
       "answer": 1,
       "why": "After a festival premiere in Mumbai, it went straight to Netflix on 24 December 2021."
+    },
+    {
+      "q": "What does the title Minnal Murali mean in English?",
+      "options": ["Lightning Murali", "Midnight Murali", "Flying Murali", "Mighty Murali"],
+      "answer": 0,
+      "why": "Wikipedia translates Minnal Murali as Lightning Murali."
+    },
+    {
+      "q": "Whose unfinished play gives the hero his name?",
+      "options": ["His late father Martin's", "His teacher's", "The village priest's", "Shibu's"],
+      "answer": 0,
+      "why": "Minnal Murali is a character from the unfinished play of Martin, Jaison's late biological father."
     }
   ],
   "rivals": ["shibu"],
@@ -124,7 +135,8 @@
     "tagline": "One Christmas Eve bolt, one very surprised village tailor."
   },
   "sources": {
-    "wikipedia": "https://en.wikipedia.org/wiki/Minnal_Murali"
+    "wikipedia": "https://en.wikipedia.org/wiki/Minnal_Murali",
+    "hanuman": "https://en.wikipedia.org/wiki/Hanu-Man"
   },
   "timeline": [
     {
@@ -155,8 +167,163 @@
       "year": 2024,
       "kind": "comic",
       "title": "Minnal Murali Strikes Again",
-      "note": "Tinkle and Spirit Media unveil a graphic novel at Mumbai Comic Con that carries his story past the film."
+      "note": "Amar Chitra Katha launches a graphic novel at Comic Con India that carries his story past the film."
     }
   ],
-  "heat": 60
+  "heat": 60,
+  "facts": [
+    {
+      "text": "Director Basil Joseph says the film drew inspiration from the 1984 Malayalam fantasy My Dear Kuttichathan.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Tovino Thomas says real accounts of lightning survivors, such as watches stopping or bulbs glowing, were used to ground the film's superpowers.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 9
+    },
+    {
+      "text": "The title means Lightning Murali. Minnal Murali is a character from the unfinished play of Jaison's late father, Martin, and Jaison borrows the name as his disguise.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8
+    },
+    {
+      "text": "Jaison and the teashop worker Shibu are hit by the same Christmas Eve bolt and both gain telekinetic powers, so the hero and the villain share one origin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 9
+    },
+    {
+      "text": "When Shibu and Jaison clash on a bus, the driver dies and the bus ends up hanging over a cliff. Jaison saves it, and that wins the villagers' respect.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "A temporary church set near Kalady, costing roughly ₹5 million, was vandalised in May 2020 and six men were arrested. Filming moved to Karnataka, where Hemavati Reservoir hosted most of the climax.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Netflix released it worldwide in Malayalam with dubs in Tamil, Telugu, Kannada, Hindi and English. It became only the third Indian film on its global non-English Top 10, with 5.9 million viewing hours reported at launch.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Kerala Police made a parody video about the superhero to promote traffic safety and crime awareness.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Amar Chitra Katha, best known for mythology, launched the graphic novel Minnal Murali Strikes Again at Comic Con India 2024.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Promotion teamed the film with wrestler The Great Khali and cricketer Yuvraj Singh, put a comic strip in Malayala Manorama, flashed a logo montage on Ain Dubai and released a Twitter emoji.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Shibu burns Jaison's shop while posing as Minnal Murali, so the cast list names him a fake Minnal Murali, and the hero must clear the name he borrowed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Tovino Thomas plays a dual role: Jaison, and also Martin, the theatre artist who is Jaison's biological father and whose unfinished play gives the hero his name.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Hindustan Times said the film had finally cracked the superhero formula for India. The New Indian Express called it the best superhero film made in India and praised how it makes viewers care about the villain as much as the hero.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Netflix first planned to stream it 45 days after a cinema run. Repeated pandemic closures of theatres and rising costs from delay led producer Sophia Paul to pick direct streaming, confirmed in September 2021.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "The story is set in the 1990s in Kurukkanmoola, where Jaison the tailor dreams of building a career in the US until a family secret and a lightning bolt change his plans.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "'Bruce Lee' Biji is played by Femina George, cast after Aju Varghese shared an open call for a lead actress aged 20 to 28. Biji later helps Jaison try to prove his innocence.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8
+    },
+    {
+      "text": "The villain Shibu is driven by love for his childhood sweetheart Usha, who resents him. He first uses his powers to protect her from harassment at a teashop, and his obsession grows from there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8
+    },
+    {
+      "text": "In a 2022 interview Tovino Thomas said a sequel is being planned but will happen in due course, so the hero's story may not be over.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Shooting stopped in April 2021 when Tovino Thomas tested positive for COVID-19, then wrapped on 25 July 2021, with producer Sophia Paul confirming it in an Instagram post.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Basil Joseph worked closely with the VFX team during scripting, planning storyboards and checking what was possible before shooting began.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Priyanka Chopra, who chaired the Mumbai Film Festival, announced the film's world premiere there, ahead of its Netflix release on Christmas Eve 2021.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Minnal Murali is a Malayalam superhero film about Jaison, a village tailor who gains telekinetic powers when lightning strikes him on Christmas Eve. Shibu, a lonely man hit by the same bolt, becomes the villain. It has fights, fires and sad moments, so it is best for older kids.",
+  "story": [
+    {
+      "title": "Dreams of America",
+      "text": "Jaison, a young tailor in the village of Kurukkanmoola, dreams of moving to the United States."
+    },
+    {
+      "title": "One bolt, two men",
+      "text": "On Christmas Eve lightning hits Jaison and a lonely teashop worker named Shibu at the same moment, and both gain powers."
+    },
+    {
+      "title": "The mask",
+      "text": "After learning a family secret, Jaison takes the name Minnal Murali, a character from his late father's unfinished play."
+    },
+    {
+      "title": "Framed",
+      "text": "Shibu causes trouble while posing as Minnal Murali, so Jaison must clear the name he borrowed."
+    },
+    {
+      "title": "The bus on the cliff",
+      "text": "Jaison saves a bus hanging over a cliff, and the villagers start to trust him."
+    },
+    {
+      "title": "Church showdown",
+      "text": "In a supersuit, Jaison faces a grief-stricken Shibu at the village church and promises to keep protecting Kurukkanmoola."
+    }
+  ]
 }

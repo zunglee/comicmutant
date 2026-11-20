@@ -1,0 +1,273 @@
+{
+  "slug": "ayyappan",
+  "name": "Ayyappan",
+  "aka": ["Dharmasastha", "Sastha", "Manikanda", "Hariharasuthan", "Ayyanar"],
+  "native": "അയ്യപ്പൻ",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Deity of Sabarimala, son of Shiva and Mohini",
+  "summary": "Ayyappan is a beloved deity of Kerala and South India, said to be the son of Shiva and Mohini. Millions climb 18 steps to his hill shrine at Sabarimala each year.",
+  "about": "Ayyappan, also called Dharmasastha and Manikanda, is a Hindu deity worshipped especially in Kerala and Tamil Nadu. Devotees say he is the son of Shiva and Mohini, the female form of Vishnu. In the Malayalam folk legend, the king of Pandalam raised him after finding him as a baby by the river Pamba, and he later defeated the buffalo-asura Mahishi. His shrine at Sabarimala, in the Western Ghats, receives millions of pilgrims who observe a 41-day vow and carry the irumudi bag on their heads. He is often linked with Ayyanar, the Tamil village guardian, and with Vavar, a Muslim friend honoured at a mosque in Erumely. The hymn Harivarasanam is sung as his nightly lullaby.",
+  "kidSummary": "Ayyappan is a young god who lives on a hill in Kerala. Stories say a king found him as a baby and raised him. Every year, millions of people walk to his hill temple, call each other 'swami' and climb 18 holy steps.",
+  "story": [
+    {
+      "title": "A baby by the river",
+      "text": "In the Malayalam folk story, the king of Pandalam found a baby with a golden bell on his neck by the river Pamba. The king raised him as his son."
+    },
+    {
+      "title": "The tiger's milk",
+      "text": "A jealous queen pretended to be sick and said only tiger's milk could heal her. The boy went to the forest to fetch it."
+    },
+    {
+      "title": "Friends and fights",
+      "text": "He met the buffalo-asura Mahishi, who wanted to marry him, and defeated her. He also became friends with Vavar, a brave Muslim warrior, and the two are honoured together."
+    },
+    {
+      "title": "Return on a tiger",
+      "text": "In the story, he came back riding a tiger. The people were amazed and understood that this was no ordinary boy."
+    },
+    {
+      "title": "A shrine on the hill",
+      "text": "The legend says he shot an arrow to mark where his shrine should stand. Today pilgrims climb 18 steps to reach it at Sabarimala."
+    }
+  ],
+  "teaches": [
+    "Everyone is equal on the pilgrimage, so call each other swami",
+    "Discipline and self-control prepare the heart",
+    "Friendship can cross every faith"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Bow and arrow",
+    "Tiger (mount)",
+    "Bell at the neck",
+    "Yogic posture",
+    "Irumudi (pilgrim's bag)"
+  ],
+  "family": [
+    {
+      "relation": "Father (devotees say)",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Mother (devotees say)",
+      "name": "Mohini"
+    },
+    {
+      "relation": "Linked tradition",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    }
+  ],
+  "texts": ["Sabarimala folk legends (Malayalam)", "Harivarasanam"],
+  "places": [
+    "Sabarimala, Kerala",
+    "Achankovil temple",
+    "Erumely (Vavar mosque)",
+    "Pandalam",
+    "Pamba river"
+  ],
+  "festivals": ["Mandala Pooja", "Makaravilakku", "Maha Thirumal Sankranti"],
+  "facts": [
+    {
+      "text": "He is also called Dharmasastha, Manikanda ('the one with a bell at the neck') and Hariharasuthan, 'son of Hari and Hara', meaning Vishnu and Shiva.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Devotees say Ayyappan is the son of Shiva and Mohini, Vishnu's female form, so he joins the Shaiva and Vaishnava traditions in one figure.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the folk tale, Ayyappan returns from the forest riding a tiger, which is why many images show him beside or on one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhutnathopakhyanam, the buffalo-asura Mahishi wins a boon from Brahma that only a child of Vishnu and Shiva can defeat her, thinking that impossible. Ayyappan's birth is the answer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sabarimala means 'hill of Sabari', after Shabari, the Ramayana's devoted follower of Rama. A Kerala legend says she told Rama that the figure he saw meditating was Shastha, which is Ayyappan.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kochukadutta Swami, a legendary general in Ayyappan's army, is said to have kept fighting even after losing both legs, and he stayed on to serve at Sabarimala, where he has a shrine near the Malikapurathamma shrine.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pilgrims also visit a mosque at Erumely dedicated to Vavar, a Muslim saint who according to tradition was a devotee of Ayyappan, so the pilgrimage joins two faiths.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Harivarasanam, an eight-stanza Sanskritised Malayalam hymn, is sung as Ayyappan's bedtime lullaby at Sabarimala at the daily closing.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Harivarasanam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The hymn spread across southern India after the 1975 Malayalam film Swami Ayyappan, in which K. J. Yesudas sang it to a tune by G. Devarajan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Harivarasanam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sabarimala draws an estimated 10 to 15 million pilgrims a year, one of the largest annual pilgrimages in the world.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pilgrims climb 18 holy steps, called Pathinettampadi, and only those carrying the irumudi bag may climb them; in 1985 the steps were covered in panchaloha, a five-metal alloy.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 41-day vow starts with wearing a mala of rudraksha or tulasi beads. Devotees keep to black or blue clothes, avoid anger and rude words, and try to see everything around them as Ayyappa.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Pilgrims at Sabarimala greet one another as 'swami', so a rich visitor and a poor one are addressed in the same way.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sabarimala temple opens only on set days: the Mandala Pooja season from mid-November to late December, Makara Sankranti, Maha Thirumal Sankranti in April, and the first five days of each Malayalam month.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Achankovil temple, Ayyappan is shown as a married householder with Poorna and Pushkala, and a son named Satyaka.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After a fire damaged the temple, a contract to rebuild it in 1902 went to Kochummen Muthalali, a Christian from Mavelikkara, on the order of the ruler of Travancore.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Makaravilakku falls on Makara Sankranti, 14 January. The Thiruvabharanam jewel procession arrives, the star Sirius (called Makara Jyothi) rises, and a flame is lit on Ponnambalamedu hill before about half a million pilgrims.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sabarimala has no ancient or medieval records. The earliest surviving written account is from 1818, when an army lieutenant noted roughly 10,000 to 15,000 pilgrims, a tiny number beside today's millions.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Members of the Mala Arayan tribal community say they performed rites at Sabarimala, such as bathing the idol in honey, before Brahmin priests took over those duties in the 19th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The temple restricts women aged 10 to 50, which the temple management ties to the deity's celibate vow. The Supreme Court set the restriction aside on 28 September 2018, and the matter was then sent to a larger bench for review.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After a 1950 arson attack, the temple was rebuilt and the old stone image was replaced by a panchaloha idol about one and a half feet tall.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars suggest Ayyappan may have grown from a tribal Dravidian god joined with the Puranic story of Shiva and Mohini. His following spread across most of South India mainly in the 20th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which river is linked with the finding of baby Ayyappan?",
+      "options": ["Pamba", "Ganga", "Kaveri", "Narmada"],
+      "answer": 0,
+      "why": "The Pandalam king found him on the bank of the Pamba."
+    },
+    {
+      "q": "How many steps do pilgrims climb at Sabarimala?",
+      "options": ["9", "12", "18", "108"],
+      "answer": 2,
+      "why": "The Pathinettampadi has 18 sacred steps."
+    },
+    {
+      "q": "What do pilgrims call each other on the pilgrimage?",
+      "options": ["Swami", "Sir", "Brother", "Master"],
+      "answer": 0,
+      "why": "Pilgrims address each other as swami as a sign of equality."
+    },
+    {
+      "q": "Which animal is Ayyappan shown with?",
+      "options": ["Tiger", "Peacock", "Swan", "Mouse"],
+      "answer": 0,
+      "why": "Images show him on or beside a tiger."
+    },
+    {
+      "q": "Who is Ayyappan's friend honoured at a mosque in Erumely?",
+      "options": ["Vavar", "Hanuman", "Garuda", "Akbar"],
+      "answer": 0,
+      "why": "Vavar is traditionally seen as Ayyappan's Muslim friend."
+    }
+  ],
+  "related": ["shiva", "vishnu", "parashurama", "durga", "kartikeya", "jagannath"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ayyappan",
+    "sabarimala": "https://en.wikipedia.org/wiki/Sabarimala_Temple",
+    "harivarasanam": "https://en.wikipedia.org/wiki/Harivarasanam",
+    "ayyanar": "https://en.wikipedia.org/wiki/Ayyanar"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9dccd",
+    "c2": "#e8d6b8"
+  },
+  "order": 505
+}

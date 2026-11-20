@@ -1,0 +1,277 @@
+{
+  "slug": "lava-and-kusha",
+  "name": "Lava and Kusha",
+  "aka": ["Luv and Kush", "Lav-Kush", "Loh and Kusha"],
+  "native": "लव और कुश",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Twin sons of Rama and Sita, singers of the Ramayana",
+  "summary": "Lava and Kusha are the twin sons of Rama and Sita. In the Ramayana they grow up in Valmiki's hermitage, learn the epic by heart and become its first travelling singers.",
+  "about": "According to the Uttara Kanda of the Valmiki Ramayana, Lava and Kusha were born to Sita at the hermitage of the sage Valmiki after Rama, under public pressure, had her sent to the forest. Valmiki raised them, taught them archery and trained them to sing his epic. The text describes them as sweet-voiced brothers who recited the Ramayana at gatherings of sages and later in Ayodhya, where Rama himself listened. In many tellings they refuse gold for the recital, and Rama recognises them as his sons. In the Uttara Kanda the reunion ends with Sita calling on the Earth, which takes her back. Some versions, including the Padma Purana, add a battle over Rama's sacrificial horse before the family is reunited. Tradition says that after Rama, Kusha ruled southern Kosala and Lava the north. Stories also link Lava with the founding of Lahore, and a temple of Lava stands inside Lahore Fort. Their tale has been told in films, plays and Ramlila performances.",
+  "kidSummary": "Lava and Kusha are twin brothers, the sons of Rama and Sita. They grew up in the forest with the sage Valmiki, who taught them to sing the whole Ramayana. They sang it so sweetly that even Rama stopped to listen. They are remembered as brave, honest brothers and as the first people to share the Ramayana with the world.",
+  "story": [
+    {
+      "title": "Born in the forest",
+      "text": "After Sita was sent from Ayodhya, she lived in the sage Valmiki's hermitage. There she gave birth to twin sons, Lava and Kusha."
+    },
+    {
+      "title": "Learning from Valmiki",
+      "text": "Valmiki looked after the boys. He taught them to use the bow and, most of all, taught them to sing his poem about Rama."
+    },
+    {
+      "title": "The travelling singers",
+      "text": "The twins grew up to be sweet-voiced young men. Dressed as hermits, they sang the Ramayana for sages and townspeople alike."
+    },
+    {
+      "title": "Rama listens",
+      "text": "When they reached Ayodhya, Rama invited them to his court. They sang the story, and many in the hall were moved. The twins would not accept gold, asking only for simple food."
+    },
+    {
+      "title": "A family reunited",
+      "text": "Rama learned that the boys were his sons. In Valmiki's Uttara Kanda, Sita then returned to Mother Earth, and Rama named Lava and Kusha his heirs."
+    }
+  ],
+  "teaches": [
+    "Honesty and humility, refusing rewards",
+    "Learning and sharing a story",
+    "Respect for teachers"
+  ],
+  "symbol": "book",
+  "emblems": ["Kusha grass", "Singing in the Valmiki hermitage", "Bow"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Valmiki",
+      "slug": "valmiki"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Bala and Uttara Kandas)",
+    "Padma Purana",
+    "Raghuvamsa",
+    "Ananda Ramayana",
+    "Kathasaritsagara"
+  ],
+  "places": ["Valmiki's hermitage", "Lava Temple, Lahore Fort", "Shravasti", "Kushavati"],
+  "festivals": ["Ramlila", "Rama Navami"],
+  "facts": [
+    {
+      "text": "Valmiki says in the Bala Kanda that his Ramayana has 24,000 verses in 500 chapters, and he taught all of it to Kusha and Lava to memorise and sing.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's text, the twins were skilled in music, and their voices and looks were so like Rama's that they seemed like two reflections of him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dressed as hermits, the twins first sang the epic to sages, who rewarded them with gifts such as a water-pot, a deerskin, a sacred thread, a hatchet and saffron cloth.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Kathasaritsagara tells that Valmiki feared baby Lava was lost while Sita bathed, so he made a second child from kusha grass and called him Kusha, giving the name its meaning.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kusha_(Ramayana)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Padma Purana and some other versions, the twins capture Rama's sacrificial horse and defeat the army of his brothers, until Sita steps in and the family is reunited.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lava_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local Hindu legend says Prince Lava founded Lavapuri, the city later known as Lahore, while his twin Kusha founded nearby Kasur.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lava_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A temple dedicated to Lava stands inside Lahore Fort in Pakistan. It dates to the Sikh period and is looked after by the Pakistan Hindu Council.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lava_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Uttara Kanda, Valmiki marks the newborn twins with a kusha-grass protective rite. The first-born is rubbed with the blessed grass and called Kusha, and the second is dried with its roots and called Lava.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424840.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The twins were born at night while Rama's youngest brother Shatrughna happened to be staying in Valmiki's leaf hut, and young ascetics hurried to tell the sage that Sita had given birth to two sons.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424840.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Valmiki Ramayana says its verses fit three musical scales and a seven-note tune and can be sung with a stringed instrument, which is why Lava and Kusha could perform it as a song, not just recite it.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Valmiki stands before the assembly, vouches for Sita's purity and Rama acknowledges Kusha and Lava as his sons. Sita calls on Mother Earth, a throne rises on the hoods of nagas, and the Earth goddess takes her back into the ground.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424872.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The 1963 film Lava Kusa, with N. T. Rama Rao as Rama and Anjali Devi as Sita, was the first full-length colour film in Telugu cinema. Its soundtrack lists 27 songs and poems, mainly by Ghantasala, and it ran for 75 weeks.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lava_Kusa_(1963_film)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "While filming the 1963 Lava Kusa, the director had the child actors stand on small tables when Rama embraces the boys, so that they would match the tall star N. T. Rama Rao's height.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lava_Kusa_(1963_film)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia's Kusha article names his capital Kushasthali, but its Kushavati entry, citing C. V. Vaidya, places Kusha at Kushavati in the south on the Vindhya slopes, while Lava ruled the north from Shravasti.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kushavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One retelling of the Padma Purana's horse episode says Lava stops the sacrificial horse and fights Hanuman, who falls unconscious after his thrown tree is shot to pieces. Later Hanuman is bound until Sita orders everyone freed.",
+      "kind": "story",
+      "source": "https://hindupad.com/sri-ramas-war-lava-kusha/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A note in the English translation of Valmiki's Bala Kanda says the epic's 24,000 verses echo the 24 syllables of the Gayatri hymn, so the poem the twins sing is seen as built on that pattern.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Ananda Ramayana, the guardian goddess of Ayodhya appears before Kusha and describes the city as deserted and ruined. Kusha then marches out with his army to restore it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kusha_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's Raghuvamsa, Kusha marries Kumudvati, daughter of the naga chief Kumuda, and they have a son named Atithi.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kusha_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to Wikipedia's account, Lava and Kusha married twin daughters of the Trigarta king Bhurikirti: Lava wed Sumati and Kusha wed Champika.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Lava_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Rama offered the twins gold for singing the Ramayana, they declined, saying that grain and fruit were enough for life in the forest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lava_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Besides Sumati, Lava is said to have married a naga princess named Kanjanana. Kusha, in the Raghuvamsa, also marries a naga princess, Kumudvati.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Lava_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who taught Lava and Kusha to sing the Ramayana?",
+      "options": ["Hanuman", "Valmiki", "Vishvamitra", "Bharata"],
+      "answer": 1,
+      "why": "Valmiki raised them in his hermitage and taught them the epic."
+    },
+    {
+      "q": "What did the twins ask for instead of gold?",
+      "options": ["A horse", "Grain and fruit", "A palace", "A chariot"],
+      "answer": 1,
+      "why": "They declined gold and asked only for simple food."
+    },
+    {
+      "q": "Which Pakistani city is linked with Lava by legend?",
+      "options": ["Karachi", "Lahore", "Multan", "Peshawar"],
+      "answer": 1,
+      "why": "Legend says Lava founded Lavapuri, later called Lahore."
+    },
+    {
+      "q": "What plant gives Kusha his name in one story?",
+      "options": ["Tulsi", "Kusha grass", "Banyan", "Lotus"],
+      "answer": 1,
+      "why": "In the Kathasaritsagara, Kusha is made from kusha grass."
+    },
+    {
+      "q": "How many verses of the Ramayana did Valmiki teach the twins?",
+      "options": ["240", "2,400", "24,000", "240,000"],
+      "answer": 2,
+      "why": "Valmiki says his Ramayana has 24,000 verses, and he taught all of them to Lava and Kusha."
+    }
+  ],
+  "related": ["rama", "sita", "valmiki", "lakshmana", "bharata-ramayana", "shatrughna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lava_(Ramayana)",
+    "kusha": "https://en.wikipedia.org/wiki/Kusha_(Ramayana)",
+    "valmiki": "https://www.valmikiramayan.net/utf8/baala/sarga4/balasans4.htm",
+    "film": "https://en.wikipedia.org/wiki/Lava_Kusa_(1963_film)",
+    "kushavati": "https://en.wikipedia.org/wiki/Kushavati"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F7E9C6",
+    "c2": "#D6E6F0"
+  },
+  "order": 500
+}

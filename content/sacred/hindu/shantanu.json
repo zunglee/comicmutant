@@ -1,0 +1,276 @@
+{
+  "slug": "shantanu",
+  "name": "Shantanu",
+  "aka": ["Santanu", "Shantanu of Hastinapura"],
+  "native": "शान्तनु",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Kuru king of Hastinapura, father of Bhishma",
+  "summary": "Shantanu is the Kuru king of Hastinapura in the Mahabharata. He marries the river goddess Ganga, becomes the father of Bhishma and later marries Satyavati.",
+  "about": "In the Mahabharata, Shantanu is the youngest son of King Pratipa and a king of the Kuru line at Hastinapura. The epic says he met Ganga on a riverbank and married her on one condition: he must never question her actions. Their eight children were the Vasus, and the epic says the eighth became Bhishma. Later Shantanu falls in love with Satyavati, whose father asks that her sons should inherit the throne. Devavrata, Shantanu's son, then gives up his claim and takes a vow that earns him the name Bhishma. According to the epic, Shantanu gave him a boon that he could choose the time of his own death. Shantanu and Satyavati had two sons, Chitrangada and Vichitravirya. In the tradition, he was the king Mahabhisha in an earlier life.",
+  "kidSummary": "Shantanu was a king of the Kuru family in the Mahabharata. He married the river goddess Ganga and became the father of the great Bhishma. Later he married Satyavati. His story begins the family tree of the Pandavas and Kauravas.",
+  "story": [
+    {
+      "title": "A king and a river",
+      "text": "King Shantanu meets a beautiful woman on a riverbank. She is Ganga. She agrees to marry him if he never asks why she does what she does."
+    },
+    {
+      "title": "The silent king",
+      "text": "Ganga's first seven children are returned to the river, and Shantanu stays silent as he promised. When the eighth child is born, he finally cannot stay quiet."
+    },
+    {
+      "title": "The boy grows up",
+      "text": "Ganga explains the story and leaves with the child. Years later Shantanu sees a boy holding back the river with arrows. It is his son Devavrata."
+    },
+    {
+      "title": "The fisher chief's wish",
+      "text": "Shantanu follows a sweet scent and meets Satyavati. Her father asks that her children become kings. Devavrata, to help his father, gives up the throne."
+    },
+    {
+      "title": "A boon for a son",
+      "text": "Devavrata promises never to marry and is called Bhishma. Shantanu is moved and gives him a boon: he can choose the moment of his own death."
+    }
+  ],
+  "teaches": ["Keeping a promise", "A child's love and sacrifice for a parent", "Gentle patience"],
+  "symbol": "wave",
+  "emblems": ["River Ganga", "Hastinapura throne"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Pratipa"
+    },
+    {
+      "relation": "Wife",
+      "name": "Ganga",
+      "slug": "ganga"
+    },
+    {
+      "relation": "Wife",
+      "name": "Satyavati",
+      "slug": "satyavati"
+    },
+    {
+      "relation": "Son",
+      "name": "Bhishma",
+      "slug": "bhishma"
+    },
+    {
+      "relation": "Son",
+      "name": "Chitrangada (Shantanu's son)"
+    },
+    {
+      "relation": "Son",
+      "name": "Vichitravirya"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)"],
+  "places": ["Hastinapura", "Yamuna riverbank"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name is explained in the Sambhava Parva: old men of his kingdom whom he touched felt great pleasure and became young again. Another account says Pratipa chose the name because, when the boy was born, Pratipa had calmed his passions through penance.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After Ganga left, Shantanu gave up hunting and lived with discipline. The Mahabharata says he conquered the whole world without lifting a weapon, and the kings accepted him as emperor.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Adi Parva, Shantanu was Mahabhisha in an earlier life, a king of the Ikshvaku line who had performed a thousand Ashvamedha and a hundred Rajasuya sacrifices.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Adi Parva, Brahma cursed Mahabhisha to be reborn on earth after he kept gazing at Ganga when the wind blew her clothes aside in Brahma's court. Ganga was cursed to live as a human until she broke Mahabhisha's heart.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Pratipa refused Ganga because she had sat on his right thigh, the seat reserved for a daughter or daughter-in-law. He offered her his son Shantanu instead, and she agreed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Adi Parva, one day Shantanu found the river Ganga strangely shallow. Following it, he met a handsome boy who had dammed its flow with a divine weapon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brihaddevata says that after Devapi left the throne, the Kuru land had no rain for twelve years. Shantanu begged Devapi to return as king, but Devapi agreed only to serve as his priest and perform a rain sacrifice. The Rigveda also mentions the rite.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Devapi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata and Matsya Puranas say Shantanu's eldest brother Devapi is still alive, at a place called Kalapagrama, and will revive the Paurava dynasty in the next Satya Yuga.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Devapi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu Purana gives a different reason for the Kuru drought. Ministers say the gods were displeased that Shantanu ruled in place of his elder brother, and rain fell once Devapi was declared unfit.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devapi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Reading the name-explanation in the Adi Parva, the scholar Nityananda Mishra glosses Shantanu as 'one who raises happiness in others'. Monier-Williams reads the Sanskrit as 'wholesome for the body'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Adi Parva, the Vasu Prabhasa, cursed to live long without wife or children, was also promised virtue, mastery of scripture and obedience to his father, qualities of the future Bhishma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vasus' name means 'bright ones'. In the Mahabharata's list of the eight, Prabhasa, the one who became Bhishma, is the Vasu linked with the sky or ether.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vasu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shantanu's boon of choosing his time of death mattered at the end of the war. Bhishma kept it so that he would live until Hastinapura was safe, and he died on the first day of Uttarayana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Bhishma's many epithets name his father, among them Shantanava, Shantanuputra and Shantanusuta, which all mean son of Shantanu. Others honour his mother Ganga.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, the Vasus were cursed after Prabhasa's wife wanted the sage Vasishtha's divine cow and Prabhasa took it with his brothers' help. That curse sent them to Shantanu and Ganga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vasu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hastinapura, Shantanu's capital, means 'city of elephants'. Its name is said to come from King Hasti, and the modern town of Hastinapur lies on the Ganga in Meerut district.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hastinapur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says a great Ganga flood once washed away part of Hastinapura, after which the capital moved to Kaushambi. Excavator B. B. Lal found a flood scar there and thought the story may have a historical basis.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hastinapur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Digs at Hastinapur have found charred rice from a layer dated roughly 1500 to 1000 BCE, among the earliest archaeological evidence of rice farming in the subcontinent.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hastinapur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hastinapur is sacred to Jains as the birthplace of three Tirthankaras, Shantinatha, Kunthunatha and Aranatha, so Shantanu's old capital matters in two traditions.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hastinapur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After crowning Devavrata heir and holding seven Ashvamedha sacrifices on the Yamuna with his help, Shantanu met Satyavati by the same river four years later.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantanu",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which river goddess did Shantanu marry?",
+      "options": ["Yamuna", "Saraswati", "Ganga", "Godavari"],
+      "answer": 2,
+      "why": "Shantanu married Ganga on a riverbank."
+    },
+    {
+      "q": "What was Ganga's condition for marrying Shantanu?",
+      "options": [
+        "He must give her a crown",
+        "He must never ask her about her actions",
+        "He must live by the sea",
+        "He must build her a palace"
+      ],
+      "answer": 1,
+      "why": "He had to stay silent about what she did."
+    },
+    {
+      "q": "What name did Devavrata get after his vow?",
+      "options": ["Bhishma", "Karna", "Vidura", "Drona"],
+      "answer": 0,
+      "why": "Bhishma means one who made a terrible vow."
+    },
+    {
+      "q": "Which boon did Shantanu give Bhishma?",
+      "options": [
+        "He could fly",
+        "He could die only when he chose",
+        "He would never be hungry",
+        "He would become a king"
+      ],
+      "answer": 1,
+      "why": "Bhishma could decide the time of his own death."
+    },
+    {
+      "q": "Who was Shantanu's second wife?",
+      "options": ["Gandhari", "Kunti", "Satyavati", "Madri"],
+      "answer": 2,
+      "why": "He met Satyavati near the Yamuna."
+    }
+  ],
+  "related": [
+    "ganga",
+    "satyavati",
+    "bhishma",
+    "vyasa",
+    "vasishtha",
+    "parashurama",
+    "dhritarashtra",
+    "pandu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shantanu",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata",
+    "pratipa": "https://en.wikipedia.org/wiki/Pratipa",
+    "devapi": "https://en.wikipedia.org/wiki/Devapi",
+    "satyavati": "https://en.wikipedia.org/wiki/Satyavati"
+  },
+  "palette": {
+    "c1": "#a9c6d8",
+    "c2": "#f1ecd9"
+  },
+  "depth": "full",
+  "order": 580
+}

@@ -1,0 +1,298 @@
+{
+  "slug": "ravana",
+  "name": "Ravana",
+  "aka": ["Dashanana", "Dashagriva", "Lankapati", "Lankeshwara", "Ravanasura"],
+  "native": "रावण",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Learned king of Lanka, an asura in the Ramayana",
+  "summary": "Ravana is the ten-headed rakshasa king of Lanka in the Ramayana, remembered as a mighty ruler, a scholar and a devotee of Shiva. In the epic his abduction of Sita leads to the war with Rama.",
+  "about": "In the Valmiki Ramayana Ravana is the son of the sage Vishrava and Kaikasi, a rakshasa princess (some Puranic accounts call her a Daitya), and the king of Lanka. Texts say he won a boon from Brahma after long penance, which made him safe from almost every being except humans. Tradition remembers him as a gifted scholar, a musician and a devoted worshipper of Shiva, and credits him with works on astrology and medicine. In the epic he takes Sita from the forest, and the war that follows ends with Rama defeating him. Retellings differ widely. The Bhagavata Purana sees him as a cursed gatekeeper of Vishnu, Jain texts make him a prati-Vasudeva slain by Lakshmana, the Thai Ramakien calls him Thotsakan, and some communities in India and Sri Lanka honour him. Every year at Dussehra, effigies of him are burned across northern India.",
+  "kidSummary": "Ravana is the king of Lanka in the Ramayana. People remember him with ten heads, a great mind and a mighty voice. Stories say he loved Shiva and wrote music for him. But he took Sita from Rama, and that led to a big war. His story reminds us that talent needs kindness too.",
+  "story": [
+    {
+      "title": "A long penance",
+      "text": "In the Valmiki Ramayana, young Ravana and his brothers pray for thousands of years. Brahma is pleased and grants Ravana protection from nearly every creature, but Ravana does not ask for safety from humans."
+    },
+    {
+      "title": "King of Lanka",
+      "text": "Ravana becomes a powerful king of golden Lanka. Texts say he is learned, loves music and prays to Shiva, but his pride grows with his strength."
+    },
+    {
+      "title": "Under the mountain",
+      "text": "Later traditions tell how Ravana tried to lift Mount Kailash. Shiva pressed it down gently with a toe, and Ravana sang in praise of Shiva until he was forgiven."
+    },
+    {
+      "title": "Sita is taken",
+      "text": "In the epic, Ravana disguises himself and carries Sita off to Lanka after the golden deer draws Rama away. His wise relatives plead with him to return her."
+    },
+    {
+      "title": "The great war",
+      "text": "Rama, Lakshmana and the vanara army cross the sea and fight at Lanka. In the Valmiki Ramayana, Rama defeats Ravana, and Vibhishana is crowned king."
+    }
+  ],
+  "teaches": [
+    "Pride can undo even great gifts",
+    "Listen when wise friends and family give advice",
+    "Respect every person's choice and safety"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Ten heads", "Chandrahasa sword", "Pushpaka Vimana", "Ravanahatha"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Mandodari",
+      "slug": "mandodari"
+    },
+    {
+      "relation": "Son",
+      "name": "Indrajit",
+      "slug": "indrajit"
+    },
+    {
+      "relation": "Brother",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Brother",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Sister",
+      "name": "Shurpanakha",
+      "slug": "shurpanakha"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Kubera",
+      "slug": "kubera"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Bhagavata Purana",
+    "Shiva Tandava Stotra",
+    "Thai Ramakien",
+    "Krittivasi Ramayan"
+  ],
+  "places": [
+    "Lanka",
+    "Mandore, Jodhpur",
+    "Kakinada Ravana Temple",
+    "Ravaleshwara temple, Malavalli",
+    "Chapra, Bihar"
+  ],
+  "festivals": ["Dussehra", "Vijayadashami", "Ramlila"],
+  "facts": [
+    {
+      "text": "Dashanana, meaning ten-faced, was a title he took later. He is usually drawn with ten heads, though sometimes nine, because tradition says he cut one off to please Shiva.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits Ravana with the Shiva Tandava Stotra, a Sanskrit hymn of 17 stanzas. It is said he sang it while trapped under Mount Kailash, and Shiva then gave him the Chandrahasa sword.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Gupta-era sculpture type called Ravananugraha shows Ravana beneath Mount Kailash making an instrument out of his own heads and arms to please Shiva.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Tradition credits Ravana with the Ravana Samhita on astrology and the Arka Prakasha on distillation, and Ayurveda honours him as a pioneer of preparing medicines.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The ravanahatha, a bowed string instrument still played by Rajasthani street musicians, is traditionally credited to Ravana. Its body is a coconut shell or gourd covered with hide.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ravanahatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some writers suggest Arab traders carried the bowed ravanahatha from India to the Near East between the 7th and 10th centuries, where it became a model for the rebab and other early ancestors of the violin family.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ravanahatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sri Lanka's first satellite was named Raavana-1 after him. It was a tiny cube of about one kilogram, launched on 17 April 2019 and released from the space station that June.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Raavana_1",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The builders first wanted to call it Dadu Monara, a flying machine from Sri Lankan folklore, but picked Ravana because the first name was hard for many people to pronounce.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Raavana_1",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Ravana and Kumbhakarna were once Jaya and Vijaya, gatekeepers of Vishnu's home, cursed to be born as his opponents. They accepted three such births to return to him sooner.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ravana is said to have fought the Nivatakavacha demons for a year, then made peace and learned the art of illusion from them after Brahma stepped in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts place Ravana as the prati-Vasudeva of the eighth Rama, and in them Lakshmana, not Rama, brings his reign to an end.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jain_Ramayana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien he is Thotsakan, meaning ten necks, with green skin, ten faces and twenty arms. A giant Thotsakan statue guards Bangkok's Wat Phra Kaew.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Thotsakan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Gondi people of central India regard Ravana as an ancestor. At Dussehra in Paraswadi they carry his image on an elephant instead of burning it.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Ravana temple in Kanpur opens its doors only once a year, on Dussehra. Other shrines for him stand at Mandore near Jodhpur, Kakinada in Andhra Pradesh and Malavalli in Karnataka.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One story says Shiva gave him the name Ravana, meaning the one who cried, after he let out a loud cry of pain while trapped beneath Mount Kailash.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki's final duel, each time Rama cut off one of Ravana's heads, another grew in its place, and the chariot fight is said to have gone on for seven days.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga107/yuddhaitrans107.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before the war, the vulture Jatayu fought Ravana in the sky. He shattered Ravana's bow and chariot, until the enraged Ravana cut off his wings.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga51/aranyaitrans51.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tales of the sage Vedavati say Ravana pressed her to marry him and she refused, vowed to be reborn as the cause of his fall, and entered a sacred fire. Several Puranas link her rebirth to Sita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vedavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Uttara Kanda tellings say the thousand-armed king Kartavirya Arjuna beat young Ravana on the Narmada, then freed him when Ravana's grandfather Pulastya asked. Another account says he was held captive at Mahishmati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartavirya_Arjuna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana says Ravana held Sita in the Ashoka Vatika, a garden grove in Lanka guarded by rakshasis. It is the place where Hanuman later finds her.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sampati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Texts say Kubera once ruled Lanka until his half-brother Ravana drove him out and took the Pushpaka Vimana, the flying chariot. It went back to Kubera after Ravana's death.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ravana usually mean?",
+      "options": ["The roaring one", "The golden king", "The gentle sage", "The wise archer"],
+      "answer": 0,
+      "why": "Ravana is usually read as roaring."
+    },
+    {
+      "q": "Which hymn to Shiva is traditionally credited to Ravana?",
+      "options": [
+        "Gayatri Mantra",
+        "Shiva Tandava Stotra",
+        "Hanuman Chalisa",
+        "Vishnu Sahasranama"
+      ],
+      "answer": 1,
+      "why": "Tradition says he sang it beneath Mount Kailash."
+    },
+    {
+      "q": "Which string instrument is traditionally linked to Ravana?",
+      "options": ["Sitar", "Tabla", "Ravanahatha", "Flute"],
+      "answer": 2,
+      "why": "The bowed ravanahatha is still played in Rajasthan."
+    },
+    {
+      "q": "What was Sri Lanka's first satellite named?",
+      "options": ["Chandra", "Lanka-One", "Pushpaka", "Raavana-1"],
+      "answer": 3,
+      "why": "It was named after the legendary king Ravana."
+    },
+    {
+      "q": "What is the Thai name for Ravana in the Ramakien?",
+      "options": ["Thotsakan", "Hanuman", "Intharachit", "Phiphek"],
+      "answer": 0,
+      "why": "Thotsakan means ten necks."
+    }
+  ],
+  "related": [
+    "rama",
+    "sita",
+    "mandodari",
+    "kumbhakarna",
+    "indrajit",
+    "vibhishana",
+    "shurpanakha",
+    "maricha",
+    "shiva",
+    "kubera"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravana",
+    "tandava": "https://en.wikipedia.org/wiki/Shiva_Tandava_Stotra",
+    "ravanahatha": "https://en.wikipedia.org/wiki/Ravanahatha",
+    "valmiki": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#C9A9A6",
+    "c2": "#E8D5B5"
+  },
+  "order": 10
+}

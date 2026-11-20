@@ -1,0 +1,278 @@
+{
+  "slug": "markandeya",
+  "name": "Markandeya",
+  "aka": ["Markandeya Rishi", "Chiranjivi Markandeya"],
+  "native": "मार्कण्डेय",
+  "role": "Sage said to stay sixteen forever by Shiva's grace",
+  "summary": "Markandeya is a sage of the Puranas, fated to die at sixteen, who is said to have been saved by Shiva. The Markandeya Purana, which holds the Devi Mahatmya, is named after him.",
+  "about": "Markandeya is a sage born to Mrikandu and Manasvini, and in many Hindu accounts he is counted among the Chiranjivi, beings said to live on. According to the story, his parents prayed to Shiva for a son and were given the choice between a short-lived, virtuous child and a long-lived dull one; they chose the first. Markandeya was destined to die at sixteen. Tradition says that as his time came he clung to a Shiva lingam, and when Yama's noose fell on both, Shiva appeared in anger, earning the name Kalantaka. Shiva then blessed him to remain sixteen. The Bhagavata Purana tells of his long devotion, an attempt by Indra to disturb him that failed, and a vision of the world's dissolution in which he sees a child on a banyan leaf. The Markandeya Purana is named after him, and in the Mahabharata he tells Yudhishthira the story of Savitri. Several temples across India claim to be the site of his rescue.",
+  "kidSummary": "Markandeya is a young sage in Hindu stories who was meant to live only sixteen years. He prayed to Shiva with all his heart, and many Puranas say Shiva blessed him to stay sixteen forever. A Purana named after him holds the story of the goddess Durga.",
+  "story": [
+    {
+      "title": "A special son",
+      "text": "Hindu tradition says Mrikandu and his wife prayed to Shiva for a child. They chose a kind, wise son who would live a short life, and Markandeya was born."
+    },
+    {
+      "title": "The sixteenth year",
+      "text": "Markandeya grew up learning the Vedas. When he heard that his sixteenth year would be his last, he did not despair but went to pray at a Shiva lingam."
+    },
+    {
+      "title": "Yama arrives",
+      "text": "As Yama came to claim him, Markandeya held the lingam tight. Yama's noose fell around both of them."
+    },
+    {
+      "title": "Shiva steps out",
+      "text": "The stories say Shiva came out of the lingam to protect his devotee, and gave Markandeya the blessing of staying sixteen forever."
+    },
+    {
+      "title": "A vision of the flood",
+      "text": "The Bhagavata Purana tells that Markandeya later saw a flooded universe and a small child resting on a banyan leaf. Inside the child he saw the whole world."
+    }
+  ],
+  "teaches": [
+    "Faith can bring courage when times are hard",
+    "Keep learning, whatever your age",
+    "Look beyond what first appears"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Shiva lingam", "Banyan leaf", "Noose of Yama"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Mrikandu"
+    },
+    {
+      "relation": "Mother",
+      "name": "Manasvini"
+    },
+    {
+      "relation": "Rescued by",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Met",
+      "name": "Yama",
+      "slug": "yama"
+    }
+  ],
+  "texts": [
+    "Markandeya Purana",
+    "Devi Mahatmya",
+    "Bhagavata Purana, Book 12",
+    "Mahabharata, Vana Parva"
+  ],
+  "places": [
+    "Tirukkadaiyur, Tamil Nadu",
+    "Kaithi, Varanasi",
+    "Parli Vaijnath, Maharashtra",
+    "Markandeya Tirtha, Uttarkashi"
+  ],
+  "festivals": ["Shashtiabdapurti birthday rites"],
+  "facts": [
+    {
+      "text": "In the story, Shiva offers Mrikandu a choice of a good son with a short life or a dull son with a long one, and Mrikandu picks the good son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Yama threw his noose it is said to have caught both the boy and the lingam he was hugging, and Shiva then burst out to defend his devotee.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the story, after Shiva struck down Yama, the devas asked him to revive Yama, and Shiva agreed on one condition: that Markandeya would stay sixteen forever.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Tirukkadaiyur in Tamil Nadu, the temple's Shiva icon is shown with a raised forefinger, said to warn Yama away.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Thirukkadaiyur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Markandeya Purana, the sage Jaimini asks Markandeya questions the Mahabharata left open, and Markandeya sends him to four wise birds in the Vindhya hills.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says Indra, worried by Markandeya's power, sent Kamadeva with dancers and a spring breeze, but they left when they could not disturb him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/8/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata, the flood vision shows Markandeya alone in the ocean of dissolution, seeing a baby on a banyan leaf. When he steps into the child he sees the whole universe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "After the flood vision, Shiva and Parvati appear before the sage. Markandeya asks that devotees of both Vishnu and Shiva be blessed, and Shiva agrees, adding that Markandeya will be immortal, will earn great merit and will be credited with writing a Purana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits Markandeya with the Chandrashekhara Ashtakam, a hymn he is said to have sung in thanks to Shiva; each verse ends by asking what Yama can do to one who takes refuge in the moon-crested lord.",
+      "kind": "art",
+      "source": "https://hindupedia.com/en/Chandra_shekahrashtakam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Devi Mahatmya's opening in the Markandeya Purana explains why people care for others by pointing to hungry birds who still drop grains into their chicks' beaks.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Many places claim to be where Shiva saved Markandeya: Kaithi in Varanasi, Triprangode in Kerala, Parli in Maharashtra, and Thirukkadaiyur or Thiruvanmiyur in Tamil Nadu.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Khandya in Chikmagalur, Karnataka, the local legend says Markandeya clung to the lingam, and devotees point to marks of a child clinging on. The village name is said to be short for his.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's forest book, the exiled Yudhishthira, restless after losing the dice game, seeks out Markandeya, because the sage had lived through the great deluge and could offer a longer view of life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Most lists of Hindu immortals name seven. The hymn that names eight adds Markandeya, beside Hanuman, Vyasa, Parashurama and others, and promises a long life free of illness to anyone who remembers them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chiranjivi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The word chiranjivi means one who lives for a whole age, until the end of the current epoch, which is different from living forever.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chiranjivi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Tirukkadaiyur, the temple story says Markandeya brought water from the Ganges to the Shiva lingam through an underground passage.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Thirukkadaiyur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A complete palm-leaf manuscript of the Markandeya Purana was found in Nepal and has been dated to 998 CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A temple inscription near Jodhpur dated to 608 CE quotes a verse from the Devi Mahatmya, which shows that part of the Markandeya Purana was already known by the early 600s.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Unlike many Puranas, the Markandeya Purana favours no single god; scholars note that prayers to a deity are rare in it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the Markandeya Purana has 9,000 verses, but the surviving manuscripts hold about 6,900, because some 2,100 verses moved into the Devi Bhagavatam.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sikh scripture Dasam Granth includes Chandi Charitar Ukati Bilas, a retelling drawn from the Markandeya Purana, so its goddess story travelled across traditions.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After killing Yama in the story and reviving him, Shiva is given the title Kalantaka, the one who ends time and death.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "At what age was Markandeya fated to die?",
+      "options": ["Ten", "Sixteen", "Twenty-five", "Sixty"],
+      "answer": 1,
+      "why": "The stories say he was destined to die at sixteen."
+    },
+    {
+      "q": "The Devi Mahatmya, found inside the Markandeya Purana, praises which divine figure?",
+      "options": ["The Goddess, in her form as Durga", "Hanuman", "Ganesha", "Surya"],
+      "answer": 0,
+      "why": "It is the Purana's famous section of praise for the Goddess, recited at Durga Puja."
+    },
+    {
+      "q": "Whom do many say came out of the lingam to protect him?",
+      "options": ["Brahma", "Shiva", "Indra", "Agni"],
+      "answer": 1,
+      "why": "Shiva appeared and blessed him."
+    },
+    {
+      "q": "What did Markandeya see resting on a banyan leaf?",
+      "options": ["A fish", "A baby", "A bird", "A lamp"],
+      "answer": 1,
+      "why": "The Bhagavata describes a radiant child."
+    },
+    {
+      "q": "In which Tamil Nadu village is a famous temple of his rescue?",
+      "options": ["Tirukkadaiyur", "Madurai", "Kanchi", "Tanjore"],
+      "answer": 0,
+      "why": "Tirukkadaiyur's temple is known for long-life rites."
+    }
+  ],
+  "related": ["shiva", "yama", "durga", "kamadeva", "indra", "savitri", "dhruva", "vyasa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Markandeya",
+    "markandeya_purana": "https://en.wikipedia.org/wiki/Markandeya_Purana",
+    "tirukkadaiyur": "https://en.wikipedia.org/wiki/Thirukkadaiyur",
+    "chiranjivi": "https://en.wikipedia.org/wiki/Chiranjivi",
+    "bhagavata_12_8": "https://vedabase.io/en/library/sb/12/8/",
+    "savitri": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+    "amritaghateswarar": "https://en.wikipedia.org/wiki/Amritaghateswarar-Abirami_Temple"
+  },
+  "palette": {
+    "c1": "#B7D4C4",
+    "c2": "#E5EFD9"
+  },
+  "order": 30,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

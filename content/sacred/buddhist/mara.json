@@ -1,0 +1,244 @@
+{
+  "slug": "mara",
+  "name": "Mara",
+  "aka": ["Mara the Tempter", "Namuci", "Vasavartin"],
+  "native": "मार",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Tempter figure and personification of obstacles in Buddhist texts",
+  "summary": "In Buddhist texts Mara is a being of the desire realm who tests the Buddha, and the word also stands for anything that blocks awakening, from death to unhelpful feelings.",
+  "about": "In Buddhist texts, Mara is a deva of the sensuous realm who tried to turn the Buddha away from awakening. The word comes from a root linked to dying, and the idea of death as a being, Mrtyu, appears even earlier in the Atharva Veda. Buddhist tradition counts four kinds of Mara: unhelpful emotions, death, the aggregates that make up a person, and the deva himself. Early Buddhism read him both as a literal being and as a picture of inner struggle. Stories say his three daughters and his army also failed to move the Buddha, and later tales have him taking refuge.",
+  "kidSummary": "In Buddhist stories, Mara is a being who tries to tempt the Buddha away from finding wisdom. The Buddha stays calm and kind, and nothing Mara tries works. Mara can also stand for the worries and cravings in our own minds.",
+  "story": [
+    {
+      "title": "Under the tree",
+      "text": "The Buddha sits under the bodhi tree. Buddhist texts say Mara arrives with a great army, hoping to make him leave."
+    },
+    {
+      "title": "Calm as a mountain",
+      "text": "The Buddha does not fight back or get angry. He stays still and kind, and the army cannot shake him."
+    },
+    {
+      "title": "Touching the earth",
+      "text": "The Buddha touches the ground with his right hand, asking the earth to witness what he has done. This pose is shown in many statues."
+    },
+    {
+      "title": "The daughters try",
+      "text": "Mara's three daughters come next, called Craving, Discontent and Passion. The Buddha stays free, and they leave."
+    },
+    {
+      "title": "A lesson inside",
+      "text": "Teachers say Mara also stands for the doubts and wants inside everyone. The Buddha shows how to notice them and let them go."
+    }
+  ],
+  "teaches": [
+    "Stay calm when tempted",
+    "Notice your wants and worries without being ruled by them",
+    "Kindness is stronger than anger"
+  ],
+  "symbol": "tree",
+  "emblems": [
+    "Army of Mara",
+    "Elephant Girimekhala (Sri Lankan tradition)",
+    "Earth-touching pose (the Buddha's reply)"
+  ],
+  "family": [
+    {
+      "relation": "Daughters",
+      "name": "Tanha, Arati and Raga"
+    }
+  ],
+  "texts": [
+    "Samyutta Nikaya 4 (Mara Samyutta)",
+    "Brahmanimantanika Sutta",
+    "Denkoroku",
+    "Jingde Records"
+  ],
+  "places": ["Bodh Gaya", "Mogao Caves, Dunhuang (art)"],
+  "festivals": ["Bodhi Day (Buddha's awakening)"],
+  "facts": [
+    {
+      "text": "In the Padhana Sutta story, the commentary says Mara's lute slipped from his arm in grief when he gave up, and Sakka picked it up and gave it to the music-god Pancasikha.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some Sri Lankan traditions say Mara rides Girimekhala, a huge black elephant about 250 yojanas tall; the Pali dictionary says 150 leagues.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mara_(demon)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Once Mara entered the brahmin householders of Pancasala so the Buddha got no alms; the Buddha went back with an empty bowl and said he would live that day on joy.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pali dictionary says the temptation under the bodhi tree is commonly read as the Buddha's old doubts and cravings returning at full strength before he won through by sunset.",
+      "kind": "teaching",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A commentary calls Mara a deva of the Vasavatti heaven who thinks he rules the world of sense pleasures and sees anyone curbing them as a challenge to his rule.",
+      "kind": "text",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Mara's three daughters are Tanha, Arati and Raga, meaning thirst, discontent and passion; in SN 4.25 the Buddha answers each, then dismisses them as easily as wind blows away a tuft of cotton.",
+      "kind": "story",
+      "source": "https://dhammatalks.org/suttas/SN/SN4_25.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Chan story, Mara hangs a jade necklace on the monk Upagupta, who answers with a garland of corpses; Mara repents, takes refuge in the Three Jewels and vows never to harm the Dharma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mara_(demon)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the commentary, Mara's last weapon, a spinning discus, turned into a canopy of flowers above the Buddha instead of striking him.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Thai and other temple art, the earth goddess Thorani wrings floodwater from her hair, and the flood washes Mara's army away.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Phra_Mae_Thorani",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Padhana Sutta (Sn 3.2), Mara's ten armies include sensual desire, discontent, hunger and thirst, craving, drowsiness, fear and doubt; the last is praising yourself and belittling others.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.3.02.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Soon after awakening, Mara urged the Buddha to pass away at once and was refused; near the end of his life the Buddha told him to relax, as he would pass away in three months.",
+      "kind": "story",
+      "source": "https://www.dhammatalks.org/suttas/DN/DN16.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Padhana Sutta (Sn 3.2) he is named Namuci and the Dark One; he visits the thin, worn-out Buddha-to-be by the Neranjara River and urges him in kind-sounding words to stay alive.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.3.02.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After watching for seven years for a slip, Mara gives up, the commentary says, like a crow that attacked a rock and found nothing to eat.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mara once took the shape of a bullock and smashed the monks' bowls set out to dry; another time he came as a peasant asking about his lost oxen to break a talk on nibbana.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the commentary Mara challenges the Buddha's right to his seat and his followers all shout it is Mara's; with no other witness the Buddha calls on the Earth, which roars in answer, and Mara flees.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the later accounts Mara's army stretched twelve leagues in front of the Buddha-to-be, twelve behind and nine to each side, and Mara himself had a thousand arms.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Late commentaries say that as Prince Gotama left his palace, Mara, called Vasavatti there, promised him the whole world within seven days if he would only turn back.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mara once tempted the Buddha with a fine-sounding offer: use power to rescue people suffering under cruel rulers, a way to lure him from his path through a good-looking aim.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Pali dictionary says Mara once took the shape of a huge elephant to try to frighten the young monk Rahula.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/mara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mara's epithet Papiyan marks him as more than wicked, a being tied to sorrow, pain and misfortune; the Atharva Veda already names a death figure, Mrtyu.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Mara_(demon)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the Buddha do in the earth-touching pose?",
+      "options": ["Raises both arms", "Touches the ground", "Plays a drum", "Holds a lotus"],
+      "answer": 1,
+      "why": "His right hand touches the earth as a witness."
+    },
+    {
+      "q": "What are the names of Mara's daughters about?",
+      "options": [
+        "Fear, doubt, anger",
+        "Craving, discontent, passion",
+        "Pride, envy, greed",
+        "Sleep, hunger, thirst"
+      ],
+      "answer": 1,
+      "why": "Tanha, Arati and Raga mean thirst, discontent and passion."
+    },
+    {
+      "q": "What does the word Mara link to?",
+      "options": ["Mountains", "Dying", "Singing", "Gardens"],
+      "answer": 1,
+      "why": "It comes from a root linked to dying."
+    },
+    {
+      "q": "Which animal does Mara ride in some Sri Lankan stories?",
+      "options": ["A tiger", "A black elephant", "A lion", "A horse"],
+      "answer": 1,
+      "why": "The elephant is called Girimekhala."
+    }
+  ],
+  "related": ["gautama-buddha", "ananda", "ashoka"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mara_(demon)",
+    "samyutta": "https://dhammatalks.org/suttas/SN/SN4_25.html",
+    "dppn": "https://aimwell.org/DPPN/mara.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e2ddef",
+    "c2": "#dfe9ec"
+  },
+  "order": 40
+}

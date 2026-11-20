@@ -1,0 +1,281 @@
+{
+  "slug": "rahu-and-ketu",
+  "name": "Rahu and Ketu",
+  "aka": ["Svarbhanu"],
+  "native": "राहु और केतु",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Head and tail of an asura; the eclipse shadow planets",
+  "summary": "In the Puranas, the asura Svarbhanu drank the nectar of immortality in secret and was cut in two. His head became Rahu and his body Ketu. Hindu tradition links them to eclipses.",
+  "about": "Rahu and Ketu are two of the nine Navagraha in Hindu tradition. Many Puranas say they began as one asura, Svarbhanu, who sat among the devas during the churning of the ocean and drank some amrita. The sun and moon noticed and told Vishnu, who as Mohini cut off his head with the Sudarshana chakra. Since he had already tasted the nectar, the head lived on as Rahu and the body as Ketu. The Puranas say Rahu chases the sun and moon to take revenge, and that his attempts to swallow them explain eclipses. In astronomy and astrology, the two are the lunar nodes, the points 180 degrees apart where the moon's path crosses the sun's, and are called shadow planets. Buddhist texts tell of Rahu seizing the sun and moon too, and the Buddha's verse makes him let go.",
+  "kidSummary": "Rahu and Ketu come from an old story about an asura who sneaked a sip of the magic drink of immortality. Vishnu cut him in two, but the sip kept both parts alive. The head is called Rahu and the body is Ketu. Hindu tradition says Rahu chases the sun and moon, which is how old stories explain eclipses.",
+  "story": [
+    {
+      "title": "The churning of the ocean",
+      "text": "Devas and asuras churned the ocean of milk to win amrita, the drink of immortality. The devas were to drink it first."
+    },
+    {
+      "title": "An uninvited sip",
+      "text": "An asura named Svarbhanu disguised himself as a deva and sat in the row. He drank some amrita before anyone noticed."
+    },
+    {
+      "title": "The sun and moon tell",
+      "text": "Surya and Chandra, the sun and moon gods, saw through the disguise and quickly told Mohini, the female form of Vishnu."
+    },
+    {
+      "title": "Cut in two",
+      "text": "Mohini used the Sudarshana chakra to cut off his head. He had already swallowed some amrita, so in many tellings both parts lived on. The head is Rahu, and the body is Ketu."
+    },
+    {
+      "title": "Why eclipses happen",
+      "text": "Rahu is said to chase the sun and moon to take revenge. When he swallows one, there is an eclipse, and the sun or moon soon shines again."
+    }
+  ],
+  "teaches": [
+    "Secrets taken by trickery bring trouble with them",
+    "Even the heavens follow a pattern of return and change",
+    "Let go of what is not yours"
+  ],
+  "symbol": "moon",
+  "emblems": [
+    "Severed head (Rahu)",
+    "Headless body with serpent tail (Ketu)",
+    "Lion or chariot (Rahu's mount)",
+    "Vulture (Ketu's mount)"
+  ],
+  "family": [
+    {
+      "relation": "Parents (in some Puranas)",
+      "name": "Viprachitti and Simhika"
+    },
+    {
+      "relation": "Cut by",
+      "name": "Vishnu as Mohini",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Exposed by",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Exposed by",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Messenger of",
+      "name": "Jalandhara",
+      "slug": "jalandhara"
+    }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Bhagavata Purana (Canto 8)",
+    "Vishnu Purana",
+    "Rigveda",
+    "Chandogya Upanishad",
+    "Shiva Purana (Jalandhara)",
+    "Valmiki Ramayana (Hanuman)",
+    "Candima and Suriya Suttas (Pali Canon)"
+  ],
+  "places": [
+    "Srikalahasti Temple, Andhra Pradesh",
+    "Naganathaswamy Temple, Thirunageswaram, Tamil Nadu",
+    "Nagannathaswamy Temple, Keezhaperumpallam, Tamil Nadu"
+  ],
+  "festivals": ["Surya Grahan and Chandra Grahan (eclipses)", "Rahu Kalam observances"],
+  "facts": [
+    {
+      "text": "Rahu and Ketu are two of the nine Navagraha. Rahu is the ascending lunar node and Ketu the descending one, always 180 degrees apart. They slip backwards round the sky, finishing a full circle in about 18.6 years.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lunar_node",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 18.6-year node cycle shows up in tides too. NOAA's tidal datum uses a 19-year epoch, the nearest whole-year count to the cycle.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lunar_node",
+      "interest": 8
+    },
+    {
+      "text": "The Brahmanas say that when Svarbhanu pierced the sun with darkness, the gods freed it using svara, the accents of chanted sound.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Svarbhanu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Because Rahu is only a head with no body, the sun and moon slip out of his throat when he swallows them. That is why, in the story, eclipses always end.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Rahu Kalam is a daily stretch of time said to fall under Rahu's influence. Many families treat it as an unlucky time to start something new.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ketu's consorts are named as Chitralekha and Dhoomra, and because eclipses happen when the sun and moon line up with the nodes, Ketu is believed to cause lunar eclipses.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ketu_(mythology)",
+      "interest": 7
+    },
+    {
+      "text": "Ketu rides a vulture and is linked with moksha (liberation), renunciation, self-realization and knowledge. He is often called the most spiritual of the planets.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ketu_(mythology)",
+      "interest": 7
+    },
+    {
+      "text": "Ketu is shown as a headless body, which is read as a sign of giving up worldly senses.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ketu_(mythology)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One later telling says Svarbhanu shot the sun and moon with arrows and the sage Atri revived them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Svarbhanu",
+      "interest": 8
+    },
+    {
+      "text": "Rahu is already named in the Chandogya Upanishad as a shadow linked to eclipses and meteors, long before the Navagraha were fixed. By about the 8th or 9th century CE he and Ketu were firmly counted as shadow grahas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 8
+    },
+    {
+      "text": "The Rigveda names the asura Svarbhanu, who darkened the sun until the sage Atri found the hidden sun and set it back in the sky. Svarbhanu appears in it twice.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Svarbhanu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a tale from the Valmiki Ramayana, baby Hanuman tried to eat Rahu too. Rahu ran to Indra to complain, and Indra's thunderbolt struck Hanuman on the jaw (hanu in Sanskrit).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In the Jalandhara story, Shiva's lion-faced creature seizes Rahu after he insults Shiva, and releases him when Rahu praises Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 8
+    },
+    {
+      "text": "Some tellings say Shiva told the starving lion-faced creature to feed on human greed and selfishness, and called it Kirtimukha, 'glorious face'. That face still crowns temple gateways across India and Southeast Asia.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kirtimukha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pali Canon's Candima and Suriya Suttas say Rahu seized the moon and sun, who prayed to the Buddha. The Buddha told Rahu to let them go and he obeyed, fearing his head would split into seven pieces. The verses are still chanted for protection.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 8
+    },
+    {
+      "text": "A metal image of Rahu from Densatil Monastery in Tibet dates to about 1400 CE, and Thailand has Phra Rahu statues showing him eclipsing the moon.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Naganathaswamy Temple in Thirunageswaram, milk poured over the Rahu image during Rahu Kalam is said to turn blue as it runs over the body and white again at the floor. The shrine is said to be the only place where Rahu is seen with his consorts.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Thirunageswaram",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Srikalahasti is called a Rahu-Ketu kshetra and is said to be the only temple in India that stays open during eclipses.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Srikalahasti_Temple",
+      "interest": 7
+    },
+    {
+      "text": "The nodes line up with the sun about every 173 days, which gives two eclipse seasons a year.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lunar_node",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ancient astrologers treated Rahu and Ketu as shadow planets that cause eclipses, even though they have no physical form.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lunar_node",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Rahu before he became Rahu?",
+      "options": ["A deva", "An asura named Svarbhanu", "A sage", "A king"],
+      "answer": 1,
+      "why": "Many Puranas call him Svarbhanu."
+    },
+    {
+      "q": "What did Vishnu use to cut Svarbhanu in two?",
+      "options": ["Sudarshana chakra", "A bow", "A trident", "A mace"],
+      "answer": 0,
+      "why": "Mohini used the Sudarshana chakra."
+    },
+    {
+      "q": "Which part is Ketu?",
+      "options": ["The head", "The body", "The shadow", "The serpent mount"],
+      "answer": 1,
+      "why": "The head is Rahu and the body is Ketu."
+    },
+    {
+      "q": "In the Candima Sutta, who told Rahu to let the moon go?",
+      "options": ["The Buddha", "Indra", "Hanuman", "Garuda"],
+      "answer": 0,
+      "why": "The Buddha's verse made Rahu release the moon."
+    },
+    {
+      "q": "Which temple in Andhra Pradesh is said to stay open during eclipses?",
+      "options": ["Srikalahasti", "Somnath", "Puri", "Kedarnath"],
+      "answer": 0,
+      "why": "Srikalahasti is called a Rahu-Ketu kshetra and is said to stay open during eclipses."
+    }
+  ],
+  "related": [
+    "vishnu",
+    "surya",
+    "chandra",
+    "shani",
+    "hanuman",
+    "jalandhara",
+    "navagraha",
+    "kurma",
+    "vasuki",
+    "shiva"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rahu",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "samudra-manthana": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+    "srikalahasti": "https://en.wikipedia.org/wiki/Srikalahasti_Temple",
+    "thirunageswaram": "https://en.wikipedia.org/wiki/Thirunageswaram",
+    "kirtimukha": "https://en.wikipedia.org/wiki/Kirtimukha",
+    "svarbhanu": "https://en.wikipedia.org/wiki/Svarbhanu",
+    "ketu": "https://en.wikipedia.org/wiki/Ketu_(mythology)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#C9C3E3",
+    "c2": "#E3D9C0"
+  },
+  "order": 504
+}

@@ -1,0 +1,256 @@
+{
+  "slug": "andhaka",
+  "name": "Andhaka",
+  "aka": ["Andhakasura", "Bhringi (after his change)"],
+  "native": "अन्धक",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura in the Shiva stories, later a chief of the Ganas",
+  "summary": "Andhaka is an asura of the Puranas, said to have been born blind from darkness, who later fought Shiva and, in some tellings, became a devoted attendant.",
+  "about": "Puranic accounts differ on Andhaka. The Shiva Purana says that Parvati playfully covered Shiva's eyes, darkness fell, and a blind child grew from the sweat on her hands. Shiva called the child his and Parvati's own, then gave him to the asura Hiranyaksha to raise. In another account Brahma could not grant immortality but let him choose how he would die, and he chose a condition: he could be slain only if he desired a woman who was like a mother to him. In time he set his heart on Parvati. In the Matsya Purana, every drop of his blood made new copies of him, so Shiva created the Matrikas to drink it. In the Shiva and Vamana Puranas he is Shiva and Parvati's son in truth, and he repents when he learns it. In the Vamana Purana he becomes known as Bhringi, and in the Linga Purana he is made a chief of the Ganas. The Ellora caves carve Shiva impaling him, and Elephanta Cave 1 has a panel of the same legend. In the Harivamsa, the ending is different: Shiva's spear turns him to ash.",
+  "kidSummary": "Andhaka's name means one who darkens. In the stories, he was born in darkness and grew powerful, but he forgot to treat others with respect. He fought Shiva, and the story ends differently in different Puranas. In some, he repents and becomes a close companion of Shiva.",
+  "story": [
+    {
+      "title": "A dark moment",
+      "text": "In one telling, Parvati covered Shiva's eyes in play, and the world went dark. A blind child grew from drops of her sweat."
+    },
+    {
+      "title": "A boon with a catch",
+      "text": "He did hard penance, and Brahma gave him a boon with one catch: it would fail if he ever wronged a woman who was like a mother to him."
+    },
+    {
+      "title": "A wrong wish",
+      "text": "As a king he heard of Parvati's beauty and wanted to carry her away from Shiva, which brought him to Shiva."
+    },
+    {
+      "title": "Drops of blood",
+      "text": "As he was wounded, his blood created many copies of him, so Shiva made the mother goddesses called Matrikas to drink it."
+    },
+    {
+      "title": "The trident",
+      "text": "Shiva lifted him on his trident. In the Shiva and Vamana Puranas, Shiva calls him his and Parvati's child, and Andhaka is sorry when he learns Parvati is his mother."
+    },
+    {
+      "title": "A new life",
+      "text": "He was forgiven. In the Vamana Purana he became known as Bhringi, and in several Puranas he became a chief of Shiva's attendants, the Ganas."
+    }
+  ],
+  "teaches": [
+    "Respect everyone, whoever they are",
+    "A wrong wish can undo great strength",
+    "It is possible to change and be forgiven"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Drops of blood", "Matrikas collecting blood"],
+  "family": [
+    {
+      "relation": "Raised by",
+      "name": "Hiranyaksha",
+      "slug": "hiranyaksha"
+    },
+    {
+      "relation": "Mother (Shiva and Vamana Puranas)",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Father (some Puranas)",
+      "name": "Shiva",
+      "slug": "shiva"
+    }
+  ],
+  "texts": ["Shiva Purana", "Matsya Purana", "Linga Purana", "Vamana Purana", "Harivamsa"],
+  "places": ["Ellora caves (carvings)", "Elephanta Caves, Cave 1 (panel)"],
+  "festivals": ["Mahashivaratri"],
+  "facts": [
+    {
+      "text": "In the Kurma Purana Shiva makes him handsome after his sins are burned away. He bows to Parvati in sorrow, and she forgives him and accepts him as her son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana says Shiva's third eye killed Andhaka in a sage's forest, while the Mahabharata says Kali did, so the epics themselves tell it differently.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Harivamsa he was not truly blind: he was born with a thousand eyes and limbs, yet walked like a blind person, and that is how he got his name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Cave 1 at Elephanta near Mumbai, a rock panel about 3.5 m tall shows a fierce form of Shiva striking Andhaka; much of it is broken, and the damage is blamed on Portuguese vandals.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Elephanta_Caves",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one account of the Shiva Purana, the war between Andhaka's army and Shiva's side is said to have lasted seven hundred years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vamana Purana Parvati took a hundred forms to resist him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In several tellings each drop of his blood that fell on the ground produced another demon like him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Matsya Purana, the Matrikas were not enough; Vasudeva made a goddess named Shushkarevati, who drank the blood of every copy and ended them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Matsya Purana says the Matrikas then began destroying the world, until Narasimha created 32 gentle goddesses to calm them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In some versions Shiva swallowed Shukra, the guru of the asuras, who had revived their dead warriors.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Vamana Purana Shiva held Andhaka on his trident for thousands of years until his body wasted away to a skeleton, and only then did Andhaka beg forgiveness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Vamana Purana, blood from his wound gave rise to the eight forms of Bhairava.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Harivamsa the sage Narada's fragrant garland of Mandara flowers made Andhaka curious, and he followed the trail to Mount Mandara, tried to uproot it, and its peaks turned on his own warriors.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa gives Andhaka a different ending: Shiva's spear strikes him in the chest and turns him to ash, with no forgiveness scene.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, when Andhaka followed Parvati to Vishnu's home, she showed her Ardhanarishvara form, half Shiva and half Parvati, and the asura lost interest and left.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ardhanarishvara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The name Bhringi that the Vamana Purana gives Andhaka is also borne by a devotee-sage in Shiva Purana and Tamil temple lore who would circle only Shiva, a tale linked to the Ardhanarishvara form.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhringi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Shiva Purana he is described with a thousand heads, a thousand arms and two thousand eyes; another version gives him two thousand arms and two thousand legs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana he was not counted as an asura because he was born of the devas, yet most of his clan disowned him, and he did severe penance to win Brahma's favour.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Vamana Purana his cousin Prahlada tried to talk him out of the fight by telling him the truth about his birth, but Andhaka would not listen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana Andhaka's general Bali beat the gods and swallowed them, until Shiva's weapons forced him to bring them back out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Andhaka's name roughly mean?",
+      "options": ["He who darkens", "He who shines", "He who sings", "He who flies"],
+      "answer": 0,
+      "why": "Andhaka is explained as one who darkens."
+    },
+    {
+      "q": "In the Matsya Purana, who made the Matrikas to drink his blood?",
+      "options": ["Shiva", "Brahma", "Indra", "Kartikeya"],
+      "answer": 0,
+      "why": "In the Matsya Purana Shiva creates them; other Puranas credit Vishnu."
+    },
+    {
+      "q": "Which caves carve a scene of Shiva and Andhaka?",
+      "options": ["Ajanta", "Ellora", "Bagh", "Badami"],
+      "answer": 1,
+      "why": "Ellora has the carving."
+    },
+    {
+      "q": "What did he become in some versions?",
+      "options": ["A king of Lanka", "A chief of Ganas", "A river", "A star"],
+      "answer": 1,
+      "why": "He became Bhringi, a chief of the Ganas."
+    }
+  ],
+  "related": [
+    "shiva",
+    "parvati",
+    "hiranyaksha",
+    "prahlada",
+    "saptamatrikas",
+    "bhairava",
+    "shukracharya",
+    "narasimha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andhaka",
+    "matrikas": "https://en.wikipedia.org/wiki/Matrikas",
+    "elephanta": "https://en.wikipedia.org/wiki/Elephanta_Caves",
+    "en-wikipedia-org-wiki-ardhanarishvara": "https://en.wikipedia.org/wiki/Ardhanarishvara",
+    "en-wikipedia-org-wiki-bhringi": "https://en.wikipedia.org/wiki/Bhringi"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c8c8d8",
+    "c2": "#e8d8c0"
+  },
+  "order": 500
+}

@@ -1,0 +1,249 @@
+{
+  "slug": "kisa-gotami",
+  "name": "Kisa Gotami",
+  "aka": ["Kisagotami", "Krisha Gautami"],
+  "native": "कृशा गौतमी",
+  "role": "Nun remembered for the mustard seed story",
+  "summary": "In Buddhist tradition, Kisa Gotami was a grieving mother of Shravasti who learned from the Buddha that death visits every home. She later became a nun and an arhat.",
+  "about": "Kisa Gotami, in Sanskrit Krisha Gautami, was the wife of a wealthy man of Shravasti. Her story, told in the commentaries of the Pali tradition and in other Buddhist versions, is among the best loved in Buddhism. After her only child died, her grief was so deep that people thought she had lost her mind. An old man told her to visit the Buddha. According to the story, he asked her to bring white mustard seeds from a house where no one had died. She went from door to door and found none, and slowly understood that death comes to every family. She then became a Buddhist nun and, the texts say, an arhat. Verses attributed to her appear in the Therigatha, the collection of poems by early nuns.",
+  "kidSummary": "Kisa Gotami was very sad because her little son had died. The Buddha asked her to bring a mustard seed from a home where nobody had ever died. She learned that every family feels this sadness, and that learning helped her heal. She later became a Buddhist nun.",
+  "story": [
+    {
+      "title": "A mother's deep sadness",
+      "text": "After her only child died, Kisa Gotami could not bear it. She carried the little one around town asking for medicine, and people felt sorry for her."
+    },
+    {
+      "title": "Go and ask the Buddha",
+      "text": "An old man gently suggested that she visit the Buddha, saying he might know a cure. So she went to him and asked for help."
+    },
+    {
+      "title": "A strange request",
+      "text": "The Buddha said he could help if she brought a few white mustard seeds from a house where no one had ever died. She hurried off, full of hope."
+    },
+    {
+      "title": "Door after door",
+      "text": "At every home people offered seeds, but every family had lost someone: a grandparent, a parent or a child. She found no house that had been spared."
+    },
+    {
+      "title": "Peace at last",
+      "text": "She understood that everyone loses people they love. Comforted, she went back to the Buddha, listened to his teaching and later became a nun."
+    }
+  ],
+  "teaches": [
+    "Everyone meets loss, so we are not alone in grief",
+    "Compassion for people who are hurting",
+    "Understanding that nothing lasts"
+  ],
+  "symbol": "lamp",
+  "emblems": ["White mustard seed", "Lamp"],
+  "family": [
+    {
+      "relation": "Her teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    }
+  ],
+  "texts": [
+    "Therigatha (Thig 10)",
+    "Gotami Sutta (SN 5.3)",
+    "Dhammapada commentary",
+    "Pali commentary tradition"
+  ],
+  "places": ["Shravasti (Savatthi)", "Jetavana"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In one retelling the Buddha tells her that if she can find white mustard seeds from a house where nobody has died, he will be able to bring her child back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The story is the source of a well-known saying that the living are few and the dead are many, reminding listeners that grief is shared by almost everyone.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Dhammapada commentary she awakens while lighting the lamp in the Observance Hall: watching flames flare up and die out, she sees living beings are the same. A radiant image of the Buddha then speaks to her, and she becomes an arahant.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her title depends on the telling. The Anguttara names her foremost among nuns in rough robes, which the commentary describes as cemetery cloth, rough in cloth, thread and dye. Some retellings call her foremost in discipline.",
+      "kind": "teaching",
+      "source": "https://www.ancient-buddhist-texts.net/English-Texts/Foremost-Elder-Nuns/12-Kisa-Gotami.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Oddly, her own Therigatha verses tell the sad journey that the commentary assigns to the nun Patacara, a mix-up Thanissaro Bhikkhu calls hard to explain.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Students in India meet her tale in the NCERT Class 10 English book, where it appears as 'Sermon at Benares'.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A very similar tale is told about the Greek philosopher Demonax, who promised to call up a dead son's shadow if the mother named three people who had never mourned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The children's cartoon Bluey tells a similar story in the Season 1 episode 'Bumpy and the Wise Old Wolf Hound'.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Singer Nick Cave recites her story in the song 'Hollywood' on his 2019 album Ghosteen, and episode 5 of the Thai drama Thai Cave Rescue is titled 'The Parable of Kisa Gotami'.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the commentary a rich merchant's fortune turned to charcoal, and a poor girl named Gotami showed him how to turn it back into gold. He married her to his son, and that is how she entered a wealthy house.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "By evening, after house after house, she realised the dead outnumber the living in every village. Her heart, once soft with a mother's love, hardened, and she laid the child in a forest and went back to the Buddha.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the commentary, people told her she was stark mad for going door to door seeking medicine for a dead child, because she had never seen death before.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When she reported back that the dead outnumber the living, the Buddha said she had wrongly thought she alone had lost a child, and taught a verse about death sweeping away people like a flood over a sleeping village. She reached stream-entry.",
+      "kind": "teaching",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In another commentary her husband's family had looked down on her as a poor girl until she bore a son. When he died she feared losing that respect, and people clapped and mocked as she asked for medicine.",
+      "kind": "story",
+      "source": "https://www.ancient-buddhist-texts.net/English-Texts/Foremost-Elder-Nuns/12-Kisa-Gotami.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In SN 5.3, Mara tries to frighten her as she sits under a tree in the Grove of the Blind. She knows it is him and says she fears nothing, and he vanishes on the spot.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn05/sn05.003.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After seeing death in every house she spoke her own verse, saying that the teaching of impermanence belongs to no single village, town or family but to the whole world.",
+      "kind": "teaching",
+      "source": "https://www.ancient-buddhist-texts.net/English-Texts/Foremost-Elder-Nuns/12-Kisa-Gotami.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her Therigatha poem says her tears had flowed for many thousands of lives. It ends with her looking into the mirror of the Dhamma, pulling out the arrow and putting down the burden.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The verse that brought her awakening in the lamp story says one day of seeing the deathless state is better than a hundred years of life without seeing it.",
+      "kind": "teaching",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her counterpart among the monks for rough robes was Mogharaja, one of sixteen students who made a long journey across India to meet and question the Buddha.",
+      "kind": "history",
+      "source": "https://www.ancient-buddhist-texts.net/English-Texts/Foremost-Elder-Nuns/12-Kisa-Gotami.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Later Theravada texts tried to smooth the mix-up by saying part of her poem is Patacara speaking. Thanissaro finds that unlikely, asking why one arahant would break into another's story.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.than.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did the Buddha ask Kisa Gotami to bring?",
+      "options": ["Red flowers", "White mustard seeds", "A clay lamp", "A bowl of rice"],
+      "answer": 1,
+      "why": "He asked for white mustard seeds from a house where no one had died."
+    },
+    {
+      "q": "What did Kisa Gotami find as she visited homes?",
+      "options": [
+        "Every house had lost someone",
+        "Most had no loss",
+        "Nobody would speak",
+        "Everyone gave her seeds freely"
+      ],
+      "answer": 0,
+      "why": "No house had been spared by death, so she understood loss is shared."
+    },
+    {
+      "q": "Which city was Kisa Gotami's home?",
+      "options": ["Rajagriha", "Shravasti", "Vaishali", "Kapilavastu"],
+      "answer": 1,
+      "why": "She was the wife of a wealthy man of Shravasti."
+    },
+    {
+      "q": "What did Kisa Gotami watch in the commentary story just before she awakened?",
+      "options": [
+        "Lamp flames, some flaring up and some going out",
+        "A river reaching the sea",
+        "Leaves falling in autumn",
+        "A flock of birds"
+      ],
+      "answer": 0,
+      "why": "She saw that living beings are like the flames: some flare up, others flicker out."
+    }
+  ],
+  "related": ["gautama-buddha", "mahapajapati-gotami", "patacara", "khema"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+    "therigatha": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.than.html",
+    "jetavana": "https://en.wikipedia.org/wiki/Jetavana",
+    "foremost_nuns": "https://www.ancient-buddhist-texts.net/English-Texts/Foremost-Elder-Nuns/12-Kisa-Gotami.htm",
+    "dhammapada_commentary": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/08-13.htm"
+  },
+  "palette": {
+    "c1": "#e3e8f0",
+    "c2": "#f0e6ea"
+  },
+  "years": "c. 6th–5th century BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "full"
+}

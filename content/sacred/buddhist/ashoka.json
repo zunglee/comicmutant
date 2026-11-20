@@ -1,0 +1,330 @@
+{
+  "slug": "ashoka",
+  "name": "Ashoka",
+  "aka": ["Asoka", "Ashoka the Great", "Devanampiya Piyadasi", "Dharmashoka"],
+  "native": "अशोक",
+  "role": "Mauryan emperor and patron of Buddhism",
+  "summary": "Ashoka was the third Mauryan emperor, who ruled most of the subcontinent c. 268–232 BCE. After the Kalinga War he turned to dhamma and carved his messages on rocks and pillars.",
+  "about": "Ashoka (c. 304 to 232 BCE) was the third ruler of the Maurya Empire, whose lands stretched from present-day Afghanistan to Bangladesh with its capital at Pataliputra. His own edicts say that after the brutal conquest of Kalinga in about 260 BCE he felt deep remorse and began to promote dhamma, a code of kindness, tolerance and care for people and animals. Buddhist legends credit him with building many stupas, supporting the sangha and sending missions abroad. Those legends come from later texts and differ between North India and Sri Lanka. His edicts, written in Brahmi and other scripts, were deciphered in the 19th century. The Lion Capital of Ashoka at Sarnath is the model for India's state emblem, and his dharma wheel sits at the centre of the national flag.",
+  "kidSummary": "Ashoka was a powerful emperor of ancient India. After a terrible war, he felt very sorry for the suffering it caused and chose a new path of kindness. He built wells, planted trees and carved messages on stone for his people. His lion pillar and wheel are on India's emblem and flag.",
+  "story": [
+    {
+      "title": "A powerful ruler",
+      "text": "Ashoka ruled the Maurya Empire from Pataliputra. In about 260 BCE, he fought a huge war to conquer the land of Kalinga."
+    },
+    {
+      "title": "Sorrow after the war",
+      "text": "His own rock edict says so many people and animals were killed or taken away that he felt deep regret and could not be proud of the victory."
+    },
+    {
+      "title": "A new path",
+      "text": "He decided to follow dhamma, a way of kindness and honesty. He said everyone should respect parents, teachers, and people of other beliefs."
+    },
+    {
+      "title": "Messages in stone",
+      "text": "He had messages cut into rocks and tall polished pillars, so people everywhere could read how a king should look after them: wells, shady trees, and care for the sick."
+    },
+    {
+      "title": "A lasting symbol",
+      "text": "Over two thousand years later, the four lions of his Sarnath pillar became India's emblem, and the wheel of dhamma on its base sits at the centre of India's flag."
+    }
+  ],
+  "teaches": [
+    "Remorse can lead to a better path",
+    "Respect for all faiths",
+    "Kindness to people and animals"
+  ],
+  "symbol": "wheel",
+  "emblems": [
+    "Lion Capital of Sarnath",
+    "Dharma wheel (Ashoka Chakra)",
+    "Edict pillars",
+    "Banyan and mango trees along roads"
+  ],
+  "family": [
+    {
+      "relation": "Grandfather",
+      "name": "Chandragupta Maurya",
+      "slug": "chandragupta-maurya"
+    },
+    {
+      "relation": "Father",
+      "name": "Bindusara"
+    },
+    {
+      "relation": "Son (Sri Lankan tradition)",
+      "name": "Mahinda"
+    },
+    {
+      "relation": "Daughter (Sri Lankan tradition)",
+      "name": "Sanghamitta"
+    },
+    {
+      "relation": "Queen named in his edict",
+      "name": "Karuvaki"
+    },
+    {
+      "relation": "Said in the Ashokavadana to descend from",
+      "name": "Bimbisara",
+      "slug": "bimbisara"
+    }
+  ],
+  "texts": [
+    "Edicts of Ashoka",
+    "Ashokavadana (Divyavadana)",
+    "Mahavamsa",
+    "Dipavamsa",
+    "Samantapasadika"
+  ],
+  "places": [
+    "Pataliputra",
+    "Sarnath",
+    "Lumbini pillar",
+    "Kalinga (Odisha)",
+    "Sanchi",
+    "Kandahar (edict)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name means 'without sorrow'; the Ashokavadana says his mother gave it to him because his birth lifted her sorrows.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Rock Edict 13 Ashoka says that in the Kalinga War about 100,000 men and animals were killed, many more died of other causes, and 150,000 were carried away as captives.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Ashoka created a new kind of officer, the dhamma-mahamattas, who looked after the elderly, the sick, women, children and followers of different sects; some also went abroad as envoys to Hellenistic kingdoms.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Edict 13 was carved at many sites but not in the Kalinga region itself, where two separate edicts without any mention of his remorse were used instead.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Both the Ashokavadana and the Mahavamsa say he built 84,000 stupas or monasteries; the Ashokavadana puts relics of the Buddha in 84,000 boxes of gold, silver, cat's eye and crystal.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Ashokavadana says he could not take the eighth relic from the Nagas at Ramagrama because their devotion outweighed his; the Mahavamsa says the Buddha had destined it for a Sri Lankan king.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Two Buddhist texts tell of Queen Tishyarakshita harming the Bodhi Tree; the Ashokavadana says it was healed, while the Mahavamsa says it was destroyed after a branch had gone to Sri Lanka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Sri Lankan tradition, Ashoka's daughter Sanghamitta carried a sapling of the Bodhi tree to Sri Lanka; some historians, such as Romila Thapar, doubt that she existed.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ashokavadana says he fell ill at the end and gave away everything until only half a myrobalan fruit was left, which he offered to the sangha as his last gift.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Pillar Edict 7 says he planted banyan shade trees and mango groves along roads, dug wells at intervals of eight kos, and built steps down to the water.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sri Lankan tradition says a young monk named Nigrodha, secretly the king's nephew, impressed him with a sermon on earnestness, and Ashoka gave him 400,000 silver coins and eight daily portions of rice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rock Edict 1 limits killing of animals in the royal kitchen to two peacocks and a deer a day, and says even those should stop in future.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sri Lankan chronicles say Ashoka's son Mahinda became a monk in the sixth year of the reign and later took Buddhism to Sri Lanka; the North Indian texts never mention this mission.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Greek-only edict found at Old Kandahar in 1963 calls him Piodasses, repeats the Kalinga toll, and renders dhamma with the Greek word eusebeia, meaning piety.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kandahar_Greek_Edicts_of_Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A small rock edict found at Maski in Karnataka in 1915 uses both the name Ashoka and the title 'Beloved of the Gods', which proved that many unsigned inscriptions were his.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His name was almost forgotten until James Prinsep deciphered Brahmi in the 1830s, and in 1837 George Turnour's Sri Lankan Dipavamsa showed that Piyadasi meant Ashoka.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Lion Capital at Sarnath, c. 250 BCE, is 2.1 metres tall: four lions on a drum with four wheels and a lion, elephant, bull and galloping horse between them, all carved from one polished sandstone block.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "None of his surviving edicts records his own gifts to Buddhists; one inscription records gifts by his queen Karuvaki, and he himself gave the Barabar caves to the Ajivika sect.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On 22 July 1947 India's Constituent Assembly took up a flag whose central wheel copies the one on the Sarnath capital's base; the cabinet accepted the four-lion emblem on 29 December 1947.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ashoka Chakra has 24 spokes. One reading says they stand for the 24 Jain Tirthankaras; another says they are the twelve links of dependent origination, run forward and then in reverse.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ashoka_Chakra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His Lumbini pillar says he visited in the 20th year after his anointment and made the village tax-free, so it paid only an eighth share of its produce.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rock Edict 13 says his conquest by dhamma reached the Greek king Antiochos and four other rulers named Ptolemy, Antigonos, Magas and Alexander, some six hundred yojanas away.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Northern Buddhist tales say a prison called Ashoka's Hell, run by the executioner Girika, looked pleasant outside but was cruel within; historians see it as drama about his conversion.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mahavamsa says Ashoka killed 99 half-brothers to win the throne, the Dipavamsa says 100; a historian reads these figures as exaggerations for killing several brothers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ashokavadana a minister hides the sun with his hand, which Eggermont linked to the partial solar eclipse of 4 May 249 BCE; John Strong rejects this reading, so scholars disagree.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Tibetan historian Taranatha says he was first called Kamashoka, for pleasure, then Chandashoka, the fierce, and finally Dhammashoka, the righteous, after turning to Buddhism.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ashoka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1356 the Delhi sultan Firuz Shah Tughluq had a whole Ashokan pillar moved from Topra in Haryana to Delhi, where it now stands inside his fortress at Feroz Shah Kotla.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Pillars_of_Ashoka",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ashoka mean?",
+      "options": ["Without sorrow", "King of kings", "Bright as gold", "Friend of all"],
+      "answer": 0,
+      "why": "A-shoka means without sorrow."
+    },
+    {
+      "q": "Which war led Ashoka to turn toward dhamma?",
+      "options": ["Kurukshetra", "Kalinga", "Panipat", "Mysore"],
+      "answer": 1,
+      "why": "His edict says remorse after the Kalinga War changed him."
+    },
+    {
+      "q": "Which animal is NOT on the base of the Sarnath lion capital?",
+      "options": ["Elephant", "Bull", "Horse", "Camel"],
+      "answer": 3,
+      "why": "The base shows a lion, elephant, bull and horse."
+    },
+    {
+      "q": "In July 1947, what from his pillar was chosen for India's flag?",
+      "options": ["The wheel", "The lion", "The lotus", "The horse"],
+      "answer": 0,
+      "why": "The Ashoka Chakra sits at the centre of the flag."
+    },
+    {
+      "q": "What did the Ashokavadana say was his last gift?",
+      "options": ["Half a myrobalan fruit", "A golden throne", "A bag of coins", "His crown"],
+      "answer": 0,
+      "why": "He offered half a myrobalan fruit to the sangha."
+    }
+  ],
+  "related": ["gautama-buddha", "bimbisara", "chandragupta-maurya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashoka",
+    "edicts": "https://en.wikipedia.org/wiki/Edicts_of_Ashoka",
+    "pillars": "https://en.wikipedia.org/wiki/Pillars_of_Ashoka",
+    "lion_capital": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka",
+    "ashoka_chakra": "https://en.wikipedia.org/wiki/Ashoka_Chakra",
+    "lumbini": "https://en.wikipedia.org/wiki/Lumbini",
+    "sanghamitta": "https://en.wikipedia.org/wiki/Sanghamitta"
+  },
+  "palette": {
+    "c1": "#e8e4d0",
+    "c2": "#d9e6ee"
+  },
+  "years": "c. 304–232 BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "full"
+}

@@ -85,6 +85,25 @@ export const Photo = z.object({
   objectPosition: z.string().optional(),
 });
 
+/** A sourced, critic-scored fact (≥ 20 per Desi hero; reports/sacred-design.md S9). */
+export const CharacterFact = z.object({
+  text: z.string().min(25).max(260),
+  kind: z.enum([
+    'origin',
+    'creator',
+    'publishing',
+    'screen',
+    'powers',
+    'story',
+    'culture',
+    'record',
+  ]),
+  source: https,
+  /** Fact critic's interest score, 1–10. Kept facts are ≥ 7. */
+  interest: z.number().int().min(1).max(10),
+});
+export type CharacterFact = z.infer<typeof CharacterFact>;
+
 export const Character = z.object({
   slug,
   name: z.string().min(1).max(50),
@@ -110,6 +129,8 @@ export const Character = z.object({
   photo: Photo.optional(),
   /** Real-world milestones, oldest first (the /timeline page and the character page). */
   timeline: z.array(Milestone).min(4).max(10).optional(),
+  /** Long-form facts deck (Desi heroes carry ≥ 20). */
+  facts: z.array(CharacterFact).max(32).optional(),
   /** Trending weight 0–100 for the default top-5 and "hot" sort. */
   heat: z.number().int().min(0).max(100).default(50),
 });

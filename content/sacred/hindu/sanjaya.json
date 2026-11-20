@@ -1,0 +1,267 @@
+{
+  "name": "Sanjaya",
+  "aka": ["Gavalgani", "Sanjaya Gavalgana"],
+  "native": "संजय",
+  "role": "Charioteer and narrator of the war",
+  "summary": "Sanjaya is the charioteer and trusted adviser of King Dhritarashtra. Given divine sight by Vyasa, he describes the Kurukshetra War, and the Bhagavad Gita, to the blind king.",
+  "about": "In the Mahabharata, Sanjaya is the son of Gavalgana and a pupil of the sage Vyasa. He serves the blind king Dhritarashtra as charioteer and adviser, and is known as honest even when his words are hard to hear. Before the war he carries a message of peace to the Pandavas. The blind king did not want to go to the battlefield and watch the fighting, so Vyasa gave the gift of divine sight to Sanjaya instead. From Hastinapura, Sanjaya then narrates every day of the Kurukshetra War, including the Bhagavad Gita. The gift is said to have ended when Duryodhana died. After the war he comforts the king and later goes with him into the forest.",
+  "kidSummary": "Sanjaya was a trusted helper of the blind king Dhritarashtra. A sage gave him a special power: he could see far-off places in his mind. So he sat in the palace and told the king everything happening in the great war, even the wise words of Krishna to Arjuna.",
+  "story": [
+    {
+      "title": "A trusted helper",
+      "text": "Sanjaya serves King Dhritarashtra as his charioteer and adviser. He is known to speak honestly, even when the truth is hard."
+    },
+    {
+      "title": "A messenger of peace",
+      "text": "Before the war begins, he goes to Yudhishthira with a message and tries to help both sides keep peace."
+    },
+    {
+      "title": "The gift of sight",
+      "text": "The king does not want to go to the battlefield and watch the fighting. The sage Vyasa then gives Sanjaya the gift of seeing it all."
+    },
+    {
+      "title": "Telling the war",
+      "text": "From the palace, Sanjaya sees the battlefield of Kurukshetra clearly and describes everything to the king, including Krishna's talk with Arjuna, the Gita."
+    },
+    {
+      "title": "After the war",
+      "text": "When the war is over, Sanjaya comforts the grieving king and stays beside him, even when the king moves to the forest."
+    }
+  ],
+  "teaches": [
+    "Honesty, even when it is hard",
+    "Loyalty and care for others",
+    "Seeing clearly with a calm mind"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Divine inner sight (divya drishti)", "Chariot"],
+  "family": [
+    {
+      "relation": "Teacher",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "King he serves",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Hears the Gita from",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Queen he accompanies",
+      "name": "Gandhari",
+      "slug": "gandhari"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Bhishma Parva)",
+    "Mahabharata (Udyoga Parva)",
+    "Mahabharata (Sauptika Parva)",
+    "Bhagavad Gita"
+  ],
+  "places": ["Hastinapura", "Kurukshetra"],
+  "festivals": ["Gita Jayanti"],
+  "facts": [
+    {
+      "text": "Vyasa's boon also meant no weapon could wound Sanjaya and no tiredness would trouble him during the war.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the standard 700-verse Gita, Krishna speaks 574 verses, Arjuna 84, Sanjaya 41 and Dhritarashtra only 1, the opening question.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He described much more than fights. He told Dhritarashtra about the earth and other worlds, the kingdoms, rivers and forests of Bharata Varsha, and the formations used each day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "During the war, Satyaki took Sanjaya prisoner, says the Shalya Parva, and he went free only when Vyasa intervened.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When a forest fire closed in on the elderly group, Dhritarashtra told Sanjaya to run to safety. Sanjaya did not want to leave them and went only when the king insisted. He then told the hermits by the Ganga what had happened and left for the Himalayas.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The very last verse of the Bhagavad Gita, 18.78, is Sanjaya's own opinion. He tells the king that wherever Krishna and the archer Arjuna are, fortune, victory and sound judgement will follow.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/18/78/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sanjaya was the first person apart from Arjuna to hear the Gita as Krishna taught it, says the Mahabharata encyclopedia entry on him. Many Gita passages open with the words 'Sanjaya said'.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Near the end of the Gita, Sanjaya tells the king that by Vyasa's favour he heard these secret teachings straight from Krishna, who was speaking to Arjuna in person.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/18/75/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Gita, Sanjaya is the voice who announces that Krishna showed Arjuna his universal form. Remembering that form, he tells the king, fills him with wonder and joy again and again.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/18/77/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Arjuna's long speech of doubt, it is Sanjaya who reports to Dhritarashtra that Arjuna told Krishna he would not fight, and then fell silent.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/2/9/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sanjaya's first words in the Gita, right after Dhritarashtra's lone question, describe Duryodhana looking over the Pandava army arrayed for battle and going to his teacher Drona.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/1/2/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Dhritarashtra once angrily sent Vidura away toward the Pandavas, then regretted it and sent Sanjaya to the Kamyaka forest to bring Vidura back, says the Vana Parva.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the war, Yudhishthira gave Sanjaya a duty in the work of rebuilding the kingdom, according to the Shanti Parva reference in the Mahabharata encyclopedia.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhishma Parva, Vyasa first offers the gift of sight to Dhritarashtra himself, who declines because he cannot bear to see his kin die. Vyasa then gives it to Sanjaya and makes a last plea to the king to choose peace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma_Parva",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Udyoga Parva Sanjaya tells Dhritarashtra of Krishna's greatness and urges him to rein in Duryodhana, according to the chapters listed in the Mahabharata encyclopedia.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before the war Sanjaya was a go-between. He took Dhritarashtra's message to Yudhishthira, then repeated Arjuna's reply to the Kauravas in their own court.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sanjaya's report of the Gita scene notes that Arjuna dropped his bow and arrows and sank onto the chariot seat, overwhelmed by sorrow. The Wikipedia article reads this as a sign of his sharp awareness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vana Parva, Sanjaya tells Dhritarashtra how the Vrishnis under Krishna and Balarama, the Panchalas under Dhrishtadyumna and the Pandavas, gathered at the Kamyaka forest, all vowed to destroy the Kauravas.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Adi Parva says Sanjaya was born from a portion of the sage Gavalgana, so he is also called Gavalgani. His name means 'victory'. The Mahabharata encyclopedia calls him equal to a sage.",
+      "kind": "language",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Stri Parva opens with Dhritarashtra's grief at losing all his sons and grandsons. The Mahabharata encyclopedia entry notes it is Sanjaya who tries to console him in that first chapter.",
+      "kind": "story",
+      "source": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Sanjaya divine sight?",
+      "options": ["Vyasa", "Bhishma", "Drona", "Indra"],
+      "answer": 0,
+      "why": "Vyasa gave him the inner eye."
+    },
+    {
+      "q": "Whom did Sanjaya serve as charioteer and adviser?",
+      "options": ["Duryodhana", "Dhritarashtra", "Yudhishthira", "Shakuni"],
+      "answer": 1,
+      "why": "He served the blind king Dhritarashtra."
+    },
+    {
+      "q": "Which famous text does Sanjaya recite to the king?",
+      "options": ["Ramayana", "Bhagavad Gita", "Hanuman Chalisa", "Panchatantra"],
+      "answer": 1,
+      "why": "He relays Krishna's talk with Arjuna."
+    },
+    {
+      "q": "According to the tradition, when did his divine sight end?",
+      "options": [
+        "When Karna fell",
+        "When Duryodhana died",
+        "When Bhishma fell",
+        "On the first day"
+      ],
+      "answer": 1,
+      "why": "The Sauptika Parva says it ended with Duryodhana's death."
+    }
+  ],
+  "related": [
+    "dhritarashtra",
+    "vyasa",
+    "krishna",
+    "arjuna",
+    "duryodhana",
+    "gandhari",
+    "satyaki",
+    "vidura"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sanjaya",
+    "vyasaonline": "https://www.vyasaonline.com/encyclopedia/sanjaya/",
+    "dhritarashtra": "https://en.wikipedia.org/wiki/Dhritarashtra",
+    "gita": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+    "gita_18_78": "https://vedabase.io/en/library/bg/18/78/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2e7cf",
+    "c2": "#a6bfd9"
+  },
+  "order": 550,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "slug": "sanjaya"
+}

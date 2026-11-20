@@ -1,0 +1,272 @@
+{
+  "slug": "bharata-emperor",
+  "name": "Bharata",
+  "aka": ["Sarvadamana", "Bharata Chakravartin", "Son of Dushyanta"],
+  "native": "भरत",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Legendary world-conquering emperor, son of Shakuntala",
+  "summary": "Bharata is the legendary emperor of the Mahabharata, son of Dushyanta and Shakuntala. Tradition holds that the name Bharata, and India's name Bharat, are linked to him.",
+  "about": "In the Adi Parva of the Mahabharata, Bharata is the son of King Dushyanta and Shakuntala. Raised in the forest hermitage of the sage Kanva, he was first called Sarvadamana, the one who tames all, because he could overpower even wild animals as a boy. The epic says he was born with the mark of a chakra on his right hand, a sign of a future emperor. After a voice from the sky confirms his parentage, he is named Bharata and becomes heir. The Drona Parva credits him with an enormous number of sacrifices, and the text says he ruled for twenty-seven thousand years. The Pandavas and Kauravas are said to descend from him, and according to popular tradition the old name Bharatavarsha, and today's Bharat, come from him. Other traditions give different origins for the name, including the Vedic Bharata people and the Jain emperor Bharata, who is a different figure.",
+  "kidSummary": "Bharata grew up in a forest hermitage and was so strong and brave as a child that he played with lion cubs. He became a great emperor, and many people say India's old name, Bharat, comes from him. The Pandavas and Kauravas of the Mahabharata are said to be his descendants.",
+  "story": [
+    {
+      "title": "Born in the forest",
+      "text": "Bharata is born to Shakuntala in the hermitage of the sage Kanva. As a child he is called Sarvadamana, 'the one who tames all', because even wild animals obey him."
+    },
+    {
+      "title": "The mark of a ruler",
+      "text": "The Mahabharata says the baby had the sign of a chakra on his right hand, meaning that he would one day be an emperor. The sage Kanva looks after him and tells Shakuntala this."
+    },
+    {
+      "title": "A name from the sky",
+      "text": "At six, he goes with Shakuntala to King Dushyanta's court. When the king hesitates, a voice from the sky says the boy is his son and tells him to cherish him, so he is named Bharata."
+    },
+    {
+      "title": "An emperor who gave much",
+      "text": "Bharata grows up to rule widely and perform great sacrifices. The text says he gave gifts to his grandfather, the sage Kanva, who led his ceremonies."
+    },
+    {
+      "title": "A name for a land",
+      "text": "According to popular tradition, the land he ruled came to be called Bharatavarsha, 'the land of Bharata'. India's Constitution still uses the old name Bharat today."
+    }
+  ],
+  "teaches": [
+    "Courage and strength used with care",
+    "Generosity in giving",
+    "Where we come from shapes who we are"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Chakra mark on the right hand", "Lion cub (in Kalidasa's play)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dushyanta",
+      "slug": "dushyanta"
+    },
+    {
+      "relation": "Mother",
+      "name": "Shakuntala",
+      "slug": "shakuntala"
+    },
+    {
+      "relation": "Grandfather (foster)",
+      "name": "Kanva",
+      "slug": "kanva"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Vishvamitra",
+      "slug": "vishvamitra"
+    },
+    {
+      "relation": "Son",
+      "name": "Bhumanyu"
+    },
+    {
+      "relation": "Adopted son (in some texts)",
+      "name": "Vitatha (also called Bharadvaja)"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva, Drona Parva)",
+    "Abhijnanashakuntalam by Kalidasa",
+    "Skanda Purana"
+  ],
+  "places": ["Kanva's hermitage near the Malini River", "Hastinapura", "Bharatavarsha"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Mahabharata says Bharata's own sons were not fit to succeed him. He prayed to the gods for an heir, and they gave him a boy named Vitatha, also called Bharadvaja.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says he was born with the strength of ten thousand elephants. Even as a child, he could tame wild animals.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His childhood name Sarvadamana means one who tames all. In Kalidasa's play, he was such a fearless child that he amused himself by prying open lions' mouths to count their teeth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, the name Bharata is announced from the sky. It means the cherished one, because the king is told to look after his son.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Skanda Purana tells it another way: a baby named Bharadvaja was left abandoned, the Maruts, the storm gods, adopted him, and when Bharata needed an heir they gave the boy to him. He is also known as Vitatha and later became king.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The epic says his grandfather, the sage Kanva, led all his ceremonies, and the emperor gave him countless horses and ten trillion gold coins as thanks.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "According to the Mahabharata, Bharata ruled for twenty-seven thousand years, and the realm he inherited and expanded became known as Bharata.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Article 1 of India's Constitution calls the country India, that is Bharat. The Constituent Assembly adopted both names in 1949-1950, and Bharat is also the official Hindi name.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana credits the land's name to a different Bharata, a son of King Rishabha, rather than to Dushyanta's son. So even among Hindu texts the name Bharatavarsha has more than one story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jain tradition ties the name to a different Bharata, the first chakravartin, who was the son of the first Tirthankara, Rishabhanatha. The two are separate figures in separate traditions.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Drona Parva, the boy Bharata is so strong that he checks lions, tigers and elephants and drags them about. The forest ascetics call him Sarvadamana because of this, and in the end his mother asks him to stop treating the animals so roughly.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07065.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Drona Parva counts Bharata's horse sacrifices by river: a hundred on the Yamuna, three hundred on the Sarasvati and four hundred on the Ganga, then a thousand more, 1,800 in all. It adds a hundred rajasuyas.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07065.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sanskrit word Bharata was first an epithet of the fire god Agni, and the Esperanto name for India, Barato, comes from the same word.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At one of his sacrifices, says the Drona Parva, the gods led by Indra came and set up a sacrificial post made wholly of gold, a hundred arm-spans wide.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07065.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play the boy wears an amulet from the sage Kashyapa, also called Maricha. If it falls, only his parents can lift it safely, so when Dushyanta picks it up unharmed, the attendants know he is the father.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/07_act.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The earliest known inscription to use the name Bharatavarsha is the Hathigumpha inscription of King Kharavela, from the 1st or 2nd century BCE. It applies the name only to part of northern India.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda already mentions a people called the Bharatas, who took part in the Battle of the Ten Kings, so the word Bharata had old uses apart from the emperor's story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Names_of_India",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata the heavenly voice tells Dushyanta that a mother is only the vessel and that a son born of the father is the father himself, before it gives the boy the name Bharata.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01075.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Drona Parva, Narada comforts a grieving king with the life stories of sixteen great kings of old, among them Bhagiratha, Ambarisha, Rantideva and Bharata, who all died despite their gifts.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07068.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Shakuntala's foster father Kanva returns, the Mahabharata says he foresees that her son will be a mighty ruler whose power will reach the sea.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Bharata's name as a small child?",
+      "options": ["Sarvadamana", "Shantanu", "Bhumanyu", "Marichi"],
+      "answer": 0,
+      "why": "Sarvadamana means 'one who tames all', because he could master wild animals."
+    },
+    {
+      "q": "Which sign did the Mahabharata say Bharata was born with?",
+      "options": ["A crown", "A chakra mark on his hand", "A bow", "A golden ring"],
+      "answer": 1,
+      "why": "The wheel-like chakra sign on his right hand showed he would be an emperor."
+    },
+    {
+      "q": "What does India's Constitution say in Article 1?",
+      "options": ["India, that is Bharat", "Only Bharat", "Hindustan", "Aryavarta"],
+      "answer": 0,
+      "why": "Article 1 uses both India and Bharat as the country's names."
+    },
+    {
+      "q": "How long does the Mahabharata say Bharata ruled?",
+      "options": ["27 years", "270 years", "2,700 years", "27,000 years"],
+      "answer": 3,
+      "why": "The epic states that he ruled for twenty-seven thousand years."
+    }
+  ],
+  "related": [
+    "dushyanta",
+    "shakuntala",
+    "kanva",
+    "vishvamitra",
+    "bharata-chakravartin",
+    "bharadvaja"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+    "namesOfIndia": "https://en.wikipedia.org/wiki/Names_of_India",
+    "abhijnanashakuntalam": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+    "shakuntala": "https://en.wikipedia.org/wiki/Shakuntala",
+    "dushyanta": "https://en.wikipedia.org/wiki/Dushyanta",
+    "dronaParva68": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07065.htm",
+    "act7": "https://franpritchett.com/00litlinks/shakuntala_jones/07_act.html",
+    "sambhava73": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm",
+    "sambhava74": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01075.htm",
+    "dronaParva71": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07068.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1e2b8",
+    "c2": "#d4c9e3"
+  },
+  "order": 500
+}

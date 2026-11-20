@@ -1,0 +1,338 @@
+{
+  "slug": "krishna",
+  "name": "Krishna",
+  "aka": ["Govinda", "Gopala", "Giridhari", "Ghanashyam", "Makhan Chor"],
+  "native": "कृष्ण",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "Eighth avatar of Vishnu and teller of the Bhagavad Gita",
+  "summary": "In Hindu tradition Krishna is the eighth avatar of Vishnu, loved as a playful cowherd child, a flute player and the wise guide who speaks the Bhagavad Gita to Arjuna.",
+  "about": "Krishna is one of the most widely worshipped figures in Hinduism. The Mahabharata shows him as a statesman and charioteer, and its Bhagavad Gita is his conversation with Arjuna at Kurukshetra. The Harivamsa and the Bhagavata Purana tell of his childhood in Gokula and Vrindavan, where he is a butter-loving child, a flute player and a friend of the gopis. Vaishnava traditions regard him as an avatar of Vishnu, and some, such as Gaudiya Vaishnavism, as the supreme being. His name means dark or dark blue, so images show him with that skin colour, a peacock feather and a flute. Different regions know him as Jagannath in Odisha, Vithoba in Maharashtra, Srinathji in Rajasthan and Guruvayurappan in Kerala. Janmashtami marks his birthday every year with fasting, songs and plays.",
+  "kidSummary": "Krishna is a much-loved figure in Hindu stories. As a child he is a mischievous butter-lover, and as a young man he plays the flute and makes friends everywhere. In the Bhagavad Gita he helps his friend Arjuna think clearly when things feel hard.",
+  "story": [
+    {
+      "title": "Born in a prison",
+      "text": "In the Puranic story, Krishna is born in King Kamsa's prison in Mathura. His father Vasudeva carries him across the Yamuna river to the village of Gokula."
+    },
+    {
+      "title": "A cowherd child",
+      "text": "Krishna grows up with Yashoda and Nanda among the cowherds. He steals butter, plays tricks on his friends and is loved by the whole village."
+    },
+    {
+      "title": "The mountain umbrella",
+      "text": "When heavy rains threaten Vrindavan, Krishna lifts Govardhan hill on his little finger so that the people and cows can shelter beneath it."
+    },
+    {
+      "title": "The flute",
+      "text": "His flute music draws the villagers, the cows and even the birds to listen. Dances in his honour are still staged in Vrindavan and Manipur."
+    },
+    {
+      "title": "A friend to Arjuna",
+      "text": "Years later, Krishna drives Arjuna's chariot at Kurukshetra. When Arjuna feels lost, Krishna speaks the Bhagavad Gita to help him think about duty and kindness."
+    }
+  ],
+  "teaches": [
+    "Do your duty without worrying about the reward",
+    "Friendship and devotion matter",
+    "Stay calm when decisions are hard",
+    "Joy and play are part of a good life"
+  ],
+  "symbol": "flute",
+  "emblems": [
+    "Flute (bansuri)",
+    "Peacock feather",
+    "Dark blue skin",
+    "Butter pot",
+    "Sudarshana chakra",
+    "Cow"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Devaki",
+      "slug": "devaki"
+    },
+    {
+      "relation": "Foster mother",
+      "name": "Yashoda",
+      "slug": "yashoda"
+    },
+    {
+      "relation": "Foster father",
+      "name": "Nanda",
+      "slug": "nanda"
+    },
+    {
+      "relation": "Elder brother",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Wife",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    },
+    {
+      "relation": "Wife",
+      "name": "Satyabhama",
+      "slug": "satyabhama"
+    },
+    {
+      "relation": "Beloved",
+      "name": "Radha",
+      "slug": "radha"
+    }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Bhagavad Gita",
+    "Harivamsa",
+    "Bhagavata Purana",
+    "Gita Govinda",
+    "Vishnu Purana"
+  ],
+  "places": [
+    "Mathura",
+    "Vrindavan",
+    "Dwarka, Gujarat",
+    "Udupi, Karnataka",
+    "Guruvayur, Kerala",
+    "Puri, Odisha"
+  ],
+  "festivals": ["Janmashtami", "Dahi Handi", "Govardhan Puja", "Rasa Lila"],
+  "facts": [
+    {
+      "text": "In the Bhagavata Purana, the serpent Kaliya poisons the Yamuna river near Vrindavan. Krishna dives in, dances on his many heads until the poison is gone, and then sends Kaliya away to a safer island.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaliya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, little Krishna is accused of eating mud. When his mother Yashoda looks into his mouth, she sees the whole universe inside.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yashoda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna's poor childhood friend Sudama visits Dwarka carrying a few handfuls of parched rice. Krishna welcomes him warmly and his hut turns into a palace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sudama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Heliodorus Pillar near Vidisha was raised by Heliodorus, a Greek ambassador who calls himself a Bhagavata, a devotee. He dedicated it to Vasudeva, a name of Krishna, around 125 to 100 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Coins of the Indo-Greek king Agathocles, from around 180 BCE, show Vasudeva-Krishna holding a conch and a discus.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 8
+    },
+    {
+      "text": "Jain tradition treats Neminatha, the 22nd Tirthankara, as Krishna's cousin.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 7
+    },
+    {
+      "text": "In the Bhagavata Purana, Yashoda ties mischievous Krishna to a heavy mortar. He drags it between two trees, and the trees turn back into two cursed sons of Kubera, set free by his touch.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yashoda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Janmashtami, women draw tiny footprints at their doors and walk them inward, a sign of Krishna walking into their homes.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Janmashtami",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Syamantaka, a ruby from the sun god Surya, gave eight bharas of gold a day, roughly 77 kg. Blamed for its loss, Krishna tracked it to the monkey king Jambavan's cave and fought him for 28 days. Jambavan returned the jewel and gave his daughter Jambavati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Buddhist Ghata Jataka, Krishna is overwhelmed by grief for his dead son until the wise Ghatapandita pretends to be mad to teach him a lesson. At the end the text says that Sariputta, a disciple of the Buddha, had been Vasudeva in that earlier life.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Philip Glass's 1979 opera Satyagraha uses only sayings from the Gita, sung in the original Sanskrit.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Udupi, a legend says Krishna's image turned west so the saint Kanakadasa, kept outside, could see it through a window. Historians say it has always faced west and call the turning a later folk story.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Krishna agrees to be Arjuna's charioteer on one condition: he will not lift a weapon himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Gita's eleventh chapter, Krishna gives Arjuna a heavenly eye so he can see the universal form, with faces turned in every direction.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mahatma Gandhi called the Gita his spiritual dictionary, and J. Robert Oppenheimer recited part of a verse from its eleventh chapter in a 1965 television documentary about the atomic bomb.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 9
+    },
+    {
+      "text": "Krishna's elder brother Balarama is called Haladhara, the plough-bearer, because he uses farm tools as weapons, and he is usually seen as an incarnation of the serpent Shesha. His image appears on coins dated to the 2nd century BCE.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Princess Rukmini of Vidarbha, whose brother wants her to marry Shishupala, secretly sends a Brahmin messenger to Krishna with a letter. She asks him to carry her off from the temple before the wedding, and Krishna sets out for Vidarbha with Balarama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Years later Krishna returns to Mathura and overthrows the tyrant Kamsa after foiling his plots, then puts Kamsa's father Ugrasena back on the throne. The ancient grammarian Patanjali already uses the word Kamsavadha, the killing of Kamsa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata's Mausala Parva, Arjuna watches the sea rush into Dvaraka until the city is gone. Underwater digs at Dwarka and Bet Dwarka in 1983 to 1990 found structures, and the archaeologist S. R. Rao argued they match the epic's Dvaraka.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dvaraka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says a hunter named Jara mistook the sleeping Krishna for a deer and shot an arrow at his foot. Krishna forgave him, and Bhalka in Gujarat is where he is believed to have left the world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sent by Kamsa, the rakshasi Putana disguises herself as a beautiful woman and nurses baby Krishna with poisoned milk, but the infant draws out her life instead. Because she nursed him, some texts call her a foster-mother.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the dice-game scene at the Kuru court, the sari that Dushasana pulls from Draupadi never runs out. Many tellings credit Krishna, though a scholar's study of the Critical Edition suggests that part is a later addition.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The English word juggernaut comes from Jagannath. Early British visitors who watched the Ratha Yatra chariots of Puri used the name for any huge, unstoppable force.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In chapter 3 of the Gita, called Karma Yoga, Krishna tells Arjuna that nobody can avoid action, since refusing to act is itself an act. Scholars sum up the Gita's lesson as doing your duty while giving up attachment to the results.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hill did Krishna lift in the Puranic story?",
+      "options": ["Kailash", "Govardhan", "Vindhya", "Meru"],
+      "answer": 1,
+      "why": "He lifts Govardhan hill to shelter the people of Vrindavan from heavy rain."
+    },
+    {
+      "q": "What does the name Krishna roughly mean?",
+      "options": ["Golden", "Dark or dark blue", "Moon-like", "Fearless"],
+      "answer": 1,
+      "why": "The Sanskrit root means dark, which is why he is shown with dark blue skin."
+    },
+    {
+      "q": "What happens at Dahi Handi?",
+      "options": [
+        "Lamps are floated on rivers",
+        "Teams form a human pyramid to break a pot",
+        "Coloured powder is thrown",
+        "Boats race on a lake"
+      ],
+      "answer": 1,
+      "why": "Teams in Maharashtra climb on each other to break a pot of buttermilk, echoing his butter-stealing."
+    },
+    {
+      "q": "How many chapters does the Bhagavad Gita have?",
+      "options": ["12", "18", "24", "108"],
+      "answer": 1,
+      "why": "The Gita has 18 chapters and 700 verses."
+    },
+    {
+      "q": "Which instrument is Krishna known for?",
+      "options": ["Veena", "Drum", "Sitar", "Flute"],
+      "answer": 3,
+      "why": "He is shown with the bansuri, a bamboo flute."
+    }
+  ],
+  "related": [
+    "vishnu",
+    "balarama",
+    "radha",
+    "arjuna",
+    "yashoda",
+    "devaki",
+    "rukmini",
+    "kamsa",
+    "jagannath",
+    "vithoba"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Krishna",
+    "gita": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+    "janmashtami": "https://en.wikipedia.org/wiki/Janmashtami",
+    "udupi": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+    "govardhan": "https://en.wikipedia.org/wiki/Govardhan_Hill",
+    "jagannath": "https://en.wikipedia.org/wiki/Jagannath"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#bcd4ea",
+    "c2": "#f6e7b4"
+  },
+  "order": 8
+}

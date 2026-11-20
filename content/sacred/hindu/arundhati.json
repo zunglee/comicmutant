@@ -1,0 +1,274 @@
+{
+  "slug": "arundhati",
+  "name": "Arundhati",
+  "aka": ["Arundhatī"],
+  "native": "अरुन्धती",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Wife of Vasishtha and the star Alcor",
+  "summary": "Arundhati is the wife of the sage Vasishtha and is honoured as a model of devotion. In Indian astronomy her star is faint Alcor, which sits beside Vasishtha's star Mizar.",
+  "about": "Hindu texts differ about her birth. The Bhagavata Purana calls her a daughter of Kardama and Devahuti, the Shiva Purana links her to Sandhya, and other Puranas call her Kashyapa's daughter. All agree she is the wife of the sage Vasishtha. The Valmiki Ramayana tells of the hundred sons she lost in Vishvamitra's feud and then of her sons Shakti and Suyagya. The Mahabharata praises her as an ascetic wise enough to teach the seven sages. In the sky she is the faint star Alcor beside Mizar, and a Hindu wedding custom has the couple look at them together.",
+  "kidSummary": "Arundhati is a wise and gentle woman of the old stories, the wife of the sage Vasishtha. At night you can look for her as a tiny star beside a brighter one in the Big Dipper. It is a classic test of sharp eyes.",
+  "story": [
+    {
+      "title": "A wise woman",
+      "text": "Arundhati is the wife of the sage Vasishtha. The Mahabharata says she was so wise that even the seven sages listened to her."
+    },
+    {
+      "title": "Not even Svaha could copy her",
+      "text": "In the Mahabharata, Agni's wife Svaha takes the shapes of the other six sages' wives. She cannot copy Arundhati."
+    },
+    {
+      "title": "Twelve dry years",
+      "text": "When no rain falls for twelve years, the seven sages have no roots or fruit. The Mahabharata says Arundhati's devotion pleases Shiva."
+    },
+    {
+      "title": "A star in the sky",
+      "text": "In the night sky, Vasishtha is the star Mizar and Arundhati is little Alcor beside it. They are two of the stars in the Big Dipper."
+    },
+    {
+      "title": "A wedding custom",
+      "text": "At many Hindu weddings the couple is shown these two stars. People point to the bright star first and then to the faint one nearby."
+    }
+  ],
+  "teaches": [
+    "Be a loyal and steady friend",
+    "Wisdom and quiet devotion go together",
+    "Patience helps you see faint things"
+  ],
+  "symbol": "star",
+  "emblems": ["Alcor (the faint star beside Mizar)", "Seven sages' stars (Big Dipper)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Son",
+      "name": "Shakti"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Parashara",
+      "slug": "parashara"
+    },
+    {
+      "relation": "Great-grandson",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Shiva Purana",
+    "Mahabharata",
+    "Valmiki Ramayana",
+    "Kumarasambhava",
+    "Ramcharitmanas"
+  ],
+  "places": [],
+  "festivals": ["Hindu wedding (Arundhati Darshana)", "Chaitra fast for married women"],
+  "facts": [
+    {
+      "text": "In Indian astronomy the faint star Alcor is Arundhati and the brighter Mizar beside it is her husband Vasishtha, a double star in the Big Dipper.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Sanskrit saying Arundhati-darshana-nyaya, 'the rule of showing Arundhati', names the habit of pointing first at brighter stars and then at the faint one beside them, so the unknown is found from the known.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata describes her as an ascetic who even gave teachings to the seven sages. Agni's wife Svaha could take the form of six sages' wives but could not copy Arundhati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mizar and Alcor look like a simple pair to the eye, yet they are really a system of six stars, all held together by gravity. Arundhati's tiny companion star is part of that family.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Japan calls Alcor the 'Lifespan Star', and not being able to see it was once rumoured to hint at old age. India has a similar folk belief that a person near death cannot see Arundhati's star.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At a Hindu wedding the husband points out the pole star Dhruva, a symbol of a steady home, and then shows his wife the Arundhati star, held up as an ideal of loyal devotion.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hindu_wedding",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mizar, which Indian astronomy calls Vasishtha, was one of the first double stars ever noticed through a telescope. Benedetto Castelli, a colleague of Galileo, saw it in the 17th century, and Giovanni Battista Riccioli is also credited with it in 1650.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Arabs and ancient Persians used the Mizar and Alcor pair as an eyesight test. The word behind Alcor's Arabic name, suha, means roughly 'the forgotten one'.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her name is Sanskrit and means 'washed by the rays of the sun', from words for sun rays and washed.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, Arundhati was earlier Sandhya, a daughter born from Brahma's mind. After her penance to Shiva she was told to leap into the sage Medhatithi's fire, and she was then born as Medhatithi's daughter and married Vasishtha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Other Puranas say she was the daughter of the sage Kashyapa and sister of Narada, who arranged her marriage to Vasishtha, while the Bhagavata Purana makes her the eighth of the nine daughters of Kardama and Devahuti. Texts disagree about her birth.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Arundhati is also identified with the morning star, the planet Venus, as well as with the faint star Alcor.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Although she is the wife of one of the seven sages, Arundhati is given the same status as the seven sages and is worshipped together with them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mizar and Alcor together are sometimes called the Horse and Rider, with Mizar as the horse. In England the pair is popularly called Jack on the Middle Horse.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1908 the Mizar and Alcor group became the first apparent five-star system ever discovered, and in 2009 astronomers hunting for planets found that Alcor is double too. That makes six stars bound together, about 83 light-years away.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Mi'kmaq story of a great bear and seven hunters, Mizar is a chickadee bird and Alcor is his cooking pot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A faint star called Ludwig's Star sits between Mizar and Alcor. It is a distant background star, once mistaken for a planet, and some say it is the star that the old eyesight test really refers to.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mizar and Alcor move through space together with most of the other Big Dipper stars, apart from two, as members of the Ursa Major moving group, a family of stars that share a common birth.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Arundhati's son Suyagya studied with Rama at Vasishtha's hermitage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the sixth canto of Kalidasa's Kumarasambhava, Arundhati goes with the seven sages to persuade Shiva to marry Parvati.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which star is Arundhati in Indian astronomy?",
+      "options": ["Polaris", "Alcor", "Sirius", "Antares"],
+      "answer": 1,
+      "why": "Alcor is the faint star beside Mizar, which is Vasishtha."
+    },
+    {
+      "q": "Who is Arundhati's husband?",
+      "options": ["Atri", "Vasishtha", "Agastya", "Vishvamitra"],
+      "answer": 1,
+      "why": "She is the wife of Vasishtha, one of the seven sages."
+    },
+    {
+      "q": "What does her name mean?",
+      "options": [
+        "Washed by the sun's rays",
+        "Child of the sea",
+        "Golden lotus",
+        "Guardian of rivers"
+      ],
+      "answer": 0,
+      "why": "Arun means sun rays and dhati means washed."
+    },
+    {
+      "q": "Which grandson of Arundhati was Vyasa's father?",
+      "options": ["Shakti", "Parashara", "Suyagya", "Atri"],
+      "answer": 1,
+      "why": "Parashara is Vasishtha and Arundhati's grandson."
+    },
+    {
+      "q": "When are the Arundhati stars shown to a couple?",
+      "options": ["At a birth", "At a wedding", "At a harvest", "At Diwali"],
+      "answer": 1,
+      "why": "Many Hindu weddings include this custom."
+    }
+  ],
+  "related": [
+    "vasishtha",
+    "parashara",
+    "vyasa",
+    "anasuya",
+    "atri",
+    "narada",
+    "kashyapa",
+    "vishvamitra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)",
+    "mizar-alcor": "https://en.wikipedia.org/wiki/Mizar_and_Alcor",
+    "hindu-wedding": "https://en.wikipedia.org/wiki/Hindu_wedding",
+    "vasishtha": "https://en.wikipedia.org/wiki/Vasishtha",
+    "saptarishi": "https://en.wikipedia.org/wiki/Saptarishi"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9d4ec",
+    "c2": "#f1e6cf"
+  },
+  "order": 764
+}

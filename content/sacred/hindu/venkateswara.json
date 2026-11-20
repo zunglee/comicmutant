@@ -1,0 +1,276 @@
+{
+  "name": "Venkateswara",
+  "aka": ["Srinivasa", "Balaji", "Govinda", "Venkatesa", "Elumalayan"],
+  "native": "వేంకటేశ్వర",
+  "role": "Lord of the Seven Hills at Tirumala",
+  "summary": "Venkateswara is a form of Vishnu worshipped at Tirumala, near Tirupati in Andhra Pradesh. His temple is among the most visited in the world, and its laddu is famous.",
+  "about": "Venkateswara, also called Srinivasa and Balaji, is honoured as a form of Vishnu at the temple on Venkatadri, one of the Tirumala hills in Andhra Pradesh. Devotees believe the image appeared by itself, and Puranic stories tell of the sage Bhrigu's test, the marriage of Srinivasa and Padmavathi, and a loan from Kubera for the wedding. The temple has inscriptions from many centuries, and royal families, including the Pallavas and Vijayanagara rulers, made gifts to it. Ramanuja is said to have settled a dispute about the deity in the 12th century. The poet-saint Annamacharya sang thousands of songs for him. Today millions of pilgrims visit each year, and many offer their hair and take home the famous laddu.",
+  "kidSummary": "Venkateswara is a form of Vishnu who lives on the Seven Hills at Tirumala. A famous story says he borrowed money from Kubera to pay for his wedding. Millions of people visit his temple every year, and everyone loves its sweet laddu.",
+  "story": [
+    {
+      "title": "A sage's test",
+      "text": "In the Puranic story, the sage Bhrigu is sent to decide which god a great sacrifice should honour, and Vishnu answers his rude kick with kindness and gentle care."
+    },
+    {
+      "title": "Lakshmi leaves",
+      "text": "Lakshmi is upset by the incident and leaves, and Vishnu goes down to earth to look for her, living on the Venkata hill."
+    },
+    {
+      "title": "A new family",
+      "text": "He is raised as Srinivasa by Vakula Devi, and he meets the princess Padmavathi, who loves him."
+    },
+    {
+      "title": "A wedding needs money",
+      "text": "Srinivasa takes a large loan from Kubera, the god of wealth, to pay for the wedding feast and gifts."
+    },
+    {
+      "title": "The marriage",
+      "text": "Padmavathi and Srinivasa marry, and the families celebrate together in great joy."
+    },
+    {
+      "title": "Staying on the hill",
+      "text": "Srinivasa stays on the Seven Hills as Venkateswara, and many pilgrims come each year to offer thanks and help repay his debt."
+    }
+  ],
+  "teaches": [
+    "Humility can answer even an insult",
+    "Generosity and thanksgiving to God",
+    "Patience and faith on a long journey"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Conch and discus",
+    "Seven hills (Adisesha's seven heads)",
+    "Naga ornament",
+    "Garuda (vahana)"
+  ],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Consort",
+      "name": "Padmavathi"
+    },
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Lender of the wedding loan",
+      "name": "Kubera",
+      "slug": "kubera"
+    },
+    {
+      "relation": "Wrote the wedding invitation",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    }
+  ],
+  "texts": [
+    "Skanda Purana",
+    "Varaha Purana",
+    "Venkateswara Suprabhatam",
+    "Annamacharya's songs",
+    "Cilappatikaram (mention of Venkatam)"
+  ],
+  "places": [
+    "Tirumala Venkateswara Temple",
+    "Swami Pushkarini tank",
+    "Venkatadri hills",
+    "Tiruchanur (Padmavathi temple)"
+  ],
+  "festivals": ["Brahmotsavam", "Vaikuntha Ekadashi", "Rathasapthami", "Kaishika Dwadasi"],
+  "facts": [
+    {
+      "text": "A legend says a cowherd's blow left a bald patch on Venkateswara's head, and the Gandharva princess Neela Devi gave a lock of her own hair; in return, devotees' hair is offered to her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Many pilgrims have their heads shaved as an offering called Mokku, and the temple collects over a ton of hair every day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the hundi tradition, devotees give money to help repay Srinivasa's wedding loan from Kubera, said to be 1.14 crore gold coins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Puranic story, Bhrigu kicks Vishnu's chest. Vishnu massages the sage's foot and crushes an extra eye on the sole, ending his pride.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local tradition says the seven peaks of Tirumala are the seven heads of the serpent Adisesha.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 7th Nizam of Hyderabad, Mir Osman Ali Khan, gave the temple an annual donation of 8,000 rupees.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "About 3,000 copper plates record songs by the poet-saint Annamacharya and his family, and he is credited with 32,000 songs for the deity.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The temple observes 433 festivals in 365 days, so it is called 'Nitya Kalyanam Paccha Toranam': every day is a festival, with green wedding festoons.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Koluvu Srinivasa is regarded as guardian of the temple's finances, and each day's accounts are presented to this image.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "About 24 million devotees visit each year, over 60,000 on an average day.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Tirupati laddu is traditionally dated to 2 August 1715, got a Geographical Indication tag in 2009, and about 280,000 are made daily.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tirupati_laddu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The laddu kitchen uses about 10 tonnes each of gram flour and sugar daily, plus cashews, cardamom, ghee and raisins.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tirupati_laddu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Records name Pallava queen Samavai's gift in 966 CE, jewels plus two plots of 10 and 13 acres whose income paid for major festivals, as the temple's first recorded land endowment.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thulabharam ritual, a devotee sits on one pan of a scale and the other pan is filled with sugar, jaggery, bananas, gold or coins until it outweighs them; it is mostly done for babies and children.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Tamil epic Cilappatikaram, one of the Five Great Epics of Tamil literature, mentions the Tirumala temple, so the hill shrine was already famous in early Tamil poetry.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The temple carries as many as 640 inscriptions in Kannada, Sanskrit, Tamil and Telugu, a record of centuries of royal gifts.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The three-storey tower over the sanctum, the Ananda Nilayam, is gold plated. Inscriptions place the gold plating in the 13th century, and a Pandya king added a gold-plated finial around 1262.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the Bhuvaraha Swamy temple beside the pond is older than the Venkateswara temple, and that food is offered first to Varaha, and only then to Venkateswara.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Dhanurmasam, from mid-December to mid-January, the morning Suprabhatam is replaced by Andal's Tiruppavai, and Venkateswara is worshipped as Krishna, with a silver Krishna placed on a swing at night.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "By the Vaikhanasa tradition the deity is present in five images, the Pancha Beramulu: the main image, one for daily services, one for bathing, one for processions, and Koluvu Srinivasa, the guardian of the temple's accounts.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the story, who gave Srinivasa a loan for his wedding?",
+      "options": ["Kubera", "Indra", "Agni", "Yama"],
+      "answer": 0,
+      "why": "Kubera, the god of wealth, is said to have lent the money."
+    },
+    {
+      "q": "What are the Tirumala peaks said to represent?",
+      "options": ["Seven rivers", "Seven heads of Adisesha", "Seven stars", "Seven brothers"],
+      "answer": 1,
+      "why": "Local tradition links the seven peaks to the heads of Adisesha."
+    },
+    {
+      "q": "What famous sweet is given at Tirupati?",
+      "options": ["Jalebi", "Laddu", "Gulab jamun", "Kheer"],
+      "answer": 1,
+      "why": "The Tirupati laddu has a GI tag and is made in huge numbers."
+    },
+    {
+      "q": "Which poet-saint sang thousands of songs for Venkateswara?",
+      "options": ["Kabir", "Annamacharya", "Surdas", "Tulsidas"],
+      "answer": 1,
+      "why": "Annamacharya is credited with about 32,000 songs."
+    },
+    {
+      "q": "In which state is Tirumala?",
+      "options": ["Andhra Pradesh", "Gujarat", "Assam", "Punjab"],
+      "answer": 0,
+      "why": "Tirumala is near Tirupati in Andhra Pradesh."
+    }
+  ],
+  "related": ["vishnu", "lakshmi", "kubera", "brihaspati", "ramanuja", "garuda"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Venkateswara",
+    "temple": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+    "laddu": "https://en.wikipedia.org/wiki/Tirupati_laddu"
+  },
+  "palette": {
+    "c1": "#e0b878",
+    "c2": "#8fb4c2"
+  },
+  "order": 80,
+  "slug": "venkateswara",
+  "tradition": "hindu",
+  "group": "deva",
+  "depth": "full"
+}

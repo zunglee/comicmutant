@@ -1,0 +1,172 @@
+{
+  "name": "Naminatha",
+  "aka": ["Nami", "Naminath"],
+  "native": "नमिनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "21st Tirthankara of the present Jain age",
+  "summary": "Naminatha is the 21st Tirthankara. Jain tradition says kings besieging Mithila surrendered before he was even born, which gave him his name.",
+  "about": "In Jain tradition Naminatha is the 21st of the 24 tirthankaras of the present age. Jain texts say he was born in Mithila to King Vijaya and Queen Vapra of the Ikshvaku line. His best-known story comes before his birth: powerful kings surrounded the city, but the peace around the unborn child made them bow and surrender, and the name Nami recalls this. Jain accounts say he ruled peacefully, then became a monk, gained omniscience under a bakula tree and was liberated at Shikharji. Historians treat the older tirthankaras as part of religious tradition rather than documented history, so the details come from Jain texts.",
+  "kidSummary": "Naminatha is the 21st of the 24 Tirthankaras in Jainism. His name is linked to bowing, because Jain stories say enemy kings stopped fighting before he was even born. Later he gave up his kingdom to become a monk. Jains believe he found freedom on the mountain Shikharji.",
+  "story": [
+    {
+      "title": "A city under siege",
+      "text": "Jain stories say that before Naminatha was born, strong kings surrounded the city of Mithila. King Vijaya and the people were worried."
+    },
+    {
+      "title": "Peace without a fight",
+      "text": "On an augur's advice, the queen looked kindly at the enemy armies from the palace roof. Her calm gaze, carrying the peace of the unborn child, melted their anger, and the kings bowed to King Vijaya."
+    },
+    {
+      "title": "The name of bowing",
+      "text": "The child was named Nami, which has to do with bowing, to remember how the enemies had bowed down without a battle."
+    },
+    {
+      "title": "From king to monk",
+      "text": "Naminatha grew up, ruled Mithila peacefully, then left his throne behind to become a monk and meditate."
+    },
+    {
+      "title": "Wisdom and freedom",
+      "text": "Jains believe he gained perfect knowledge under a bakula tree, taught many followers, and was freed on Shikharji."
+    }
+  ],
+  "teaches": [
+    "Peace can win without a fight",
+    "Kindness softens anger",
+    "Giving up wealth and power to find inner calm"
+  ],
+  "symbol": "sun",
+  "emblems": ["Blue lotus", "Bakula tree (of omniscience)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Vijaya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Vapra"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Munisuvrata",
+      "slug": "munisuvrata"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Neminatha",
+      "slug": "neminatha"
+    }
+  ],
+  "texts": ["Tirthankara Charitra", "Vividha Tirtha Kalpa"],
+  "places": ["Mithila (birthplace)", "Mithilapuri Jain Teerth, Bihar", "Shikharji, Jharkhand"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Kings besieged Mithila while Nami was unborn. Jainworld says that on an augur's advice the queen looked kindly at the armies from the palace roof, her child's peaceful aura calmed them, and they bowed to King Vijaya.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-21.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His name comes from the Sanskrit naman, bowing. Jain tradition says it was chosen because the besieging kings bowed and gave up their weapons before he was even born.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Naminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jainworld says his mother, Queen Vipra, saw fourteen auspicious dreams, so augurs foretold a child who would be either a world-emperor or a Tirthankara.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-21.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The names of Naminatha, the 21st Jina, and Neminatha, the 22nd, are spelled almost alike. Nemi means the rim of a wheel, while Nami means bowing.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 14th-century Vividha Tirtha Kalpa says Mithila once had temples to both Naminatha and Mallinatha. The old buildings were lost over the centuries.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Naminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Digambaras place Mithilapuri at Sursand and Svetambaras at Dumra, both in Sitamarhi district. The Svetambara search began in 1993 and temple construction in 2014.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mithilapuri_Jain_Teerth",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jainpedia gives his body colour as black, yellow or emerald, depending on the source, and his emblem as the blue lotus.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/people/jina/nami",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 10th-century Naminatha Swami temple at Khajuraho was probably first built for Rishabhanatha. It blends Jain architecture with Vaishnava-style outer carving.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Naminatha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did the enemy kings do around Mithila in the story of Naminatha?",
+      "options": [
+        "They burned the city",
+        "They bowed and surrendered peacefully",
+        "They ran away at night",
+        "They crowned him king at once"
+      ],
+      "answer": 1,
+      "why": "Jain tradition says the kings bowed and surrendered without fighting."
+    },
+    {
+      "q": "What is the emblem of Naminatha?",
+      "options": ["A blue lotus", "A goat", "A tortoise", "A conch shell"],
+      "answer": 0,
+      "why": "A blue lotus (blue water lily) is carved below his images."
+    },
+    {
+      "q": "Where do Jains believe Naminatha was liberated?",
+      "options": ["Shikharji", "Girnar", "Pawapuri", "Ayodhya"],
+      "answer": 0,
+      "why": "Jain tradition names Sammed Shikharji in Jharkhand."
+    },
+    {
+      "q": "Under which tree is Naminatha said to have gained perfect knowledge?",
+      "options": ["Peepal", "Bakula", "Banyan", "Ashoka"],
+      "answer": 1,
+      "why": "The bakula tree is named in Jain accounts."
+    },
+    {
+      "q": "What does the name Nami have to do with?",
+      "options": ["Bowing", "Rivers", "A wheel", "Mountains"],
+      "answer": 0,
+      "why": "The name comes from a Sanskrit word for bowing, remembering the kings who bowed to his father."
+    }
+  ],
+  "related": ["munisuvrata", "neminatha", "mallinatha", "parshvanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Naminatha",
+    "jainworld": "https://jainworld.jainworld.com/jainbooks/tirthankar/bhag-21.htm",
+    "shikharji": "https://en.wikipedia.org/wiki/Shikharji",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/nami"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#d4e1f1",
+    "c2": "#f1e5d3"
+  },
+  "order": 21,
+  "slug": "naminatha"
+}

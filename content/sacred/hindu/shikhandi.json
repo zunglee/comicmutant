@@ -1,0 +1,265 @@
+{
+  "slug": "shikhandi",
+  "name": "Shikhandi",
+  "aka": ["Shikhandini", "Sikhandi", "Srikandi (Java)"],
+  "native": "शिखण्डी",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Prince of Panchala, son of Drupada, central to Bhishma's fall",
+  "summary": "In the Mahabharata, Shikhandi is the child of King Drupada, born female as Shikhandini and later male, who is linked to Amba's promise to bring about Bhishma's fall.",
+  "about": "In the Mahabharata, Shikhandi is a prince of Panchala and a brother of Draupadi. The epic says he was born to King Drupada as Shikhandini, a daughter raised as a boy because of Shiva's words, and later became male through an exchange with a yaksha named Stunakarna. In most versions of the text he is the rebirth of Amba, a princess of Kashi who had promised to see Bhishma's fall. He fights on the Pandava side, commands one of their seven divisions, and rides in front of Arjuna on the tenth day, so Bhishma, who refused to fight him, could be stopped. In the Sauptika Parva he is among those who fall in the night raid on the Pandava camp. Versions of the story differ: in the Javanese wayang tradition the character, Srikandi, remains a woman and is an archer-wife of Arjuna.",
+  "kidSummary": "Shikhandi is a brave prince of Panchala in the Mahabharata. The epic says Shikhandi was a rebirth of Amba, who had made a big promise about Bhishma, and helped the Pandavas in the great war. In Java, shadow-puppet plays tell the story of an archer princess named Srikandi.",
+  "story": [
+    {
+      "title": "Amba's promise",
+      "text": "In the Mahabharata, Princess Amba is taken away from her own wedding plans by Bhishma, and he cannot marry her because of his vow. Amba prays to Shiva to be the cause of his fall in a later life."
+    },
+    {
+      "title": "A child raised as a prince",
+      "text": "King Drupada, the epic says, receives a child from Shiva's blessing. The child is called Shikhandini at birth, and the king raises the child as a prince."
+    },
+    {
+      "title": "The kind yaksha",
+      "text": "When the marriage plan brings trouble, Shikhandi goes to a forest. A kind yaksha named Stunakarna offers to swap forms, and Shikhandi returns home as a prince."
+    },
+    {
+      "title": "Across the battlefield",
+      "text": "At Kurukshetra, Shikhandi joins the Pandavas. Bhishma tells the Pandavas he will not fight Shikhandi, because of how Shikhandi was born."
+    },
+    {
+      "title": "The tenth day",
+      "text": "On the tenth day Shikhandi rides at the front with Arjuna behind. Bhishma lowers his bow, Arjuna's arrows fly, and Bhishma's long part in the war ends."
+    }
+  ],
+  "teaches": [
+    "Promises and sincere wishes matter",
+    "Courage in the face of difficult circumstances",
+    "Kindness: a yaksha offers help to someone in need"
+  ],
+  "symbol": "feather",
+  "emblems": ["Peacock (the name's other meaning)", "Bow"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Drupada",
+      "slug": "drupada"
+    },
+    {
+      "relation": "Brother",
+      "name": "Dhrishtadyumna",
+      "slug": "dhrishtadyumna"
+    },
+    {
+      "relation": "Sister",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    },
+    {
+      "relation": "Previous birth (in most versions)",
+      "name": "Amba",
+      "slug": "amba"
+    },
+    {
+      "relation": "Ally in the war",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Mahabharata (Udyoga Parva, Bhishma Parva)", "Wayang (Javanese) tradition"],
+  "places": ["Panchala", "Kurukshetra", "Dasharna"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Shikhandin is a Sanskrit word for a crested or tufted one and also for a peacock. Its feminine form, Shikhandini, is the prince's birth name in the epic and also names a peahen.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/shikhandi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In most versions of the Mahabharata, Shikhandi was Amba in an earlier life, the eldest princess of Kashi. Her vow to be the cause of Bhishma's fall is the thread that ties the two lives together.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "The epic says that Amba then did hard penance for twelve years until Shiva appeared; he granted that she would be born as a girl who would later become a man and bring Bhishma down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "In C. Rajagopalachari's retelling, the god Kartikeya gives Amba a garland of blue lotuses, and whoever wears it will bring about Bhishma's fall. No king dares to take up her cause, so she hangs it up at King Drupada's palace and leaves.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After her disguise was found out, Shikhandini left home to fast to death and entered a forest humans feared, home of the yaksha Stunakarna. Moved by her story, he kindly offered to swap bodies with her for a time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The epic says the god Kubera was displeased with Stunakarna and cursed the exchange to be permanent, to last until Shikhandi's death, when the yaksha would get back his own form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 8
+    },
+    {
+      "text": "Drupada arranged Shikhandi's marriage to the daughter of Hiranyavarman, king of Dasharna. When Hiranyavarman found out the truth he angrily prepared for war, and a distressed Shikhandi left home, which led to the forest and the yaksha Stunakarna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the Drupada article, Shikhandi was Drupada's first child. The fire-born twins Dhrishtadyumna and Draupadi came later, once the king wanted a son strong enough to face Drona.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "Before the war, Bhima wanted Shikhandi as commander-in-chief of the Pandava army because he was born to bring down Bhishma, but Arjuna and Krishna preferred Dhrishtadyumna. Shikhandi led one of the seven divisions instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "In the Udyoga Parva council Bhima argued that sages and siddhas had foretold Shikhandin's birth for Bhishma's fall, that no one could pierce him in armour on his chariot, and that only he could end Bhishma in a single combat.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05151.htm",
+      "interest": 8
+    },
+    {
+      "text": "On day one Shikhandi and Ashwatthama wounded each other several times before drawing apart. On day seven Shikhandi hit him on the forehead, but Ashwatthama smashed his chariot and wounded him badly until Satyaki came to the rescue.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "Shikhandi was not unbeatable. On the fourteenth night Kripa defeated him, and on the sixteenth day an arrow from Kritavarma pierced his armour and made him faint.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "On the ninth night Bhishma told Yudhishthira that he could not be beaten while he held weapons, but that he would refuse to fight Shikhandi, who was born female. Arjuna could then bring him down once he laid his arms aside.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the tenth day Shikhandi rode at the front with Arjuna right behind him. Because Bhishma would not shoot at Shikhandi, Arjuna could aim his arrows from that cover, and Bhishma fell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shikhandi's only son, Kshatradeva, was wounded on the twelfth day of the war by Lakshmana Kumara, a son of Duryodhana.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "The Puranic Encyclopedia entry on Wisdomlib notes that Shikhandini was present at Abhimanyu's wedding in the city of Upaplavya, citing Virata Parva, chapter 72.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/shikhandi",
+      "interest": 7
+    },
+    {
+      "text": "In the Sauptika Parva's night raid on the Pandava camp, Shikhandi struck Ashwatthama with an arrow, and Ashwatthama, armed with a divine sword from Shiva, brought him down. Wisdomlib's summary also says Ashwatthama killed him on the eighteenth day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sauptika_Parva",
+      "interest": 8
+    },
+    {
+      "text": "A Shiva Purana description of a wedding hall lists decorations that fooled the eye: artificial lions, storks, and artificial peacocks, which the text calls shikhandin.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/shikhandi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Javanese wayang puppet plays the character is called Srikandi, remains a woman, and is a skilled archer. She becomes Arjuna's second wife after Sembadra.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shikhandi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 2016 Indonesian film 3 Srikandi tells of the women's archery trio who won Indonesia's first Olympic medal, a silver at Seoul in 1988. Srikandi is Shikhandi's Javanese name.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kusuma_Wardhani",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose rebirth is Shikhandi in most versions of the Mahabharata?",
+      "options": ["Ambika", "Amba", "Ambalika", "Gandhari"],
+      "answer": 1,
+      "why": "The epic names Amba, the princess of Kashi."
+    },
+    {
+      "q": "Who offered to exchange forms with Shikhandi in the forest?",
+      "options": [
+        "A yaksha named Stunakarna",
+        "A sage named Dhaumya",
+        "A naga king",
+        "A gandharva"
+      ],
+      "answer": 0,
+      "why": "Stunakarna the yaksha kindly offered the exchange."
+    },
+    {
+      "q": "On the tenth day of the war, who rode behind Shikhandi?",
+      "options": ["Bhima", "Yudhishthira", "Arjuna", "Nakula"],
+      "answer": 2,
+      "why": "Arjuna shot from behind Shikhandi, as Bhishma would not fight Shikhandi."
+    },
+    {
+      "q": "What is Shikhandi called in Javanese shadow-puppet plays?",
+      "options": ["Sembadra", "Srikandi", "Kunti", "Hidimbi"],
+      "answer": 1,
+      "why": "Srikandi is the Javanese form, shown as an archer princess."
+    },
+    {
+      "q": "What other living creature does the word shikhandin name?",
+      "options": ["A crow", "A peacock", "A swan", "A parrot"],
+      "answer": 1,
+      "why": "Shikhandin means crested, and also a peacock."
+    }
+  ],
+  "related": [
+    "drupada",
+    "dhrishtadyumna",
+    "draupadi",
+    "amba",
+    "bhishma",
+    "arjuna",
+    "ashwatthama",
+    "shiva"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shikhandi",
+    "drupada": "https://en.wikipedia.org/wiki/Drupada",
+    "wisdomlib": "https://www.wisdomlib.org/definition/shikhandi",
+    "panchala": "https://en.wikipedia.org/wiki/Panchala_kingdom",
+    "amba": "https://en.wikipedia.org/wiki/Amba_(Mahabharata)",
+    "akshauhini": "https://en.wikipedia.org/wiki/Akshauhini",
+    "kusuma_wardhani": "https://en.wikipedia.org/wiki/Kusuma_Wardhani",
+    "bhishma": "https://en.wikipedia.org/wiki/Bhishma"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#a8c8c4",
+    "c2": "#efe3c8"
+  },
+  "order": 500
+}

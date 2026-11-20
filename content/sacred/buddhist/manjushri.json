@@ -1,0 +1,263 @@
+{
+  "slug": "manjushri",
+  "name": "Manjushri",
+  "aka": ["Manjughosha", "Wenshu", "Monju", "Jampelyang"],
+  "native": "मञ्जुश्री",
+  "role": "Bodhisattva of wisdom",
+  "summary": "In Mahayana Buddhism, Manjushri is the bodhisattva of wisdom, usually shown with a flaming sword that cuts through confusion. He is linked to Mount Wutai in China and to the legend of Swayambhunath in Nepal.",
+  "about": "Mahayana sutras present Manjushri as the bodhisattva of wisdom, often shown as a youth. In his raised hand he holds a flaming sword, which stands for wisdom that cuts through ignorance, and in many images he rides a blue lion. Several sutras say he is in fact a fully awakened Buddha who appears as a bodhisattva to help others. In the Vimalakirti Sutra he debates the nature of non-duality, and in the Lotus Sutra he helps the daughter of a naga king. Tibetan tradition, especially the Gelug school, honours him strongly, while Chinese Buddhists tell that Mount Wutai is his home. A Nepali legend says he drained the Kathmandu Valley lake. His many names include Wenshu in China and Monju in Japan.",
+  "kidSummary": "Manjushri is the Buddhist bodhisattva of wisdom. He carries a flaming sword, but it only cuts away confusion, never hurts anyone. Stories say he rides a blue lion and once opened a mountain to drain a giant lake in Nepal.",
+  "story": [
+    {
+      "title": "A lake in a valley",
+      "text": "In the Nepali legend, the Kathmandu Valley is a big lake. A shining lotus floats on it, and people can't reach it because of the water."
+    },
+    {
+      "title": "A journey from far away",
+      "text": "The Swayambhu Purana says Manjushri came from the mountains of China to see the lotus, carrying his flaming sword of wisdom."
+    },
+    {
+      "title": "The sword opens a gap",
+      "text": "Manjushri cut through the surrounding hills with his sword, and the water rushed out through the gap. The valley became dry land for people to live in."
+    },
+    {
+      "title": "A hill with a stupa",
+      "text": "The lotus settled on the hill, and a stupa now stands there, called Swayambhunath. Many pilgrims visit it today."
+    }
+  ],
+  "teaches": [
+    "Wisdom helps us see clearly",
+    "Questions and debate help us learn",
+    "Cut through confusion with clear thinking"
+  ],
+  "symbol": "book",
+  "emblems": [
+    "Flaming sword",
+    "Blue lion",
+    "Book of wisdom (Prajnaparamita)",
+    "Ruyi sceptre (East Asia)"
+  ],
+  "family": [
+    {
+      "relation": "Fellow bodhisattva of compassion",
+      "name": "Avalokiteshvara",
+      "slug": "avalokiteshvara"
+    },
+    {
+      "relation": "Debate partner in the Vimalakirti Sutra",
+      "name": "Vimalakirti",
+      "slug": "vimalakirti"
+    },
+    {
+      "relation": "Fellow Great Bodhisattva",
+      "name": "Samantabhadra",
+      "slug": "samantabhadra"
+    }
+  ],
+  "texts": [
+    "Vimalakirti Sutra",
+    "Lotus Sutra",
+    "Surangama Samadhi Sutra",
+    "Swayambhu Purana (Nepal)"
+  ],
+  "places": ["Mount Wutai, China", "Swayambhunath, Kathmandu", "Nalanda"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "A Korean legend says a boy washed King Sejo's back at Sangwonsa and eased his painful skin disease, then vanished; the king later had a statue made of the boy, Manjushri in disguise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In an 8th-century Chinese painting by Wu Daozi, a ruyi sceptre replaces his usual sword; the scholar Berthold Laufer called it the first Chinese picture of a ruyi.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yamantaka, whose name means 'terminator of Death', is a fierce form of Manjushri that is popular in the Gelug school of Tibetan Buddhism.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pilgrims on Mount Wutai believe Manjushri may appear as an ordinary pilgrim, as a monk, or most often as strange five-coloured clouds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mount_Wutai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Placing the Bowl Sutra, the Buddha is quoted as saying he reached Buddhahood through Manjushri's kindness, and that all past Buddhas were Manjushri's students.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Swayambhunath stupa, also called the Monkey Temple for the monkeys on its hill, was named a UNESCO World Heritage Site in 1979.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Swayambhunath",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Chinese Buddhism honours a form called Thousand-Armed and Thousand-Bowl Manjushri, drawn with a thousand arms, each hand holding an alms bowl.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one sutra he says he was once the teacher of Shakyamuni and now appears as his disciple, because a world should have only one main Buddha at a time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Inscriptions of 782 and 792 show Java's Candi Sewu was first called the House of Manjushri; this royal Buddhist temple was built over 70 years before the nearby Hindu Prambanan.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Candi_Sewu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Lotus Sutra, Manjushri leads the daughter of a naga king to awakening.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some Vajrayana traditions his consort is the goddess Saraswati, and in Japan's Shingon school he is one of the Thirteen Buddhas that followers honour.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Qing histories say Nurhaci named the Manchu people after Manjushri, but historians still dispute where the name Manchu came from.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Mongolian and Kalmyk folk tales, a giant called Manzashiri shapes the world from his body, and some think his name comes from Manjushri.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Tibetan tradition the Arapacana mantra, built on a list of 42 letters, is believed to sharpen memory, debating and writing skills.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tibetan Buddhism he is sometimes shown in a trinity with Avalokiteshvara and Vajrapani, putting his wisdom beside their compassion and power.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vimalakirti Sutra, Manjushri is the last bodhisattva to answer what non-duality is; the lay teacher Vimalakirti then replies with silence, a scene Chan and Zen teachers loved.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In that sutra Vimalakirti summons 32,000 huge lion thrones into his tiny room for Manjushri's visiting group, and the room does not grow at all.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sutras say Manjushri is already a Buddha in a world called Constant Joy, beyond worlds as many as the sands of forty-two Ganges rivers, and will one day be a Buddha here, named Universally Seen.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Avatamsaka Sutra places Manjushri on a clear, cold mountain in the north-east, which Chinese scholars matched to Mount Wutai; pilgrims were said to travel there from India by the 7th century.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mount_Wutai",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The 9th-century Chan master Linji told students that those who seek Manjushri on Mount Wutai are wrong from the start; even so, the mountain stayed a major pilgrimage site.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mount_Wutai",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The honorific 'Manjushri Emperor' was given to Qing rulers such as the Qianlong Emperor.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Manjushri",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Manjushri's flaming sword stand for?",
+      "options": ["War", "Wisdom cutting through ignorance", "A king's power", "Courage in battle"],
+      "answer": 1,
+      "why": "The sutras say the sword cuts through ignorance and confusion."
+    },
+    {
+      "q": "Which animal does Manjushri ride in many pictures?",
+      "options": ["Elephant", "Peacock", "A blue lion", "Horse"],
+      "answer": 2,
+      "why": "The blue lion stands for taming the mind with wisdom."
+    },
+    {
+      "q": "According to the Nepal legend, what did Manjushri drain?",
+      "options": ["A river", "The Kathmandu Valley lake", "The ocean", "A well"],
+      "answer": 1,
+      "why": "The Swayambhu Purana says he cut a gorge and drained the Kathmandu Valley lake."
+    },
+    {
+      "q": "Which sacred mountain in China is linked to Manjushri?",
+      "options": ["Mount Wutai", "Mount Everest", "Mount Fuji", "Mount Kailash"],
+      "answer": 0,
+      "why": "Mount Wutai is regarded as Manjushri's home in Chinese Buddhism."
+    }
+  ],
+  "related": [
+    "avalokiteshvara",
+    "samantabhadra",
+    "vimalakirti",
+    "tara",
+    "kshitigarbha",
+    "gautama-buddha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manjushri",
+    "swayambhunath": "https://en.wikipedia.org/wiki/Swayambhunath",
+    "wutai": "https://en.wikipedia.org/wiki/Mount_Wutai",
+    "sewu": "https://en.wikipedia.org/wiki/Candi_Sewu",
+    "vimalakirti": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra"
+  },
+  "palette": {
+    "c1": "#dcd8f0",
+    "c2": "#f6efd8"
+  },
+  "order": 2,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

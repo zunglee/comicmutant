@@ -655,7 +655,7 @@ function TouchPad({ input, layout }: { input: Input | null; layout: TouchLayout 
   // Accent buttons carry their own solid portrait fill: one shared `touchport:bg-card` used to win
   // over them and left dark labels on a dark button.
   const padBase =
-    'pointer-events-auto flex h-12 w-12 items-center justify-center rounded-full border-3 border-line font-head text-lg shadow-ink-sm active:bg-c3 active:text-on-c3 select-none touchport:h-14 touchport:w-14';
+    'pointer-events-auto flex h-12 w-12 items-center justify-center round border-3 border-line font-head text-lg shadow-ink-sm active:bg-c3 active:text-on-c3 select-none touchport:h-14 touchport:w-14';
   const pad = `${padBase} bg-card/70 text-card-fg touchport:bg-card`;
   // Arrow cluster: left/right only for side-on games, a cross when the game uses up/down.
   const dpad = layout.vertical ? (

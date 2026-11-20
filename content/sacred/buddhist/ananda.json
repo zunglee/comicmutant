@@ -1,0 +1,270 @@
+{
+  "slug": "ananda",
+  "name": "Ananda",
+  "aka": ["Treasurer of the Dhamma", "Videhamuni", "Ananda Thera"],
+  "native": "आनन्द",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "The Buddha's cousin and personal attendant",
+  "summary": "Ananda was the Buddha's cousin and, for about twenty-five years, his personal attendant. Buddhist tradition remembers him for his remarkable memory, kindness, and for speaking up for the first Buddhist nuns.",
+  "about": "In Buddhist tradition, Ananda was a Shakya, the first cousin of the Buddha through their fathers, who were brothers. His name means 'bliss' or 'joy'. Pali sources say he joined the order in the second year of the Buddha's teaching, while Mulasarvastivada sources place it much later. The texts say he became the permanent attendant for about 25 years, accepting only on condition that he receive no special benefits. He is called the Treasurer of the Dhamma for his memory, and the tradition credits him with reciting the Buddha's discourses at the First Council, which opens each discourse with 'Thus have I heard'. He urged the Buddha to let women join the order. The Buddha's death left him weeping, yet tradition says he reached arhatship just before the Council. Accounts of his own passing differ.",
+  "kidSummary": "Ananda was the cousin of Prince Siddhartha, who became the Buddha, and spent about twenty-five years as his helper and friend. He had an amazing memory and never forgot a teaching. After the Buddha died, Ananda recited what he had heard so everyone could remember it.",
+  "story": [
+    {
+      "title": "A cousin joins the order",
+      "text": "Ananda was a Shakya prince and a cousin of the Buddha. He became a monk and soon grew close to the Buddha."
+    },
+    {
+      "title": "A helper with conditions",
+      "text": "When the Buddha needed a permanent helper, Ananda agreed to take the role only if he got no special favours. He wanted to serve, not to be rewarded."
+    },
+    {
+      "title": "An elephant on the road",
+      "text": "In one story, a wild elephant was let loose in a street where the Buddha was walking. Ananda stood in front to protect him until the Buddha calmed the animal."
+    },
+    {
+      "title": "Asking for the nuns",
+      "text": "Ananda saw Mahapajapati Gotami and her friends weeping at Vesali. He spoke to the Buddha for them until women were allowed to become nuns."
+    },
+    {
+      "title": "Remembering the teachings",
+      "text": "After the Buddha passed away, Ananda reached full awakening just before the First Council. There he recited the Buddha's teachings from memory, opening with 'Thus have I heard'."
+    }
+  ],
+  "teaches": [
+    "Loyal and humble service",
+    "Listen well and remember with care",
+    "Speak up kindly for others"
+  ],
+  "symbol": "book",
+  "emblems": ["Fan (attendant's duty)", "Memory (Treasurer of the Dhamma)"],
+  "family": [
+    { "relation": "Cousin", "name": "Siddhartha Gautama, the Buddha", "slug": "gautama-buddha" },
+    {
+      "relation": "Foster-aunt he spoke up for",
+      "name": "Mahapajapati Gotami",
+      "slug": "mahapajapati-gotami"
+    },
+    {
+      "relation": "Cousin in Pali; brother in Mahasanghika",
+      "name": "Devadatta",
+      "slug": "devadatta"
+    }
+  ],
+  "texts": ["Theragatha", "Mahaparinibbana Sutta", "Cullavagga (First Council)", "Mahavastu"],
+  "places": ["Vesali", "Rohini river", "Rajagriha (First Council)", "Kapilavastu"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Mulasarvastivada texts say Ananda was born on the day of the Buddha's awakening, and that the city rejoiced, which is how he got his name meaning 'joy'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7
+    },
+    {
+      "text": "The Pali Vinaya credits Ananda with designing the monk's robe. Asked to plan one from small pieces of cloth, he copied the rice fields of Magadha, which were split into sections by banks of earth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahaparinibbana story the Buddha hinted several times that he could live a full aeon if asked, but Ananda was distracted and missed it. When he did ask, it was too late, and he wept.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Soon after the Buddha's death the minister Vassakara asked Ananda who had succeeded him. Ananda said nobody had been appointed; the community took the teaching and discipline as its refuge.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8
+    },
+    {
+      "text": "Texts say Devadatta had a wild elephant released at the Buddha. Ananda stepped in front and would not move even when told to, which was unusual for him. The Buddha then used supernormal power to move him aside and calmed the elephant with loving-kindness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Pali tradition says Ananda once called good friendship half the holy life, and the Buddha corrected him that it is the whole.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7
+    },
+    {
+      "text": "Theravada Buddhists trace the custom of sprinkling water during paritta chanting to Ananda, who recited the Ratana Sutta at Vesali and sprinkled water from his alms bowl.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Ananda taught the women of King Udena's palace they gave him 500 robes, and the king called him greedy. Ananda explained how the community used, reused and recycled every robe, and the impressed king gave 500 more.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Ananda won over the wealthy Sanavasi, who gave many gifts to the order, by telling him he had not yet given the gift of the Dhamma. Sanavasi ordained and became his pupil.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7
+    },
+    {
+      "text": "He was kept out of the First Council until he became an arahant, and tradition says he did so between standing and lying down, in none of the four postures.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits him with reciting 84,000 teaching topics at the Council, 82,000 from the Buddha and 2,000 from disciples.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8
+    },
+    {
+      "text": "Suttas in the first four Nikayas open with 'Thus have I heard', where the 'I' is traditionally Ananda.",
+      "kind": "language",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/ananda.htm",
+      "interest": 7
+    },
+    {
+      "text": "Two groups both wanted his remains, so Pali tradition says he rose over the Rohini river and burned, leaving relics on both banks. The Mulasarvastivada version says he died on a barge in midstream instead.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9
+    },
+    {
+      "text": "In one legend a low-caste girl, Prakriti, fell for Ananda, and her mother used a spell to draw him into their house. He came to his senses and called on the Buddha, and the girl later became a nun.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8
+    },
+    {
+      "text": "Tagore wrote the play Chandalika from that legend, and in it the girl herself has the spell undone. Wagner sketched an opera, Die Sieger, in 1856-58 but never finished it; ideas from it fed into Parsifal.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7
+    },
+    {
+      "text": "Chinese pilgrims Faxian and Xuanzang saw nuns making offerings at a stupa for Ananda, thanked for helping start the nuns' order. In 13th-century Japan some convents held ceremonies in his honour.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8
+    },
+    {
+      "text": "At the First Council Ananda was charged with several offences, among them helping women join the order and stepping on the Buddha's robe. He did not agree they were offences, but he made a formal confession to keep the community united.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7
+    },
+    {
+      "text": "The Kalingabodhi Jataka says Ananda planted a Bodhi tree so people could honour the Buddha when he was away. It was said to grow from a seed of the original tree, and many Southeast Asian tree shrines followed that example.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hecker says that at 55 the Buddha asked for a reliable attendant and the great monks all volunteered. He refused them, and Ananda, who had stayed quiet because he trusted the Buddha to choose, was picked.",
+      "kind": "story",
+      "source": "https://accesstoinsight.org/lib/authors/hecker/wheel273.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahavastu says Ananda's mother objected to his ordaining because Devadatta had already left. Ananda moved to Videha and took a vow of silence, earning the title Videhamuni, the silent sage of Videha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At night Ananda is said to have walked nine times around the Buddha's hut with a stout staff and a big torch, so he could stay awake if needed and keep the Buddha's sleep undisturbed.",
+      "kind": "story",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/ananda.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Ananda talked so fast that where an ordinary person said one word he could say eight, and that he could remember thousands of verses after hearing them once.",
+      "kind": "story",
+      "source": "https://buddhadust.net/backmatter/appendixes/personalities/ananda.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Texts say Ananda was so close to the Buddha that when the Buddha fell ill, Ananda fell ill too, and he cared for his teacher devotedly for 25 years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the death of Mahavira and the quarrels that followed among the Jains, Ananda asked the Buddha how such disputes could be avoided after the Buddha's own death.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 8
+    },
+    {
+      "text": "Mulasarvastivada texts say Ananda corrected a young monk who recited a verse wrongly, but the monk's teacher answered that Ananda was old and his memory was failing. That pushed Ananda to choose to pass into final nirvana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/%C4%80nanda",
+      "interest": 9,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How was Ananda related to the Buddha?",
+      "options": ["He was his cousin", "He was his son", "He was his uncle", "He was his teacher"],
+      "answer": 0,
+      "why": "Early texts call him the Buddha's first cousin and a fellow Shakya."
+    },
+    {
+      "q": "How many years did Ananda serve as the Buddha's attendant?",
+      "options": ["About 5", "About 25", "About 50", "About 100"],
+      "answer": 1,
+      "why": "The tradition says he served for about 25 years."
+    },
+    {
+      "q": "What is Ananda's famous title?",
+      "options": [
+        "Lord of the Sangha",
+        "The Silent Sage",
+        "Treasurer of the Dhamma",
+        "Master of Robes"
+      ],
+      "answer": 2,
+      "why": "He is called the Treasurer of the Dhamma for his memory of the teachings."
+    },
+    {
+      "q": "Who did Ananda speak up for at Vesali?",
+      "options": ["A king", "The elephant", "Rahula", "Mahapajapati Gotami and the women"],
+      "answer": 3,
+      "why": "He supported the request of Mahapajapati Gotami and the women who wanted to become nuns."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "mahapajapati-gotami",
+    "devadatta",
+    "mahakashyapa",
+    "mara",
+    "channa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/%C4%80nanda",
+    "hecker": "https://accesstoinsight.org/lib/authors/hecker/wheel273.html",
+    "biography": "https://buddhadust.net/backmatter/appendixes/personalities/ananda.htm"
+  },
+  "depth": "full",
+  "palette": { "c1": "#E8DAB2", "c2": "#BED5D0" },
+  "years": "c. 6th–5th century BCE",
+  "order": 6
+}

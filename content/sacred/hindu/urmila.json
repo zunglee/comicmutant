@@ -1,0 +1,252 @@
+{
+  "slug": "urmila",
+  "name": "Urmila",
+  "aka": ["Urmila Devi"],
+  "native": "उर्मिला",
+  "role": "Princess of Mithila, wife of Lakshmana, famed for her fourteen-year sleep",
+  "summary": "Urmila is Sita's younger sister and Lakshmana's wife in the Ramayana. Later legends say she slept for fourteen years so he could stay awake guarding Rama and Sita.",
+  "about": "In the Ramayana, Urmila is the daughter of King Janaka and Queen Sunayana of Mithila, and the younger sister of Sita, who was adopted. She married Lakshmana at the great wedding after Rama strung Shiva's bow. Her best-known story, Urmila Nidra, is a popular folk legend found in later retellings rather than in Valmiki: Lakshmana asked the goddess Nidra to let him stay awake for fourteen years to guard Rama and Sita, and the goddess said someone else must sleep in his place, so Urmila took it. Poets such as Maithili Sharan Gupt in Hindi and Rabindranath Tagore have drawn attention to her as an overlooked figure of the epic. The Jain Ramayana tells of her under a different name, and some traditions regard her as an incarnation of Nagalakshmi.",
+  "kidSummary": "Urmila is the sister of Sita and the wife of Lakshmana. Stories say she let herself sleep for fourteen years so that her husband could stay awake and guard Rama and Sita. She shows how love can be quiet and very brave.",
+  "story": [
+    {
+      "title": "Sisters of Mithila",
+      "text": "Urmila was a princess of Mithila, the daughter of King Janaka. Her elder sister was Sita."
+    },
+    {
+      "title": "A joyful wedding",
+      "text": "After Rama strung the great bow, four weddings took place. Urmila married Lakshmana, and her cousins married Bharata and Shatrughna."
+    },
+    {
+      "title": "Lakshmana's wish",
+      "text": "When Rama and Sita left for the forest, Lakshmana went along and wished to stay awake for all fourteen years to protect them."
+    },
+    {
+      "title": "Nidra's condition",
+      "text": "Later legends say the goddess of sleep agreed, if another person would sleep in his place. Urmila volunteered."
+    },
+    {
+      "title": "The long sleep",
+      "text": "She slept for fourteen years. In one telling Lakshmana returns and wakes her, and tears of joy fill her eyes. In another, she wakes at the end of the exile to see Rama crowned."
+    }
+  ],
+  "teaches": [
+    "Quiet sacrifices matter",
+    "Loyalty in love",
+    "Everyone's role in a story deserves respect"
+  ],
+  "symbol": "moon",
+  "emblems": ["Moon and sleep"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Father",
+      "name": "Janaka",
+      "slug": "janaka"
+    },
+    {
+      "relation": "Sister",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Mother-in-law",
+      "name": "Sumitra",
+      "slug": "sumitra"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sunayana"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Saket by Maithili Sharan Gupt",
+    "Mahaviracharita by Bhavabhuti",
+    "Upekshita by Rabindranath Tagore"
+  ],
+  "places": ["Mithila", "Ayodhya"],
+  "festivals": ["Vivah Panchami"],
+  "quiz": [
+    {
+      "q": "Who is Urmila's elder sister?",
+      "options": ["Mandodari", "Sita", "Tara", "Shabari"],
+      "answer": 1,
+      "why": "Sita, adopted by their father Janaka."
+    },
+    {
+      "q": "Whom did Urmila marry?",
+      "options": ["Rama", "Bharata", "Lakshmana", "Shatrughna"],
+      "answer": 2,
+      "why": "Lakshmana, after Sita's wedding."
+    },
+    {
+      "q": "How long did Urmila sleep in the later legend?",
+      "options": ["One year", "Seven years", "Fourteen years", "A hundred years"],
+      "answer": 2,
+      "why": "She slept through the fourteen-year exile."
+    },
+    {
+      "q": "Which goddess set the condition for Lakshmana's wakefulness?",
+      "options": ["Nidra", "Ganga", "Lakshmi", "Usha"],
+      "answer": 0,
+      "why": "Nidra, the goddess of sleep, asked someone to sleep for him."
+    }
+  ],
+  "related": ["lakshmana", "janaka", "sita", "rama", "sumitra", "shatrughna"],
+  "palette": {
+    "c1": "#C8D2EA",
+    "c2": "#DCC8E0"
+  },
+  "facts": [
+    {
+      "text": "A popular folk legend, not found in Valmiki's text, says Lakshmana asked the goddess Nidra to let him go sleepless for fourteen years so he could guard Rama and Sita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In that legend, Nidra said someone must sleep in his place, and Urmila agreed, sleeping through the entire exile.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Jain Ramayana she is known as Prithvisundari, and Lakshmana has many wives, with her as the principal one.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one telling of the legend, the goddess Nidra warned Lakshmana that he must fall asleep the moment the exile ended, so that Urmila could wake and see Rama's coronation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki gives Urmila very little presence: although she lives twelve years in Ayodhya after the wedding, a Purankosh entry notes the text never shows Lakshmana saying farewell to her.",
+      "kind": "text",
+      "source": "https://www.purankosh.in/?p=5385",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Valmiki gives Lakshmana an epithet meaning one who increases Urmila's joy, one of the few places where the text ties the couple together.",
+      "kind": "language",
+      "source": "https://www.purankosh.in/?p=5385",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Bhavabhuti's Sanskrit play Mahaviracharita, Janaka sends his brother Kushadhvaja with Sita and Urmila to Vishvamitra's sacrifice, and Lakshmana and Urmila meet there for the first time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In another telling, Lakshmana comes back from the forest and wakes Urmila himself, and she opens her eyes and weeps with joy to see him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki's Bala Kanda, right after giving Sita to Rama, Janaka calls Lakshmana to take Urmila's hand, and only then turns to Bharata and Shatrughna for the cousins.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the same wedding scene, the four couples walk around the sacred fire, the altar, King Janaka and the sages, and the sky showers flowers to the sound of heavenly drums.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga73/balasans73.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the weddings, King Dasharatha gave away a hundred thousand cows in the name of each of his four sons, some with gold-capped horns, with their calves and bronze milking pails.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga72/balasans72.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Urmila and Lakshmana had two sons, Angada and Chandraketu. Later accounts say Angada received the kingdom of Karupada and Chandraketu the kingdom of Mallya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A summary of the Uttara Kanda says Lakshmana ruled Karupada with Urmila as queen, advising him on matters of state.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A temple in Bharatpur, Rajasthan, is dedicated to Lakshmana and Urmila. Maharaja Balwant Singh of Bharatpur had it built in 1870 and it is treated as a royal temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sri Kalyana Ramachandra temple in Medak district, Telangana, is described as the only one in India with statues of Rama's brothers together with their wives, Urmila among them.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Valmiki's Bala Kanda says that as the wedding party travelled home to Ayodhya, Parashurama blocked the road and challenged Rama, a scene told right after the four weddings.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Announcing the weddings, Janaka calls Sita the prize for valour and Urmila the second bride, and says three times that he gives them gladly, so there can be no doubt.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Nidra means sleep, and it is also the name of the goddess of sleep. The folk legend of Urmila's fourteen-year sleep is known as Urmila Nidra.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Urmila",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "order": 500,
+  "depth": "compact",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Urmila",
+    "lak": "https://en.wikipedia.org/wiki/Lakshmana",
+    "purankosh": "https://www.purankosh.in/?p=5385",
+    "bala71": "https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm"
+  }
+}

@@ -1,0 +1,239 @@
+{
+  "slug": "rantideva",
+  "name": "Rantideva",
+  "aka": ["Rantidev"],
+  "native": "रन्तिदेव",
+  "role": "Lunar-line king famed for giving away everything",
+  "summary": "Rantideva is the lunar-dynasty king of the Bhagavata Purana who gave away all his food and water after a 48-day fast, and whom the Mahabharata links with the Charmanvati river.",
+  "about": "Rantideva is a king of the lunar dynasty, described in the Puranas as a descendant of Bharata and a son of Sankriti (also spelled Samkriti). The Bhagavata Purana, in its ninth canto, says he gave away all his wealth and then lived with his family in hunger. After 48 days without food or water, a meal of milk and ghee came, and he shared it with a Brahmin, a Shudra and a guest with dogs. Shudras and Chandalas were groups that many people of that age looked down on. When a little water remained, a Chandala asked for it and Rantideva gave it too. The Bhagavata says the guests were gods in disguise, and that he asked for no reward but wished only to bear the suffering of living beings. The Mahabharata praises his generous feasts, and in the Drona Parva a river named Charmanvati is linked with his sacrifices, its name recalling the hides piled near his kitchen. Tradition connects Charmanvati with the Chambal river.",
+  "kidSummary": "Rantideva was a king who gave so much away that his own family had almost nothing left. After many days without food and water, guests came to him one after another. Each time he shared his meal. The story in the Bhagavata Purana says these guests were gods testing him, and Rantideva only wanted to ease the suffering of others.",
+  "story": [
+    {
+      "title": "A king who gave everything",
+      "text": "Rantideva gave away his wealth to anyone who needed it, until he and his family were left with almost nothing."
+    },
+    {
+      "title": "Forty-eight days without food",
+      "text": "For 48 days the family had no food and no water. They stayed calm and patient even though they were weak."
+    },
+    {
+      "title": "A meal at last",
+      "text": "Finally some rice-and-milk food arrived with ghee. Just as the family were ready to eat, a hungry Brahmin came to the door and Rantideva shared the food."
+    },
+    {
+      "title": "More guests, less food",
+      "text": "Next came a hungry man of the Shudra class, a group many people of that time looked down on, and then a visitor with hunting dogs. Rantideva shared the rest with each of them until almost nothing was left."
+    },
+    {
+      "title": "The last of the water",
+      "text": "Only a little water remained when a Chandala, a man many people of that time refused to touch, asked for a drink. Rantideva gave it away. The gods then showed themselves, and the king asked for no reward."
+    }
+  ],
+  "teaches": [
+    "Share what you have, even when it is hard",
+    "Feel the hunger of others",
+    "Do good without asking for a reward"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Shared meal", "Water for a thirsty guest"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Sankriti"
+    },
+    {
+      "relation": "Ancestor",
+      "name": "Bharata (of the lunar line)"
+    }
+  ],
+  "texts": ["Bhagavata Purana (9.21)", "Mahabharata (Drona Parva)", "Vishnu Purana"],
+  "places": ["Chambal river (traditionally Charmanvati)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana says he fasted for 48 days without food or even a sip of water, and stayed calm through the hardship.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/21/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Drona Parva says Rantideva kept giving out gold coins called nishkas, saying 'I give you nishkas' again and again. Even after giving away a crore of them in one day, he felt he had given very little.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Only enough water for one person remained when a Chandala begged for a drink, and Rantideva gave it to him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/21/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He said that giving the water eased his own suffering, even though he was himself dying of thirst.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rantideva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata says he asked for no wealth or powers, nor even freedom for himself, but wished to bear the suffering of all living beings.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/9/21/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "People who knew old stories sang that even in the home of Kubera, the god of wealth, they had never seen such gathered treasure as Rantideva's.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana (9.21) names Brahma and Shiva as the gods who had come in disguise as the Brahmin, the Shudra and the Chandala, and then revealed themselves to Rantideva.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/21/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Drona Parva links the river Charmanvati, whose name comes from charman, hide, to Rantideva's sacrifices and kitchens. Local tradition identifies it with the Chambal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chambal_River",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's poem Meghaduta, an exiled yaksha tells a passing cloud to pause at the river Charmanvati, whose name recalls the fame of the generous Rantideva.",
+      "kind": "art",
+      "source": "https://www.swaveda.com/texts/meghaduta/1/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Drona Parva says Rantideva's own cooking pots and utensils were made of gold, and that people who saw his wealth remarked that his whole kingdom must be made of gold.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Drona Parva says a vast staff of cooks, said to number two hundred thousand, served his guests day and night.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says Rantideva never worked to earn money. He accepted whatever providence brought him and gave all of it to his guests, though he and his family suffered hunger and thirst.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/21/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata names the food that ended his fast: rice in milk, ghee and samyava, a sweet dish of wheat flour, raw sugar, ghee and milk.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After giving the last food to the man with the hungry dogs, the Bhagavata says Rantideva bowed to the dogs and to their owner as well.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A note in the Tagare translation compares Rantideva's wish to carry the suffering of all beings with the Bodhisattva ideal of Buddhist tradition.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Drona Parva says his gifts were far more than coins: he gave vessels, beds, vehicles, houses, trees and food.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Narada stresses that Rantideva gave away only wealth he had earned fairly, and that he won his battles in open, fair combat.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the gods revealed themselves, the Bhagavata says the Lord's deluding power, maya, faded for Rantideva like a dream.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata says Rantideva gave freely because he thought riches never last, and he ended up without even an evening meal for his family.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Chambal's ancient name Charmanvati is explained as the river on whose banks leather was dried, and it later came to mean the river of hides.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chambal_River",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "For how many days did Rantideva go without food?",
+      "options": ["12", "24", "48", "100"],
+      "answer": 2,
+      "why": "The Bhagavata Purana says 48 days."
+    },
+    {
+      "q": "What did Rantideva give away at the very end?",
+      "options": ["His crown", "His last water", "A horse", "His bow"],
+      "answer": 1,
+      "why": "He gave his last water to a thirsty guest."
+    },
+    {
+      "q": "Who were the guests, according to the Bhagavata?",
+      "options": ["Gods in disguise", "Soldiers", "Sages from far away", "Merchants"],
+      "answer": 0,
+      "why": "The Bhagavata says Brahma and Shiva had come in disguise as the guests."
+    },
+    {
+      "q": "Which river is linked to Rantideva in the Mahabharata?",
+      "options": ["Narmada", "Charmanvati", "Godavari", "Kaveri"],
+      "answer": 1,
+      "why": "Charmanvati is traditionally identified with the Chambal."
+    }
+  ],
+  "related": ["vishnu", "shiva", "brahma", "bharata-emperor", "narada"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rantideva",
+    "bhagavata_9_21": "https://vedabase.io/en/library/sb/9/21/",
+    "hindupedia": "https://hindupedia.com/en/Rantideva",
+    "charmanvati": "https://en.wikipedia.org/wiki/Charmanvati",
+    "chambal": "https://en.wikipedia.org/wiki/Chambal_River",
+    "dronaParva67": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07064.htm",
+    "meghadutaRyder": "https://www.swaveda.com/texts/meghaduta/1/",
+    "wisdomlib_bhagavata_9_21": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128861.html"
+  },
+  "palette": {
+    "c1": "#F2DDB6",
+    "c2": "#D8E6D6"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

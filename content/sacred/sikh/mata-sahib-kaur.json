@@ -1,0 +1,221 @@
+{
+  "slug": "mata-sahib-kaur",
+  "name": "Mata Sahib Kaur",
+  "aka": ["Mata Sahib Devan", "Sahib Devi"],
+  "native": "ਮਾਤਾ ਸਾਹਿਬ ਕੌਰ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Mother of the Khalsa, wife of Guru Gobind Singh",
+  "years": "1681–between 1734 and 1747",
+  "summary": "Mata Sahib Kaur, also called Mata Sahib Devan, married Guru Gobind Singh at Anandpur in 1700. The Guru named her Mother of the Khalsa, and she later guided the community from Delhi.",
+  "about": "Sikh tradition and Wikipedia date Mata Sahib Kaur's birth to 1 November 1681 at Rohtas, in Punjab, now Pakistan, to the Khatri couple Har Bhagwan and Jas Devi. Her parents offered her in marriage to Guru Gobind Singh at the Baisakhi of 1700. The Guru first refused, then agreed to a spiritual bond, and most sources give the wedding as 15 April 1700 at Anandpur, though the Damdami Taksal says she was never formally married and lived in his household as a Sikh. He named her Mother of the Khalsa, which is why new Sikhs are called his children and hers. After Anandpur was evacuated she travelled to Delhi, joined the Guru at Talvandi Sabo, and later stayed in Delhi with Mata Sundari. Her hukamnamas survive. The exact year of her death is unknown.",
+  "kidSummary": "Mata Sahib Kaur married Guru Gobind Singh in 1700 at Anandpur. He called her the Mother of the Khalsa, so Sikhs who join the Khalsa are called the children of the Guru and Mata Sahib Kaur. Later she helped guide the community from Delhi.",
+  "story": [
+    {
+      "title": "A girl from Rohtas",
+      "text": "Sahib Kaur was born in Rohtas, in present-day Pakistan. Her parents were devoted Sikhs who raised her to serve the Guru."
+    },
+    {
+      "title": "A wedding at Anandpur",
+      "text": "At the Baisakhi gathering of 1700 her parents offered her in marriage. Guru Gobind Singh first hesitated, then agreed to a spiritual bond, and the wedding was held on 15 April 1700."
+    },
+    {
+      "title": "Mother of the Khalsa",
+      "text": "The Guru named her Mother of the Khalsa. Since then, people who join the Khalsa have called themselves sons and daughters of the Guru and Mata Sahib Kaur."
+    },
+    {
+      "title": "Journey to Delhi",
+      "text": "When the family was separated near the Sarsa river in December 1704 or 1705 (sources differ), she and Mata Sundari went to Delhi, dressed as village women, and found safety there."
+    },
+    {
+      "title": "Guiding from Delhi",
+      "text": "Later she brought five weapons from Nanded to Delhi. She and Mata Sundari guided the Sikhs together, and letters called hukamnamas show their work."
+    }
+  ],
+  "teaches": [
+    "Motherly care for a whole community",
+    "Faithfulness and quiet service",
+    "Staying calm and brave in danger"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Hukamnama (letters of guidance)", "Weapons relics at Rakab Ganj"],
+  "family": [
+    {
+      "relation": "husband",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "companion",
+      "name": "Mata Sundari",
+      "slug": "mata-sundari"
+    },
+    {
+      "relation": "mother-in-law",
+      "name": "Mata Gujri",
+      "slug": "mata-gujri"
+    },
+    {
+      "relation": "father",
+      "name": "Har Bhagwan (Ramu)"
+    },
+    {
+      "relation": "mother",
+      "name": "Jas Devi"
+    }
+  ],
+  "texts": [
+    "Sikh historical chronicles",
+    "Mahan Kosh and Twarikh Guru Khalsa (differing accounts)"
+  ],
+  "places": [
+    "Rohtas",
+    "Anandpur Sahib",
+    "Gurdwara Bala Sahib, Delhi",
+    "Gurdwara Rakab Ganj, Delhi"
+  ],
+  "festivals": ["Baisakhi"],
+  "facts": [
+    {
+      "text": "Guru Gobind Singh first refused, since he already had two wives and four sons. He agreed once the bond was understood to be spiritual, and the wedding took place on 15 April 1700.",
+      "kind": "story",
+      "source": "https://www.thesikhencyclopedia.com/sahib-devan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Guru proclaimed her the Mother of the Khalsa. New initiates are declared sons and daughters of Guru Gobind Singh and Mata Sahib Devan.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sahib_Devan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sikh Rehat Maryada tells new Khalsa members that their spiritual father is Guru Gobind Singh and their spiritual mother is Mata Sahib Kaur, with Kesgarh Sahib as birthplace and Anandpur as home.",
+      "kind": "text",
+      "source": "https://mail.sikhs.org/reht6.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bhai Kahn Singh Nabha's Mahan Kosh says she added sugar wafers to the first amrit. The Twarikh Guru Khalsa disagrees, saying Mata Jito did and that Sahib Devan was not yet married.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sahib_Devan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A fresco from the old Akal Takht, discussed by the scholar Kanwarjit Singh Kang, shows a woman adding sugar crystals to the amrit in 1699 and names her as Mata Jito, not Sahib Devan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mata_Jito",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She is said to have carried five weapons from Nanded that belonged to Guru Hargobind. They are kept as sacred relics at Gurdwara Rakab Ganj in Delhi.",
+      "kind": "symbol",
+      "source": "https://www.thesikhencyclopedia.com/sahib-devan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nine of her hukamnamas survive. In a 1726 letter she calls the Khalsa her sons, using the Persian word farzand. She signed it with a mark running vertically while a scribe wrote the rest, and the letter has eleven lines to discourage tampering.",
+      "kind": "art",
+      "source": "https://www.nihungsanthia.com/post/translated-hukamnama-of-mata-sahib-devan-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the Sarsa the two Matas were in Delhi. The Sikh Encyclopedia says they rejoined Guru Gobind Singh at Talvandi Sabo in 1706 and were then sent back to Delhi before his long journey through Rajasthan.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/sahib-devan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On a later journey she went with the Guru to Nanded. Shortly before his passing in October 1708 she was persuaded to return to Delhi and stay with Mata Sundari.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/sahib-devan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her surviving hukamnamas are dated between 1726 and 1734, so she must have died between 1734 and 1747. That is why her death date is unknown.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/sahib-devan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Most sources date the wedding to 1700, but a Damdami Taksal page says she lived in the Guru's household as a Sikh rather than as a wife. It says the Guru made her Mother of the Khalsa because she had no children of her own.",
+      "kind": "teaching",
+      "source": "https://damdamitaksaal.org/history/gursikhs/123-mata-sahib-devan-kaur-ji",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her parents called her Sahib Devi when she was a child. Sahib Devan and Sahib Kaur are names she is known by in the sources.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sahib_Devan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A nihung sangat page says Guru Nanak had once placed his feet at Rohtas, her birthplace, and Gurdwara Chhoa Sahib marks the spot.",
+      "kind": "place",
+      "source": "https://www.nihungsanthia.com/post/translated-hukamnama-of-mata-sahib-devan-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia lists a 2022 animated film, Supreme Motherhood: The Journey of Mata Sahib Kaur, by Nihal Nihal Nihal Productions and Zee Studios, following her from girlhood to Mother of the Khalsa. The entry is flagged as needing a citation.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sahib_Devan",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What title did Guru Gobind Singh give Mata Sahib Kaur?",
+      "options": [
+        "Queen of Delhi",
+        "Mother of the Khalsa",
+        "Guru of Anandpur",
+        "Keeper of the Tower"
+      ],
+      "answer": 1,
+      "why": "Initiates are called sons and daughters of the Guru and Mata Sahib Kaur."
+    },
+    {
+      "q": "Where did the wedding take place in 1700?",
+      "options": ["Delhi", "Patna", "Anandpur", "Nanded"],
+      "answer": 2,
+      "why": "The wedding was at Anandpur on 15 April 1700."
+    },
+    {
+      "q": "Whom did she live with in Delhi?",
+      "options": ["Mata Gujri", "Mata Sundari", "Bebe Nanaki", "Mata Khivi"],
+      "answer": 1,
+      "why": "She and Mata Sundari guided the community from Delhi."
+    },
+    {
+      "q": "Which gurdwara in Delhi keeps weapons said to have been brought by her?",
+      "options": ["Rakab Ganj", "Bangla Sahib", "Sis Ganj", "Majnu ka Tilla"],
+      "answer": 0,
+      "why": "Gurdwara Rakab Ganj keeps the relics."
+    }
+  ],
+  "related": ["guru-gobind-singh", "mata-sundari", "mata-gujri", "bhai-mani-singh"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mata_Sahib_Kaur",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/sahib-devan",
+    "rakab-ganj": "https://en.wikipedia.org/wiki/Gurdwara_Rakab_Ganj_Sahib"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f0d6dc",
+    "c2": "#d6e6d9"
+  },
+  "order": 5
+}

@@ -1,0 +1,270 @@
+{
+  "slug": "lakshmi",
+  "name": "Lakshmi",
+  "aka": ["Shri", "Padma", "Kamala", "Mahalakshmi"],
+  "native": "लक्ष्मी",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of prosperity, fortune and grace",
+  "summary": "Lakshmi, also called Shri, is the Hindu goddess of wealth, good fortune and grace. Hindus welcome her on Diwali night with rows of lamps.",
+  "about": "In the earliest texts the word Shri means auspicious beauty and good fortune, and a late hymn, the Shri Sukta, praises her as golden and surrounded by lotuses and elephants. Many Puranas tell that she rose from the ocean when gods and asuras churned it, and chose Vishnu as her partner. Artists show her seated or standing on a lotus, with coins pouring from her hand and elephants nearby. Hindus honour her at Diwali, Navaratri and Varalakshmi Vratam. Sri Vaishnavas teach that devotion to her leads to Vishnu, and Buddhists and Jains in Asia also know a goddess of fortune named Shri.",
+  "kidSummary": "Lakshmi is the goddess of good fortune, kindness and plenty. She sits on a lotus and elephants stand beside her. On Diwali night, families light lamps to invite her in.",
+  "story": [
+    {
+      "title": "Churning the ocean",
+      "text": "Many Puranas say the gods and the asuras once used Mount Mandara as a stick and the serpent Vasuki as a rope to churn the ocean of milk."
+    },
+    {
+      "title": "Treasures rise",
+      "text": "Out of the waves rose wonderful things, such as a wish-granting cow, a white elephant and a pot of the drink of immortality. Different texts list different treasures."
+    },
+    {
+      "title": "Lakshmi appears",
+      "text": "Then, the story says, Lakshmi rose from the sea, holding a lotus and shining like gold."
+    },
+    {
+      "title": "She makes a choice",
+      "text": "She looked at all who waited and chose Vishnu to stay beside. Many tales say she stays where there is kindness, care and honest work."
+    },
+    {
+      "title": "Diwali night",
+      "text": "On Diwali, families clean their homes, light rows of lamps and draw rangoli at the door, hoping she will visit."
+    }
+  ],
+  "teaches": [
+    "Prosperity is a gift to share",
+    "Keep the home clean and welcoming",
+    "Be wise with wealth"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lotus", "Elephants (Gajalakshmi)", "Owl", "Golden coins"],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Companion goddess in the Tridevi",
+      "name": "Saraswati",
+      "slug": "saraswati"
+    },
+    {
+      "relation": "Companion goddess in the Tridevi",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Born as Rama's wife",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Born as Krishna's wife",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    }
+  ],
+  "texts": [
+    "Shri Sukta (Rigveda appendix)",
+    "Atharva Veda",
+    "Shatapatha Brahmana",
+    "Vishnu Purana"
+  ],
+  "places": ["Mahalakshmi Temple, Kolhapur"],
+  "festivals": ["Diwali", "Varalakshmi Vratam", "Sharad Purnima", "Navaratri"],
+  "facts": [
+    {
+      "text": "In the story told at the churning's start, the sage Durvasa curses Indra and the gods after Indra's elephant tosses down his garland, a home of Shri, and Shri vanishes into the sea.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda uses the word Lakshmi just once, while Shri, the goddess's other name, appears about 130 times, always tied to prosperity and happy luck.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Shatapatha Brahmana, Shri does not stay with one owner. She moves among the worthy, and even virtuous asuras such as Bali and Prahlada, because she favours merit.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Atharva Veda says a hundred Lakshmis are born with every mortal, some bringing good fortune and some bad. The Shri Sukta likewise asks for Alakshmi, the figure of poverty and misfortune, to be driven away.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The eight forms of Lakshmi, the Ashtalakshmi, are said to preside over eight sources of wealth. A temple to them, the Ashtalakshmi Kovil, stands near Chennai.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shatapatha Brahmana, the gods are dazzled by the newborn Shri and ask to kill her, but Prajapati refuses. Instead each takes a gift: Agni food, Soma kingship, Indra force.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A legend in the Venkateswara tradition says Lakshmi once left Vishnu's home Vaikuntha after the sage Bhrigu kicked Vishnu's chest, the place where she lives. She went to Kolhapur.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana tradition treats Sita as Lakshmi's avatar, with Rama as Vishnu's. In the Mahabharata's critical edition Draupadi is Sri's incarnation, though a later insertion links Rukmini instead.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Historian Paul Dundas, citing a 12th-century poet, says the Kolhapur site was once a Jain temple to Chandraprabha.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Lakshmi Sahasranama of the Skanda Purana, the Lakshmi Tantra and the Markandeya Purana describe an eighteen-armed Lakshmi who holds a lotus, mace, sword, conch, discus and more, and who sits on Garuda, a lion or a tiger.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Bengali tradition, Lakshmi and Saraswati are seen as daughters of Durga, and they are worshipped alongside her during Durga Puja.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Chinese Buddhists know her as Jixiang Tiannu, \"auspicious goddess\", count her among the twenty-four protective deities, and regard her as the sister of Vaishravana, one of the Four Heavenly Kings.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Tibetan Buddhism, especially the Gelug school, a wrathful form of the goddess called Palden Lhamo is the principal female protector, linked with Lhasa.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In many parts of South India, the Alvar poet Andal, the only woman among the Alvars, is considered an incarnation of Lakshmi.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Lakshmi left, the legend says Vishnu sat in an anthill on Venkata Hill chanting her name, and in time she was born as Padmavati, whom he later married as Srinivasa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sharad Purnima, also called Kojaagari Purnima, is an autumn full-moon night when Lakshmi is thanked for the harvest. People hold a moonlight celebration known as Kaumudi.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Lakshmi is often shown with an owl as well as elephants. The owl stands for patient watching in the dark, and because daylight is said to blind it, it also warns against becoming blind to greed.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her four arms stand for the four goals of life in Hindu thought: dharma (right living), artha (wealth), kama (joy and love) and moksha (freedom).",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Vishnu and Lakshmi carving survives in the Parshvanatha Jain temple at Khajuraho, a Jain shrine built beside Hindu temples, which suggests the goddess was shared across several Indian religions.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kolhapur Mahalakshmi image has a stone lion standing behind it and a five-headed snake on her crown, and the city was once known by the name Karaveera.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gajalakshmi images show two elephants beside her head, which stand for fertility and royal power, and some carvings add two lions as well.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lakshmi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which flower does Lakshmi sit on?",
+      "options": ["Rose", "Lotus", "Marigold", "Jasmine"],
+      "answer": 1,
+      "why": "The lotus stays clean even in mud, a sign of purity."
+    },
+    {
+      "q": "Which festival is a special night for Lakshmi puja?",
+      "options": ["Holi", "Diwali", "Pongal", "Onam"],
+      "answer": 1,
+      "why": "Families light lamps to welcome her on Diwali."
+    },
+    {
+      "q": "What huge animals are shown with Gajalakshmi?",
+      "options": ["Lions", "Horses", "Elephants", "Deer"],
+      "answer": 2,
+      "why": "Gaja means elephant."
+    },
+    {
+      "q": "In the ocean-churning tale, what was used as the rope?",
+      "options": ["A vine", "The serpent Vasuki", "A river", "Hair"],
+      "answer": 1,
+      "why": "Vasuki was the rope and Mandara the churning rod."
+    },
+    {
+      "q": "Which bird is linked with Lakshmi?",
+      "options": ["Owl", "Parrot", "Eagle", "Crane"],
+      "answer": 0,
+      "why": "The owl stands for patience and a reminder not to be greedy."
+    }
+  ],
+  "related": ["vishnu", "saraswati", "parvati", "sita", "rukmini", "kurma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lakshmi",
+    "churning": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+    "diwali": "https://en.wikipedia.org/wiki/Diwali",
+    "kolhapur": "https://en.wikipedia.org/wiki/Mahalakshmi_Temple,_Kolhapur"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F6E3B4",
+    "c2": "#F2C6C6"
+  },
+  "order": 20
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "parvati",
+  "name": "Parvati",
+  "aka": ["Uma", "Gauri", "Girija", "Shailaja", "Aparna"],
+  "native": "पार्वती",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Mountain-born goddess, Shiva's consort and mother of Ganesha and Kartikeya",
+  "summary": "Parvati, the daughter of the Himalayas, is the Hindu goddess of devotion, strength and family. Her long penance is said to have won the heart of Shiva.",
+  "about": "Parvati's name means \"she of the mountain\", and the texts call her the daughter of the mountain king Himavan and his wife Mena. In the Puranas and in Kalidasa's poem Kumarasambhava she performs great austerities to win Shiva, and in Shaiva and Shakta thought she is Shiva's shakti, his creative power. Hindus honour her as the mother of Ganesha and Kartikeya. Shaktas also see her as one goddess who appears in many forms, from gentle Gauri and Annapurna to Meenakshi of Madurai, and, some Puranas say, fierce Durga and Kali. Her festivals include Teej, Gangaur and Navaratri.",
+  "kidSummary": "Parvati is the mountain-born goddess, the mother of Ganesha and Kartikeya. Stories say she was so determined that she meditated for years to be near Shiva. She shows that patience and love can move mountains.",
+  "story": [
+    {
+      "title": "A girl of the mountains",
+      "text": "The texts say Parvati was born to Himavan, king of the Himalayas, and his queen Mena. Her name means \"she of the mountain\"."
+    },
+    {
+      "title": "A hard promise",
+      "text": "She wanted to marry Shiva, who lived alone in meditation. So she went to the forest to practise tapasya, long and patient prayer."
+    },
+    {
+      "title": "Even without food",
+      "text": "One text, the Harivamsa, says she ate no food during her penance, which gave her the name Aparna. Her mother said \"u ma\", meaning \"oh, do not\", and she also became Uma."
+    },
+    {
+      "title": "A test",
+      "text": "Kalidasa's poem says Shiva came disguised as a young ascetic and argued against her choice. She replied firmly, and he showed his real form."
+    },
+    {
+      "title": "A new family",
+      "text": "The stories say they married, and became parents of Ganesha and Kartikeya. Many Hindus see the family as a model of care."
+    }
+  ],
+  "teaches": [
+    "Patience and determination win goals",
+    "Devotion is strong",
+    "A family can be a place of care"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Lotus", "Lion or tiger (as Durga)", "Red clothing", "Abhaya and Varada gestures"],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Son",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Son",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Previous birth, in many Puranas",
+      "name": "Sati",
+      "slug": "sati"
+    },
+    {
+      "relation": "Father",
+      "name": "Himavan"
+    }
+  ],
+  "texts": [
+    "Kumarasambhava",
+    "Linga Purana",
+    "Skanda Purana",
+    "Devi Bhagavata Purana",
+    "Harivamsa"
+  ],
+  "places": ["Aparneshara Temple, Udhampur", "Meenakshi Temple, Madurai"],
+  "festivals": ["Teej", "Gangaur", "Navaratri"],
+  "facts": [
+    {
+      "text": "The Shiva, Matsya and Skanda Puranas say Parvati shaped a boy from turmeric paste to guard her bath. Shiva, not knowing him, beheaded him, then gave him an elephant's head: Ganesha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shiva appears as Ardhanarishvara, the Lord who is half woman, in an image that merges him with Parvati and is read as the ideal of a balanced couple.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A South Indian legend says Parvati won a bet with Shiva, who turned her into a parrot before paying up. She flew to the southern hills and appeared as Meenakshi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Teej tradition says Parvati fasted and prayed for many years until Shiva accepted her as his wife in her 108th birth; in that spirit she is also called Teej Mata.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Teej",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Kushan-era coins of Bactria, Uma is spelled Ommo and she holds a flower. A coin of the ruler Huvishka from about 150 to 180 CE puts her beside a four-armed Shiva.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kalidasa's Sanskrit poem Kumarasambhava tells of Indra sending Kama, god of love, to stir Shiva. Shiva burns Kama with fire from his third eye, and Parvati then wins him by penance.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, Parvati takes a warrior form and defeats an asura named Durg, who has turned into a buffalo, and that victory earns her the name Durga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Madurai legend says Meenakshi was born with three breasts, which vanished when she met her future husband, Sundareswarar, a form of Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Madurai's Meenakshi temple has 14 gopurams, the tallest about 52 metres, and a Thousand-Pillared Hall with 985 carved pillars.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Linga Purana, Parvati becomes Kali at Shiva's request to destroy the asura Daruka, but her fury will not calm down. Shiva appears as a crying baby, and the cries wake her motherly side so she turns back into Parvati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's poem the gods need a son of Shiva to defeat the demon Taraka, who gained power over the three worlds through a boon from Brahma. That need is why Kama is sent to stir Shiva and why Parvati's penance matters, and the son is Kartikeya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Gauri-Shankar bead is a rudraksha formed when two seeds grow naturally fused. Followers of Shiva wear it as a sign of Parvati and Shiva as two halves of a whole.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A tale of the Shiva and Parvati dice game says Shiva usually loses. In eastern Indian sculptures he is always shown losing, and the Kashikhanda of the Skanda Purana reads the game as creation (when she wins) and dissolution (when he wins).",
+      "kind": "story",
+      "source": "https://www.sahapedia.org/towards-cultural-history-indian-board-games-backgammon-chaupar-and-chaturanga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Annapurna story, Shiva calls the material world an illusion, even the food people eat. Parvati vanishes, famine follows, and Shiva finds food only in a kitchen in Kashi run by Annapurna, who is Parvati. She feeds him to show that food matters.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Bali she is called Parwati or Uma, and she is the goddess of the mountain Gunung Agung.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Japan, a Buddhist goddess called Daikokutennyo comes from Parvati's Mahakali form.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kena Upanishad has a goddess called Uma-Haimavati who appears to boasting gods and reveals the knowledge of Brahman. The commentator Sayana takes her to be Parvati, though scholar David Kinsley calls that link conjecture.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Indian dance, Parvatimudra is a joint hand gesture dedicated to her. The hands copy a motherly gesture, and a dancer uses it to show the divine mother.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Thiruvathira, observed in Kerala and Tamil Nadu, marks the day Parvati met Shiva after her long penance and he took her as his wife. Women perform the Thiruvathirakali dance and sing songs about her longing.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In ancient temples, sculptures of Parvati are often placed near a calf or a cow, and bronze is the metal most often used for her images.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parvati",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Parvati mean?",
+      "options": ["Of the river", "Of the mountain", "Of the forest", "Of the moon"],
+      "answer": 1,
+      "why": "Parvati is \"she of the mountain\", the Himalaya's daughter."
+    },
+    {
+      "q": "Who are the sons of Parvati and Shiva in the texts?",
+      "options": ["Hanuman and Rama", "Ganesha and Kartikeya", "Arjuna and Bhima", "Luv and Kush"],
+      "answer": 1,
+      "why": "Ganesha and Kartikeya are their children."
+    },
+    {
+      "q": "Which name is said to come from her mother saying \"u ma\"?",
+      "options": ["Uma", "Gauri", "Kali", "Lakshmi"],
+      "answer": 0,
+      "why": "The cry \"u ma\" became Uma."
+    },
+    {
+      "q": "Which festival, celebrating Parvati's long prayer to win Shiva, has green clothes, swings and mehndi?",
+      "options": ["Hariyali Teej", "Baisakhi", "Lohri", "Onam"],
+      "answer": 0,
+      "why": "Hariyali Teej welcomes the monsoon and honours Parvati, whom Shiva is said to have accepted after her penance."
+    },
+    {
+      "q": "Which city is known for the Meenakshi temple?",
+      "options": ["Madurai", "Puri", "Kolkata", "Ujjain"],
+      "answer": 0,
+      "why": "Meenakshi is the Madurai form of Parvati."
+    }
+  ],
+  "related": ["shiva", "ganesha", "kartikeya", "sati", "durga", "kali", "meenakshi", "annapurna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parvati",
+    "teej": "https://en.wikipedia.org/wiki/Teej",
+    "kumarasambhava": "https://en.wikipedia.org/wiki/Kumarasambhava",
+    "meenakshi": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F2D0D6",
+    "c2": "#DCE4C8"
+  },
+  "order": 30
+}

@@ -1,0 +1,267 @@
+{
+  "slug": "ganesha",
+  "name": "Ganesha",
+  "aka": ["Ganapati", "Vinayaka", "Ekadanta", "Lambodara", "Pillaiyar"],
+  "native": "गणेश",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Elephant-headed lord of beginnings and remover of obstacles",
+  "summary": "Ganesha is the elephant-headed son of Shiva and Parvati. Hindus honour him at the start of journeys, studies and new ventures, and as the one who clears the path ahead.",
+  "about": "Ganesha is one of the best-loved deities in Hinduism, recognised at once by his elephant head, round belly and single whole tusk. Puranic texts tell different stories of his birth: in some Parvati shapes him from clay and Shiva later gives him an elephant's head, while in another Shiva's laughter brings him forth. Many Hindus call on him before beginning anything new, since tradition holds that he removes obstacles, and some texts also say he can place them in the way. He is linked with wisdom, learning and good fortune, and his animal companion is usually shown as a mouse. His main festival, Ganesh Chaturthi, is celebrated with clay images, sweets and processions, especially in Maharashtra. Worship of Ganesha has also travelled to Nepal, Sri Lanka, Thailand, Indonesia, China and Japan, where Buddhists and others honour him under local names.",
+  "kidSummary": "Ganesha is the friendly elephant-headed god of Hindu tradition. People say hello to him first when they start something new, like a school year or a journey, because he is believed to help clear the way. He loves sweets called modaka, and his little friend is a mouse. His festival is full of music, colour and dancing.",
+  "story": [
+    {
+      "title": "A boy made of clay",
+      "text": "In one popular Puranic story, Parvati shaped a boy from clay and asked him to guard her door while she bathed. He took the job very seriously."
+    },
+    {
+      "title": "A meeting at the door",
+      "text": "When Shiva came home, the boy did not know him and would not let him in. A fierce argument followed, and in the end Shiva's anger removed the boy's head."
+    },
+    {
+      "title": "Parvati's sorrow",
+      "text": "Parvati was heartbroken when she saw what had happened. She was so upset that Shiva promised to set things right."
+    },
+    {
+      "title": "A new head",
+      "text": "Shiva sent his companions to bring the head of the first creature they found, which was an elephant. The boy was given the elephant's head and came back to life."
+    },
+    {
+      "title": "Lord of beginnings",
+      "text": "Shiva named the boy leader of his gana, the host of attendants, and said he should be honoured before any other god when something new begins."
+    }
+  ],
+  "teaches": [
+    "Begin every task with a clear mind",
+    "Wisdom and patience open the way",
+    "Keep going when obstacles appear"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Elephant head", "Single tusk", "Mouse (vahana)", "Modaka sweet", "Noose and goad"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Brother (order varies by region)",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    }
+  ],
+  "texts": [
+    "Ganesha Purana",
+    "Mudgala Purana",
+    "Ganapati Atharvashirsa",
+    "Brahmanda Purana",
+    "Mahabharata"
+  ],
+  "places": [
+    "Ashtavinayak temples, Maharashtra",
+    "Siddhatek",
+    "Morgaon",
+    "Mumbai and Pune (public festivals)"
+  ],
+  "festivals": ["Ganesh Chaturthi", "Sankashti Chaturthi", "Ganesh Jayanti (Magha)"],
+  "facts": [
+    {
+      "text": "The Mudgala Purana describes eight forms of Ganesha, each overcoming an asura that stands for a human flaw. Ekadanta overcomes Madasura, whose name stands for arrogance, and Mahodara overcomes Mohasura, standing for delusion.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mudgala_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ganesha's earliest images have two arms, later art gives him from two to sixteen, and one rare form, Heramba Ganapati, has five elephant heads. This shows how widely his image varies across regions.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Brahmanda Purana explains the name Lambodara, meaning long-bellied, by saying his belly holds all the universes of past, present and future.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Matsya Purana is the first text to mention the mouse as his mount. In the Mudgala Purana's eight forms, his vehicle also appears as a lion, a peacock and the serpent Shesha.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some traditions say Ganesha is a lifelong bachelor, while others name Buddhi, meaning intelligence, and Siddhi, meaning success, as his wives.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7
+    },
+    {
+      "text": "The 1975 Hindi film Jai Santoshi Maa shows Santoshi Ma as a daughter of Ganesha. Her story is not found in the Puranas; her worship spread widely after the film, which shows how Ganesha's family keeps growing in popular devotion.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7
+    },
+    {
+      "text": "A popular Mahabharata tale says Ganesha wrote the epic as Vyasa dictated, on the condition that Vyasa never stop. Scholars' critical edition leaves this scribe story out of its main text.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the 1890s Ganesh Chaturthi grew from a mostly home festival into a large public one in Maharashtra. Bal Gangadhar Tilak promoted the public festival from 1893, partly to bring people of many communities together under British rule.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+      "interest": 7
+    },
+    {
+      "text": "About 150,000 Ganesha images are immersed in the water in Mumbai each year at the end of Ganesh Chaturthi, usually in a procession with music.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+      "interest": 7
+    },
+    {
+      "text": "Indonesia is the only country to have put Ganesha on its banknotes, a 20,000-rupiah note issued from 1998 to 2008.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Most Indonesians are Muslim and do not worship Ganesha, but he is a respected symbol of knowledge and education. Many public universities show him on their grounds or logos, and the seals of Blitar, Salatiga and Kediri include him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Yajurveda the Vinayakas were four troublesome spirits who put obstacles in people's way but were easy to please. Over time the role flipped, and Ganesha became the one who removes obstacles.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 8
+    },
+    {
+      "text": "A tale told in Mithila says the moon god Chandra laughed at Ganesha's form and was cursed. Ganesha forgave him but could not fully undo it, so many avoid looking at the moon on Ganesh Chaturthi evening.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chaurchan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Shiva Purana says Ganesha had two sons, Kshema (safety) and Labha (profit). Northern versions call them Shubha, meaning auspiciousness, and Labha.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7
+    },
+    {
+      "text": "In the Kanda Puranam, a fruit of knowledge, usually a mango, goes to whoever circles the world first. Kartikeya flies off on his peacock, but Ganesha walks around his parents, his whole world, and wins it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tellings differ on his broken tusk. In the Brahmanda Purana it takes Parashurama's axe-blow. A popular Mahabharata tale says he snapped it off as a pen. In Tamil tradition he hurls it at the asura Gajamukhasura.",
+      "kind": "story",
+      "source": "https://hindutone.com/festivals/ganesha-stories-puranic-legends/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a popular tale, Kubera, god of wealth, invites Shiva to a feast and young Ganesha comes instead. He eats all the food, then the stores and furniture, and is still hungry, until a handful of roasted rice given with love satisfies him.",
+      "kind": "story",
+      "source": "https://hindutone.com/festivals/ganesha-stories-puranic-legends/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mudgala Purana's list of eight forms, the elephant-faced Gajavaktra, also called Gajanana, appears to overcome the asura Lobhasura, whose name stands for greed. His mount in this form is a mouse.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mudgala_Purana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a Buddhist god, Ganesha is often shown dancing. This form, called Nritta Ganapati, was popular in northern India, then Nepal and then Tibet, where about thirty texts in the Buddhist canon deal with him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "An early Sanskrit dictionary lists eight synonyms for Ganesha, and one of them, Dvaimatura, means one who has two mothers.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Burmese, Ganesha is called Maha Peinne, a name that comes from the Pali Maha Winayaka, showing how his worship travelled with Buddhism as well as Hinduism.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7
+    },
+    {
+      "text": "Some of his oldest images are far from India: the Gardez Ganesha in eastern Afghanistan dates to the 5th century CE, a stone one in northern China carries the date 531 CE, and Japan's Kangiten form is first mentioned in 806.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal is usually shown as Ganesha's companion?",
+      "options": ["A lion", "A mouse", "A peacock", "A deer"],
+      "answer": 1,
+      "why": "The mouse is his vahana, first named in the Matsya Purana."
+    },
+    {
+      "q": "In the popular story, what did Parvati make Ganesha from?",
+      "options": ["Gold", "Clay", "Flowers", "Snow"],
+      "answer": 1,
+      "why": "Many Puranic tellings say Parvati shaped a boy from clay."
+    },
+    {
+      "q": "Which sweet is Ganesha famous for loving?",
+      "options": ["Jalebi", "Modaka", "Rasgulla", "Kheer"],
+      "answer": 1,
+      "why": "Modaka sweets are the traditional offering."
+    },
+    {
+      "q": "Which leader promoted Ganesh Chaturthi as a big public festival from 1893?",
+      "options": ["Bal Gangadhar Tilak", "Akbar", "Shivaji", "Ashoka"],
+      "answer": 0,
+      "why": "Tilak promoted public celebrations to bring people together; public events in Pune had earlier roots."
+    },
+    {
+      "q": "Which country's banknote once showed Ganesha?",
+      "options": ["Thailand", "Japan", "Indonesia", "Nepal"],
+      "answer": 2,
+      "why": "A 20,000-rupiah note carried him from 1998 to 2008."
+    }
+  ],
+  "related": ["shiva", "parvati", "kartikeya", "vyasa", "brahma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganesha",
+    "chaturthi": "https://en.wikipedia.org/wiki/Ganesh_Chaturthi",
+    "ashtavinayak": "https://en.wikipedia.org/wiki/Ashtavinayaka",
+    "kartikeya": "https://en.wikipedia.org/wiki/Kartikeya",
+    "stories": "https://hindutone.com/festivals/ganesha-stories-puranic-legends/",
+    "mudgala": "https://en.wikipedia.org/wiki/Mudgala_Purana"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#EBCB9E",
+    "c2": "#E8B4A0"
+  },
+  "order": 10
+}

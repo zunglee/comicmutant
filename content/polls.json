@@ -1,0 +1,710 @@
+[
+  {
+    "id": "sacred-festival-theme-next",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which theme should our next festival story have?",
+    "options": [
+      {
+        "id": "light-over-darkness",
+        "label": "Light over darkness"
+      },
+      {
+        "id": "kindness-and-sharing",
+        "label": "Kindness and sharing"
+      },
+      {
+        "id": "courage",
+        "label": "Courage"
+      },
+      {
+        "id": "forgiveness",
+        "label": "Forgiveness"
+      },
+      {
+        "id": "harvest-and-giving-thanks",
+        "label": "Harvest and giving thanks"
+      }
+    ]
+  },
+  {
+    "id": "sacred-lesson-matters-most",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which lesson from these stories matters most to you?",
+    "options": [
+      {
+        "id": "kindness-to-every-living-being",
+        "label": "Kindness to every living being"
+      },
+      {
+        "id": "telling-the-truth",
+        "label": "Telling the truth"
+      },
+      {
+        "id": "courage-to-stand-up-for-others",
+        "label": "Courage to stand up for others"
+      },
+      {
+        "id": "patience-and-self-control",
+        "label": "Patience and self-control"
+      },
+      {
+        "id": "sharing-what-you-have",
+        "label": "Sharing what you have"
+      }
+    ]
+  },
+  {
+    "id": "sacred-how-you-hear-stories",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "How did you first hear these stories?",
+    "options": [
+      {
+        "id": "from-grandparents-or-parents",
+        "label": "From grandparents or parents"
+      },
+      {
+        "id": "in-school",
+        "label": "In school"
+      },
+      {
+        "id": "on-tv-or-in-films",
+        "label": "On TV or in films"
+      },
+      {
+        "id": "in-comics",
+        "label": "In comics"
+      },
+      {
+        "id": "at-a-festival-or-community-gathering",
+        "label": "At a festival or community gathering"
+      }
+    ]
+  },
+  {
+    "id": "sacred-story-format",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "How do you like to read a story here?",
+    "options": [
+      {
+        "id": "step-by-step-story-walk",
+        "label": "Step-by-step story walk"
+      },
+      {
+        "id": "fact-deck-one-card-at-a-time",
+        "label": "Fact deck, one card at a time"
+      },
+      {
+        "id": "the-full-profile",
+        "label": "The full profile"
+      },
+      {
+        "id": "a-quiz-after-the-story",
+        "label": "A quiz after the story"
+      }
+    ]
+  },
+  {
+    "id": "sacred-which-epic-next",
+    "realm": "sacred",
+    "scope": "sacred:hindu",
+    "question": "Which epic should we turn into a story walk next?",
+    "options": [
+      {
+        "id": "the-ramayana",
+        "label": "The Ramayana"
+      },
+      {
+        "id": "the-mahabharata",
+        "label": "The Mahabharata"
+      },
+      {
+        "id": "stories-from-the-puranas",
+        "label": "Stories from the Puranas"
+      },
+      {
+        "id": "the-panchatantra-fables",
+        "label": "The Panchatantra fables"
+      }
+    ]
+  },
+  {
+    "id": "sacred-ramayana-moment",
+    "realm": "sacred",
+    "scope": "sacred:hindu",
+    "question": "Which Ramayana moment would you like to read about first?",
+    "options": [
+      {
+        "id": "building-the-bridge-to-lanka",
+        "label": "Building the bridge to Lanka"
+      },
+      {
+        "id": "hanuman-s-leap-across-the-sea",
+        "label": "Hanuman's leap across the sea"
+      },
+      {
+        "id": "shabari-s-berries",
+        "label": "Shabari's berries"
+      },
+      {
+        "id": "jatayu-s-brave-flight",
+        "label": "Jatayu's brave flight"
+      },
+      {
+        "id": "the-return-to-ayodhya",
+        "label": "The return to Ayodhya"
+      }
+    ]
+  },
+  {
+    "id": "sacred-mahabharata-moment",
+    "realm": "sacred",
+    "scope": "sacred:hindu",
+    "question": "Which Mahabharata story should we tell next?",
+    "options": [
+      {
+        "id": "ekalavya-and-his-teacher",
+        "label": "Ekalavya and his teacher"
+      },
+      {
+        "id": "the-game-of-dice",
+        "label": "The game of dice"
+      },
+      {
+        "id": "abhimanyu-and-the-chakravyuha",
+        "label": "Abhimanyu and the chakravyuha"
+      },
+      {
+        "id": "krishna-s-advice-on-the-battlefield",
+        "label": "Krishna's advice on the battlefield"
+      },
+      {
+        "id": "the-yaksha-s-riddles",
+        "label": "The yaksha's riddles"
+      }
+    ]
+  },
+  {
+    "id": "sacred-figure-profile-next",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which kind of figure should we profile in more depth next?",
+    "options": [
+      {
+        "id": "sages-and-teachers",
+        "label": "Sages and teachers"
+      },
+      {
+        "id": "poet-saints-and-singers",
+        "label": "Poet-saints and singers"
+      },
+      {
+        "id": "brave-warriors",
+        "label": "Brave warriors"
+      },
+      {
+        "id": "kings-and-queens",
+        "label": "Kings and queens"
+      },
+      {
+        "id": "kind-animals-and-helpers",
+        "label": "Kind animals and helpers"
+      }
+    ]
+  },
+  {
+    "id": "sacred-buddha-teaching",
+    "realm": "sacred",
+    "scope": "sacred:buddhist",
+    "question": "Which idea from the Buddha's teaching would you like to understand better?",
+    "options": [
+      {
+        "id": "the-middle-way",
+        "label": "The Middle Way"
+      },
+      {
+        "id": "kindness-to-all-metta",
+        "label": "Kindness to all (metta)"
+      },
+      {
+        "id": "mindful-breathing",
+        "label": "Mindful breathing"
+      },
+      {
+        "id": "why-things-change",
+        "label": "Why things change"
+      }
+    ]
+  },
+  {
+    "id": "sacred-jain-value",
+    "realm": "sacred",
+    "scope": "sacred:jain",
+    "question": "Which Jain value would you like to read more about?",
+    "options": [
+      {
+        "id": "ahimsa-non-violence",
+        "label": "Ahimsa (non-violence)"
+      },
+      {
+        "id": "anekantavada-many-viewpoints",
+        "label": "Anekantavada (many viewpoints)"
+      },
+      {
+        "id": "aparigraha-not-grasping",
+        "label": "Aparigraha (not grasping)"
+      },
+      {
+        "id": "forgiveness-kshamavani",
+        "label": "Forgiveness (Kshamavani)"
+      }
+    ]
+  },
+  {
+    "id": "sacred-sikh-life",
+    "realm": "sacred",
+    "scope": "sacred:sikh",
+    "question": "Which part of Sikh life would you like to learn more about?",
+    "options": [
+      {
+        "id": "langar-the-free-community-kitchen",
+        "label": "Langar, the free community kitchen"
+      },
+      {
+        "id": "seva-selfless-service",
+        "label": "Seva, selfless service"
+      },
+      {
+        "id": "kirtan-sacred-singing",
+        "label": "Kirtan, sacred singing"
+      },
+      {
+        "id": "the-five-ks",
+        "label": "The Five Ks"
+      }
+    ]
+  },
+  {
+    "id": "sacred-place-to-visit",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which kind of place in these stories would you like to read about?",
+    "options": [
+      {
+        "id": "rivers-and-their-banks",
+        "label": "Rivers and their banks"
+      },
+      {
+        "id": "caves-and-rock-cut-halls",
+        "label": "Caves and rock-cut halls"
+      },
+      {
+        "id": "mountains-and-hill-shrines",
+        "label": "Mountains and hill shrines"
+      },
+      {
+        "id": "forests-and-sacred-trees",
+        "label": "Forests and sacred trees"
+      },
+      {
+        "id": "old-cities-and-their-stories",
+        "label": "Old cities and their stories"
+      }
+    ]
+  },
+  {
+    "id": "sacred-kids-activity",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which activity should we build next for young readers?",
+    "options": [
+      {
+        "id": "a-symbol-matching-game",
+        "label": "A symbol-matching game"
+      },
+      {
+        "id": "a-colour-in-story-card",
+        "label": "A colour-in story card"
+      },
+      {
+        "id": "a-festival-calendar",
+        "label": "A festival calendar"
+      },
+      {
+        "id": "a-story-told-in-pictures-and-sound",
+        "label": "A story told in pictures and sound"
+      }
+    ]
+  },
+  {
+    "id": "sacred-symbol-meaning",
+    "realm": "sacred",
+    "scope": "sacred",
+    "question": "Which symbol's meaning would you like explained first?",
+    "options": [
+      {
+        "id": "the-lotus",
+        "label": "The lotus"
+      },
+      {
+        "id": "the-lamp-diya",
+        "label": "The lamp (diya)"
+      },
+      {
+        "id": "the-wheel",
+        "label": "The wheel"
+      },
+      {
+        "id": "the-conch",
+        "label": "The conch"
+      },
+      {
+        "id": "the-banyan-tree",
+        "label": "The banyan tree"
+      }
+    ]
+  },
+  {
+    "id": "figure-ganesha-story",
+    "realm": "sacred",
+    "scope": "figure:ganesha",
+    "question": "Which Ganesha story would you like to read first?",
+    "options": [
+      {
+        "id": "how-he-got-his-elephant-head",
+        "label": "How he got his elephant head"
+      },
+      {
+        "id": "the-race-around-the-world",
+        "label": "The race around the world"
+      },
+      {
+        "id": "writing-down-the-mahabharata",
+        "label": "Writing down the Mahabharata"
+      },
+      {
+        "id": "the-broken-tusk",
+        "label": "The broken tusk"
+      }
+    ]
+  },
+  {
+    "id": "figure-guru-nanak-journey",
+    "realm": "sacred",
+    "scope": "figure:guru-nanak",
+    "question": "Which of Guru Nanak's journeys (udasis) should we map first?",
+    "options": [
+      {
+        "id": "east-to-bengal-and-assam",
+        "label": "East, to Bengal and Assam"
+      },
+      {
+        "id": "south-to-sri-lanka",
+        "label": "South, to Sri Lanka"
+      },
+      {
+        "id": "north-to-the-himalayas",
+        "label": "North, to the Himalayas"
+      },
+      {
+        "id": "west-to-mecca-and-baghdad",
+        "label": "West, to Mecca and Baghdad"
+      }
+    ]
+  },
+  {
+    "id": "desi-best-hero",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Who is the best desi superhero of all time?",
+    "options": [
+      {
+        "id": "nagraj",
+        "label": "Nagraj"
+      },
+      {
+        "id": "super-commando-dhruva",
+        "label": "Super Commando Dhruva"
+      },
+      {
+        "id": "shaktimaan",
+        "label": "Shaktimaan"
+      },
+      {
+        "id": "krrish",
+        "label": "Krrish"
+      },
+      {
+        "id": "minnal-murali",
+        "label": "Minnal Murali"
+      },
+      {
+        "id": "doga",
+        "label": "Doga"
+      }
+    ]
+  },
+  {
+    "id": "desi-best-villain",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Who is the most memorable desi villain?",
+    "options": [
+      {
+        "id": "mogambo",
+        "label": "Mogambo"
+      },
+      {
+        "id": "kilvish",
+        "label": "Kilvish"
+      },
+      {
+        "id": "ra-one",
+        "label": "Ra.One"
+      },
+      {
+        "id": "shibu",
+        "label": "Shibu"
+      },
+      {
+        "id": "grand-master-robo",
+        "label": "Grand Master Robo"
+      }
+    ]
+  },
+  {
+    "id": "desi-best-era",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which was the best era for Indian comics?",
+    "options": [
+      {
+        "id": "indrajal-comics-in-the-1970s-and-80s",
+        "label": "Indrajal Comics in the 1970s and 80s"
+      },
+      {
+        "id": "raj-comics-in-the-1990s",
+        "label": "Raj Comics in the 1990s"
+      },
+      {
+        "id": "diamond-comics-and-chacha-chaudhary",
+        "label": "Diamond Comics and Chacha Chaudhary"
+      },
+      {
+        "id": "today-s-films-and-web-comics",
+        "label": "Today's films and web comics"
+      }
+    ]
+  },
+  {
+    "id": "desi-deserves-film",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which comic hero most deserves a big-screen film?",
+    "options": [
+      {
+        "id": "nagraj",
+        "label": "Nagraj"
+      },
+      {
+        "id": "super-commando-dhruva",
+        "label": "Super Commando Dhruva"
+      },
+      {
+        "id": "doga",
+        "label": "Doga"
+      },
+      {
+        "id": "parmanu",
+        "label": "Parmanu"
+      },
+      {
+        "id": "bahadur",
+        "label": "Bahadur"
+      }
+    ]
+  },
+  {
+    "id": "desi-crossover",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which crossover would you most like to see?",
+    "options": [
+      {
+        "id": "nagraj-and-super-commando-dhruva",
+        "label": "Nagraj and Super Commando Dhruva"
+      },
+      {
+        "id": "krrish-and-minnal-murali",
+        "label": "Krrish and Minnal Murali"
+      },
+      {
+        "id": "shaktimaan-and-chacha-chaudhary",
+        "label": "Shaktimaan and Chacha Chaudhary"
+      },
+      {
+        "id": "doga-and-parmanu",
+        "label": "Doga and Parmanu"
+      }
+    ]
+  },
+  {
+    "id": "desi-who-would-win",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Who would win: Krrish or Minnal Murali?",
+    "options": [
+      {
+        "id": "krrish",
+        "label": "Krrish"
+      },
+      {
+        "id": "minnal-murali",
+        "label": "Minnal Murali"
+      },
+      {
+        "id": "it-s-a-draw",
+        "label": "It's a draw"
+      }
+    ]
+  },
+  {
+    "id": "desi-best-tv-hero",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which screen hero shaped your childhood most?",
+    "options": [
+      {
+        "id": "shaktimaan",
+        "label": "Shaktimaan"
+      },
+      {
+        "id": "mr-india",
+        "label": "Mr. India"
+      },
+      {
+        "id": "krrish",
+        "label": "Krrish"
+      },
+      {
+        "id": "g-one",
+        "label": "G.One"
+      },
+      {
+        "id": "chacha-chaudhary-tv",
+        "label": "Chacha Chaudhary (TV)"
+      }
+    ]
+  },
+  {
+    "id": "desi-power-want",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which desi hero power would you most like to have?",
+    "options": [
+      {
+        "id": "nagraj-s-snakes",
+        "label": "Nagraj's snakes"
+      },
+      {
+        "id": "mr-india-s-invisibility",
+        "label": "Mr. India's invisibility"
+      },
+      {
+        "id": "krrish-s-speed",
+        "label": "Krrish's speed"
+      },
+      {
+        "id": "minnal-murali-s-lightning",
+        "label": "Minnal Murali's lightning"
+      },
+      {
+        "id": "chacha-chaudhary-s-quick-brain",
+        "label": "Chacha Chaudhary's quick brain"
+      }
+    ]
+  },
+  {
+    "id": "desi-reboot",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Which classic hero should get a modern reboot first?",
+    "options": [
+      {
+        "id": "shaktimaan",
+        "label": "Shaktimaan"
+      },
+      {
+        "id": "bahadur",
+        "label": "Bahadur"
+      },
+      {
+        "id": "super-commando-dhruva",
+        "label": "Super Commando Dhruva"
+      },
+      {
+        "id": "parmanu",
+        "label": "Parmanu"
+      },
+      {
+        "id": "mr-india",
+        "label": "Mr. India"
+      }
+    ]
+  },
+  {
+    "id": "character-nagraj-rival",
+    "realm": "comic",
+    "scope": "character:nagraj",
+    "question": "Who is Nagraj's toughest rival?",
+    "options": [
+      {
+        "id": "nagpasha",
+        "label": "Nagpasha"
+      },
+      {
+        "id": "professor-nagmani",
+        "label": "Professor Nagmani"
+      },
+      {
+        "id": "thodanga",
+        "label": "Thodanga"
+      },
+      {
+        "id": "someone-else",
+        "label": "Someone else"
+      }
+    ]
+  },
+  {
+    "id": "desi-new-medium",
+    "realm": "comic",
+    "scope": "desi",
+    "question": "Where should the next desi superhero story appear?",
+    "options": [
+      {
+        "id": "a-big-budget-film",
+        "label": "A big-budget film"
+      },
+      {
+        "id": "a-streaming-series",
+        "label": "A streaming series"
+      },
+      {
+        "id": "an-animated-show",
+        "label": "An animated show"
+      },
+      {
+        "id": "a-new-comic-series",
+        "label": "A new comic series"
+      },
+      {
+        "id": "a-video-game",
+        "label": "A video game"
+      }
+    ]
+  }
+]

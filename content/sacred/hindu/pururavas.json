@@ -1,0 +1,281 @@
+{
+  "slug": "pururavas",
+  "name": "Pururavas",
+  "aka": ["Purūravas", "Pururava"],
+  "native": "पुरूरवस्",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "First king of the Lunar dynasty, husband of Urvashi",
+  "summary": "Pururavas is remembered in the Rig Veda and the Puranas as an early king who loved the apsara Urvashi. Tradition names him the first ruler of the Lunar dynasty, and his story is retold by Kalidasa.",
+  "about": "The Rig Veda (10.95) names Pururavas as a son of Ila, and places him in a famous dialogue with the apsara Urvashi. Later texts expand his tale. The Mahabharata says Ila was both his mother and his father, while the Vishnu Purana and others make Budha, son of the moon god Chandra, his father, which is why he is called the first king of the Lunar dynasty. The Puranas place his capital at Pratishthana, which they identify with Prayaga. In the Mahabharata he is also credited with bringing three sacred fires from the Gandharva realm to the human world. His love of Urvashi is the best-known part of his story: she agrees to live with him if certain promises are kept, but the promises are broken, and she returns to the heavens. In the Rig Veda she does not come back; later versions, such as Kalidasa's play Vikramorvashiyam, give the couple a happier ending. Tradition gives him six, seven or eight sons, including Ayu.",
+  "kidSummary": "Pururavas was an early king whom the texts call the first of the Lunar dynasty. He fell in love with Urvashi, a heavenly dancer, and married her on a few special conditions. When the conditions were broken, she went back to the sky. Poets have retold their story for thousands of years.",
+  "story": [
+    {
+      "title": "A king meets a dancer",
+      "text": "King Pururavas met Urvashi, an apsara from Indra's heaven. They fell in love, and he asked her to marry him."
+    },
+    {
+      "title": "Her promises",
+      "text": "Urvashi agreed on a few conditions. In many versions he must protect her two pet sheep and must never let her see him without his royal robes except in private."
+    },
+    {
+      "title": "The sheep are taken",
+      "text": "In the Puranic version, Indra's Gandharvas stole one of the sheep at night. Pururavas rushed out to rescue it without stopping for his robes."
+    },
+    {
+      "title": "The flash of lightning",
+      "text": "A flash of lightning lit the sky and Urvashi saw him. The promise was broken, and she went back to heaven."
+    },
+    {
+      "title": "A long search",
+      "text": "Pururavas wandered the land looking for her. The texts end the story in different ways: in the Rig Veda she does not return, but later versions let the couple meet again."
+    }
+  ],
+  "teaches": [
+    "Keeping promises matters",
+    "Love and loss can inspire poetry",
+    "Old stories can be retold in new ways"
+  ],
+  "symbol": "moon",
+  "emblems": ["Two pet sheep (Puranic versions)", "Three sacred fires", "Lunar dynasty"],
+  "family": [
+    {
+      "relation": "Mother (Rig Veda)",
+      "name": "Ila"
+    },
+    {
+      "relation": "Father (Vishnu Purana)",
+      "name": "Budha"
+    },
+    {
+      "relation": "Grandfather (Puranic)",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Wife",
+      "name": "Urvashi",
+      "slug": "urvashi"
+    },
+    {
+      "relation": "Son",
+      "name": "Ayu"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Nahusha"
+    }
+  ],
+  "texts": [
+    "Rig Veda (10.95)",
+    "Shatapatha Brahmana (11.5.1)",
+    "Mahabharata",
+    "Harivamsa",
+    "Vishnu Purana",
+    "Matsya Purana",
+    "Bhagavata Purana",
+    "Kalidasa's Vikramorvashiyam"
+  ],
+  "places": ["Pratishthana (identified with Prayaga)", "Kumaravana (in Kalidasa's play)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In some tellings Ila, a child of Manu, switches between man and woman. As a woman Ila bears Pururavas, then becomes a man again, which fits the Mahabharata line that Ila was both his mother and his father.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Ila's marriage to Budha, the Moon's grandson, is described as the first union of the solar and lunar lines in the scriptures, so Pururavas has both families in his blood.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholars read the Rig Veda dialogue three ways: as a love poem, as the sun (Pururavas) meeting the dawn (Urvashi), and as ritual verses for those hoping to be reborn as a Gandharva or Apsara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pururavas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata credits him with bringing three sacred fires from the world of the Gandharvas to earth, so they could be used in rituals.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pururavas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's play, Ayus is raised in sage Chyavana's hermitage. The curse that bars Urvashi from heaven ends when Pururavas sees his son, and she may then stay on earth for as long as the king lives.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vikram%C5%8Drva%C5%9B%C4%AByam",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Sambhava Parva, Pururavas grows proud, ignores Sanatkumara's advice and clashes with Brahmins, who curse him, and he is destroyed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pururavas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Puranas add a detail about her life on earth: Urvashi is said to eat nothing but ghee, one more of the special conditions of her marriage to Pururavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Rig Veda dialogue (10.95), Urvashi has been with him for four years when she leaves, and Pururavas begs her to return; she refuses, and advises him to live well to reach heaven.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Puranas, the asuras were followers of Pururavas, while the devas counted as his friends.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pururavas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play Pururavas is already married to Aushinari, a princess of Kashi. She grows suspicious when he calls her Urvashi by mistake, and her attendant Nipunika discovers why.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kalidasa's cast includes a Yavani, a Graeco-Bactrian woman, who serves as the king's bow-bearer.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Shatapatha Brahmana, the Gandharvas trick him into breaking the condition. Urvashi later agrees to return once a year, and a sacrifice makes him a Gandharva so they can reunite.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play, after Urvashi vanishes into the Kumaravana forest, Pururavas wanders around asking the animals and birds where she is, like a man out of his mind.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the play, a grieving Pururavas finds a magical gem and embraces a creeper without knowing it is Urvashi, turned into a vine by a forest curse. The gem restores her.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Matsya Purana says Manu's inheritance went straight to Pururavas, skipping Ila's three sons from the male form. He ruled from Pratishthanapura, today's Prayagraj, where Ila stayed with him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One telling explains his name from his birth on Mount Puru. The Puranas also say he performed a hundred horse sacrifices and that asuras followed him while devas were his friends.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Pururavas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play the king is returning from his sun prayers when he hears that Keshi has carried off Urvashi and her friend Chitralekha, and he goes straight to rescue them.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play Pururavas leaves his minister to run the kingdom and spends happy days with Urvashi on Mount Gandhamadana, until a single glance at a vidyadhari upsets her.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The magical gem in the forest is called the sangamaniya-mani, a gem of meeting. After it returns Urvashi to her own form, it becomes the jewel she wears in her hair.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the play, Urvashi arrives invisible to listen to the king speak of her, then comes up behind him, covers his eyes and he knows her by her touch.",
+      "kind": "art",
+      "source": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vedas Ila is also called Ida, a goddess of speech and refreshment, and the Rig Veda names her as the mother of Pururavas.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which heavenly dancer did Pururavas fall in love with?",
+      "options": ["Menaka", "Rambha", "Tilottama", "Urvashi"],
+      "answer": 3,
+      "why": "Urvashi, the apsara, is the heroine of the story."
+    },
+    {
+      "q": "What were the two pet animals Pururavas had to protect in many versions?",
+      "options": ["Two sheep", "Two peacocks", "Two tigers", "Two swans"],
+      "answer": 0,
+      "why": "Urvashi asked him to guard her two pet sheep."
+    },
+    {
+      "q": "What revealed Pururavas and broke the promise in the Puranic story?",
+      "options": [
+        "A thunderclap",
+        "A bright flash of lightning",
+        "A shining crown",
+        "A burning fire"
+      ],
+      "answer": 1,
+      "why": "Lightning lit the room, and Urvashi saw him unrobed."
+    },
+    {
+      "q": "Which poet wrote the play Vikramorvashiyam about the couple?",
+      "options": ["Valmiki", "Tulsidas", "Kalidasa", "Bhasa"],
+      "answer": 2,
+      "why": "Kalidasa, the great Sanskrit playwright, wrote it."
+    },
+    {
+      "q": "Which dynasty is Pururavas called the first king of?",
+      "options": ["Solar", "Lunar", "Fire (Agnivansha)", "Naga"],
+      "answer": 1,
+      "why": "He is the first king of the Chandravamsha, the Lunar dynasty."
+    }
+  ],
+  "related": ["urvashi", "chandra", "yayati", "apsaras", "gandharvas", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pururavas",
+    "urvashi": "https://en.wikipedia.org/wiki/Urvashi",
+    "play": "https://en.wikipedia.org/wiki/Vikramorvashiyam",
+    "kalidasa": "https://prekshaa.in/samskruta-naataka-kaalidaasa-part1-vikramorvashiyam",
+    "shatapatha_note": "https://en.wikipedia.org/wiki/Vikramorvashiyam"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#D4DCE8",
+    "c2": "#E9E1C8"
+  },
+  "order": 500
+}

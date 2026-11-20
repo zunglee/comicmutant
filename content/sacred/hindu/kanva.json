@@ -1,0 +1,279 @@
+{
+  "slug": "kanva",
+  "name": "Kanva",
+  "aka": ["Kanwa", "Kaṇva", "Karnesh"],
+  "native": "कण्व",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Vedic seer and foster father of Shakuntala",
+  "summary": "Kanva is a Vedic seer of the Angirasa family, credited with hymns of the Rigveda and the founder of a Yajurveda branch. In the Mahabharata he raises Shakuntala in his hermitage.",
+  "about": "Kanva is an ancient rishi to whom some Rigveda hymns, chiefly in Mandala 8, are credited. Many sages with the name Kanva appear in the texts, so scholars speak of a family of Kanvas. Kanva is also the name of the founder of the Kanva branch of the Shukla Yajurveda. In the Mahabharata he finds the child Shakuntala near his hermitage and raises her, and she later becomes the mother of the emperor Bharata. Kalidasa's play on this story makes his hermitage a place of gentle forest life, and its fourth act shows Kanva bidding Shakuntala farewell. Puranic texts give him different parents, which shows how many traditions grew around the name.",
+  "kidSummary": "Kanva is a kind sage who lived in a forest hermitage. One day he found a baby girl protected by birds and brought her up as his own daughter, Shakuntala. Her son Bharata later became a great king whose name is tied to India's old name.",
+  "story": [
+    {
+      "title": "A cry in the forest",
+      "text": "In the Mahabharata, a baby is left near Kanva's hermitage. Birds called shakuntas gather around her, keeping her safe."
+    },
+    {
+      "title": "A name from the birds",
+      "text": "Kanva finds the baby and names her Shakuntala, meaning protected by shakunta birds. He raises her as his own daughter."
+    },
+    {
+      "title": "A visitor arrives",
+      "text": "When Kanva is away, King Dushyanta visits the hermitage and marries Shakuntala. Kanva accepts the marriage as destiny when he returns."
+    },
+    {
+      "title": "The little prince",
+      "text": "Shakuntala's son grows up strong and fearless in the hermitage. When he is old enough, Kanva's students take him and his mother to the king's court."
+    },
+    {
+      "title": "The great Bharata",
+      "text": "The king accepts them and the boy becomes the emperor Bharata, whose name is linked to India's old name, Bharatavarsha."
+    }
+  ],
+  "teaches": [
+    "Care for a child who needs a home",
+    "Welcome guests and bless them",
+    "Live simply and respect nature"
+  ],
+  "symbol": "feather",
+  "emblems": [
+    "Hermitage in the forest",
+    "Shakunta birds",
+    "Rigveda Mandala 8",
+    "Kanva recension of the Yajurveda"
+  ],
+  "family": [
+    {
+      "relation": "Foster daughter",
+      "name": "Shakuntala",
+      "slug": "shakuntala"
+    },
+    {
+      "relation": "Foster grandson",
+      "name": "Bharata",
+      "slug": "bharata-emperor"
+    },
+    {
+      "relation": "Son",
+      "name": "Medhatithi"
+    },
+    {
+      "relation": "Visitor to his ashram",
+      "name": "Dushyanta",
+      "slug": "dushyanta"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 8)",
+    "Mahabharata",
+    "Abhijnanashakuntalam",
+    "Shukla Yajurveda (Kanva recension)",
+    "Atharvaveda 2.25"
+  ],
+  "places": ["Kanvashram near Kotdwar, Uttarakhand", "Malini river"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Mahabharata, the sage Kanva found a baby girl in the wilderness protected by shakunta birds and named her Shakuntala, meaning 'protected by birds'.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Shakuntala's son was named Sarvadamana, 'the one who overpowers all', because he was strong enough to master even lions. Seeing his strength, Kanva judged it was time to take him to his father.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The boy raised in Kanva's hermitage grew into the emperor Bharata, from whom India's old name Bharatavarsha comes, according to the epic.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before she leaves, the trees of Kanva's grove give gifts. One tree yields a silk wedding dress, another gives red dye for her feet, and others offer jewels.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the farewell, Shakuntala embraces her favourite vine and asks Kanva to send word when her pregnant doe has her young. A pet fawn tugs at her dress, unwilling to let her go.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kanvas are also a class of spirit in a hymn of the Atharvaveda (2.25), which is used as a charm against them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ka%E1%B9%87va",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata and Kalidasa's play differ on Kanva. In the epic he accepts Shakuntala's marriage as destiny after her son is born. In the play he learns she is pregnant and arranges her journey to the court at once.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's play, Kanva is away at Somatirtha when King Dushyanta arrives. He has gone there to ward off an evil fate that threatens Shakuntala, and has left her to welcome the guests.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha05.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the play, Shakuntala's friends are too shy to tell Kanva about her secret marriage. Then a voice from heaven speaks a verse as he enters the fire-sanctuary, and he learns the news and happily plans her journey to her husband.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Act 4 Kanva says that even a forest hermit like himself is choked with tears at sending his adopted daughter away, and asks what pangs of parting a householder with a daughter must feel.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before she leaves, Kanva gives Shakuntala advice. She should obey her elders, be kind even to her husband's other wives, be polite to servants and never be proud of her good fortune.",
+      "kind": "teaching",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As Shakuntala leaves, Kanva says his sadness will not go, because the seeds she scattered before the cottage door will grow and he will see them every day.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kanva calls a daughter someone else's treasure held in trust. Once Shakuntala is handed to her husband, he says he feels calm because he has returned a pledge that had come to him from heaven.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kanva tells Shakuntala that when her son is old enough to rule, she and her husband should come back to the grove to spend their last years in peace.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the play, Kanva's pupil Sharngarava reminds him that scripture says to go with a departing loved one only as far as the first water. So Kanva stops at the pond beside the hermitage and turns back.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Shakuntala raises her son Bharata in Kanva's hermitage for six years before she goes to Dushyanta's court.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sir William Jones's 1789 English version, Sacontala or The Fatal Ring, was the first Indian drama translated into a Western language. At least 46 translations in twelve European languages followed within a century, and Goethe praised the play in 1791.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local tradition places Kanvashram on the Malini river, about 14 km from Kotdwar in Uttarakhand, and says the abandoned baby Shakuntala was left on its bank.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kotdwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kanva is also called Karnesh and is counted among the Angirasa family of seers. He is said to have lived in the Treta Yuga, and some lists even include him among the seven sages. His son was named Medhatithi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ka%E1%B9%87va",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before Shakuntala sets out, Kanva asks her to walk around the sacred fires from left to right while he wishes that the fires will protect her and wear away any misfortune.",
+      "kind": "art",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whom did Kanva raise in his hermitage?",
+      "options": ["Sita", "Shakuntala", "Draupadi", "Damayanti"],
+      "answer": 1,
+      "why": "He found Shakuntala as a baby and raised her."
+    },
+    {
+      "q": "What animals protected baby Shakuntala in the story?",
+      "options": ["Shakunta birds", "Deer", "Elephants", "Snakes"],
+      "answer": 0,
+      "why": "Her name means protected by shakunta birds."
+    },
+    {
+      "q": "Where is Kanva when King Dushyanta visits the hermitage in Kalidasa's play?",
+      "options": [
+        "On a pilgrimage to Somatirtha",
+        "At the king's court",
+        "Hunting in the forest",
+        "Asleep under a tree"
+      ],
+      "answer": 0,
+      "why": "He has gone to Somatirtha to ward off an evil fate threatening Shakuntala."
+    },
+    {
+      "q": "Which poet wrote the play Abhijnanashakuntalam?",
+      "options": ["Kalidasa", "Valmiki", "Vyasa", "Tulsidas"],
+      "answer": 0,
+      "why": "Kalidasa retold the story with a ring and a curse."
+    },
+    {
+      "q": "Which king did Shakuntala marry?",
+      "options": ["Dushyanta", "Dasharatha", "Janaka", "Yayati"],
+      "answer": 0,
+      "why": "Their son became the emperor Bharata."
+    }
+  ],
+  "related": [
+    "shakuntala",
+    "dushyanta",
+    "bharata-emperor",
+    "vishvamitra",
+    "kashyapa",
+    "angiras",
+    "durvasa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ka%E1%B9%87va",
+    "shakuntala": "https://en.wikipedia.org/wiki/Shakuntala",
+    "abhijnanashakuntalam": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+    "kotdwar": "https://en.wikipedia.org/wiki/Kotdwar",
+    "shakuntala-act4": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha08.htm",
+    "rigveda": "https://en.wikipedia.org/wiki/Rigveda",
+    "shakuntala-act1": "https://neonvagabond.xyz/mirrors/sacred-texts/hin/sha/sha05.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d6e8d2",
+    "c2": "#f3e8c9"
+  },
+  "order": 765
+}

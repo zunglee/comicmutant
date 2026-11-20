@@ -1,0 +1,293 @@
+{
+  "slug": "ganga",
+  "name": "Ganga",
+  "aka": ["Bhagirathi", "Jahnavi", "Vishnupadi", "Mandakini", "Tripathaga", "Shivapriya"],
+  "native": "गंगा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of the sacred river Ganga",
+  "summary": "Hindus honour Ganga as both a river and a goddess whose waters are believed to purify. Many Puranas say she flowed down from heaven to earth, softened by Shiva's hair.",
+  "about": "Ganga is the goddess worshipped in the river Ganges, which runs from the Himalayas to the Bay of Bengal. The Ramayana calls her the eldest daughter of the mountain king Himavat, making her Parvati's elder sister. The Bhagavata Purana says her water began where Vamana's toe pierced the shell of the universe, while the Devi Bhagavata Purana tells of a time when she was one of Vishnu's wives. Texts such as the Ramayana and Mahabharata describe how king Bhagiratha's long penance persuaded her to come down to earth, with Shiva catching her fall. She is honoured at Gangotri, Haridwar, Prayagraj and Varanasi, and at festivals like Ganga Dussehra and the Kumbh Mela. Tradition pictures her as gentle, with no fierce form.",
+  "kidSummary": "Ganga is the goddess of India's great river, the Ganges. Stories say she once lived in heaven, and a king named Bhagiratha prayed for years to bring her to earth. Shiva caught her in his hair so she would come down gently, and she became a river that gives water to millions of people.",
+  "story": [
+    {
+      "title": "A river in heaven",
+      "text": "In many Puranas, Ganga lives in heaven as a river of pure, shining water, long before she ever touches the earth."
+    },
+    {
+      "title": "Bhagiratha's wish",
+      "text": "King Bhagiratha wanted to help his ancestors, the sons of King Sagara. He prayed for a very long time so that Ganga would come down to earth."
+    },
+    {
+      "title": "Ganga agrees",
+      "text": "Ganga said yes, but her fall from heaven would be so strong that the earth might break. Bhagiratha asked Shiva to help."
+    },
+    {
+      "title": "Shiva catches her",
+      "text": "Shiva let Ganga fall into his tangled hair. She wandered inside it, and then he released her in gentle streams."
+    },
+    {
+      "title": "Following the king",
+      "text": "Bhagiratha led the way and Ganga followed him across the land. Because of this, one of her names is Bhagirathi."
+    },
+    {
+      "title": "A river for everyone",
+      "text": "Her flood swept over the ashram of sage Jahnu and put out his sacred fire. Angry, he drank the river, then let her out through his ear when Bhagiratha explained. That is why she is also called Jahnavi."
+    }
+  ],
+  "teaches": [
+    "Patient effort, like Bhagiratha's, can bring great good",
+    "Water and rivers deserve care and respect",
+    "Strength can be gentle when it is guided well"
+  ],
+  "symbol": "wave",
+  "emblems": ["Makara or crocodile (mount)", "Water pot (kalasha)", "White lotus", "Flowing water"],
+  "family": [
+    {
+      "relation": "Sister",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Husband, in the Mahabharata",
+      "name": "Shantanu",
+      "slug": "shantanu"
+    },
+    {
+      "relation": "Son",
+      "name": "Bhishma",
+      "slug": "bhishma"
+    },
+    {
+      "relation": "Brought her to earth",
+      "name": "Bhagiratha",
+      "slug": "bhagiratha"
+    },
+    {
+      "relation": "Held her fall",
+      "name": "Shiva",
+      "slug": "shiva"
+    }
+  ],
+  "texts": [
+    "Ramayana",
+    "Mahabharata",
+    "Bhagavata Purana",
+    "Devi Bhagavata Purana",
+    "Rigveda (Nadistuti hymn)"
+  ],
+  "places": ["Gangotri", "Haridwar", "Prayagraj", "Varanasi", "Kalighat, Kolkata"],
+  "festivals": ["Ganga Dussehra", "Ganga Jayanti", "Kumbh Mela"],
+  "facts": [
+    {
+      "text": "The Ramayana calls Ganga the eldest daughter of the mountain king Himavat, which makes her the older sister of the goddess Parvati.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Ganga's water began when Vamana's toenail pierced the shell of the universe; it turned pink washing saffron from Vishnu's feet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Devi Bhagavata Purana says Ganga was once one of Vishnu's three wives with Lakshmi and Saraswati, until a quarrel and curses turned her into a river.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Ganga agrees to marry King Shantanu only if he never questions her actions. When he finally stops her over their eighth child, Bhishma, she leaves with the boy and returns him to his father when he is ten.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In epic tradition, Indra steals the horse of King Sagara's ritual. Sagara's 60,000 sons find it at sage Kapila's ashram, and his gaze burns them, so Bhagiratha later prays to bring Ganga down to their ashes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Reports say about 660 million people joined the 2025 Maha Kumbh at Prayagraj, where Ganga and Yamuna meet the Saraswati of tradition.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Tradition counts the Bhagirathi, rising at Gomukh on the Gangotri Glacier about 4,356 m up, as Ganga's source, but scientists treat the longer Alaknanda as the main headstream of the 2,525 km river.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Vaishnava version, the heavenly river is received by Dhruva, the Pole star, streams across the sky as the Milky Way, then reaches the moon and Brahma's lotus on Mount Meru before the Bhagirathi falls to India.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "About 140 kinds of fish live in the Ganges, among them the critically endangered Ganges shark.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Thailand, floating krathong boats at Loy Krathong thank a water goddess called Phra Mae Khongkha, who is linked with Ganga.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Ganges river dolphin, one of only five true freshwater dolphins in the world, lives in the river, and India has named it the national aquatic animal.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In March 2017 the High Court of Uttarakhand declared the Ganges a legal person, a ruling meant to help protect it, though commentators doubted it could be enforced.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dev Deepavali in Varanasi falls on Kartik Purnima, fifteen days after Diwali, when more than a million earthen lamps light the Ganga's ghats from Ravidas Ghat to Rajghat.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dev_Deepavali_(Varanasi)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pilgrims immerse the ashes of their loved ones in the Ganga, which they believe brings the souls closer to moksha, freedom from the cycle of life and death.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Kumbh Mela returns to each of its sites about every 12 years, but roughly once a century the gap is 11 years, because Jupiter's orbit takes 11.86 years.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ganga is shown riding the makara, a crocodile-like creature that is often drawn with an elephant-like trunk, and early temples carved her at their entrances to wash away worshippers' sins.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the late 12th century the Bhagirathi-Hooghly was the Ganges' main channel and the Padma a minor spill-channel. They were about equal until the 16th century, then the Padma became the main channel, so the river shifted its course.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Ganges Delta is the world's largest, about 64,000 square kilometres, and in Bangladesh the river is called the Padma.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Ganga Dashahara, in late spring, crowds bathe in the river, and a dip is said to wash away ten sins. Those who cannot reach the river can get the same result from any nearby water, which the true believer sees as holding the Ganges' qualities.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jawaharlal Nehru, who did not follow religious ritual himself, asked in his will for a handful of his ashes to be thrown into the Ganges, calling it the river of India.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Unlike many other goddesses, Ganga has no destructive or fearsome side in tradition, even though the river itself can be destructive. She is also a mother to other gods: she cools Shiva's too-hot seed in her waters, and Skanda is born.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who caught Ganga in his hair so she would not shake the earth?",
+      "options": ["Brahma", "Indra", "Shiva", "Hanuman"],
+      "answer": 2,
+      "why": "In the stories, Shiva let her fall into his hair and released her gently."
+    },
+    {
+      "q": "Why is Ganga also called Bhagirathi?",
+      "options": [
+        "King Bhagiratha prayed to bring her down",
+        "A sage drank her waters",
+        "She flows in three worlds",
+        "Bhagiratha was her brother"
+      ],
+      "answer": 0,
+      "why": "Bhagiratha's long prayers brought her to earth, so the river carries his name."
+    },
+    {
+      "q": "Which sage drank Ganga's waters and gave her the name Jahnavi?",
+      "options": ["Narada", "Vyasa", "Agastya", "Jahnu"],
+      "answer": 3,
+      "why": "Jahnu drank her up and later released her, giving the name Jahnavi."
+    },
+    {
+      "q": "What does Tripathaga, one of her names, mean?",
+      "options": [
+        "Has three crowns",
+        "Flows in three worlds",
+        "Born on day three",
+        "Rides three animals"
+      ],
+      "answer": 1,
+      "why": "Tripathaga means she is said to flow in heaven, earth and the underworld."
+    },
+    {
+      "q": "Which freshwater animal of the Ganges is India's national aquatic animal?",
+      "options": ["Gharial", "Otter", "Ganges river dolphin", "Turtle"],
+      "answer": 2,
+      "why": "The Ganges river dolphin was named India's national aquatic animal."
+    }
+  ],
+  "related": [
+    "yamuna",
+    "shiva",
+    "parvati",
+    "bhagiratha",
+    "bhishma",
+    "shantanu",
+    "saraswati",
+    "vishnu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+    "river": "https://en.wikipedia.org/wiki/Ganges",
+    "kumbh": "https://en.wikipedia.org/wiki/Kumbh_Mela"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe8f0",
+    "c2": "#f3ecd9"
+  },
+  "order": 7
+}

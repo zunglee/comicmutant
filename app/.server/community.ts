@@ -382,6 +382,10 @@ export async function modRule(
       [t.user_id],
     );
     await sql.run('DELETE FROM reactions WHERE user_id = ?', [t.user_id]);
+    // Desi/comic poll votes and fact reactions (S13). Sacred ones are keyed by the browser cookie,
+    // never the fan (S12), so by design they can't be traced to this account and stay.
+    await sql.run('DELETE FROM poll_votes WHERE voter = ?', [voter]);
+    await sql.run('DELETE FROM fact_reactions WHERE voter = ?', [voter]);
   }
   await sql.run(
     'INSERT INTO mod_actions (mod_id, take_id, target_user, action, created_at) VALUES (?, ?, ?, ?, ?)',

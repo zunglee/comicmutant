@@ -1,0 +1,256 @@
+{
+  "slug": "angulimala",
+  "name": "Angulimala",
+  "aka": ["Ahimsaka", "Angulimalaya", "Gagga Mantaniputta"],
+  "native": "अङ्गुलिमाल",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Former outlaw who became a monk of non-violence",
+  "years": "c. 5th century BCE",
+  "order": 14,
+  "summary": "In Buddhist tradition, Angulimala was a man who turned to violence and then, after meeting the Buddha, became a peaceful monk. His story is a famous example of change and forgiveness.",
+  "about": "Pali and later Buddhist texts say Angulimala was born as Ahimsaka, \"the harmless one\", in a Brahmin family in Savatthi. Sent to study at Taxila, he was tricked by jealous classmates, and the teacher demanded a thousand human fingers. The Majjhima Nikaya (MN 86) says he became a feared outlaw in the Kosala kingdom until the Buddha walked toward him. Moved by the Buddha's calm, he dropped his weapons and asked to join the monks. Texts say he still faced anger from villagers, but he bore it patiently and became an arahant. He is honoured in Theravada countries through a protective verse recited for safe childbirth.",
+  "kidSummary": "Angulimala was once a feared outlaw, but he met the Buddha and chose a new way of life. He put down his weapons and became a kind monk. People remember him as a helper of mothers and babies, and as proof that anyone can change.",
+  "story": [
+    {
+      "title": "The harmless one",
+      "text": "A baby was born in Savatthi on a night full of strange omens. Yet no one was hurt, so he was named Ahimsaka, which means \"harmless\". He grew into a clever student."
+    },
+    {
+      "title": "A wicked trick",
+      "text": "At school, jealous classmates told lies about Ahimsaka. Angry, his teacher gave him a terrible task. Ahimsaka, believing he had to obey, went into the forest and became a feared outlaw."
+    },
+    {
+      "title": "The calm walker",
+      "text": "The Buddha walked calmly down the road toward him. Angulimala ran after him but could not catch up, and shouted for him to stop. The Buddha said he had already stopped, because he had put down violence."
+    },
+    {
+      "title": "A new beginning",
+      "text": "Angulimala threw his weapons away and asked to become a monk. The Buddha welcomed him, and he lived quietly and kindly from then on."
+    },
+    {
+      "title": "A gift to mothers",
+      "text": "Once he helped a woman in a difficult labour by speaking a sincere truth about his new life. The woman and her child were safe, and the words became a blessing still said for mothers."
+    }
+  ],
+  "teaches": ["Anyone can change", "Choosing non-violence", "Patience when people are unkind"],
+  "symbol": "footprint",
+  "emblems": ["Garland of fingers (in his legend)", "Almsbowl", "Protective childbirth verse"],
+  "family": [
+    {
+      "relation": "Teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    }
+  ],
+  "texts": [
+    "Angulimala Sutta (MN 86)",
+    "Theragatha",
+    "Angulimala Paritta",
+    "Mahayana Angulimaliya Sutra"
+  ],
+  "places": ["Savatthi (Shravasti)", "Jalini forest, Kosala", "Jetavana monastery stupa"],
+  "festivals": ["Paritta chanting for pregnant women in Theravada countries"],
+  "facts": [
+    {
+      "text": "He was born Ahimsaka, 'the harmless one', because no one was hurt at his birth despite frightening omens. His later name, Angulimala, means 'garland of fingers', after the necklace he wore as an outlaw.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One commentary says the king first named the baby Himsaka, \"the harmful one\", and the name was changed later.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At his birth, weapons seemed to flash, and a \"thieves' constellation\" showed in the sky.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The king spared the baby because his father, the royal chaplain, said he would only grow up to be a lone robber.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Some texts say that in an earlier life he was Saudasa, a king turned man-eater, who was brought to peace by King Sutasoma, a previous birth of the Buddha, after he had already killed 99 kings.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He kept count by hanging the fingers on a cord, but birds ate them, so he began wearing them instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1985 the British-born monk Ajahn Khemadhammo founded a prison chaplaincy named Angulimala in the UK. The British government recognises it as the official voice of Buddhism in the prison system.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the story, he met his mother on the road and was ready to make her his thousandth victim, which would have closed the door on any change, until the Buddha appeared and he turned on him instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One text says the Buddha used a special power to stretch and shrink the ground beneath them, so Angulimala could never close the distance, however fast he ran.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Majjhima Nikaya, he is amazed that although he once caught speeding elephants, horses, chariots and deer, he cannot catch a monk walking at an ordinary pace.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Buddha said, in the poem, that he had already stopped, because he no longer harmed any being, while Angulimala had not.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When he went for alms, a clod, a stone and a potsherd hit him, and he came back to the Buddha with a broken head and bowl. The Buddha told him to bear it.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is said to have performed an 'act of truth' for a woman in hard labour, and her child was born safely. The Buddha had him change the words to speak of his birth into the noble life, meaning his new life as a monk.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The verse became a protective chant, recited in Theravada countries to bless expectant mothers.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After his story, the Buddha is reported to have barred criminals from joining the monks.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ekottara Agama version, he was a crown prince in an earlier life, killed by enemies, and vowed to take revenge and reach nirvana in a future life under a teacher.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When monks wondered how a man who had killed so many could reach nirvana, the Buddha replied that even after much evil, a person can change for the better and become enlightened.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He took only fingers from his victims, never clothes or jewels, and whole villages emptied as people fled the road.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jealous classmates at Taxila whispered against him until his teacher turned on him. The demand for a thousand human fingers as a parting gift was meant to get him killed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "King Pasenadi sent 500 soldiers to hunt the outlaw. His parents guessed it was their son, because of the omens at his birth. His father held back, but his mother set out to find him and warn him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In his verses in MN 86 he says that someone once careless who becomes careful lights up the world like the moon freed from a cloud, and that his own change fits those words.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He says in the sutta that the name Ahimsaka, 'the harmless one', suited him badly when he was a killer. Now, he says, it fits, because he harms no one.",
+      "kind": "language",
+      "source": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does \"Angulimala\" mean?",
+      "options": [
+        "Garland of flowers",
+        "Garland of fingers",
+        "Lord of the road",
+        "Teacher of kings"
+      ],
+      "answer": 1,
+      "why": "The name refers to the fingers he wore."
+    },
+    {
+      "q": "What was his birth name?",
+      "options": ["Sudatta", "Upatissa", "Ahimsaka", "Rahula"],
+      "answer": 2,
+      "why": "He was born Ahimsaka, which means \"harmless one\"."
+    },
+    {
+      "q": "What did the Buddha say when Angulimala shouted for him to stop?",
+      "options": [
+        "That he had already stopped",
+        "That he was tired",
+        "Nothing at all",
+        "That he would run faster"
+      ],
+      "answer": 0,
+      "why": "The Buddha said he had stopped because he had put down violence."
+    },
+    {
+      "q": "Which group does tradition link Angulimala with in Theravada countries?",
+      "options": ["Sailors", "Farmers", "Soldiers", "Mothers giving birth"],
+      "answer": 3,
+      "why": "A verse of his is chanted for safe childbirth."
+    }
+  ],
+  "related": ["gautama-buddha", "devadatta", "ananda"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Angulimala",
+    "accesstoinsight": "https://www.accesstoinsight.org/tipitaka/mn/mn.086.than.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#dcd6c4",
+    "c2": "#c9d9e0"
+  }
+}

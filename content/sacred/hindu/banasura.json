@@ -1,0 +1,289 @@
+{
+  "slug": "banasura",
+  "name": "Banasura",
+  "aka": ["Bana", "Banasur"],
+  "native": "बाणासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Thousand-armed asura king and devotee of Shiva",
+  "summary": "Banasura is an asura king in the Mahabharata and Bhagavata Purana who ruled Shonitapura. He was Shiva's devotee and the father of Usha, whose marriage to Aniruddha led to a war with Krishna.",
+  "about": "Banasura (Bana) is an asura king who, according to the Bhagavata Purana and Mahabharata, ruled the city of Shonitapura. He is shown as the eldest son of Bali, so he belongs to the family line of Prahlada. Many Puranas say he was a devoted follower of Shiva, who played the mridangam with his thousand arms during Shiva's dance. In return, Shiva granted him a boon to guard his city. Bana's daughter Usha dreamed of a young man, and her friend Chitralekha brought Aniruddha, Krishna's grandson, to her. Bana imprisoned him, and Krishna's army fought Bana with Shiva on his side. Krishna cut off all but four of Bana's arms, and at Shiva's request spared him, since he was Prahlada's descendant. Different regions keep his memory as a king, a devotee and a rejected suitor of a goddess.",
+  "kidSummary": "Banasura is a king in the Puranas who had a thousand arms and loved Shiva so much that he played music for his dance. His daughter Usha fell in love with a prince from Dwaraka named Aniruddha, which led to a big battle. In the end Krishna spared Banasura, and he stayed near Shiva. He is a reminder that even a proud king can learn humility.",
+  "story": [
+    {
+      "title": "A king with a thousand arms",
+      "text": "Banasura ruled the city of Shonitapura. He loved Shiva so much that he used his thousand arms to play the drum while Shiva danced. Shiva was pleased and agreed to guard his city."
+    },
+    {
+      "title": "Usha's dream",
+      "text": "Banasura's daughter Usha dreamed of a young man she had never met. Her friend Chitralekha drew pictures of many princes, and Usha pointed to Aniruddha, Krishna's grandson."
+    },
+    {
+      "title": "A secret visit",
+      "text": "Chitralekha used her magic powers to fly to Dwaraka and bring Aniruddha to Usha's palace. The two stayed together until Bana's guards noticed and told the king."
+    },
+    {
+      "title": "War at Shonitapura",
+      "text": "Bana had Aniruddha tied up, so the Yadavas marched to Shonitapura. Shiva came to defend Bana, and Krishna fought Shiva, while the rest of the armies fought each other."
+    },
+    {
+      "title": "Peace and a wedding",
+      "text": "Krishna cut Bana's arms down to four. Shiva asked Krishna to spare him, and Krishna agreed. Bana bowed and sent Usha and Aniruddha home to Dwaraka on a chariot."
+    }
+  ],
+  "teaches": [
+    "Pride can make even a great king forget humility",
+    "Devotion can bring both strength and a lesson",
+    "Mercy is stronger than pride"
+  ],
+  "symbol": "drum",
+  "emblems": ["Thousand arms", "Mridangam (drum)", "Shiva's protection"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Mahabali",
+      "slug": "mahabali"
+    },
+    {
+      "relation": "Ancestor",
+      "name": "Prahlada",
+      "slug": "prahlada"
+    },
+    {
+      "relation": "Ancestor",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Usha"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Aniruddha",
+      "slug": "aniruddha"
+    },
+    {
+      "relation": "Patron",
+      "name": "Shiva",
+      "slug": "shiva"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana (Book 10, chapters 62-63)",
+    "Mahabharata",
+    "Manimekalai",
+    "Purananuru"
+  ],
+  "places": [
+    "Shonitapura (Sonitpur) and Tezpur, Assam",
+    "Agnigarh hill, Tezpur",
+    "Mahabhairav Temple, Tezpur",
+    "Banasura Sagar Dam, Wayanad, Kerala"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Sonitpur district website says Sonitpur and Tezpur are two names that both mean city of blood, recalling the great battle between Krishna's side and Banasura.",
+      "kind": "language",
+      "source": "https://sonitpur.assam.gov.in/about-us/history",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Banasura is said to have won Shiva's favour by playing a drum with his thousand arms while Shiva danced the tandava.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Shiva tells Bana that his flag would fall when he fought someone equal to Shiva. Bana had boasted that his arms had no worthy opponent.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/62/",
+      "interest": 7
+    },
+    {
+      "text": "In the Bhagavata Purana's account of the great battle, each weapon was answered with its match: Krishna met a brahma weapon with a brahma weapon, wind with mountain, fire with rain, and Shiva's pashupata with the narayana weapon.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/63/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna used a weapon that made Shiva yawn and lose his bearings; Shiva then praised Krishna and asked him to spare Bana. This is the Bhagavata telling, and Shaiva tellings differ.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says Bana strung five hundred bows at once, with two arrows on each string, but Krishna broke all the bows.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/63/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Shiva's fever weapon met Krishna's own fever weapon, and Shiva's fever then bowed to Krishna and asked for protection; Shaiva tellings of this war differ.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/63/",
+      "interest": 7
+    },
+    {
+      "text": "The Tamil classics Manimekalai and Purananuru mention Bana as a suitor of a goddess, a version that differs from the Puranas.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7
+    },
+    {
+      "text": "Assam's tradition says Agnigarh, a hill in Tezpur, was built by Bana to keep his daughter Usha apart from the world.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Agnigarh, the Tezpur hillock tied to Usha and Aniruddha, gets its name, meaning hill of fire, from the legend that Usha was kept there surrounded by flames.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tezpur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India's largest earth dam, Banasura Sagar in Wayanad, Kerala (finished 2004, 38.5 m high), bears his name because he was Mahabali's son, and Kerala honours Mahabali.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India's first operating floating solar power plant was set up on the lake of the Banasura Sagar Dam, with Banasura Hill rising behind it.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shiva warned that Bana's chariot flag would fall broken; in the war Krishna blows his conch, Bana's charioteer is killed and his chariot is shattered.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Alongside tales of Krishna and Shiva as rivals, tradition has Harihara, one figure joining Shiva and Vishnu; the Skanda Purana says they merged to end a dispute among devotees.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Harihara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Banasura worshipped a rasalingam that Vishvakarman gave him on Vishnu's instruction, according to his Wikipedia article.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one retelling Chitralekha shrank Aniruddha to the size of a doll with a yogic power called Anima Siddhi before bringing him to Usha's palace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Aniruddha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Krishna spared Bana because Vishnu had promised Bali never to kill anyone of his family, but he cut off the extra arms to end Bana's pride, leaving him four.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the war Bana bowed to Krishna and arranged a chariot to carry Usha and Aniruddha to Dwaraka for their wedding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tezpur's Mahabhairav Temple is believed to have been founded by Bana with a Shiva lingam, and the Ahom kings later donated land for its upkeep.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Yadu princes besieged Bana's city with twelve akshauhinis, vast divisions of troops, and Bana still staged a fierce counterattack.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Banasura play with his thousand arms for Shiva?",
+      "options": ["A flute", "A drum (mridangam)", "A conch", "A veena"],
+      "answer": 1,
+      "why": "The Puranas say he drummed while Shiva danced."
+    },
+    {
+      "q": "Who is Banasura's daughter?",
+      "options": ["Usha", "Subhadra", "Draupadi", "Rukmini"],
+      "answer": 0,
+      "why": "Usha fell in love with Aniruddha."
+    },
+    {
+      "q": "How many arms did Banasura have left after Krishna cut them?",
+      "options": ["One", "Two", "Four", "Ten"],
+      "answer": 2,
+      "why": "Krishna left him with four arms."
+    },
+    {
+      "q": "Why did Krishna spare Banasura?",
+      "options": [
+        "Banasura gave up",
+        "He was a descendant of Prahlada",
+        "Brahma asked him",
+        "The sun set"
+      ],
+      "answer": 1,
+      "why": "He was in Prahlada's family line."
+    },
+    {
+      "q": "Which Kerala dam is named after him?",
+      "options": ["Idukki", "Banasura Sagar", "Mullaperiyar", "Malampuzha"],
+      "answer": 1,
+      "why": "Banasura Sagar Dam is in Wayanad."
+    }
+  ],
+  "related": [
+    "aniruddha",
+    "krishna",
+    "shiva",
+    "mahabali",
+    "prahlada",
+    "balarama",
+    "pradyumna",
+    "nandi",
+    "kartikeya",
+    "narada"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Banasura",
+    "bhagavata-10-62": "https://vedabase.io/en/library/sb/10/62/",
+    "bhagavata-10-63": "https://vedabase.io/en/library/sb/10/63/",
+    "dam": "https://en.wikipedia.org/wiki/Banasura_Sagar_Dam",
+    "tezpur": "https://en.wikipedia.org/wiki/Tezpur",
+    "sonitpur-district": "https://sonitpur.assam.gov.in/about-us/history",
+    "en-wikipedia-org-wiki-harihara": "https://en.wikipedia.org/wiki/Harihara",
+    "en-wikipedia-org-wiki-aniruddha": "https://en.wikipedia.org/wiki/Aniruddha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E3CBA0",
+    "c2": "#AED0DA"
+  },
+  "order": 502
+}

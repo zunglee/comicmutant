@@ -1,0 +1,281 @@
+{
+  "slug": "holika",
+  "name": "Holika",
+  "aka": ["Holikā", "Holika Dahana"],
+  "native": "होलिका",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura aunt of Prahlada, remembered at Holika Dahan",
+  "summary": "In the Puranas, Holika is the sister of the asura king Hiranyakashipu and the aunt of Prahlada. The story of the bonfire in which Prahlada was saved is remembered on the night before Holi.",
+  "about": "In the Puranas, Holika is the asura sister of Hiranyakashipu and Hiranyaksha and the aunt of the young Vishnu devotee Prahlada. The story goes that Hiranyakashipu, who had a boon from Brahma and ruled the three worlds, wanted his son to stop worshipping Vishnu and tried several times to harm him. In the well-known telling, Holika offered to help, saying a boon protected her from fire. She sat with Prahlada on her lap in a blazing pyre, but he came out safe, and she burned. A variant says she had a scarf or fireproof garment that flew onto Prahlada. By contrast, the Vishnu Purana tells the fire ordeal without her, with the Danavas lighting the pyre. The episode is remembered at Holika Dahan, the bonfire lit on the night before Holi. Soon after, as Narasimha, Vishnu appears and ends Hiranyakashipu's rule, in the well-known story.",
+  "kidSummary": "Holika is a character in the story of Prahlada, a boy who always remembered Vishnu. Her brother, King Hiranyakashipu, wanted Prahlada to stop. Holika said fire could not hurt her and sat in the fire with Prahlada, but in the story Prahlada came out safe. People remember this with bonfires the night before Holi, which also mark the end of winter.",
+  "story": [
+    {
+      "title": "A king and his son",
+      "text": "King Hiranyakashipu had a boon that made him very powerful. He wanted everyone to worship only him, but his young son Prahlada always chose to remember Vishnu."
+    },
+    {
+      "title": "Holika offers to help",
+      "text": "After several failed plans, the king turned to his sister Holika. She said that she could sit in a fire without being burned."
+    },
+    {
+      "title": "The bonfire",
+      "text": "Holika sat in a great fire with Prahlada on her lap. Prahlada kept calling on Vishnu's name, and the flames did not hurt him."
+    },
+    {
+      "title": "The shawl that moved",
+      "text": "In one version, a special scarf was supposed to protect Holika. It flew onto Prahlada instead, and Holika did not survive the fire."
+    },
+    {
+      "title": "Holika Dahan and Holi",
+      "text": "Every year on the night before Holi, people light bonfires to remember the story. The next day, they play with colours to celebrate spring."
+    }
+  ],
+  "teaches": [
+    "Faith and sincerity can outlast power",
+    "A boon misused does not last",
+    "Good beats harm in the end, as festivals remind us"
+  ],
+  "symbol": "flame",
+  "emblems": ["Bonfire (Holika Dahan)", "Protective scarf (in a variant)"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    },
+    {
+      "relation": "Brother",
+      "name": "Hiranyaksha",
+      "slug": "hiranyaksha"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Prahlada",
+      "slug": "prahlada"
+    }
+  ],
+  "texts": [
+    "Vishnu Purana (the Prahlada fire episode, told without Holika)",
+    "Bhagavata Purana (Book 7, Prahlada story; does not name Holika)",
+    "Narada and Bhavishya Puranas (describe Holi; Holika tale not cited)"
+  ],
+  "places": [
+    "Phalen village, Mathura district",
+    "Keshava Temple, Somanathapura (Karnataka)",
+    "Prahladpuri Temple site, Multan (Pakistan)",
+    "Sikligarh Dharhara, Purnia district (Bihar)"
+  ],
+  "festivals": [
+    "Holika Dahan",
+    "Holi",
+    "Kama Dahanam (South India)",
+    "Sammat (eastern UP, western Bihar, Nepal's Terai)"
+  ],
+  "facts": [
+    {
+      "text": "The Vishnu Purana tells the fire ordeal without Holika at all. In its version, the Danavas pile wood around Prahlada and light it on Hiranyakashipu's order.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-vishnu-purana/d/doc115953.html",
+      "interest": 8
+    },
+    {
+      "text": "In South India the same night is Kama Dahanam, remembering Shiva burning Kamadeva to ashes, and in rural Tamil Nadu Kamadeva effigies are burned.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holika_Dahan",
+      "interest": 8
+    },
+    {
+      "text": "In Phalen village in Mathura district, a man playing Prahlada walks through the blazing Holika pyre every year. Reports say he spends about 45 days in austerity, starting at Basant Panchami, living apart from home and family and not eating food.",
+      "kind": "festival",
+      "source": "https://www.freepressjournal.in/lifestyle/man-portraying-pralhad-walks-into-holi-pyre-as-unbelievable-tradition-takes-place-in-mathura-he-didnt-eat-for-45-days",
+      "interest": 10
+    },
+    {
+      "text": "A Hoysala temple at Somanathapura, consecrated in 1258 CE and now part of the UNESCO Sacred Ensembles of the Hoysalas (2023), carves Prahlada surrounded by flames in its friezes.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Somanathapura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some villages in Rajasthan, Gujarat and Chhattisgarh keep a fire-walking tradition at Holika Dahan, said to be hundreds of years old.",
+      "kind": "festival",
+      "source": "https://thebetterindia.com/412974/why-india-burns-holika-differently-science-culture",
+      "interest": 8
+    },
+    {
+      "text": "The day after the bonfire is called Dhuli in Sanskrit, and also Dhulandi, Dhuleti or Dhulendi in local speech. It is the day of throwing colours.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the past, the Lubana community in Punjab buried a coin and a betel nut under the pyre. Whoever found them in the ashes was thought to be lucky.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 8
+    },
+    {
+      "text": "In Kumaon, the Holika pyre is called Cheer and is set up fifteen days early. Rival neighbourhoods playfully try to steal each other's Cheer, so it is guarded.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Local tradition at Multan says the Holika Dahan bonfire began at the Prahladpuri Temple, said to have been built by Prahlada around the pillar from which Narasimha emerged.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Prahladpuri_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Prahladpuri Temple in Multan was wrecked by a mob in 1992 and left in ruins. In 2021 Pakistan's Supreme Court ordered the authorities to prepare the site for Holi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Prahladpuri_Temple",
+      "interest": 8
+    },
+    {
+      "text": "At the Narsimha temple at Sikligarh Dharhara in Bihar's Purnia district, locals regard nearby ruins as Hiranyakashipu's fort. After Holika Dahan, the temple's ashes are thrown into the air and people play Holi with them, a custom called dhurkhel.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Hiranyakashipu's boon seemed to cover every case: not indoors or outdoors, not day or night, not by any weapon or by any man, beast, deva or asura. Narasimha ended him at dusk, on a threshold, with his claws, on his own lap.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One version of the story says Holika wore a fireproof garment that was meant to protect only her. It flew onto Prahlada instead, and she died.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Holika Dahan is lit after sunset on the full-moon night of Phalguna, and panchang sources advise waiting until the inauspicious Bhadra window has passed.",
+      "kind": "history",
+      "source": "https://dekhopanchang.com/en/festivals/holika-dahan",
+      "interest": 7
+    },
+    {
+      "text": "The shape of the pyre varies. In Uttar Pradesh and Bihar it is often stacked in a circle, while in Gujarat and Maharashtra it is built as a pyramid.",
+      "kind": "festival",
+      "source": "https://thebetterindia.com/412974/why-india-burns-holika-differently-science-culture",
+      "interest": 8
+    },
+    {
+      "text": "Some Rajasthan communities light the Holika fire from the west to burn away past troubles, while others light it from the east to welcome prosperity.",
+      "kind": "festival",
+      "source": "https://thebetterindia.com/412974/why-india-burns-holika-differently-science-culture",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Madhya Pradesh some people burn stalks of newly harvested wheat in the Holika fire as thanks for a good harvest.",
+      "kind": "festival",
+      "source": "https://thebetterindia.com/412974/why-india-burns-holika-differently-science-culture",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Konkan region of Maharashtra the wood is lit in the evening and each household brings a meal and a sweet dish in honour of the fire god.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7
+    },
+    {
+      "text": "In Karnataka, children gather wood before Holi and the pile is lit together on the night called Kamadahana.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Manipur the festival opens with the burning of a small thatched hut made of hay and twigs.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Holi festivities in Goa include a Holika Puja along with the Holika Dahan bonfire.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holi",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Holika's nephew?",
+      "options": ["Krishna", "Prahlada", "Hanuman", "Bhima"],
+      "answer": 1,
+      "why": "Holika is Hiranyakashipu's sister and Prahlada's aunt."
+    },
+    {
+      "q": "What festival begins with a bonfire to remember her story?",
+      "options": ["Diwali", "Holi", "Onam", "Pongal"],
+      "answer": 1,
+      "why": "Holika Dahan is lit the night before Holi."
+    },
+    {
+      "q": "In the variant of the tale, what flew onto Prahlada?",
+      "options": ["A scarf or fireproof garment", "A garland", "A shield", "A lotus"],
+      "answer": 0,
+      "why": "A protective scarf moved to Prahlada."
+    },
+    {
+      "q": "What is the South Indian name for the same night?",
+      "options": ["Kama Dahanam", "Onam", "Ugadi", "Vishu"],
+      "answer": 0,
+      "why": "It remembers Shiva and Kamadeva."
+    },
+    {
+      "q": "In Phalen village, who walks through the fire?",
+      "options": [
+        "A man playing Prahlada",
+        "A man playing Hiranyakashipu",
+        "A woman playing Holika",
+        "A boy playing Krishna"
+      ],
+      "answer": 0,
+      "why": "A man playing Prahlada walks through the fire."
+    }
+  ],
+  "related": [
+    "prahlada",
+    "hiranyakashipu",
+    "hiranyaksha",
+    "narasimha",
+    "vishnu",
+    "kamadeva",
+    "krishna",
+    "shiva",
+    "brahma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Holika",
+    "holi": "https://en.wikipedia.org/wiki/Holi",
+    "holika-dahan": "https://en.wikipedia.org/wiki/Holika_Dahan",
+    "bhagavata-7-8": "https://vedabase.io/en/library/sb/7/8/",
+    "phalen": "https://www.freepressjournal.in/lifestyle/man-portraying-pralhad-walks-into-holi-pyre-as-unbelievable-tradition-takes-place-in-mathura-he-didnt-eat-for-45-days",
+    "pyres": "https://thebetterindia.com/412974/why-india-burns-holika-differently-science-culture",
+    "chennakeshava": "https://en.wikipedia.org/wiki/Chennakeshava_Temple,_Somanathapura",
+    "vishnu-purana-1-17": "https://www.wisdomlib.org/hinduism/book/the-vishnu-purana/d/doc115953.html",
+    "hiranyakashipu": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+    "prahladpuri": "https://en.wikipedia.org/wiki/Prahladpuri_Temple",
+    "panchang": "https://dekhopanchang.com/en/festivals/holika-dahan"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F0C7A0",
+    "c2": "#F2DDB0"
+  },
+  "order": 505
+}

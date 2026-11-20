@@ -1,0 +1,299 @@
+{
+  "slug": "navadurga",
+  "name": "Navadurga",
+  "aka": ["Nava Durga", "Nine Durgas"],
+  "native": "नवदुर्गा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "The nine forms of Durga worshipped in Navaratri",
+  "summary": "Navadurga means 'nine Durgas', the nine forms of the goddess Durga that Hindus honour on the nine nights of Navaratri, one form for each day.",
+  "about": "Navadurga refers to nine forms of the goddess Durga, honoured especially during Navaratri and Durga Puja. In the commonly listed order they are Shailaputri, Brahmacharini, Chandraghanta, Kushmanda, Skandamata, Katyayani, Kalaratri, Mahagauri and Siddhidhatri. Followers of Shakta and Shaiva traditions often see them as one goddess in nine moods, and some describe them as nine stages of her battle with the buffalo asura Mahishasura, ending on Vijayadashami. Each form has her own mantra, and most ride a vahana, while the Devi Mahatmya is recited on these days. Names for the nine differ among texts, and the Agni Purana, for one, gives a different list.",
+  "kidSummary": "Navadurga means 'nine Durgas'. Each of the nine nights of Navaratri celebrates a different form of the goddess, each with her own story and most with an animal friend. They go from a mountain's daughter to the goddess who grants wisdom.",
+  "story": [
+    {
+      "title": "Nine nights",
+      "text": "Each year Hindus celebrate Navaratri, nine nights when the goddess is honoured in nine forms. Each night belongs to one of them."
+    },
+    {
+      "title": "From mountain to prayer",
+      "text": "The first form, Shailaputri, is the daughter of the mountain. The second, Brahmacharini, is shown as a serious student and ascetic who lives with prayer."
+    },
+    {
+      "title": "Moon, egg and mother",
+      "text": "Chandraghanta wears a moon like a bell on her head. Kushmanda is said to have made the cosmic egg and the universe with her gentle smile, and Skandamata holds her young son Kartikeya on her lap."
+    },
+    {
+      "title": "Warrior and night",
+      "text": "Katyayani, whose light took form in the hermitage of the sage Katyayana in one telling, is the warrior form honoured for her fight with Mahishasura. Kalaratri is the dark form who is said to drive away fear."
+    },
+    {
+      "title": "Bright and final",
+      "text": "Mahagauri is the bright, gentle form, and Siddhidhatri, seated on a lotus, is the giver of special powers called siddhis. On the tenth day Vijayadashami is celebrated."
+    }
+  ],
+  "teaches": [
+    "Courage, wisdom and gentleness belong together",
+    "Every stage of life has its own strength",
+    "Face fear with hope"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lion", "Tiger", "White bull", "Lotus seat"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Durga",
+      "slug": "durga"
+    },
+    {
+      "relation": "Consort",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Child of Skandamata",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    }
+  ],
+  "texts": ["Devi Mahatmya", "Devi Kavacha", "Agni Purana"],
+  "places": ["Durga temples across India"],
+  "festivals": ["Navaratri", "Durga Puja", "Vijayadashami", "Kanya Puja"],
+  "facts": [
+    {
+      "text": "In a previous birth Shailaputri was Sati, daughter of Daksha, who entered the sacrificial fire after Daksha insulted Shiva; reborn as Parvati, she married Shiva again, so the first night honours a goddess reborn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shailaputri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one legend, Brahmacharini, Parvati as a young ascetic, did a penance said to last 5,000 years to win Shiva, living on bael leaves and river water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahmacharini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "While Parvati was deep in penance as Brahmacharini, an asura army attacked her; her water pot toppled and the flood washed the asuras away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahmacharini",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Shiva, disguised as a young student, tested Brahmacharini with riddles and she answered every one, so he showed his true form and agreed to marry her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahmacharini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chandraghanta takes her name from a crescent moon shaped like a bell on her forehead, and her bell is said to frighten away evil; she has ten hands and is shown on a lion in some books and on a tiger in others.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Chandraghanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kalaratri is linked with the crown chakra, and the Saudhikagama, a Tantric text from Orissa, describes her as the goddess who rules the night portion of every day.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalaratri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a devotional account, Kushmanda made the cosmic egg and the universe with her gentle smile, when only darkness filled every direction.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kushmanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Nava Durga account Kushmanda lives inside the sun's sphere with the power to bear its blaze, and the eight siddhis and nine nidhis are linked to the rosary in one of her eight hands.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kushmanda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kushmanda is also the Sanskrit word for pumpkin or gourd, and the Nava Durga account gives the offering of this fruit to the goddess as another reason for her name.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kushmanda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One of the earliest mentions of Kalaratri is in the Mahabharata, where she appears at night in the Sauptika Parva, in a scene described with a red cloth, crimson garlands and a noose.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalaratri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Vamana Purana, the gods' flames join into a mountain of light from which Katyayani appears with eighteen arms; Shiva gives her a trident, Vishnu a discus, Varuna a conch, and the others more weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Katyayani",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kalaratri is shown with three eyes that shine like lightning, a garland gleaming like the moon, and flames in her breath; in her four hands she holds a scimitar and thunderbolt and gives blessing and protection.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kalaratri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana the cowherd girls of Gokula keep the Katyayani vrata for a month, eating only plain khichri and bathing in the Yamuna at sunrise, hoping to have Krishna as their husband.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Katyayani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, after Ambika comes forth from Parvati, Parvati's skin turns nearly black like a dark cloud, and that is why she is called Kalika and Kalaratri.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalaratri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Though Kalaratri is the fiercest of the nine, she is also called Shubankari, the auspicious one, because devotees believe she always brings good results and makes them fearless.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kalaratri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya telling, when Parvati bathes in the Ganga the goddess Kaushiki appears from what she sheds, and Parvati herself shines in white garments as Mahagauri.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahagauri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Varanasi has a shrine of Chitra Ghanta Devi, which a pilgrim guide links with Chandraghanta; the Kashi Khanda tradition connects it with a pilgrimage involving the wells and shrines Chitra Koop and Chitra Gupteshwar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chandraghanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one legend, Siddhidhatri emerged from the left half of Shiva at the start of creation, which links her to Ardhanarishvara, the half-Shiva, half-Parvati form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Siddhidhatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Siddhidhatri is said to grant eight siddhis, including anima, the power to shrink to the size of an atom, and mahima, the power to grow infinitely large.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Siddhidhatri sits on a fully bloomed lotus or on a lion, and in some pictures gandharvas, yakshas, siddhas, asuras and devas all bow before her.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Siddhidhatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Agni Purana gives a different list of nine, with names such as Rudrachanda, Prachanda, Chandogra and Ugrachanda, so the nine forms are not the same in every text.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Navadurga",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the nabapatrika ritual of Durga Puja, branches of eight plants are tied with a banana plant, making nine in all. The name means 'nine leaves'.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navadurga",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Punjab on Ashtami, nine girls representing the nine forms are invited for a meal of puri, black chickpeas and semolina halwa, and are given red bangles and a red veil.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A popular custom in Gujarat and Maharashtra gives each of the nine days a colour for people to wear. The first colour depends on the weekday Navaratri starts, so it changes each year.",
+      "kind": "festival",
+      "source": "https://www.drikpanchang.com/navratri/colors/navratri-nine-colors.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "During Garba in Gujarat, a clay lantern called a garbo holds a lamp, and its 27 holes in three rows of nine stand for the 27 nakshatras, so the light spills out in beams.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Dandiya Raas, partners face each other in two lines and strike decorated sticks in an eight-beat pattern, then move on to a new partner when the pattern ends.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Navadurga mean?",
+      "options": ["Nine Durgas", "Nine mountains", "Nine flowers", "Nine rivers"],
+      "answer": 0,
+      "why": "Nava means nine."
+    },
+    {
+      "q": "Which form holds her infant son Kartikeya on her lap?",
+      "options": ["Kalaratri", "Mahagauri", "Skandamata", "Katyayani"],
+      "answer": 2,
+      "why": "Skandamata means mother of Skanda."
+    },
+    {
+      "q": "Which Navadurga is the daughter of the mountain?",
+      "options": ["Siddhidhatri", "Shailaputri", "Chandraghanta", "Kushmanda"],
+      "answer": 1,
+      "why": "Shailaputri means daughter of the mountain."
+    },
+    {
+      "q": "Which festival follows the nine nights?",
+      "options": ["Holi", "Vijayadashami", "Pongal", "Baisakhi"],
+      "answer": 1,
+      "why": "Vijayadashami is the tenth day."
+    },
+    {
+      "q": "Which Navadurga form is shown riding the bull Nandi?",
+      "options": ["Shailaputri", "Kushmanda", "Siddhidhatri", "Katyayani"],
+      "answer": 0,
+      "why": "Navaratri sources picture Shailaputri, the daughter of the mountain, on the bull Nandi."
+    }
+  ],
+  "related": ["durga", "parvati", "mahishasura", "kartikeya", "kali"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Navadurga",
+    "navaratri": "https://en.wikipedia.org/wiki/Navaratri",
+    "devimahatmya": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "shailaputri": "https://en.wikipedia.org/wiki/Shailaputri",
+    "brahmacharini": "https://en.wikipedia.org/wiki/Brahmacharini",
+    "kushmanda": "https://en.wikipedia.org/wiki/Kushmanda",
+    "katyayani": "https://en.wikipedia.org/wiki/Katyayani",
+    "mahagauri": "https://en.wikipedia.org/wiki/Mahagauri",
+    "siddhidhatri": "https://en.wikipedia.org/wiki/Siddhidhatri",
+    "skandamata": "https://en.wikipedia.org/wiki/Skandamata",
+    "chandraghanta": "https://en.wikipedia.org/wiki/Chandraghanta",
+    "colours": "https://www.drikpanchang.com/navratri/colors/navratri-nine-colors.html",
+    "kalaratri": "https://en.wikipedia.org/wiki/Kalaratri"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f4cfd0",
+    "c2": "#d9c6ec"
+  },
+  "order": 180
+}

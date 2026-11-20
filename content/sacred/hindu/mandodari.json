@@ -1,0 +1,275 @@
+{
+  "slug": "mandodari",
+  "name": "Mandodari",
+  "aka": ["Mandodri"],
+  "native": "मन्दोदरी",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Queen of Lanka and one of the Panchakanya",
+  "summary": "Mandodari is the chief queen of Ravana in the Ramayana, a wise and dignified woman who urges peace. Hindu tradition counts her among the five Panchakanya whose names are recited each morning.",
+  "about": "In the Valmiki Ramayana Mandodari is Ravana's chief queen, the daughter of the architect Mayasura and the apsara Hema, and mother of Indrajit; later tradition also lists Atikaya and Akshayakumara as her sons. Several later versions give her different births, such as a frog-maiden restored by Shiva or a girl created from sandalwood. Texts present her as a thoughtful queen who warns her husband, pleads for Sita's safety and advises him to make peace with Rama. She is one of the Panchakanya, five women whose names, according to tradition, remove sin when remembered. After the war, many versions say Rama advised Vibhishana to marry her. Some later retellings, such as the Adbhuta Ramayana, even make her the birth mother of Sita.",
+  "kidSummary": "Mandodari is the wise queen of Lanka in the Ramayana. She tells her husband Ravana to return Sita and make peace, but he does not listen. Even in sorrow she is calm and dignified, and many Hindus still remember her name in a morning prayer with four other great women.",
+  "story": [
+    {
+      "title": "A clever queen",
+      "text": "Mandodari, the daughter of the architect Maya, marries Ravana and becomes queen of Lanka. Tradition remembers her as thoughtful and wise."
+    },
+    {
+      "title": "She protects Sita",
+      "text": "In many later tellings, when Ravana rages at Sita, Mandodari holds his hand and says it would be wrong to harm a woman. In Valmiki's text it is the rakshasi Dhanyamalini who draws him away."
+    },
+    {
+      "title": "Please make peace",
+      "text": "Before the final battle, Mandodari makes one more plea for Ravana to return Sita to Rama and avoid war. In some tellings she also asks her son Meghanada not to fight."
+    },
+    {
+      "title": "A queen in grief",
+      "text": "After the war, Mandodari weeps for her husband and recalls his great deeds. In the Valmiki Ramayana, she says Rama must be Vishnu."
+    },
+    {
+      "title": "A new beginning",
+      "text": "Many versions say Rama advised Vibhishana, the new king, to take Mandodari as his queen."
+    }
+  ],
+  "teaches": [
+    "Speak wise words even when they are not welcome",
+    "Protect others with courage",
+    "Dignity in sorrow"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Frog-maiden tales", "Lamp of wisdom"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Son",
+      "name": "Indrajit",
+      "slug": "indrajit"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Later husband (many versions)",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Sister-in-law",
+      "name": "Shurpanakha",
+      "slug": "shurpanakha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Adbhuta Ramayana",
+    "Ananda Ramayana",
+    "Ranganatha Ramayana",
+    "Dharma Purana (Odia)",
+    "Thai Ramakien"
+  ],
+  "places": ["Mandore, Jodhpur", "Lanka"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In a Telugu Uttara Ramayana, she was an apsara named Madhura. Parvati cursed her to live as a frog for twelve years, and she was adopted by Mayasura and Hema after calling from a well.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ananda Ramayana says Vishnu made her from sandalwood paste.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Hanuman enters Ravana's bedchamber and for a moment mistakes Mandodari for Sita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Sundara 22 it is the rakshasi Dhanyamalini who embraces the angry Ravana and draws him away from Sita. Many later tellings give this moment to Mandodari, who holds his hand and says harming a woman is a grave sin.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga22/sundaraitrans22.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Adbhuta Ramayana, she drinks a jar of poisoned blood to end her life but instead bears a child, who is Sita. The child is buried at Kurukshetra and found by King Janaka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Devi Bhagavata Purana says a horoscope warned that her first child would destroy the clan, so Ravana had the baby buried in Janaka's city.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mandore, a town about 9 km north of Jodhpur, is believed to be Mandodari's native place. Some local Brahmins treat Ravana as their son-in-law, and a temple for him stands there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In her lament in Valmiki Yuddha 111, Mandodari wonders if Yama came in Rama's form, then concludes Rama must be Vishnu. She compares Sita to the Earth for patience and to Lakshmi for grace.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In several versions the arrow that ends Ravana is hidden in Mandodari's chamber, and Hanuman, disguised as a hermit, tricks her into revealing where it lies.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Telugu tale tied to the Kuchipudi dance tradition says Parvati made a look-alike maiden from a frog to give Ravana. The name Mandodari is said to come from this frog.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki's lament, Mandodari recalls that she sensed Rama was no ordinary mortal when Khara fell in Janasthana and again when the vanaras bridged the ocean.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mourning, she tells Ravana there were women lovelier than Sita in his own palace, so only blind desire can explain his choice.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She lists those whose advice Ravana ignored: Vibhishana, Maricha, Kumbhakarna, her father Maya and herself.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She remembers happy flights with Ravana in flying cars over Mount Kailasa, Mandara and Meru and through the heavenly garden Chaitraratha.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She tells his fallen body that taking Sita by luring Rama away with a deer was cowardly, though she never once saw him lose heart in battle.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some tellings say she warned Ravana not to subdue the Navagraha, the nine planets, and not to pursue Vedavati, who would be reborn as Sita.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A 9th-century relief at the Prambanan temple in Java shows Mandodari with the women of Lanka mourning Ravana, bringing a flower garland for his body.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mandodari literally means soft-bellied in Sanskrit. In Thailand's Ramakien she appears as Montho, and a temple scene there shows Thotsakan (Ravana) carrying her back to his kingdom.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One writer matches each of the Panchakanya to an element, and Mandodari is water: rough on the surface, yet deep in her spiritual search.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Mandodari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In her lament Mandodari points out that the royal women of Lanka have come out through the city gate on foot with their veils dropped, and asks Ravana why he is not angry to see it.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Mandodari's father, according to the Ramayana?",
+      "options": ["Janaka", "Mayasura", "Vishrava", "Sumali"],
+      "answer": 1,
+      "why": "Mayasura, the architect, is her father."
+    },
+    {
+      "q": "Which of these women is NOT counted among the Panchakanya?",
+      "options": ["Tara", "Ahalya", "Draupadi", "Shurpanakha"],
+      "answer": 3,
+      "why": "The Panchakanya are Ahalya, Draupadi, Tara, Mandodari and either Sita or Kunti."
+    },
+    {
+      "q": "Which animal appears in several stories of her birth?",
+      "options": ["A frog", "An elephant", "A peacock", "A fish"],
+      "answer": 0,
+      "why": "Several versions tell of a maiden turned into a frog."
+    },
+    {
+      "q": "What did Mandodari stop Ravana from doing to Sita?",
+      "options": ["Sending her away", "Harming her", "Hiding her", "Marrying her"],
+      "answer": 1,
+      "why": "In many later tellings she holds his hand and says harming a woman is a grave wrong. In Valmiki it is Dhanyamalini who draws him away."
+    },
+    {
+      "q": "Which Ramayana version says she gave birth to Sita?",
+      "options": ["Ramcharitmanas", "Valmiki Ramayana", "Adbhuta Ramayana", "Kamba Ramayanam"],
+      "answer": 2,
+      "why": "The Adbhuta Ramayana tells this story."
+    }
+  ],
+  "related": [
+    "ravana",
+    "indrajit",
+    "vibhishana",
+    "sita",
+    "hanuman",
+    "rama",
+    "shurpanakha",
+    "ahalya",
+    "draupadi",
+    "tara"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mandodari",
+    "panchakanya": "https://en.wikipedia.org/wiki/Panchakanya",
+    "valmiki-111": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#B5CBD6",
+    "c2": "#EBDDC7"
+  },
+  "order": 40
+}

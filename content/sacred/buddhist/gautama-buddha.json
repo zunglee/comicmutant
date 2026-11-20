@@ -1,0 +1,334 @@
+{
+  "slug": "gautama-buddha",
+  "name": "Gautama Buddha",
+  "aka": ["Siddhartha Gautama", "Shakyamuni", "Tathagata", "Sakyamuni"],
+  "native": "गौतम बुद्ध",
+  "tradition": "buddhist",
+  "group": "buddha",
+  "role": "Founder of Buddhism, the Awakened One",
+  "summary": "Siddhartha Gautama, remembered by tradition as a Shakya prince, became a teacher who, by Buddhist tradition, awakened at Bodh Gaya and taught the Middle Way for about forty-five years across the Ganges plain.",
+  "about": "Buddhist texts say Siddhartha Gautama was born into the Shakya clan at Lumbini, and later left his comfortable life to look for an end to suffering. After years with teachers and strict fasting, tradition tells that he found the Middle Way and awakened under a pipal tree at Bodh Gaya, becoming the Buddha, the awakened one. He taught his first sermon at Sarnath and spent decades walking and teaching in the kingdoms of the Ganges plain, gathering monks, nuns and lay followers. Traditionally he died at Kushinagar around the age of eighty. Scholars disagree on his exact dates: Sri Lankan chronicles suggest a birth around 624 BCE and death around 544 BCE, an Indian-based short chronology suggests about 448 to 368 BCE, and many scholars now place his death near 400 BCE. The Pali Canon, the Sanskrit sutras and later biographies such as the Buddhacarita preserve his story.",
+  "kidSummary": "Siddhartha was a prince who grew up in a palace. When he saw how people suffer, he left home to find answers. Buddhists believe he found them sitting quietly under a tree, and he then spent his life teaching kindness, calm and wisdom.",
+  "story": [
+    {
+      "title": "A prince in a palace",
+      "text": "By tradition, Siddhartha was born in Lumbini into the royal family of the Shakyas. His father wanted him to have a comfortable life."
+    },
+    {
+      "title": "Four sights",
+      "text": "Tradition says he saw an old man, a sick man and a dead person. Then he saw a calm wanderer, and he wondered if there was a way past sorrow."
+    },
+    {
+      "title": "Leaving home",
+      "text": "He quietly left the palace with his horse and charioteer. He studied with teachers and tried strict fasting, but neither gave him the answer."
+    },
+    {
+      "title": "Awakening under the tree",
+      "text": "He ate some milk-rice, sat under a pipal tree at Bodh Gaya, and meditated. Buddhists believe he awoke to the truth about suffering there."
+    },
+    {
+      "title": "The wheel starts turning",
+      "text": "At Sarnath he taught five friends the Four Noble Truths. Many people followed his path of kindness and wisdom for the next forty-five years."
+    },
+    {
+      "title": "Last journey",
+      "text": "Tradition says that at about eighty he rested between two sal trees at Kushinagar. He told his followers to keep practising carefully."
+    }
+  ],
+  "teaches": [
+    "Walk the Middle Way, not too harsh and not too indulgent",
+    "Be kind to every living being",
+    "Understanding the mind brings calm",
+    "Everything changes, so let go of clinging"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Dharmachakra (wheel of teaching)", "Bodhi tree", "Lotus", "Footprints"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Maya",
+      "slug": "maya-mother-of-the-buddha"
+    },
+    {
+      "relation": "Father",
+      "name": "Suddhodana",
+      "slug": "suddhodana"
+    },
+    {
+      "relation": "Wife",
+      "name": "Yashodhara",
+      "slug": "yashodhara"
+    },
+    {
+      "relation": "Son",
+      "name": "Rahula",
+      "slug": "rahula"
+    },
+    {
+      "relation": "Foster mother",
+      "name": "Mahapajapati Gotami",
+      "slug": "mahapajapati-gotami"
+    }
+  ],
+  "texts": [
+    "Pali Canon (Tipitaka)",
+    "Dhammacakkappavattana Sutta",
+    "Mahaparinibbana Sutta",
+    "Jataka tales",
+    "Buddhacarita"
+  ],
+  "places": ["Lumbini", "Bodh Gaya", "Sarnath", "Kushinagar", "Rajgir", "Shravasti"],
+  "festivals": ["Vesak / Buddha Purnima", "Asalha Puja (Dhamma Day)"],
+  "facts": [
+    {
+      "text": "Buddha is a title meaning 'awakened one', not a birth name. His given name was Siddhartha, and Gautama was his clan name; the title is attested by the 3rd century BCE.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ashoka's stone pillar at Lumbini, from about 250 BCE, names the place as the Sage of the Shakyas' birthplace. It was found in 1896, and its writing helped identify the site as Lumbini.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lumbini",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bodhi tree at Bodh Gaya today is not the original. Alexander Cunningham set it in the ground in 1881, grown from a cutting of the Sri Lankan tree, so a tree that began from a branch sent abroad was used to replace the one at home.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bodhi_tree",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Jataka collection in the Pali tradition holds 547 stories of the Buddha's earlier lives as a bodhisattva, many of them animal fables.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jataka_tales",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Suvannahamsa Jataka tells of a swan with golden feathers who lets a poor family pluck one at a time. The greedy mother grabs them all at once, and they turn plain. It is an Eastern cousin of the goose that laid golden eggs.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/The_Goose_that_Laid_the_Golden_Eggs",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A storm story says that while he sat in meditation after his awakening, heavy rain fell for a week, and the serpent king Mucalinda rose from beneath the earth and spread his hood over him as an umbrella. Sources differ on exactly which week it happened.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mucalinda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Many later biographies say that, before leaving the palace, the prince met four sights: an old man, a sick man, a dead person and a wandering ascetic. Scholars note an older story gives them to a past Buddha, Vipassi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A touching tradition says that Kanthaka, the Buddha's horse, died of a broken heart after the prince rode away. Later Buddhist texts add that the horse was reborn as a brahmin and reached awakening.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kanthaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pali tradition says Devadatta, a jealous cousin, got a drunk elephant named Nalagiri loosed on the Buddha during his alms-round. The Buddha's kindness is said to have calmed the animal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says that after three refusals, his foster mother Mahapajapati Gotami cut her hair and walked with hundreds of women to Vesali. With Ananda's help she became the first Buddhist nun, and the order of nuns began.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahapajapati_Gotami",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Tradition says his first teaching, the Dhammacakkappavattana Sutta, was given at the Sarnath deer park to five former companions. Its title means 'setting the wheel of the Dhamma in motion', and Kondanna is named as the first to understand it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dhammacakkappavattana_Sutta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Rahula, the Buddha's young son, asked his father for an inheritance, tradition says the Buddha chose to give him the wealth found under the Bodhi tree, a treasure that does not run out, and Rahula joined the monks.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/R%C4%81hula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Jaya Sri Maha Bodhi at Anuradhapura, Sri Lanka, grew from a branch brought by Ashoka's daughter Sanghamitta, traditionally dated to 288 BCE. It is described as the oldest human-planted tree with a recorded planting date.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jaya_Sri_Maha_Bodhi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Legends say Mara, ruler of desire, tried to stop the awakening with armies and temptations. The Buddha is said to have touched the earth to call it as his witness, a pose seen in much Buddhist art.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On 14 October 1956 at Nagpur, B. R. Ambedkar took the Three Refuges and Five Precepts and became a Buddhist. About 500,000 supporters joined him, and he gave them 22 vows of their own.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/B._R._Ambedkar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Four Noble Truths are often compared to a doctor's plan (an analogy tied to Hendrik Kern, 1882, and disputed): life has suffering, it comes from craving, it can end, and the Noble Eightfold Path is the way.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Four_Noble_Truths",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India's flag has a 24-spoke wheel. The 1947 resolution said to copy the wheel on the abacus of the Sarnath Lion Capital; the bigger crowning wheel is estimated at 32 spokes. The Constituent Assembly adopted the flag on 22 July 1947.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka",
+      "interest": 8,
+      "kid": true,
+      "source2": "https://en.wikipedia.org/wiki/Flag_of_India"
+    },
+    {
+      "text": "The Pali sources say Angulimala, whose name means 'finger-necklace', was born Ahimsaka, 'the harmless one'. He met the Buddha, joined the monks, and is still invoked in a protective verse for safe childbirth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angulimala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the story of Kisa Gotami, a grieving mother is sent to find mustard seeds from a home untouched by death. After searching house to house she understood that every family knows loss, and found comfort.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kisa_Gotami",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Early Buddhist art avoided showing him as a person. Carvers used a footprint, an empty seat, a riderless horse or an umbrella; the first statues appeared around the 2nd century CE at Mathura and Gandhara.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Pali texts list 32 marks of a great person, including a white tuft of hair between the eyebrows and a bump on the head, called the ushnisha. Many scholars think the list was added later.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Physical_characteristics_of_the_Buddha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After a meal from the metalworker Cunda, the Buddha fell ill. He asked Ananda to reassure Cunda that the offering was very meritorious. Traditions differ on the dish: Theravada says pork, Mahayana says a mushroom or truffle.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tradition says he passed away at Kushinagar. Its Mahaparinirvana Temple holds a 6.1-metre statue of the reclining Buddha carved from a single piece of red sandstone, found in 1876 by Archibald Carlleyle.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kushinagar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Texts say his remains were divided among several kingdoms and placed in stupas, and Ashoka later spread them further. In 1898 Piprahwa yielded a vase whose Brahmi inscription is read as naming Buddha relics, buried with about 1,800 gems and pearls.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Piprahwa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Vesak marks his birth, awakening and passing on one full-moon festival. In Sri Lanka, free-food stalls called dansalas feed passersby, and lit pandals called thoranas show scenes from the Jataka tales.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vesak",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Many Puranas, including the Bhagavata and Agni, count the Buddha as an avatar of Vishnu, often as the ninth. Some Hindus accept this; other Hindus reject the identification, reading the Puranic figure as a different person.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Buddha_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the word Buddha mean?",
+      "options": ["The kind one", "The awakened one", "The wise king", "The silent one"],
+      "answer": 1,
+      "why": "Buddha is a title meaning awakened one; Siddhartha was his given name."
+    },
+    {
+      "q": "Where do Buddhists believe he gave his first sermon?",
+      "options": ["Lumbini", "Kushinagar", "Sarnath", "Rajgir"],
+      "answer": 2,
+      "why": "The first teaching was given in the deer park at Sarnath, near Varanasi."
+    },
+    {
+      "q": "Under which kind of tree is he said to have awakened?",
+      "options": ["Banyan", "Mango", "Neem", "Pipal"],
+      "answer": 3,
+      "why": "The tree at Bodh Gaya is a pipal, and it is called the Bodhi tree."
+    },
+    {
+      "q": "About how many Jataka stories of his earlier lives are in the Pali collection?",
+      "options": ["547", "108", "12", "1,000"],
+      "answer": 0,
+      "why": "The Pali Jatakatthavannana contains 547 stories."
+    },
+    {
+      "q": "What does the Middle Way mean in his teaching?",
+      "options": [
+        "Living only in a palace",
+        "Avoiding both extreme indulgence and harsh fasting",
+        "Giving up all food to find the truth",
+        "Travelling only in the middle of India"
+      ],
+      "answer": 1,
+      "why": "After strict fasting failed, he taught a path between sensual indulgence and severe self-denial."
+    },
+    {
+      "q": "Which of the four sights is said to have shown him a way past sorrow?",
+      "options": ["A calm wanderer", "A sick man", "An old man", "A dead person"],
+      "answer": 0,
+      "why": "After seeing old age, sickness and death, tradition says he saw a calm wanderer."
+    }
+  ],
+  "related": [
+    "maya-mother-of-the-buddha",
+    "yashodhara",
+    "rahula",
+    "ananda",
+    "sariputta",
+    "angulimala",
+    "kisa-gotami",
+    "sujata",
+    "mara",
+    "ashoka"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Buddha",
+    "accesstoinsight": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+    "lumbini": "https://en.wikipedia.org/wiki/Lumbini"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8cfa0",
+    "c2": "#c9a7c8"
+  },
+  "years": "c. 6th-4th century BCE (dates debated)",
+  "order": 1
+}

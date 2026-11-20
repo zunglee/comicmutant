@@ -1,0 +1,259 @@
+{
+  "slug": "agni",
+  "name": "Agni",
+  "aka": ["Jataveda", "Vaishvanara", "Tanunapat", "Hutashana"],
+  "native": "अग्नि",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Vedic god of fire and messenger of the gods",
+  "summary": "Agni is the Vedic god of fire, praised in over 200 Rigveda hymns as the priest and messenger who carries offerings from people to the gods. He guards the south-east direction.",
+  "about": "Agni is the Sanskrit word for fire and the name of the Vedic fire god, one of the most called-upon deities in the Rigveda. Over 200 hymns praise him, and the Rigveda itself opens with a verse to Agni. Vedic poets call him the mouth of the gods, since offerings placed in the sacrificial fire reach the gods through him. He is pictured as present on earth as fire, in the sky as lightning and in the heavens as the sun. Later texts show him with two faces, seven tongues and a ram as his mount, and make him the guardian of the south-east. Agni also lives on in the Hindu wedding fire, the cremation fire and the digestive fire of Ayurveda. Buddhist and Jain traditions treat fire in their own ways, and Agni was carried to Tibet, China and Japan as a protector figure.",
+  "kidSummary": "Agni is the Hindu god of fire. In ancient hymns, he is the friendly messenger who carries people's offerings up to the other gods. His fire warms homes, cooks food and lights lamps like the diya. Many Hindu weddings still have a small fire at the centre, with Agni as witness.",
+  "story": [
+    {
+      "title": "The first hymn",
+      "text": "The very first hymn of the Rigveda is a song to Agni. The poets call him their priest and ask him to bring the gods to the sacrifice."
+    },
+    {
+      "title": "Hiding in the water",
+      "text": "A Vedic tale says Agni once hid in the waters, afraid of his work. Fish told the gods where he was, and the gods brought him back to carry their offerings."
+    },
+    {
+      "title": "A hungry fire",
+      "text": "In the Mahabharata, Agni is hungry and wants to burn the Khandava forest. Arjuna and Krishna help by guarding the burning forest, and in that episode Arjuna receives famous weapons and a bow."
+    },
+    {
+      "title": "A new meaning",
+      "text": "Brahma, in the Mahabharata, softens an old curse so that Agni will purify whatever he touches instead of only burning it."
+    },
+    {
+      "title": "A test of kindness",
+      "text": "In another tale, Agni and Indra take the shapes of a pigeon and a hawk to test King Shibi, who offers his own flesh to protect the little bird."
+    }
+  ],
+  "teaches": [
+    "Fire can purify and warm, not only burn",
+    "Give your best as an offering",
+    "Light is shared by being given"
+  ],
+  "symbol": "flame",
+  "emblems": ["Ram (vahana)", "Seven tongues", "Two faces", "Sacrificial fire (homa)"],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Svaha"
+    },
+    {
+      "relation": "Child in the Mahabharata",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Father (in some texts)",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Twin (in the Rigveda)",
+      "name": "Indra",
+      "slug": "indra"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Shatapatha Brahmana",
+    "Mundaka Upanishad",
+    "Chandogya Upanishad",
+    "Kena Upanishad",
+    "Mahabharata",
+    "Vishnu Purana"
+  ],
+  "places": [
+    "South-east corner of Hindu temples",
+    "Hindu wedding sacred fire",
+    "Mathura (Agnipani statue)"
+  ],
+  "festivals": ["Agnihotra", "Homa rituals", "Hindu wedding fire ceremony"],
+  "facts": [
+    {
+      "text": "Agni simply means fire in Sanskrit. It shares an ancient root with Latin ignis, the source of English ignite, and with Albanian Enj, an old fire god whose name still lives in the Albanian word for Thursday.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vedas say Agni's foster-parents are two kindling sticks. As a newborn he is a tender baby who needs care or he vanishes, but he grows so strong that he burns up what made him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shatapatha Brahmana says three earlier Agnis died before the present, fourth Agni took on the task of carrying offerings.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8
+    },
+    {
+      "text": "Hymn writers called Agni a heavenly falcon. Many Indo-European myths have a falcon that brings fire and an elixir of immortality from heaven to earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7
+    },
+    {
+      "text": "In some early Vedic texts the universe began with only Prajapati, with no day or night. Agni sprang from his forehead, and with Agni came light, and then day and night.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mundaka Upanishad names Agni's seven tongues, among them Karali and Manojava. His name Saptajihva reflects how fast he swallows the sacrificial butter.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7
+    },
+    {
+      "text": "A Purana teaches that three fires burn inside every person: anger, desire and digestion. Forgiveness, letting go and fasting are the offerings that tame them.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some Ramayana versions Sita walks through fire to prove herself and Agni steps forward to vouch for her. Other versions say he returns the real Sita, and in the Thai telling the coals turn to lotuses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Agnicayana ritual, priests build a great bird-shaped altar of bricks over twelve days. Nambudiri priests in Kerala still perform it, and scholar Frits Staal filmed a performance in 1975.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Agnicayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Hindu wedding ritual Saptapadi, the couple walks seven rounds of the sacred fire, which witnesses their vows. In many places the bride leads the first four rounds and the groom the last three.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Rigveda verse says sages give many names to the one truth, calling it Indra, Mitra, Varuna or Agni, and Agni is called the same as twelve gods and five goddesses in one hymn.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8
+    },
+    {
+      "text": "In the Kena Upanishad the gods send Agni to find out who a mysterious being is. It sets a blade of grass before him and tells him to burn it. Agni cannot, and returns humbled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kena_Upanishad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Thailand, where Theravada Buddhism is strong, Agni is a minor deity called Phra Phloeng, which means holy flames.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Holi and Deepavali both use Agni in their rituals as a symbol of divine energy. The bonfire for Holika at Holi and the diyas of Deepavali are two ways of lighting him.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In temple carvings Agni sits at the south-east corner on his ram. At the 11th-century Rajarani Temple in Bhubaneswar, the ram is carved below him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Shatapatha Brahmana jokes that Agni is a nickname, since everybody, gods included, is known to love short names for things.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The word agni covers many fires: the fire in the stomach, the home cooking fire, the sacrificial fire, the cremation fire, lightning in the sky and the sun itself.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8
+    },
+    {
+      "text": "In the Vedas, Agni as fire, Vayu as air and Soma as water are three great deities who cooperate to empower all life, and some passages call them aspects of the same energy.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7
+    },
+    {
+      "text": "Ancient Indian medical books such as the Charaka Samhita sorted properties into Agni types, hot, fiery and dry, and Soma types, moist, nourishing and cooling.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7
+    },
+    {
+      "text": "In Japan the fire god Katen is the Buddhist form of Agni. A painting of him from 1127 CE is kept at the Kyoto National Museum.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal is Agni's vahana?",
+      "options": ["A tiger", "A ram", "A peacock", "A lion"],
+      "answer": 1,
+      "why": "Agni's mount is a ram (sheep)."
+    },
+    {
+      "q": "Which direction does Agni guard?",
+      "options": ["North-west", "South-west", "North-east", "South-east"],
+      "answer": 3,
+      "why": "Agni is the guardian of the south-east."
+    },
+    {
+      "q": "How many tongues, or flames, does Agni have in the Mundaka Upanishad?",
+      "options": ["Three", "Five", "Seven", "Twelve"],
+      "answer": 2,
+      "why": "The Mundaka Upanishad names seven tongues of Agni, and his name Saptajihva means seven-tongued."
+    },
+    {
+      "q": "Which Veda opens with a hymn to Agni?",
+      "options": ["Samaveda", "Atharvaveda", "Yajurveda", "Rigveda"],
+      "answer": 3,
+      "why": "The Rigveda starts with an Agni hymn."
+    },
+    {
+      "q": "Why is Agni called the mouth of the gods?",
+      "options": [
+        "He rules the sea",
+        "He carries offerings to the gods",
+        "He guards the north",
+        "He lives in a cave"
+      ],
+      "answer": 1,
+      "why": "The fire carries offerings to the gods."
+    }
+  ],
+  "related": ["indra", "vayu", "kartikeya", "varuna", "arjuna", "brahma", "surya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Agni",
+    "rigveda": "https://en.wikipedia.org/wiki/Rigveda"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F2B8A2",
+    "c2": "#EFD6A8"
+  },
+  "order": 50
+}

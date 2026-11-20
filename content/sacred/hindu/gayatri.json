@@ -1,0 +1,265 @@
+{
+  "slug": "gayatri",
+  "name": "Gayatri",
+  "aka": ["Savitri", "Vedamata", "Gayatri Devi"],
+  "native": "गायत्री",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of the Gayatri mantra and mother of the Vedas",
+  "summary": "Gayatri is the goddess who personifies the famous Gayatri mantra and its 24-syllable Vedic metre. Many texts call her the mother of the Vedas.",
+  "about": "Gayatri began as the name of a Vedic metre of 24 syllables, and later also became the name of the goddess who personifies it and the mantra written in it. The mantra itself is in the Rigveda and is dedicated to Savitr, a solar deity, and tradition credits the sage Vishvamitra with it. The Mahabharata says the Vedas came from her mouth, and the Mahanarayana Upanishad identifies her with Saraswati. In the Matsya Purana, Brahma's left half becomes a woman known as Saraswati, Savitri and Gayatri. The Pushkar tradition tells of Brahma marrying Gayatri to finish a fire ritual when Savitri was late, and Shaiva traditions link her to Manonmani and imagine her with five heads and ten arms.",
+  "kidSummary": "Gayatri is the goddess of one of the oldest prayers in the world, the Gayatri mantra, asking the sun for clear thinking. People call her the mother of the Vedas, the ancient books of wisdom. In a Pushkar story, Brahma marries Gayatri to finish a fire ritual when his wife is late, and modern pictures often show her sitting on a swan.",
+  "story": [
+    {
+      "title": "A prayer to the sun",
+      "text": "Long ago, a verse in the Rigveda, traditionally credited to the sage Vishvamitra, asked the radiant sun, Savitr, to light up our minds."
+    },
+    {
+      "title": "A rhythm becomes a goddess",
+      "text": "The verse is built from three lines of eight syllables, a rhythm called Gayatri. Over time the rhythm and the verse were pictured as the goddess Gayatri, the mother of the Vedas."
+    },
+    {
+      "title": "The fire ritual at Pushkar",
+      "text": "In a Puranic tale, Brahma holds a yajna, a fire ritual, by the lake at Pushkar. His wife Savitri is delayed, waiting for her friends, and the ritual cannot wait. Brahma weds Gayatri, who sits beside him to finish it."
+    },
+    {
+      "title": "Savitri arrives",
+      "text": "When Savitri arrives, she is upset and says Brahma will be worshipped in few places. Gayatri softens her words and blesses Pushkar. Even today the two goddesses have temples on separate hills above the lake, and Brahma's temple at Pushkar is one of very few."
+    },
+    {
+      "title": "Said every day",
+      "text": "For many people the mantra is a daily prayer said at dawn, noon and dusk. It asks for clear thoughts and wisdom."
+    }
+  ],
+  "teaches": [
+    "Seek clear thinking and wisdom",
+    "Begin each day with a thankful pause",
+    "Knowledge is a light"
+  ],
+  "symbol": "sun",
+  "emblems": ["Swan (vahana in modern images)", "Five heads in some Shaiva images", "Lotus"],
+  "family": [
+    {
+      "relation": "Identified with",
+      "name": "Saraswati",
+      "slug": "saraswati"
+    },
+    {
+      "relation": "Consort in some Puranas",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": ["Rigveda 3.62.10", "Mahanarayana Upanishad", "Matsya Purana", "Padma Purana"],
+  "places": ["Brahma Temple and Gayatri hill temple, Pushkar (Rajasthan)"],
+  "festivals": ["Gayatri Jayanti", "Sandhyavandanam (daily)"],
+  "facts": [
+    {
+      "text": "Gayatri first meant a Vedic metre of 24 syllables, and only later became the name of a goddess.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Counted in the Samhita text, the first line has only seven syllables, so it is called 'nichrut', short by one. Reciters stretch the last sound, add an extra 'mmm', or use the reconstructed 'vareniyam' to make eight.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A modern image of Gayatri shows her four-armed on a swan, holding the Vedas of Brahma, the discus of Vishnu and the trident of Shiva, with a hand in the blessing gesture.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Pushkar story, Brahma's wife Savitri is late for his yajna because she is waiting for other goddesses, so Brahma marries Gayatri, described in that telling as a local girl, who sits beside him holding the pot of amrita on her head.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In that story the angry Savitri curses that Brahma will not be worshipped, then softens it to allow worship at Pushkar. This is why the Pushkar temple is described as one of very few for Brahma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Gayatri softened the other curses of Savitri: Indra would keep his heaven, Vishnu would be born as Rama and be reunited with his wife, and the priests would become honoured scholars.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One fearsome image of Gayatri has three faces, two like the goddess Kali and one calm, and she sits on a lotus with weapons in her hands.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Matsya Purana says Brahma's left half became a woman called Saraswati, Savitri and Gayatri; the three names stand for purity of thought, word and deed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Krishna says in the Bhagavad Gita, verse 10.35, that among metres he is Gayatri. The Gita names the metre, not the mantra's own words.",
+      "kind": "text",
+      "source": "https://www.holy-bhagavad-gita.org/chapter/10/verse/35",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Majjhima Nikaya, the Buddha calls the Savitri the foremost of metres, as the king is foremost among people.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Sutta Nipata, the Buddha tests a man who calls himself a brahmin by asking him for the Savitri chant, three lines of twenty-four syllables.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Traditionally RV 3.62.10 was taught only to Brahmin boys at the thread ceremony. Ram Mohan Roy wrote on it in 1827, the Brahmo Samaj required it in worship from 1843, and in 1898 Swami Vivekananda gave it to non-Brahmins at the Ramakrishna Mission.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Balinese and Indonesian Hindus use it as the first part of Trisandhya, a prayer recited three times each day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A statue of George Harrison unveiled in Liverpool in 2015 has the mantra engraved on its belt.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In one description, Gayatri has five heads named Mukta, Vidruma, Hema, Neela and Dhavala, with ten eyes that look in eight directions plus the earth and sky.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The mantra is recited after om and the three vyahrtis, 'bhur bhuvah svah', the 'great utterance', as the Taittiriya Aranyaka (2.11.1 to 2.11.8) prescribes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before chanting Gayatri japa, a tradition prescribes 24 hand gestures called purva mudras, including ones named after the fish, the tortoise and the boar.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahanarayana Upanishad pictures Gayatri as white in colour, three-footed, six-bellied and five-headed; a later commentary says the feet are the first three Vedas, the six bellies the six directions, and the five heads five Vedangas.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition links each of the 24 syllables with a Vedic sage, starting with Vamadeva, Atri and Vasishtha and ending with Kashyapa.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 10th-century bronze Gayatri from the Champa region, now in a Delhi museum, has five faces and ten hands holding a sword, lotus, trident, discus, goad, noose and a manuscript among other things.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Dominik Haas notes a separate Vedic sun-maiden goddess, Suryaa, daughter of Savitr, also called savitri; her wedding story leads him to compare her to Helen of Troy. Later the Savitri and Satyavan tale blended the two.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Varaha Purana and the Mahabharata say Gayatri defeated the asura Vetrasura, a son of Vritra and the river Vetravati, on a Navami day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gayatri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A version of the Gayatri mantra is heard in the opening theme of the 2004 television series Battlestar Galactica.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many syllables does the Gayatri metre have?",
+      "options": ["12", "24", "108", "64"],
+      "answer": 1,
+      "why": "The Gayatri metre has 24 syllables."
+    },
+    {
+      "q": "To which deity is the mantra addressed?",
+      "options": ["Savitr, the sun", "Agni, the fire", "Varuna, the waters", "Yama"],
+      "answer": 0,
+      "why": "It is addressed to the solar deity Savitr."
+    },
+    {
+      "q": "Which animal is often shown as Gayatri's vahana in modern images?",
+      "options": ["Lion", "Peacock", "Elephant", "Swan"],
+      "answer": 3,
+      "why": "A swan is a common mount in modern images."
+    },
+    {
+      "q": "In which very old text does the mantra appear?",
+      "options": ["Rigveda", "Panchatantra", "Gita Govinda", "Kural"],
+      "answer": 0,
+      "why": "It is Rigveda 3.62.10."
+    },
+    {
+      "q": "Which sage is credited with the mantra?",
+      "options": ["Vyasa", "Valmiki", "Vishvamitra", "Narada"],
+      "answer": 2,
+      "why": "Tradition credits Vishvamitra."
+    }
+  ],
+  "related": ["saraswati", "brahma", "surya", "vishvamitra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gayatri",
+    "mantra": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+    "pushkar": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+    "gita": "https://www.holy-bhagavad-gita.org/chapter/10/verse/35",
+    "gayatri-mantra": "https://en.wikipedia.org/wiki/Gayatri_Mantra"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e6c4",
+    "c2": "#f1c9a0"
+  },
+  "order": 170
+}

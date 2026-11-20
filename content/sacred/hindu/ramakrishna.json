@@ -1,0 +1,271 @@
+{
+  "slug": "ramakrishna",
+  "name": "Ramakrishna",
+  "aka": ["Sri Ramakrishna Paramahamsa", "Gadadhar Chattopadhyay"],
+  "native": "রামকৃষ্ণ",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "19th-century Bengali mystic and priest of Kali at Dakshineswar",
+  "summary": "Ramakrishna (1836-1886) was a Bengali priest and mystic at the Dakshineswar Kali temple. He taught that different religious paths lead to the same God, and his disciples founded the Ramakrishna Order.",
+  "about": "Ramakrishna was born as Gadadhar in 1836 in Kamarpukur, a village in Bengal, and died in Calcutta in 1886. He became a priest at the Dakshineswar Kali Temple on the Hooghly river, where he devoted his days to the Divine Mother. He tried several spiritual paths, among them Tantra, Vedanta, and for short periods the practices of Islam and Christianity, and taught that these paths reach the same goal. His wife Sarada Devi and his disciple Swami Vivekananda spread his message. Followers regard him as an avatar, or divine incarnation, while scholars have also offered other readings of his trances. His teachings were recorded by Mahendranath Gupta in the Kathamrita, known in English as the Gospel of Sri Ramakrishna.",
+  "kidSummary": "Ramakrishna was a priest at a big Kali temple beside the Hooghly river in Kolkata. He was a gentle man who loved to sing and tell stories. He taught that people can reach God by many paths, like different roads that lead to the same place.",
+  "story": [
+    {
+      "title": "A boy in Kamarpukur",
+      "text": "Gadadhar, later called Ramakrishna, grew up in a village in Bengal. He loved songs and plays and was a dreamy child."
+    },
+    {
+      "title": "Cranes in the rain",
+      "text": "One day, walking among the fields, he saw white cranes flying across a dark rain cloud. He was so moved that he fell into a trance."
+    },
+    {
+      "title": "The temple by the river",
+      "text": "As a young man he became a priest at the Dakshineswar Kali Temple, built by Rani Rasmani. He spent his days and nights worshipping Kali."
+    },
+    {
+      "title": "Many paths, one goal",
+      "text": "He learned from several teachers and also tried the practices of other faiths. He said all paths lead to the same God."
+    },
+    {
+      "title": "A message that travels",
+      "text": "His disciple Vivekananda started the Ramakrishna Mission in 1897, and centres now exist across India and the world."
+    }
+  ],
+  "teaches": [
+    "Different religious paths can lead to the same God",
+    "Sincere devotion matters more than learning",
+    "Respect for all faiths"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lotus, waves, sun and swan (Ramakrishna Mission emblem)"],
+  "family": [
+    {
+      "relation": "Worshipped",
+      "name": "Kali",
+      "slug": "kali"
+    },
+    {
+      "relation": "Wife and Holy Mother",
+      "name": "Sarada Devi"
+    },
+    {
+      "relation": "Chief disciple",
+      "name": "Swami Vivekananda"
+    },
+    {
+      "relation": "Elder brother",
+      "name": "Ramkumar"
+    }
+  ],
+  "texts": ["Kathamrita (Gospel of Sri Ramakrishna) by M"],
+  "places": ["Kamarpukur", "Dakshineswar Kali Temple", "Cossipore", "Belur Math"],
+  "festivals": ["Kalpataru Day (1 January)"],
+  "related": ["kali", "shiva", "krishna", "rama", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramakrishna",
+    "dakshineswar": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+    "kalpataru_day": "https://en.wikipedia.org/wiki/Kalpataru_Day",
+    "ramakrishna_mission": "https://en.wikipedia.org/wiki/Ramakrishna_Mission",
+    "vivekananda": "https://en.wikipedia.org/wiki/Swami_Vivekananda"
+  },
+  "palette": {
+    "c1": "#efdcc2",
+    "c2": "#cfd6e3"
+  },
+  "years": "1836–1886",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "Which temple was Ramakrishna a priest at?",
+      "options": ["Konark", "Dakshineswar Kali Temple", "Meenakshi Temple", "Kedarnath"],
+      "answer": 1,
+      "why": "He served at the Dakshineswar Kali Temple on the Hooghly river."
+    },
+    {
+      "q": "Who founded the Ramakrishna Mission in 1897?",
+      "options": ["Rani Rasmani", "Swami Vivekananda", "Tota Puri", "Ramkumar"],
+      "answer": 1,
+      "why": "Ramakrishna's chief disciple Vivekananda founded it."
+    },
+    {
+      "q": "What did Ramakrishna teach about the world's religions?",
+      "options": [
+        "Only one is a path to God",
+        "They are many paths to one goal",
+        "They should compete",
+        "They are all the same ritual"
+      ],
+      "answer": 1,
+      "why": "He taught in parables that religions are many paths to one and the same goal."
+    },
+    {
+      "q": "What did the child Gadadhar see before his trance?",
+      "options": ["A rainbow", "White cranes against a dark cloud", "A shooting star", "A deer"],
+      "answer": 1,
+      "why": "The sight of cranes against a rain cloud moved him deeply."
+    },
+    {
+      "q": "Which book records his talks?",
+      "options": ["Kathamrita", "Panchatantra", "Gitanjali", "Vachanas"],
+      "answer": 0,
+      "why": "Mahendranath Gupta, writing as M, recorded them in the Kathamrita."
+    }
+  ],
+  "facts": [
+    {
+      "text": "At Dakshineswar the monk Tota Puri, who by custom never stayed anywhere beyond three days, saw Ramakrishna enter deep Vedantic meditation in about a day, a feat Tota said took him forty years. Tota ended up staying eleven months.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In 1873 a devotee read the Bible aloud to him, and he stopped listening once he noticed it spoke only of sin. He said that thinking of yourself as weak and sinful is itself the greatest sin, since all are children of God.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As a child of about ten, he saw white cranes flying against a dark rain cloud while walking in a paddy field and fell into a trance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He left school at about fourteen to start a drama group and never got past basic arithmetic. He once played Shiva in a village Shivaratri play and reportedly lost himself so deeply in the role that he went into a trance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He described samadhi with a picture: a fish kept in a small basin on the seashore, and the basin breaks, so the fish slips into the boundless ocean and frolics. His mind, he said, leaps out of the body and plunges into the infinite.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Durgadas Pyne, a trader, kept the women of his house in strict purdah and scorned those who listened to Ramakrishna's Purana recitals. Ramakrishna, dressed as a weaver woman, fooled him and walked in, arguing that education, not seclusion, protects women.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "To break his own pride about caste, he cleaned the toilets of people then called untouchable, using his own hands and hair. He taught that such humble acts remove shame, hatred and fear.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A government official once found him in a trance for three days and three nights, and his followers rubbed ghee along his spine to help him return to ordinary awareness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The ascetic Bhairavi Brahmani initiated him into Tantra in 1861. He worked through all 64 major tantric practices by 1863, taking only three days for each one.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1866 Govinda Roy, a Hindu who practised Sufism, initiated him into Islam, and he is said to have practised it for three days.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 1874 he reportedly had a vision of the Madonna and Child coming to life from a picture.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He married Sarada Devi in 1859, but they lived as spiritual companions rather than as a householder couple. He later worshipped her as the Divine Mother, and she became known as the Holy Mother.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Biographies say that after Tota Puri's teaching he stayed in the deepest meditative state for about six months, unaware of the world. An unknown monk is said to have fed him in rare moments of waking, until the Mother told him to stay in between.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Principal William Hastie told his students to visit Ramakrishna to understand the word trance, and that led Narendranath Dutta, later Vivekananda, to meet him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When every pandit's written opinion went against Rani Rasmani offering food in her own temple, Ramakrishna's elder brother Ramkumar wrote with a way out: gift the temple to a Brahmin. He then served as its first chief priest.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In despair at the thought that he might never see Kali, he felt he could not go on living. At that moment, he later said, he saw the Mother as a boundless, shining sea of light and lost awareness of the outer world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "According to biographers, young Narendra, later Vivekananda, asked several Calcutta notables whether they had seen God and was never satisfied. Ramakrishna answered plainly yes: he saw God as clearly as he saw the boy, only more intensely.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Swami_Vivekananda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Tota Puri taught him formless meditation, the form of the Divine Mother kept appearing in his mind. He finally used knowledge as a sword to cut her form in two and then entered the deepest state.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Before Tota Puri taught him, Ramakrishna said he knew nothing and that his Mother would guide him. He went into the temple, came back joyful and reported that she had said to go and learn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Practising the mood of a devoted woman servant of God, he dressed in women's clothes and ornaments for the evening worship. He said he lived as a handmaid of the Divine Mother for many days.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His best-known saying holds that there are as many paths as there are religions, all leading to one and the same goal. He found that Hinduism, Christianity and Islam each move toward the same divine, though by different ways.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In his last illness the doctors ordered him to keep strict silence, but he ignored them and kept talking with visitors to the end. He died of throat cancer on 16 August 1886 at the Cossipore garden house.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramakrishna",
+      "interest": 7,
+      "kid": false
+    }
+  ]
+}

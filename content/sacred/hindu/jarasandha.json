@@ -1,0 +1,280 @@
+{
+  "slug": "jarasandha",
+  "name": "Jarasandha",
+  "aka": ["Jarāsandha", "King of Magadha"],
+  "native": "जरासंध",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "King of Magadha and father-in-law of Kamsa",
+  "summary": "Jarasandha is the king of Magadha in the Mahabharata and Puranas. He is said to have been born in two halves that a rakshasi named Jara joined together, and he later attacks Mathura and meets Bhima in a famous wrestling match.",
+  "about": "In the Mahabharata and the Puranas, Jarasandha is the powerful king of Magadha, whose capital Girivraja is linked by many with modern Rajgir. His father, King Brihadratha, had two wives and no sons, until a sage's mango gave each wife half a child. In the Mahabharata the halves were left at a crossroads, where a rakshasi named Jara joined them into one boy, and so he was called Jarasandha. His daughters were married to Kamsa, and after Kamsa's end, the Bhagavata Purana says Jarasandha attacked Mathura again and again. Krishna and Balarama moved their people to Dvaraka. In the Mahabharata, Krishna, Bhima and Arjuna travel to Magadha in disguise, and Bhima ends his life in a duel so Yudhishthira's Rajasuya can go on. In the Mahabharata Bhima breaks his back; in the Bhagavata Purana Krishna splits a twig as a hint; popular retellings add that the halves rejoined. Jain texts give him a different place, as the ninth prati-vasudeva.",
+  "kidSummary": "Jarasandha is a famous king of Magadha in the Hindu epics. The story says he was born in two halves, and a woman named Jara joined them. Later he fights Krishna's people many times, and at last he wrestles Bhima in a long match.",
+  "story": [
+    {
+      "title": "Two halves of a baby",
+      "text": "In the Mahabharata, a king named Brihadratha has no children. A sage gives him a magic mango, and his two queens each give birth to half of a baby. Midwives carry the halves out of the palace's back door and leave them at a crossroads."
+    },
+    {
+      "title": "Jara joins them",
+      "text": "A rakshasi named Jara finds the two halves and presses them together. They join into a lively baby boy, who is named Jarasandha, or joined by Jara."
+    },
+    {
+      "title": "Attacks on Mathura",
+      "text": "Jarasandha's daughters were married to Kamsa. After Kamsa is gone, he attacks Mathura with huge armies, and Krishna and Balarama beat them back again and again."
+    },
+    {
+      "title": "A new city by the sea",
+      "text": "Krishna moves his people to Dvaraka, a new city by the sea. In the Puranas, the divine builder Vishvakarma is said to have helped build it."
+    },
+    {
+      "title": "The wrestling match",
+      "text": "Krishna, Bhima and Arjuna visit Magadha dressed as brahmins. Jarasandha picks Bhima to wrestle. In the Mahabharata they fight about two weeks and Bhima whirls him. Some versions of the Bhagavata Purana say the duel lasted 27 days, Krishna splits a twig as a hint, and the imprisoned kings go free."
+    }
+  ],
+  "teaches": [
+    "Strength should protect, not harm",
+    "Freedom for those held captive matters",
+    "Clever thinking can solve a stubborn problem"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Wrestling duel", "Two halves joined", "Capital in the hills at Girivraja"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Brihadratha"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Kamsa",
+      "slug": "kamsa"
+    },
+    {
+      "relation": "Opponent in a wrestling match",
+      "name": "Bhima",
+      "slug": "bhima"
+    },
+    {
+      "relation": "Long-time opponent",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Sabha Parva)",
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Harivamsa",
+    "Jain Harivamsa Purana"
+  ],
+  "places": ["Girivraja (Rajgir), Bihar", "Mathura", "Dvaraka"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Mahabharata says the joined baby was as hard as a thunderbolt, so heavy that Jara could not lift him, and he roared like a rain cloud.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XVII",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His father Brihadratha had two wives, twin princesses of Kashi, and no sons. In the Mahabharata the sage Chanda-kaushika gave him one mango, the wives shared it, and each gave birth to half of a body.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XVII",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, midwives carried the two halves out of the palace and left them at a crossroads, where the rakshasi Jara pressed them together. They became one living baby.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XVII",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sabha Parva calls Jara a household goddess, a griha-devi, and says the king of Magadha held a festival to honour the rakshasi who had joined his son's two halves.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XVIII",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Sabha Parva, Balarama killed a king named Hansa who only shared the name of Jarasandha's ally. Dimvaka heard that Hansa was dead, believed it, and drowned himself in the Yamuna. The real Hamsa then heard of this and drowned himself too.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XIV",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says his first siege of Mathura used 23 akshauhinis, a huge army unit, and Krishna chose to spare Jarasandha himself since he would raise another army.",
+      "kind": "text",
+      "source": "https://www.vedabase.io/en/library/sb/10/50/",
+      "interest": 7
+    },
+    {
+      "text": "The Sabha Parva says Shishupala served as commander of Jarasandha's forces, and Bhagadatta, the king of the west who was Narakasura's son, bowed to Jarasandha.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XIV",
+      "interest": 8
+    },
+    {
+      "text": "The Bhagavata Purana says he attacked Mathura seventeen times, and each time his army was beaten.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/50/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before an eighteenth attack, Kalayavana arrived with 30 million soldiers, so Krishna decided to move his people away from Mathura.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/50/",
+      "interest": 7
+    },
+    {
+      "text": "In the Bhagavata Purana, the new island city of Dvaraka had a fortress twelve yojanas around, and Krishna moved his people there by his yogic power.",
+      "kind": "place",
+      "source": "https://www.vedabase.io/en/library/sb/10/50/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Jarasandha challenged Karna to single combat and lost. Jarasandha then gave him the land of Malini as a friendly gift.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jarasandha",
+      "interest": 7
+    },
+    {
+      "text": "The Sabha Parva says Jarasandha had shut many kings in his hill fort and wanted one hundred of them for a sacrifice to the lord of Uma, a name of Shiva. Krishna says Yudhishthira cannot hold his Rajasuya until those kings are freed.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XIV",
+      "interest": 8
+    },
+    {
+      "text": "In the Bhagavata Purana, Jarasandha was among the kings who backed Shishupala against Krishna when Rukmini chose Krishna, and the kings were defeated.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/52/",
+      "interest": 7
+    },
+    {
+      "text": "After the duel, Krishna and the two Pandavas rode away from Girivraja in Jarasandha's own celestial car. The Sabha Parva says Indra had once used it to slay ninety-nine asuras, and its flagstaff was celestial too, unharmed by weapons and visible from afar.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XXIV",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jarasandha was offered a choice of freeing the captives or fighting, and he chose to wrestle Bhima because he thought Krishna weaker.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jarasandha",
+      "interest": 7
+    },
+    {
+      "text": "The Mahabharata says the match began on the first day of Kartika and went on, day and night, until Jarasandha tired on the night of the fourteenth lunar day.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XXIII",
+      "interest": 8
+    },
+    {
+      "text": "In the Mahabharata, Bhima lifts Jarasandha, whirls him a hundred times and breaks his back with a knee. Krishna only urges Bhima to use the strength he got from his father, the wind god.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XXIV",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna tears a small tree branch in half as a hint, and Bhima tears Jarasandha in two the same way.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/72/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Popular retellings add that the halves joined again, and that Krishna split a blade of grass to show Bhima to throw them in opposite directions. The Mahabharata's wrestling chapter has only the hundred whirls and the knee to the back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jarasandha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jarasandha whirled his mace ninety-nine times and hurled it toward Krishna at Mathura. It fell ninety-nine yojanas from Girivraja, and the spot was called Gadavasan.",
+      "kind": "story",
+      "source": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XIX",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Jarasandha's Akhara in Rajgir, local tradition says the pale, hard soil of the arena was mixed daily with milk and curd for the wrestlers. Tall walls and parts of the field can still be seen.",
+      "kind": "place",
+      "source": "https://www.trawell.in/bihar/rajgir/jarasandha-ka-akhara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Jain Harivamsa Purana counts Jarasandha as the ninth pratinarayana, a rival of Krishna in Jain tradition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jarasandha",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who joined baby Jarasandha's two halves together?",
+      "options": [
+        "A sage named Narada",
+        "A rakshasi named Jara",
+        "The goddess Parvati",
+        "The goddess Ganga"
+      ],
+      "answer": 1,
+      "why": "The rakshasi Jara pressed the halves together and they joined."
+    },
+    {
+      "q": "How many times does the Bhagavata Purana say he attacked Mathura?",
+      "options": ["Three", "Seven", "Seventeen", "A hundred"],
+      "answer": 2,
+      "why": "He attacked seventeen times and each army was beaten."
+    },
+    {
+      "q": "Where did Krishna move his people for safety?",
+      "options": ["Dvaraka", "Kashi", "Ujjain", "Hastinapura"],
+      "answer": 0,
+      "why": "Dvaraka, a city by the sea."
+    },
+    {
+      "q": "Which Pandava wrestled Jarasandha?",
+      "options": ["Arjuna", "Nakula", "Bhima", "Sahadeva"],
+      "answer": 2,
+      "why": "Jarasandha chose Bhima as his opponent."
+    },
+    {
+      "q": "Which Indian town is linked with his capital Girivraja?",
+      "options": ["Rajgir", "Pushkar", "Sanchi", "Ujjain"],
+      "answer": 0,
+      "why": "Rajgir in Bihar is linked with Girivraja."
+    }
+  ],
+  "related": [
+    "krishna",
+    "balarama",
+    "bhima",
+    "arjuna",
+    "yudhishthira",
+    "kamsa",
+    "karna",
+    "vishvakarma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jarasandha",
+    "bhagavata": "https://www.vedabase.io/en/library/sb/10/50/",
+    "bhagavata_72": "https://www.vedabase.io/en/library/sb/10/72/",
+    "sabha_parva": "https://en.wikisource.org/wiki/The_Mahabharata/Book_2:_Sabha_Parva/Section_XXIV",
+    "rajgir": "https://en.wikipedia.org/wiki/Rajgir",
+    "rukmini": "https://www.vedabase.io/en/library/sb/10/52/",
+    "akhara": "https://www.trawell.in/bihar/rajgir/jarasandha-ka-akhara"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9cdb3",
+    "c2": "#b3c6bf"
+  },
+  "order": 500
+}

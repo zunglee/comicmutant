@@ -1,0 +1,232 @@
+{
+  "slug": "surdas",
+  "name": "Surdas",
+  "aka": ["Sur Das", "Sant Surdas", "Sur Swami"],
+  "native": "सूरदास",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Braj Bhasha poet of Krishna's childhood",
+  "years": "c. 1483–1563 (traditional)",
+  "summary": "Surdas is a celebrated poet-saint, traditionally said to have been blind, whose songs in Braj Bhasha describe Krishna's childhood. His collection, the Sur Sagar, is a landmark of Hindi literature.",
+  "about": "Surdas is traditionally dated to about 1483 to 1563, though one scholarly reference suggests a much earlier birth. Sources disagree even on his caste. A Pushtimarg account says he was born at Sihi near Delhi and died at Parasoli, near Govardhan. Pushtimarg tradition says he was a disciple of Vallabhacharya, and counts him first among the eight poets known as the Ashtachhap, but modern scholars doubt that link. His main work is the Sur Sagar, shaped in twelve parts like the Bhagavata Purana, and made of short songs called pads. It lifted Braj Bhasha, once thought a common speech, into fine literature. Many poems credited to him were probably written by later poets in his name. Much of what is told about his life comes from devotional biographies, so facts and legend are mixed. The two devotional biographies differ: one calls him Surajchand, of a royal line, born in 1478 and named Surdas by Krishna, while the other makes him a Saraswat Brahmin child from Sihi named Surdas by Vallabhacharya.",
+  "kidSummary": "Surdas was a poet who sang about little Krishna, his games, his butter-stealing and his naughty smile. Tradition says he was blind, yet his songs paint bright pictures in the listener's mind. People still sing his songs in temples today.",
+  "story": [
+    {
+      "title": "A boy who sang",
+      "text": "Traditional stories say Surdas loved to sing from childhood. In devotional accounts he was blind, and one legend says Krishna himself pulled him from a well."
+    },
+    {
+      "title": "A teacher on the Yamuna",
+      "text": "In the Pushtimarg tradition, he met the teacher Vallabhacharya and became his disciple. Modern scholars say it is hard to prove."
+    },
+    {
+      "title": "Songs for little Krishna",
+      "text": "Surdas sang about baby Krishna's mischief, his love of butter and his mother's playful scolding, in the Braj language."
+    },
+    {
+      "title": "A great collection",
+      "text": "His songs were gathered in the Sur Sagar, an ocean of songs arranged like the Bhagavata Purana. Later poets added their own to it."
+    },
+    {
+      "title": "Still sung today",
+      "text": "His songs are sung in temples, and stories and films about his life keep them alive."
+    }
+  ],
+  "teaches": ["Seeing with the heart", "Joy in simple devotion", "Love as the heart of faith"],
+  "symbol": "book",
+  "emblems": ["Butter pot of baby Krishna", "Pad (song form)"],
+  "family": [
+    {
+      "relation": "Beloved subject of his songs",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Teacher (Pushtimarg tradition)",
+      "name": "Vallabhacharya"
+    }
+  ],
+  "texts": [
+    "Sur Sagar",
+    "Sur-Saravali",
+    "Sahitya-Lahiri",
+    "Caurasi Vaisnavan ki Varta (biography)"
+  ],
+  "places": ["Sihi, near Faridabad", "Gau Ghat", "Parasoli near Chandra Sarovar"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "One account says Surdas fell into a well and called for help for seven days. Then Krishna himself pulled him out, and Surdas teased him into restoring his sight.",
+      "kind": "story",
+      "source": "https://www.brajrasik.org/articles/6107e21761fd960008ca5fcd/biography-of-shri-surdas-ji",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In that story, Surdas asked that his restored eyes should never look at anyone but Krishna. That was one of three boons he is said to have received.",
+      "kind": "story",
+      "source": "https://www.brajrasik.org/articles/6107e21761fd960008ca5fcd/biography-of-shri-surdas-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A tale says Emperor Akbar invited Surdas to court and asked how a blind man could describe what he sang. Surdas did not answer, and Akbar decided his inner sight was fixed on God.",
+      "kind": "story",
+      "source": "https://www.brajrasik.org/articles/6107e21761fd960008ca5fcd/biography-of-shri-surdas-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindupedia says Surdas wrote songs on baby Krishna's first tooth, first word and first unaided step. Mothers still sing them, seeing little Krishna in their own children.",
+      "kind": "art",
+      "source": "https://hindupedia.com/en/Sant_Surdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a Pushtimarg account, little Surdas found his father's gold coins after rats carried them off, spotting the hole in the roof, and his family began to value his inner sight.",
+      "kind": "story",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Pushtimarg account, the six-year-old found a lost cow by his inner sight. The village head was pleased and built him a hut, where he began singing and soon became known as Sur Swami.",
+      "kind": "story",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pushtimarg tradition says Surdas composed about 1.25 lakh (125,000) pads, known as the Sur Sagar, and that Krishna himself wrote 25,000 more in his name, signed with the name Sur Shyam.",
+      "kind": "story",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 7
+    },
+    {
+      "text": "The same account says Radha herself composed 7,000 pads for Surdas, signing them with the name Surajdas.",
+      "kind": "story",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 7
+    },
+    {
+      "text": "In a Gokul account, Surdas composed pads to match each day's dress for the deity. One day senior Pushtimarg figures held back the next day's dress without telling him. No festive clothes had been offered, and Surdas, unaware, sang exactly that.",
+      "kind": "story",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His name Surdas means 'servant of the sun'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The legend of the blind poet Bilwamangal, identified with Surdas, became films. A 1919 silent Bilwamangal came first, and Chintamani versions followed from 1933 to 1957.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7
+    },
+    {
+      "text": "In 'Main Naahin Maakhan Khaayo', caught with butter on his face, baby Krishna tells his mother his friends smeared it on him. Set to raga Ramkali, it was popularised by Lata Mangeshkar, K. L. Saigal and Anup Jalota.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Main_Naahin_Maakhan_Khaayo",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sur Sagar is divided into twelve parts like the Bhagavata Purana and tells much through the gopis' eyes. Its pads, of six to ten rhymed verses, also sing of Rama and Sita, Shiva, Gajendra and King Bali.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7
+    },
+    {
+      "text": "Eight disciples of Vallabha are called the Ashtachhap, 'eight seals', after the signature word each poet placed at a song's end. Sur is counted first among them, and their poems are sung in Pushtimarg worship.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7
+    },
+    {
+      "text": "Surdas wrote in Braj Bhasha, then thought of as a common people's speech, when Persian and Sanskrit were the grand literary languages. His songs lifted it into fine literature.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Sahitya Akademi reference, the Encyclopaedia of Indian Literature, suggests Surdas was born in 1258, more than two centuries before the usual date of 1483. His dates remain open.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7
+    },
+    {
+      "text": "The hagiographer Nabhadas praised Surdas in his Bhaktamal for his skill at describing Hari's playful acts, meaning the games of child Krishna.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Surdas",
+      "interest": 7
+    },
+    {
+      "text": "In Pushtimarg accounts, Surdas went to Gopalpur, saw Shrinathji and sang before him. He then settled at Parasoli near Chandra Sarovar and sang in Shrinathji's service for many years.",
+      "kind": "place",
+      "source": "https://vrajdwar.org/surdas",
+      "interest": 7
+    },
+    {
+      "text": "The Krishna poet Sur and the Ramcharitmanas poet Tulsidas were contemporaries. Sur is recorded calling Tulsidas 'Sant Shiromani', the crown jewel of saints, in an eight-line verse.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tulsidas",
+      "interest": 8
+    },
+    {
+      "text": "A Delhi Metro station on the Violet Line in Faridabad, opened in November 2018, is named Sant Surdas (Sihi), after the village traditionally named as the poet's birthplace.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sant_Surdas_(Sihi)_metro_station",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which language did Surdas write his songs?",
+      "options": ["Braj Bhasha", "Tamil", "Sanskrit", "Urdu"],
+      "answer": 0,
+      "why": "Braj Bhasha, the language of Krishna's homeland."
+    },
+    {
+      "q": "What is Surdas's famous collection called?",
+      "options": ["Bijak", "Sur Sagar", "Gita Govinda", "Dohavali"],
+      "answer": 1,
+      "why": "The Sur Sagar means ocean of Sur."
+    },
+    {
+      "q": "Whose childhood is the main subject of his songs?",
+      "options": ["Rama's", "Shiva's", "Hanuman's", "Krishna's"],
+      "answer": 3,
+      "why": "Krishna's childhood fills many Sur Sagar songs."
+    },
+    {
+      "q": "How many parts is the Sur Sagar divided into, like the Bhagavata Purana?",
+      "options": ["Seven", "Twelve", "Eighteen", "Twenty-four"],
+      "answer": 1,
+      "why": "It follows the Bhagavata Purana's twelve skandhas."
+    }
+  ],
+  "related": ["krishna", "radha", "yashoda", "tulsidas", "meera-bai", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Surdas",
+    "hindupedia": "https://hindupedia.com/en/Sant_Surdas",
+    "vrajdwar": "https://vrajdwar.org/surdas",
+    "brajrasik": "https://www.brajrasik.org/articles/6107e21761fd960008ca5fcd/biography-of-shri-surdas-ji",
+    "mainnaahin": "https://en.wikipedia.org/wiki/Main_Naahin_Maakhan_Khaayo",
+    "metro": "https://en.wikipedia.org/wiki/Sant_Surdas_(Sihi)_metro_station",
+    "tulsidas": "https://en.wikipedia.org/wiki/Tulsidas"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#CFE0EA",
+    "c2": "#F3E6BE"
+  },
+  "order": 40
+}

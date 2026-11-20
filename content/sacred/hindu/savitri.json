@@ -1,0 +1,282 @@
+{
+  "slug": "savitri",
+  "name": "Savitri",
+  "aka": ["Sati Savitri", "Savitri of Madra"],
+  "native": "सावित्री",
+  "role": "Princess of the Mahabharata who won back her husband's life",
+  "summary": "Savitri is the princess in the Mahabharata who followed Yama, the god of death, and won back her husband Satyavan's life through courage and clever words. Her story is remembered at Vat Savitri.",
+  "about": "Savitri's story is told in the Vana Parva of the Mahabharata, where the sage Markandeya relates it to Yudhishthira during the Pandavas' forest exile. According to the epic, she is the daughter of King Aswapati of Madra, who had prayed for years to the goddess Savitri and was granted a daughter. She chooses Satyavan, a prince living in the forest with his blind father. The sage Narada warns her that Satyavan will die in a year, yet she keeps to her choice. On the foretold day, Yama comes for Satyavan's soul and Savitri follows him. Her wise words win her boons, and by asking for children she makes Yama return her husband. The tale is the basis of Vat Savitri and Vat Purnima, observed by many married women in India. Sri Aurobindo retold it as a long poem, and filmmakers and composers have returned to it many times.",
+  "kidSummary": "Savitri is a brave and clever princess from the Mahabharata. The old story says she followed Yama, the god of death, and spoke so wisely that he gave her husband's life back. People remember her at Vat Savitri, when many walk around a banyan tree.",
+  "story": [
+    {
+      "title": "A princess who chooses",
+      "text": "Princess Savitri, the Mahabharata says, travelled to choose a husband for herself. She picked Satyavan, a kind prince living in a forest with his blind father and his mother."
+    },
+    {
+      "title": "A warning from Narada",
+      "text": "The sage Narada told her Satyavan had only one year left. Savitri kept her decision, married him and happily took on the simple life of the forest."
+    },
+    {
+      "title": "The fateful day",
+      "text": "As the day came, Savitri fasted for three days. When Satyavan went to cut wood, she went along, and he soon felt tired and rested his head on her lap."
+    },
+    {
+      "title": "Following Yama",
+      "text": "Yama, the god of death, came to take Satyavan's soul. Savitri followed him all the way, and her calm words pleased him so much that he offered her boons."
+    },
+    {
+      "title": "A clever final wish",
+      "text": "The boons she chose were her father-in-law's sight and kingdom, and sons for her father. Her last wish was for sons of her own, which Yama could keep only by returning Satyavan."
+    }
+  ],
+  "teaches": [
+    "Courage and kind words together can work wonders",
+    "Keep your promises and your focus",
+    "Love can be wise as well as strong"
+  ],
+  "symbol": "tree",
+  "emblems": ["Banyan tree", "Sacred thread", "Yellow thread (Karadaiyan Nonbu)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Satyavan",
+      "slug": "satyavan"
+    },
+    {
+      "relation": "Father",
+      "name": "King Aswapati"
+    },
+    {
+      "relation": "Father-in-law",
+      "name": "King Dyumatsena"
+    },
+    {
+      "relation": "Met",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Advised by",
+      "name": "Narada",
+      "slug": "narada"
+    },
+    {
+      "relation": "Narrator",
+      "name": "Markandeya",
+      "slug": "markandeya"
+    }
+  ],
+  "texts": ["Mahabharata, Vana Parva", "Savitri Brata Katha", "Savitri by Sri Aurobindo"],
+  "places": ["Madra kingdom", "Shalva forest hermitage"],
+  "festivals": ["Vat Purnima", "Vat Savitri", "Savitri Vrata (Odisha, Bihar)", "Karadaiyan Nonbu"],
+  "facts": [
+    {
+      "text": "Her father Aswapati, the Mahabharata says, did penance for eighteen years and made a hundred thousand offerings to the goddess Savitri. He asked for sons, but she promised a daughter, and he named the girl after the goddess.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Savitri chose her husband herself, riding out in a golden chariot with ministers instead of waiting in a swayamvara hall.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tellings differ on how the bargain ends. In the Vat Purnima legend, after her three wishes Yama sees the trap and offers one more boon with no limit, and Savitri at once asks for Satyavan's life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vat_Purnima",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On Vat Purnima women greet each other with a wish that the other may become a Savitri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vat_Purnima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India has made roughly 34 films of this story, including Dadasaheb Phalke's 1914 silent film, which drew complaints for showing Yama on a female buffalo.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Tamil film Roja (1992) retold the tale against the backdrop of Kashmir's unrest and was nominated at the 1993 Moscow International Film Festival.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sri Aurobindo's poem Savitri runs to nearly 24,000 lines, more than twice the length of Milton's Paradise Lost, and his followers treat it as scripture. Its earliest manuscripts date to 1916 and it was first published in 1950.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "King Vajiravudh of Thailand wrote a play on the tale in 1924, working from an English translation because he did not know Sanskrit.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Savitri wins her boons with words, not magic: she speaks in turn about dharma, the company of good people, compassion and the trust good people earn, and Yama praises each speech.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Gustav Holst turned the story into a one-act chamber opera with just three characters: Savitri, Satyavan and Death. In his ending she asks for life in all its fullness, then points out that this is impossible without her husband.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Three days before the date Narada had named, Savitri began a vow of fasting and stood day and night. Her father-in-law feared it was too harsh, but she said she had sworn to do it, and he supported her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholars see her last boon as the real trap: Yama allowed any gift except Satyavan's life, so she asked for a hundred children, which she could only have if her husband lived.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "As soon as she married, Savitri put away her jewellery and put on the bark clothes and red garment of a forest hermit.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Savitri glowed with so much energy that people took her for a celestial maiden, and no man dared to ask for her hand.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Indian poet Toru Dutt wrote an English ballad on Savitri, using the old tale to picture a woman who is educated, chooses her own husband and moves freely outside the women's quarters.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sister Nivedita retold the tale for young readers as Savitri: The Indian Alcestis, comparing it with the Greek story of Alcestis, who also faced death for a husband.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 1923 silent film of the story, also called Satyavan Savitri, was an Italian co-production made by Madan Theatres of India and the Italian company Cines.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 1933 Telugu film Sati Savitri was the first film made by the East India Film Company. It cost 75,000 rupees, earned an Honorary Certificate at the Venice Film Festival, and beat a rival Telugu film of the same story released days later.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In 2021, librettist Jaspreet Kaur and composer Sarah Sayeed wrote the opera Savitri (reimagined) as a reply to Holst, so that South Asian artists could take back her voice.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Same festival, two moons: in Bihar, Jharkhand and Odisha, Savitri Vrata is held on the new moon of Jyeshtha, while in western India it is Vat Purnima, held at the full moon. In both, women water a banyan tree and wind thread around it.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Aurobindo's poem, Yama is startled because nobody had ever walked so far toward his realm, and he gives way not only to her arguments but because her spiritual growth is shown to rise above his own.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Karadaiyan Nonbu in Tamil Nadu draws on Savitri's story: on the first day of Panguni, women wear a yellow thread, offer a sweet rice-flour and jaggery adai, and pray to the goddess Parvati for their husbands' long lives.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Karadaiyan_Nonbu",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which god of death did Savitri follow?",
+      "options": ["Indra", "Yama", "Kubera", "Agni"],
+      "answer": 1,
+      "why": "Yama came to take Satyavan's soul."
+    },
+    {
+      "q": "Around which tree do women walk at Vat Savitri?",
+      "options": ["Neem", "Mango", "Banyan", "Peepal"],
+      "answer": 2,
+      "why": "The banyan tree is the centre of Vat Savitri."
+    },
+    {
+      "q": "What was Savitri's first boon from Yama?",
+      "options": [
+        "Her father-in-law's sight",
+        "A magic horse",
+        "A golden chariot",
+        "A long journey"
+      ],
+      "answer": 0,
+      "why": "She first asked for the sight and strength of her blind father-in-law."
+    },
+    {
+      "q": "Which sage told Savitri about Satyavan's short life?",
+      "options": ["Narada", "Vasishtha", "Agastya", "Vyasa"],
+      "answer": 0,
+      "why": "Narada warned her about the one year."
+    },
+    {
+      "q": "Who retold the story as a 24,000-line poem?",
+      "options": ["Rabindranath Tagore", "Sri Aurobindo", "Tulsidas", "Kalidasa"],
+      "answer": 1,
+      "why": "Sri Aurobindo wrote Savitri: A Legend and a Symbol."
+    }
+  ],
+  "related": ["satyavan", "yama", "narada", "markandeya", "gayatri", "nachiketa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+    "vat_purnima": "https://en.wikipedia.org/wiki/Vat_Purnima",
+    "aurobindo_poem": "https://en.wikipedia.org/wiki/Savitri:_A_Legend_and_a_Symbol",
+    "holst_opera": "https://en.wikipedia.org/wiki/Savitri_(opera)",
+    "yama": "https://en.wikipedia.org/wiki/Yama",
+    "karadaiyan": "https://en.wikipedia.org/wiki/Karadaiyan_Nonbu"
+  },
+  "palette": {
+    "c1": "#F2B8C0",
+    "c2": "#F7E1C2"
+  },
+  "order": 40,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

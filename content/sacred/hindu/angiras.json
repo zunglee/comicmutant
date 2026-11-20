@@ -1,0 +1,267 @@
+{
+  "slug": "angiras",
+  "name": "Angiras",
+  "aka": ["Angira", "Angirasa"],
+  "native": "अङ्गिरस्",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Ancient Vedic sage and fire-priest, ancestor of the Angirasa clan",
+  "summary": "Angiras is a very early Vedic sage linked with fire-worship. Many Rigveda hymns are credited to his family, and the Atharvaveda carries the name Atharvangirasah.",
+  "about": "In the Rigveda, Angiras is a teacher of divine knowledge and a go-between for humans and gods, and some hymns call him the first of the Agni-devas. The hymns of his family, the Angirasas, fill much of the Rigveda. Some manuscripts call the Atharvaveda 'Atharvangirasah'. Texts differ on his parentage: some call him a son of Brahma, others one of the Prajapatis, and tellings give him one, two or four wives. In the Mundaka Upanishad he teaches the seeker Shaunaka. Scholars like Max Muller separated the sage, a group of Atharvaveda ritualists, and divine beings said to be sprung from coals. Puranic lists place him among the first age's seven sages but not the present one.",
+  "kidSummary": "Angiras is a sage from the very earliest Vedic times. Many hymns of the Rigveda were composed by his family, and he is linked with sacred fire. Different books give him different parents, but all say he was a wise teacher between humans and gods.",
+  "story": [
+    {
+      "title": "A sage of fire",
+      "text": "The Vedas picture Angiras as a seer close to the sacred fire, called the first of the Agni-devas. People believed he carried humans' prayers to the gods."
+    },
+    {
+      "title": "Turning inward",
+      "text": "A Puranic story says he turned his senses inward and meditated for many years on Para Brahman. By that meditation he reached the state of a Brahmarishi."
+    },
+    {
+      "title": "Mantras for the world",
+      "text": "Through his visions, tradition says, he saw many Vedic mantras and brought them down to the human world, along with the practice of fire-worship."
+    },
+    {
+      "title": "A big family of poets",
+      "text": "His descendants, called the Angirasas, composed hymns in many Rigveda books. The Bharadvaja family and others belong to this wider clan."
+    },
+    {
+      "title": "Opening the cave",
+      "text": "In the Rigveda, Indra, helped by the Angirasas, splits open the stone cave Vala. The hidden cows and the dawn come out into the light."
+    }
+  ],
+  "teaches": [
+    "Quiet meditation brings insight",
+    "Share knowledge you receive",
+    "Fire and light stand for wisdom"
+  ],
+  "symbol": "flame",
+  "emblems": ["Sacred fire", "Star Alioth in the Big Dipper"],
+  "family": [
+    {
+      "relation": "Son",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    },
+    {
+      "relation": "Descendant sage",
+      "name": "Bharadvaja",
+      "slug": "bharadvaja"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Dirghatamas"
+    },
+    {
+      "relation": "Father (in some tellings)",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": ["Rigveda", "Atharvaveda", "Mundaka Upanishad", "Chandogya Upanishad", "Vishnu Purana"],
+  "places": [],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Some Rigveda hymns call Angiras the first of the Agni-devas, the fire gods.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vedic texts describe divine Angirasas as 'sprung from coals', a nod to angara, the Sanskrit word for a glowing coal. It fits a clan tied so closely to fire.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Indian astronomy, the Big Dipper star Alioth (epsilon Ursae Majoris) is named for Angiras.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Saptarishi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some scholars identify Ghora of the Angiras family with Neminatha, the 22nd Jain Tirthankara.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Pali Tevijja Sutta the Buddha lists ten ancient sages who made the old verses, and Angirasa is one of them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mundaka Upanishad, the householder Shaunaka comes to Angiras with a question about knowledge. Angiras answers by sorting all learning into a lower kind, such as rites and grammar, and a higher kind that reaches the imperishable.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The line 'Satyameva Jayate' ('truth alone triumphs') is verse 3.1.6 of the Mundaka Upanishad, the text framed as Angiras teaching Shaunaka. It is India's national motto.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In the Chandogya Upanishad (3.17), the teacher Ghora Angirasa instructs a student called Krishna Devakiputra, 'Krishna, son of Devaki'. Scholars debate whether this is the Krishna of the epics.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Rigveda, Indra, helped by the Angirasas, splits open the stone cave Vala, where the Panis had hidden the cows and the dawn, and sets them free.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vala_(Vedic)",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Rigveda hymn 2.24 retells the cave story as a prayer: here Brahmanaspati, lord of prayer, splits open the cave with a sacred prayer instead of a thunderbolt.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vala_(Vedic)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Angiras's son Brihaspati is the guru of the devas, and the Hindu name for Thursday comes from his name.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mundaka Upanishad 3.1.1-2 pictures two birds on one tree: one eats the sweet fruit while the other only watches, and sorrow fades when the first bird sees the calm one.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Mundaka Upanishad 2.2.3-4 says Om is the bow, the Self is the arrow and Brahman is the target, so the seeker should become one with the mark.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Puranic tellings give Angiras different wives: Surupa, mother of Utathya, Samvartana and Brihaspati; Smriti, then Svadha; or Shubha, whose seven daughters are named for aspects of fire.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One tradition says Angiras meditated for years on Para Brahman until his inner glow grew without limit and he became a Brahmarishi. He is also believed to have introduced fire-worship, together with Bhrigu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mundaka Upanishad traces its knowledge through a chain: Brahma taught Atharva, Atharva taught Angira, and Angira taught Satyavaha Bharadvaja, who passed it to Angiras, the teacher of Shaunaka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mundaka Upanishad has 64 verses written as mantras. They are not used in rituals but for teaching and meditation on spiritual knowledge.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Angirasa sub-clans composed whole Rigveda books: the Shunahotras Book 2, the Gotamas Book 4 and the Bharadvajas Book 6. The Angirases' own hymns are mainly in Books 1 and 8.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His grandson Dirghatamas, whose name means 'long darkness' because he was born blind, composed Rigveda hymns 1.140 to 1.164, and the Gotama family descends from him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dirghatamas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chandogya Upanishad 3.17 pictures life as a festival whose gifts are goodness: non-violence, truthfulness and charity. It is called one of the earliest statements of ahimsa, and its teacher is Ghora Angirasa.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
+      "interest": 9,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "The name Atharvangirasah joins Atharvan with which sage?",
+      "options": ["Atri", "Bhrigu", "Angiras", "Kashyapa"],
+      "answer": 2,
+      "why": "Some manuscripts call the Atharvaveda by this joined name."
+    },
+    {
+      "q": "Which sage is a son of Angiras in some tellings?",
+      "options": ["Narada", "Brihaspati", "Vyasa", "Valmiki"],
+      "answer": 1,
+      "why": "Brihaspati is his son in some stories."
+    },
+    {
+      "q": "Which Big Dipper star is named for Angiras?",
+      "options": ["Dubhe", "Merak", "Alioth", "Polaris"],
+      "answer": 2,
+      "why": "Alioth is Angiras."
+    },
+    {
+      "q": "Which Rigveda book was composed by the Bharadvaja branch of the Angirasas?",
+      "options": ["Book 2", "Book 4", "Book 6", "Book 10"],
+      "answer": 2,
+      "why": "The Bharadvajas, an Angirasa clan, composed Book 6."
+    },
+    {
+      "q": "Which Upanishad, framed as Angiras teaching Shaunaka, holds India's motto?",
+      "options": ["Isha", "Kena", "Mundaka", "Katha"],
+      "answer": 2,
+      "why": "Satyameva Jayate comes from verse 3.1.6 of the Mundaka Upanishad."
+    }
+  ],
+  "related": [
+    "brihaspati",
+    "bharadvaja",
+    "atri",
+    "kashyapa",
+    "vasishtha",
+    "dadhichi",
+    "agni",
+    "bhrigu",
+    "gautama-maharishi",
+    "brahma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Angiras_(sage)",
+    "saptarishi": "https://en.wikipedia.org/wiki/Saptarishi",
+    "bharadvaja": "https://en.wikipedia.org/wiki/Bharadwaja",
+    "mundaka": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+    "chandogya": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
+    "kardama": "https://en.wikipedia.org/wiki/Kardama",
+    "vala": "https://en.wikipedia.org/wiki/Vala_(Vedic)",
+    "brihaspati": "https://en.wikipedia.org/wiki/Brihaspati",
+    "dirghatamas": "https://en.wikipedia.org/wiki/Dirghatamas"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f5d9c2",
+    "c2": "#e7b999"
+  }
+}

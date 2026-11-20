@@ -1,0 +1,198 @@
+{
+  "slug": "brahmi-and-sundari",
+  "name": "Brahmi and Sundari",
+  "aka": ["Brahmi", "Sundari", "Mahasatis"],
+  "native": "ब्राह्मी और सुंदरी",
+  "role": "Daughters of Rishabhanatha, linked to writing and numbers",
+  "summary": "Jains remember Brahmi and Sundari as the daughters of the first Tirthankara. Brahmi is linked with writing, and Sundari with the science of numbers.",
+  "about": "Jain tradition holds that Brahmi and Sundari were daughters of Rishabhanatha, the first Tirthankara, and sisters of Bharata and Bahubali. Jain texts say their father taught Brahmi the alphabets and writing, and Sundari arithmetic. The ancient Brahmi script is said in Jain tradition to be named after Brahmi, and early Jain texts such as the Panavana and Samavayanga place it first among eighteen scripts. They are honoured as Mahasatis and became disciples of their father. Many retellings say they helped Bahubali lose his pride and reach omniscience. A story of Sundari tells how she kept a long simple-food fast until her brother Bharata let her become a nun. Accounts differ on some family details, such as the number of siblings.",
+  "kidSummary": "Brahmi and Sundari were the daughters of the first Tirthankara. Jain stories say their father taught Brahmi to write and Sundari to count. Later they helped their brother Bahubali understand what was holding him back.",
+  "story": [
+    {
+      "title": "Two clever daughters",
+      "text": "Jain stories say Brahmi and Sundari were the daughters of Rishabhanatha, who was king before he became the first Tirthankara."
+    },
+    {
+      "title": "Letters and numbers",
+      "text": "Their father is said to have taught Brahmi to write in many alphabets and Sundari to work with numbers."
+    },
+    {
+      "title": "A gift to the world",
+      "text": "Because of this, an early Indian script is called Brahmi, and the sisters are remembered as the first teachers of writing and counting."
+    },
+    {
+      "title": "A brother standing still",
+      "text": "Their brother Bahubali was meditating but still could not reach full understanding."
+    },
+    {
+      "title": "The elephant of pride",
+      "text": "In a popular retelling, the sisters asked him to climb down from his elephant. He realised they meant his pride and found peace."
+    }
+  ],
+  "teaches": [
+    "Learning is a gift to share",
+    "Women as teachers and leaders",
+    "Humility opens the way"
+  ],
+  "symbol": "book",
+  "emblems": ["Writing (lipi)", "Numbers", "Mahasatis"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Rishabhanatha",
+      "slug": "rishabhanatha"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bharata",
+      "slug": "bharata-chakravartin"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bahubali",
+      "slug": "bahubali"
+    },
+    {
+      "relation": "Mother of Brahmi",
+      "name": "Sumangala"
+    },
+    {
+      "relation": "Mother of Sundari",
+      "name": "Sunanda"
+    }
+  ],
+  "texts": [
+    "Adipurana",
+    "Panavana Sutra",
+    "Samavayanga Sutra",
+    "Trishashti Shalaka Purusha Charitra"
+  ],
+  "places": ["Ayodhya", "Mount Ashtapada"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Jain texts say Rishabhanatha taught Brahmi the writing systems and Sundari the science of numbers, known as Ank-Vidya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "An article in the Jain Journal says Rishabha taught script to Brahmi with his right hand and mathematics to Sundari with his left.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/29",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Jain lists of eighteen scripts put Brahmi first and Kharoshthi fourth. They also name a script called Javanaliya, which scholars think is probably Greek.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brahmi_script",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One survey counted 198 scripts that ultimately come from Brahmi, including many used in South and Southeast Asia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brahmi_script",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Brahmi became the first Jain nun. Rishabha initiated her after Bharata, as head of the family, gave his permission. The two sisters later led the order of nuns together.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/brahmi-and-sundari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sundari asked her brother Bahubali for leave to renounce and he agreed, but Bharata, as head of the family, also had to agree. He refused, so for a time she lived as the first Jain lay woman.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/brahmi-and-sundari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Bharata admitted he had held her back too long and gave leave. Though thin from her fast, she was so happy she no longer looked thin. Rishabha initiated her on Mount Ashtapada.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vasudevahindi, an early Prakrit telling, has each sister born as a twin: Brahmi with Bharata, and Sundari with Bahubali. The article links this to the early-age custom of children being born in pairs.",
+      "kind": "family",
+      "source": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/28",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Bharata came back after sixty thousand years away and was shocked to see Sundari so thin. He angrily asked his ministers if the palace had run out of food. They said she had lived on dry ayambil meals since he left.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's account, Sundari dressed in white with bright jewels for her initiation. Beside her even Subhadra, Bharata's queen and woman-jewel, looked like a servant.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Rishabha's assembly on Mount Ashtapada, Hemachandra has Sundari say she had held back from the vow out of regard for Bharata and felt she had fooled herself for too long. She asked him to lead her.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In early Jain lists of eighteen scripts, which script comes first?",
+      "options": ["Kharoshthi", "Brahmi", "Javanaliya", "Devanagari"],
+      "answer": 1,
+      "why": "Brahmi is first on the list and Kharoshthi is fourth."
+    },
+    {
+      "q": "What did Rishabhanatha teach Sundari, according to Jain texts?",
+      "options": ["Dance", "Numbers", "Farming", "Archery"],
+      "answer": 1,
+      "why": "Sundari is linked with the science of numbers."
+    },
+    {
+      "q": "In one well-known telling, which sister became the first Jain laywoman?",
+      "options": ["Brahmi", "Sundari", "Chandanbala", "Rajimati"],
+      "answer": 1,
+      "why": "Bharata refused Sundari's wish to renounce, so she became the first laywoman. Later he agreed."
+    },
+    {
+      "q": "In one story, what do the sisters ask Bahubali to climb down from?",
+      "options": ["A horse", "An elephant", "A boat", "A cart"],
+      "answer": 1,
+      "why": "The elephant stands for his pride."
+    }
+  ],
+  "related": ["rishabhanatha", "bahubali", "bharata-chakravartin"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rishabhanatha",
+    "jain_journal": "https://jainqq.org/pagetext/Jain_Journal_1982_10/520068/32",
+    "brahmi_script": "https://en.wikipedia.org/wiki/Brahmi_script",
+    "retelling": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+    "bahubali": "https://en.wikipedia.org/wiki/Bahubali",
+    "jainpedia": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/brahmi-and-sundari",
+    "mahasatis": "https://jainqq.org/pagetext/ISJS_Jainism_Study_Notes_E5_Vol_01/007711/199",
+    "jainjournal1981": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/29",
+    "hemachandraSundari": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+    "vasudevahindi": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/28"
+  },
+  "palette": {
+    "c1": "#d4e3c9",
+    "c2": "#e6d2a8"
+  },
+  "order": 606,
+  "tradition": "jain",
+  "group": "jain-figure",
+  "depth": "compact"
+}

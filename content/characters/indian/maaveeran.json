@@ -1,0 +1,307 @@
+{
+  "slug": "maaveeran",
+  "name": "Maaveeran",
+  "realName": "Sathya",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Shanti Talkies",
+  "summary": "Sathya, a timid newspaper cartoonist in Chennai, who gets a mysterious voice from his own comic strip and finds the courage to confront a corrupt minister in the 2023 Tamil film.",
+  "origin": "Sathya draws a comic strip called Maaveeran for a Tamil newspaper. When his family is moved into a poorly built government high-rise, a tragedy and a head injury leave him hearing a voice like the strip's narrator. It pushes him to stand against the corrupt Housing Minister M. N. Jeyakodi.",
+  "creators": [
+    "Madonne Ashwin (writer and director)",
+    "Chandhru Anbazhagan (dialogues)",
+    "Arun Viswa (producer)"
+  ],
+  "firstAppearance": {
+    "title": "Maaveeran",
+    "year": 2023
+  },
+  "powers": [
+    "Hears a guiding inner voice drawn from his own comic",
+    "Rapid reflexes after surviving a near-death fall",
+    "A cartoonist's imagination used to outwit an enemy"
+  ],
+  "affiliations": ["Dhina Thee newspaper (workplace)"],
+  "storyline": [
+    {
+      "era": "Setup",
+      "years": "2023",
+      "title": "A cowardly cartoonist",
+      "beat": "Sathya draws a comic strip for a newspaper but avoids confrontation, even when a coworker takes credit for his work."
+    },
+    {
+      "era": "Turn",
+      "years": "2023",
+      "title": "A voice from the comic",
+      "beat": "After a fall and a head injury, Sathya begins hearing a narrator like the one in his strip, guiding him against a corrupt minister."
+    },
+    {
+      "era": "Climax",
+      "years": "2023",
+      "title": "The building and the strip",
+      "beat": "Sathya persuades residents to evacuate a failing high-rise, which collapses with him inside. He survives, deafened but with sharper reflexes."
+    },
+    {
+      "era": "Epilogue",
+      "years": "Two years on",
+      "title": "After the collapse",
+      "beat": "A new government rebuilds the housing complex, and the voice returns to Sathya."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Maaveeran's release date moved from 11 August to 14 July 2023 to avoid a clash with Jailer.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Mysskin, who directed Mugamoodi, plays the villain minister in this film.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Reports of creative differences paused filming, but Wikipedia says heavy rain was the actual reason.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Vijay Sethupathi's inner voice was reportedly given without a fee, and Ravi Teja voiced the Telugu version.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Kiara Advani was reported as the heroine before Aditi Shankar was announced.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Sathya's job in Maaveeran?",
+      "options": ["Comic strip artist", "Police officer", "Contractor", "Reporter"],
+      "answer": 0,
+      "why": "Sathya draws a Maaveeran comic strip for a Tamil newspaper."
+    },
+    {
+      "q": "Who voiced the inner voice in the Tamil version?",
+      "options": ["Vijay Sethupathi", "Karthi", "Yogi Babu", "Mysskin"],
+      "answer": 0,
+      "why": "Vijay Sethupathi voiced the narrator in Tamil, reportedly for no fee."
+    },
+    {
+      "q": "Which big film's clash did the release shift avoid?",
+      "options": ["Jailer", "Leo", "Vikram", "Beast"],
+      "answer": 0,
+      "why": "The date moved from 11 August to 14 July 2023 to avoid Jailer."
+    },
+    {
+      "q": "Who directed Maaveeran?",
+      "options": ["Madonne Ashwin", "Mysskin", "Lokesh Kanagaraj", "Nelson"],
+      "answer": 0,
+      "why": "Madonne Ashwin, who earlier made Mandela, wrote and directed it."
+    },
+    {
+      "q": "Who plays Sathya in Maaveeran?",
+      "options": ["Sivakarthikeyan", "Dhanush", "Karthi", "Yogi Babu"],
+      "answer": 0,
+      "why": "Sivakarthikeyan plays the cartoonist Sathya in the title role."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e65100",
+      "c2": "#1a1a2e",
+      "c3": "#fdd835"
+    },
+    "motif": "mind",
+    "mood": "dark",
+    "tagline": "A cartoonist, a voice and a crumbling tower."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+    "thenewsminute": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+    "filmcompanion": "https://www.filmcompanion.in/interviews/tamil-interview/madonne-ashwin-on-maaveeran-climax-the-idea-was-not-clearly-conveyed-sivakarthikeyan-aditi-shankar-mandela-yogi-babu-netflix",
+    "mugamoodi": "https://en.wikipedia.org/wiki/Mugamoodi"
+  },
+  "timeline": [
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "First single released",
+      "note": "Scene Ah Scene Ah drops on 17 February 2023, Sivakarthikeyan's birthday."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Filming wraps",
+      "note": "Principal photography finishes by 3 June 2023 after shoots in Chennai and Pondicherry."
+    },
+    {
+      "year": 2023,
+      "kind": "debut",
+      "title": "Theatrical release",
+      "note": "The film opens in cinemas on 14 July 2023 in Tamil, moved up from August to avoid a clash with Jailer."
+    },
+    {
+      "year": 2023,
+      "kind": "screen",
+      "title": "Streaming on Prime Video",
+      "note": "Amazon Prime Video begins streaming the film on 11 August 2023 in Tamil, Telugu and Hindi."
+    }
+  ],
+  "heat": 60,
+  "facts": [
+    {
+      "text": "The hero never wears a costume. Sathya draws a newspaper comic strip called Maaveeran, and after an accident a voice from that strip starts guiding him in real life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 9
+    },
+    {
+      "text": "Vijay Sethupathi voiced the inner narrator in Tamil, reportedly without charging a fee. Ravi Teja voiced it in the Telugu dub.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "The voice is not only friendly. Wikipedia says it tries to push Sathya toward killing a corrupt minister, which makes it a stranger kind of superhero helper.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "In the collapse, the building's own sign falls on the villainous minister, so the shoddy tower he praised ends up playing a part in his downfall.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Sathya survives the collapse under the rubble but is left permanently deaf. His reflexes grow sharper, and the mysterious voice returns, so his strange power outlasts the disaster.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "Sathya is so timid that he lets a colleague at the newspaper take credit for his own Maaveeran strip, which makes his later stand more striking.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mysskin, who directed the 2012 Tamil superhero film Mugamoodi, plays the corrupt Housing Minister here, so a superhero-film director turns villain.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mugamoodi",
+      "interest": 8
+    },
+    {
+      "text": "Director Madonne Ashwin's debut Mandela took about 10 years to get signed, and he wrote 12 script drafts and 9 treatment drafts for it.",
+      "kind": "creator",
+      "source": "https://www.filmcompanion.in/interviews/tamil-interview/madonne-ashwin-on-maaveeran-climax-the-idea-was-not-clearly-conveyed-sivakarthikeyan-aditi-shankar-mandela-yogi-babu-netflix",
+      "interest": 7
+    },
+    {
+      "text": "In the film, Sathya's condition turns critical in hospital and he seems to die, yet he suddenly wakes up unharmed and now hears the narrator-like voice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Director Ashwin compared Sathya's inner struggle, a man who keeps denying he must fight for his people, to breaking the fourth wall, naming Stranger than Fiction and Ober (both 2006).",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "Hollywood stunt director Yannick Ben choreographed the film's major action schedule, which finished shooting on 10 December 2022.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Yogi Babu plays a construction worker who pretends to speak Hindi to get jobs. Ashwin says he wants to give Yogi Babu dignified roles, as he did in Mandela.",
+      "kind": "screen",
+      "source": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+      "interest": 7
+    },
+    {
+      "text": "Ashwin's debut Mandela won two National Awards, Best Debut Film and Best Dialogue. He wrote it alone, and he treated Maaveeran as a second debut to ease sophomore pressure.",
+      "kind": "creator",
+      "source": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+      "interest": 7
+    },
+    {
+      "text": "Saritha, who plays Sathya's mother Eshwari, was living in Dubai when the team approached her. Producer Arun Viswa suggested her, and she agreed after watching Mandela and hearing the story.",
+      "kind": "screen",
+      "source": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+      "interest": 7
+    },
+    {
+      "text": "The end credits list the works that inspired the film. Ashwin said he would have felt terrible about not crediting them.",
+      "kind": "creator",
+      "source": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+      "interest": 7
+    },
+    {
+      "text": "Nila, a journalist and sub-editor at the paper, takes a stand on the timid Sathya's behalf, and the two later fall in love.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Late in the film the voice falls silent, saying Sathya betrayed his family. He then has to write his own story, and in the final fight he beats the minister's henchmen without its help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "Three cast firsts: Monisha Blessy made her acting debut, Sunil his full Tamil debut, and Saritha returned after ten years. It was Yogi Babu and Sivakarthikeyan's eighth film together.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Filming paused for a week after a month. Reports blamed creative differences between Sivakarthikeyan and Ashwin, but Wikipedia says heavy rain was the real reason.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 7
+    },
+    {
+      "text": "Maaveeran was first set for 11 August 2023, but moved to 14 July to avoid Jailer. Its Prime Video streaming debut, on 11 August, landed on the original theatre date.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Maaveeran_(2023_film)",
+      "interest": 8
+    },
+    {
+      "text": "Ashwin says Sivakarthikeyan had a gut feeling that playing a timid, un-hero-like man would work, and he went with the unusual casting.",
+      "kind": "creator",
+      "source": "https://www.thenewsminute.com/article/interview-maaveeran-director-cinematic-choices-need-criticism-and-yogi-babu-180289",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Maaveeran is a Tamil film about Sathya, a shy cartoonist who draws a brave comic hero called Maaveeran. After a bad accident he starts hearing a narrator-like voice that helps him find courage to speak up about a badly built apartment tower. It has fights and scary moments, so it suits older kids.",
+  "story": [
+    {
+      "title": "A shy cartoonist",
+      "text": "Sathya draws the comic strip Maaveeran for a newspaper, but in real life he avoids trouble and even lets a colleague take the credit."
+    },
+    {
+      "title": "A shaky new home",
+      "text": "His family is moved into a new government high-rise that turns out to be badly built, with cracking walls and broken doors."
+    },
+    {
+      "title": "An accident and a voice",
+      "text": "After an accident and a head injury, Sathya begins to hear a voice like the narrator of his comic."
+    },
+    {
+      "title": "Finding courage",
+      "text": "The voice pushes him to stand up to the corrupt minister behind the shoddy building, and in the end he must act without it."
+    },
+    {
+      "title": "The tower falls",
+      "text": "Sathya gets the residents out just before the tower collapses. He survives, deaf but with sharper reflexes, and the voice returns."
+    }
+  ]
+}

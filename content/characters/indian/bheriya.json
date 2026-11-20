@@ -1,0 +1,327 @@
+{
+  "slug": "bheriya",
+  "name": "Bheriya",
+  "realName": "Kobi (the wolf-prince half)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' wolf-man guardian of an Assam forest, a wolf-prince split into two personalities, wild Kobi and wise Bheriya, created by artist Dheeraj Verma.",
+  "origin": "In the comics, a wolf-prince named Kobi was cursed into a golden statuette by his human mother. The spell broke in the forests of Assam, where he took the name Bheriya and became the forest's protector, revered by locals as a Wolf God. His guru Bhatiki later split him into two personalities, wild Kobi and wiser, gentler Bheriya.",
+  "creators": ["Dheeraj Verma"],
+  "firstAppearance": {
+    "title": "Bheria Aaya",
+    "year": 1994
+  },
+  "powers": [
+    "Tail that stretches into a weapon",
+    "Mace summoned through the wolf gods",
+    "Millions of wolves answer his call",
+    "Master of ancient combat techniques",
+    "Slow healing",
+    "Power drawn from divine ornaments"
+  ],
+  "affiliations": ["Brahmand Rakshak"],
+  "storyline": [
+    {
+      "era": "Wolfano",
+      "years": "Backstory",
+      "title": "The wolf kingdom",
+      "beat": "In the comics, wolf-warriors rule Wolfano until a rival king destroys it and the priest Bhatiki saves the young prince Kobi."
+    },
+    {
+      "era": "Curse",
+      "years": "Backstory",
+      "title": "The golden statuette",
+      "beat": "Kobi goes to reclaim his human mother, who instead curses him into a golden statuette that stays frozen for ages."
+    },
+    {
+      "era": "Awakening",
+      "years": "1990s",
+      "title": "Assam forest guardian",
+      "beat": "The curse breaks in Assam, and Kobi takes the name Bheriya and becomes the forest's protector."
+    },
+    {
+      "era": "Split",
+      "years": "1990s",
+      "title": "Two personalities",
+      "beat": "Bhatiki divides him into wild Kobi and wise Bheriya, but the plan to send Kobi home fails."
+    },
+    {
+      "era": "Love",
+      "years": "Later series",
+      "title": "Amar Prem",
+      "beat": "The Amar Prem line follows Bheriya, Kobi and the former spy Jane, who hopes the two personalities can be joined back into one."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Two sources call Kobi aur Bheriya India's first digitally coloured comic, but Verma's biography puts digital colour a year earlier, in 1996.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Bheriya's creator Dheeraj Verma drew the Wolf God and later drew Marvel's Iron Man covers and Lady Death.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The debut year appears as 1993, 1994 and 1996 depending on the page you read.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Kobi summons a mace through the wolf gods while millions of wolves gather around him.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Bheriya and Kobi are two separate wolves who never meet.",
+      "spice": 2,
+      "truth": "In the comics they are two personalities of one wolf-prince, split by his guru Bhatiki."
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which region's forest does Bheriya live?",
+      "options": ["Assam", "Kerala", "Rajasthan", "Goa"],
+      "answer": 0,
+      "why": "He guards a forest in Assam."
+    },
+    {
+      "q": "Who created Bheriya?",
+      "options": ["Dheeraj Verma", "Stan Lee", "Pratap Mullick", "Anupam Sinha"],
+      "answer": 0,
+      "why": "Dheeraj Verma created him for Raj Comics."
+    },
+    {
+      "q": "What was the wolf kingdom of his past called?",
+      "options": ["Wolfano", "Ashwlok", "Parilok", "Vikasnagar"],
+      "answer": 0,
+      "why": "Kobi's ancestors ruled the kingdom of Wolfano."
+    },
+    {
+      "q": "Who split Kobi and Bheriya into two personalities?",
+      "options": ["Guru Bhatiki", "Fuzobaba", "Survaiya", "Konkan"],
+      "answer": 0,
+      "why": "The priest Guru Bhatiki divided them."
+    },
+    {
+      "q": "Who is the former French spy who loves Bheriya?",
+      "options": ["Jane", "Mansi", "Turin", "Ghodilekha"],
+      "answer": 0,
+      "why": "Jane is a former spy who fell for him in Assam."
+    },
+    {
+      "q": "What did the curse turn Kobi into?",
+      "options": ["A golden statue", "A tall tree", "A stone wolf", "A silver bell"],
+      "answer": 0,
+      "why": "His mother cursed him into a golden statuette that stayed still for ages."
+    }
+  ],
+  "rivals": [],
+  "allies": ["nagraj", "super-commando-dhruva", "doga", "parmanu", "bhokal"],
+  "theme": {
+    "palette": {
+      "c1": "#1b5e20",
+      "c2": "#ffca28",
+      "c3": "#b0bec5"
+    },
+    "motif": "claw",
+    "mood": "dark",
+    "tagline": "A wolf-prince guards the Assam forest."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "indianetzone": "https://www.indianetzone.com/57/bheriya.htm",
+    "alchetron": "https://alchetron.com/Bheriya",
+    "dheeraj-verma-wikipedia": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+    "raj-comics-site": "https://rajcomics.net/about",
+    "comicsbyte": "https://comicsbyte.com/category/raj-comics/ashwaraj"
+  },
+  "timeline": [
+    {
+      "year": 1994,
+      "kind": "debut",
+      "title": "Bheria Aaya",
+      "note": "Verma's Wikipedia biography lists this as the first issue, in 1994; Indianetzone and Alchetron say Verma created the wolf-man in December 1993, and Alchetron's infobox says 1996."
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Digital colour arrives",
+      "note": "Verma's biography dates digital colouring to this year, via a Parmanu cover and Bheria's Digest."
+    },
+    {
+      "year": 1997,
+      "kind": "comic",
+      "title": "Kobi aur Bheriya",
+      "note": "Two sources call this issue India's first digitally coloured comic book."
+    },
+    {
+      "year": 2013,
+      "kind": "return",
+      "title": "Verma returns",
+      "note": "After about a decade away, Verma came back to Raj Comics in January 2013 with the Bheria title Jaljeevni."
+    },
+    {
+      "year": 2021,
+      "kind": "legacy",
+      "title": "Verma passes away",
+      "note": "Creator Dheeraj Verma dies in Delhi on 7 June 2021, aged 53, according to his Wikipedia biography."
+    }
+  ],
+  "heat": 38,
+  "facts": [
+    {
+      "text": "Kobi, the wolf half, marries Jane, and that marriage is why he cannot leave the Assam jungle and return to Wolfano as his guru Bhatiki had planned.",
+      "kind": "story",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 7
+    },
+    {
+      "text": "The tribes of the Assam forest worship him as their Wolf God, and he also carries the fierce nickname Jungle ka Jallad, which means the jungle's executioner.",
+      "kind": "story",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 8
+    },
+    {
+      "text": "In the comics, about fifty thousand years ago, upright warrior wolves ruled Wolfano, and its king Wolfa tricked a human princess named Survaiya into marriage.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/57/bheriya.htm",
+      "interest": 8
+    },
+    {
+      "text": "Kobi was cursed into a golden statue by his mother Survaiya, and about fifty thousand years later the spell lifted in an Assam jungle.",
+      "kind": "origin",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 9
+    },
+    {
+      "text": "Kobi can stretch his tail into a weapon, and in a crisis he calls the wolf gods, so a mace appears in his hand when he cries out for help, madad.",
+      "kind": "powers",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 9
+    },
+    {
+      "text": "All of Kobi's powers are said to flow from three divine ornaments, a necklace, two bracelets and a belt with a wolf face that heals him, but only slowly.",
+      "kind": "powers",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 8
+    },
+    {
+      "text": "Jane, a former French spy, fell for Bheriya in Assam and has rescued him more than once. She believes Kobi and Bheriya share one soul and wants them reunited.",
+      "kind": "story",
+      "source": "https://www.indianetzone.com/57/bheriya.htm",
+      "interest": 7
+    },
+    {
+      "text": "Fuzobaba, once a criminal named Fajihat Singh, now heals animals and talks to them. Bheriya respects him, but wild Kobi dismisses him as a buddha-thuddha.",
+      "kind": "story",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 7
+    },
+    {
+      "text": "In two Amar Prem comics, Bheriya helps Bhokal search for his beloved Tureen, which links two Raj Comics forest guardians together.",
+      "kind": "story",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 7
+    },
+    {
+      "text": "The 1997 issue Kobi aur Bheriya is described as India's first digitally coloured comic book.",
+      "kind": "record",
+      "source": "https://www.indianetzone.com/bheriya",
+      "interest": 8
+    },
+    {
+      "text": "Dheeraj Verma died on 7 June 2021 in Delhi at the age of 53; he is often described as the first Indian to enter the US comics industry, and he painted covers for Marvel's Iron Man.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia's Raj Comics page lists Bheriya among the members of Brahmand Rakshak, the Protectors of the Universe, and in the Mai Hu Bheriya series he teams up with Nagraj, Super Commando Dhruva, Doga and Parmanu.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    },
+    {
+      "text": "Dheeraj Verma's works list on Wikipedia numbers the Bheria series up to 116 titles, which shows how long the wolf-man kept running.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 7
+    },
+    {
+      "text": "Alchetron tags the Amar Prem storyline with the line Kaanton Bhara Antaheen Safar, roughly a thorn-filled journey with no end, and lists 18 issues of it.",
+      "kind": "publishing",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 8
+    },
+    {
+      "text": "Kobi's wolf followers do not only fight beside him: Alchetron says they treat him as a god and worship him.",
+      "kind": "story",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 8
+    },
+    {
+      "text": "Kobi, the wild half, is listed at 138 kg, heavier than the 122 kg human-form Bheriya, while the original combined hero is given 154 kg in Alchetron's stat sheet.",
+      "kind": "powers",
+      "source": "https://alchetron.com/Bheriya",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia says Verma joined Raj Comics in December 1993, left in April 2000 for a games company, Escosoft Tech, and returned to Indian comics only in 2013; Alchetron describes just a short break in 2000 to 2001, so the pages disagree.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 8
+    },
+    {
+      "text": "In 2015 Verma showed original pages from Transformers and Lady Death at a week-long exhibition at the Lalit Kala Akademi in Delhi.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia credits Verma with bringing digital colouring to Indian comics in 1996, starting with a Parmanu cover, a year before the issue now billed as the first digitally coloured comic, Kobi aur Bheriya.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 8
+    },
+    {
+      "text": "Verma began working for the US publisher Avatar Press in 2004; Wikipedia's text says up to 14 Lady Death issues, though its own works list shows only nine.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 7
+    },
+    {
+      "text": "Nobody agrees on when Bheriya first appeared: Verma created him in 1993, Wikipedia lists the first issue Bheria Aaya in 1994, and Alchetron's infobox says 1996.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Dheeraj_Verma",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Bheriya is a wolf-man from Raj Comics who guards a forest in Assam. A long time ago he was a wolf-prince named Kobi, and a spell turned him into a golden statue. When it broke, he woke up and became the forest's protector. His teacher later split him into two halves, a wild one and a wise one, and his friend Jane hopes they can be one again.",
+  "story": [
+    {
+      "title": "The wolf kingdom",
+      "text": "Long ago the wolf-warriors of Wolfano live as proud upright fighters, until a human king destroys their land and the priest Bhatiki saves the young prince Kobi."
+    },
+    {
+      "title": "The curse",
+      "text": "Grown up, Kobi goes to find his human mother, but she curses him into a golden statue that stays still for ages."
+    },
+    {
+      "title": "Waking in Assam",
+      "text": "In the forests of Assam the curse breaks. Kobi takes the name Bheriya, and local people begin to treat him as a wolf god who protects the forest."
+    },
+    {
+      "title": "Two halves",
+      "text": "Bhatiki splits him into wild Kobi and wise Bheriya, hoping to send Kobi home to Wolfano, but the plan does not work."
+    },
+    {
+      "title": "Jane",
+      "text": "Jane, a former spy, wants the two halves to join back into one. Their story continues in the Amar Prem comics."
+    }
+  ]
+}

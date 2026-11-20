@@ -144,10 +144,10 @@ export function CharacterCard({
       <Link
         to={href ?? `/c/${c.slug}`}
         style={style}
-        className="group panel relative block overflow-hidden transition-transform duration-200 hover:-translate-y-1 hover:-rotate-1 hover:shadow-ink-lg focus-visible:-translate-y-1"
+        className="group panel relative block overflow-hidden transition-transform duration-skin-base hover:-translate-y-1 hover:tilt-skin-1 hover:shadow-ink-lg focus-visible:-translate-y-1"
       >
         <div
-          className="relative aspect-[4/5] overflow-hidden border-line border-b-[3px]"
+          className="relative aspect-[4/5] overflow-hidden border-line border-b-skin"
           style={{ background: c.palette.c2 }}
         >
           {c.photo ? (
@@ -235,7 +235,7 @@ export function SectionHead({
 export function ScratchCard({
   label,
   children,
-  foil = '#c0c0c8',
+  foil = '#c0c0c8', // token-ok: canvas fill
   className = '',
 }: {
   label: string;
@@ -255,10 +255,10 @@ export function ScratchCard({
     if (!ctx) return;
     ctx.fillStyle = foil;
     ctx.fillRect(0, 0, c.width, c.height);
-    ctx.fillStyle = '#ffffff55';
+    ctx.fillStyle = '#ffffff55'; // token-ok: canvas
     for (let i = 0; i < c.width; i += 6) ctx.fillRect(i, 0, 2, c.height);
     ctx.font = '28px Bangers, Impact, sans-serif';
-    ctx.fillStyle = '#16120e';
+    ctx.fillStyle = '#16120e'; // token-ok: canvas
     ctx.textAlign = 'center';
     ctx.textBaseline = 'middle';
     ctx.fillText('SCRATCH ME!', c.width / 2, c.height / 2);
@@ -387,7 +387,7 @@ export function VoteBar({ a, b, ca, cb }: { a: number; b: number; ca: string; cb
   return (
     <div>
       <div
-        className="flex h-9 overflow-hidden rounded-md border-[3px] border-line"
+        className="flex h-9 overflow-hidden rounded-skin-s border-skin border-line"
         role="img"
         aria-label={`${pa}% to ${100 - pa}%`}
       >

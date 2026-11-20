@@ -1,0 +1,248 @@
+{
+  "slug": "vidura",
+  "name": "Vidura",
+  "aka": ["Kshatta", "Dharmaraja (title)", "Vidura the Wise"],
+  "native": "विदुर",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Wise minister of Hastinapura and honest adviser in the Mahabharata",
+  "summary": "In the Mahabharata, Vidura is the clear-sighted half-brother of Dhritarashtra and Pandu, remembered for giving fair advice to a court that rarely wanted to hear it.",
+  "about": "In the Mahabharata, Vidura is born to a palace maid, Parishrami, after the sage Vyasa fathered him, which makes him half-brother to Dhritarashtra and Pandu. The epic says that a curse from the sage Mandavya caused the god Yama to be born as him. Even though his mother was a maid, he rises to a senior post as chief minister of the Kuru kingdom. He warns the Pandavas about a plot to burn them in a house of lac, he speaks up in the dice hall when Draupadi is mistreated, and he tells Dhritarashtra again and again to avoid war. When Duryodhana insults his birth, Vidura gives up his post and his bow. During Krishna's peace mission, Krishna stays at Vidura's home. Vidura's night-time advice to the king is gathered in the Udyoga Parva as the Vidura Niti, a well-known set of lessons on leadership and character. After the war, many versions say he returns as minister, and years later retires to the forest with Dhritarashtra, Gandhari and Kunti, where his spirit joins Yudhishthira.",
+  "kidSummary": "Vidura is the wise adviser in the Mahabharata. He always tells the king what is fair, even when nobody wants to listen. He warns the Pandavas about danger and later welcomes Krishna into his simple home. His wise sayings are still read today.",
+  "story": [
+    {
+      "title": "A wise son of a maid",
+      "text": "In the Mahabharata, Vidura is born to a palace maid and the sage Vyasa. Because of his wisdom he becomes the chief minister of the kingdom, even though his mother was not a queen."
+    },
+    {
+      "title": "The warning",
+      "text": "Duryodhana plans to trap the Pandavas in a house made of lac, which burns easily. Vidura warns the Pandavas about the danger in time, and they escape safely."
+    },
+    {
+      "title": "A voice in the dice hall",
+      "text": "When Draupadi is mistreated after the dice game, most elders stay silent. Vidura speaks up and objects aloud."
+    },
+    {
+      "title": "Krishna comes to dinner",
+      "text": "Krishna visits Hastinapura to ask for peace. He skips Duryodhana's grand feast and eats at Vidura's simple home instead, because he values Vidura's honest heart."
+    },
+    {
+      "title": "Night talks with the king",
+      "text": "Before the war, Vidura talks late at night with Dhritarashtra about how a good ruler should act. These lessons are remembered today as the Vidura Niti."
+    }
+  ],
+  "teaches": [
+    "Tell the truth kindly, even when it is hard",
+    "Wisdom matters more than birth",
+    "A good leader listens to honest advice"
+  ],
+  "symbol": "book",
+  "emblems": ["Bow he broke and gave up", "Vidura Niti (advice)"],
+  "family": [
+    {
+      "relation": "Father (by niyoga)",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Pandu",
+      "slug": "pandu"
+    },
+    {
+      "relation": "Born again as him, in the epic's telling",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Nephew whom he guided",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    }
+  ],
+  "texts": ["Mahabharata", "Vidura Niti (Udyoga Parva)", "Sanatsujatiya"],
+  "places": ["Hastinapura", "Vidurashwatha, Karnataka", "Vidur Kuti, near Bijnor"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Mahabharata says the sage Mandavya cursed the god Yama to be born as the son of a maid, and that this is how Vidura came to be.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8
+    },
+    {
+      "text": "Ambika shut her eyes in fear and bore the blind Dhritarashtra, and Ambalika turned pale and bore the pale Pandu. The queens then sent a maid, Parishrami, who stayed calm and bore Vidura.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8
+    },
+    {
+      "text": "Before the Pandavas left for Varanavata, Vidura warned Yudhishthira in coded words, in a Mleccha language. He sent a skilled miner to dig the escape tunnel under the house of lac, and a boatman to ferry the family to safety.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshagriha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Besides the young prince Vikarna, Vidura alone protested Draupadi's humiliation. Duryodhana called him ungrateful, and Dhritarashtra, recalling Vidura's remark that a blind man cannot be king, scolded his son instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7
+    },
+    {
+      "text": "A popular devotional tale says Krishna visited while Vidura was out, and Vidura's wife Sulabha, overjoyed, tossed away the banana and offered the peel. Krishna ate it, valuing her love above the gift.",
+      "kind": "story",
+      "source": "https://www.hindu-blog.com/2015/04/sri-krishna-eating-banana-peel-story-on.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Duryodhana insulted the birth of Vidura's mother, Vidura resigned as minister, broke his bow and vowed never to fight in the war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8
+    },
+    {
+      "text": "Some lesser-known versions say Vishnu himself made Vidura's bow, and that an archer like him could have been dangerous to the Pandavas had he joined the other side.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7
+    },
+    {
+      "text": "In the epic's account of his death, Vidura's spirit is said to enter Yudhishthira, because the two share the same essence of Yama, and a voice from the sky says not to cremate his body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 9
+    },
+    {
+      "text": "In Theosophical writings, Vidura is identified as the Mahachohan, said to head a hierarchy of mystics in the trans-Himalayan region.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7
+    },
+    {
+      "text": "The village of Vidurashwatha in Karnataka is named after a giant sacred fig tree that local legend says Vidura planted; the tree fell in 2001.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vidurashwatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Buddhist tradition Vidura appears as Vidhura-pandita, a past life of the future Buddha. He is the hero of Jataka No. 545, one of the longest Jataka tales, where a yaksha general wins him in a game of dice and is changed by his fearlessness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Vidhurapandita Jataka was so loved that it was carved in early Buddhist reliefs at Bharhut and Amaravati and painted in murals at the Ajanta Caves.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vidhurapandita Jataka, the Naga king Varuna's queen Vimala pretends to be ill and asks for Vidhura's heart. What she really wants is to hear his teaching.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Dhumakari Jataka, Vidhura advises King Dhananjaya not to neglect his loyal veteran warriors in favour of newly arrived mercenaries, and explains it with a parable about a goatherd who preferred wild deer to his own flock.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Sambhava Jataka, Vidhura cannot answer the king's question about what is good and true, so he sends the envoy on to wiser teachers, ending with his seven-year-old son Sambhava. Here Sambhava is the Bodhisatta and Vidhura is Mahakassapa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vidura Niti advises rulers to care for everyone's prosperity, help people in distress, encourage learning, protect those who depend on them, and avoid harsh speech and cruel punishments.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vidura Niti describes a wise person as one who is not agitated by what others do to him, like a calm lake near the Ganges.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A popular tradition says a curse carried by Narada passed to Vidura as well: though he knew the past, present and future, people would not believe him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 8
+    },
+    {
+      "text": "Two modern poems centre on him: Kaka Vidura, a Hindi poem by Rambhadracharya in which Vidura and his wife Sulabha are the main characters, and Vidura Bhiksha, a Malayalam work by Ullur S. Parameswarayyar.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7
+    },
+    {
+      "text": "Vidura's father was a Brahmin sage and his mother a maid, yet he holds the senior post of prime minister. One reading of the epic is that this shows class lines were not always rigid.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vidura",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Vidura mean in Sanskrit?",
+      "options": ["Strong and fast", "Skilled and wise", "Born of fire", "Friend of Krishna"],
+      "answer": 1,
+      "why": "Vidura is a Sanskrit word for someone skilled, intelligent and wise."
+    },
+    {
+      "q": "Whose home did Krishna choose to stay at on his peace visit to Hastinapura?",
+      "options": ["Duryodhana's palace", "Bhishma's house", "Drona's school", "Vidura's home"],
+      "answer": 3,
+      "why": "Krishna passed over the grand royal welcome and stayed with Vidura."
+    },
+    {
+      "q": "What did Vidura do to help the Pandavas escape the house of lac?",
+      "options": [
+        "He sent them a secret warning",
+        "He hid them in his house",
+        "He fought the guards",
+        "He lit the fire himself"
+      ],
+      "answer": 0,
+      "why": "He sent a cryptic warning in a language the plotters would not follow, so they escaped."
+    },
+    {
+      "q": "What is the name of Vidura's collection of advice in the Udyoga Parva?",
+      "options": ["Gita Rahasya", "Vidura Niti", "Panchatantra", "Yoga Sutra"],
+      "answer": 1,
+      "why": "The Vidura Niti gathers his talks with Dhritarashtra on how to rule wisely."
+    }
+  ],
+  "related": ["dhritarashtra", "yudhishthira", "krishna", "vyasa", "pandu", "yama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vidura",
+    "vidurashwatha": "https://en.wikipedia.org/wiki/Vidurashwatha",
+    "lakshagriha": "https://en.wikipedia.org/wiki/Lakshagriha",
+    "bananapeel": "https://www.hindu-blog.com/2015/04/sri-krishna-eating-banana-peel-story-on.html",
+    "vidurkuti": "https://www.hindu-blog.com/2015/02/vidur-kuti-temple-in-bijnor-in-uttar.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9c9a3",
+    "c2": "#a8c4c9"
+  },
+  "order": 21
+}

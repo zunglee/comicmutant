@@ -1,0 +1,268 @@
+{
+  "slug": "thiruvalluvar",
+  "name": "Thiruvalluvar",
+  "aka": ["Valluvar", "Tiruvalluvar"],
+  "native": "திருவள்ளுவர்",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Tamil poet-sage, author of the Tirukkural",
+  "summary": "Thiruvalluvar is the Tamil poet traditionally named as the author of the Tirukkural, a book of 1,330 short couplets on virtue, wealth and love. Little is known for sure about his life, and many communities honour him.",
+  "about": "Tradition names Thiruvalluvar as the author of the Tirukkural, one of the best loved books in the Tamil language. The name Thiruvalluvar itself first shows up in a later work, and old biographies about him are legend rather than record, so scholars treat his life with care. The Kural itself is dated by scholars anywhere between about 300 BCE and the 6th century CE, with around 500 CE a common estimate. Many traditions have claimed him: some Hindu temples honour him, some Jain and Buddhist writers have read their own teachings in his verses, and each claim is debated. What nearly everyone agrees on is the book's gift: short, clear couplets about how to live well that are quoted in homes, schools and speeches across Tamil Nadu. Memorials such as Valluvar Kottam in Chennai and the great statue at Kanyakumari honour him today. Because Tamil communities of several faiths honour him, this profile does not rank any claim over another.",
+  "kidSummary": "Thiruvalluvar is a wise Tamil poet who is said to have written the Tirukkural, a book of 1,330 tiny poems. Each poem is just two lines, yet it teaches big ideas about kindness, honesty, work and love. People in Tamil Nadu learn these couplets as children, and a giant stone statue of him looks out over the sea at Kanyakumari.",
+  "story": [
+    {
+      "title": "A poet of the Tamil land",
+      "text": "Long ago, in the Tamil country, there lived a poet and thinker called Valluvar. Old stories say he lived a simple life and watched the world with a quiet, curious mind."
+    },
+    {
+      "title": "Two short lines",
+      "text": "Instead of a huge epic, Valluvar chose a very small shape for his poems: couplets of just seven short units each. Short verses were easy to remember, so people could carry them everywhere in their heads."
+    },
+    {
+      "title": "Three parts of life",
+      "text": "He gathered 1,330 couplets into 133 chapters of ten. They fall into three parts: how to live a good life, how to rule and earn fairly, and how to love and be loved."
+    },
+    {
+      "title": "A book that travelled",
+      "text": "People copied the Kural on palm leaves and, in 1812, it was first printed. Over the centuries, readers turned it into dozens of languages, so people far from Tamil Nadu could enjoy it too."
+    },
+    {
+      "title": "A statue by the sea",
+      "text": "At Kanyakumari, where three seas meet, a tall stone statue of Valluvar now stands. Its height of 133 feet matches the 133 chapters, a quiet reminder of his book."
+    }
+  ],
+  "teaches": [
+    "Kindness and non-violence",
+    "Honest work and fair rule",
+    "Learning, gratitude and self-control",
+    "Love grows best with trust"
+  ],
+  "symbol": "book",
+  "emblems": ["Palm-leaf book", "Writing stylus", "Three raised fingers (statue)"],
+  "family": [],
+  "texts": ["Tirukkural", "Tiruvalluva Maalai (later praise-poems)"],
+  "places": [
+    "Mylapore, Chennai",
+    "Thiruvalluvar Statue, Kanyakumari",
+    "Valluvar Kottam, Chennai",
+    "Tiruchuli"
+  ],
+  "festivals": ["Thiruvalluvar Day (15 Jan, or 16 in leap years)"],
+  "facts": [
+    {
+      "text": "Every couplet is built from seven metrical units called cirs, four on the first line and three on the second, and one cir can be a single word or several joined together. Even the title is a cir: tiru (sacred) plus kural (short).",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Right after the opening prayer, the Kural's early chapters praise rain as what keeps every living thing going, and Valluvar ranks it next only to God because it feeds farms and economies. A book of morals that opens with weather is unusual.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As of 2026 the Kural has been translated into 57 languages in about 350 separate translations, 143 of them in English. The language list reaches as far as Fijian, Burmese, Chinese and Latin.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Leo Tolstoy read the Kural in a German version, and his non-violence ideas, passed on to young Gandhi in his Letter to a Hindu, are linked to it. Gandhi later studied the Kural in prison.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tamil Nadu fixed 31 BCE as year one of the Valluvar Year in 1935, so you add 31 to the usual year. Thiruvalluvar Day falls on 15 January, or 16 in leap years, during Pongal, and was first celebrated in May 1935.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A French translator, Ariel, famously called the Kural the book without a name by an author without a name. The name Thiruvalluvar first turns up only in a later work, the Tiruvalluva Maalai.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Folk legends say Valluvar's wife Vasuki once served him boiled rice that she had made out of sand, a tale scholars treat as folklore rather than history.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Some traditional life stories say a tree that sheltered Valluvar with its shade stayed still for a whole day, and that he floated a grounded ship. Historians regard these as later legends.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Thiruvalluvar Statue at Kanyakumari rises 133 feet in total, matching the 133 chapters. Its 38-foot base stands for the 38 chapters on virtue, and its three raised fingers stand for the book's three parts.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kanyakumari statue is built from 3,681 stones and weighs around 7,000 tonnes. Sculptor V. Ganapati Sthapati beat about 300 builders by arguing that stone outlasts metal, noting that the copper Statue of Liberty needed major repairs within a century.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The statue was first planned in 1975 and opened on 1 January 2000. When the 2004 Indian Ocean tsunami struck, the monument stood without damage.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sea air eats at the statue, so about every four years workers clean it with chemical treatment and a paper-pulp coat that soaks up salt, then peel the pulp off.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valluvar Kottam in Chennai, opened in 1976, features a 39-metre stone replica of a temple chariot from Thiruvarur, and all 1,330 couplets are carved on its panels.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Valluvar_Kottam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1818 the Collector of Madras, Francis Whyte Ellis, issued a gold coin bearing an image of Valluvar.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Since 1968, every government bus in Tamil Nadu has been required to display a Kural couplet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Communities in Mylapore and Tiruchuli worship Valluvar as the 64th Nayanmar of the Shaiva tradition. At Tiruchuli he is carried in a procession on his death anniversary, in the Tamil month of Maasi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In January 2016 the musician Chitravina N. Ravikiran set all 1,330 Kural couplets to music, using over 169 ragas.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kural's first paper print, made in 1812 with wooden blocks copied from palm-leaf manuscripts, was credited to Nanapirakacar. Indians could not set up their own printing presses until 1835.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Valluvar says virtue is the same for everyone, whether a person carries the palanquin or rides in it.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Latin translator Beschi, who published in 1730, left out the book on love because he thought its subject unfit for a missionary. He translated only the books on virtue and wealth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Valluvar never names his God, a king, a village or a country. He speaks of an ultimate reality, a land and a ruler without naming any, and stresses basic principles of conduct over details.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the chapter on not killing, Valluvar places non-killing first among virtues, even above truthfulness. Albert Schweitzer said the Kural stands for the commandment not to kill or damage.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One chapter calls learned children the greatest gain a person can have, while another says the greatest gain is self-control. Readers see the book weighing virtues against each other.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Many people in Tamil Nadu claim Valluvar as an ancestor, alongside Avvaiyar, Kapilar and the sage Agastya, according to a Madurai Kamaraj University folklore scholar.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In his 1819 translation Francis Whyte Ellis noted that Tamils themselves debated whether Valluvar was a Jain or a Hindu. Later claims have also named him Buddhist, and the debate is open.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tirukkural",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many couplets are in the Tirukkural?",
+      "options": ["133", "700", "1,330", "3,681"],
+      "answer": 2,
+      "why": "There are 1,330 couplets in 133 chapters of ten each."
+    },
+    {
+      "q": "How many metrical units, called cirs, does every Kural couplet have?",
+      "options": ["Seven", "Twelve", "Three", "Twenty"],
+      "answer": 0,
+      "why": "Each couplet has seven cirs: four on the first line and three on the second."
+    },
+    {
+      "q": "What does the Kanyakumari statue's 133-foot height match?",
+      "options": ["The number of chapters", "The number of seas", "His age", "The year it opened"],
+      "answer": 0,
+      "why": "Its height of 133 feet echoes the 133 chapters of the book."
+    },
+    {
+      "q": "In which year was the Kural first known to be printed?",
+      "options": ["1730", "1812", "1976", "2000"],
+      "answer": 1,
+      "why": "The first known printed edition came out in 1812."
+    }
+  ],
+  "related": ["kabir", "andal", "agastya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Thiruvalluvar",
+    "tirukkural": "https://en.wikipedia.org/wiki/Tirukkural",
+    "statue": "https://en.wikipedia.org/wiki/Thiruvalluvar_Statue",
+    "kottam": "https://en.wikipedia.org/wiki/Valluvar_Kottam"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe3e8",
+    "c2": "#f1e6c8"
+  },
+  "years": "dates debated; c. 300 BCE–600 CE",
+  "order": 500
+}

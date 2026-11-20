@@ -1,0 +1,246 @@
+{
+  "slug": "kundakunda",
+  "name": "Kundakunda",
+  "aka": ["Acharya Kundakunda", "Padmanandin", "Kondakunda"],
+  "native": "कुन्दकुन्द",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Digambara acharya and author of the Samayasara",
+  "summary": "Kundakunda is the revered Digambara acharya credited with the Samayasara, Pravacanasara and other Prakrit works on the soul.",
+  "about": "Kundakunda is a revered teacher of the Digambara Jain tradition, credited with sixteen Prakrit texts including the Samayasara and Pravacanasara. Tradition dates him to the 2nd or 3rd century CE, though modern scholars give dates up to the 8th century, and some think the name stands for several authors. A legend in Jayasena's commentary says he travelled to Eastern Videha to meet a living Tirthankara. His works describe the soul from two standpoints, ultimate and everyday, and stress self-knowledge. Digambaras place him after Mahavira and Gautama in importance, and later thinkers such as Shrimad Rajchandra, a spiritual guide of Gandhi, and movements such as Kanji Panth draw on his writings. One text credited to him names Bhadrabahu as his teacher.",
+  "kidSummary": "Kundakunda was a Jain monk who wrote famous books in an old language called Prakrit. His books teach that our true self, the soul, is pure and different from the body. A story says he once travelled to a faraway land to meet a living Tirthankara. Jains still read his words today.",
+  "story": [
+    {
+      "title": "A name from a village",
+      "text": "Kundakunda is a famous teacher of the Digambara Jains. Tradition links his name to a village called Konakondla in Andhra Pradesh."
+    },
+    {
+      "title": "Books in Prakrit",
+      "text": "He wrote, or is credited with, sixteen books in Prakrit, an old everyday language, so more people could learn about the soul."
+    },
+    {
+      "title": "A legend of a faraway land",
+      "text": "A later story says he travelled to a distant place called Eastern Videha, where a living Tirthankara was teaching, and returned with deep wisdom."
+    },
+    {
+      "title": "Two ways of looking",
+      "text": "In the Samayasara he shows two ways to see the soul. The ultimate view sees it as pure; the everyday view sees how it feels bound by karma."
+    },
+    {
+      "title": "Knowing the real self",
+      "text": "In Digambara teaching, bhed-jnan is the name for seeing the difference between the pure soul and the material world of body and karma. Followers say this knowing leads toward freedom."
+    },
+    {
+      "title": "Read for centuries",
+      "text": "Later writers wrote commentaries on his books, and Jains of many groups still read them to learn about the self."
+    }
+  ],
+  "teaches": [
+    "Know the true self, the soul",
+    "The soul is different from body and karma",
+    "Right faith, knowledge and conduct together"
+  ],
+  "symbol": "book",
+  "emblems": ["Samayasara (book)", "Peacock-feather broom (Digambara monk's picchi)"],
+  "family": [
+    {
+      "relation": "Revered after",
+      "name": "Mahavira",
+      "slug": "mahavira"
+    },
+    {
+      "relation": "Revered after",
+      "name": "Gautama Swami",
+      "slug": "gautama-swami"
+    }
+  ],
+  "texts": ["Samayasara", "Pravacanasara", "Niyamasara", "Pancastikayasara", "Ashtapahuda"],
+  "places": ["Konakondla, Andhra Pradesh", "Eastern Videha (legend)"],
+  "festivals": [],
+  "years": "2nd–8th century CE (disputed)",
+  "quiz": [
+    {
+      "q": "In which language did Kundakunda write?",
+      "options": ["Sanskrit", "Prakrit", "Tamil", "Pali"],
+      "answer": 1,
+      "why": "All sixteen works credited to him are in Prakrit."
+    },
+    {
+      "q": "Which famous book is credited to Kundakunda?",
+      "options": ["Samayasara", "Kalpa Sutra", "Yogashastra", "Acharanga Sutra"],
+      "answer": 0,
+      "why": "The Samayasara describes the soul and liberation."
+    },
+    {
+      "q": "In the legend, where did he go to meet a living Tirthankara?",
+      "options": ["Ayodhya", "Mount Kailash", "Pataliputra", "Eastern Videha"],
+      "answer": 3,
+      "why": "Jayasena's commentary tells of a trip to Eastern Videha."
+    },
+    {
+      "q": "Which hill in Tamil Nadu has carved footprints remembered as Kundakunda's?",
+      "options": ["Ponnur Malai", "Chandragiri", "Girnar", "Mount Abu"],
+      "answer": 0,
+      "why": "Pilgrims on Ponnur Malai find footprints under a champa tree remembered as his."
+    }
+  ],
+  "related": ["mahavira", "gautama-swami", "bhadrabahu", "hemachandra", "acharya-tulsi"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kundakunda",
+    "samayasara": "https://en.wikipedia.org/wiki/Samayasara",
+    "digambara": "https://en.wikipedia.org/wiki/Digambara",
+    "jaina_book": "https://jainqq.org/pagetext/Acharya_Kundakunda/201050/1",
+    "soul_science": "https://jainqq.org/pagetext/Soul_Science_Part_02/034408/20",
+    "pravacanasara_intro": "https://jainqq.org/pagetext/Pravachansara/010843/23",
+    "shastri_bhadrabahu": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6",
+    "rajchandra": "https://en.wikipedia.org/wiki/Shrimad_Rajchandra"
+  },
+  "palette": {
+    "c1": "#efe7d2",
+    "c2": "#d9e6ee"
+  },
+  "order": 500,
+  "facts": [
+    {
+      "text": "Kundakunda may be several writers, not one. Piotr Balcerowicz sees the name as a label for sixteen Digambara texts by different thinkers. Other names tied to him, like Elacharya and Grdhrapiccha, may recall five of them, though Jayandra Soni doubts them.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jayasena's commentary tells a legend that Kundakunda travelled to Eastern Videha, a far-off continent, to meet a living Tirthankara and learn from him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The follower Kanji Swami said he had been present at that meeting in an earlier life, and his disciple Campaben said the same.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A well-known Digambara blessing names Mahavira, then Gautama, then Kundakunda, then the Jain faith itself as auspicious. Digambara Jains recite it before they begin to study sacred texts.",
+      "kind": "festival",
+      "source": "https://jainqq.org/pagetext/Acharya_Kundakunda/201050/1",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Many Digambara families print that blessing verse, which names Kundakunda, on wedding invitations.",
+      "kind": "festival",
+      "source": "https://jainqq.org/pagetext/Soul_Science_Part_02/034408/20",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shravanabelagola inscriptions, mostly 12th century, say Kundakunda walked in the air four finger-widths above the ground, so the dust of passion never touched him. One of 1128 CE calls him a bee at the lotus-hands of the charanas, the sky-travelling sages.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Pravachansara/010843/23",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On Ponnur Malai, a hill in Tamil Nadu, pilgrims can find a carved pair of footprints on a rock under a champa tree, remembered as a mark of Kundakunda.",
+      "kind": "place",
+      "source": "https://jainqq.org/pagetext/Acharya_Kundakunda/201050/1",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Jayasena's telling, the Tirthankara he met in Eastern Videha was Simandhara Swami. After returning, Kundakunda recited his Panchastikaya to a king named Shivakumara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Videha sky-journey is also told of Umasvati and Pujyapada. In a 19th-century account Pujyapada flew with a medicine rubbed on his feet, lost his sight to the sun's heat on the way back, and won it back by composing a hymn.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Pravachansara/010843/23",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Chappahuda, a text credited to Kundakunda, the author names Bhadrabahu as his teacher, a gamaka-guru or traditional guide. Scholars usually take this to be a later namesake, but one argues it fits only the first Bhadrabahu, who knew all the scriptures.",
+      "kind": "history",
+      "source": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kundakunda's books inspired Shrimad Rajchandra, a Jain poet and mystic of the 1800s. Mahatma Gandhi met him in Bombay in 1891 and later called him a guide and helper in his autobiography.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shrimad_Rajchandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "That mystic, Shrimad Rajchandra, amazed a Bombay audience in 1887 by handling a hundred memory tasks at once and was called Sakshat Saraswati, an incarnation of the goddess of learning. He later gave up such shows to focus on spiritual life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shrimad_Rajchandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pravachansara introduction says a teacher flying to Videha dropped his bunch of peacock feathers, took some from a passing vulture and was named Grdhrapiccha, vulture-feather. It tells this of Umasvati, though the name is also linked with Kundakunda.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Pravachansara/010843/23",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shravanabelagola inscriptions praise Kundakunda's air-walking but never mention a trip to Videha. Devasena's Darsanasara says a saint, Padmanandi, gained insight through Simandhara's knowledge, and Jayasena's commentary later tells the full journey.",
+      "kind": "history",
+      "source": "https://jainqq.org/pagetext/Pravachansara/010843/23",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "For centuries the works credited to Kundakunda circulated without an author's name. Only in Jayasena's commentary of about 1150 to 1200 is an author named and a life story built, about a thousand years after the traditional date.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some scholars see echoes of Buddhist and Vedanta thought in Kundakunda's ultimate and everyday viewpoints, which suggests Indian thinkers of different faiths borrowed ideas from one another.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jainism treats karma as real physical particles that cling to the soul, so Kundakunda's stress on pure insight was somewhat unusual. It nonetheless became a mainstream Digambara view.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His name is said to come from Konakondla, a village in Anantapur district of Andhra Pradesh, which is linked with his other name, Padmanandin.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the 17th century the poet Banarasidas retold the Samayasara in Braj Bhasha verse as the Nataka Samayasara, building on Pande Rajmall's commentary, so readers without Sanskrit or Prakrit could follow it.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Samayasara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kanji Swami's lay movement, inspired by Kundakunda, has many followers among Jains living abroad, who generally call themselves Digambara and follow his mystical tradition.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kundakunda",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "depth": "full"
+}

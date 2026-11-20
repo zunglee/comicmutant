@@ -1,0 +1,260 @@
+{
+  "slug": "bahubali",
+  "name": "Bahubali",
+  "aka": ["Gommateshwara", "Gommata", "Bahubalin"],
+  "native": "बाहुबली",
+  "role": "Son of Rishabhanatha, the monk who stood in meditation",
+  "summary": "Jains remember Bahubali as a prince who won a duel against his brother, then gave up his kingdom to meditate so still that vines grew over him.",
+  "about": "In Jain tradition, Bahubali was a son of the first Tirthankara, Rishabhanatha, and a younger brother of Bharata. Digambara texts such as Jinasena's Adipurana say Rishabhanatha shared his lands among his sons, and Bahubali refused to bow to Bharata. They settled the quarrel with three contests, which Bahubali won. Disgusted by the fight, he gave away his kingdom and became a monk. Jains believe he stood in meditation until he reached omniscience, and later liberation. In the Adipurana, Bharata's humble visit ends his regret, while another popular retelling has his sisters ask him to step down from an elephant of pride. Huge statues of him, called Gommateshwara, stand in several places in India, the most famous at Shravanabelagola in Karnataka.",
+  "kidSummary": "Bahubali was a strong prince who won a contest against his older brother, then chose peace instead of power. Jain stories say he stood so still in meditation that vines climbed his legs. Tall stone statues of him stand in many places.",
+  "story": [
+    {
+      "title": "A kingdom divided",
+      "text": "Jain stories say their father gave kingdoms to his sons. Bharata became a mighty emperor, but Bahubali would not bow to him, so the brothers agreed on a duel instead of a war."
+    },
+    {
+      "title": "Three contests",
+      "text": "They held a staring contest, a water contest and a wrestling match. Jain texts say Bahubali won all three."
+    },
+    {
+      "title": "Choosing peace",
+      "text": "Bahubali lifted his hand to strike, then stopped. In one retelling he used the raised fist to pull out his own hair, as monks do. He felt that no kingdom was worth hurting his brother, gave away his lands and became a monk."
+    },
+    {
+      "title": "Standing still",
+      "text": "He stood in meditation so long that vines wound around his legs and ants built homes near his feet."
+    },
+    {
+      "title": "Letting go of pride",
+      "text": "Some tellers say his sisters came and told him to step down from his elephant. He understood that the elephant was his pride, and that lesson set him free. In the Digambara Adipurana, Bharata came and bowed to him, which cleared his regret."
+    }
+  ],
+  "teaches": [
+    "Pride can be the last thing we let go of",
+    "Peace is worth more than winning",
+    "Non-violence even after victory"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Vines on the legs (in art)",
+    "Standing meditation (kayotsarga)",
+    "Giant granite statues"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Rishabhanatha",
+      "slug": "rishabhanatha"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bharata",
+      "slug": "bharata-chakravartin"
+    },
+    {
+      "relation": "Sister",
+      "name": "Sundari",
+      "slug": "brahmi-and-sundari"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sunanda"
+    }
+  ],
+  "texts": [
+    "Adipurana",
+    "Gommata-stuti",
+    "Bharateshwara Bahubali Ghora",
+    "Trishashti Shalaka Purusha Charitra"
+  ],
+  "places": ["Shravanabelagola", "Karkala", "Dharmasthala", "Venur", "Mount Kailash"],
+  "festivals": ["Mahamastakabhisheka"],
+  "facts": [
+    {
+      "text": "Bahubali's Shravanabelagola statue stands about 57 feet (17 m) high on Vindhyagiri hill, carved from one block of granite. The Western Ganga minister and commander Chavundaraya had it made around 981-983 CE.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Shravanabelagola statue can be seen from roughly 25 km (16 miles) away.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Every 12 years the giant statue is bathed in a festival called Mahamastakabhisheka, using milk, saffron, ghee, sugarcane juice and more. The next is due in 2030.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A legend says Chavundaraya's first bath of five liquids stopped at the statue's navel. The goddess Kushmandini came as an old woman with milk in half a fruit shell, and the milk flowed all the way down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The statue shows Bahubali with an anthill behind him. A snake and a creeper rise from it and wind round his legs and arms. His eyes are half open with a faint smile, and the anthill has a trough that collects the bathing liquids.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1910, J. L. Jaini wrote, English missionaries he met took off their shoes to visit the statue barefoot. It was the tallest Jain statue until 2016.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Metropolitan Museum of Art holds a tiny 11-centimetre copper-alloy Bahubali from 6th-7th century Karnataka, which it calls the earliest known Bahubali image in Jain art.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Ellora Cave 32 (9th century), carvers showed attendants lifting vines off Bahubali's legs, with deer standing at his feet.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a 2007 Times of India poll, the Shravanabelagola statue was voted first among the Seven Wonders of India, taking about 49% of all the votes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Badami Cave 4 in Karnataka has a 7th-8th century relief of Bahubali standing still in meditation, recognised by the creepers climbing his legs. It is one of the earliest rock-cut Bahubali images.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Dharmasthala in Karnataka has a Bahubali statue 39 feet tall on a 13-foot pedestal, weighing about 175 tonnes. It was set up there in 1973.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jinasena's Adipurana is said to describe Bahubali's looks so warmly that women called him by names of Kamadeva, the love god, such as Manmatha and Madana. It ranks him first of the 24 Kamadevas of this age.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the duel, Bharata is said to have hurled his discus at Bahubali, but it could not harm him and lost its power.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Digambara Adipurana ending, Bharata comes humbly and worships his brother. That clears away Bahubali's lingering regret at having humiliated him, and he reaches omniscience.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A popular retelling says his sisters Brahmi and Sundari asked him to step down from the elephant. He realised the elephant was his own pride, and omniscience followed.",
+      "kind": "story",
+      "source": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Svetambara tradition says Bahubali ruled Taxila in Gandhara, the old city of learning. Digambara texts name Podanapur as his capital.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a popular retelling, Bahubali would not go to his father because he would have had to bow to his 98 younger brothers. They had become monks before him, so they ranked above him. His pride made him meditate alone instead.",
+      "kind": "story",
+      "source": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the same retelling, Bahubali raised his fist to strike Bharata, then stopped himself. He could not take the fist back in pride, so he used it to pull out his own hair, as monks do at initiation.",
+      "kind": "story",
+      "source": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before the contests, ministers on both sides argued that the two brothers could not be killed by any weapon, so they should settle the quarrel in other ways. That is how the staring, water and wrestling duels were chosen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The name Bahubali means 'one with strong arms'. Jain texts say that as a prince he studied medicine, archery, the growing of flowers and the study of gems.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bahubali",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Bahubali's huge statue at Shravanabelagola carved from?",
+      "options": ["Marble blocks", "A single block of granite", "Bronze plates", "Wood"],
+      "answer": 1,
+      "why": "It is carved from one granite block on Vindhyagiri hill."
+    },
+    {
+      "q": "How often is the great bathing festival, Mahamastakabhisheka, held at Shravanabelagola?",
+      "options": ["Every year", "Every 4 years", "Every 12 years", "Every 100 years"],
+      "answer": 2,
+      "why": "The statue is bathed once every 12 years."
+    },
+    {
+      "q": "In a popular retelling, what did the 'elephant' stand for?",
+      "options": ["Strength", "Pride", "Hunger", "Fear of animals"],
+      "answer": 1,
+      "why": "Bahubali understood that the elephant was his own pride."
+    },
+    {
+      "q": "Who are Bahubali's father and elder brother in Jain stories?",
+      "options": [
+        "Mahavira and Rama",
+        "Rishabhanatha and Bharata",
+        "Parshvanatha and Krishna",
+        "Neminatha and Arjuna"
+      ],
+      "answer": 1,
+      "why": "Rishabhanatha is his father and Bharata is his elder brother."
+    }
+  ],
+  "related": ["bharata-chakravartin", "rishabhanatha", "brahmi-and-sundari"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bahubali",
+    "statue": "https://en.wikipedia.org/wiki/Gommateshwara_statue",
+    "retelling": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+    "rishabhanatha": "https://en.wikipedia.org/wiki/Rishabhanatha"
+  },
+  "palette": {
+    "c1": "#d9c8a0",
+    "c2": "#9bb59a"
+  },
+  "order": 601,
+  "tradition": "jain",
+  "group": "jain-figure",
+  "depth": "full"
+}

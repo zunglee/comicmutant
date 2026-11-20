@@ -1,0 +1,278 @@
+{
+  "slug": "gandhari",
+  "name": "Gandhari",
+  "aka": ["Gandhara princess", "Mother of the Kauravas"],
+  "native": "गान्धारी",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Queen of Hastinapura and mother of the Kauravas",
+  "summary": "Gandhari is the princess of Gandhara who marries the blind king Dhritarashtra and covers her own eyes for life. She is the mother of the hundred Kaurava brothers in the Mahabharata.",
+  "about": "In the Mahabharata, Gandhari is a princess of Gandhara, a land stretching from the Indus towards Kabul, and the sister of Shakuni. The epic says she worshipped Shiva and received a boon of a hundred sons. Bhishma arranged her marriage to the blind prince Dhritarashtra, and on her wedding day she bound her eyes with cloth and kept them covered for her whole life. Her pregnancy lasted two years, and the epic says Vyasa then divided the lump of flesh she bore into a hundred and one parts, from which her sons and a daughter grew. She urged her eldest son Duryodhana to keep the peace and warned him about war. After the war, in her grief, she is said to have cursed Krishna. She went to the forest with Dhritarashtra and Kunti, where tradition says they died in a forest fire. Modern writers, from Tagore to novelists today, have returned to her story.",
+  "kidSummary": "Gandhari was a princess from Gandhara who married a blind king. To feel what he felt, she covered her eyes with a cloth for the rest of her life. She was the mother of a hundred sons, and she often told her eldest son to choose peace.",
+  "story": [
+    {
+      "title": "A princess of Gandhara",
+      "text": "Gandhari grows up in the kingdom of Gandhara. She prays to Shiva, and the Mahabharata says he grants her the boon of a hundred sons."
+    },
+    {
+      "title": "The silk blindfold",
+      "text": "She is chosen to marry the blind prince Dhritarashtra. On her wedding day, Gandhari ties a cloth over her eyes and decides never to remove it."
+    },
+    {
+      "title": "A long wait",
+      "text": "Her pregnancy takes two years. At last Vyasa has the lump she bears divided into a hundred and one pieces, kept in jars of ghee, and the sons and a daughter are born."
+    },
+    {
+      "title": "A mother who warned",
+      "text": "When the Kauravas and the Pandavas quarrel, Gandhari tells Duryodhana to choose peace. He does not listen, and the war begins."
+    },
+    {
+      "title": "After the war",
+      "text": "In her grief she speaks harsh words to Krishna. Later she goes to the forest with Dhritarashtra and Kunti to live a quiet life."
+    }
+  ],
+  "teaches": [
+    "Loyalty and sacrifice",
+    "Speak up for peace, even when ignored",
+    "Grief and acceptance"
+  ],
+  "symbol": "lotus",
+  "emblems": ["The silk blindfold", "Jars of ghee (the hundred sons' birth)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Eldest son",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Son",
+      "name": "Dushasana",
+      "slug": "dushasana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Shakuni",
+      "slug": "shakuni"
+    },
+    {
+      "relation": "Companion in the forest",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Half-son (by a maid)",
+      "name": "Yuyutsu",
+      "slug": "yuyutsu"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva, Stri Parva, Ashramavasika Parva)",
+    "Urubhanga by Bhasa",
+    "Gandharir Abedon by Rabindranath Tagore",
+    "Jain retellings"
+  ],
+  "places": ["Gandhara", "Hastinapura", "Hebbya near Nanjangud, Karnataka"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Gandhari's pregnancy lasted two years, and during that time Kunti gave birth to Yudhishthira.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vyasa had the lump divided into one hundred pieces, each one placed in a jar of ghee, and from these the hundred sons grew.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Gandhari's request one more piece was prepared, and from it came her daughter, Dushala.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dhritarashtra himself called Gandhari in when Krishna came seeking peace, because he respected her wisdom. She scolded him for not holding their son back, then urged Duryodhana to listen to Bhishma and Drona.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7
+    },
+    {
+      "text": "In the epic, when Yudhishthira bent to touch her feet after the war, a flash of the force in her sorrowful, downcast gaze slipped out from under the blindfold and left his big toe a permanent dark blue.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On the battlefield she cursed Krishna, saying his Yadava clan would fall in thirty-six years and he would die alone.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 9
+    },
+    {
+      "text": "In the Stri Parva, after the war, Vyasa grants Gandhari divine sight. With this divine eye she surveys the battlefield from a distance, and she later walks across Kurukshetra with her family.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Svargarohana Parva says the souls of Dhritarashtra and Gandhari went to Kuberaloka, a heavenly realm tied to wealth and contentment. Other accounts of Dhritarashtra's end speak of liberation, so tellings differ.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7
+    },
+    {
+      "text": "In the forest, at the request of Gandhari and Kunti, Vyasa used his yogic powers to let them briefly see the spirits of their dead relatives.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a folk story that is not in the Sanskrit epic, Gandhari asks Duryodhana to come before her without his robes so her gaze can make his body unbreakable, but Krishna steps in and his thighs stay unprotected.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 9
+    },
+    {
+      "text": "A Jain retelling has Gandhari symbolically married to a goat before she weds Dhritarashtra, because astrologers had predicted a short life for her future husband.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8
+    },
+    {
+      "text": "In Bhasa's play Urubhanga (about 1st-2nd century CE), the dying Duryodhana asks Gandhari to be his mother again in his next life, and she answers that he has spoken her own heart's wish.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8
+    },
+    {
+      "text": "Her brother Shakuni escorted Gandhari to Hastinapura for the wedding. After returning home he kept visiting to help her and her children, a bond the text says she had with him above her other brothers.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her father Subala hesitated because Dhritarashtra was blind, but agreed for the prestige of an alliance with the Kuru house. Bhishma had proposed the match after learning of Shiva's boon of a hundred sons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the war Gandhari thought of cursing Yudhishthira, but Vyasa reminded her of her own earlier words that righteousness would win. She accepted this and held back, though her grief later fell on Krishna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When the Pandavas met her after the war, Kunti introduced Draupadi, who had lost all her sons, and Gandhari comforted her. Scholar James Fitzgerald reads their shared grief as showing the war's toll on women.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Fifteen years after the war Gandhari moved to a forest near Shatayupa's ashram on the Ganga with Dhritarashtra, Kunti, Vidura and Sanjaya. The Pandavas visited them after six years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Jain retellings, Bhishma punished Subala's family after the goat marriage, starving the men until only Shakuni lived. That gives Shakuni a motive in those tellings. Another variant has Gandhari taken captive as a bride.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "James Fitzgerald suggests that crediting Gandhari's divine sight to Vyasa, not her own austerity, may reflect the Brahmin tradition's unease with spiritual power held by women.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rabindranath Tagore wrote a Bengali poetic play about her, Gandharir Abedon, meaning Supplication of Gandhari. In the 21st century Aditi Banerjee's novel The Curse of Gandhari retells the epic from her point of view.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Gandhari do on her wedding day?",
+      "options": [
+        "She cut her hair",
+        "She tied a cloth over her eyes",
+        "She planted a tree",
+        "She lit a lamp"
+      ],
+      "answer": 1,
+      "why": "She covered her eyes for life to share her husband's blindness."
+    },
+    {
+      "q": "How many sons did Shiva's boon promise her?",
+      "options": ["Ten", "Fifty", "One hundred", "One thousand"],
+      "answer": 2,
+      "why": "The Mahabharata says she received a boon of a hundred sons."
+    },
+    {
+      "q": "How were the hundred sons born, according to the epic?",
+      "options": ["From jars of ghee", "From a river", "From a lotus", "From golden eggs"],
+      "answer": 0,
+      "why": "Vyasa had the lump of flesh divided and kept in ghee jars."
+    },
+    {
+      "q": "Which relative went with Gandhari to Hastinapura?",
+      "options": ["Her father Subala", "Her brother Shakuni", "Bhishma", "Vidura"],
+      "answer": 1,
+      "why": "Shakuni travelled with her and helped her family."
+    },
+    {
+      "q": "Whom did Gandhari curse after the war?",
+      "options": ["Bhima", "Yudhishthira", "Vyasa", "Krishna"],
+      "answer": 3,
+      "why": "She cursed Krishna, and the epic says he accepted it."
+    }
+  ],
+  "related": [
+    "dhritarashtra",
+    "duryodhana",
+    "dushasana",
+    "shakuni",
+    "kunti",
+    "yuyutsu",
+    "krishna",
+    "vyasa",
+    "shiva",
+    "draupadi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+    "temple": "https://en.wikipedia.org/wiki/G%C4%81ndh%C4%81r%C4%AB_Temple",
+    "kauravas": "https://en.wikipedia.org/wiki/Kauravas",
+    "urubhanga": "https://en.wikipedia.org/wiki/Urubhanga"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E8D5E8",
+    "c2": "#CFE0E4"
+  },
+  "order": 20
+}

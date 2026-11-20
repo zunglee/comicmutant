@@ -6,7 +6,7 @@
   "medium": "film",
   "publisher": "Primeshow Entertainment",
   "summary": "Hanu-Man's villain: a superhero-obsessed rich kid turned fake gadget vigilante, 'Mega Man', who will do anything to get real powers. Played by Vinay Rai (2024).",
-  "origin": "As a boy in Saurashtra in 1998, Michael was obsessed with superheroes. After he failed to fly, his parents told him heroes aren't real, and he killed them in a fire. As an adult in Mumbai he poses as the gadget-armed vigilante Mega Man, helped by his friend Siri, while secretly searching for genuine superpowers. When he hears about Hanumanthu's strength, he comes to Anjanadri pretending to run a corporate social-responsibility project, but his real goal is the gem.",
+  "origin": "As a boy in Saurashtra in 1998, Michael was obsessed with superheroes. After failing to fly, he was told heroes aren't real, and a tragedy he caused in his childhood set the course of his life. As an adult in Mumbai he poses as the gadget-armed vigilante Mega Man, helped by his friend Siri, while secretly searching for genuine superpowers. When he hears about Hanumanthu's strength, he comes to Anjanadri pretending to run a corporate social-responsibility project, but his real goal is the gem.",
   "creators": ["Prasanth Varma (writer, director)"],
   "firstAppearance": {
     "title": "Hanu-Man",
@@ -23,8 +23,8 @@
     {
       "era": "Childhood",
       "years": "1998",
-      "title": "A dark origin",
-      "beat": "Told that superheroes are fiction, young Michael murders his parents."
+      "title": "A dark start",
+      "beat": "Told that superheroes are only fiction, young Michael commits a terrible crime that sets the course of his life."
     },
     {
       "era": "Mumbai",
@@ -53,8 +53,8 @@
   ],
   "gossip": [
     {
-      "type": "gossip",
-      "text": "Director Prasanth Varma said Vinay Rai's suit was so hard to wear that the actor lost two kilograms during the shoot.",
+      "type": "fact",
+      "text": "Samuthirakani plays the sage who beats Michael's mercenaries in secret before revealing himself as Vibhishana.",
       "spice": 2
     },
     {
@@ -63,9 +63,8 @@
       "spice": 1
     },
     {
-      "type": "myth",
-      "text": "Mega Man in Hanu-Man is a hero.",
-      "truth": "The Mega Man persona is a front. Michael is the film's main villain.",
+      "type": "fact",
+      "text": "Michael's first-look poster, revealed in June 2022, showed him with a gas mask, an eye patch and robotic bats hovering overhead.",
       "spice": 2
     },
     {
@@ -76,16 +75,33 @@
   ],
   "quiz": [
     {
-      "q": "What vigilante name does Michael use?",
-      "options": ["Iron Fist", "Black Hawk", "Mega Man", "Mr. Mumbai"],
-      "answer": 2,
-      "why": "He calls himself Mega Man and relies on gadgets."
+      "q": "What does Michael pretend his project in Anjanadri is?",
+      "options": [
+        "A school",
+        "A corporate social responsibility project",
+        "A film shoot",
+        "A cricket academy"
+      ],
+      "answer": 1,
+      "why": "He and Siri arrive under the cover of a corporate social responsibility project."
     },
     {
       "q": "Who played Michael in Hanu-Man?",
       "options": ["Vinay Rai", "Samuthirakani", "Teja Sajja", "Raj Deepak Shetty"],
       "answer": 0,
       "why": "Tamil actor Vinay Rai played the villain."
+    },
+    {
+      "q": "Which actor voices the monkey Koti who helps defeat Michael's drones?",
+      "options": ["Ravi Teja", "Rana Daggubati", "Vinay Rai", "Teja Sajja"],
+      "answer": 0,
+      "why": "Ravi Teja gave his voice to Koti, the monkey character."
+    },
+    {
+      "q": "What hovered over Michael in his first-look poster?",
+      "options": ["Robotic bats", "Paper kites", "Fireflies", "Pigeons"],
+      "answer": 0,
+      "why": "The June 2022 poster showed robotic bats watching over him and his armed men."
     }
   ],
   "rivals": ["hanu-man"],
@@ -101,7 +117,9 @@
     "tagline": "Bought the suit, built the drones, never found a soul."
   },
   "sources": {
-    "wikipedia": "https://en.wikipedia.org/wiki/Hanu-Man"
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanu-Man",
+    "vinayrai": "https://en.wikipedia.org/wiki/Vinay_Rai",
+    "bollywoodhungama": "https://www.bollywoodhungama.com/?p=1404859"
   },
   "timeline": [
     {
@@ -115,7 +133,7 @@
       "year": 2024,
       "kind": "turn",
       "title": "Hunting the gem",
-      "note": "Michael poses as a charity worker and gasses the whole village to get his hands on the gem."
+      "note": "Michael poses as a charity worker to get close to the gem and the secret of Hanumanthu's strength."
     },
     {
       "year": 2024,
@@ -128,8 +146,154 @@
       "year": 2025,
       "kind": "legacy",
       "title": "Award-winning brawls",
-      "note": "The stunt team behind his fights with Hanumanthu wins Best Stunt Choreography at the 71st National Film Awards."
+      "note": "Hanu-Man, the film he fights in, wins Best Stunt Choreography among its three awards at the 71st National Film Awards.",
+      "with": "hanu-man"
     }
   ],
-  "heat": 35
+  "heat": 35,
+  "facts": [
+    {
+      "text": "In 1998 Saurashtra, young Michael adores superheroes, tries to fly and fails, and is told they are fiction. In the film, that moment leads him to commit a terrible crime.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "As Mega Man he is a gadget-based vigilante in Mumbai who has no real power, and his friend Siri helps him while he secretly hunts for true superpowers.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "An elderly sage disguised as Hanumanthu secretly beats Michael's mercenaries; he is later revealed as Vibhishana, the immortal king of Lanka in the Ramayana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "In the film, the Rudramani Michael craves is formed from a drop of Hanuman's blood; the art team made over a hundred versions, finally placing the drop as Rama's name.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 8
+    },
+    {
+      "text": "When Michael's helicopter is destroyed, the gem shatters and an ancient seal breaks, awakening imprisoned asuras across the realm.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Michael's first-look poster, revealed by Rana Daggubati on 8 June 2022, showed him in a tailored suit with a gas mask and an eye patch, leading armed men while robotic bats watch overhead.",
+      "kind": "screen",
+      "source": "https://www.bollywoodhungama.com/?p=1404859",
+      "interest": 8
+    },
+    {
+      "text": "Vinay Rai, who plays Michael, started out as a commercial model in Mumbai and played rugby for BRFC, touring Bahrain with the Indian squad in 2001.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vinay_Rai",
+      "interest": 8
+    },
+    {
+      "text": "Director Prasanth Varma said that if Gotham is modelled on New York, his fictional village of Anjanadri is somewhat like Yanam, the setting where Michael stages his hunt for the gem.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Rishab Shetty was first approached to play Vibhishana, the sage who beats Michael's mercenaries, but declined because of Kantara; the role went to Samuthirakani, and Shetty was later announced as Hanuman for the sequel.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Michael's friend Siri is Dr. Sirivennela, played by Vennela Kishore. After Michael leaves him in a fire, the sage rescues him, and he later helps the hero find the gem.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Michael plans a neurotoxic gas to freeze the villagers and take the gem. At Anjamma's wedding he falsely claims the gem is his, but Hanumanthu exposes the lie.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Michael and Siri arrive in Anjanadri posing as a corporate social responsibility team while probing the source of Hanumanthu's strength. Siri kidnaps him on Michael's order, but he escapes with the gem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Michael's toolkit includes armed mercenaries, neurotoxic gas, a fleet of gas-releasing drones and a getaway helicopter. Hanumanthu, helped by the monkey Koti, destroys the drones and later the helicopter.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "When the helicopter blows up, Michael dies and the gem's divine energy fuses with Hanumanthu, so the villain's death is what finally gives the hero his full power.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Hanu-Man ends with the sequel Jai Hanuman announced in its end credits. Rishab Shetty was named as Hanuman in October 2024, taking the story that Michael's defeat set up.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Prasanth_Varma_Cinematic_Universe",
+      "interest": 7
+    },
+    {
+      "text": "Another Anjanadri bully, Gajapathi, loses a public wrestling match to Hanumanthu, then reforms and helps defeat Michael's drones, a contrast with Michael, who never changes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "While Hanumanthu fights the drones, Dr. Meenakshi, played by Amritha Aiyer, works to stabilise the villagers hit by Michael's gas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    },
+    {
+      "text": "Vinay Rai turned down romance roles because he did not want to be a chocolate boy. He moved to villain parts with Mysskin's Thupparivaalan (2017), where a Sify critic called him a revelation.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vinay_Rai",
+      "interest": 7
+    },
+    {
+      "text": "Before Michael, Vinay Rai played the villain opposite Sivakarthikeyan in Doctor (2021), and also had negative roles in Etharkkum Thunindhavan (2022) and Veeran (2023).",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Vinay_Rai",
+      "interest": 7
+    },
+    {
+      "text": "The film sets a boy told heroes are fiction against Hanumanthu, a small-time thief who actually receives a hero's power, so Michael's lifelong wish lands on someone else.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Hanu-Man",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Michael is the villain of the Telugu superhero film Hanu-Man. He is a rich man obsessed with superheroes who plays a gadget hero called Mega Man while secretly hunting for real powers. He is a dark villain who even betrays his friend, so the film suits older kids.",
+  "story": [
+    {
+      "title": "A boy who loved superheroes",
+      "text": "Young Michael adores superheroes. When he is told they are only stories, it leads him to a terrible crime in the film."
+    },
+    {
+      "title": "Mega Man",
+      "text": "Grown up in Mumbai, he plays a gadget-powered hero called Mega Man with his friend Siri, but he has no real powers."
+    },
+    {
+      "title": "A charity disguise",
+      "text": "He arrives in the village of Anjanadri pretending to run a charity project, but he really wants the gem behind Hanumanthu's strength."
+    },
+    {
+      "title": "A greedy plan",
+      "text": "Michael plans to freeze the villagers with gas from drones and turns on Siri when he objects."
+    },
+    {
+      "title": "The helicopter",
+      "text": "He steals the gem and flies off, but Hanumanthu destroys the helicopter, and Michael does not survive the blast."
+    }
+  ]
 }

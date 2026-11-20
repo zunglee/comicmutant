@@ -1,0 +1,238 @@
+{
+  "slug": "nagarjuna",
+  "name": "Nagarjuna",
+  "aka": ["Nagarjuna of the Madhyamaka", "Second Buddha"],
+  "native": "नागार्जुन",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Buddhist philosopher of the Middle Way",
+  "summary": "Nagarjuna was a Buddhist teacher, probably from southern India around 150 to 250 CE. His writings on emptiness and the Middle Way shaped Mahayana thought across Asia.",
+  "about": "Scholars usually place Nagarjuna in southern India around 150 to 250 CE, though the oldest life stories were written centuries later in Chinese and Tibetan and are full of legend. Tradition says he mastered scriptures in the palace of the nagas, could make gold, and advised a king. His best-known work, the Mulamadhyamakakarika, uses about 450 verses to argue that nothing has an independent, fixed essence, an idea called emptiness. Tibetan Buddhists call him a second Buddha, and Pure Land, Madhyamaka and tantric traditions all honour him. Scholars think several authors may share his name. Kumarajiva's account says he was born in Vidarbha, while the scholar Walser thinks he may have worked near Amaravati.",
+  "kidSummary": "Nagarjuna was a very clever Buddhist teacher who lived in India long ago. He taught that everything depends on other things and keeps changing, so nothing stands alone. Many stories say he visited a palace of serpent beings to find hidden books.",
+  "story": [
+    {
+      "title": "A young seeker",
+      "text": "A Chinese tradition says Nagarjuna was a Brahmin boy who learned a great deal, then chose to follow the Buddha and became a monk."
+    },
+    {
+      "title": "Down to the nagas",
+      "text": "Old stories say he travelled to the palace of the nagas, who are serpent beings. There he read every scripture, even secret ones."
+    },
+    {
+      "title": "Bringing the books back",
+      "text": "He returned and taught what he had learned, and his clear arguments helped Mahayana Buddhism spread."
+    },
+    {
+      "title": "Everything is connected",
+      "text": "Nagarjuna taught that nothing exists all alone. A flower needs seeds, rain and sun, and each of those needs other things too."
+    },
+    {
+      "title": "A letter to a king",
+      "text": "He wrote friendly advice to a king about kindness and fair rule. People still read those letters today."
+    }
+  ],
+  "teaches": [
+    "Everything depends on other things",
+    "Look closely before you decide what is true",
+    "Rulers should be kind and fair"
+  ],
+  "symbol": "book",
+  "emblems": ["Serpent hoods (naga legends)", "Text of the Middle Way"],
+  "family": [
+    {
+      "relation": "Pupil (tradition)",
+      "name": "Aryadeva"
+    }
+  ],
+  "texts": ["Mulamadhyamakakarika", "Vigrahavyavartani", "Ratnavali", "Suhrllekha", "Yuktisastika"],
+  "places": ["Nagarjunakonda", "Srisailam region (tradition)", "Nalanda (later tradition)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "He is famed for the tetralemma, a four-cornered test: a thing may be said to exist, not exist, both, or neither, and he checks each corner in turn to show none holds up as a fixed essence.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tibetan tradition says a seer predicted the boy would live only seven days; offerings to a hundred monks stretched that to seven years, and he was then sent to Nalanda.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Xuanzang, Taranatha and Buton each say he could turn rocks into gold.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Chinese biography describes him making an elixir that could make a person invisible.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tibetan tradition says he taught the nagas under the sea and carried home naga clay, which was then used to build temples and stupas.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Nagarjunakonda hill site was flooded by the Nagarjuna Sagar dam after a big rescue dig in 1954 to 1960; relics moved to a hilltop that became an island museum in 1966.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A later tantric author and an Ayurvedic writer on alchemy may share the name Nagarjuna, which is one reason scholars struggle to separate the original philosopher's life and works.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Chinese monk Yijing wrote that Nagarjuna passed a collection of mantras to his pupil Nanda, and East Asian esoteric Buddhists came to see him as their founding patriarch.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ratnavali he explains relativity with a simple example: something is short only in relation to something long, so neither word names a built-in quality.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His best-known pupil was Aryadeva, and a relief at the Buddhavanam stupa in Telangana shows Nagarjuna handing him a bowl.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tibetan tradition says he predicted that a boy met on the road would become a king, and later taught that king for three years at Shri Parvata.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tibetan legend says he died when a prince asked for his head; because he had once killed an ant while cutting grass, only a blade of kusha grass could cut it.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Tibetan legend his severed head and body are said to be drawing closer each year, and when they rejoin he will return to teach again.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Legend says the nagas kept the last two chapters of the 100,000-verse Prajnaparamita so that Nagarjuna would have to return and teach them.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One tale says his name joins naga to Arjuna, because six nagas shaded him as he taught; in Chinese he is Longshu, 'Dragon Tree'.",
+      "kind": "language",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tibetan tradition says Nagarjuna lived for about 600 years.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Roman gold coins, including pieces of Tiberius and Faustina the Elder, have turned up at Nagarjunakonda, hinting at far-reaching trade connections.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chinese biographies say he was a Brahmin who mastered the Vedas before turning to Buddhism, and that he beat proud Brahmins in debates and magic duels.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagarjuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The site's original name was Vijayapuri, capital of the Ikshvaku kings; it took its modern name from Nagarjuna, though he probably had little to do with building it.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Inscriptions at Nagarjunakonda record that the Ikshvaku queen Camtisiri paid for work on the main stupa for ten years in a row.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nagarjunakonda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tibetan tradition says that as Nalanda's abbot he sent away 8,000 monks who broke the rules and beat 500 non-Buddhist debaters.",
+      "kind": "story",
+      "source": "https://studybuddhism.com/en/tibetan-buddhism/spiritual-teachers/nagarjuna",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What do Tibetan Buddhists often call Nagarjuna?",
+      "options": ["The first Buddha", "The second Buddha", "The last king", "The flying monk"],
+      "answer": 1,
+      "why": "Tibetan tradition honours him as a second Buddha."
+    },
+    {
+      "q": "In legend, whose palace did Nagarjuna visit to find scriptures?",
+      "options": ["Birds", "Fish", "Nagas", "Lions"],
+      "answer": 2,
+      "why": "Traditional accounts say he went to the palace of the nagas."
+    },
+    {
+      "q": "What is the name of his best-known work?",
+      "options": ["Mulamadhyamakakarika", "Dhammapada", "Jataka", "Gita"],
+      "answer": 0,
+      "why": "It is the Fundamental Verses on the Middle Way."
+    },
+    {
+      "q": "What drowned the hill site called Nagarjunakonda?",
+      "options": ["A volcano", "A lake made by a dam", "A snowstorm", "A sandstorm"],
+      "answer": 1,
+      "why": "The Nagarjuna Sagar dam created a lake that covered it."
+    }
+  ],
+  "related": ["gautama-buddha", "ashoka", "manjushri", "prajnaparamita", "padmasambhava"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nagarjuna",
+    "stanford": "https://plato.stanford.edu/entries/nagarjuna/",
+    "nagarjunakonda": "https://en.wikipedia.org/wiki/Nagarjunakonda"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d5e6f0",
+    "c2": "#e7efdc"
+  },
+  "years": "c. 150–250 CE",
+  "order": 10
+}

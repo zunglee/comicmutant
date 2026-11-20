@@ -1,0 +1,230 @@
+{
+  "slug": "meera-bai",
+  "name": "Meera Bai",
+  "aka": ["Mirabai", "Meera", "Sant Meerabai"],
+  "native": "मीराबाई",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Rajput princess and Krishna-devoted poet-saint",
+  "years": "c. 1498–c. 1547",
+  "summary": "Meera Bai was a 16th-century Rajasthani poet-saint who sang to Krishna as her beloved. Her songs, still loved across India, are shaped by devotion that mattered more to her than royal life.",
+  "about": "Meera Bai was born into a Rathore Rajput family in Kudki, grew up in Merta and, according to historians, was married in 1516 to Bhoj Raj, heir of Mewar. Her husband died in 1521. Later accounts say she was pressed by her in-laws and sang openly to Krishna, whom she addressed as her Lord and beloved. Many legends describe attempts on her life that she survived, but scholars note these stories were written down long after her time, and they disagree on the details. Her poems, in Rajasthani and related dialects, are meant to be sung to ragas. Thousands are credited to her, though scholars think only a few hundred are really hers, and most were first written down centuries later. Different traditions tell her story differently, but all agree that her songs of longing for Krishna touched people of every background.",
+  "kidSummary": "Meera Bai was a princess from Rajasthan who loved Krishna with all her heart and sang songs to him. Many stories say she kept singing even when people tried to stop her. Her songs are still sung in homes, temples and films today.",
+  "story": [
+    {
+      "title": "A princess in Merta",
+      "text": "Meera was born into a royal Rajput family and grew up in Merta. In the stories told about her, she loved Krishna from early childhood."
+    },
+    {
+      "title": "A royal marriage",
+      "text": "In 1516 she was married to the crown prince of Mewar, and she moved to the great fort of Chittor."
+    },
+    {
+      "title": "Songs for Krishna",
+      "text": "Meera kept singing and dancing for Krishna, even in the royal palace. Her songs spoke to him as a dear friend and beloved."
+    },
+    {
+      "title": "Hard times",
+      "text": "After her husband died, legends say her in-laws were unhappy with her and tried to harm her. Stories say Krishna's grace kept her safe, though historians say the truth is hard to know."
+    },
+    {
+      "title": "Songs that stayed",
+      "text": "Meera left Chittor and travelled to holy places. Her songs travelled even further, sung by ordinary people for hundreds of years."
+    },
+    {
+      "title": "A legend of Dwarka",
+      "text": "Stories say Meera spent her last years at Dwarka or Vrindavan. One legend says she vanished into an image of Krishna, though historians find no evidence."
+    }
+  ],
+  "teaches": [
+    "Love and devotion can matter more than rank",
+    "Stay true to your heart even when others disagree",
+    "Music can carry deep feeling"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Tulsi garland", "Bhajans"],
+  "family": [
+    {
+      "relation": "Beloved Lord (in her songs)",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Said guru in later legend",
+      "name": "Ravidas",
+      "slug": "ravidas"
+    }
+  ],
+  "texts": ["Meera padavali", "Prem Ambodh Pothi", "Payo Ji Maine Ram Ratan Dhan Payo"],
+  "places": ["Kudki, Rajasthan", "Merta", "Chittorgarh Fort", "Dwarka", "Vrindavan"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "A legend says that when poison was sent to Meera, she tied a sacred thread on a Krishna image and trusted him. Some call this the origin of tying rakhi on Krishna's image.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one legend a cup of poison, passed off as holy nectar, did not harm Meera. In a basket meant for flowers, the snake turned into a Krishna image in one version and a garland in another.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In another legend, Meera was told to drown herself but floated instead. Historians doubt these tales and say political turmoil may explain her troubles.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "Some say Akbar visited her with the singer Tansen, but scholars doubt it because Tansen joined Akbar's court about 15 years after Meera's death.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 8
+    },
+    {
+      "text": "A famous legend says Meera ended her days at Dwarka or Vrindavan by vanishing into an image of Krishna. Scholars say there is no historical evidence for it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A widely told tale says a Vrindavan teacher refused to meet her because she was a woman. She replied that she had thought Krishna was the only man in Vrindavan. Scholars say it is quite likely apocryphal.",
+      "kind": "story",
+      "source": "https://southasia.ucla.edu/religions/gurus-saints/mirabai",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The song 'Mere to Giridhar Gopal' won Vani Jairam the 1980 Filmfare award for Best Female Playback Singer. It came from Gulzar's 1979 film Meera, with music by Ravi Shankar.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meera_(1979_film)",
+      "interest": 7
+    },
+    {
+      "text": "Hema Malini, who played Meera in 1979, called it her biggest regret that Lata Mangeshkar did not sing the film's bhajans. Lata had already recorded them for her brother's album.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meera_(1979_film)",
+      "interest": 7
+    },
+    {
+      "text": "In the 1979 film, designer Bhanu Athaiya used changing saree colours to show Meera's inner journey, moving from bright princess shades to a pale beige.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meera_(1979_film)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her father-in-law Rana Sanga is said to have built the Kumbha Shyam temple in Chittor Fort at Meera's request. She used it as a private place to sing Krishna's name.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kumbha_Shyam_Temple,_Chittorgarh",
+      "interest": 7
+    },
+    {
+      "text": "The Prem Ambodh Pothi, a Punjabi text from about 1693, has Meera married to a man called Giridhar, the Mountain-lifter. It also counts her among sixteen great bhakti saints.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "After her husband died, relatives are said to have expected her to join his funeral pyre. In one of her songs she refuses and says she will keep singing of Girdhar, her name for Krishna.",
+      "kind": "history",
+      "source": "https://southasia.ucla.edu/religions/gurus-saints/mirabai",
+      "interest": 8
+    },
+    {
+      "text": "Her mother died when she was about four or five, so Meera grew up mostly in her grandfather's Vaishnava household, where her early love for Krishna had room to grow.",
+      "kind": "history",
+      "source": "https://southasia.ucla.edu/religions/gurus-saints/mirabai",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The UCLA account says her husband died before her father, who was killed in January 1528 fighting the Mughal emperor Babur. Her troubles at court came in the middle of a war-torn time.",
+      "kind": "history",
+      "source": "https://southasia.ucla.edu/religions/gurus-saints/mirabai",
+      "interest": 7
+    },
+    {
+      "text": "In one song Meera names Ravidas, a leather-worker, as her guru. A small canopy beside her Krishna temple at Chittor holds footprints said to be his.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "The first dated praise of Meera is in Nabhadas's Bhaktamal, about 1600. In 1604 a Sikh named Bhai Banno copied the Adi Granth and added songs credited to her, which the Gurus left out of the standard edition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "The three oldest records that mention Meera come from three different cities: Jodhpur, Amritsar and Varanasi. Her fame spread across north India very early.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "From the 1700s on, different communities retold Meera's story to match their own values. These retellings worked more as acts of devotion than as records of facts.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "Even the end of her life is told differently. Scholars give her death as about 1546, while the legend of her vanishing into Krishna's image dates it to 1547.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    },
+    {
+      "text": "Scholar Edwin Bryant says Meera appeals to people because she stands firm for her convictions and suffers for them, yet speaks in the language of love.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mirabai",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which god did Meera Bai sing to?",
+      "options": ["Shiva", "Krishna", "Ganesha", "Indra"],
+      "answer": 1,
+      "why": "She addressed Krishna as her beloved."
+    },
+    {
+      "q": "Which fort is linked to Meera's story?",
+      "options": ["Chittor", "Golconda", "Gwalior", "Agra"],
+      "answer": 0,
+      "why": "She lived at Chittor after her marriage to the Mewar prince."
+    },
+    {
+      "q": "In the legend, what was the poison said to be passed off as?",
+      "options": ["Nectar", "Tea", "Ink", "Oil"],
+      "answer": 0,
+      "why": "A legend says the cup of poison was sent to her described as holy nectar."
+    },
+    {
+      "q": "What does 'Giridhar', the name Meera often used for Krishna, mean?",
+      "options": ["Mountain-lifter", "Flute-player", "Butter-thief", "Lotus-eyed"],
+      "answer": 0,
+      "why": "Her poems call Krishna the Mountain-lifter, the meaning of Giridhar or Girdhar."
+    }
+  ],
+  "related": ["krishna", "radha", "ravidas", "tulsidas", "surdas", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mirabai",
+    "kumbha": "https://en.wikipedia.org/wiki/Kumbha_Shyam_Temple,_Chittorgarh",
+    "merta": "https://en.wikipedia.org/wiki/Merta_City",
+    "meera1979": "https://en.wikipedia.org/wiki/Meera_(1979_film)",
+    "ucla": "https://southasia.ucla.edu/religions/gurus-saints/mirabai"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F0C4D2",
+    "c2": "#F3E3B5"
+  },
+  "order": 10
+}

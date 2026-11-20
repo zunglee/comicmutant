@@ -5,7 +5,9 @@ import { Link } from 'react-router';
 import { useAnimate } from '~/lib/fx';
 import type { DailyArchive, OpenDaily } from '~/lib/quiz-contract';
 import { PUBLISHED_UNIVERSES, type PublishedUniverse, UNIVERSE_LABEL } from '~/lib/taxonomy';
-import { scopeVars } from '~/lib/theme/compute';
+import { contrast, scopeVars } from '~/lib/theme/compute';
+import { useSkin } from '~/skins/context';
+import { useSkinMotion } from '~/skins/motion';
 import { dayLabelOf, hhmm, msToIstMidnight, playHref, resumeLine } from './daily';
 import { IconBolt, IconCheck, IconSearch } from './qicons';
 
@@ -28,6 +30,7 @@ const FLOATERS = [
 ];
 
 export function HubTitle() {
+  const mo = useSkinMotion();
   const animate = useAnimate();
   const word = (w: string, base: number, tilt: number) =>
     [...w].map((ch, i) => (
@@ -39,7 +42,7 @@ export function HubTitle() {
         initial={animate ? { y: -120, rotate: (i % 2 ? 1 : -1) * 25, scale: 0.4 } : false}
         animate={{ y: 0, rotate: tilt + (i % 2 ? 2 : -2), scale: 1 }}
         whileHover={{ y: -10, rotate: (i % 2 ? -1 : 1) * 12, scale: 1.18 }}
-        transition={{ type: 'spring', stiffness: 460, damping: 13, delay: 0.05 * (i + base) }}
+        transition={mo.spring({ stiffness: 460, damping: 13 }, mo.delay(i + base, 0.05))}
       >
         {ch}
       </m.span>
@@ -61,7 +64,7 @@ export function HubTitle() {
         className="kicker"
         initial={animate ? { y: -12, opacity: 0 } : false}
         animate={{ y: 0, opacity: 1 }}
-        transition={{ delay: 0.1 }}
+        transition={mo.calm ? mo.tween(0.3, { delay: 0.1 }) : { delay: 0.1 }}
       >
         The facts quiz for comic fans
       </m.p>
@@ -78,7 +81,7 @@ export function HubTitle() {
         className="mx-auto mt-3 max-w-xl text-lg max-sm:hidden"
         initial={animate ? { y: 16, opacity: 0 } : false}
         animate={{ y: 0, opacity: 1 }}
-        transition={{ delay: 0.7 }}
+        transition={mo.calm ? mo.tween(0.3, { delay: 0.7 }) : { delay: 0.7 }}
       >
         Four options. Fifteen seconds. 108 characters to prove you know. Build a streak, beat the
         clock, climb the boards.
@@ -101,6 +104,7 @@ export function DailyCard({
   /** Daily starts this browser/account has left today; null when unknown. */
   startsLeft: number | null;
 }) {
+  const mo = useSkinMotion();
   const usedUp = !open && startsLeft === 0;
   const animate = useAnimate();
   const [left, setLeft] = useState<number | null>(null);
@@ -116,7 +120,7 @@ export function DailyCard({
       className="panel-c1 halftone qz-sweep relative mb-5 overflow-hidden p-3 sm:mb-10 sm:p-7"
       initial={animate ? { y: 40, rotate: 1.5, scale: 0.96 } : false}
       animate={{ y: 0, rotate: -0.6, scale: 1 }}
-      transition={{ type: 'spring', stiffness: 240, damping: 16, delay: 0.3 }}
+      transition={mo.spring({ stiffness: 240, damping: 16 }, 0.3)}
     >
       <span
         aria-hidden
@@ -188,7 +192,7 @@ export function YesterdayAnswers({
         <summary className="qz-hit flex cursor-pointer list-none items-center gap-3 p-2.5 sm:p-4 [&::-webkit-details-marker]:hidden">
           <span
             aria-hidden
-            className="grid size-9 shrink-0 place-items-center rounded-md border-[3px] border-line bg-c3 font-display text-on-c3 text-xl transition-transform group-open:rotate-90"
+            className="grid size-9 shrink-0 place-items-center rounded-skin-s border-[3px] border-line bg-c3 font-display text-on-c3 text-xl transition-transform group-open:rotate-90"
           >
             {'>'}
           </span>
@@ -216,7 +220,7 @@ export function YesterdayAnswers({
                 }
               >
                 <p className="mb-1 flex flex-wrap items-center gap-2 font-head text-xs uppercase tracking-wider">
-                  <span className="rounded-full border-2 border-line bg-c1 px-2 py-0.5 text-on-c1">
+                  <span className="round border-2 border-line bg-c1 px-2 py-0.5 text-on-c1">
                     {i + 1}. {q.character.name}
                   </span>
                   <span className="text-muted">{UNIVERSE_LABEL[q.character.universe]}</span>
@@ -260,7 +264,7 @@ export function YesterdayAnswers({
 /* ── universes ─────────────────────────────────────────────────────────────────────────── */
 
 const UNI: Record<PublishedUniverse, { word: string; pal: [string, string, string] }> = {
-  marvel: { word: 'POW!', pal: ['#e23636', '#1b1620', '#ffd400'] },
+  marvel: { word: 'POW!', pal: ['#e43a3a', '#1b1620', '#ffd400'] },
   dc: { word: 'BAM!', pal: ['#2f6fe4', '#0a1a44', '#ffe14d'] },
   indian: { word: 'BOOM!', pal: ['#ff8a1f', '#0f5c2e', '#fff3d6'] },
   anime: { word: 'SUGOI!', pal: ['#ff4fa3', '#2b1b5e', '#7df9ff'] },
@@ -268,7 +272,10 @@ const UNI: Record<PublishedUniverse, { word: string; pal: [string, string, strin
 };
 
 export function UniverseCards({ counts }: { counts: Record<PublishedUniverse, number> }) {
+  const mo = useSkinMotion();
   const animate = useAnimate();
+  // Ink outlines rescue a yellow word on a coloured tile only where the skin draws dark ink (comic).
+  const inked = useSkin().spec.surfaces === 'character';
   return (
     <section id="universes" aria-labelledby="qz-uni" className="mb-4 scroll-mt-24 sm:mb-10">
       <p className="kicker max-sm:hidden">Pick a universe</p>
@@ -284,7 +291,7 @@ export function UniverseCards({ counts }: { counts: Record<PublishedUniverse, nu
               initial={animate ? { y: 36, rotate: i % 2 ? 2 : -2 } : false}
               whileInView={{ y: 0, rotate: i % 2 ? 0.8 : -0.8 }}
               viewport={{ once: true, margin: '-30px' }}
-              transition={{ type: 'spring', stiffness: 260, damping: 18, delay: (i % 3) * 0.06 }}
+              transition={mo.spring({ stiffness: 260, damping: 18 }, mo.delay(i % 3, 0.06))}
               whileHover={{ y: -6, rotate: i % 2 ? -1.5 : 1.5 }}
             >
               <Link
@@ -300,7 +307,13 @@ export function UniverseCards({ counts }: { counts: Record<PublishedUniverse, nu
                 </span>
                 <span
                   aria-hidden
-                  className="w-[5.5rem] shrink-0 font-display text-3xl text-c3 ink-text sm:w-auto sm:text-5xl"
+                  className={`min-w-[5.5rem] shrink-0 font-display text-3xl sm:min-w-0 sm:text-5xl ${inked ? 'ink-text' : ''}`}
+                  // The word is the tile's accent on the tile's colour; where that pair is under 3:1 it takes
+                  // the tile's own on-colour instead (a skin without ink shadows has nothing to rescue it).
+                  style={{
+                    color:
+                      inked && contrast(c.pal[2], c.pal[0]) >= 3 ? 'var(--c3)' : 'var(--on-c1)',
+                  }}
                 >
                   {c.word}
                 </span>
@@ -421,7 +434,7 @@ export function CharacterPicker({
           <summary className="qz-hit flex cursor-pointer list-none items-center gap-3 p-3 font-head [&::-webkit-details-marker]:hidden">
             <span
               aria-hidden
-              className="grid size-7 shrink-0 place-items-center rounded-md border-[3px] border-line bg-c3 font-display text-on-c3 transition-transform group-open:rotate-90"
+              className="grid size-7 shrink-0 place-items-center rounded-skin-s border-[3px] border-line bg-c3 font-display text-on-c3 transition-transform group-open:rotate-90"
             >
               {'>'}
             </span>

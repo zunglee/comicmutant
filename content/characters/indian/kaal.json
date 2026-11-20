@@ -41,7 +41,7 @@
       "era": "Krrish 3",
       "years": "2013",
       "title": "The Kaya gambit",
-      "beat": "His shapeshifting agent Kaya takes Priya's place, and Kaal kidnaps the real, pregnant Priya to harvest her baby's bone marrow."
+      "beat": "His shapeshifting agent Kaya takes Priya's place while Priya is held in his lab, and Kaal plans to use Krrish's unborn child to cure himself."
     },
     {
       "era": "Krrish 3",
@@ -58,13 +58,13 @@
   ],
   "gossip": [
     {
-      "type": "fact",
-      "text": "Maanvar blends two Hindi words: maanav (human) and jaanvar (animal).",
-      "spice": 1
+      "type": "gossip",
+      "text": "Chitrangada Singh was announced as a mutant and left, and Jacqueline Fernandez signed and backed out, before Kangana Ranaut took the part of Kaal's shapeshifter Kaya.",
+      "spice": 2
     },
     {
-      "type": "fact",
-      "text": "Kaal is technically Krrish's half-brother, because both are sons of Rohit Mehra.",
+      "type": "gossip",
+      "text": "Critics claimed Krrish 3's domestic collections were inflated by around 60 crore rupees.",
       "spice": 3
     },
     {
@@ -80,14 +80,14 @@
     },
     {
       "type": "fact",
-      "text": "Krrish 3 grossed about ₹393 crore worldwide on a budget of around ₹100 crore.",
+      "text": "On Rotten Tomatoes, Krrish 3 sits at 71 percent from 17 critics, who praised the cast and effects but not the originality.",
       "spice": 1
     }
   ],
   "quiz": [
     {
       "q": "What are Kaal's human-animal mutants called?",
-      "options": ["Asuras", "Nomu", "Maanvars", "Robo Army"],
+      "options": ["Shadowmen", "Jadoos", "Maanvars", "Sky Soldiers"],
       "answer": 2,
       "why": "Maanvar mixes the Hindi words for human and animal."
     },
@@ -96,6 +96,23 @@
       "options": ["Vivek Oberoi", "Naseeruddin Shah", "Arjun Rampal", "Hrithik Roshan"],
       "answer": 0,
       "why": "Vivek Oberoi played the paralysed mastermind."
+    },
+    {
+      "q": "How does Krrish finally defeat Kaal?",
+      "options": [
+        "Rohit's solar device focusing sunlight",
+        "A giant magnet",
+        "Jadoo's spaceship",
+        "A flood of cold water"
+      ],
+      "answer": 0,
+      "why": "Krrish uses Rohit's solar experiment pen to focus sunlight on Kaal."
+    },
+    {
+      "q": "Where does Kaal's virus first spread?",
+      "options": ["Brazil", "Norway", "Namibia", "Egypt"],
+      "answer": 2,
+      "why": "The deadly virus spreads in Namibia before reaching Mumbai."
     }
   ],
   "rivals": ["krrish"],
@@ -118,8 +135,8 @@
     {
       "year": 2013,
       "kind": "debut",
-      "title": "Vivek Oberoi's Kaal",
-      "note": "Krrish 3 brings in a paralysed genius with telekinetic powers and an army of mutants."
+      "title": "Diwali debut",
+      "note": "Krrish 3 opens on 1 November 2013 for the Diwali weekend, bringing a paralysed genius with telekinesis and an army of mutants."
     },
     {
       "year": 2013,
@@ -137,9 +154,161 @@
     {
       "year": 2013,
       "kind": "legacy",
-      "title": "Dubbed for the south",
-      "note": "Krrish 3 also plays in Tamil and Telugu, taking Kaal to audiences well beyond Hindi cinema."
+      "title": "A record-setting film",
+      "note": "Krrish 3 ends as the highest-grossing Indian superhero film, at about 393 crore rupees worldwide.",
+      "with": "krrish"
     }
   ],
-  "heat": 45
+  "heat": 45,
+  "facts": [
+    {
+      "text": "Vivek Oberoi's metal Kaal suit weighed about 28 kilograms and took 7 or 8 people two to three hours to put on him.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Rakesh Roshan rewrote his script because the first version was too similar to the Hollywood film Spider-Man 3.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Kaal can move only his face and his index fingers, but his mind and his telekinetic and telepathic powers make him one of the most dangerous people in the story.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "Maanvar, the name for his mutants, blends two Hindi words: maanav for human and jaanvar for animal.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "The Maanvars are made by fusing human and animal serum: Striker uses a frog's tongue, Rhino Man a horn, Cheetah Woman speed and claws, Scorpion Woman a stinger in her plait.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 8
+    },
+    {
+      "text": "Kaal is Krishna's biological brother, since both are Rohit Mehra's sons, and Hrithik Roshan plays both Rohit and Krishna.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "In the finale Kaal wraps himself in a steel body using his magnetic powers and flies to Mumbai to threaten its people.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 9
+    },
+    {
+      "text": "Kaal's chameleon-like agent Kaya is made by fusing a woman's serum with a chameleon's, which is how she can take on anyone's shape. She later falls for Krishna after posing as Priya.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Some Krrish 3 scenes were shot in the Alps, and the Sphinx Observatory in the Alps is shown on screen as Kaal's laboratory.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Kaal is also an ordinary Hindi word: it means time or an era, and in Hindu usage it can also mean death.",
+      "kind": "culture",
+      "source": "https://en.wiktionary.org/wiki/%E0%A4%95%E0%A4%BE%E0%A4%B2",
+      "interest": 7
+    },
+    {
+      "text": "Among Kaal's Maanvars, Ant Man is a human-ant hybrid who can lift objects up to 100 times his own body weight.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Every visual-effects action sequence in Krrish 3 was revised 40 to 50 times, and the very last effects shot arrived on 22 October 2013, ten days before release.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "Kaal's virus does not affect Rohit, Krishna or Priya. Rohit notices this and then makes the antidote from Krishna's blood.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "Dr. Arya's experiment was meant to make a copy of Rohit, but he got a disabled child instead and left him at an orphanage, where a wealthy family adopted him.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Rakesh Roshan wanted a villain as powerful as the hero. Talks with Ajay Devgn and Shah Rukh Khan fell through before Vivek Oberoi was cast as Kaal.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Vivek Oberoi said Kaal was the opposite of his own friendly nature, and that showing the character's hatred of humanity through his eyes alone was hard.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Kaal plans to make Priya give birth early so that he can use her baby's bone marrow to cure his disability.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Kaal creates the Maanvars as test subjects in his hunt for a cure for his own body, but the experiments fail to help him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "Cheetah Woman, one of Kaal's Maanvars, is said to match no human for speed, and she can teleport like a ghost.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Principal photography began on 1 December 2011 with Vivek Oberoi, Kangana Ranaut and Priyanka Chopra, while Hrithik Roshan missed the first schedule with a back injury.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "Dr. Alok Sen, a scientist at Kaal's company who wants to reveal what he knows about the virus, is silenced by Kaal's agent Kaya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Kaal is the clever villain of the film Krrish 3. His body barely moves, but his mind can move things from afar. He makes animal-human mutants called Maanvars and spreads a virus so he can sell the cure, until Krrish stops him.",
+  "story": [
+    {
+      "title": "A mind in a still body",
+      "text": "Kaal can move only his face and two fingers, but his mind is full of power and he runs his own laboratory."
+    },
+    {
+      "title": "The Maanvars",
+      "text": "He makes mutants that mix human and animal, like a frog man, a cheetah woman and a rhino man."
+    },
+    {
+      "title": "A virus for profit",
+      "text": "Kaal spreads a virus on purpose so that people will pay him for the cure."
+    },
+    {
+      "title": "A shapeshifting helper",
+      "text": "His agent Kaya can look like anyone, and she even pretends to be Priya."
+    },
+    {
+      "title": "Face to face with Krrish",
+      "text": "Kaal and Krrish fight over Mumbai, and Krrish wins by focusing sunlight with Rohit's invention."
+    }
+  ]
 }

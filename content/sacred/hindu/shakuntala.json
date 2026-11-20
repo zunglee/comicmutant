@@ -1,0 +1,256 @@
+{
+  "slug": "shakuntala",
+  "name": "Shakuntala",
+  "aka": ["Sakuntala", "Shakuntalā", "Foster daughter of Kanva"],
+  "native": "शकुन्तला",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Hermitage-raised heroine, mother of Bharata",
+  "summary": "Shakuntala is the heroine of a story in the Mahabharata and of Kalidasa's famous play. Raised by birds and a sage, she marries King Dushyanta and becomes the mother of the emperor Bharata.",
+  "about": "In the Adi Parva of the Mahabharata, Shakuntala is the daughter of the sage Vishvamitra and the celestial nymph Menaka, whom Indra sent to interrupt Vishvamitra's penance. The text says the baby was left in the forest, protected by shakunta birds, and found by the sage Kanva, who named her after them and raised her in his hermitage. When King Dushyanta of Hastinapura comes hunting, the two marry in the gandharva way, and she later raises their son Bharata. In the Mahabharata she speaks boldly to the king when he hesitates to accept them, and a voice from the sky confirms the truth. Kalidasa's Sanskrit play Abhijnanashakuntalam, thought to be from the 4th or 5th century CE, changes the tale: the sage Durvasa's curse makes Dushyanta forget her until he sees a lost signet ring. The play travelled to Europe in 1789 and delighted writers like Goethe, and the story is retold in paintings, operas, ballets and many Indian films.",
+  "kidSummary": "Shakuntala grew up in a forest hermitage with deer and birds as friends. She married King Dushyanta, and their son became the great emperor Bharata. In Kalidasa's play, a lost ring makes the king forget her for a while, until a fisherman finds it inside a fish.",
+  "story": [
+    {
+      "title": "Found by the birds",
+      "text": "A baby girl is left in the forest, where shakunta birds gather round to protect her. The sage Kanva finds her, names her Shakuntala, and brings her up in his hermitage."
+    },
+    {
+      "title": "A king comes hunting",
+      "text": "King Dushyanta, out hunting, visits the hermitage while Kanva is away. Shakuntala welcomes him. The two like each other very much and are married in a simple ceremony in the forest."
+    },
+    {
+      "title": "The ring and the curse",
+      "text": "In Kalidasa's play, Dushyanta gives her a ring. Lost in thought, Shakuntala fails to greet the sage Durvasa, who says the king will forget her until he sees a sign of their marriage."
+    },
+    {
+      "title": "At the king's court",
+      "text": "Shakuntala goes to the palace, but the ring has slipped off her finger in a river. Dushyanta cannot remember her. Later a fisherman finds the ring in a fish, and the king's memory comes flooding back."
+    },
+    {
+      "title": "Reunited",
+      "text": "In the Mahabharata, Shakuntala brings her six-year-old son Bharata to court, and a voice from the sky makes the king accept them. In Kalidasa's play, the ring restores Dushyanta's memory, and years later he finds a brave boy playing with a lion cub, who turns out to be his son. The family is together again."
+    }
+  ],
+  "teaches": [
+    "Truthfulness and speaking up for what is right",
+    "Kindness to animals and nature",
+    "Patience when things go wrong"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Signet ring (in Kalidasa's play)", "Shakunta birds", "Forest hermitage"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Dushyanta",
+      "slug": "dushyanta"
+    },
+    {
+      "relation": "Son",
+      "name": "Bharata",
+      "slug": "bharata-emperor"
+    },
+    {
+      "relation": "Father",
+      "name": "Vishvamitra",
+      "slug": "vishvamitra"
+    },
+    {
+      "relation": "Foster father",
+      "name": "Kanva",
+      "slug": "kanva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Menaka (apsara)"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Abhijnanashakuntalam by Kalidasa"],
+  "places": ["Kanva's hermitage near the Malini River", "Hastinapura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Her name comes from shakunta, a word for birds. In the Mahabharata, Kanva says he named her this because birds surrounded and protected the baby in the lonely forest.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The curse is Kalidasa's addition. The sage Durvasa, annoyed that Shakuntala did not notice him, says the one she is thinking of will forget her unless he sees a token of their love.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the play, Shakuntala's ring slips into a river when she plays with the water on the way to the palace. A fisherman later finds it in a fish's belly, which is how the king's memory returns.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the play, after the king rejects her, celestial beings lift Shakuntala away to the heavenly home of her mother Menaka, so she is spared further sorrow at court.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shakuntala was the first Indian drama translated into a Western language: Sir William Jones published it in English in Calcutta in 1789. Within a century it had at least 46 translations in twelve European languages.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The German poet Goethe wrote an epigram praising the play in 1791. In his Faust he borrowed an idea from Kalidasa's prologue, a short scene before the play begins.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Act 4 of the play, Shakuntala leaves the hermitage for the palace and says goodbye to a red-flowered creeper she tended and to a fawn she raised. The fawn tugs at her robe, as if asking her to stay, and she tells it to go back.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/04_act.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At her farewell in the play, the forest trees bless Shakuntala and give her ornaments. She also says goodbye to her favourite tree, which she calls the Light of the Forest.",
+      "kind": "story",
+      "source": "https://litcharts.com/lit/shakuntala/act-4",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the 19th century some British officials in India disapproved of the play as a school text, even though it was being praised and translated in Britain at the same time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala_(play)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Raja Ravi Varma's best-known Shakuntala painting, made in 1898, shows her pretending to pull a thorn from her foot so she can glance back and see whether Dushyanta is watching.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's play, Shakuntala's friends persuade Durvasa to soften his curse, but they do not tell her about it. They think the ring Dushyanta gave her will be enough to jog his memory.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushyanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, when the king denies knowing her, Shakuntala answers sharply. She tells him that truth is the base of righteousness and that the gods see every deed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the end of Kalidasa's play, Dushyanta meets a fearless boy playing with a lion cub at the heavenly hermitage of the sage Kashyapa, also called Maricha. The boy looks just like him: he is Bharata, the son he never knew he had.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushyanta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Shakuntala tells the king she carried their son in her womb for three years, as a voice from the sky had foretold, when she pleads with him in court.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01075.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ancient art may already show her story: plaques from the Shunga period, around the 2nd century BCE, including one from Bhita in India and one from Ai-Khanoum, are read as scenes of Shakuntala.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Kanva comes home, Shakuntala washes his feet and asks him to bless Dushyanta. She also wishes that the kings of Dushyanta's Paurava line will always stay righteous and never lose their thrones.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Act 3 of the play, her friend Priyamvada scratches Shakuntala's love verse into a soft lotus leaf with her fingernail. The plan is to hide the leaf-letter in a flower and hand it to the king as a gift.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Act 3 Shakuntala lies lovesick on a flower-strewn rock while her friends fan her with big lotus leaves. Her only bracelet, made of thin lotus stalks, keeps slipping off her arm.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The play's Sanskrit title means roughly the recognition of Shakuntala. English editions have been called The Lost Ring and The Fatal Ring, both pointing to the signet ring that decides her fate.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Abhijnanashakuntalam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her story has been filmed many times, from a 1920 silent version to the 2023 Telugu film Shaakuntalam, starring Samantha.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Shakuntala refer to?",
+      "options": ["Flowers", "Birds", "Rivers", "Stars"],
+      "answer": 1,
+      "why": "In the Mahabharata, shakunta birds surrounded the baby and protected her."
+    },
+    {
+      "q": "In Kalidasa's play, who finds the lost ring?",
+      "options": ["A fisherman", "A prince", "A deer", "Durvasa"],
+      "answer": 0,
+      "why": "A fisherman finds the signet ring inside a fish and brings it to the king."
+    },
+    {
+      "q": "Who translated Shakuntala into English in 1789?",
+      "options": ["Goethe", "William Jones", "Ravi Varma", "Schubert"],
+      "answer": 1,
+      "why": "Sir William Jones's translation, published in Calcutta, was the first Indian drama in a Western language."
+    },
+    {
+      "q": "Who was Shakuntala's son?",
+      "options": ["Bharata", "Arjuna", "Puru", "Pushkara"],
+      "answer": 0,
+      "why": "Her son Bharata became a great emperor according to the Mahabharata."
+    }
+  ],
+  "related": ["dushyanta", "bharata-emperor", "kanva", "vishvamitra", "durvasa", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shakuntala",
+    "abhijnanashakuntalam": "https://en.wikipedia.org/wiki/Shakuntala_(play)",
+    "bharata": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+    "dushyanta": "https://en.wikipedia.org/wiki/Dushyanta",
+    "farewellAct4": "https://franpritchett.com/00litlinks/shakuntala_jones/04_act.html",
+    "farewellSummary": "https://litcharts.com/lit/shakuntala/act-4",
+    "sambhava73": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm",
+    "sambhava74": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01075.htm",
+    "act3": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d7e6c8",
+    "c2": "#f0dcc4"
+  },
+  "order": 500
+}

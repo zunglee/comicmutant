@@ -1,0 +1,249 @@
+{
+  "slug": "lal-ded",
+  "name": "Lal Ded",
+  "aka": ["Lalleshwari", "Lalla", "Lal Dyad"],
+  "native": "ललद्यद · لل دید",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "14th-century Kashmiri Shaiva mystic poet",
+  "summary": "Lal Ded, also called Lalleshwari, was a Kashmiri mystic of the 14th century. Her verses, called vakhs, are among the earliest works of Kashmiri literature and are still sung and quoted.",
+  "about": "Lal Ded, or Lalleshwari, lived in Kashmir in the 14th century, and she is linked with the Kashmir Shaivism tradition. Her life survives mainly through oral tradition, so the accounts and even her dates vary. Tradition says she was married as a girl and later left home to wander as a seeker, following a Shaivite teacher. She composed short verses called vakhs in Kashmiri, with about 285 attributed to her. Kashmiris of different backgrounds still know her words, and some verses are used as proverbs and songs. A grave near Bijbehara is attributed to her, though nobody has confirmed it. The first written accounts appear more than two centuries after her time, so scholars separate firm history from folk memory.",
+  "kidSummary": "Lal Ded was a wise woman poet from Kashmir who lived about 650 years ago. She travelled from place to place and made short verses called vakhs in the Kashmiri language. People loved them so much that they were remembered and sung for hundreds of years, even before they were written down.",
+  "story": [
+    {
+      "title": "A girl in Kashmir",
+      "text": "Lal Ded was born in Kashmir. Following the customs of the time, she was married around the age of twelve and was given a new name, Padmavati."
+    },
+    {
+      "title": "A seeker leaves home",
+      "text": "Stories say that in her mid-twenties she left home to follow a Shaivite teacher and wandered on foot, living on gifts of food."
+    },
+    {
+      "title": "Verses that people remembered",
+      "text": "She made short poems in Kashmiri, the language the people spoke. They were so easy to remember that they passed from mouth to mouth."
+    },
+    {
+      "title": "Written down at last",
+      "text": "The first written accounts came about two centuries later. In 1914 a collection was noted down from a storyteller in Gush village."
+    },
+    {
+      "title": "A voice that still sings",
+      "text": "Today her vakhs are translated into English and played on stage. A famous Kashmiri lullaby is credited to her collection."
+    }
+  ],
+  "teaches": [
+    "Look for the divine within yourself",
+    "Speak simply, in the language of ordinary people",
+    "Seeking is more than rituals"
+  ],
+  "symbol": "feather",
+  "emblems": [],
+  "family": [
+    {
+      "relation": "Said to have been a contemporary of",
+      "name": "Nund Rishi"
+    },
+    {
+      "relation": "Tradition",
+      "name": "Kashmir Shaivism"
+    }
+  ],
+  "texts": ["Vakhs (about 285 attributed)", "Lalla-Vakyani (English version by Grierson)"],
+  "places": [
+    "Sempore or Pandrethan (possible birthplace)",
+    "Bijbehara (grave said to be near)",
+    "Kashmir Valley"
+  ],
+  "festivals": [],
+  "related": ["akka-mahadevi", "kabir", "meera-bai", "shiva", "andal"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lalleshwari",
+    "nund_rishi": "https://en.wikipedia.org/wiki/Nund_Rishi",
+    "livehistoryindia": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+    "pitcher": "https://chintan.indiafoundation.in/?p=3654",
+    "sufinama": "https://sufinama.org/poets/lal-ded/profile",
+    "award": "https://www.dailyexcelsior.com/lg-honors-nari-shakti-with-lal-ded-national-award-in-a-ceremony-at-srinagar/",
+    "ocoy": "https://ocoy.org/read-our-books/about-the-inspired-wisdom-of-lalla-yogeshwari/preface-the-inspired-wisdom-of-lalla-yogeshwari/"
+  },
+  "palette": {
+    "c1": "#e4e4ef",
+    "c2": "#d3e2d0"
+  },
+  "years": "b. c. 1301–1320; d. c. 1373 (est.)",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "What are Lal Ded's poems called?",
+      "options": ["Vakhs", "Vachanas", "Abhangs", "Kritis"],
+      "answer": 0,
+      "why": "Vakh comes from the Sanskrit word for speech."
+    },
+    {
+      "q": "Which language did she compose in?",
+      "options": ["Kashmiri", "Tamil", "Bengali", "Marathi"],
+      "answer": 0,
+      "why": "Her vakhs are among the earliest works in Kashmiri."
+    },
+    {
+      "q": "What does dyad in Lal Dyad mean?",
+      "options": ["Queen", "Grandmother", "Poet", "Teacher"],
+      "answer": 1,
+      "why": "Dyad means grandmother in Kashmiri."
+    },
+    {
+      "q": "Which name did she receive after marriage, according to accounts?",
+      "options": ["Padmavati", "Lakshmi", "Sita", "Radha"],
+      "answer": 0,
+      "why": "After marriage she was named Padmavati."
+    },
+    {
+      "q": "Which Kashmiri saint, as a baby, began to feed only after Lal Ded spoke to him, says a folk legend?",
+      "options": ["Nund Rishi", "Shah-i-Hamadan", "Rupa Bhawani", "Habba Khatoon"],
+      "answer": 0,
+      "why": "The legend says the baby Nund Rishi refused his mother's milk until Lal Ded spoke to him."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Her name appears as Lal Ded, Lal Dyad, Lalla and Lalleshwari. In Kashmiri, dyad means grandmother.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Reports say that at 24 to 26 she left her husband's home, walked alone and lived on alms. She followed a Shaivite teacher called Siddha Srikanth, or Sed Boyu, as her guide on the path.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her verses are among the earliest works of Kashmiri literature, composed as the language was emerging from Apabhramsa Prakrit. In all, 285 vakhs are attributed to her, and people still treat some as proverbs.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kashmiri lullaby Hukus Bukus is credited to her collection of verses.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "No Kashmir chronicle of her own time, such as those by Jonaraja and Srivara, mentions her. The first written mention is from 1587, and since her verses travelled by voice for centuries, later hands may have changed or added some.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The 1914 text that Grierson translated was not written down earlier: it was prepared from the recitation of a storyteller named Dharma-dasa Darwesh in Gush, because no manuscript of the vakhs could be found.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A widely told Kashmiri legend says the baby Nund Rishi refused to nurse until Lal Ded visited and spoke to him, after which he drank. The tale links the two mystics.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Hindus honour her as Lalleshwari and Muslims as Lalla Arifa, and she has been venerated by both communities in Kashmir for nearly seven centuries.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a famous folk tale, her mother-in-law hid a stone under a thin layer of rice on her plate so outsiders would think she was well fed. Her sharp reply at a family feast became a Kashmiri proverb still used today.",
+      "kind": "story",
+      "source": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her jealous husband smashed the water jar on her head after suspecting her trips to a river-side Shiva temple. The jar broke but the water stayed in place until she poured it out; flicked drops are said to have become the pond Lalla Trag.",
+      "kind": "story",
+      "source": "https://chintan.indiafoundation.in/?p=3654",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Persian chronicle, the Waqiati-e-Kashmir of 1746, says she was already known under Sultan Ala-ud-din (1343-54) and died under Sultan Shihab-ud-din (1354-73), one of the few old records to place her in time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her family priest, Siddha Srikanth, is said to have taught her at home and initiated her into the Shaivite tradition before she ever left it. Some accounts name Pandrethan, near Srinagar, as her birthplace.",
+      "kind": "history",
+      "source": "https://chintan.indiafoundation.in/?p=3654",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The poet Ranjit Hoskote, who translated her verses, reads her work as a journey: from a wanderer looking for an anchor to a seeker who finds a home under a sky as wide as her own mind.",
+      "kind": "art",
+      "source": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Vakh 21 she says her guru gave her just one teaching: turn attention from outer things to the innermost Self. The poem says she took it so completely that she began to dance without clothes.",
+      "kind": "teaching",
+      "source": "https://ocoy.org/read-our-books/about-the-inspired-wisdom-of-lalla-yogeshwari/preface-the-inspired-wisdom-of-lalla-yogeshwari/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "One vakh says she asked her guru a thousand times to name the Nothingness, then gave up, since no name can be given to the source from which all names come.",
+      "kind": "teaching",
+      "source": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one vakh she describes fighting the darkness inside her: she knocks it down and tears it to shreds, after drinking the wine of her own voice.",
+      "kind": "art",
+      "source": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Another vakh pictures God as very close to us: he laughs when we laugh, yawns and coughs with us, bathes in the river of our thoughts and walks wherever we walk.",
+      "kind": "art",
+      "source": "https://livehistoryindia.com/story/people/lal-ded-kashmirs-rebel-poetess",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In 2026 a Lal Ded National Award ceremony was held in Srinagar, organised by the Pune group Sarhad. It honoured women achievers in literature, arts and culture, linking the prize to her message of compassion and truth.",
+      "kind": "history",
+      "source": "https://www.dailyexcelsior.com/lg-honors-nari-shakti-with-lal-ded-national-award-in-a-ceremony-at-srinagar/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A commentary on her verses places her in the Nath yogi tradition and links her to Soham, a practice that pairs a silent mantra with the natural flow of the breath.",
+      "kind": "teaching",
+      "source": "https://ocoy.org/read-our-books/about-the-inspired-wisdom-of-lalla-yogeshwari/preface-the-inspired-wisdom-of-lalla-yogeshwari/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The saint Nund Rishi wrote of Lalla of Padmanpore as one who drank the nectar while gazing at Shiva, and he asked God for a gift like hers. His Rishi order later stressed simplicity, equality and non-violence.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Lalleshwari",
+      "interest": 8,
+      "kid": false
+    }
+  ]
+}

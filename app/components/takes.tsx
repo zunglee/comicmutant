@@ -7,6 +7,7 @@ import { useEffect, useRef, useState } from 'react';
 import { Link, useFetcher, useLocation } from 'react-router';
 import { REACTIONS, TAKE_MAX } from '~/lib/community';
 import { IconFlag } from './icons';
+import { Button, Textarea } from './ui';
 
 export interface Take {
   id: number;
@@ -76,7 +77,7 @@ export function TakeComposer({
       <label htmlFor={id} className="kicker block">
         Your take
       </label>
-      <textarea
+      <Textarea
         id={id}
         name="body"
         required
@@ -86,7 +87,7 @@ export function TakeComposer({
         placeholder={placeholder}
         onChange={(e) => setLen(e.target.value.length)}
         aria-describedby={`${id}-help`}
-        className="field resize-none"
+        className="resize-none"
       />
       <div className="flex items-center justify-between gap-3">
         <p
@@ -96,9 +97,9 @@ export function TakeComposer({
         >
           {f.data?.error ?? `${TAKE_MAX - len} left · no links · be fun, not cruel`}
         </p>
-        <button type="submit" className="btn btn-c1 btn-sm" disabled={f.state !== 'idle'}>
+        <Button type="submit" variant="c1" size="sm" disabled={f.state !== 'idle'}>
           {f.state === 'idle' ? 'Post it' : 'Posting…'}
-        </button>
+        </Button>
       </div>
     </f.Form>
   );
@@ -152,9 +153,8 @@ export function TakeList({
         </AnimatePresence>
       </ul>
       {!done && last && (
-        <button
-          type="button"
-          className="btn btn-sm"
+        <Button
+          size="sm"
           disabled={older.state !== 'idle'}
           onClick={() =>
             older.load(
@@ -163,7 +163,7 @@ export function TakeList({
           }
         >
           {older.state === 'idle' ? 'Load older takes' : 'Loading…'}
-        </button>
+        </Button>
       )}
     </div>
   );
@@ -178,13 +178,22 @@ function TakeBubble({ take, signedIn, tint }: { take: Take; signedIn: boolean; t
   return (
     <article
       className="bubble"
-      style={tint ? { borderColor: tint, boxShadow: `4px 4px 0 ${tint}` } : undefined}
+      style={
+        tint
+          ? {
+              borderColor: tint,
+              boxShadow: `calc(var(--shadow-x) * 0.8) calc(var(--shadow-y) * 0.8) var(--shadow-blur) ${tint}`,
+            }
+          : undefined
+      }
     >
       <header className="mb-1 flex items-center justify-between gap-2 text-xs">
         <span className="font-head uppercase">
           {take.author}
           {take.role === 'mod' && (
-            <span className="ml-1.5 rounded border-2 border-ink bg-pop px-1 text-xs">MOD</span>
+            <span className="ml-1.5 rounded-skin-s border-skin-s border-ink bg-pop px-1 text-xs">
+              MOD
+            </span>
           )}
         </span>
         <time dateTime={take.created_at} className="opacity-70">
@@ -205,8 +214,8 @@ function TakeBubble({ take, signedIn, tint }: { take: Take; signedIn: boolean; t
                 disabled={!signedIn}
                 title={signedIn ? r.hint : 'Sign in to react'}
                 aria-pressed={mine === r.id}
-                aria-label={`${r.label} (${r.hint}) ${n}`}
-                className={`rounded-full border-2 border-ink px-2 py-0.5 font-display text-sm tracking-wide transition-transform hover:-rotate-3 hover:scale-110 disabled:cursor-not-allowed disabled:hover:transform-none ${
+                aria-label={`${r.label}${n > 0 ? ` ${n}` : ''}, ${r.hint}`}
+                className={`rounded-skin-pill border-skin-s border-ink px-2 py-0.5 font-display text-sm tracking-wide transition-transform hover:tilt-skin-3 hover:scale-110 disabled:cursor-not-allowed disabled:hover:transform-none ${
                   mine === r.id ? 'bg-pop text-ink' : 'bg-paper text-ink'
                 }`}
               >
@@ -221,7 +230,7 @@ function TakeBubble({ take, signedIn, tint }: { take: Take; signedIn: boolean; t
             <input type="hidden" name="take" value={take.id} />
             <button
               type="submit"
-              className="inline-flex min-h-11 items-center gap-1 rounded px-1.5 text-paper-muted text-xs hover:text-alert"
+              className="inline-flex min-h-11 items-center gap-1 rounded-skin-s px-1.5 text-paper-muted text-xs hover:text-alert"
               disabled={rep.state !== 'idle' || rep.data?.ok}
               aria-label="Report this take"
             >

@@ -1,0 +1,321 @@
+{
+  "slug": "inspector-steel",
+  "name": "Inspector Steel",
+  "realName": "Amar",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' cyborg supercop: police inspector Amar, whose brain was saved inside a steel body by his friend Professor Anees. Debuted in 1995 and patrols Raj Nagar.",
+  "origin": "Amar is an honest police inspector who is badly hurt in an accident, losing major parts of his body. To save his life, his friend Professor Anees moves his brain into a mechanical body, making him a cyborg. The brain is the only human part left, wrapped in armour plating, chips and weapons. As Inspector Steel he keeps working the same job, protecting the innocent and upholding the law in Raj Nagar.",
+  "creators": ["Naresh Kumar", "Lalit Singh", "Pradeep Sherawat"],
+  "firstAppearance": {
+    "title": "Inspector Steel",
+    "year": 1995
+  },
+  "powers": [
+    "Armoured steel body that ordinary bullets and bombs cannot harm",
+    "Megagun that fires bullets and rockets automatically",
+    "X-ray vision",
+    "Built-in scanners and a lie detector",
+    "Superhuman speed and strength",
+    "Powerful bike with an automatic build-up system"
+  ],
+  "affiliations": ["P.O.E.M."],
+  "storyline": [
+    {
+      "era": "Accident",
+      "years": "1995",
+      "title": "Amar is nearly lost",
+      "beat": "An accident destroys much of police inspector Amar's body, and only his brain can be saved."
+    },
+    {
+      "era": "Rebuild",
+      "years": "1995",
+      "title": "A steel body",
+      "beat": "His friend Professor Anees places the brain in a mechanical body, making him a cyborg."
+    },
+    {
+      "era": "Patrol",
+      "years": "1995 onward",
+      "title": "The supercop of Raj Nagar",
+      "beat": "Inspector Steel keeps policing Raj Nagar, using his built-in weapons and scanners against criminals."
+    },
+    {
+      "era": "Machines",
+      "years": "Series run",
+      "title": "Mechanic and Dr. Virus",
+      "beat": "Foes such as the machine-hating Mechanic and Dr. Virus test the half-man, half-machine inspector."
+    },
+    {
+      "era": "Team-ups",
+      "years": "Series run",
+      "title": "Crossovers",
+      "beat": "Catalogued two-in-one issues pair him with Parmanu, Doga, Gamraj and Tiranga, and he has a strong role in the modern Rajnagar Rakshak series."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Steel's first Raj Comics special, Kanoon Ka Sipahi, was drawn by the late Dheeraj Verma, who first entered Raj Comics through the wolf hero Bhediya.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Aaj Marega Steel, a 1996 Steel story, carries the number 732 in the Raj Comics catalogue.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Inspector Steel is a robot built to replace a policeman.",
+      "truth": "He is Amar, a human officer whose brain was moved into a mechanical body to save his life. The brain is the only human part left.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "One of the Steel titles is called Robo Dog, and others include Metalman and Dial 100.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Inspector Steel's real name?",
+      "options": ["Anees", "Amar", "Salman", "Raj"],
+      "answer": 1,
+      "why": "The inspector is named Amar; Anees is the professor who saves him."
+    },
+    {
+      "q": "Which part of Inspector Steel is still human?",
+      "options": ["His heart", "His eyes", "His brain", "His hands"],
+      "answer": 2,
+      "why": "The brain is the only human part left in his mechanical body."
+    },
+    {
+      "q": "Which Hollywood film is he most often compared to?",
+      "options": ["RoboCop", "Terminator", "Iron Man", "Transformers"],
+      "answer": 0,
+      "why": "Sources call him the Indian version of RoboCop."
+    },
+    {
+      "q": "Which city does Inspector Steel protect?",
+      "options": ["Roopnagar", "Vikasnagar", "Raj Nagar", "Delhi"],
+      "answer": 2,
+      "why": "His area of operation is Raj Nagar."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#263238",
+      "c2": "#90a4ae",
+      "c3": "#ff6f00"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Steel body, human brain, honest badge."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Inspector_Steel",
+    "indianetzone": "https://www.indianetzone.com/inspector_steel",
+    "raj-comics": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "msu-catalog": "https://comics.lib.msu.edu/rri/rrri/raj.htm",
+    "comicsbyte-review": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+    "comicsbyte-special": "https://comicsbyte.com/kanoon-ka-sipahi-inspector-steel-raj-comics/",
+    "comicsbyte-apraadh": "https://comicsbyte.com/apraadh-inspector-steel-raj-comics/",
+    "comicsbyte-set8": "https://comicsbyte.com/farz-ki-machine-inspector-steel-general-set-8-raj-comics-by-manoj-gupta/",
+    "comicsbyte-collector": "https://comicsbyte.com/special-collectors-edition-by-raj-comics-anthony-inspector-steel-tiranga/",
+    "fan-blog": "https://eastindiastory.com/the-hindi-comics-verse/"
+  },
+  "timeline": [
+    {
+      "year": 1995,
+      "kind": "debut",
+      "title": "Inspector Steel debuts",
+      "note": "Police inspector Amar becomes a cyborg supercop in Raj Nagar, with Wikipedia crediting three named creators."
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Aaj Marega Steel",
+      "note": "Raj Comics issue 732: a killer cyborg from the future, Robo King, hunts Steel and Professor Anees."
+    },
+    {
+      "year": 1997,
+      "kind": "comic",
+      "title": "Kanoon Ka Sipahi",
+      "note": "Steel's first Raj Comics special issue has the stripped-of-rank hero framed by powerful criminals."
+    },
+    {
+      "year": 1997,
+      "kind": "comic",
+      "title": "Do Faulaad",
+      "note": "A Steel and Doga two-in-one arrives in Raj Comics' Double Action Year 1997 set, alongside Apraadh.",
+      "with": "doga"
+    },
+    {
+      "year": 1997,
+      "kind": "comic",
+      "title": "Apraadh",
+      "note": "A one-shot general issue from the same set, in which Steel takes on a corrupt politician and the mafia."
+    },
+    {
+      "year": 2024,
+      "kind": "legacy",
+      "title": "Reprint sets",
+      "note": "Raj Comics by Manoj Gupta reissues Steel in numbered sets of six comics, with Set 8 announced in November 2024."
+    },
+    {
+      "year": 2025,
+      "kind": "legacy",
+      "title": "Collector's Edition",
+      "note": "A 192-page Special Collector's Edition collects six Steel stories, announced in September 2025."
+    }
+  ],
+  "heat": 40,
+  "facts": [
+    {
+      "text": "Inspector Amar lost major parts of his body in an accident. His close friend Anis (Professor Anees), a surgeon and scientist, put Amar's brain into a cybernetic body, and the brain is now the only human part left.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/inspector_steel",
+      "interest": 8
+    },
+    {
+      "text": "The listed weight is 450 kg and the height is 7 feet, with a stainless steel frame.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Inspector_Steel",
+      "interest": 8
+    },
+    {
+      "text": "His built-in equipment includes scanners and gadgets such as a lie detector and, believe it or not, a fax machine.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Inspector_Steel",
+      "interest": 9
+    },
+    {
+      "text": "His enemy Mechanic is a man who hates machines, which makes the cyborg inspector his natural target.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Inspector_Steel",
+      "interest": 7
+    },
+    {
+      "text": "In the 1996 comic Aaj Marega Steel (Steel will die today), a killer cyborg called Robo King comes from the future to hunt Steel and Anees, who in his time are the only two who can match him. He also kidnaps Inspector Salma as bait.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 9
+    },
+    {
+      "text": "Kanoon Ka Sipahi (1997) was Steel's first Raj Comics special issue. In it he no longer holds a police rank, and powerful criminals try to send the former inspector to jail, though a court grants him bail.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/kanoon-ka-sipahi-inspector-steel-raj-comics/",
+      "interest": 7
+    },
+    {
+      "text": "One fan blogger lists Steel with Raj Comics heroes inspired by Western ones: Steel from RoboCop, Tiranga from Captain America, Parmanu from Firestorm and Atom, and Fighter Toads from Ninja Turtles.",
+      "kind": "culture",
+      "source": "https://eastindiastory.com/the-hindi-comics-verse/",
+      "interest": 7
+    },
+    {
+      "text": "Robo King is a far more advanced cyborg, many times stronger than Steel, and the reviewer calls his laser gun the deadliest of his many weapons.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 8
+    },
+    {
+      "text": "In Aaj Marega Steel, the weapon left at the scene of the first attack on Anees looks like it does not belong to Earth, so Steel and Anees set out to catch whoever carries it.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 8
+    },
+    {
+      "text": "In Kanoon Ka Sipahi, even though Steel no longer holds a police rank, he still saves a man falling from a huge building. The people behind that incident then try to get rid of him.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/kanoon-ka-sipahi-inspector-steel-raj-comics/",
+      "interest": 8
+    },
+    {
+      "text": "The cover of Kanoon Ka Sipahi shows Steel clashing with a criminal called Gainda (the Hindi word for rhino). The reviewer says their fight inside makes even the 450-kilo Steel sweat.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/kanoon-ka-sipahi-inspector-steel-raj-comics/",
+      "interest": 7
+    },
+    {
+      "text": "In Apraadh, a corrupt politician, his son and a mafia boss plot to silence a newspaper editor, then target his daughter Mohini. Steel, who cannot be bribed, takes them on in Raj Nagar, which is also Dhruva's city.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/apraadh-inspector-steel-raj-comics/",
+      "interest": 7
+    },
+    {
+      "text": "Apraadh and the Steel and Doga two-in-one Do Faulaad were both part of Raj Comics' Double Action Year 1997 set, the same set that carried the Nagraj and Dhruva comic Pralay.",
+      "kind": "publishing",
+      "source": "https://comicsbyte.com/apraadh-inspector-steel-raj-comics/",
+      "interest": 8
+    },
+    {
+      "text": "Steel rides his own bike, which Wikipedia says runs on an automatic build-up system, and his armoured cyborg body lets him run at superhuman speed.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Inspector_Steel",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia lists a Megagun that fires bullets and rockets fully automatically, plus X-ray vision, and says ordinary bullets and bombs cannot harm his body.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Inspector_Steel",
+      "interest": 7
+    },
+    {
+      "text": "Aaj Marega Steel came out in Raj Comics' Nagraj Year 1996 set, alongside Yoddha and Bhediya's Ladake and Bhokal's Ret Ka Bhokal. The reviewer remembers 1996 as a golden year.",
+      "kind": "publishing",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 7
+    },
+    {
+      "text": "The Aaj Marega Steel reviewer notes that in the recent Rajnagar Rakshak series Steel has a very strong role, so the 1990s cop is still part of Raj Comics' modern line-up.",
+      "kind": "culture",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 7
+    },
+    {
+      "text": "The MSU Libraries' catalogue of Raj Comics lists Steel two-in-one issues with other heroes, among them Parmanu, Doga, Tiranga and Gamraj.",
+      "kind": "publishing",
+      "source": "https://comics.lib.msu.edu/rri/rrri/raj.htm",
+      "interest": 7
+    },
+    {
+      "text": "Aaj Marega Steel was drawn by Naresh Kumar, one of Steel's three creators on Wikipedia, with a cover by Dilip Chaubey and a script by Haneef Azhar. The reviewer says the art makes up for a loose plot.",
+      "kind": "creator",
+      "source": "https://comicsbyte.com/comics-review-aaj-marega-steel/",
+      "interest": 7
+    },
+    {
+      "text": "Steel's long list of comic titles includes the eyebrow-raising Aadha Steel (Half Steel), as well as Metalman, Robo Dog, Death Mission, Dial 100 and Brainwash.",
+      "kind": "publishing",
+      "source": "https://www.indianetzone.com/inspector_steel",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Inspector Steel is a police officer named Amar who was badly hurt in an accident. His friend Professor Anees saved him by putting his brain into a strong steel body. Now he protects the city of Raj Nagar with a robot's strength and a police officer's sense of duty.",
+  "story": [
+    {
+      "title": "Inspector Amar",
+      "text": "Amar is a police inspector who takes his duty seriously and works in the city of Raj Nagar."
+    },
+    {
+      "title": "The accident",
+      "text": "After a bad accident, Amar's body cannot be saved, but his brain can."
+    },
+    {
+      "title": "A steel body",
+      "text": "His friend Professor Anees places Amar's brain inside a mechanical body with armour, scanners and a Megagun."
+    },
+    {
+      "title": "The cyborg cop",
+      "text": "As Inspector Steel, he keeps his old job and stops criminals, including Mechanic, who hates machines."
+    },
+    {
+      "title": "Team-ups",
+      "text": "Later he joins other Raj Comics heroes, such as Doga and Parmanu, for team-up adventures."
+    }
+  ]
+}

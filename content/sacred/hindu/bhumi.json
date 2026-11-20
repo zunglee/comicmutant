@@ -1,0 +1,321 @@
+{
+  "slug": "bhumi",
+  "name": "Bhumi",
+  "aka": ["Bhudevi", "Prithvi", "Dharani", "Vasundhara", "Vasudha", "Mahi"],
+  "native": "भूमि",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of the Earth",
+  "summary": "Bhumi, also called Bhudevi, is the Hindu goddess of Earth, remembered in stories of Varaha, Sita, Prahlada and Satyabhama. In many Vaishnava traditions she is Vishnu's consort beside Lakshmi.",
+  "about": "Bhumi is the Hindu goddess of the Earth, known by names such as Bhudevi, Dharani and Vasundhara. In the early Vedic period the earth was personified as Prithvi, and Bhumi later took her place in the Puranas and epics. Many Puranas say she turned to Vishnu for help when she was weighed down by cruel rulers or asuras; in the Varaha story, he lifted her from the cosmic ocean on his tusk. In South Indian Vaishnava traditions she is Vishnu's second consort beside Lakshmi, and Sri Vaishnavism regards her as an aspect of Lakshmi. The Ramayana says Sita came from the earth. The festival Raja Parba in Odisha honours her. Tradition also names the Tamil saint Andal as her avatar.",
+  "kidSummary": "Bhumi is the goddess of Mother Earth. In stories, Vishnu took the form of a boar to lift her out of the ocean. She is also remembered as the mother of Sita, who was found in a ploughed field, and farmers and gardeners honour her. In Odisha, the Raja festival celebrates her with swings and sweets.",
+  "story": [
+    {
+      "title": "Earth in the deep",
+      "text": "The Puranas say the asura Hiranyaksha took Bhumi and hid her in the deep waters at the start of an age."
+    },
+    {
+      "title": "Vishnu as a boar",
+      "text": "Vishnu took the form of the boar Varaha and dived into the ocean to find her."
+    },
+    {
+      "title": "Lifted up",
+      "text": "After a great struggle, Varaha lifted Bhumi on his tusks and put her back in her place, so living things could flourish."
+    },
+    {
+      "title": "The goddess and her children",
+      "text": "In Puranic stories, Bhumi's sons include Mangala (Mars) and Narakasura, and the Ramayana says Sita came out of the earth."
+    },
+    {
+      "title": "A cow for everyone",
+      "text": "In another story, King Prithu chased Bhumi, who took the form of a cow. She agreed to be milked, so that crops and plants could grow for all."
+    }
+  ],
+  "teaches": [
+    "Take care of the earth and its gifts",
+    "Patience: the earth gives to everyone",
+    "Farming and growing food are honourable work"
+  ],
+  "symbol": "tree",
+  "emblems": [
+    "Pomegranate",
+    "Blue lotus",
+    "Four elephants (directions)",
+    "Cow (in the Prithu story)"
+  ],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Consort as Varaha",
+      "name": "Varaha",
+      "slug": "varaha"
+    },
+    {
+      "relation": "Seen as an aspect of",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Son, in Puranic accounts",
+      "name": "Narakasura",
+      "slug": "narakasura"
+    },
+    {
+      "relation": "Daughter, in the Ramayana",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Said to be reborn as",
+      "name": "Satyabhama",
+      "slug": "satyabhama"
+    },
+    {
+      "relation": "Said to be reborn as",
+      "name": "Andal",
+      "slug": "andal"
+    }
+  ],
+  "texts": [
+    "Ramayana",
+    "Mahabharata",
+    "Devi Bhagavata Purana",
+    "Kalika Purana",
+    "Atharvaveda (Prithvi)"
+  ],
+  "places": ["Srivilliputhur", "Puri (Jagannath temple)", "Udayagiri Caves", "Khajuraho"],
+  "festivals": ["Raja Parba", "Basumati snana", "Naraka Chaturdashi"],
+  "facts": [
+    {
+      "text": "Bhudevi is shown on a platform carried by four elephants for the four directions, with four hands holding a pomegranate, a water vessel and bowls of healing herbs and vegetables.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ayodhya Kanda of the Ramayana, it is Brahma who takes boar form to lift the earth from the waters so that creation can begin.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The colossal Varaha panel in Cave 5 at Udayagiri shows Bhudevi clinging to the boar's tusk; the Gupta-era site was patronised by Chandragupta II and consecrated around 401 CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_Caves",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The giant Varaha of Khajuraho, from about 900 to 925 CE, is a sandstone boar about 2.6 m long and covered with carved gods, sages and beings.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Vaishnava tradition names Mangala, the planet Mars, as the son of Bhumi and Varaha.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana says Sita emerged from the earth when King Janaka found her while ploughing during a drought.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Prahlada was thrown from a high building in the Puranic story, Bhumi appeared and caught him in her arms.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Bhumi was reborn as Satyabhama and, using Krishna's Sudarshana Chakra, ended Narakasura's rule, fulfilling a prophecy that only his mother could.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Andal, the only woman among the twelve Alvar saints, is considered an avatar of Bhumi and was found as a baby under a tulasi plant by Periyalvar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A silver image of Bhumi stands beside Jagannath in the Puri temple, because Odisha honours her as his consort.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Raja_Parba",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "During Raja Parba, girls enjoy swings hung from banyan trees, with names such as Ram Doli and Charki Doli.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Raja_Parba",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the closing episode of the Ramayana, Sita calls on her mother Bhumi, who rises from the earth and takes her daughter back while the assembly praises her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Andal is said to have worn Periyalvar's garland before it went to the temple deity, so she is called Chudikodutha Sudarkodi, the lady who wore and gave her garland.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During Raja, Odia families bake poda pitha, a rice cake made for the festival, and girls colour their feet red with alta.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One account says Narakasura took Aditi's earrings and gave them to his own mother, Bhumi, which is why she was asked to bring his rule to an end.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition says Andal chose to marry only God, and Vishnu as Ranganatha married her at Srirangam; her Tamil poems Tiruppavai and Nachiyar Tirumoli are still recited in the Margali season.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Shatapatha Brahmana tells of a time when the universe was only water and the earth, as small as a hand, was trapped in it, until Prajapati in boar form dived in and brought her out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Taittiriya Samhita, Prajapati as a boar lifts the earth and flattens her out, and that is how she gets the name Prithvi, the extended one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Tirumala, pilgrims are told to worship Varaha first and Venkateswara second, because tradition says Venkateswara asked Varaha's permission to live on those hills; the Skanda Purana places Varaha there with Bhudevi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A rare sculpture at Mahabalipuram shows Varaha looking down fondly at Bhumi, whom he carries in his arms, instead of balancing her on a tusk.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Prithu story the earth, in the form of a cow, is milked for more than food: courage, valour, knowledge and the sages' bodily health are said to have been milked from her too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During Raja in Odisha, Bhumi is believed to be resting, so for three days farm work stops and people do not dig or scratch the soil.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Raja_(festival)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Basumati snana, the last day of Raja, women bathe a grinding stone as a symbol of Bhumi, with turmeric paste, flowers and sindoor, and offer her seasonal fruits.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Raja_(festival)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Because she came out of the earth, Sita is also called Bhumija, the one born of the earth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which avatar of Vishnu lifted Bhumi out of the ocean?",
+      "options": ["Matsya", "Kurma", "Varaha", "Narasimha"],
+      "answer": 2,
+      "why": "Varaha, the boar, lifted her on his tusks in the Puranic story."
+    },
+    {
+      "q": "In the Ramayana, whom did the earth bring forth to Janaka?",
+      "options": ["Sita", "Urmila", "Kaikeyi", "Ahalya"],
+      "answer": 0,
+      "why": "Janaka found Sita in a furrow while ploughing a field."
+    },
+    {
+      "q": "In which state is the Raja festival celebrated?",
+      "options": ["Kerala", "Odisha", "Punjab", "Assam"],
+      "answer": 1,
+      "why": "Raja Parba honours Bhumi in Odisha with swings and sweets."
+    },
+    {
+      "q": "What form did Bhumi take when King Prithu chased her?",
+      "options": ["A swan", "A river", "A lioness", "A cow"],
+      "answer": 3,
+      "why": "As a cow she agreed to be milked so that crops could grow."
+    },
+    {
+      "q": "What do four elephants under Bhumi's platform represent?",
+      "options": ["Four directions", "Four Vedas", "Four seasons", "Four brothers"],
+      "answer": 0,
+      "why": "They stand for the four cardinal directions."
+    }
+  ],
+  "related": [
+    "vishnu",
+    "varaha",
+    "lakshmi",
+    "sita",
+    "narakasura",
+    "satyabhama",
+    "prahlada",
+    "andal",
+    "prithu",
+    "aditi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhumi_(goddess)",
+    "varaha": "https://en.wikipedia.org/wiki/Varaha",
+    "raja-parba": "https://en.wikipedia.org/wiki/Raja_(festival)",
+    "andal": "https://en.wikipedia.org/wiki/Andal",
+    "udayagiri": "https://en.wikipedia.org/wiki/Udayagiri_Caves",
+    "sita": "https://en.wikipedia.org/wiki/Sita",
+    "satyabhama": "https://en.wikipedia.org/wiki/Satyabhama"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d5e5cb",
+    "c2": "#f1e6cd"
+  },
+  "order": 12
+}

@@ -1,0 +1,300 @@
+{
+  "slug": "bagheera-2024",
+  "name": "Bagheera",
+  "realName": "Vedanth Prabhakar, a police officer",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Hombale Films",
+  "summary": "Kannada cinema's 2024 caped vigilante: an honest cop in Mangalore who turns into the masked Bagheera at night to punish criminals the law cannot touch. Played by Sriimurali.",
+  "origin": "Bagheera is the hero of the 2024 Kannada film from Hombale Films, with a story by Prashanth Neel and direction by Dr. Suri. Vedanth Prabhakar is a young police officer in Mangalore who grows up wanting to be a superhero. After seeing the law fail victims, he puts on a costume at night as Bagheera, while a hacker, a young electronics expert and a bomb-making drunkard supply his gear. The name comes from a Jungle Book character.",
+  "creators": [
+    "Dr. Suri (director, writer)",
+    "Prashanth Neel (story)",
+    "Vijay Kiragandur (producer)",
+    "Sriimurali (lead actor)"
+  ],
+  "firstAppearance": {
+    "title": "Bagheera (film)",
+    "issue": "Released 31 October 2024",
+    "year": 2024
+  },
+  "powers": [
+    "Hand-to-hand combat and police training",
+    "A custom suit, mask and motorbike built by his helpers",
+    "Gadgets and bombs from a small support team",
+    "Cover identity as an apparently corrupt cop",
+    "Night-time stealth and intimidation"
+  ],
+  "affiliations": ["Karnataka police", "His secret support team"],
+  "storyline": [
+    {
+      "era": "Origin",
+      "years": "2024",
+      "title": "A cop who dreams of being a hero",
+      "beat": "As a boy Vedanth wants to be a superhero, but his mother tells him that ordinary police officers are real heroes, so he joins the force."
+    },
+    {
+      "era": "Rise",
+      "years": "2024",
+      "title": "The masked night-fighter",
+      "beat": "Disillusioned when criminals walk free, Vedanth starts operating at night in a costume while acting corrupt by day to avoid suspicion."
+    },
+    {
+      "era": "Conflict",
+      "years": "2024",
+      "title": "A CBI officer on his trail",
+      "beat": "A CBI officer arrives in Mangalore to catch Bagheera, who has gone after a trafficking ring and a powerful figure's network."
+    },
+    {
+      "era": "Finale",
+      "years": "2024",
+      "title": "The goods train showdown",
+      "beat": "The hero confronts the crime boss on a goods train carrying kidnapped people and the film ends with a promise that Bagheera will return."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "The film's audio rights were kept by Hombale Films and released on its own channel.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "OTTplay's critic gave it four stars and said it is dark but not in the style of Neel's earlier films.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "It was filmed in Hyderabad, the outskirts of Bangalore, Visakhapatnam and Mysore, besides Goa.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The Hindu praised the action choreography of Chethan D'Souza and Ajaneesh Loknath's score.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Jungle Book character inspired the title?",
+      "options": ["Baloo", "Bagheera", "Kaa", "Akela"],
+      "answer": 1,
+      "why": "The title was inspired by the black panther from The Jungle Book."
+    },
+    {
+      "q": "Who wrote the story of Bagheera?",
+      "options": ["Prashanth Neel", "Rishab Shetty", "Yash", "Dr. Suri alone"],
+      "answer": 0,
+      "why": "Prashanth Neel wrote the story and Dr. Suri wrote the screenplay and directed."
+    },
+    {
+      "q": "On which festival did Bagheera release?",
+      "options": ["Diwali", "Ugadi", "Dasara", "Pongal"],
+      "answer": 0,
+      "why": "It opened on 31 October 2024, coinciding with Diwali."
+    },
+    {
+      "q": "In which city is Vedanth posted?",
+      "options": ["Mysuru", "Bengaluru", "Mangalore", "Hubballi"],
+      "answer": 2,
+      "why": "Vedanth is posted in Mangalore."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#263238",
+      "c2": "#0b0f12",
+      "c3": "#ffb300"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Policeman by day, black panther by night."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+    "actor": "https://en.wikipedia.org/wiki/Sriimurali",
+    "writer": "https://en.wikipedia.org/wiki/Prashanth_Neel",
+    "studio": "https://en.wikipedia.org/wiki/Hombale_Films",
+    "announcement": "https://easterneye.biz/kgf-makers-commence-work-on-next-action-thriller-bagheera",
+    "filmfare": "https://filmibeat.com/kannada/news/2026/filmfare-awards-south-2026-kannada-full-winners-list-srii-murali-akshatha-win-at-70th-edition-503563.html",
+    "director": "https://www.teluguone.com/tmdb/news/Bagheera-will-be-an-emotional-Super-hero-film-says-director-en-187623c1.html",
+    "pinkvilla": "https://www.pinkvilla.com/entertainment/south/opinion-why-does-netflix-not-have-kannada-movies-on-its-platform-with-srii-murali-starrer-bagheera-set-to-be-the-first-1358174",
+    "ramachandra": "https://en.wikipedia.org/wiki/Ramachandra_Raju",
+    "imdblist": "https://www.ottplay.com/news/roaring-star-sriimuralis-bagheera-is-sole-kannada-film-on-list-of-top-20-most-anticipated-movies-of-2024/6ebc3ad1fe738"
+  },
+  "timeline": [
+    {
+      "year": 2024,
+      "kind": "debut",
+      "title": "Diwali release",
+      "note": "Bagheera opens on 31 October 2024 in Kannada and a Telugu dub, and earns about 29.5 crore rupees."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Netflix premiere",
+      "note": "It streams on Netflix from 21 November in Kannada, Tamil, Telugu and Malayalam."
+    },
+    {
+      "year": 2024,
+      "kind": "screen",
+      "title": "Hindi dub on Hotstar",
+      "note": "The Hindi dubbed version begins streaming on Disney+ Hotstar on 25 December 2024."
+    },
+    {
+      "year": 2026,
+      "kind": "legacy",
+      "title": "Filmfare win",
+      "note": "Sriimurali wins the Kannada Best Actor award for it at the 70th Filmfare Awards South."
+    }
+  ],
+  "heat": 50,
+  "facts": [
+    {
+      "text": "The film is told in eight titled chapters, opening with I Will Be A Super Hero and closing with I Am Not Done Yet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 8
+    },
+    {
+      "text": "By day Vedanth pretends to be a corrupt officer so nobody suspects him, and by night he becomes Bagheera. A head constable named Narayana secretly helps him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 8
+    },
+    {
+      "text": "Bagheera's costume, weapons, mask and bike come from three odd helpers: a hacker, a boy who is an electronics expert, and a drunkard who is a master at making bombs and gadgets.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 9
+    },
+    {
+      "text": "Prakash Raj plays Guru, a CBI officer sent to Mangalore to hunt Bagheera. Guru works out who the hero is, then helps him finish the job.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "India Today's reviewer called it a desi Batman crossed with Black Panther, and said such concepts are rare in India.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "Reports described it as the first Kannada-language film to stream on Netflix, where it arrived on 21 November 2024 in Kannada, Tamil, Telugu and Malayalam. Wikipedia repeats the claim, so treat it as reported rather than audited.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "The twist at the heart of the hero: honest Vedanth discovers that his own police-officer father is quietly on the take.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 8
+    },
+    {
+      "text": "The crime boss Rana is played by Ramachandra Raju, better known as Garuda Ram, who became famous as the villain Garuda in KGF Chapter 1 after working as Yash's bodyguard.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ramachandra_Raju",
+      "interest": 8
+    },
+    {
+      "text": "The first-look poster of December 2020 came with a caption about a society turned into a jungle where only one predator roars for justice, a nod to the Jungle Book name.",
+      "kind": "publishing",
+      "source": "https://easterneye.biz/kgf-makers-commence-work-on-next-action-thriller-bagheera",
+      "interest": 7
+    },
+    {
+      "text": "The teaser was released on 17 December 2023, which was Sriimurali's birthday, and the trailer followed on 21 October 2024, ten days before the Diwali release.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "Prashanth Neel's birthday message with the 2020 poster said he had written a story of valour for his first true mass hero, Sriimurali.",
+      "kind": "creator",
+      "source": "https://easterneye.biz/kgf-makers-commence-work-on-next-action-thriller-bagheera",
+      "interest": 7
+    },
+    {
+      "text": "Hombale Films announced that production had begun on 20 May 2022, soon after KGF Chapter 2. The plan was a shoot across Karnataka and Hyderabad and a 2023 release.",
+      "kind": "publishing",
+      "source": "https://easterneye.biz/kgf-makers-commence-work-on-next-action-thriller-bagheera",
+      "interest": 7
+    },
+    {
+      "text": "Neel first wrote an action story for Sriimurali in 2008, then called Nandhe. It became Ugramm in 2014 and restarted a career that had hit a run of flops.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Sriimurali",
+      "interest": 7
+    },
+    {
+      "text": "Ajaneesh Loknath composed the score. Of its five tracks, one is called Shiva Stotra, and Hombale kept the audio rights and released the songs on its own channel.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "The Hindu's reviewer called it an entertaining masked-vigilante tale and singled out stunt choreographer Chethan D'Souza and Ajaneesh Loknath's score for praise.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia lists a budget of about 20 crore rupees and a runtime of 158 minutes for the film, which earned an estimated 30 crore rupees at the box office.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "Rukmini Vasanth plays Dr. Sneha, an independent doctor who falls for Vedanth and later patches him up after he is shot while out as Bagheera.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bagheera_(2024_film)",
+      "interest": 7
+    },
+    {
+      "text": "Director Dr. Suri says he took Neel's story and spent two years turning it into a screenplay about a common man becoming a superhero, after first meeting Yash about twelve years earlier.",
+      "kind": "creator",
+      "source": "https://www.teluguone.com/tmdb/news/Bagheera-will-be-an-emotional-Super-hero-film-says-director-en-187623c1.html",
+      "interest": 7
+    },
+    {
+      "text": "Sriimurali won the Filmfare Best Actor award in Kannada for Bagheera, at the 70th Filmfare Awards South held in 2026.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Sriimurali",
+      "interest": 8
+    },
+    {
+      "text": "IMDb's 2024 list of the 20 most anticipated Indian films had just one Kannada title, Bagheera, listed sixth, even though it had no confirmed release date then.",
+      "kind": "record",
+      "source": "https://www.ottplay.com/news/roaring-star-sriimuralis-bagheera-is-sole-kannada-film-on-list-of-top-20-most-anticipated-movies-of-2024/6ebc3ad1fe738",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Vedanth always dreamed of being a superhero, but his mother told him that police officers are the real heroes. So he became a police officer, and at night he also wears a mask as Bagheera. A CBI officer comes to catch him, but ends up helping him. Note: this is a film for older viewers, with violence, not a children's film.",
+  "story": [
+    {
+      "title": "A boy with a dream",
+      "text": "Young Vedanth wants to be a superhero, but his mother says ordinary people, especially police officers, are real heroes."
+    },
+    {
+      "title": "A police officer",
+      "text": "He grows up, joins the police like his father and is posted to the coastal city of Mangalore."
+    },
+    {
+      "title": "The masked protector",
+      "text": "At night Vedanth puts on a costume as Bagheera, with gadgets and a bike built by his unusual helpers. The film itself is made for older viewers."
+    },
+    {
+      "title": "A hunter turns friend",
+      "text": "A CBI officer named Guru arrives to catch Bagheera, but he figures out the truth and decides to help."
+    },
+    {
+      "title": "I am not done yet",
+      "text": "Bagheera stops the kidnappers on a goods train, and the film ends promising he will return."
+    }
+  ]
+}

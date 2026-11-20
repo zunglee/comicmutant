@@ -1,0 +1,256 @@
+{
+  "slug": "vajrapani",
+  "name": "Vajrapani",
+  "aka": ["Chana Dorje", "Chador", "Vajirapani", "Shukongoshin"],
+  "native": "वज्रपाणि",
+  "role": "Bodhisattva of power and protector of the Buddha",
+  "summary": "In Buddhist tradition, Vajrapani is the bodhisattva of power, whose name means 'holder of the thunderbolt'. He stands beside the Buddha as protector and, with Manjushri and Avalokiteshvara, forms a trio.",
+  "about": "Buddhist texts describe Vajrapani as an attendant and protector who holds a vajra, a thunderbolt-diamond weapon. The Pali Canon already knows a figure called Vajirapani, and Mahayana traditions later make him a bodhisattva. In a well-known trio, he stands for power, Manjushri for wisdom and Avalokiteshvara for compassion. In Gandharan art, he was often shown with a form like the Greek hero Herakles. Later his image influenced the temple guardians of China and Japan. Different sources give him different forms, from gentle to fierce, and different identities, including the king of the gods Shakra in some texts.",
+  "kidSummary": "Vajrapani is the strong guardian of the Buddha in Buddhist stories. His name means 'holder of the thunderbolt'. You can find his statue at monastery gates in Asia, standing like a friendly protector.",
+  "story": [
+    {
+      "title": "A guardian arrives",
+      "text": "In some Pali stories, a mighty guardian called Vajirapani stands near the Buddha, holding his thunderbolt, ready to keep him safe."
+    },
+    {
+      "title": "The night of leaving",
+      "text": "Some traditions say Vajrapani helped the young prince Gautama slip out of the palace at night, when he set off to find the way to end suffering."
+    },
+    {
+      "title": "A question about respect",
+      "text": "In the Ambattha Sutta, a proud young man looks down on the Buddha's family and will not answer an honest question about his own, so the Buddha's guardian appears above the Buddha with a raised vajra."
+    },
+    {
+      "title": "The honest answer",
+      "text": "Frightened, the young man tells the truth. The sutra then turns into a lesson that a person's worth should not rest on caste, and that honesty and respect matter for everyone."
+    },
+    {
+      "title": "Guardian of many lands",
+      "text": "In later times, people in China and Japan placed statues of strong guardians like him at temple gates to keep the place safe."
+    }
+  ],
+  "teaches": [
+    "Strength should protect, not harm",
+    "Courage together with wisdom",
+    "Honesty and respect for everyone, whatever family they come from"
+  ],
+  "symbol": "mace",
+  "emblems": [
+    "Vajra (thunderbolt-diamond)",
+    "Five-pointed crown",
+    "Lotus throne",
+    "Wrestler's build"
+  ],
+  "family": [
+    {
+      "relation": "Wisdom partner in the trio",
+      "name": "Manjushri",
+      "slug": "manjushri"
+    },
+    {
+      "relation": "Compassion partner in the trio",
+      "name": "Avalokiteshvara",
+      "slug": "avalokiteshvara"
+    }
+  ],
+  "texts": [
+    "Ambattha Sutta",
+    "Mulasarvastivada Vinaya",
+    "Sarvastivada Vinaya Vibhasha",
+    "Pancavimsatisahasrika Prajnaparamita"
+  ],
+  "places": ["Ajanta Cave 6", "Mendut, Java", "Shaolin Monastery", "Gandhara"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "According to some traditions he is the god Shakra in another role, present at the Buddha's birth and later helping Prince Siddhartha slip out of the palace when he gave up royal life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ambattha Sutta, a proud Brahmin youth dodges a question about caste until Vajrapani appears above the Buddha; the sutra is read as a challenge to rigid caste.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Gandharan art, he was shown like the Greek hero Herakles, a muscular figure holding a short club shaped like a diamond.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Kushan-era Gandhara reliefs he wears Western-style clothes and guards the Buddha, for example in scenes of the conversion of the naga Apalala, with mountains around him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one tale, he took the form of a bird to trick the nagas into avoiding their enemies, the garudas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the Buddha passed into parinirvana, texts say Vajrapani dropped his vajra and rolled in the dust in grief; Japanese art paints him red in that scene.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Chinese temples, two guardians called Heng and Ha stand at the gates; their open and closed mouths stand for the first and last sounds of Sanskrit.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shaolin monks long worshipped him as the source of their famous staff method; a 1517 stele shows that his vajra-club had by then turned into a staff.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Japan he is called Shukongoshin, and his image inspired the Nio guardian statues at temple gates.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Pure Land Buddhism he is known as Mahasthamaprapta and forms a triad with Amitabha and Avalokiteshvara.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mulasarvastivada texts, Vajrapani uses his strength to smash the boulder that Devadatta hurled to hurt the Buddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Shaolin tale says the monastery was saved from Red Turban bandits by a kitchen worker who leapt into the oven with a fire poker and came out as a giant, an event linked to Vajrapani's Kinnara King form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "A Tang-era story says the Shaolin monk Sengchou gained great strength by praying to Vajrapani, showing the monastery honoured him by at least the 8th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The scholar Etienne Lamotte called him chief of the Guhyakas, spirits of caves, citing texts in which his vajra shakes mountains.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Sarvastivada text has him guard the walking path around a shrine with his magic weapon, matching big images of him at both ends of the circumambulation passage in Cave 6 at Aurangabad.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some authors think the thunderbolt god in Gandharan art is really Zeus, while the commentator Buddhaghosa linked Vajrapani with the deva king Indra.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The traveller Xuanzang reported that Vajrapani defeated a huge serpent at Udyana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One Tibetan form of Vajrapani has the head, wings and claws of a Garuda.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His wrathful face is said to stir a fear that shakes people out of rigid, dogmatic thinking, while his vajra stands for knowledge that cuts through grasping.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1575 Shaolin renamed his Narayana form the Kinnara King; monks wove a wicker statue of him, later said to have been woven by the Kinnara King himself, and it burned in 1928.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Japan he is linked with the fierce Acala, Fudo Myoo, whose mantra names him as the powerful wielder of the vajra.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vajrapani",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Vajrapani's name mean?",
+      "options": [
+        "Holder of the thunderbolt",
+        "Lord of the sky",
+        "The silent monk",
+        "King of birds"
+      ],
+      "answer": 0,
+      "why": "Vajra means thunderbolt or diamond, and pani means in hand."
+    },
+    {
+      "q": "Which Greek hero did Gandharan artists use as a model for him?",
+      "options": ["Achilles", "Herakles", "Odysseus", "Perseus"],
+      "answer": 1,
+      "why": "Gandharan art often showed him as a muscular, Herakles-like figure with a short club."
+    },
+    {
+      "q": "Which quality does Vajrapani stand for in the trio of protectors?",
+      "options": ["Wisdom", "Compassion", "Power", "Joy"],
+      "answer": 2,
+      "why": "He stands for power, Manjushri for wisdom and Avalokiteshvara for compassion."
+    },
+    {
+      "q": "What Japanese temple guardians did his image inspire?",
+      "options": ["Torii", "Nio", "Daruma", "Maneki"],
+      "answer": 1,
+      "why": "His wrestler-like image influenced the Nio guardian statues."
+    }
+  ],
+  "related": ["manjushri", "avalokiteshvara", "gautama-buddha", "indra", "garuda"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vajrapani"
+  },
+  "palette": {
+    "c1": "#d8e0f0",
+    "c2": "#f1e6d6"
+  },
+  "order": 5,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

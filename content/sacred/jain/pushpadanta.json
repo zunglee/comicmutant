@@ -1,0 +1,170 @@
+{
+  "slug": "pushpadanta",
+  "name": "Pushpadanta",
+  "aka": ["Suvidhinatha", "Suvidhi"],
+  "native": "पुष्पदन्त",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "Ninth Tirthankara of the present age",
+  "summary": "Pushpadanta, also called Suvidhinatha, is the ninth Jain Tirthankara. His name means \"flower-tooth\", and a crocodile (makara) marks his images.",
+  "about": "Jain texts count Pushpadanta, also known as Suvidhinatha, as the ninth Tirthankara of this age. He is said to have been born at Kakandi (identified with Khukhundoo in Deoria district, Uttar Pradesh) to King Sugriva and Queen Rama of the Ikshvaku family. Hemachandra's biography says a tooth appeared during his mother's pregnancy craving for flowers, which gave the name Pushpadanta, while the name Suvidhi recalls her skill in religious rites. According to Jain narratives he ruled for a time, then renounced the world, gained omniscience and taught. Many Jain accounts credit him with restoring the fourfold sangha (monks, nuns, laymen and laywomen) first set up by Rishabhanatha, though Hemachandra says the community faded soon after his liberation. Jains believe he was liberated on Mount Shikharji. His images are white and carry a crocodile emblem on the pedestal.",
+  "kidSummary": "Pushpadanta means \"flower-tooth\". A Jain story says a tooth appeared when his mother, expecting him, longed for flowers. He is the ninth Tirthankara. A crocodile on the base of his statues tells people it is him.",
+  "story": [
+    {
+      "title": "A flower-loving mother",
+      "text": "Jain tradition says that while Pushpadanta's mother was expecting him, she longed for flowers, and a tooth appeared. His parents later gave him two names, Pushpadanta, \"flower-tooth\", and Suvidhi, at one festival."
+    },
+    {
+      "title": "A king who let go",
+      "text": "He grew up in the Ikshvaku royal family and ruled for a time. Then he decided to leave the palace and become a monk."
+    },
+    {
+      "title": "Perfect knowledge",
+      "text": "Jains believe that after deep meditation he gained kevala jnana, perfect knowledge of everything."
+    },
+    {
+      "title": "Renewing the community",
+      "text": "He taught people far and wide. Many Jain stories say he helped bring back the four-part community of monks, nuns and lay Jains."
+    },
+    {
+      "title": "Mount Shikharji",
+      "text": "At the end of his life he is said to have reached liberation on Mount Shikharji."
+    }
+  ],
+  "teaches": [
+    "Look after the community that shares the path",
+    "Gentleness to every living being",
+    "Let go of power when the time comes"
+  ],
+  "symbol": "sun",
+  "emblems": ["Crocodile (makara)", "White colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Sugriva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Rama"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Chandraprabha",
+      "slug": "chandraprabha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Shitalanatha",
+      "slug": "shitalanatha"
+    }
+  ],
+  "texts": ["Triṣaṣṭiśalākāpuruṣacaritra", "Aparajitaprccha"],
+  "places": ["Kakandi (Khukhundoo)", "Sammed Shikharji", "Thirupanamur"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name joins the Sanskrit words for \"flower\" and \"tooth\". Hemachandra says a tooth appeared during his mother's pregnancy craving for flowers; the second name, Suvidhi, recalls her skill in religious rites. Both names were chosen at one festival.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/pushpadanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says that after Pushpadanta's liberation the community of monks died out, and people who had lost touch with dharma began composing texts that praised lavish gifts. This lapse is said to have lasted until the time of Shitalanatha.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213185.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Indra's hymn at his preaching hall is a string of playful riddles, such as asking why a being who gave up crookedness has curly hair, or why a protector of subjects holds no staff, and then each riddle is answered and dissolved.",
+      "kind": "art",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213180.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Digambara poet Gunabhadra compares his body to the white kunda jasmine, which helps explain the \"flower\" in his name.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/people/jina/puspadanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Hindu tradition a gandharva (celestial musician) named Pushpadanta is credited with the Shiva Mahimna Stotra, a hymn he is said to have sung in repentance after being caught stealing flowers for worship.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shiva_Mahimna_Stotra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 4th-century image in the Vidisha Museum is identified as him only by its inscription and has no crocodile emblem, which suggests emblems were not yet standard then.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/people/jina/puspadanta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After a two-day fast he first ate at the house of King Pushpa in the town of Shvetapura. Jainpedia says he then wandered for four months before reaching omniscience under a malura tree.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/jina/puspadanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Svetambara texts say he married princesses and ruled as a king before renouncing. Digambara texts hold that no Jina took on household or royal duties, so the two traditions tell his early life differently.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/puspadanta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A temple built in 1874 by Rai Bahadur Mulchand stands about 1.5 km from Khukand. Nearby Kukubh Van is said to be the forest where he took initiation.",
+      "kind": "place",
+      "source": "https://jainpedia.org/themes/people/jina/puspadanta",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Pushpadanta mean?",
+      "options": ["Lotus-eyed", "Flower-tooth", "Sun-bright", "Moon-lord"],
+      "answer": 1,
+      "why": "Pushpa means flower and danta means tooth."
+    },
+    {
+      "q": "Which animal marks his images?",
+      "options": ["Crocodile", "Deer", "Elephant", "Monkey"],
+      "answer": 0,
+      "why": "A crocodile (makara) is his emblem."
+    },
+    {
+      "q": "What is his other name?",
+      "options": ["Suvidhinatha", "Mahavira", "Neminatha", "Parshvanatha"],
+      "answer": 0,
+      "why": "He is also called Suvidhinatha."
+    },
+    {
+      "q": "Where do Jains believe he reached liberation?",
+      "options": ["Mount Abu", "Mount Shikharji", "Girnar", "Kailash"],
+      "answer": 1,
+      "why": "Shikharji in Jharkhand."
+    }
+  ],
+  "related": ["chandraprabha", "shitalanatha", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pushpadanta",
+    "wisdomlib": "https://www.wisdomlib.org/definition/pushpadanta",
+    "shikharji": "https://en.wikipedia.org/wiki/Shikharji",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213170.html",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/puspadanta",
+    "khukhundoo": "https://en.wikipedia.org/wiki/Khukhundoo"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f4e6ec",
+    "c2": "#e0bfce"
+  },
+  "order": 9
+}

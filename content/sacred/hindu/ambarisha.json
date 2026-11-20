@@ -1,0 +1,238 @@
+{
+  "slug": "ambarisha",
+  "name": "Ambarisha",
+  "aka": ["Ambarisa", "Ambarish"],
+  "native": "अम्बरीष",
+  "role": "King and devotee of Vishnu",
+  "summary": "Ambarisha is a king of the Solar dynasty, famous in the Bhagavata Purana for his devotion to Vishnu and the day the Sudarshana Chakra protected him from the sage Durvasa.",
+  "about": "Many accounts place Ambarisha in the Solar dynasty, the family of Rama, and tradition places him in the Treta Yuga. The Bhagavata Purana makes him the son of Nābhāga (also written Nabhaga), while some other lists make him a son of Mandhata, so there may be two kings of this name. The Bhagavata Purana, in its ninth canto, praises him as a ruler of the whole earth who stayed humble and gave himself to the worship of Vishnu. Its best-known episode says that he kept an Ekadashi vow, and the short-tempered sage Durvasa, who came as a guest, went to bathe in the Yamuna and was late coming back for the meal that ends the fast. On his priests' advice Ambarisha sipped water to break the fast, and the angry sage sent a creature after him. The Sudarshana Chakra, Vishnu's discus, destroyed it and chased Durvasa through the world until Ambarisha asked it to stop. The Ramayana also connects him to the story of the boy Shunahshepa.",
+  "kidSummary": "Ambarisha was a king who loved to pray and serve others. He fasted and kept his promises. One day a famous sage, Durvasa, became upset with him, but Vishnu's spinning discus, the Sudarshana Chakra, protected the king. Ambarisha was kind even to the sage who had troubled him, and asked for the discus to be calmed.",
+  "story": [
+    {
+      "title": "A king who kept a vow",
+      "text": "Ambarisha ruled the whole earth, but he cared most about his vow of fasting on Ekadashi and worshipping Vishnu. He and his queen kept the vow for a whole year."
+    },
+    {
+      "title": "The guest who was late",
+      "text": "The sage Durvasa came for a meal after the fast. He went to bathe in the river and was delayed, and only a little time remained before the fast had to be broken."
+    },
+    {
+      "title": "A sip of water",
+      "text": "The priests advised the king to take a sip of water, which counts as a way to keep the vow without eating before the guest."
+    },
+    {
+      "title": "The sage's anger",
+      "text": "Durvasa returned, felt insulted, and pulled out a hair to create a fierce creature. The Sudarshana Chakra, the discus of Vishnu, turned it to ashes and then chased Durvasa."
+    },
+    {
+      "title": "A gentle ending",
+      "text": "After a long flight, Durvasa begged forgiveness from Ambarisha. The king prayed for the discus to calm down, welcomed the sage and fed him."
+    }
+  ],
+  "teaches": [
+    "Keep your promises",
+    "Stay humble even when you are powerful",
+    "Respond with kindness, not anger"
+  ],
+  "symbol": "moon",
+  "emblems": ["Sudarshana Chakra (protective discus)", "Ekadashi vow"],
+  "family": [
+    {
+      "relation": "Father (per the Bhagavata Purana)",
+      "name": "Nābhāga (Nabhaga)"
+    },
+    {
+      "relation": "Father (in some other lists)",
+      "name": "Mandhata",
+      "slug": "mandhata"
+    }
+  ],
+  "texts": ["Bhagavata Purana (Canto 9)", "Ramayana", "Aitareya Brahmana (Shunahshepa tale)"],
+  "places": ["Madhuvana on the Yamuna (in the Bhagavata)"],
+  "festivals": ["Ekadashi"],
+  "facts": [
+    {
+      "text": "Some accounts say Ambarisha conquered the whole world in a single week, and tradition places him in the Treta Yuga, the second of the four ages.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ambarisha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says he gave away sixty crore cows, which is 600 million, each with gold-plated horns, silver-plated hooves and a calf.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128843.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Durvasa created a fierce being from a strand of his own hair, carrying a trident, to attack the king.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Vishnu's Sudarshana Chakra burned the creature to ashes and then chased Durvasa, like a forest fire chasing a snake.",
+      "kind": "symbol",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Durvasa fled across the sky, earth, caves and ocean, even trying to hide in a cave on Mount Sumeru, but the discus followed him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata says Brahma and Shiva could not protect Durvasa, so he finally went to Vishnu in Vaikuntha.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ambarisha had gone without food for a full year while waiting for Durvasa to return, living only on water.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, Indra steals King Ambarisha's sacrificial horse, so he buys a sage's son, Shunahshepa, as a substitute. The Aitareya Brahmana tells the same tale with Harishchandra instead, so the texts name different kings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shunahshepa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Vishnu tells the fleeing Durvasa that he is completely under the control of his devotees and so cannot help him against Ambarisha. He sends the sage back to the king for forgiveness.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the fiery creature rushed at him, Ambarisha did not run or flinch. The Bhagavata says he stood calmly while the discus dealt with it.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata calls Ambarisha a son of Nābhāga, and tells that Nābhāga got a strange inheritance. His brothers divided the family property while he was away at his teacher's home, and they gave him their father as his share.",
+      "kind": "family",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata tells how Ambarisha's father Nabhaga was sent to teach two hymns to sages who kept slipping at their sacrifice, and was given their leftover wealth as thanks. Shiva claimed that wealth first, then agreed it was rightly Nabhaga's.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/4/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says Ambarisha gave every sense a job in worship: mind on the Lord, speech in praise, hands cleaning temples, ears hearing his stories, eyes seeing his images, nose on tulasi, tongue on offered food, feet walking to holy places.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128843.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Durvasa fled to him, the Bhagavata says Ambarisha felt ashamed that the sage touched his feet, and prayed to the discus until it stopped burning the sage.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Drona Parva, Narada says Ambarisha fought alone against a thousand skilled kings. They laid down their armour and begged mercy, and he spared them before conquering the earth.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07061.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Drona Parva says that at his hundred sacrifices Ambarisha gave the kingdoms of hundreds of defeated kings to ten million priests, and that great sages praised the gift as unmatched.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07061.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the sage was pardoned and had eaten, the Bhagavata says the king ate what remained of the sage's food, ending his year of living on water.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Durvasa, once forgiven, praised the king's kindness as wonderful and said that celestial beings would sing about it.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Later, says the Bhagavata, Ambarisha gave his kingdom to his sons and went to live in the forest, since even the high position of Brahma no longer seemed worth wanting.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata says he gave up attachment to palaces, queens, sons, elephants, chariots, horses, soldiers and treasure, because he saw them as passing things.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128843.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which weapon of Vishnu protected Ambarisha?",
+      "options": ["Trishula", "Sudarshana Chakra", "Gada", "Vajra"],
+      "answer": 1,
+      "why": "Vishnu's discus defended the king."
+    },
+    {
+      "q": "Which sage became angry with Ambarisha?",
+      "options": ["Narada", "Vyasa", "Durvasa", "Vasishtha"],
+      "answer": 2,
+      "why": "Durvasa was upset that the king broke his fast."
+    },
+    {
+      "q": "What did the king sip to break his fast?",
+      "options": ["Milk", "Water", "Juice", "Honey"],
+      "answer": 1,
+      "why": "On the priests' advice he sipped water."
+    },
+    {
+      "q": "How long did Ambarisha live on water while waiting for Durvasa to return?",
+      "options": ["One day", "One month", "One year", "Ten years"],
+      "answer": 2,
+      "why": "The Bhagavata says he went a full year on water alone while the sage was away."
+    }
+  ],
+  "related": ["vishnu", "indra", "vishvamitra", "durvasa", "harishchandra", "rama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ambarisha",
+    "bhagavata_9_4": "https://vedabase.io/en/library/sb/9/4/",
+    "bhagavata_9_5": "https://vedabase.io/en/library/sb/9/5/",
+    "wisdomlib_bhagavata_9_4": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128843.html",
+    "wisdomlib_bhagavata_9_5": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128844.html",
+    "dronaParva64": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07061.htm"
+  },
+  "palette": {
+    "c1": "#F4E1B5",
+    "c2": "#D3E3EA"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

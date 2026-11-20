@@ -1,0 +1,269 @@
+{
+  "slug": "ulupi",
+  "name": "Ulupi",
+  "aka": ["Uluchi", "Ulupika", "Pannagi"],
+  "native": "उलूपी",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Naga princess and wife of Arjuna",
+  "summary": "Ulupi is a Naga princess in the Mahabharata who meets Arjuna in the Ganga and marries him. She later uses a magical gem to bring him back to life.",
+  "about": "In the Mahabharata, Ulupi is the daughter of the Naga king Kauravya, whose kingdom lies beneath the Ganga. While Arjuna is on a twelve-year pilgrimage, she draws him underwater to her father's realm. She tells him that his vow applies only to Draupadi, and the epic says he marries her. Their son is Iravan, who later fights at Kurukshetra. After the war, the Vasus curse Arjuna for the way Bhishma was defeated. Ulupi encourages her stepson Babhruvahana to challenge Arjuna during the Ashvamedha horse journey, and Arjuna falls. She then brings the Nagamani gem and revives him. She appears in the Vishnu Purana and Bhagavata Purana too, and at the end she returns to her realm in the Ganga.",
+  "kidSummary": "Ulupi is a Naga princess who lives beneath the river Ganga. In the Mahabharata, she meets Arjuna while he is bathing in the river and takes him to her underwater home. Later she helps him with a magical gem. Her story is about cleverness and loyalty.",
+  "story": [
+    {
+      "title": "Beneath the river",
+      "text": "Arjuna is bathing in the Ganga during his long pilgrimage. Ulupi, a Naga princess, pulls him down into the river and carries him to her father's underwater home."
+    },
+    {
+      "title": "An underwater palace",
+      "text": "In the Naga kingdom, Arjuna makes offerings to Agni. Ulupi explains why he can marry her, and she gives him a boon: he can overcome any water creature."
+    },
+    {
+      "title": "A son named Iravan",
+      "text": "Their son Iravan is born. Later he joins his father's side in the great war at Kurukshetra."
+    },
+    {
+      "title": "A curse and a plan",
+      "text": "After the war, a curse says Arjuna will fall to his own son. Ulupi has her stepson Babhruvahana meet Arjuna in a duel at Manipura."
+    },
+    {
+      "title": "The healing gem",
+      "text": "Arjuna falls, and everyone grieves. Ulupi brings the Nagamani gem from the Naga world and puts it on his chest, and he wakes up."
+    }
+  ],
+  "teaches": [
+    "Cleverness used to protect a loved one",
+    "Forgiveness and healing",
+    "Looking after the family beyond your own household"
+  ],
+  "symbol": "serpent",
+  "emblems": ["Nagamani gem", "Naga realm beneath the Ganga"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Kauravya"
+    },
+    {
+      "relation": "Husband",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Son",
+      "name": "Iravan",
+      "slug": "iravan"
+    },
+    {
+      "relation": "Stepson",
+      "name": "Babruvahana",
+      "slug": "babruvahana"
+    },
+    {
+      "relation": "Co-wife",
+      "name": "Chitrangada",
+      "slug": "chitrangada"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva)",
+    "Mahabharata (Ashvamedhika Parva)",
+    "Vishnu Purana",
+    "Bhagavata Purana"
+  ],
+  "places": ["Ganga river", "Manipura", "Naga realm"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Kauravya's kingdom was under the water, in the river Ganga, and Ulupi is described as half-maiden and half-serpent in some writings.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her first husband, a Naga, died fighting Suparna, a Garuda bird. This comes out only later, in the war books, which show she was a widow when she met Arjuna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When she introduces herself in the first book, Ulupi names her father Kauravya, born in the line of the great Naga Airavata, and calls herself unmarried. An earlier Naga husband is mentioned only in later passages.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01217.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Arjuna's pilgrimage began because he entered the weapon room, where Yudhishthira sat with Draupadi, to fetch his bow and chase cattle thieves. That broke the brothers' own rule, so he chose twelve years of exile.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01216.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yudhishthira told Arjuna he had done nothing wrong, since a younger brother may enter that room. Arjuna still insisted that a promise must be kept as spoken, and he left for the forest.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01216.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Arjuna asked Ulupi how he could please her without breaking his word. She answered that his vow concerned only Draupadi, and that helping someone in distress is also a duty.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01217.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ulupi gave Arjuna a boon that he could defeat any creature of the water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the duel Ulupi explained that she had acted for Arjuna's good: her father Kauravya had begged the Vasus, who agreed that a blow from his own son would end their curse.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14081.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the epic Ulupi simply thinks of the healing gem and it arrives. She says it revives Nagas whenever they die, and she tells Babruvahana to lay it on his father's chest.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tamil plays she is called Nagakanni, 'serpent maiden'. She first opposes her son's pre-war sacrifice, then gives in when he says he belongs to Kali alone.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The main Koovagam image of her son Iravan wears a serpent on its crown, which points to his mother Ulupi's Naga ancestry.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Java's shadow-puppet tradition she is not a Naga at all but the daughter of the sage Kanwa, and her son is known as Irawan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Jaiminiya retelling Ulupi raises Babhruvahana herself after his mother Chitrangada leaves for Yudhishthira's court.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When the Pandavas set out on their final journey, the Mahabharata says Ulupi entered the waters of the Ganga, while Chitrangada went back to Manipura.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m17/m17001.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Little is said about her in the epic, yet it gives her a long string of epithets, at least eleven, among them Bhujagatmaja, Pannagi, Uragatmaja and Kauravi.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A retelling cited on Wikipedia, Anuja Chandramouli's 2012 novel about Arjuna, describes her as a well-trained warrior as well as a Naga princess.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A glossary on Wisdomlib says she was nurse to her stepson Babhruvahana and had great influence over him, which fits her urging him to fight Arjuna.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/ulupi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "To end the curse, her father Kauravya went to the river goddess Ganga, Bhishma's mother. Ganga said Arjuna would fall to his own son and rise again when the Nagamani gem touched his chest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Babhruvahana grieved and meant to end his own life, Ulupi stopped him and went to her kingdom to fetch the Nagamani gem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ulupi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Kannada-English dictionary entry listed on Wisdomlib gives 'ulupi' as the name of a kind of fish, a separate word that merely looks the same as the princess's name.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/ulupi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where does Ulupi live?",
+      "options": ["On a mountain", "In a forest", "Under the Ganga river", "In the sky"],
+      "answer": 2,
+      "why": "Her father's Naga kingdom lies beneath the Ganga."
+    },
+    {
+      "q": "What kind of being is Ulupi?",
+      "options": ["A gandharva", "A Naga princess", "A yaksha", "A rishi"],
+      "answer": 1,
+      "why": "She is the daughter of the Naga king Kauravya."
+    },
+    {
+      "q": "Which son did Ulupi and Arjuna have?",
+      "options": ["Abhimanyu", "Babruvahana", "Iravan", "Ghatotkacha"],
+      "answer": 2,
+      "why": "Iravan is the son of Ulupi and Arjuna."
+    },
+    {
+      "q": "What did Ulupi use to bring Arjuna back to life?",
+      "options": ["A magic bow", "Water from the Ganga", "A Nagamani gem", "A golden lotus"],
+      "answer": 2,
+      "why": "She placed the Nagamani on his chest."
+    },
+    {
+      "q": "Which city did Arjuna reach on his horse journey when he met Babhruvahana?",
+      "options": ["Manipura", "Indraprastha", "Dwarka", "Kashi"],
+      "answer": 0,
+      "why": "The duel took place at Manipura."
+    }
+  ],
+  "related": [
+    "arjuna",
+    "iravan",
+    "babruvahana",
+    "chitrangada",
+    "ganga",
+    "garuda",
+    "vasuki",
+    "parikshit"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ulupi",
+    "babhruvahana": "https://en.wikipedia.org/wiki/Babhruvahana",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#9ccdb8",
+    "c2": "#e9f0dc"
+  },
+  "depth": "full"
+}

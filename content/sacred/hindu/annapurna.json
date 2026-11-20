@@ -1,0 +1,266 @@
+{
+  "slug": "annapurna",
+  "name": "Annapurna",
+  "aka": ["Annapurneshvari", "Annada", "Annapoorna", "Vishvamata"],
+  "native": "अन्नपूर्णा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Hindu goddess of food and nourishment",
+  "summary": "Annapurna is the goddess of food, whose name means 'full of grain'. Hindus regard her as a form of Parvati, and she is closely tied to the holy city of Varanasi.",
+  "about": "The name Annapurna comes from Sanskrit and means roughly 'one who is full of food'. Hindus regard her as a gentle form of Parvati, the wife of Shiva, and she is especially linked with Varanasi (Kashi). According to the Agamas she is youthful, three-eyed and four-armed, holding a pot of porridge and a golden ladle while her other hands offer blessing and protection. A famous story in the Puranas says Shiva once went begging for food and Annapurna fed him, teaching that even the Lord shares in the world's hunger. Because food is seen as sacred, giving meals to others (annadana) is a central devotion in her honour, and Adi Shankara is traditionally credited with her best-known hymn.",
+  "kidSummary": "Annapurna is the kind goddess who makes sure nobody goes hungry. Her name means 'full of food'. In a famous story, even Lord Shiva comes to her door to ask for a meal, and she happily serves him with a golden ladle.",
+  "story": [
+    {
+      "title": "A quarrel about food",
+      "text": "In one Puranic tale, Shiva and Parvati talk about whether the world of food is real or only an illusion. Parvati decides to show him what food really means."
+    },
+    {
+      "title": "The world goes hungry",
+      "text": "Parvati steps back from the world, and soon the fields give no grain. People and creatures everywhere grow hungry and call out for help."
+    },
+    {
+      "title": "Shiva begs at Kashi",
+      "text": "Shiva takes up a begging bowl and wanders from door to door. The only city where food can still be found is Kashi, and he goes there."
+    },
+    {
+      "title": "The goddess serves a meal",
+      "text": "Parvati appears as Annapurna and fills his bowl with her golden ladle. Shiva understands that food keeps every living being going."
+    },
+    {
+      "title": "Sharing the meal",
+      "text": "From then on, devotees remember her whenever they eat and offer food to the hungry, because sharing a meal is a way of honouring her."
+    }
+  ],
+  "teaches": [
+    "Food is precious and should never be wasted",
+    "Feeding the hungry is a great kindness",
+    "Share what you have with others"
+  ],
+  "symbol": "moon",
+  "emblems": [
+    "Golden ladle",
+    "Pot of porridge",
+    "Crescent moon on her head",
+    "Abhaya and varada hand gestures"
+  ],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Consort",
+      "name": "Shiva",
+      "slug": "shiva"
+    }
+  ],
+  "texts": [
+    "Annapurna Upanishad",
+    "Skanda Purana (Kashi Khanda)",
+    "Linga Purana",
+    "Annapurna Stotra"
+  ],
+  "places": [
+    "Annapurna Devi Temple, Varanasi",
+    "Annapoorneshwari Temple, Horanadu (Karnataka)",
+    "Puducode Annapoorneswari Temple (Kerala)",
+    "Annapurna Temple, Barrackpore"
+  ],
+  "festivals": ["Annakut", "Navaratri", "Akshaya Tritiya"],
+  "facts": [
+    {
+      "text": "The Annapurna mountain range in Nepal is named after her. The name is explained as 'giver of food', since rivers from these peaks keep the plains below green all year.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(mountain_range)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One temple legend says Parvati once closed all three of Shiva's eyes in play and darkness covered the world. She lost her bright Gauri form, and Shiva told her to regain it by giving out food in Varanasi, so she took the form of Annapurna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A legend tied to the Kashi Vishwanath temple says Shiva built it in her honour. In Varanasi she is regarded as queen of the city, with Shiva as its king.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Kannauj, devotees of a 16th-century Annapurna temple believe that spreading mud from its grounds on farmland increases the harvest. A big fair is held there every Ashadi Purnima.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Varanasi temple holds two images of the goddess, and the golden one is shown to the public only once a year, on Annakut day.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Varanasi temple is said to be the only one in India built in the form of a Shri Yantra.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Devotees honour Annapurna with her Sahasranama of 1,000 names and the Shatanama Stotram of 108 names, besides the hymn credited to Adi Shankara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1950 a French team led by Maurice Herzog reached the top of Annapurna I, the first of the world's fourteen eight-thousand-metre peaks to be climbed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(mountain_range)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Annapurneshwari temple in Horanadu, Karnataka, devotees are fed first and only then are the afternoon and evening prayers held.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A stone Annapurna statue was stolen in 1913 from a shrine on the Ganges at Varanasi. It reached a Canadian university collection, in Regina, through a 1936 bequest, and it returned to Varanasi on 14 November 2021, 108 years after it left.",
+      "kind": "history",
+      "source": "https://mackenzie.art/stolen-statue-of-hindu-goddess-makes-long-awaited-journey-home-after-over-100-years/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Until 2019 the Regina gallery had labelled the statue as Vishnu. In 2020 the artist Divya Mehra made Not Vishnu, a bag of sand weighing the same as the statue, as a placeholder for it; the sand bag is now stored in the space the statue left.",
+      "kind": "history",
+      "source": "https://mackenzie.art/stolen-statue-of-hindu-goddess-makes-long-awaited-journey-home-after-over-100-years/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The present Varanasi temple was built in 1729 by the Maratha Peshwa Baji Rao, and the Kashi Khanda of the Skanda Purana says walking round the shrine eight or 108 times brings blessings.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, the sage Vyasa is led to Varanasi by a curse, and Annapurna comes as a homemaker and gives him food.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Linga Purana says Shiva was begging for food for his children because Parvati had worked a miracle that left the world without any, and she came out as Annapurna and fed him at his door.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Devi Bhagavata calls Annapurna the goddess of Kanchipuram, and names Vishalakshi as the goddess of Varanasi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Akshaya Tritiya is considered Annapurna's birthday, and the day is thought lucky for buying gold jewellery.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Varanasi temple, prasad is given out every noon to elderly and disabled people, and on a much larger scale during Navaratri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Agamas picture Annapurna as youthful and red in colour, with a face round like the full moon, three eyes and a crescent moon on her head.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bengali narrative poem Annada Mangal, by Bharatchandra Ray, praises Annapurna under her name Annada, 'giver of food'.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Varanasi temple, the brass idol that people can see every day has an image of Shiva standing beside it with a begging bowl, while the golden idol sits on a lotus.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_Devi_Mandir",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Shiva-Shakti Annapurna temple at Barrackpore in West Bengal was built in 1875 by Jagadamba Devi, daughter of Rani Rashmoni, and modelled on the Dakshineswar Kali temple.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Annapurna mean?",
+      "options": ["Full of food", "Lady of the moon", "Queen of rivers", "Giver of light"],
+      "answer": 0,
+      "why": "Anna means food and purna means full."
+    },
+    {
+      "q": "Who goes begging for food in the famous story of Annapurna?",
+      "options": ["Ganesha", "Shiva", "Indra", "Brahma"],
+      "answer": 1,
+      "why": "Shiva begs and Annapurna feeds him."
+    },
+    {
+      "q": "What does Annapurna hold in her right hand in the Agamas' description?",
+      "options": ["A bow", "A flute", "A golden ladle", "A drum"],
+      "answer": 2,
+      "why": "She holds a golden ladle and a pot of porridge."
+    },
+    {
+      "q": "In which city is her most famous temple?",
+      "options": ["Varanasi", "Madurai", "Puri", "Nashik"],
+      "answer": 0,
+      "why": "Annapurna Devi Temple stands in Varanasi near Kashi Vishwanath."
+    },
+    {
+      "q": "What kind of giving is especially linked to her?",
+      "options": ["Giving flowers", "Giving food", "Giving books", "Giving music"],
+      "answer": 1,
+      "why": "Annadana means giving food to others."
+    }
+  ],
+  "related": ["parvati", "shiva", "durga", "lakshmi"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Annapurna_(goddess)",
+    "temple": "https://en.wikipedia.org/wiki/Annapurna_Devi_Temple",
+    "mountain": "https://en.wikipedia.org/wiki/Annapurna_(mountain_range)",
+    "stotra": "https://en.wikipedia.org/wiki/Annapurna_Stotra",
+    "statue": "https://mackenzie.art/stolen-statue-of-hindu-goddess-makes-long-awaited-journey-home-after-over-100-years/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2d9a6",
+    "c2": "#e8b896"
+  },
+  "order": 150
+}

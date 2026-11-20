@@ -1,0 +1,259 @@
+{
+  "slug": "dushyanta",
+  "name": "Dushyanta",
+  "aka": ["Duhshanta", "Duṣyanta", "King of Hastinapura"],
+  "native": "दुष्यन्त",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "King of Hastinapura, husband of Shakuntala",
+  "summary": "Dushyanta is the king of the Paurava line in the Mahabharata and in Kalidasa's play, who marries Shakuntala in a forest hermitage and becomes the father of the emperor Bharata.",
+  "about": "In the Mahabharata, Dushyanta is a king of the Paurava line of the Lunar dynasty, the eldest son of Ilina and Rathanti, who inherits Hastinapura. While hunting, he reaches the hermitage of the sage Kanva, meets Shakuntala, and marries her in the gandharva way. Years later, when she brings their son to court, the epic says he knows her but pretends not to, until a voice from the sky speaks for her; he then welcomes them and makes the boy his heir. Kalidasa's play Abhijnanashakuntalam changes the story. There the sage Durvasa's curse makes the king truly forget the marriage, and he remembers only when a fisherman returns the signet ring he gave her. Dushyanta then searches for Shakuntala, and in the end finds his son playing with a lion cub. In classical Sanskrit drama he is a model of the noble hero, a nayaka.",
+  "kidSummary": "Dushyanta was a king who went hunting and ended up at a forest hermitage, where he met Shakuntala. In Kalidasa's play, a sage's curse makes him forget her until a lost ring is found in a fish. At the end he finds a brave little boy playing with a lion cub, and learns the boy is his own son, Bharata.",
+  "story": [
+    {
+      "title": "The hunting trip",
+      "text": "King Dushyanta chases an antelope in the forest. A sage tells him it belongs to the hermitage and must not be hurt, and Dushyanta agrees and stops."
+    },
+    {
+      "title": "Meeting Shakuntala",
+      "text": "At the hermitage of the sage Kanva, Dushyanta meets Shakuntala. The two fall in love, marry in a simple forest ceremony, and Dushyanta leaves her a signet ring and returns to his capital."
+    },
+    {
+      "title": "A king who forgot",
+      "text": "In the play, a curse makes Dushyanta forget Shakuntala. When she comes to his court, he cannot recognise her, and she has lost the ring that could have reminded him."
+    },
+    {
+      "title": "The ring comes back",
+      "text": "A fisherman finds the ring inside a fish and brings it to the king. Dushyanta suddenly remembers everything and is very sorry. He cannot find Shakuntala and is sad for a long time."
+    },
+    {
+      "title": "Father and son",
+      "text": "Later, in a heavenly hermitage, Dushyanta sees a fearless boy playing with a lion cub. He learns that the boy is his son Bharata, and the family is reunited."
+    }
+  ],
+  "teaches": [
+    "Keep your promises",
+    "Admit your mistakes and make them right",
+    "Respect for animals and for forest hermitages"
+  ],
+  "symbol": "bow",
+  "emblems": ["Signet ring", "Hunting bow"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Shakuntala",
+      "slug": "shakuntala"
+    },
+    {
+      "relation": "Son",
+      "name": "Bharata",
+      "slug": "bharata-emperor"
+    },
+    {
+      "relation": "Father",
+      "name": "Ilina"
+    },
+    {
+      "relation": "Mother",
+      "name": "Rathanti"
+    },
+    {
+      "relation": "Father-in-law (foster)",
+      "name": "Kanva",
+      "slug": "kanva"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Abhijnanashakuntalam by Kalidasa"],
+  "places": ["Hastinapura", "Kanva's hermitage near the Malini River"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Mahabharata, Shakuntala marries Dushyanta only after he agrees that their son will be king. This promise matters later when he tries to refuse her at court.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushyanta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Mahabharata, Dushyanta recognises Shakuntala when she comes with their six-year-old son, but pretends not to. Later he says he waited so that people would trust the child's claim to the throne.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dushyanta tells his jester friend Madhavya (the play's stock jester role is called Vidushaka) that his talk of love for Shakuntala was only a joke. He fears the chatty jester might spill the secret back in the capital.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushyanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Act 6 of the play, the grieving Dushyanta paints a portrait of Shakuntala. He gets so lost in it that he warns a bee in the picture not to bother her.",
+      "kind": "art",
+      "source": "https://litcharts.com/lit/shakuntala/act-6",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Act 6 an invisible being drags the king's jester onto the palace roof. It is Indra's charioteer Matali, who scares the jester on purpose to anger the king and shake him out of his gloom.",
+      "kind": "story",
+      "source": "https://litcharts.com/lit/shakuntala/act-6",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he enters the hermitage in Act 1, Dushyanta takes off his royal insignia and puts aside his bow so he looks humble. He tells the girls he is an official in charge of religious matters.",
+      "kind": "story",
+      "source": "https://litcharts.com/lit/shakuntala/act-1",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Matali, Indra's charioteer, asks Dushyanta to help the gods in their war against the asuras. After the victory, Matali flies him back to earth on a vimana, a flying chariot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dushyanta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the start of the play, as the king spares the deer, the ascetic Vaikhanasa blesses him with a son who will have all his virtues and rule the world. The wish comes true, though Dushyanta does not yet know it.",
+      "kind": "story",
+      "source": "https://litcharts.com/lit/shakuntala/act-1",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A bee buzzes round Shakuntala as she waters the plants in Act 1, and the hidden king wishes he could be as close to her as the bee is.",
+      "kind": "story",
+      "source": "https://litcharts.com/lit/shakuntala/act-1",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Act 3 the hidden king hears Shakuntala's love verse and steps out to finish it with his own: love only warms her, he says, but it burns him like a fire.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Act 2 the king's jester Madhavya moans about the hunt: sore limbs, bitter stream water and a noisy camp. He teases that the king, tired of dates, now craves a sour tamarind.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/02_act.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the ring brings his memory back, the king in Act 6 is so lost in sorrow that he calls the women of his palace by Shakuntala's name and sleeps badly.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/06_act.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Act 6 the king asks the painter to add to his portrait of Shakuntala: a flower behind her ear, the Malini river with flamingos, hills and a pair of antelopes. He also asks for a tear on her cheek to be removed.",
+      "kind": "art",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/06_act.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Act 5 a priest suggests Shakuntala should stay with him until her baby is born, because astrologers foretold the king a son with marks of a world emperor. If the baby has them, she will be queen.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/05_act.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Act 5 Dushyanta, not knowing her, says a man should not gaze at another's wife. He compares his state to a bee at night over a dew-wet flower, unable to enjoy it and unable to leave.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/05_act.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata he halts his huge army at the edge of the forest and goes on with only his minister and priest, laying aside all signs of royalty before visiting the hermitage.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01071.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As Dushyanta rides out hunting in the Mahabharata, women on palace terraces compare him to Indra and shower flowers on him, Brahmins bless him, and citizens follow until he sends them back.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01070.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When asking for Shakuntala's hand, the Mahabharata's king lists eight kinds of marriage and argues that the gandharva kind, a union of free choice, is best. He offers gold, jewels and even his kingdom.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The officers who arrested the fisherman sniff the ring and decide it really did come from a fish. The king then pardons him and pays him the ring's full worth.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/06_act.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Act 3 he finds Shakuntala's dropped lotus-stalk bracelet and keeps it. He then offers to tie it back on her wrist himself, saying its curve looks like the new moon.",
+      "kind": "story",
+      "source": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In Kalidasa's play, what helps Dushyanta remember Shakuntala?",
+      "options": ["A song", "A signet ring", "A letter", "A flower"],
+      "answer": 1,
+      "why": "Seeing the ring he gave her breaks the curse and brings his memory back."
+    },
+    {
+      "q": "What is Dushyanta doing when he first reaches Kanva's hermitage?",
+      "options": ["Visiting a temple", "Hunting", "Praying", "Leading an army"],
+      "answer": 1,
+      "why": "He was hunting in the forest when he found the hermitage."
+    },
+    {
+      "q": "What does Dushyanta see his son Bharata doing in the play?",
+      "options": ["Painting", "Playing with a lion cub", "Reading a book", "Driving a chariot"],
+      "answer": 1,
+      "why": "The fearless boy plays with a lion cub at the hermitage of Kashyapa (also called Maricha)."
+    },
+    {
+      "q": "Which city was Dushyanta king of?",
+      "options": ["Hastinapura", "Ayodhya", "Mathura", "Vidarbha"],
+      "answer": 0,
+      "why": "Both the epic and the play call him king of Hastinapura."
+    }
+  ],
+  "related": ["shakuntala", "bharata-emperor", "kanva", "vishvamitra", "durvasa", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dushyanta",
+    "abhijnanashakuntalam": "https://en.wikipedia.org/wiki/Shakuntala_(play)",
+    "shakuntala": "https://en.wikipedia.org/wiki/Shakuntala",
+    "bharata": "https://en.wikipedia.org/wiki/Bharata_(Mahabharata)",
+    "act1Summary": "https://litcharts.com/lit/shakuntala/act-1",
+    "act6Summary": "https://litcharts.com/lit/shakuntala/act-6",
+    "act2": "https://franpritchett.com/00litlinks/shakuntala_jones/02_act.html",
+    "act3": "https://franpritchett.com/00litlinks/shakuntala_jones/03_act.html",
+    "act5": "https://franpritchett.com/00litlinks/shakuntala_jones/05_act.html",
+    "act6full": "https://franpritchett.com/00litlinks/shakuntala_jones/06_act.html",
+    "sambhava70": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01070.htm",
+    "sambhava71": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01071.htm",
+    "sambhava73": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01074.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e9d8b4",
+    "c2": "#c9dcc7"
+  },
+  "order": 500
+}

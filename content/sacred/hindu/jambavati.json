@@ -1,0 +1,255 @@
+{
+  "slug": "jambavati",
+  "name": "Jambavati",
+  "aka": ["Narendraputri"],
+  "native": "जाम्बवती",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Queen of Krishna, daughter of the bear king Jambavan",
+  "summary": "Jambavati is the daughter of the bear king Jambavan and the second of Krishna's eight chief queens. The Puranas link her wedding to the story of the Syamantaka jewel and the birth of her son Samba.",
+  "about": "In the Mahabharata, Bhagavata Purana and Harivamsa, Jambavati is the daughter of Jambavan, who is described as king of the bears. Krishna comes to Jambavan's cave while searching for the missing Syamantaka jewel, and the two fight for many days. In these texts Jambavan then realises that Krishna is the same Lord he had known as Rama, so he returns the jewel and gives Jambavati in marriage. She is counted second among the eight chief queens, the Ashtabharya, and traditions regard the junior queens as forms of Lakshmi. She is also the mother of Samba, born after Krishna did penance to Shiva in the Himalayas. Tellings differ on the number of her sons and on how long the cave fight lasted, so this profile names the text where it matters.",
+  "kidSummary": "Jambavati is the daughter of Jambavan, the wise bear king in the Hindu stories. Krishna meets her father while looking for a lost jewel. After a long wrestling match, Jambavan sees who Krishna really is, and Jambavati joins Krishna's family. She is the mother of Samba.",
+  "story": [
+    {
+      "title": "A jewel goes missing",
+      "text": "A precious jewel called Syamantaka disappears in the forest. People wrongly blame Krishna, so he sets out to follow the trail and clear his name."
+    },
+    {
+      "title": "The bear king's cave",
+      "text": "The trail leads Krishna to the cave of Jambavan, king of the bears. The jewel is there, and a nurse's cry warns Jambavan that a stranger has come."
+    },
+    {
+      "title": "A long wrestling match",
+      "text": "Jambavan and Krishna fight for many days. The Bhagavata Purana says 27 or 28 days and the Vishnu Purana says 21, so the tellings differ."
+    },
+    {
+      "title": "Jambavan understands",
+      "text": "As Jambavan grows tired, he realises that Krishna is the same Lord he once served as Rama. He gives back the jewel and offers his daughter Jambavati in marriage."
+    },
+    {
+      "title": "A wish for a child",
+      "text": "Later Jambavati hopes for a child. Krishna does penance to Shiva in the Himalayas, and a son named Samba is born to her."
+    }
+  ],
+  "teaches": [
+    "Honesty clears a false blame",
+    "Even a strong fighter can recognise the truth and let go of pride",
+    "Patient prayer is part of family hopes"
+  ],
+  "symbol": "tree",
+  "emblems": ["Syamantaka jewel", "Bear king's cave"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Father",
+      "name": "Jambavan",
+      "slug": "jambavan"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Satyabhama",
+      "slug": "satyabhama"
+    },
+    {
+      "relation": "Son",
+      "name": "Samba"
+    }
+  ],
+  "texts": ["Mahabharata", "Bhagavata Purana", "Harivamsa", "Vishnu Purana", "Samba Purana"],
+  "places": [
+    "Dvaraka, Gujarat",
+    "Multan Sun Temple site (Samba legend)",
+    "Jamkhed, Maharashtra (Jambavan cave temple)"
+  ],
+  "festivals": ["Samba Dashami (Odisha)"],
+  "facts": [
+    {
+      "text": "The Syamantaka jewel was so bright that people once mistook Satrajit for the sun-god Surya when he wore it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the story, a lion killed Satrajit's brother Prasena and took the jewel, then Jambavan killed the lion and gave the gem to his child as a toy.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shiva appeared as Ardhanarishvara, half male and half female, and her son was named Samba after that form.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8
+    },
+    {
+      "text": "In the Mausala Parva, sages cursed Samba after a prank in which he dressed as a pregnant woman, and he was said to give birth to an iron bolt.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Krishna%27s_son)",
+      "interest": 8
+    },
+    {
+      "text": "The ground-up bolt grew into eraka reeds, which were used in the fatal Yadava brawl, and a hunter named Jara later used a fragment as an arrowhead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Krishna%27s_son)",
+      "interest": 9
+    },
+    {
+      "text": "After Krishna returned the jewel, Satrajit felt ashamed and offered his daughter Satyabhama in marriage, so Jambavati's wedding led directly to Satyabhama's. Krishna accepted the bride but not the gem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Buddhist literature she appears as Jambavati or Campavati, chief queen of Vasudeva (Krishna) and mother of King Sivi, and the Mahaummagga Jataka cites her humble birth as a precedent for a happy marriage.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 9
+    },
+    {
+      "text": "In the Samba Purana, Samba prays to Surya for 12 years at Mitravana beside the Chandrabhaga river, a place identified with the Multan Sun Temple, until the sun god heals him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Krishna%27s_son)",
+      "interest": 9
+    },
+    {
+      "text": "In the Bhagavata Purana, when the Kurus jailed Jambavati's son Samba, Balarama dug his plough under Hastinapura and began dragging the city toward the Ganga until the frightened Kauravas begged forgiveness.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/68/",
+      "interest": 9
+    },
+    {
+      "text": "The Bhagavata Purana names ten sons of Jambavati: Samba, Sumitra, Purujit, Shatajit, Sahasrajit, Vijaya, Chitraketu, Vasuman, Dravida and Kratu. The Vishnu Purana only says she had many sons, headed by Samba.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 7
+    },
+    {
+      "text": "The commentator Sridhara identifies Jambavati with Krishna's wife Rohini, though another commentator, Ratnagarbha, disagrees. The Harivamsa also hints that Rohini may be another name for her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 7
+    },
+    {
+      "text": "The Vijayanagara emperor Krishnadevaraya wrote a drama called Jambava Kalyanam, and the poet Ekaramantha wrote a poem on her wedding named Jambavati Parinayam.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Local tradition places the fight between Krishna and the bear king at a cave shrine called Jambuvant Gufa in Ranavav, Gujarat, the fight that led to Jambavati's wedding.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The cave fight lasted 27 or 28 days in the Bhagavata Purana but 21 days in the Vishnu Purana. In Jambavati's own account in Bhagavata canto 10, chapter 83, her father fought for 27 days.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/83/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "To win a son for her, Krishna did six months of penance at sage Upamanyu's hermitage: first holding a skull and a rod, then standing on one leg on water alone, then on his toes on air alone.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the queens tell Draupadi how they married Krishna, Jambavati says in the Bhagavata Purana that her father gave her and the jewel as signs of devotion, and she calls herself the Lord's maidservant.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/83/",
+      "interest": 8
+    },
+    {
+      "text": "The Mahabharata's Mausala Parva says that after Krishna's departure, Jambavati, Rukmini and other queens entered the funeral fire.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 7
+    },
+    {
+      "text": "Her name is a patronymic meaning daughter of Jambavan. Epic poets also gave her the epithets Narendraputri and Kapindraputra, as the scholar Hopkins records.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Samba's wedding dowry from Duryodhana was 1,200 sixty-year-old elephants, 120,000 horses, 6,000 golden chariots and 1,000 maidservants wearing jewelled lockets.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/68/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Samba carried off Lakshmana, the Bhagavata Purana says he fought alone against the Kuru warriors and destroyed six chariots with their horses and drivers before being tied up and taken to Hastinapura.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/68/",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Jambavati's father?",
+      "options": ["Hanuman", "Jambavan", "Sugriva", "Angada"],
+      "answer": 1,
+      "why": "Jambavan, king of the bears, is her father."
+    },
+    {
+      "q": "Which jewel did Krishna search for in the bear king's cave?",
+      "options": ["Kaustubha", "Chintamani", "Syamantaka", "Nilam"],
+      "answer": 2,
+      "why": "Krishna followed the trail of the missing Syamantaka jewel."
+    },
+    {
+      "q": "Why did Jambavan stop fighting Krishna?",
+      "options": [
+        "He fell asleep",
+        "He ran out of strength and food",
+        "A nurse told him to stop",
+        "He recognised Krishna as Rama"
+      ],
+      "answer": 3,
+      "why": "In these texts Jambavan realised Krishna was the Lord he had known as Rama."
+    },
+    {
+      "q": "Which son was born to Jambavati after Krishna prayed to Shiva?",
+      "options": ["Samba", "Pradyumna", "Aniruddha", "Vajra"],
+      "answer": 0,
+      "why": "Samba was born after Krishna's penance to Shiva."
+    },
+    {
+      "q": "How many sons does the Bhagavata Purana list for Jambavati?",
+      "options": ["Three", "Ten", "Twenty-one", "One hundred"],
+      "answer": 1,
+      "why": "The Bhagavata Purana names ten sons, starting with Samba."
+    }
+  ],
+  "related": ["krishna", "jambavan", "rukmini", "satyabhama", "hanuman", "rama", "surya", "shiva"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jambavati",
+    "jambavan": "https://en.wikipedia.org/wiki/Jambavan",
+    "samba": "https://en.wikipedia.org/wiki/Samba_(Krishna%27s_son)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d3b79a",
+    "c2": "#e9dcb9"
+  },
+  "order": 500
+}

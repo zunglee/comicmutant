@@ -1,0 +1,312 @@
+{
+  "slug": "shiva",
+  "name": "Shiva",
+  "aka": ["Mahadeva", "Rudra", "Nataraja", "Neelakantha", "Pashupati"],
+  "native": "शिव",
+  "tradition": "hindu",
+  "group": "trimurti",
+  "role": "The transformer god of the Trimurti",
+  "summary": "In Hindu tradition Shiva is a great yogi and also a householder, honoured as Mahadeva and as Nataraja, the Lord of Dance, whose home is Mount Kailash.",
+  "about": "Shiva is the central deity of Shaivism and the transformer in the Trimurti. His name means \"auspicious\", and he grew from the older Vedic Rudra. Texts such as the Shvetashvatara Upanishad and the Shiva Purana describe him as both an ascetic who lives in the mountains and a family man with Parvati, Ganesha and Kartikeya. He is worshipped in the form of the lingam, and as Nataraja, Dakshinamurti and Ardhanarishvara. The twelve Jyotirlingas and the festival of Maha Shivaratri are among the most important parts of his worship, and he is honoured in Nepal, Indonesia and beyond.",
+  "kidSummary": "Shiva is the god who, in Hindu stories, sits in deep calm on a snowy mountain, yet also dances to keep the world moving. He has a family, a bull friend called Nandi, and a blue throat from a time he kept the world safe.",
+  "story": [
+    {
+      "title": "The calm yogi",
+      "text": "Shiva lives on snowy Mount Kailash, sitting in deep meditation. He is called Mahayogi, the great yogi."
+    },
+    {
+      "title": "The ocean gives poison",
+      "text": "When gods and asuras churned the ocean, a dangerous poison called Halahala came out. Shiva held it in his throat to protect everyone."
+    },
+    {
+      "title": "The blue throat",
+      "text": "Some tellings say Parvati kept it from going further. Shiva's throat turned blue, so he is called Neelakantha."
+    },
+    {
+      "title": "The dance",
+      "text": "As Nataraja, Shiva dances inside a ring of fire. The dance stands for the rhythm of the world: making, keeping and changing."
+    },
+    {
+      "title": "A family",
+      "text": "Shiva is a husband to Parvati and father to Ganesha and Kartikeya. His story shows a yogi who also cares for his family."
+    }
+  ],
+  "teaches": [
+    "Stay calm like a mountain",
+    "Protect others even at a cost to yourself",
+    "Balance quiet thought with joy"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Nandi (bull, vahana)",
+    "Trident",
+    "Damaru (drum)",
+    "Crescent moon",
+    "Third eye",
+    "Lingam"
+  ],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "First wife",
+      "name": "Sati",
+      "slug": "sati"
+    },
+    {
+      "relation": "Son",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Son",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Bull and gatekeeper",
+      "name": "Nandi",
+      "slug": "nandi"
+    }
+  ],
+  "texts": [
+    "Rigveda (Rudra)",
+    "Shvetashvatara Upanishad",
+    "Shiva Purana",
+    "Linga Purana",
+    "Mahabharata",
+    "Shatarudriya"
+  ],
+  "places": [
+    "Mount Kailash",
+    "Kashi Vishwanath, Varanasi",
+    "Kedarnath",
+    "Chidambaram",
+    "Pashupatinath, Kathmandu"
+  ],
+  "festivals": ["Maha Shivaratri"],
+  "facts": [
+    {
+      "text": "The Ganga fell from the sky so fiercely that only Shiva could take her weight. After King Bhagiratha's penance, Shiva caught her in his matted hair and released a single drop, which became the Ganges.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The gods sent Kamadeva to wake Shiva's love for Parvati while he meditated. When the flower arrow struck, Shiva opened his third eye and burned Kamadeva to ashes; he was later restored without a body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadeva",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Shiva's reach went beyond India. Greek writers from Alexander's time called him the 'Indian Dionysus', in Indonesia he is Batara Guru, and Balinese tradition calls the Buddha his younger brother. Japan's wealth god Daikokuten is thought to descend from him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shiva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Daksha held a sacrifice and left out Shiva and Sati, she gave up her life in the sacrificial fire. Grieving Shiva sent Virabhadra to wreck the rite; Shiva later revived Daksha and gave him a goat's head.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Pashupati seal from Mohenjo-daro, showing a central figure ringed by animals, was named 'Lord of Animals' by its excavators; scholars still debate whether it shows an early Shiva.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shiva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Nataraja images Shiva dances in a ring of flames on a lotus pedestal, trampling a dwarf, Apasmara or Muyalaka, who stands for spiritual ignorance. Scholars have read the details in many ways since the 12th century; one questions some readings.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Nataraja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 2004 India gifted CERN, the particle physics lab in Geneva, a 2-metre statue of dancing Shiva.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nataraja",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Puranas disagree on how Ganesha got an elephant head. In the most common version Parvati makes him from clay, Shiva removes his head when he blocks the way, then gives him an elephant's; in another he is born from Shiva's laughter.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganesha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Tamil temple lore of Ardhanarishvara, the sage Bhringi worshipped only Shiva and ignored Parvati. She cursed him to lose his flesh, onlookers gave him a third leg, and her austerities later won her the boon of becoming one half of Shiva's body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ardhanarishvara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Arjuna did penance to win Shiva's weapon, the Pashupatastra. Shiva came as a hunter and fought him over a boar. Arjuna lost, then saw his mentally offered garland on the hunter's head and knew him. Pleased, Shiva gave him the weapon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pashupatastra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana's Uttara Kanda, Ravana shakes Shiva's mountain and Shiva presses it down with his toe. Ravana's cry of pain gives him his name, 'he who makes the worlds cry out'. The Shiva Tandava Stotra under the mountain is a later tradition.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424777.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mount Kailash, traditionally Shiva's home, has no recorded successful ascent, and climbing it is banned. Pilgrims instead walk around it on a 53 km path, Hindus clockwise and Bon followers counterclockwise.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mount_Kailash",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "As Tripurantaka, Shiva destroys the three cities of the asuras with one arrow. According to the Padma Purana, Brahma had decreed that only Shiva could do it, when the three cities lined up and the Moon met the Pushya star.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The sage Markandeya was fated to die at sixteen, but on the day he was due to die he clung to a Shiva lingam, and his devotion shielded him from Yama's messengers. When Yama came himself and threw his noose, Shiva appeared to save the boy.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Markandeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Amarnath cave shrine in Kashmir, at about 3,888 m, holds a lingam that is a natural ice stalagmite grown from dripping water. It is open to pilgrims only for a short stretch in summer.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Amarnath_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The rudraksha seeds worn by many Shaiva devotees as prayer beads have a name meaning \"eye of Rudra\". Some late-medieval Upanishads say they first sprang from Rudra's tears, which fell as he closed his eyes before the battle against the asura Tripura.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Rudraksha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the Chidambaram Nataraja temple in Tamil Nadu, the inmost sanctum has a curtained empty space, called the secret, standing for formless space itself. Behind the curtains hang only 52 golden bilva leaves. It is the temple of the element space.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chidambaram_Nataraja_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Almost every Shiva temple has a stone Nandi facing the main shrine, and many devotees whisper a wish into his ear. The belief is that Nandi, Shiva's chief guard, will carry the message straight to his master.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Nandi_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the tradition of Kerala, the god Ayyappan is the son of Shiva and Mohini, the female form of Vishnu, which makes him a link between Shaiva and Vaishnava worship. One of his names, Hariharasuthan, means \"son of Hari and Hara\".",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ayyappan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Sati's death, a grieving Shiva roamed the universe carrying her body, until Vishnu used his discus to cut it into pieces. The places where they fell became the Shakti Peethas, pilgrimage sites to the goddess. Texts give differing counts, from 51 to 108.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shakti_Peetha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shiva Purana says there were once 64 jyotirlingas, shrines where Shiva appeared as a fiery pillar of light, and 12 are counted as the most holy. The Shiva Purana itself names their sites.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jyotirlinga",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Shiva mean?",
+      "options": ["Auspicious", "Fierce", "Silent", "Golden"],
+      "answer": 0,
+      "why": "The word shiva means auspicious."
+    },
+    {
+      "q": "What colour is Shiva's throat in the Neelakantha story?",
+      "options": ["Red", "Blue", "Green", "Golden"],
+      "answer": 1,
+      "why": "Neelakantha means blue-throated, after the poison story."
+    },
+    {
+      "q": "Which animal is Shiva's mount?",
+      "options": ["Lion", "Bull", "Elephant", "Peacock"],
+      "answer": 1,
+      "why": "Nandi the bull is his vahana."
+    },
+    {
+      "q": "What does Nataraja's dance take place inside?",
+      "options": ["A cave", "A ring of fire", "A lake", "A forest"],
+      "answer": 1,
+      "why": "The ring of flames is the prabha mandala."
+    },
+    {
+      "q": "How many Jyotirlingas are held most sacred?",
+      "options": ["Five", "Twelve", "Twenty", "One hundred"],
+      "answer": 1,
+      "why": "Twelve Jyotirlingas are held most sacred."
+    }
+  ],
+  "related": [
+    "brahma",
+    "vishnu",
+    "parvati",
+    "ganesha",
+    "kartikeya",
+    "nandi",
+    "kali",
+    "bhairava",
+    "sati"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shiva",
+    "nataraja": "https://en.wikipedia.org/wiki/Nataraja",
+    "shivaratri": "https://en.wikipedia.org/wiki/Maha_Shivaratri",
+    "jyotirlinga": "https://en.wikipedia.org/wiki/Jyotirlinga",
+    "bhagiratha": "https://en.wikipedia.org/wiki/Bhagiratha",
+    "kamadeva": "https://en.wikipedia.org/wiki/Kamadeva",
+    "sati": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+    "pashupatinath": "https://en.wikipedia.org/wiki/Pashupatinath_Temple",
+    "ravana": "https://en.wikipedia.org/wiki/Ravana",
+    "uttarakanda": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424777.html",
+    "ganesha": "https://en.wikipedia.org/wiki/Ganesha",
+    "kailash": "https://en.wikipedia.org/wiki/Mount_Kailash",
+    "tripurantaka": "https://en.wikipedia.org/wiki/Tripurantaka",
+    "markandeya": "https://en.wikipedia.org/wiki/Markandeya",
+    "amarnath": "https://en.wikipedia.org/wiki/Amarnath_Temple",
+    "churning": "https://en.wikipedia.org/wiki/Samudra_Manthan",
+    "rudraksha": "https://en.wikipedia.org/wiki/Rudraksha",
+    "chidambaram": "https://en.wikipedia.org/wiki/Chidambaram_Nataraja_Temple",
+    "nandi": "https://en.wikipedia.org/wiki/Nandi_(Hinduism)",
+    "ayyappan": "https://en.wikipedia.org/wiki/Ayyappan",
+    "mandi": "https://en.wikipedia.org/wiki/Mandi_Shivaratri_Fair"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#b6c4e4",
+    "c2": "#e6e9f2"
+  },
+  "order": 3
+}

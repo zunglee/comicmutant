@@ -1,0 +1,272 @@
+{
+  "slug": "kichaka",
+  "name": "Kichaka",
+  "aka": ["Keechaka", "Kicaka"],
+  "native": "कीचक",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Army commander of Matsya in the Mahabharata",
+  "summary": "Kichaka is the powerful commander of King Virata's army in the Mahabharata. His story is told in the Virata Parva, during the Pandavas' hidden thirteenth year.",
+  "about": "In the Mahabharata, Kichaka is the commander-in-chief of the Matsya kingdom and the brother of Queen Sudeshna, wife of King Virata. The epic says he was so strong that he held more real power in the palace than the king himself. His story is told in the Virata Parva, the fourth book, which describes the Pandavas' thirteenth year hiding in disguise. Draupadi, working as the queen's maid Sairandhri, is troubled by his attention, and the epic describes how he mistreats her in the royal court. Bhima then ends his life at night in the dance hall. The Southern Recension of the epic adds that Kichaka and his brothers were born from an aspect of the asura Bana. Artists such as Raja Ravi Varma painted scenes from this episode, and it later inspired a Marathi play and an early South Indian film.",
+  "kidSummary": "Kichaka was the head of the army of King Virata in the Mahabharata. He had one hundred and five younger brothers. His story happens while the Pandavas are hiding in disguise in the palace for a whole year, and it shows how Bhima protects Draupadi.",
+  "story": [
+    {
+      "title": "A year in disguise",
+      "text": "The five Pandava brothers and Draupadi must stay hidden for one year. They join the court of King Virata, each in a new role. Draupadi takes the job of a Sairandhri, a maid, and uses the name Malini."
+    },
+    {
+      "title": "The army chief",
+      "text": "Kichaka, the queen's brother, leads the army and is more powerful than the king. He sees Draupadi at the palace and will not take no for an answer."
+    },
+    {
+      "title": "A cry for justice",
+      "text": "Kichaka behaves badly to Draupadi even in the royal court. Yudhishthira and the king cannot stop him, and Draupadi tells Bhima what happened."
+    },
+    {
+      "title": "The dance hall",
+      "text": "Bhima waits in the dark dance hall in disguise. Kichaka arrives thinking he will meet Draupadi, but meets Bhima instead."
+    },
+    {
+      "title": "The family's anger",
+      "text": "Kichaka's one hundred and five brothers blame Draupadi. Bhima rushes to the cremation ground and stops them, and the Pandavas keep their secret."
+    }
+  ],
+  "teaches": [
+    "Standing up for someone who is treated unfairly",
+    "Patience while waiting for the right time",
+    "Power without kindness leads to a fall"
+  ],
+  "symbol": "drum",
+  "emblems": ["Army command of Matsya", "Royal court of Virata"],
+  "family": [
+    {
+      "relation": "Sister",
+      "name": "Sudeshna"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Virata",
+      "slug": "virata"
+    },
+    {
+      "relation": "Father",
+      "name": "Kekaya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Malavi"
+    }
+  ],
+  "texts": ["Mahabharata (Virata Parva)", "Purana Encyclopaedia (Vettam Mani)"],
+  "places": ["Matsya kingdom", "Virata's palace"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Kichaka was the son of a Suta king named Kekaya and Queen Malavi. He had 105 younger brothers, called the Upa-Kichakas, and a sister, Sudeshna, who married King Virata.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Southern Recension of the Mahabharata says Kichaka and his brothers were born from a part of Bana, the eldest of the Kalakeya asuras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A guardian spirit, a rakshasa in the text, pushed Kichaka so hard that he fell unconscious in the palace hall.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhima planned to wait at midnight in the royal dance hall, in Draupadi's place, in the dark. Kichaka mistook him for her in the dim light, and Bhima defeated him with his bare hands.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A retelling quoted in the Kicaka glossary entry says a prophecy allowed only one of four equally strong men to kill Kichaka: Bhima, Duryodhana, Jarasandha or Bakasura. It was Bhima.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/kicaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Bhima killed Kichaka, his 105 brothers seized Draupadi to burn her on his pyre. Bhima rushed to the cremation ground and killed them, and the brothers were cremated together before King Virata and the court.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kichak Vadh, a Marathi play first staged in 1907 by Krushnaji Prabhakar Khadilkar, used the story as a hidden message. Kichaka stood for the Viceroy Lord Curzon, Draupadi for India, and Bhima for forceful nationalists.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Krushnaji_Prabhakar_Khadilkar",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "British officials took the play so seriously that a series of Times articles in January 1910 called it seditious. These helped push the India Press Act of 1910, and the play was banned.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Krushnaji_Prabhakar_Khadilkar",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Keechaka Vadham, a silent film by R. Nataraja Mudaliar from the late 1910s, was the first film made in South India and is regarded as the first Tamil film. No print is known to survive, so it is a lost film.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Keechaka_Vadham",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sanskrit word kichaka is also the name for a hollow bamboo, one that rattles or whistles when the wind blows through it.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/kicaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Keechakavadham, 'The Slaying of Keechaka', is a Kathakali play in Malayalam by Irayimman Thampi, so this episode of the Virata Parva is also a staple of Kerala's dance-drama.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Keechakavadham",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Raja Ravi Varma painted this story in 1890 as 'Keechaka and Sairandhri', showing Kichaka's advance on Draupadi in her maid's guise.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Another Ravi Varma painting shows the scene in Virata's court, where Kichaka kicks Draupadi, and Wikipedia uses it to illustrate the Virata Parva.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Virata_Parva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sanskrit dictionaries list kichaka for a hollow bamboo, for a people and for a kind of rakshasa. One lists the army chief in the Mahabharata and the Panchatantra.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/kicaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata's own table of contents in the Adi Parva names a section 'the slaying of the Kichakas', a sign of how famous the episode was.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/kicaka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Kichaka kicked Draupadi in court, Bhima was present, and the retelling says only a look from Yudhishthira kept him from attacking.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the court Draupadi asked the king about a ruler's dharma and cursed Kichaka to die at her husbands' hands. Kichaka laughed it off and asked where those gandharvas were.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Khadilkar's 1907 play, Yudhishthira stood for moderate nationalism, in contrast to Bhima, who stood for the extremists.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Krushnaji_Prabhakar_Khadilkar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The writer Valentine Chirol described audiences at Kichak Vadh in his 1910 book Indian Unrest, with tense faces at Kichak's outrages and tearful eyes at Draupadi's pleas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Krushnaji_Prabhakar_Khadilkar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Kannada dictionaries the word kichaka also became a byword for a villainous man, alongside its meaning of rattling bamboo.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/kicaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On the new-moon day, Wikipedia's account says, Queen Sudeshna asked Malini (Draupadi) to carry a plate of food and wine to her brother Kichaka, an order Draupadi obeyed only reluctantly.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kichaka",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose army did Kichaka command?",
+      "options": ["King Drupada's", "King Virata's", "King Shantanu's", "King Pandu's"],
+      "answer": 1,
+      "why": "He was the commander of the Matsya army under King Virata."
+    },
+    {
+      "q": "What job did Draupadi take in Queen Sudeshna's household?",
+      "options": [
+        "A Sairandhri, a maid and attendant",
+        "The royal cook",
+        "Commander of the army",
+        "Court dance teacher"
+      ],
+      "answer": 0,
+      "why": "A Sairandhri is a maid or attendant. In the court she used the name Malini."
+    },
+    {
+      "q": "How many younger brothers did Kichaka have?",
+      "options": ["5", "12", "50", "105"],
+      "answer": 3,
+      "why": "His brothers were called the Upa-Kichakas."
+    },
+    {
+      "q": "Which Pandava dealt with Kichaka in the dance hall?",
+      "options": ["Arjuna", "Nakula", "Bhima", "Sahadeva"],
+      "answer": 2,
+      "why": "Bhima waited in the dance hall, in disguise."
+    },
+    {
+      "q": "Which book of the Mahabharata tells the Kichaka story?",
+      "options": [
+        "The Adi Parva",
+        "The Virata Parva",
+        "The Shanti Parva",
+        "The Svargarohana Parva"
+      ],
+      "answer": 1,
+      "why": "The Virata Parva is Book 4."
+    }
+  ],
+  "related": ["draupadi", "bhima", "virata", "yudhishthira", "arjuna", "nakula", "sahadeva"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kichaka",
+    "virata_parva": "https://en.wikipedia.org/wiki/Virata_Parva",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata",
+    "virata": "https://en.wikipedia.org/wiki/Virata",
+    "keechaka_vadham": "https://en.wikipedia.org/wiki/Keechaka_Vadham",
+    "khadilkar": "https://en.wikipedia.org/wiki/Krushnaji_Prabhakar_Khadilkar",
+    "wisdomlib": "https://www.wisdomlib.org/definition/kicaka",
+    "s25": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04025.htm",
+    "s30": "https://www.ibiblio.org/sripedia/ebooks/mb/m04/m04030.htm"
+  },
+  "palette": {
+    "c1": "#c9a98f",
+    "c2": "#f2e6d0"
+  },
+  "depth": "full",
+  "order": 575
+}

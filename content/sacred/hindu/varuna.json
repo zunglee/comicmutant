@@ -1,0 +1,259 @@
+{
+  "slug": "varuna",
+  "name": "Varuna",
+  "aka": ["Pracheta", "Jaladhipati", "Apampati", "Suiten (Japan)"],
+  "native": "वरुण",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Vedic lord of cosmic order, later god of the waters and the west",
+  "summary": "In the Vedas Varuna is a vast sky-lord who watches over truth and promises. Later Puranas turn him into the god of the oceans and the guardian of the western direction.",
+  "about": "Varuna is one of the oldest gods in the Rigveda, where hymns picture him as a ruler who sees everything through watchers and keeps the world's order. Vedic texts often pair him with Mitra, and later Vedic writing sometimes calls him an Asura, a word that then carried no bad meaning. In the Puranas his home moves from the sky to the waters, and he becomes a dikpala, the guardian of the west, shown as a youthful god with a noose and a pitcher riding a makara. The Mahabharata describes his palace under the sea and tells how he gave Arjuna the bow Gandiva. In the Valmiki Ramayana, Rama asks the ocean lord for a way across, and retellings name him as Varuna, while many sources name Samudra, the ocean itself. Sindhi Hindus honour the folk figure Jhulelal as an avatar of Varuna, and Japanese Buddhism knows him as Suiten.",
+  "kidSummary": "Varuna is the Hindu god of the waters and the west. Old hymns say he watches over truth like a king with a thousand eyes. In the stories, a sage dries up the ocean to win back his wife, and a king learns how seriously Varuna takes a promise.",
+  "story": [
+    {
+      "title": "A king with a thousand eyes",
+      "text": "In the Rigveda, Varuna keeps the order of the world from a palace with a thousand gates. His watchers see everything, so truth and promises matter to him."
+    },
+    {
+      "title": "The noose",
+      "text": "Varuna holds a noose, the pasha. Vedic texts say he casts it on those who break the cosmic law, which includes giving false words."
+    },
+    {
+      "title": "A poet asks forgiveness",
+      "text": "In Rigveda hymns, the poet admits mistakes to Varuna and asks to be forgiven. Varuna is a judge, and also a healer who answers honest regret."
+    },
+    {
+      "title": "A promise to Varuna",
+      "text": "In a tale from the Aitareya Brahmana, King Harishchandra asks Varuna for a son and promises an offering in return. Years pass and he keeps putting it off."
+    },
+    {
+      "title": "A debt settled",
+      "text": "Varuna sends the king a swelling illness. It ends only when the promise is settled through a substitute offering, a story about how seriously Varuna guards vows."
+    }
+  ],
+  "teaches": [
+    "Patience and respect when asking for help",
+    "Truth and promises matter",
+    "Nature's waters deserve care"
+  ],
+  "symbol": "wave",
+  "emblems": ["Makara (mount)", "Noose (pasha)", "Water pitcher", "Western direction"],
+  "family": [
+    {
+      "relation": "Mother (Katha Upanishad)",
+      "name": "Aditi",
+      "slug": "aditi"
+    },
+    {
+      "relation": "Divine partner",
+      "name": "Mitra"
+    },
+    {
+      "relation": "Son (pitcher birth story)",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Son (pitcher birth story)",
+      "name": "Agastya",
+      "slug": "agastya"
+    },
+    {
+      "relation": "Gave the Gandiva to",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Rigveda", "Yajurveda", "Atharvaveda", "Mahabharata", "Ramayana"],
+  "places": ["Western direction (dikpala)", "Odero Lal, Sindh", "Jhulelal Tirthdham, Kutch"],
+  "festivals": ["Cheti Chand", "Chaliya (Sindhi)"],
+  "facts": [
+    {
+      "text": "In the Rigveda, Varuna is pictured sitting in a palace with a thousand gates, using watchers to see everything that happens in the world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Rigveda hymn calls the messenger of Varuna a golden-winged bird, and scholars suggest it could be a flamingo.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Atharvaveda hymn 4.16 compares Varuna's control of fate to a gambler throwing dice and says his watchers have a thousand eyes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "The Mahabharata describes Varuna as handsome, with the glow of lapis lazuli, in a white palace under the sea in Nagaloka. Rivers such as the Ganga and Yamuna are among those who attend him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the end of his life Arjuna threw the Gandiva bow into the sea, giving it back to the waters of Varuna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "In the Uttara Kanda, several gods turn into animals to hide from Ravana. Varuna takes the form of a swan.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some stories say the sages Vasishtha and Agastya were born from a pitcher after Mitra and Varuna saw the apsara Urvashi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "In the Valmiki Ramayana, Rama prays three days at the shore, then threatens the sea, and the ocean lord appears and suggests a bridge. Many retellings name him as Varuna, but many sources say it was Samudra, the ocean itself.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sindhi Hindus honour the folk figure Jhulelal as an avatar of Varuna who appeared as a child by the Indus river in a time of forced conversion.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jhulelal_(Hinduism)",
+      "interest": 7
+    },
+    {
+      "text": "Varuna is offered a black ram with a white foot in ritual, which stands for hiddenness and his rule over night.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "Some Puranic lists name the poet Valmiki, author of the Ramayana, among Varuna's children, born from a termite mound.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8
+    },
+    {
+      "text": "The Varunapraghasa rite is held in the rainy season. Breaking cosmic law is called eating Varuna's barley, and the offerings are white barley for light and black rice for punishment, followed by a way back through ritual.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "The Suitengu shrine in Tokyo is linked with Suiten, the Japanese Buddhist form of Varuna. After the Meiji-era separation of Shinto and Buddhism, Suiten was identified with the Shinto god Amenominakanushi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Fishing communities in Maharashtra mark Narali Purnima on the full moon of Shravan by offering rice, flowers and coconuts to Varuna, lord of the ocean.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rigveda hymns such as 7.86 to 7.88 ask Varuna for forgiveness. The poets confess faults, even those of their ancestors, and plead for freedom from fear, and he is called both a judge and a healer.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Varuna's noose, the pasha, is his weapon against wrongdoers. The Yajurveda pictures him casting it on those who break the cosmic law, and the Shatapatha Brahmana says his noose and cords answer mistakes in ritual and in conduct.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Along with his weapons Varuna is pictured with a thousand remedies, and the Yajurveda calls him the patron deity of physicians, so the god who punishes is also a healer.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "The Tamil grammar Tolkappiyam names Kadalon, a god of the sea and rain, who is identified with Varuna, so he was honoured in the far south long ago.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7
+    },
+    {
+      "text": "A white umbrella, said to have risen during the churning of the ocean, is Varuna's. He is also said to have given such an umbrella for King Prithu's coronation.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, one of Varuna's servants seizes Krishna's father Nanda for bathing in the river at the wrong hour. Krishna goes to Varuna, who frees Nanda and honours Krishna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rigveda hymn 1.25 praises Varuna as one who knows the paths of birds in the air, the movement of ships on the sea and the course of the winds.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal-like creature is Varuna's mount?",
+      "options": ["Lion", "Makara", "Peacock", "Elephant"],
+      "answer": 1,
+      "why": "Puranic images show Varuna riding a makara."
+    },
+    {
+      "q": "In which direction is Varuna the guardian?",
+      "options": ["North", "East", "South", "West"],
+      "answer": 3,
+      "why": "The Puranas make him dikpala of the west."
+    },
+    {
+      "q": "What did Arjuna do with the Gandiva bow at the end of his life?",
+      "options": [
+        "Gave it to Karna",
+        "Threw it into the sea",
+        "Buried it in Hastinapur",
+        "Gave it to Krishna's son"
+      ],
+      "answer": 1,
+      "why": "The Mahabharata says he returned it to the waters of Varuna."
+    },
+    {
+      "q": "A Rigveda hymn calls Varuna's messenger a golden-winged bird. Which bird do scholars suggest it may be?",
+      "options": ["Flamingo", "Crow", "Owl", "Sparrow"],
+      "answer": 0,
+      "why": "Scholars suggest the golden-winged messenger may be a flamingo."
+    },
+    {
+      "q": "In the Rigveda picture, how many gates does the palace of Varuna have?",
+      "options": ["Seven", "A hundred", "A thousand", "Twelve"],
+      "answer": 2,
+      "why": "Rigveda hymns describe a palace with a thousand gates."
+    }
+  ],
+  "related": ["aditi", "vasishtha", "agastya", "arjuna", "rama", "indra", "vayu", "agni"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Varuna",
+    "jhulelal": "https://en.wikipedia.org/wiki/Jhulelal_(Hinduism)",
+    "pushpaka": "https://en.wikipedia.org/wiki/Pushpaka_Vimana"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe3f0",
+    "c2": "#e4eef6"
+  },
+  "order": 7
+}

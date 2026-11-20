@@ -1,0 +1,280 @@
+{
+  "slug": "sugriva",
+  "name": "Sugriva",
+  "aka": ["Sukhrip", "Sukkrivan"],
+  "native": "सुग्रीव",
+  "role": "King of the vanaras of Kishkindha and ally of Rama",
+  "summary": "Sugriva is the vanara king of Kishkindha who becomes Rama's friend in the Ramayana. Together they search for Sita and march on Lanka.",
+  "about": "In the Valmiki Ramayana, Sugriva is the younger brother of Vali, and later king of the vanaras of Kishkindha; many texts call him a son of the sun god Surya. After a quarrel with Vali, he lives in exile on Rishyamukha mountain, where Hanuman helps him meet Rama. The two agree to help each other, and Rama shoots Vali, restoring Sugriva to the throne. Sugriva then sends search parties in four directions to find Sita and joins the war in Lanka. His story varies by region: in the Thai Ramakien he is Sukhrip, and in Jain tellings he is a human who becomes a monk and attains liberation.",
+  "kidSummary": "Sugriva is a king of the vanaras, the monkey-folk of Kishkindha. He becomes friends with Rama, and together they help find Sita. His story is about friendship and keeping your word.",
+  "story": [
+    {
+      "title": "A brother's mistake",
+      "text": "Sugriva's brother Vali went into a cave to fight an asura. When blood flowed out, Sugriva sealed the cave with a boulder, thinking Vali had been lost."
+    },
+    {
+      "title": "Life on a mountain",
+      "text": "Vali came back angry and sent Sugriva away. Sugriva lived on Rishyamukha mountain with Hanuman and his friends."
+    },
+    {
+      "title": "Friend of Rama",
+      "text": "Hanuman brought Rama to meet Sugriva. They promised to help each other, and a bond of friendship began."
+    },
+    {
+      "title": "A king again",
+      "text": "The story says Sugriva challenged Vali and Rama's arrow ended the fight. Sugriva became king of Kishkindha again."
+    },
+    {
+      "title": "The great search",
+      "text": "Sugriva sent monkeys in four directions to find Sita, and with Hanuman, Angada and Jambavan, found where she was in Lanka."
+    }
+  ],
+  "teaches": ["Keep promises to friends", "Everyone makes mistakes", "Teamwork wins big tasks"],
+  "symbol": "sun",
+  "emblems": ["Garland (worn in the duel)", "Kishkindha"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Vali",
+      "slug": "vali"
+    },
+    {
+      "relation": "Wife",
+      "name": "Ruma"
+    },
+    {
+      "relation": "Counsellor",
+      "name": "Hanuman",
+      "slug": "hanuman"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Angada",
+      "slug": "angada"
+    },
+    {
+      "relation": "Father (in many texts)",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Friend",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Queen he later took",
+      "name": "Tara",
+      "slug": "tara-ramayana"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Kishkindha Kanda)",
+    "Kathasaritsagara",
+    "Ramakien",
+    "Jain Ramayana tellings"
+  ],
+  "places": ["Kishkindha", "Rishyamukha", "Hampi", "Angkor Wat"],
+  "festivals": [],
+  "quiz": [
+    {
+      "q": "Which kingdom did Sugriva rule?",
+      "options": ["Kishkindha", "Lanka", "Ayodhya", "Mithila"],
+      "answer": 0,
+      "why": "He was king of the vanaras of Kishkindha."
+    },
+    {
+      "q": "Who was Sugriva's older brother?",
+      "options": ["Hanuman", "Vali", "Angada", "Jambavan"],
+      "answer": 1,
+      "why": "Vali was his brother, and earlier king of Kishkindha."
+    },
+    {
+      "q": "Which god is said to be Sugriva's father?",
+      "options": ["Agni", "Vayu", "Surya", "Indra"],
+      "answer": 2,
+      "why": "Many texts call him a son of Surya, the sun god."
+    },
+    {
+      "q": "What was put round Sugriva's neck in the second duel so Rama could tell the brothers apart?",
+      "options": ["A garland of flowers", "A golden crown", "A red cloth", "A silver chain"],
+      "answer": 0,
+      "why": "The brothers looked alike. In Valmiki, Lakshmana placed a flowering creeper on Sugriva; many retellings say Hanuman did."
+    }
+  ],
+  "related": [
+    "vali",
+    "rama",
+    "hanuman",
+    "angada",
+    "jambavan",
+    "tara-ramayana",
+    "surya",
+    "lakshmana",
+    "ravana",
+    "kumbhakarna"
+  ],
+  "palette": {
+    "c1": "#F2D6A8",
+    "c2": "#C6D8C0"
+  },
+  "facts": [
+    {
+      "text": "In the Kathasaritsagara, Surya's charioteer Aruna takes a female form, and the brothers Vali and Sugriva are born to Indra and Surya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sugriva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Another telling says a monkey-faced king, Vriksharaja, was turned into a woman in a magical pond, leading to the births of both brothers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sugriva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In their first duel Vali beat Sugriva and Rama held back, unable to tell the twins apart. In Valmiki, Lakshmana then puts a flowering gaja creeper round Sugriva's neck; many retellings give the job to Hanuman.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sugriva told Rama he had seen a woman carried through the sky crying out, and he showed him the jewels she had dropped wrapped in her upper cloth, which Rama recognised as Sita's.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Lanka, Sugriva leapt onto the gate where Ravana stood, knocked the crown off his head and wrestled him; he then flew up to escape Ravana's magic.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After his coronation Sugriva spent the rainy months enjoying himself and forgot his promise; Hanuman reminded him, and he ordered the monkey armies to gather within fifteen days.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga29/kishkindhasans29.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Furious Lakshmana arrived in Kishkindha and twanged his bowstring so loudly that Sugriva sent Tara to calm him, which she did.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga33/kishkindhasans33.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In later retellings (not in Valmiki), Lava and Kusha caught Rama's sacrificial horse and defeated Sugriva, while Hanuman let himself be captured because he knew they were Rama's sons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sugriva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts describe Sugriva as a human who took initiation as a monk and attained liberation at Mangi-Tungi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sugriva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sugriva doubted Rama could beat Vali and asked for proof; Rama sportively flicked a huge buffalo skeleton about ten yojanas away with his big toe.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Rama then sent one arrow through seven sal trees and a mountain and deep into the earth, and it returned to his quiver; Sugriva's doubts melted away.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Kumbhakarna seized him, Sugriva tore the giant's ears with his nails and his nose with his teeth, then shot up into the sky like a ball and rejoined Rama.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Valmiki has Sugriva explain that, while fleeing Vali, he ran across the whole earth, which is how he knew so much about distant lands, rivers and mountains.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Rama returned in triumph, Sugriva rode the elephant Shatrunjaya, and at Rama's coronation four vanaras fetched sea water from the four oceans while others brought water from five hundred rivers.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On first seeing Rama and Lakshmana in bark clothes, a frightened Sugriva decided Vali had sent them in disguise. His ministers fled to a higher peak, until Hanuman went to find out the truth.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga2/kishkindhasans2.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sugriva says that when Vali returned, he offered the royal umbrella back and begged pardon. Vali answered with harsh words, sent him out wearing a single cloth and kept Sugriva's wife.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the war, Sugriva killed the giant Kumbha, a son of Kumbhakarna, by striking him with a blow of his fist that Valmiki likens to a thunderbolt.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rama could not enter any town during his exile, so the monkeys held the coronation without him. Sugriva was anointed king, and Angada crown prince at Rama's own suggestion.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A stone tympanum at the Cambodian temple of Banteay Srei shows Sugriva fighting Vali, with Rama ready to shoot and the dying Vali held in the arms of another vanara.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sugriva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The parties sent east, north and west all came back without news of Sita. They placed their hopes on Hanuman, who was searching the southern direction in which she had been taken.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga47/kishkindhasans47.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "order": 500,
+  "depth": "full",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sugriva",
+    "vali": "https://en.wikipedia.org/wiki/Vali_(Ramayana)",
+    "kish": "https://en.wikipedia.org/wiki/Kishkindha",
+    "rmk": "https://en.wikipedia.org/wiki/Ramakien",
+    "k5": "https://www.valmikiramayan.net/utf8/kish/sarga5/kishkindhasans5.htm",
+    "k6": "https://www.valmikiramayan.net/utf8/kish/sarga6/kishkindhasans6.htm",
+    "y40": "https://www.valmikiramayan.net/utf8/yuddha/sarga40/yuddhasans40.htm",
+    "k46": "https://www.valmikiramayan.net/utf8/kish/sarga46/kishkindhasans46.htm",
+    "k11": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+    "k12": "https://www.valmikiramayan.net/utf8/kish/sarga12/kishkindhasans12.htm",
+    "y67": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm"
+  }
+}

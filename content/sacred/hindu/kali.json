@@ -1,0 +1,270 @@
+{
+  "slug": "kali",
+  "name": "Kali",
+  "aka": ["Kalika", "Dakshinakali", "Bhadrakali", "Shyama"],
+  "native": "काली",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of time, change and fierce protection",
+  "summary": "Kali is the dark Hindu goddess whose name links to time and to the colour black. Devotees, especially in Bengal, honour her as a loving mother.",
+  "about": "Kali's name can come from kala, meaning time, or kala, meaning black. In the Devi Mahatmya, she appears in a battle and is called Chamunda after defeating the asuras Chanda and Munda. Other Puranas tell different origins. In Bengal, many see Dakshinakali as a protective mother, and poets such as Ramprasad Sen sang to her as one. Her imagery, a garland of heads, a skirt of arms and a tongue stuck out, is read by devotees as symbols of time, karma and modesty. She is the first of the ten Mahavidyas.",
+  "kidSummary": "Kali is a goddess of time and change who protects her devotees. She looks fierce, but people in Bengal call her Ma, Mother. Her story tells us that big changes can be scary but are part of life.",
+  "story": [
+    {
+      "title": "A tough fight",
+      "text": "In the Devi Mahatmya, the goddess faces two asuras named Chanda and Munda. Her anger darkens her brow, and Kali springs from it."
+    },
+    {
+      "title": "The one who ends the battle",
+      "text": "Kali defeats Chanda and Munda, and the goddess gives her the name Chamunda."
+    },
+    {
+      "title": "A tricky foe",
+      "text": "Then comes the asura Raktabija. When a drop of his blood falls, another copy of him appears."
+    },
+    {
+      "title": "A clever plan",
+      "text": "Kali opens her mouth wide and catches every drop of his blood before it touches the ground, so no copies appear. The goddess then ends the fight."
+    },
+    {
+      "title": "Shiva and the dance",
+      "text": "Later tales say her dance was shaking the world. Shiva lay down among the fallen, and when she stepped on him, she stopped in surprise."
+    }
+  ],
+  "teaches": ["Change is part of life", "Fear can turn to trust", "Time comes to all"],
+  "symbol": "flame",
+  "emblems": ["Sword", "Garland of heads", "Red hibiscus", "Raised hand of blessing"],
+  "family": [
+    {
+      "relation": "Consort (in Shaiva-Shakta thought)",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Said to be a form of",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Said to be a form of",
+      "name": "Durga",
+      "slug": "durga"
+    }
+  ],
+  "texts": [
+    "Devi Mahatmya",
+    "Linga Purana",
+    "Vamana Purana",
+    "Devi Bhagavata Purana",
+    "Mahakala Samhita"
+  ],
+  "places": ["Dakshineswar Kali Temple", "Kalighat", "Bhagalpur Kali Puja"],
+  "festivals": ["Kali Puja", "Diwali (Bengal)"],
+  "facts": [
+    {
+      "text": "In 1856, after his brother Ramkumar died, Ramakrishna became head priest at Dakshineswar, the Kali temple that opened in 1855. His wife, Sarada Devi, lived in the temple's music tower, the Nahabat.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya's first chapter, Mahakali leaves the sleeping Vishnu's body as Yoga Nidra to wake him, then bewitches the asuras Madhu and Kaitabha so that Vishnu can defeat them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kalika Purana describes her as beautiful and youthful with a soothing dark complexion, riding a lion with a sword and blue lotus, a gentler picture than her fierce popular image.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vamana Purana tells that Shiva called Parvati \"the dark blue one\"; she did austerity to become golden Gauri, and her dark outer sheath became Kaushiki, who created Kali.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dakshineswar's main temple has nine spires, and along the riverfront stand twelve shrines to Shiva, Kali's consort, plus a temple to Radha and Krishna and a bathing ghat on the Hooghly.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her sticking-out tongue is read as embarrassment or modesty (lajja) in Bengal and Odisha, which makes the fierce goddess strangely shy.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her garland of heads is counted as 108 or 51, and the 51 is said to match the letters of the Sanskrit alphabet.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One explanation of the name Dakshinakali says that Yama, lord of death, flees in terror at the mention of her name.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tradition says the 17th-century thinker Krishnananda Agamavagisha dreamed of Kali, then saw a young woman bite her tongue in embarrassment when he watched her, and took that as the form he was meant to spread.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Kolkata's Kalighat Temple, Kali is worshipped as Lakshmi on Kali Puja day, when thousands of devotees come with offerings.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kali_Puja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition says Kaushiki Amavasya Kali Puja marks the day Tara of Tarapith appeared and blessed the sadhak Bamakhepa, and that the doors of both naraka and swarga open for a while.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kali_Puja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Traditional accounts say Rani Rashmoni dreamed of Kali before a pilgrimage to Varanasi and was told to build a temple on the Ganga's bank instead. The site was ground shaped like a tortoise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Poets Ramprasad Sen (1718-1775) and Kamalakanta Bhattacharya sang to Kali as a mother, in songs now called Shyama Sangeet. Ramprasad even complains that his Mother ignores him, so Bengali devotion lets a child argue with the goddess.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Tantric approach to Kali is to show courage by facing her on cremation grounds at night, while the Bengali devotee comes as a child who loves her without conditions. Both aim to make peace with death.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kali Puja became hugely popular in 19th-century Bengal, as Ramakrishna's fame grew and rich landowners began to sponsor grander festivals. In the 18th century King Krishnachandra of Nadia had already helped spread it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kali_Puja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Tibetan Buddhism, a fierce goddess called Troma Nagmo, \"the Black Wrathful Lady\", shares some features with Kali, and Tantric Kali cults influenced Buddhist yoginis such as Vajrayogini.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Sri Lanka's Sinhala Buddhist tradition, one story says Kali came from South India to Munneswaram, tried to eat the goddess Pattini, and was tamed by her instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sinhala Buddhists count seven forms of Kali, among them Bhadrakali and Ginikali, who serve Pattini. Her worship in Sri Lanka goes back to at least the 9th century CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1965 the scholar Marvin Pope noted that Kali's necklace of heads and belt of hands resemble those of the Canaanite goddess Anat, and that her drinking of blood resembles the Egyptian goddess Sekhmet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Reunion, a French island in the Indian Ocean, the popular Saint Expedit is identified with Kali by many Tamil-descended islanders.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kali",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Barasat, near Kolkata, hosts what is described as the largest Kali Puja celebration in West Bengal, with huge pandals, lights and clay idols, and people gather there from many regions.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kali_Puja",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What can the name Kali mean?",
+      "options": ["Time or black", "Moon or star", "River or sea", "Gold or silver"],
+      "answer": 0,
+      "why": "Kali can come from kala, meaning time or black."
+    },
+    {
+      "q": "Which asura copied himself from each drop of blood?",
+      "options": ["Raktabija", "Ravana", "Hiranyaksha", "Vritra"],
+      "answer": 0,
+      "why": "Kali stopped Raktabija from creating copies."
+    },
+    {
+      "q": "Which Kolkata temple was founded by Rani Rashmoni?",
+      "options": ["Dakshineswar", "Kalighat", "Thanthania Kalibari", "Birla Mandir"],
+      "answer": 0,
+      "why": "She built Dakshineswar, where the idol was installed in 1855."
+    },
+    {
+      "q": "Which festival night is Kali Puja in Bengal held on?",
+      "options": [
+        "Holika Dahan night",
+        "Diwali night",
+        "Sharad Purnima night",
+        "Maha Shivaratri night"
+      ],
+      "answer": 1,
+      "why": "It falls on the new moon of Diwali."
+    },
+    {
+      "q": "Who became the priest at Dakshineswar in 1856?",
+      "options": ["Ramakrishna", "Vivekananda", "Bamakhepa", "Keshab Chandra Sen"],
+      "answer": 0,
+      "why": "Ramakrishna became head priest after his brother Ramkumar died."
+    }
+  ],
+  "related": [
+    "durga",
+    "parvati",
+    "shiva",
+    "raktabija",
+    "shumbha-and-nishumbha",
+    "ramakrishna",
+    "sati"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kali",
+    "dakshineswar": "https://en.wikipedia.org/wiki/Dakshineswar_Kali_Temple",
+    "kaliPuja": "https://en.wikipedia.org/wiki/Kali_Puja",
+    "peetha": "https://en.wikipedia.org/wiki/Shakti_Peetha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#D8CFE8",
+    "c2": "#F0D2D8"
+  },
+  "order": 60
+}

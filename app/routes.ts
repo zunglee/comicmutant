@@ -28,6 +28,14 @@ export default [
   route('quiz/leaders', 'routes/quiz-leaders.tsx'),
   route('quiz/me', 'routes/quiz-me.tsx'),
 
+  // Sacred India: calm realm for India's faiths (reports/sacred-design.md).
+  route('sacred', 'routes/sacred.tsx'),
+  route('sacred/learn', 'routes/sacred-learn.tsx'),
+  route('sacred/f/:slug', 'routes/sacred-figure.tsx'),
+  route('sacred/:tradition', 'routes/sacred-tradition.tsx'),
+  // Desi heroes hub: the Indian superhero wiki.
+  route('desi', 'routes/desi.tsx'),
+
   // Accounts + moderation.
   route('join', 'routes/join.tsx'),
   route('login', 'routes/login.tsx'),
@@ -51,6 +59,8 @@ export default [
     route('freefall/submit', 'routes/api/freefall-submit.ts'),
     route('freefall/end', 'routes/api/freefall-end.ts'),
     route('freefall/tick', 'routes/api/freefall-tick.ts'),
+    route('poll', 'routes/api/poll.ts'),
+    route('fact-react', 'routes/api/fact-react.ts'),
     route('quiz/start', 'routes/api/quiz-start.ts'),
     route('quiz/answer', 'routes/api/quiz-answer.ts'),
     route('quiz/next', 'routes/api/quiz-next.ts'),
@@ -58,6 +68,7 @@ export default [
     route('quiz/report', 'routes/api/quiz-report.ts'),
     route('takes', 'routes/api/takes.ts'),
     route('characters', 'routes/api/characters.ts'),
+    route('skin', 'routes/api/skin.ts'),
   ]),
 
   route('*', 'routes/not-found.tsx'),

@@ -1,0 +1,262 @@
+{
+  "slug": "shravana-kumara",
+  "name": "Shravana Kumara",
+  "aka": ["Shravan Kumar", "Sarvan"],
+  "native": "श्रवण कुमार",
+  "role": "Devoted son in the Ramayana who cared for his blind parents",
+  "summary": "Shravana Kumara is the devoted young man of the Ramayana tradition who carried his blind parents on a pilgrimage and was accidentally struck by King Dasharatha's arrow. The name Shravana comes from later tellings of the Valmiki story.",
+  "about": "Shravana Kumara is remembered in the Ramayana as an ideal son. In the Valmiki Ramayana, which never names the boy and calls him only a hermit's son, King Dasharatha tells the story late in life: as a young prince he went hunting at night near the Sarayu river and loosed an arrow at a sound he took for an elephant drinking. The sound was a pot being filled by a young ascetic, whom later tellings call Shravana, fetching water for his blind, aged parents. Before dying, the young man asked the king to carry water to his parents and tell them what had happened. Tradition says the grieving parents cursed Dasharatha to die longing for his own son, and Dasharatha saw that curse come true after Rama went into exile. Folk versions add that Shravana carried his parents in baskets on a pole across his shoulders on a pilgrimage. A Buddhist tale, the Syama Jataka, tells a related story of a son and his blind parents, with a happier ending.",
+  "kidSummary": "Shravana Kumara loved his parents so much that he took care of them every day. They were old and could not see, so he carried them on a long journey to holy places. One night, King Dasharatha made a sad mistake near a river. The story is told in the Ramayana as a lesson about kindness to parents and about being careful before acting.",
+  "story": [
+    {
+      "title": "A loving son",
+      "text": "Shravana lived in the forest with his old, blind parents. He gathered food and water for them, and was their only helper."
+    },
+    {
+      "title": "The pilgrimage",
+      "text": "In popular tellings, his parents wished to visit holy places. Shravana put them in two baskets on a pole and carried them on his shoulders."
+    },
+    {
+      "title": "The pot at the river",
+      "text": "One dark night, Shravana filled a water pot at the Sarayu river. Prince Dasharatha, hunting nearby, heard the splash and shot an arrow, thinking it was an animal."
+    },
+    {
+      "title": "Shravana's last wish",
+      "text": "Dasharatha rushed over, full of regret. Shravana asked him to take water to his thirsty parents and tell them what had happened."
+    },
+    {
+      "title": "The parents' sorrow",
+      "text": "The parents were heartbroken. In the Ramayana's telling, their grief turned into a curse, and years later Dasharatha remembered it when Rama left for the forest."
+    }
+  ],
+  "teaches": [
+    "Honour and care for your parents",
+    "Think carefully before you act",
+    "Duty is shown through everyday kindness"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Carrying pole with two baskets", "Water pot"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shantanu (as named in some sources)"
+    },
+    {
+      "relation": "Mother",
+      "name": "Jnanavanti (as named in some sources)"
+    },
+    {
+      "relation": "Hunter who shot him",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Ayodhya Kanda)",
+    "Syama Jataka (related Buddhist tale)",
+    "Shravana Pitribhakti Nataka"
+  ],
+  "places": [
+    "Sarayu river",
+    "Darvan Lake near Ayodhya (local tradition)",
+    "Mukhed, Maharashtra (samadhi)",
+    "Mithila (Mankeshwar Nath Mahadev Mandir)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Valmiki Ramayana, Dasharatha recalls how, as a young prince hunting in the dark, he mistook a hermit's son for an elephant drinking and shot him by mistake.",
+      "kind": "story",
+      "source": "https://heritage.iitk.ac.in/VRAM/section/912",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to Punjabi folklore, Shravana's mother was a distant relative of King Dasharatha, the very king whose arrow later struck him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shravana_Kumara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The parents' curse is called putrashoka, a Sanskrit word joining putra (son) and shoka (grief), meaning the sorrow of losing a child.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shravana_Kumara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Popular retellings say Shravana carried his parents in two baskets hung from a bamboo pole on his shoulders, because he could not afford any other transport.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shravana_Kumara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a boy, Gandhi read a play called Shravana Pitribhakti Nataka, bought by his father, and wrote that Shravana's devotion left a deep mark on him.",
+      "kind": "history",
+      "source": "https://www.mkgandhi-sarvodaya.org/autobio/chap02.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Gandhi also remembered a travelling showman's picture of Shravana carrying his blind parents, and he decided he would follow that example.",
+      "kind": "history",
+      "source": "https://www.mkgandhi-sarvodaya.org/autobio/chap02.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gandhi even played the parents' sad lament on a concertina his father had bought him.",
+      "kind": "history",
+      "source": "https://www.mkgandhi-sarvodaya.org/autobio/chap02.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Syama Jataka, Indra restores the young man to life and gives his parents their sight back, unlike the sad ending in the Ramayana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Syama Jataka, the king is shown three times in one carved panel at Sanchi's Stupa 1: shooting the boy, standing with his bow in hand, and then standing sorry with the weapons put down.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Ayodhya Kanda chapter 63, the boy is never given a name and is only called a hermit's son. The familiar name Shravana comes from later tellings.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, the boy's spirit rises to heaven with Indra, who is said to take him there, and he tells his parents they will soon join him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Followers of Buddhism believe the Buddha told the Syama Jataka to a monk who wondered whether it was right for a monk to look after his parents.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars have no firm proof whether the Syama Jataka inspired the Ramayana story or the other way round. Both may come from older folk tales praising children who care for their parents.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dasharatha was skilled at finding prey by sound alone. That is why, hearing something drink at the river in the dark, he loosed an arrow without seeing what was there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dasharatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As he lay dying, Shravana forgave the king, asked him to pull out the arrow, and begged him to take water to his blind, thirsty parents.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dasharatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Buddhist temples in Thailand and Cambodia, such as Wat Chomphu Wek and Wat Saravan Decho in Phnom Penh, paint the Syama Jataka on their walls.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In temple art of the Syama Jataka the wounded youth often lies by the river while wild animals run away and the king stands holding his bow.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Syama_Jataka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Gandhi wrote that the plays about Shravana and Harishchandra stayed vivid in his mind, and that he expected to be moved by them again even as an adult.",
+      "kind": "history",
+      "source": "https://www.mkgandhi-sarvodaya.org/autobio/chap02.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kalidasa's Sanskrit poem Raghuvamsha also tells how Dasharatha killed a boy while hunting and how the parents cursed him, in its ninth canto.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Raghuvamsha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana the Sarayu, the river of the story, is said to rise at Lake Manasarovar and flow past Ayodhya before it joins the Ganga.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sarayu_River",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Shravana carry on his shoulders in popular stories?",
+      "options": ["Gold coins", "His blind parents", "Fruit baskets for a king", "A bow"],
+      "answer": 1,
+      "why": "He carried his parents on a pilgrimage."
+    },
+    {
+      "q": "What did Dasharatha think the sound at the river was?",
+      "options": ["A bird", "A fish", "An elephant drinking", "A tiger"],
+      "answer": 2,
+      "why": "He heard a sound and thought an elephant was drinking."
+    },
+    {
+      "q": "What was Shravana fetching at the river?",
+      "options": ["Fish", "Water", "Flowers", "Firewood"],
+      "answer": 1,
+      "why": "He was filling a pot with water for his parents."
+    },
+    {
+      "q": "Which famous leader read a play about Shravana as a boy?",
+      "options": ["Gandhi", "Akbar", "Ashoka", "Tagore"],
+      "answer": 0,
+      "why": "Gandhi wrote about it in his autobiography."
+    },
+    {
+      "q": "In the Buddhist Syama Jataka, what happens to the parents?",
+      "options": ["They are lost", "They get their sight back", "They become kings", "They leave"],
+      "answer": 1,
+      "why": "Indra restores their sight."
+    }
+  ],
+  "related": ["dasharatha", "kaushalya", "rama", "kaikeyi"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shravana_Kumara",
+    "valmiki_ayodhya_63": "https://www.valmikiramayan.net/utf8/ayodhya/sarga63/ayodhyasans63.htm",
+    "gandhi_autobiography": "https://www.mkgandhi-sarvodaya.org/autobio/chap02.htm",
+    "sama_jataka": "https://en.wikipedia.org/wiki/Syama_Jataka",
+    "valmiki_ayodhya_64": "https://www.valmikiramayan.net/utf8/ayodhya/sarga64/ayodhyasans64.htm",
+    "valmiki_ayodhya_63_s53": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=2&language=dv&field_sarga_value=63&field_sloka_value=53",
+    "heritage_ayodhya_63": "https://heritage.iitk.ac.in/VRAM/section/912",
+    "heritage_ayodhya_64": "https://heritage.iitk.ac.in/VRAM/section/913",
+    "dasharatha": "https://en.wikipedia.org/wiki/Dasharatha",
+    "raghuvamsha": "https://en.wikipedia.org/wiki/Raghuvamsha",
+    "sarayu": "https://en.wikipedia.org/wiki/Sarayu_River"
+  },
+  "palette": {
+    "c1": "#D9E6CF",
+    "c2": "#F1E1C0"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

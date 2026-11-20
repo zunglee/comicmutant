@@ -1,0 +1,212 @@
+{
+  "slug": "kripa",
+  "name": "Kripa",
+  "aka": ["Kripacharya", "Sharadvata", "Gautama", "Bharatacharya"],
+  "native": "कृपाचार्य",
+  "role": "First teacher of the Kuru princes and chiranjivi",
+  "summary": "Kripa, also called Kripacharya, is a teacher of archery to the Kuru princes in the Mahabharata and one of the few warriors to survive the war. Hindus count him among the seven chiranjivi.",
+  "about": "In the Mahabharata, Kripa and his twin sister Kripi are born from reeds after their father, the archer-sage Sharadvan, loses his calm when an apsara sent by Indra appears. King Shantanu finds the twins while hunting and adopts them, and the name Kripa is linked to the word for mercy or compassion. Sharadvan later teaches Kripa the four branches of Dhanurveda, and Kripa becomes an acharya, a master of arms, who teaches the Pandavas, Kauravas, Vrishnis and Yadavas. His sister marries Drona, so Drona is his brother-in-law and Ashwatthama his nephew. At Kurukshetra he fights for the Kaurava side and argues for peace, is among the three Kaurava survivors, and later becomes teacher of Parikshit. Tradition counts him among the chiranjivi, and the Vishnu Purana says he will be one of the Saptarishi, the seven sages, in the next Manvantara.",
+  "kidSummary": "Kripa is a wise teacher in the Mahabharata. He and his twin sister were found as babies by King Shantanu, who named them after mercy. Kripa taught archery to the princes, and he is one of the seven chiranjivi, whom tradition says live for a very, very long time.",
+  "story": [
+    {
+      "title": "Twins in the reeds",
+      "text": "In the Mahabharata, a sage called Sharadvan was a great archer. Twins, a boy and a girl, were born from reeds after he lost his focus on his practice, and he left them and went into the forest."
+    },
+    {
+      "title": "Named for mercy",
+      "text": "King Shantanu found the twins while hunting and took them home. He felt such compassion that he named them Kripa and Kripi."
+    },
+    {
+      "title": "Teacher of princes",
+      "text": "Sharadvan returned to teach Kripa the whole art of archery. Kripa became an acharya, a master teacher, and taught the Kuru princes."
+    },
+    {
+      "title": "After the war",
+      "text": "At Kurukshetra, Kripa fought on the Kaurava side. After Karna fell, he urged Duryodhana to make peace, and he was one of only three Kaurava warriors left at the end."
+    },
+    {
+      "title": "A long life",
+      "text": "Kripa later became Parikshit's teacher. Tradition counts him among the chiranjivi, who are said to live until the end of the Kali Yuga."
+    }
+  ],
+  "teaches": [
+    "Compassion is a strength",
+    "Good teachers share what they know with everyone",
+    "Staying calm and fair, even on a hard day"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Bow"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Sharadvan"
+    },
+    {
+      "relation": "Twin sister",
+      "name": "Kripi"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Ashwatthama",
+      "slug": "ashwatthama"
+    },
+    {
+      "relation": "Adoptive father",
+      "name": "Shantanu",
+      "slug": "shantanu"
+    },
+    {
+      "relation": "Student",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva, Sauptika Parva)", "Vishnu Purana"],
+  "places": ["Hastinapura", "Kurukshetra", "Sheetla Mata Mandir, Gurugram"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Mahabharata, the twins Kripa and Kripi were born from reeds after their father Sharadvan lost his calm when the apsara Janapadi, sent by Indra, appeared. Ashamed, he abandoned his weapons and went into the forest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Karna was among Kripa's many students, yet at the princes' weapons display it was Kripa who halted Karna's challenge to Arjuna by asking him to name his lineage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 8
+    },
+    {
+      "text": "The Sheetla Mata Mandir in the heart of Gurugram is dedicated to Kripi, Kripa's twin sister and Drona's wife. According to the temple's own description, Sheetla Mata, whose blessings people seek there, was earlier known as Kripi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurgaon",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kripa's sister Kripi married the teacher Drona, whose own birth to the sage Bharadvaja and the apsara Ghritachi was unusual in much the same way as hers.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Adi Parva makes Kripa's father Sharadvan the son of the sage Gautama and his wife Ahalya, while the Agni Purana instead calls Kripa a great-grandson of Gautama.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 7
+    },
+    {
+      "text": "It was Kripa who told Ashwatthama that his father Drona had been killed. In rage and grief, Ashwatthama then unleashed the Narayanastra on the Pandava army.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashwatthama",
+      "interest": 7
+    },
+    {
+      "text": "Before the night raid, Kripa objected on moral grounds. Once Ashwatthama won him over, he and Kritavarma guarded the camp gate, and later helped set the camp ablaze.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashwatthama",
+      "interest": 8
+    },
+    {
+      "text": "The Vishnu Purana says Kripa will become one of the Saptarishi, the seven revered sages, in the next Manvantara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some scriptures say Kripa earned his long life through discipline, loyalty and an impartial nature.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sapta Chiranjivi Stotram names Kripa among the long-lived. Remembering these names is believed to give freedom from illness and a long life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chiranjivi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Virata Parva, Kripa helped Duryodhana by sending spies to look for the Pandavas during their year in hiding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 7
+    },
+    {
+      "text": "After the war, Kripa went back to Dhritarashtra and Gandhari to tell them what had happened. Tradition says he later went to the forest to spend the rest of his life in penance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kripa",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Kripa mean?",
+      "options": ["Sword", "Mercy or pity", "Light", "Lion"],
+      "answer": 1,
+      "why": "The epic says Shantanu named the twins from compassion."
+    },
+    {
+      "q": "From what were Kripa and Kripi born, in the Mahabharata?",
+      "options": ["A lotus", "A river", "Reeds", "A cave"],
+      "answer": 2,
+      "why": "The twins were born from reeds."
+    },
+    {
+      "q": "Whom did Kripa's twin sister marry?",
+      "options": ["Bhishma", "Drona", "Vidura", "Karna"],
+      "answer": 1,
+      "why": "Kripi married Drona."
+    },
+    {
+      "q": "What is a chiranjivi?",
+      "options": ["A teacher of archery", "A king", "One who lives very long", "A forest guard"],
+      "answer": 2,
+      "why": "It means long-living, till the end of the Kali Yuga."
+    },
+    {
+      "q": "Who was Kripa's student after the war?",
+      "options": ["Parikshit", "Karna", "Ekalavya", "Janamejaya"],
+      "answer": 0,
+      "why": "Kripa taught Arjuna's grandson Parikshit."
+    }
+  ],
+  "related": [
+    "drona",
+    "ashwatthama",
+    "shantanu",
+    "parikshit",
+    "karna",
+    "arjuna",
+    "duryodhana",
+    "abhimanyu",
+    "dhritarashtra",
+    "gandhari"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kripa",
+    "chiranjivi": "https://en.wikipedia.org/wiki/Chiranjivi",
+    "kurukshetra": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+    "gurgaon": "https://en.wikipedia.org/wiki/Gurgaon",
+    "peace": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09004.htm",
+    "ashwatthama": "https://en.wikipedia.org/wiki/Ashwatthama"
+  },
+  "palette": {
+    "c1": "#B5CDB8",
+    "c2": "#E1EDE2"
+  },
+  "order": 18,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "depth": "compact"
+}

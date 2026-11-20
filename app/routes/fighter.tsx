@@ -7,6 +7,7 @@ import { Atmosphere, useAtmosphere } from '~/components/atmosphere';
 import { KindTag } from '~/components/bits';
 import { IconPad, IconPin } from '~/components/icons';
 import { SpriteClip } from '~/components/sprite';
+import { usePackVars } from '~/components/ui/page-theme';
 import type { SpriteClipProps } from '~/game/SpriteClip';
 import { SPRITE_POSES } from '~/lib/clips/gate';
 import { useTheme } from '~/lib/theme/context';
@@ -32,6 +33,7 @@ const STATS = ['power', 'speed', 'defense', 'special'] as const;
 
 export default function FighterPage({ loaderData: d }: Route.ComponentProps) {
   const { f, pack } = d;
+  const pv = usePackVars(pack.vars);
   const { equip, pin, top5 } = useTheme();
   const [all, setAll] = useState(false);
   // Pose ids + labels without importing the rig (it loads lazily with the first clip).
@@ -44,12 +46,12 @@ export default function FighterPage({ loaderData: d }: Route.ComponentProps) {
     motif: f.theme.motif,
     c1: f.theme.palette.c1,
     c3: f.theme.palette.c3,
-    dark: pack.mood === 'dark',
+    dark: pv.dark ?? pack.mood === 'dark',
   };
   useAtmosphere(weather);
   return (
     <div
-      style={{ ...(pack.vars as React.CSSProperties), background: 'var(--bg)', color: 'var(--fg)' }}
+      style={{ ...pv.style, background: 'var(--bg)', color: 'var(--fg)' }}
       className="relative isolate"
     >
       <Atmosphere weather={weather} />
@@ -70,7 +72,7 @@ export default function FighterPage({ loaderData: d }: Route.ComponentProps) {
             {STATS.map((s, i) => (
               <div key={s} className="grid grid-cols-[5.5rem_1fr_2rem] items-center gap-3">
                 <dt className="font-head text-sm uppercase">{s}</dt>
-                <dd className="h-4 overflow-hidden rounded-sm border-2 border-line bg-bg">
+                <dd className="h-4 overflow-hidden rounded-skin-s border-2 border-line bg-bg">
                   <m.div
                     className="h-full bg-c1"
                     initial={{ width: 0 }}

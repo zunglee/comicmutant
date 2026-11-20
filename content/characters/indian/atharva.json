@@ -1,0 +1,325 @@
+{
+  "slug": "atharva",
+  "name": "Atharva",
+  "realName": "Atharva (portrayed by MS Dhoni)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Virzu Studios (comic edition: Pratilipi Comics)",
+  "summary": "A 2022 mythological-fantasy graphic novel hero fronted by cricketer MS Dhoni. It combines a warrior's revenge quest with Indian myth and an augmented-reality app.",
+  "origin": "Atharva: The Origin was written by debut author Ramesh Thamilmani and produced by Virzu Studios with MIDAS Deals. MS Dhoni stars as the title hero, whom he called India's first mythological superhero with a contemporary twist. An earlier 2015 plan had Shah Rukh Khan in the role. A hardcover appeared in 2022 with an AR app, and Pratilipi Comics later relaunched it as a vertical-scroll comic.",
+  "creators": [
+    "Ramesh Thamilmani (writer, creator)",
+    "MS Dhoni (title character)",
+    "Virzu Studios (publisher)",
+    "Pratilipi Comics (comic edition)"
+  ],
+  "firstAppearance": {
+    "title": "Atharva: The Origin",
+    "issue": "Graphic novel",
+    "year": 2022
+  },
+  "powers": [
+    "Seasoned warrior skills",
+    "Leadership of an army",
+    "Battles demon-like creatures in the first-look clip"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Announcement",
+      "years": "2022",
+      "title": "Motion poster",
+      "beat": "In early 2022 Dhoni shared a motion poster and a first-look clip showing his animated hero fighting a demon-like army."
+    },
+    {
+      "era": "Launch",
+      "years": "2022",
+      "title": "Rajinikanth unveils the cover",
+      "beat": "Rajinikanth released the first copy in Chennai on 24 February 2022, showing Dhoni in golden armour with long hair."
+    },
+    {
+      "era": "Setting",
+      "years": "2022",
+      "title": "A very young Earth",
+      "beat": "The comic is set in a forgotten era of a very young Earth, following a seasoned warrior across strange creatures and magnificent lands."
+    },
+    {
+      "era": "Quest",
+      "years": "2022",
+      "title": "Revenge becomes self-discovery",
+      "beat": "In Pratilipi's synopsis the warrior starts out seeking revenge but ends up learning life's secrets and discovering himself."
+    },
+    {
+      "era": "Planned series",
+      "years": "2020",
+      "title": "A different pitch for the web series",
+      "beat": "In a 2020 statement about a planned web series, Sakshi Singh Dhoni described the book itself as the tale of an Aghori held at a high-tech facility. This differs from the published synopsis."
+    },
+    {
+      "era": "Comic relaunch",
+      "years": "2022",
+      "title": "Pratilipi edition",
+      "beat": "On 9 September 2022 Pratilipi Comics released a redrawn vertical-scroll version with new character designs."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Dhoni's first look appeared in February 2022 as a motion poster on his Facebook page.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The hardcover was pre-sold on Amazon.in at Rs 1,499, with an AR app that shows 3D models of characters.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Producer Sakshi Singh Dhoni said the story suits a web series better than a film.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Virzu Studios first announced the book in January 2015 with Shah Rukh Khan as Atharva, years before Dhoni was attached.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Some think Atharva is a Vedic or ancient epic figure.",
+      "truth": "It is a 2022 original, though it borrows mythological ideas.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Atharva's journey begin as, before he learns life's secrets?",
+      "options": ["A revenge quest", "A treasure hunt", "A trade trip", "A pilgrimage"],
+      "answer": 0,
+      "why": "Pratilipi's synopsis (via Adgully) says the warrior starts out seeking revenge and ends up discovering himself."
+    },
+    {
+      "q": "Who released the first copy of the graphic novel?",
+      "options": ["Shah Rukh Khan", "Rajinikanth", "Amitabh Bachchan", "Kamal Haasan"],
+      "answer": 1,
+      "why": "Rajinikanth unveiled the cover and released the first copy in Chennai on 24 February 2022."
+    },
+    {
+      "q": "What tech came with the hardcover edition?",
+      "options": ["VR goggles", "An AR app", "A hologram", "A talking pen"],
+      "answer": 1,
+      "why": "Buyers got an app that shows 3D characters and mini-games when pages are scanned."
+    },
+    {
+      "q": "Which film star was first announced as Atharva in 2015?",
+      "options": ["Shah Rukh Khan", "Salman Khan", "Hrithik Roshan", "Ranveer Singh"],
+      "answer": 0,
+      "why": "A January 2015 announcement from Virzu Studios named Shah Rukh Khan as the title hero."
+    },
+    {
+      "q": "How did the team get the action scenes right?",
+      "options": [
+        "They hired stuntmen to act them out",
+        "They used motion capture suits",
+        "They had an AI make the scenes",
+        "They traced stills from old films"
+      ],
+      "answer": 0,
+      "why": "Author Ramesh Thamilmani told Hindustan Times that stuntmen performed the action and the team drew from it."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#d4a017",
+      "c2": "#1b1f3b",
+      "c3": "#ff7043"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "A cricket captain in golden armour."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Atharva_%E2%80%93_The_Origin",
+    "southfirst": "https://thesouthfirst.com/entertainment/dhoni-ropes-in-ramesh-thamilmani-for-maiden-production-venture/",
+    "behindwoods": "https://www.behindwoods.com/tamil-movies-cinema-news-16/superstar-rajinikanth-launches-ms-dhonis-atharva-trailer-here.html",
+    "adgully": "https://archive.adgully.com/pratilipi-comics-acquires-license-rights-to--atharva-the-origin--featuring-ms-dhoni-122437.html",
+    "medianews4u": "https://www.medianews4u.com/superstar-rajinikanth-unveils-the-cover-of-the-new-age-graphic-novel-atharva-the-origin-featuring-ms-dhoni/",
+    "medianews4u2015": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+    "quint": "https://www.thequint.com/entertainment/celebrities/watch-ms-dhonis-first-look-as-atharva-in-sci-fi-series-unveiled",
+    "onmanorama": "https://onmanorama.com/entertainment/entertainment-news/2022/02/03/dhoni-superher-graphic-novel-atharva-the-origin.html",
+    "theprint": "https://theprint.in/sport/epic-graphic-novel-atharva-the-origin-now-available-at-pratilipi-comics/1123486",
+    "hindustantimes": "https://www.hindustantimes.com/books/dhoni-was-the-perfect-fit-says-atharva-the-origin-writer-ramesh-thamilmani-101644411744940.html",
+    "dtnext": "https://www.dtnext.in/city/2022/04/17/artwork-for-atharva-impressed-dhoni-to-join-photo-shoot",
+    "indiaglitz": "https://www.indiaglitz.com/cricketer-thala-ms-dhoni-as-superhero-in-new-graphic-novel-comic-book-series-update-tamil-news-307078"
+  },
+  "timeline": [
+    {
+      "year": 2022,
+      "kind": "debut",
+      "title": "Motion poster released",
+      "note": "Dhoni shares his first look as Atharva in February 2022 on Facebook."
+    },
+    {
+      "year": 2022,
+      "kind": "comic",
+      "title": "Hardcover launch",
+      "note": "Rajinikanth launches the graphic novel in Chennai on 24 February."
+    },
+    {
+      "year": 2022,
+      "kind": "comic",
+      "title": "Book reaches readers",
+      "note": "Wikipedia dates the graphic novel's publication to 18 April 2022."
+    },
+    {
+      "year": 2022,
+      "kind": "comic",
+      "title": "Pratilipi relaunch",
+      "note": "A vertical-scroll comic goes live on 9 September."
+    }
+  ],
+  "heat": 25,
+  "facts": [
+    {
+      "text": "Buyers got an AR app: scanning the pages shows 3D models of the characters and opens short games set in Atharva's world. The launch team called it the first novel in India with augmented reality.",
+      "kind": "culture",
+      "source": "https://www.medianews4u.com/superstar-rajinikanth-unveils-the-cover-of-the-new-age-graphic-novel-atharva-the-origin-featuring-ms-dhoni/",
+      "interest": 8
+    },
+    {
+      "text": "Atharva was first announced in January 2015, years before Dhoni, with Shah Rukh Khan named as the title hero and a teaser posted on YouTube in the first week of that month.",
+      "kind": "publishing",
+      "source": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+      "interest": 9
+    },
+    {
+      "text": "The 2015 plan was a different tale: a young king chasing his destiny on a mythical island in a forgotten past, full of fantastical birds, beasts and monsters.",
+      "kind": "story",
+      "source": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+      "interest": 7
+    },
+    {
+      "text": "To get the fights right, the team hired stuntmen to act out the action, then drew from that, and built 3D models of the characters. The author said it felt more like film pre-production than comic-making.",
+      "kind": "creator",
+      "source": "https://www.hindustantimes.com/books/dhoni-was-the-perfect-fit-says-atharva-the-origin-writer-ramesh-thamilmani-101644411744940.html",
+      "interest": 7
+    },
+    {
+      "text": "Rajinikanth was once considered for the lead, but the team dropped the idea because he was making the animated film Kochadaiiyaan at the time and they wanted to avoid something similar.",
+      "kind": "creator",
+      "source": "https://www.hindustantimes.com/books/dhoni-was-the-perfect-fit-says-atharva-the-origin-writer-ramesh-thamilmani-101644411744940.html",
+      "interest": 8
+    },
+    {
+      "text": "To merge Dhoni's face into the artwork, the team photographed many of his expressions. Asked to look calm while striking a blow, Dhoni joked that nobody stays calm while hitting someone.",
+      "kind": "creator",
+      "source": "https://www.dtnext.in/city/2022/04/17/artwork-for-atharva-impressed-dhoni-to-join-photo-shoot",
+      "interest": 8
+    },
+    {
+      "text": "A 2020 statement described the book as the tale of an Aghori held at a high-tech facility. The published synopsis instead has a revenge-seeking warrior on a young Earth, and the 2015 plan a young king: three pitches, one title.",
+      "kind": "story",
+      "source": "https://www.thequint.com/entertainment/celebrities/watch-ms-dhonis-first-look-as-atharva-in-sci-fi-series-unveiled",
+      "interest": 8
+    },
+    {
+      "text": "Atharva was promised for mid-2015, yet it only reached readers in spring 2022, a wait of roughly seven years after the January 2015 announcement.",
+      "kind": "publishing",
+      "source": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia lists the book at 150 pages and says it was touted as India's first three-dimensional graphic novel, with a realistic visual take on about 150 scenes.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Atharva_%E2%80%93_The_Origin",
+      "interest": 7
+    },
+    {
+      "text": "Thamilmani co-founded Virzu Studios in 2013 with Vel Mohan while running BLD Design Studios. Atharva was the studio's debut project, meant to blend storytelling with computer graphics.",
+      "kind": "creator",
+      "source": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+      "interest": 7
+    },
+    {
+      "text": "The 2015 version was illustrated by Ramesh Archarya, and its text was to be paired with full-page 3D pictures at key moments of the plot.",
+      "kind": "creator",
+      "source": "https://www.medianews4u.com/virzu-studios-to-bring-out-graphic-novel-atharva-the-origin-starring-shah-rukh-khan/",
+      "interest": 7
+    },
+    {
+      "text": "IANS reported that the team spent several years building the world, and that every character and piece of artwork, Dhoni's included, followed extensive research.",
+      "kind": "creator",
+      "source": "https://onmanorama.com/entertainment/entertainment-news/2022/02/03/dhoni-superher-graphic-novel-atharva-the-origin.html",
+      "interest": 7
+    },
+    {
+      "text": "In October 2022 Thamilmani was named director of the first Tamil film from Dhoni Entertainment, a family entertainer whose concept came from Sakshi Dhoni herself.",
+      "kind": "creator",
+      "source": "https://thesouthfirst.com/entertainment/dhoni-ropes-in-ramesh-thamilmani-for-maiden-production-venture/",
+      "interest": 8
+    },
+    {
+      "text": "Dhoni was not keen at first, but liked the artwork when he saw it and agreed to take part, then stayed flexible and involved throughout the photo shoot.",
+      "kind": "creator",
+      "source": "https://www.dtnext.in/city/2022/04/17/artwork-for-atharva-impressed-dhoni-to-join-photo-shoot",
+      "interest": 7
+    },
+    {
+      "text": "Pratilipi's creative head said the redrawn comic was meant to enthrall a bigger audience and bring more kids to reading comics; its product head called high fantasy young but in demand in India.",
+      "kind": "publishing",
+      "source": "https://archive.adgully.com/pratilipi-comics-acquires-license-rights-to--atharva-the-origin--featuring-ms-dhoni-122437.html",
+      "interest": 7
+    },
+    {
+      "text": "IndiaGlitz reported Atharva as the first fantasy title in a planned book series, announced when Dhoni posted the minute-long motion poster on his own Facebook page.",
+      "kind": "publishing",
+      "source": "https://www.indiaglitz.com/cricketer-thala-ms-dhoni-as-superhero-in-new-graphic-novel-comic-book-series-update-tamil-news-307078",
+      "interest": 7
+    },
+    {
+      "text": "The Quint's report described the first-look clip as an animated Dhoni fighting a demon-like army, and billed the project as a mythological web series backed by Dhoni Entertainment.",
+      "kind": "culture",
+      "source": "https://www.thequint.com/entertainment/celebrities/watch-ms-dhonis-first-look-as-atharva-in-sci-fi-series-unveiled",
+      "interest": 7
+    },
+    {
+      "text": "DT Next framed the book as an effort to give Indian children a superhero to look up to, with realistic images in the manner of Batman or Superman.",
+      "kind": "culture",
+      "source": "https://www.dtnext.in/city/2022/04/17/artwork-for-atharva-impressed-dhoni-to-join-photo-shoot",
+      "interest": 7
+    },
+    {
+      "text": "Thamilmani said the scale was big enough to want a big name, and that Dhoni gave more than his face: he collaborated heavily and contributed far beyond what the team expected.",
+      "kind": "creator",
+      "source": "https://www.hindustantimes.com/books/dhoni-was-the-perfect-fit-says-atharva-the-origin-writer-ramesh-thamilmani-101644411744940.html",
+      "interest": 7
+    },
+    {
+      "text": "Pratilipi Comics, founded in 2020, carries titles from houses such as Amar Chitra Katha, Campfire and Diamond Comics, so the Atharva redraw sits beside well-known Indian comic publishers.",
+      "kind": "publishing",
+      "source": "https://theprint.in/sport/epic-graphic-novel-atharva-the-origin-now-available-at-pratilipi-comics/1123486",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Atharva is a warrior in a faraway, forgotten time when Earth was very young. He sets out to take revenge, meets strange creatures on the way, and ends up learning big secrets about life and about himself.",
+  "story": [
+    {
+      "title": "A very young Earth",
+      "text": "The story begins in a long-forgotten era when the world is still young and wild."
+    },
+    {
+      "title": "A warrior's quest",
+      "text": "Atharva, an experienced warrior, sets out on a long journey because he wants revenge."
+    },
+    {
+      "title": "Strange creatures",
+      "text": "On the road he crosses magnificent lands and meets strange creatures he has never seen before."
+    },
+    {
+      "title": "Finding himself",
+      "text": "The trip changes him: instead of only chasing revenge, he learns life's secrets and discovers who he really is."
+    }
+  ]
+}

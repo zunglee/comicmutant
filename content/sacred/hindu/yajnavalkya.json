@@ -1,0 +1,279 @@
+{
+  "name": "Yajnavalkya",
+  "aka": ["Yajnavalkya Vajasaneya", "Yogishvara Yajnavalkya"],
+  "native": "याज्ञवल्क्य",
+  "role": "Vedic sage of the Upanishads and Shukla Yajurveda",
+  "summary": "Yajnavalkya is the sage of the Brihadaranyaka Upanishad, linked with the Shukla Yajurveda, the debates at King Janaka's court, and teachings such as the Self described as not this, not this.",
+  "about": "Yajnavalkya is a Vedic sage placed around the 8th to 7th century BCE. The Brihadaranyaka Upanishad credits him with teachings on the Self, including his talks with Gargi, his wife Maitreyi and King Janaka. Hindu tradition links him with the Shukla Yajurveda and the Shatapatha Brahmana. The Bhagavata Purana tells of a break with his teacher Vaishampayana, after which Yajnavalkya is said to have given up the Yajur mantras he had learned and then prayed to the Sun, who is said to have taught him new ones in the form of a horse. A later legal text, the Yajnavalkya Smriti, bears his name, although it is a much later composition. The Jain text Isibhasiyaim also remembers him as Jannavakka. Scholars note that the Upanishad shows him as blunt and confident, a master of debate.",
+  "kidSummary": "Yajnavalkya was a famous sage of ancient Mithila who loved to debate. At King Janaka's big festival he answered hard questions from many scholars, including the brave Gargi. His teachings about the Self inside every person are still studied today.",
+  "story": [
+    {
+      "title": "A teacher's school",
+      "text": "Yajnavalkya studies with Vaishampayana. He also studied with Uddalaka Aruni. He becomes one of the most skilled scholars of the Yajurveda."
+    },
+    {
+      "title": "A great festival",
+      "text": "King Janaka of Videha holds a sacrifice with a thousand cows as a prize for the wisest. Yajnavalkya asks his student to drive them home."
+    },
+    {
+      "title": "Questions from every side",
+      "text": "Scholars challenge him one after another, and the priest Ashvala goes first. Yajnavalkya answers each of them, including the sharp questions of Gargi."
+    },
+    {
+      "title": "A farewell to home",
+      "text": "When he decides to leave household life, he offers his wealth to his wives, Maitreyi and Katyayani. Maitreyi asks instead for the knowledge of the Self."
+    },
+    {
+      "title": "Not this, not this",
+      "text": "He teaches that the Self cannot be pinned down by any description, so the old texts describe it as not this, not this. He is remembered as a great teacher of the Self."
+    }
+  ],
+  "teaches": [
+    "Look for the Self within",
+    "Answer questions with knowledge and calm",
+    "Wealth cannot give lasting peace"
+  ],
+  "symbol": "flame",
+  "emblems": ["Shukla Yajurveda", "Brihadaranyaka Upanishad"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Maitreyi",
+      "slug": "maitreyi"
+    },
+    {
+      "relation": "Wife",
+      "name": "Katyayani"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Vaishampayana"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Uddalaka Aruni"
+    },
+    {
+      "relation": "Royal host",
+      "name": "Janaka",
+      "slug": "janaka"
+    }
+  ],
+  "texts": [
+    "Brihadaranyaka Upanishad",
+    "Shukla Yajurveda (Vajasaneyi Samhita)",
+    "Shatapatha Brahmana",
+    "Yajnavalkya Smriti",
+    "Bhagavata Purana (12.6)",
+    "Yoga Yajnavalkya"
+  ],
+  "places": ["Mithila", "Videha"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Bhagavata Purana, Yajnavalkya vomits the Yajur mantras he learned, and his fellow disciples turn into partridges (tittiras) to gather them up.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/64-65/",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The Taittiriya branch of the Yajurveda is said in that story to take its name from those partridges.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/12/6/64-65/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yajnavalkya tells his teacher Vaishampayana that the other disciples' penance is weak and offers to do greater penance alone; the angry teacher then demands back everything he taught.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/62/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, the Sun-god, pleased by Yajnavalkya's prayers, took the form of a horse and gave him Yajur mantras not known before.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/73/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says the new mantras were known as the Vajasaneyi Samhita, because they came from the hairs of the horse's mane, in fifteen new branches.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/74/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yajnavalkya was a student of Uddalaka Aruni, and later defeated him in the Bahudakshina debate at Janaka's court.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Uddalaka_Aruni",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Texts show him as blunt, provocative and sometimes sarcastic: challenged by the chief priest Ashvala, he says he honours the true knowers of Truth, but sent off the prize cows because he wanted them.",
+      "kind": "story",
+      "source": "https://www.swami-krishnananda.org/brdup/brhad_III-01.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Vidagdha Shakalya asks how many gods there are, Yajnavalkya first answers 303 and 3,003, then counts down: 33, 6, 3, 2, one and a half, and finally one.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118360.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Asked who the 33 are, Yajnavalkya names the eight Vasus, eleven Rudras and twelve Adityas, plus Indra and Prajapati, and says the larger numbers are only their glories.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118360.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He teaches King Janaka that a person's light passes from the sun to the moon, then to fire and sound, and finally to the Self.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the dream passage, the Upanishad says there are no real chariots, horses or roads in a dream, yet the mind makes them, along with pools, rivers and joys.",
+      "kind": "teaching",
+      "source": "https://www.swami-krishnananda.org/brdup/brhad_IV-03a.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brihadaranyaka Upanishad is one of the first texts to show women, Gargi and Maitreyi, taking part in deep religious debate.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scharfstein counts Yajnavalkya among the earliest philosophers in recorded history, and Witzel credits him with coining the word Advaita, the oneness of Atman and Brahman.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars see the Yajnavalkya Smriti as more practical and better organised than the Manu Smriti; its court procedure runs in four steps: plaint, plea, evidence and verdict.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the end of Shakalya's questioning, the text says his head fell off when he could not answer, and robbers carried off his bones; a parallel in the Shatapatha Brahmana says Yajnavalkya cursed him.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118360.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Jain text Isibhasiyaim the sage appears too, under the name Jannavakka, so a Vedic teacher also turns up in another Indian tradition's books.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yoga Yajnavalkya is probably the work of someone who lived many centuries after the Vedic sage, and scholars warn against confusing the two.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Brihadaranyaka Upanishad portrays him with two wives, Maitreyi and Katyayani; Maitreyi is the one called a brahmavadini, a discusser of Brahman.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brihadaranyaka Upanishad he describes the Self by negation, 'not this, not this': it cannot be grasped or destroyed, is not attached, and is untouched by anything good or bad done.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ashvala, King Janaka's chief priest, put eight questions to him about escaping death and day and night, and Yajnavalkya answered each one until Ashvala fell silent.",
+      "kind": "story",
+      "source": "https://www.swami-krishnananda.org/brdup/brhad_III-01.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Yajnavalkya a prize of cows?",
+      "options": ["King Janaka", "King Dasharatha", "King Parikshit", "King Ashoka"],
+      "answer": 0,
+      "why": "Janaka of Videha offered a thousand cows with gold."
+    },
+    {
+      "q": "What did the disciples turn into in the Bhagavata story?",
+      "options": ["Parrots", "Partridges", "Peacocks", "Cranes"],
+      "answer": 1,
+      "why": "They became tittiras, or partridges, giving the Taittiriya branch its name."
+    },
+    {
+      "q": "Which phrase describes the Self in his teaching?",
+      "options": [
+        "Not this, not this",
+        "Only what the eye sees",
+        "Ask no questions",
+        "The more the better"
+      ],
+      "answer": 0,
+      "why": "Neti neti says no description can fully hold the Self."
+    },
+    {
+      "q": "Who were Yajnavalkya's two wives?",
+      "options": [
+        "Sita and Draupadi",
+        "Maitreyi and Katyayani",
+        "Gargi and Arundhati",
+        "Anasuya and Ahalya"
+      ],
+      "answer": 1,
+      "why": "The Brihadaranyaka Upanishad names Maitreyi and Katyayani."
+    },
+    {
+      "q": "How many gods does Yajnavalkya first count for Shakalya?",
+      "options": ["33", "330", "3,306", "30,006"],
+      "answer": 2,
+      "why": "He starts at 3,306 and counts down to 33, then fewer, saying the larger numbers are only glories."
+    }
+  ],
+  "related": ["maitreyi", "gargi", "janaka", "vyasa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yajnavalkya",
+    "brihadaranyaka": "https://en.wikipedia.org/wiki/Brihadaranyaka_Upanishad",
+    "shukla": "https://en.wikipedia.org/wiki/Shukla_Yajurveda",
+    "bhagavata1264": "https://vedabase.io/en/library/sb/12/6/64-65/",
+    "janakaFestival": "https://www.swami-krishnananda.org/brdup/brhad_III-01.html",
+    "uddalaka": "https://en.wikipedia.org/wiki/Uddalaka_Aruni",
+    "bu39": "https://www.wisdomlib.org/hinduism/book/the-brihadaranyaka-upanishad/d/doc118360.html",
+    "isha": "https://en.wikipedia.org/wiki/Isha_Upanishad",
+    "bhagavata1262": "https://vedabase.io/en/library/sb/12/6/62/",
+    "bhagavata1263": "https://vedabase.io/en/library/sb/12/6/63/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0d9b0",
+    "c2": "#bcd3c8"
+  },
+  "years": "c. 700 BCE (Brihadaranyaka Upanishad)",
+  "order": 780,
+  "slug": "yajnavalkya",
+  "tradition": "hindu",
+  "group": "rishi"
+}

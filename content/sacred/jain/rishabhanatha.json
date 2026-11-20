@@ -1,0 +1,289 @@
+{
+  "slug": "rishabhanatha",
+  "name": "Rishabhanatha",
+  "aka": ["Adinatha", "Adishvara", "Yugadideva", "Nabheya"],
+  "native": "ऋषभनाथ",
+  "role": "First Tirthankara of the present age",
+  "order": 1,
+  "summary": "Jains revere Rishabhanatha as the first Tirthankara of our age, a king-turned-monk said to have taught people farming, crafts, writing and numbers.",
+  "about": "Jain tradition counts Rishabhanatha, also called Adinatha, as the first of the 24 Tirthankaras, the ford-makers who show the path across the cycle of birth and death. Jain texts place his birth in Ayodhya to King Nabhi and Queen Marudevi, and describe him first as a king of the Ikshvaku line who set up the ways of ordinary life. He then gave up his throne, fasted and meditated, and is said to have reached omniscience and taught a four-fold community. Jains believe he reached liberation on Mount Ashtapada. The Bhagavata Purana names a Rishabha among Vishnu's avatars, while Jains see their Tirthankara as a distinct, fully liberated human teacher.",
+  "kidSummary": "Rishabhanatha is the first of the 24 Tirthankaras, the great teachers of Jainism. Jain stories say he was a king who taught people how to farm, make things and learn. Later he chose a quiet life of meditation, and his symbol is a bull.",
+  "story": [
+    {
+      "title": "A kingdom begins",
+      "text": "Jain stories say Rishabhanatha was born in Ayodhya and grew up to be king, at a time when people did not yet know how to farm or trade."
+    },
+    {
+      "title": "A teacher of skills",
+      "text": "As king he is said to have taught farming, trade and crafts, and his children Brahmi and Sundari are remembered for writing and numbers."
+    },
+    {
+      "title": "Letting go",
+      "text": "One day a sad event during a dance made him see that everything changes. He gave the kingdom to his sons and became a wandering monk."
+    },
+    {
+      "title": "A very long fast",
+      "text": "Because nobody knew how to give food to a monk, he went without food for about 400 days, until a kind king offered sugarcane juice."
+    },
+    {
+      "title": "Sharing the path",
+      "text": "Jains believe he reached full knowledge, taught many followers, and finally found liberation on Mount Ashtapada."
+    }
+  ],
+  "teaches": [
+    "Work and skill are noble",
+    "Letting go of possessions brings peace",
+    "Give food with care and respect"
+  ],
+  "symbol": "sun",
+  "emblems": ["Bull (lanchana)", "Banyan tree", "Golden colour"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Marudevi",
+      "slug": "marudevi"
+    },
+    {
+      "relation": "Father",
+      "name": "King Nabhi"
+    },
+    {
+      "relation": "Son",
+      "name": "Bharata",
+      "slug": "bharata-chakravartin"
+    },
+    {
+      "relation": "Son",
+      "name": "Bahubali",
+      "slug": "bahubali"
+    },
+    {
+      "relation": "Daughters",
+      "name": "Brahmi and Sundari",
+      "slug": "brahmi-and-sundari"
+    }
+  ],
+  "texts": [
+    "Adi Purana",
+    "Adinathcharit",
+    "Trishashti Shalaka Purusha Charitra",
+    "Bhagavata Purana"
+  ],
+  "places": ["Ayodhya", "Mount Ashtapada", "Shatrunjaya (Palitana)", "Hastinapur"],
+  "festivals": ["Akshaya Tritiya", "Varshitap"],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana, a Hindu text, names a Rishabha among Vishnu's avatars. Jains, however, see their Tirthankara as a distinct, fully liberated human teacher rather than an avatar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts give his height as 500 bows. One common conversion makes that about 1,500 metres, taller than any skyscraper, though other sources convert a bow to different lengths.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition credits his daughter Brahmi with the Brahmi script and Sundari with numbers. The Pannavana Sutra of the 2nd century BCE lists Brahmi first among old scripts.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jain texts say people lived under wish-fulfilling trees that slowly stopped giving, so they asked their king for help. He taught six trades (defence, writing, farming, learning, trade, crafts), plus fire, cooking and 72 sciences for men and 64 for women.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the texts, the death of the dancer Nilanjana during a heavenly performance made him realise life is fleeting, and he renounced.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The dance scene appears on carved panels from Kankali Tila in Mathura, dated to around 100 BCE, so the story is very old.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Shvetambara text says he pulled out four handfuls of hair, not five, because Indra asked him to spare the rest, which shone like emerald on his golden shoulders.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His shoulder-length locks set his images apart from the other Tirthankaras, which is how devotees recognise him. Mathura sculptures from the 1st century CE already show them.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When king Shreyansa ended his fast of about 400 days, sugarcane juice was poured into his cupped hands. Shvetambara Jains remember it with Varshitap, a year-long course of alternate-day fasting that often ends with sugarcane juice on Akshaya Tritiya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jains believe he reached liberation on Ashtapada, a peak identified with Mount Kailash. Because most pilgrims cannot reach it, a large model called Kailash Parvat Rachna stands at Hastinapur in Uttar Pradesh.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shatrunjaya hill in Palitana has 865 temples reached by about 3,750 steps, and its main temple is called Adinath's.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shatrunjaya",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jain tradition says Kunti and the five Pandava brothers of the Mahabharata climbed Shatrunjaya to pay respects and installed an image of him there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Statue of Ahimsa at Mangi-Tungi near Nashik is a 108-foot figure of him carved from one rock, and Guinness officials recognised it as the world's tallest Jain idol.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Ahimsa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Kesariyaji in Rajasthan a black stone image of him is honoured by Jains, Vaishnava Hindus and the local Bhil community alike.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A tale of its discovery says a Bhil dairy farmer saw one of his cows pour out her milk over a mound, and villagers who dug there found the image.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kesariyaji",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ranakpur temple, begun in 1389 after Dharna Shah dreamed of a heavenly vehicle, centres on a four-faced image of him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ranakpur_Jain_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhaktamara Stotra, a Sanskrit hymn by Manatunga, praises him. Shvetambaras recite 44 verses and Digambaras 48, matching the number of chains a legend says broke.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "At Gwalior's Gopachal hill, thousands of Jain figures were carved from 1398 to 1536, including a 58-foot image of him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Jain tradition the land of Bharatavarsha, an old name for India, is named after Bharata, the eldest son of Rishabhanatha, who became the first chakravartin.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bharata_chakravartin",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Adinatha temple at Khajuraho, built in the 11th century under the Chandela dynasty, is a Jain temple inside the famous UNESCO World Heritage group of Khajuraho monuments, and it is dedicated to him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain tradition says the custom of marriage began after his own marriage to Sunanda set the example. Texts name two wives, Sunanda and Sumangala, and a family of a hundred sons and two daughters.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before renouncing, he is said to have divided his kingdom among his sons. In the Shvetambara version Bharata received Ayodhya and Bahubali got Taxila and the Gandhara region.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Kundalpur in Madhya Pradesh, Digambara Jains honour a large seated statue of him that locals call Bade Baba, meaning big elder.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishabhanatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the emblem of Rishabhanatha?",
+      "options": ["Elephant", "Bull", "Horse", "Lotus"],
+      "answer": 1,
+      "why": "The bull is carved on the base of his images."
+    },
+    {
+      "q": "What did King Shreyansa offer him to end his long fast?",
+      "options": ["Milk", "Rice", "Sugarcane juice", "Honey"],
+      "answer": 2,
+      "why": "King Shreyansa's offering is remembered at the close of the Varshitap fast."
+    },
+    {
+      "q": "What did Jain tradition say his daughter Sundari taught?",
+      "options": ["The science of numbers", "Pottery", "Weaving", "Metalwork"],
+      "answer": 0,
+      "why": "Brahmi is linked to writing and Sundari to numbers."
+    },
+    {
+      "q": "How many verses of the Bhaktamara Stotra, which praises him, do Digambara Jains recite?",
+      "options": ["24", "44", "48", "108"],
+      "answer": 2,
+      "why": "Shvetambaras recite 44, matching the chains of a legend."
+    }
+  ],
+  "related": [
+    "ajitanatha",
+    "marudevi",
+    "bharata-chakravartin",
+    "bahubali",
+    "brahmi-and-sundari",
+    "mahavira"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rishabhanatha",
+    "akshaya_tritiya": "https://en.wikipedia.org/wiki/Akshaya_Tritiya",
+    "shatrunjaya": "https://en.wikipedia.org/wiki/Shatrunjaya",
+    "akota": "https://en.wikipedia.org/wiki/Akota_Hoard",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "kalpa_sutra": "https://www.wisdomlib.org/jainism/book/kalpa-sutra/d/doc424488.html",
+    "bharata": "https://en.wikipedia.org/wiki/Bharata_chakravartin",
+    "bhaktamara": "https://en.wikipedia.org/wiki/Bhaktamara_Stotra",
+    "kundalpur": "https://en.wikipedia.org/wiki/Rishabhanatha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3d9a4",
+    "c2": "#e8c4a0"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "bhasmasura",
+  "name": "Bhasmasura",
+  "aka": ["Ash asura"],
+  "native": "भस्मासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura of Shiva stories, known for the boon of ashes",
+  "summary": "Bhasmasura is an asura who won from Shiva the power to burn anyone to ash by touching their head, and met his own end through the dance of Mohini.",
+  "about": "Bhasmasura is known from regional tellings. The main reference article notes he does not appear in the Puranas themselves, though the Bhagavata Purana has a separate, parallel story about an asura named Vrika, who is a different character. At Yana in Karnataka, local lore links two tall limestone towers to the tale. His name links to bhasma, the word for ashes. He wins a boon from Shiva through devotion, which lets him reduce anyone to ash with a touch on the head. The boon makes him arrogant, and he decides to test it on Shiva himself. Vishnu takes the form of Mohini, an enchanting dancer, and draws the asura into a dance. At a chosen step, Bhasmasura places his own hand on his head. In the Bhagavata Purana Vishnu instead comes as a young student. The story is staged in Yakshagana, and echoes in folk dances from Himachal Pradesh to the Caribbean. In the Thai Ramakien he is merged with Ravana.",
+  "kidSummary": "Bhasmasura asked Shiva for a gift and got a very powerful one: whoever he touched on the head would turn to ash. But he grew boastful. Vishnu came as a beautiful dancer named Mohini and led him in a dance that ended with his own hand on his own head.",
+  "story": [
+    {
+      "title": "A devoted asura",
+      "text": "Bhasmasura prayed to Shiva with great devotion, and Shiva was pleased with him."
+    },
+    {
+      "title": "The boon",
+      "text": "He asked for the power to turn anyone to ash by touching their head, and Shiva gave it."
+    },
+    {
+      "title": "Pride",
+      "text": "The gift made Bhasmasura proud, and he decided to try it out on Shiva himself."
+    },
+    {
+      "title": "A chase",
+      "text": "Shiva hurried away and asked for help from Vishnu."
+    },
+    {
+      "title": "Mohini's dance",
+      "text": "Vishnu came as the graceful dancer Mohini and asked Bhasmasura to follow her moves, step by step."
+    },
+    {
+      "title": "The final step",
+      "text": "In one move of the dance, Bhasmasura put his hand on his own head, and the boon returned to him."
+    }
+  ],
+  "teaches": [
+    "Power can turn on the one who misuses it",
+    "Pride makes people forget good sense",
+    "Wisdom and cleverness can overcome force"
+  ],
+  "symbol": "flame",
+  "emblems": ["Hand on head", "Ash (bhasma)"],
+  "family": [
+    {
+      "relation": "Devotee of",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Defeated by",
+      "name": "Vishnu as Mohini",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Regional folk and literary tellings", "Bhagavata Purana (Vrika episode, 10.88)"],
+  "places": [],
+  "festivals": ["Dance-dramas such as Yakshagana"],
+  "facts": [
+    {
+      "text": "In dance versions of the tale, performers take poses that end with both hands circling the head, and the Bhasmasura dancer is last in the line. The dance Mohini starts is called the Muktanritya.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhasmasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some regional tellings say he was born from ash dust on Shiva's body.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhasmasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Near the village of Yana in Karnataka stand two limestone towers, the Bhairaveshwara Shikhara at about 120 m and the Mohini Shikhara at about 90 m, and local lore ties them to this story.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Local lore at Yana says Shiva hid among its rocks while the asura chased him, and that the heat of the asura's end blackened the limestone.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Geological Survey of India has declared Yana a National Geological Monument, so the rocky setting that the legend explains is also recognised as a geology site.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A dance pose with one hand on the head and the other behind the back is found in Bhojpuri women's dance and Indo-Caribbean chutney, and some there connect it to this tale.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhasmasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien, the Thai version of the Ramayana, Bhasmasura is merged with Ravana, known there as Thotsakan.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhasmasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Vrika worshipped Shiva at Kedara and offered pieces of his own flesh to the fire, and when Shiva did not appear he prepared to cut off his own head.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/88/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Vishnu advises that the boon be tested on the asura's own head instead of trusting a word. Vrika does so, and the gods rain flowers.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/88/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Buddhist text, the Satara Dewala Devi Puvata, has a female Vishnu make the asura swear loyalty by placing a hand on his head, the usual way of taking an oath.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mohini",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Villagers near Yana say the loose black soil around the rocks is what remains of Bhasmasura's ashes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Below the Bhairaveshwara tower is a cave shrine whose linga formed naturally from dripping limestone, which worshippers call self-manifested; a ten-day festival is held there at Maha Shivaratri.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Mohini Bhasmasur, Mohini was played by Kamlabai Gokhale, about 13 years old, with her mother Durgabai as Parvati; it is called the first Indian film with a woman performer.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "For the death scene, Phalke filmed the actor and then shot spoiled film burning in the same spot to make the ash effect.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Yana is more than two towers: about 61 karst formations, with caverns and sinkholes, lie within 3 km, shaped as rainwater trickled through dolomite and limestone and tectonic forces moved the rock.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yana,_India",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Saho, in Himachal Pradesh's Chamba district, a folk dance called Sonal Nati retells the Mohini and Bhasmasur tale, so it is also known as the Mohini-Bhasmasura dance, and it is danced at the Saho fair.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kerala the classical dance Mohiniattam, meaning dance of Mohini, is named for Vishnu's enchantress form and is danced only by women.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Mohini Bhasmasur was first shown in November 1913, a one-minute comedy called Pithache Panje, meaning Dough Claws, ran beside it as a side attraction.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Casting a woman did not start a trend: in that era women who performed were looked down on, so male actors kept playing female film roles for years afterwards.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Phalke shot most of Mohini Bhasmasur outdoors in open countryside, rehearsed his actors first, and split the story into acts like folk theatre instead of copying the older Sanskrit drama style.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Phalke's wife Saraswati worked behind the scenes as manager and technical assistant on his early films, a quiet partner in India's first film studio effort.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does bhasma mean?",
+      "options": ["Water", "Ash", "Gold", "Wind"],
+      "answer": 1,
+      "why": "Bhasmasura means the asura of ash."
+    },
+    {
+      "q": "What power did his boon give him?",
+      "options": [
+        "Fly",
+        "Turn invisible",
+        "Burn anyone to ash by touching their head",
+        "Control rain"
+      ],
+      "answer": 2,
+      "why": "The boon worked by a touch on the head."
+    },
+    {
+      "q": "In what form did Vishnu come to him?",
+      "options": ["Mohini", "A lion", "A fish", "A tortoise"],
+      "answer": 0,
+      "why": "Vishnu took the form of the enchanting dancer Mohini."
+    },
+    {
+      "q": "Which Karnataka dance-drama stages this story?",
+      "options": ["Bharatanatyam", "Yakshagana", "Bihu", "Garba"],
+      "answer": 1,
+      "why": "Yakshagana performances include Bhasmasura and Mohini."
+    }
+  ],
+  "related": ["shiva", "vishnu", "ayyappan", "narada"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhasmasura",
+    "mohini": "https://en.wikipedia.org/wiki/Mohini",
+    "bhagavata-10-88": "https://vedabase.io/en/library/sb/10/88/",
+    "mohini-bhasmasur-film": "https://en.wikipedia.org/wiki/Mohini_Bhasmasur",
+    "yana": "https://en.wikipedia.org/wiki/Yana,_India"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d8d4cc",
+    "c2": "#e2c9d8"
+  },
+  "order": 500
+}

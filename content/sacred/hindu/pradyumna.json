@@ -1,0 +1,282 @@
+{
+  "slug": "pradyumna",
+  "name": "Pradyumna",
+  "aka": ["Makaradhvaja", "Makaraketu", "Madana"],
+  "native": "प्रद्युम्न",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Son of Krishna and Rukmini, seen as Kamadeva reborn",
+  "summary": "Pradyumna is the eldest son of Krishna and Rukmini. The Bhagavata Purana says he is Kamadeva reborn, and Vaishnava tradition counts him among the four vyuha forms.",
+  "about": "In the Bhagavata Purana, Pradyumna is the first son of Krishna and Rukmini and a rebirth of Kamadeva, the love god Shiva once burned. The asura Shambara carries him off when he is a few days old and throws him into the sea, but a fish swallows him and he ends up in Shambara's kitchen. There the maidservant Mayavati, secretly Kamadeva's wife Rati, raises him and teaches him a spell against illusions. Pradyumna grows up to defeat Shambara and returns to Dvaraka, where women mistake him for Krishna. The Harivamsa lists him among the four vyuha forms with Vasudeva, Samkarshana and Aniruddha, and a Makara-topped pillar at Besnagar is linked with his epithet Makaradhvaja. The Jain Pradyumna Charitra tells a different version of his life.",
+  "kidSummary": "Pradyumna is Krishna and Rukmini's son in the Hindu stories. The asura Shambara takes him away when he is a baby, but a fish swallows him and he ends up safe in a palace kitchen. A kind woman raises him, and when he grows up he returns home. He looks so much like Krishna that people mix them up.",
+  "story": [
+    {
+      "title": "A baby disappears",
+      "text": "A few days after Pradyumna is born, the asura Shambara takes him away. He throws the baby into the sea."
+    },
+    {
+      "title": "Inside a fish",
+      "text": "A large fish swallows the baby, and fishermen catch the fish. They take it to Shambara's kitchen, where the cooks open it and find a living child."
+    },
+    {
+      "title": "A secret friend",
+      "text": "The cooks give the boy to Mayavati, a maid who is secretly Rati, the wife of Kamadeva in his earlier life. The sage Narada tells her who the child is, and she looks after him."
+    },
+    {
+      "title": "Training and return",
+      "text": "Mayavati teaches him a spell that sees through illusions. Pradyumna grows strong, defeats Shambara and flies back to Dvaraka."
+    },
+    {
+      "title": "A mix-up in the palace",
+      "text": "With his dark-blue skin and yellow clothes, the women of Dvaraka think he is Krishna. Rukmini feels in her heart that he is her son."
+    }
+  ],
+  "teaches": [
+    "Love and care can save a child in strange places",
+    "Skill and clear sight beat tricks",
+    "Family ties stay strong even after long separation"
+  ],
+  "symbol": "bow",
+  "emblems": [
+    "Crocodile (makara) banner",
+    "Vaishnavastra (weapon)",
+    "Dark-blue colour, yellow garments"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    },
+    {
+      "relation": "Son",
+      "name": "Aniruddha",
+      "slug": "aniruddha"
+    },
+    {
+      "relation": "Earlier life as",
+      "name": "Kamadeva",
+      "slug": "kamadeva"
+    },
+    {
+      "relation": "Wife (Rati from past life)",
+      "name": "Mayavati (Rati)"
+    },
+    {
+      "relation": "Wife",
+      "name": "Rukmavati"
+    },
+    {
+      "relation": "Maternal uncle",
+      "name": "Rukmi"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Harivamsa", "Mahabharata", "Pradyumna Charitra (Jain)"],
+  "places": ["Dvaraka, Gujarat", "Besnagar, Madhya Pradesh", "Girnar, Gujarat (Jain tradition)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The asura Shambara kidnapped him when he was not yet ten days old and threw him into the ocean.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "A large fish swallowed the baby, and fishermen later brought that fish to Shambara's own kitchen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The cooks found the child alive inside the fish and handed him to the maid Mayavati, who was secretly Rati, Kamadeva's wife.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mayavati taught him a spell called mahamaya that cancels illusions. When Shambara hurled tricks in the style of gandharvas, ghosts and serpents, the spell cancelled each one before Pradyumna defeated the asura.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Pradyumna reached Dvaraka, the women there mistook him for Krishna because of his dark-blue skin, yellow clothes and curly hair.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He was one of the few in Dvaraka who knew how to break the Chakravyuha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "While the Pandavas were in exile, Pradyumna trained Abhimanyu and the sons of Draupadi in warfare.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "A makara (crocodile) pillar capital found at Besnagar beside the Heliodorus pillar is linked with Pradyumna, whose Harivamsa epithet Makaradhvaja means the one with a crocodile banner.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Bhagavata Purana's telling of the war over Aniruddha, Pradyumna's arrows made Shiva's son Kartikeya leave the battlefield on his peacock.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some sources say Vajra carved 16 images of Krishna and other deities from a stone called Braja and built temples near Mathura.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Jain Pradyumna Charitra he defeats the guardian of a water reservoir, receives a crocodile banner and earns the name Makaraketu, and later defeats a demon to earn the name Madana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Jain telling, he gives up worldly life on Girnar, gains kevala jnana and reaches moksha there.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "He is said to have held the rare Vaishnavastra, one of the mightiest weapons in the universe, and some sources say his skill with weapons matched Arjuna's.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 1st-century BCE inscription at Mora near Mathura seems to point to worship of five Vrishni heroes: Balarama, Krishna, Pradyumna, Aniruddha and Samba.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Krishna%27s_son)",
+      "interest": 9
+    },
+    {
+      "text": "In the Jain Pradyumna Charitra, after beating a demon in the Kala forest he receives a flower-bow and five flower-arrows, and from then on he truly bears the name Madana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Shalva's flying city attacked Dvaraka, Pradyumna rode out first, with Satyaki, Charudeshna, Samba and Akrura following. His divine weapons dispelled Shalva's illusions like sunlight chasing off night.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/76/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In that battle Shalva's commander Dyuman hit Pradyumna with a club and his charioteer carried him off. On waking, Pradyumna scolded the driver, saying no Yadu ever flees a battle.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/76/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Pradyumna reached Dvaraka, the palace women took him for Krishna. Rukmini felt a mother's instinct and guessed he was her lost son before Narada told the whole story.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His cousin Rukmavati, daughter of his uncle Rukmi, found his courage and charm so remarkable that she insisted on choosing him as her husband at her svayamvara.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "An asura princess named Prabhavati fell in love with Pradyumna, and he eloped with her, according to the account Wikipedia summarises.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7
+    },
+    {
+      "text": "In the Jain Pradyumna Charitra, jealous princes repeatedly send him into dangerous places, but each time he comes back with new gifts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Pradyumna",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which love god is Pradyumna said to be reborn from?",
+      "options": ["Indra", "Kamadeva", "Agni", "Chandra"],
+      "answer": 1,
+      "why": "The Bhagavata Purana calls him a rebirth of Kamadeva."
+    },
+    {
+      "q": "What swallowed baby Pradyumna after Shambara threw him in the sea?",
+      "options": ["A crocodile", "A turtle", "A large fish", "A whale"],
+      "answer": 2,
+      "why": "Fishermen caught the fish and delivered it to Shambara's kitchen."
+    },
+    {
+      "q": "Who raised him in Shambara's palace?",
+      "options": ["Yashoda", "Devaki", "Subhadra", "Mayavati"],
+      "answer": 3,
+      "why": "Mayavati, secretly Rati, raised him."
+    },
+    {
+      "q": "Which features made the women of Dvaraka mistake Pradyumna for Krishna?",
+      "options": [
+        "Dark-blue skin, yellow clothes and curly hair",
+        "Pale skin, white robes and a topknot",
+        "Dark-blue skin, red armour and a long beard",
+        "Golden skin, green robes and short hair"
+      ],
+      "answer": 0,
+      "why": "The texts say he shared Krishna's dark-blue skin, yellow garments and curly hair."
+    },
+    {
+      "q": "What does the epithet Makaradhvaja mean?",
+      "options": [
+        "Bearer of the bow",
+        "Crocodile-banner holder",
+        "Lord of the sea",
+        "Peacock rider"
+      ],
+      "answer": 1,
+      "why": "Makara is the crocodile and dhvaja means banner."
+    }
+  ],
+  "related": [
+    "krishna",
+    "rukmini",
+    "aniruddha",
+    "kamadeva",
+    "kartikeya",
+    "narada",
+    "abhimanyu",
+    "jarasandha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pradyumna"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#efbccb",
+    "c2": "#c8d6ee"
+  },
+  "order": 500
+}

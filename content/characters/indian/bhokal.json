@@ -1,0 +1,339 @@
+{
+  "slug": "bhokal",
+  "name": "Bhokal",
+  "realName": "Rajkumar Alop",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' winged warrior prince from the fairyland Parilok: a sword-and-shield fantasy hero who landed in Vikasnagar and stayed to defend it. Debuted in Khofnaak Khel.",
+  "origin": "Prince Alop came from Parilok, a fairyland, to take part in a fighting tournament and landed in the city of Vikasnagar. He stayed on as its defender. His first run introduced Fuchang, the man behind his parents' deaths, and he later defeats him in Bhokaal aur Fuchang. A later origin series reopens his past: his mentor Mahaguru Bhokal arranges a plot that strips him of his powers, and he sets out to recover them and find his birth father.",
+  "creators": ["Sanjay Gupta"],
+  "firstAppearance": {
+    "title": "Khofnaak Khel",
+    "year": 1992
+  },
+  "powers": [
+    "Superhuman strength and speed",
+    "Expert swordsmanship",
+    "Sword that cuts nearly anything and flares with fire (Jwala-Shakti)",
+    "Shield that blocks physical and supernatural attacks and lets him fly",
+    "Bhokal-Shakti, a power called up by shouting his mentor's name",
+    "Psychic power from the weapon Prahara"
+  ],
+  "affiliations": ["Brahmand Rakshak"],
+  "storyline": [
+    {
+      "era": "Arrival",
+      "years": "1992",
+      "title": "A prince lands in Vikasnagar",
+      "beat": "The winged prince arrives for a fighting tournament and ends up protecting Vikasnagar, where he meets Turin, Shootan and Atikrur."
+    },
+    {
+      "era": "Revenge",
+      "years": "1992",
+      "title": "Fuchang",
+      "beat": "Bhokal faces Fuchang, who was behind his parents' deaths, and later defeats him in Bhokaal aur Fuchang (1992)."
+    },
+    {
+      "era": "Loss",
+      "years": "Later series",
+      "title": "Turin is lost",
+      "beat": "While Bhokal is held up in another fight, Himraj attacks Turin in the Himalayan valleys; he later searches for her soul."
+    },
+    {
+      "era": "Strip-down",
+      "years": "2011",
+      "title": "Dhikkar and Antardwand",
+      "beat": "His mentor Mahaguru Bhokal's plot takes away his powers, and Bhokal sets out to regain them."
+    },
+    {
+      "era": "Search",
+      "years": "2011",
+      "title": "Yugaandhar",
+      "beat": "The origin series carries on with his search for his birth father, Yuddheshthveer."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "One source calls Bhokal loosely based on He-Man, though his dark fantasy stories are far grimmer.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "To call up Bhokal-Shakti he shouts his mentor's name in the middle of a fight.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Bhokal is only a kids' fairy tale hero.",
+      "truth": "His main run is mostly dark fantasy with graphic violence. A separate children's series, Pari Rakshak Bhokal, was launched later.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "His first wife Turin owned the weapon Prahara and a shape-shifting flying cat called Kapala.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Shootan began as his enemy, a hypnotist who died, returned, and became a reformed ally.",
+      "spice": 3
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of Bhokal's fairyland home?",
+      "options": ["Parilok", "Vikasnagar", "Raj Nagar", "Naglok"],
+      "answer": 0,
+      "why": "Alop is a winged prince from the fairyland Parilok."
+    },
+    {
+      "q": "Which city does Bhokal defend after landing on Earth?",
+      "options": ["Roopnagar", "Vikasnagar", "Raj Nagar", "Mumbai"],
+      "answer": 1,
+      "why": "He landed in Vikasnagar and became its defender."
+    },
+    {
+      "q": "How does Bhokal unlock Bhokal-Shakti?",
+      "options": [
+        "By drawing his sword on a rock",
+        "By shouting his mentor's name",
+        "By touching his shield to the ground",
+        "By singing a mantra"
+      ],
+      "answer": 1,
+      "why": "He calls out the name of his mentor, Mahaguru Bhokal, during a fight."
+    },
+    {
+      "q": "What does his shield let him do?",
+      "options": ["Turn invisible", "Fly and block attacks", "Heal wounds", "Read minds"],
+      "answer": 1,
+      "why": "The shield stops physical and supernatural attacks and lets him fly."
+    },
+    {
+      "q": "What is the name of Turin's shape-shifting flying cat?",
+      "options": ["Kapala", "Shootan", "Venu", "Himraj"],
+      "answer": 0,
+      "why": "Kapala is the shape-shifting cat who later takes a human form to protect her son."
+    },
+    {
+      "q": "Which friend of Bhokal is said to have the strength of ten elephants?",
+      "options": ["Shootan", "Atikrur", "Venu", "Fuchang"],
+      "answer": 1,
+      "why": "Atikrur, who wields a weapon called the dantak, has that reputation."
+    }
+  ],
+  "rivals": [],
+  "allies": ["bheriya"],
+  "theme": {
+    "palette": {
+      "c1": "#311b92",
+      "c2": "#ffb300",
+      "c3": "#80d8ff"
+    },
+    "motif": "magic",
+    "mood": "dark",
+    "tagline": "Wings from a fairyland, a sword for a city."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhokal",
+    "indianetzone": "https://www.indianetzone.com/bhokal",
+    "raj-comics": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "comicbookreligion": "https://www.comicbookreligion.com/?srch=publisher-Raj__1100",
+    "msu-catalog": "https://comics.lib.msu.edu/rri/rrri/raj.htm"
+  },
+  "timeline": [
+    {
+      "year": 1992,
+      "kind": "debut",
+      "title": "Khofnaak Khel",
+      "note": "Wikipedia's issue list opens with this 1992 issue; another catalogue dates it to 1993."
+    },
+    {
+      "year": 2003,
+      "kind": "comic",
+      "title": "Saat Sawaal and Laut Aayi Turin",
+      "note": "In these two 2003 issues Bhokal searches for the soul of Turin and then gets her back."
+    },
+    {
+      "year": 2008,
+      "kind": "comic",
+      "title": "Pari Rakshak Bhokal",
+      "note": "A children's series featuring a different character with the same powers."
+    },
+    {
+      "year": 2010,
+      "kind": "comic",
+      "title": "Pratham Bhokal series",
+      "note": "Pari Janam, Dev Yuddh, Bhokal Janam and Mahaguru Bhokal begin to retell his beginnings, per Wikipedia and Indianetzone."
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "Dhikkar and Antardwand",
+      "note": "The origin series begins digging into his parentage and his lost powers."
+    },
+    {
+      "year": 2022,
+      "kind": "return",
+      "title": "Agni-Path series",
+      "note": "After a gap of about eleven years, the Agni-Path series appears as the latest dated entry in Wikipedia's issue list."
+    }
+  ],
+  "heat": 45,
+  "facts": [
+    {
+      "text": "Bhokal is a winged prince named Alop from Parilok, a fictional fairyland.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "Indianetzone says Bhokal married three times: first Turin, then Rupsi, who can talk to animals, and later Saloni, a gifted archer.",
+      "kind": "story",
+      "source": "https://www.indianetzone.com/bhokal",
+      "interest": 7
+    },
+    {
+      "text": "His first love and later wife Turin, who also goes by Princess Sofia, is a royal from another planet; the comics list spells her name Tureen, but it is the same character.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "One source says he is loosely based on He-Man, which fits his sword, shield and fantasy kingdom.",
+      "kind": "culture",
+      "source": "https://www.indianetzone.com/bhokal",
+      "interest": 7
+    },
+    {
+      "text": "To call up Bhokal-Shakti he shouts the battle cry Jai Mahaguru Bhokal, naming his mentor, and it boosts his strength to superhuman levels.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 9
+    },
+    {
+      "text": "The sword Bhokal carries can slice through nearly any material known in his world, and its edge can throw Jwala-Shakti, a magic fire that consumes almost anything within seconds.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "He once had wings, but later issues take them away, so his flying moves to the shield.",
+      "kind": "powers",
+      "source": "https://www.indianetzone.com/bhokal",
+      "interest": 7
+    },
+    {
+      "text": "The weapon Prahara, worn on the forehead, gave him psychic powers and first belonged to his love Turin.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Turin is lost to Himraj in the Himalayan valleys while Bhokal is away fighting for his adopted country; in 2003 he searches for her soul in Saat Sawaal and gets her back in Laut Aayi Turin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Kapala, Turin's shape-shifting flying cat, later takes a human form with cat's eyes to protect her son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "Atikrur, who fights with a weapon called the dantak, is said to have the strength of ten elephants and to be able to flatten mountains, though he later goes back to his own planet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "Venu, a reformed child-kidnapper turned ally, carries a flute that can mesmerise people and turns into a battle axe when summoned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "The children's series Pari Rakshak Bhokal borrowed fairy-tale names for its issues, including Baba Yaga, Cinderella and Nightingale, between 2008 and 2009.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Shootan begins as one of Bhokal's friends and a hypnotist. He is killed, brought back by Bhokal's uncle to attack him (the issue Ghar Aya Shutaan), then breaks free of that control and becomes himself again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia's issue list for Bhokal has 172 entries, running from Khofnaak Khel in 1992 to the Agni-Path series in 2022.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "The Maharaavan story filled the years 1997 and 1998 with 14 issues across the Maharaavan and Uttar Maharaavan series, according to Wikipedia's list.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia's list marks 73 of the Bhokal issues as 64-page specials, so the series leaned on thick extra-long books.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Atikrur's wife is named Piku Pakodia, and an issue called Piku Pakodia came out in 1992, among the very first thirteen Bhokal comics.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "Rani Chanda is an obsessive suitor of Bhokal, adding a stubborn admirer to a cast already full of queens and enchantresses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Pari Rakshak Bhokal, the children's series, stars a different character who has the same powers as Bhokal and is set in the present-day Raj Comics universe.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia gives two fates for Turin: one passage says Himraj killed her while Bhokal was away, another says she left him after Rupsi and Saloni became pregnant, and the page never reconciles them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 8
+    },
+    {
+      "text": "The Agni-Path series of 2022 has three listed issues, Mrityu-Rathi and Agni-Khand in 2022 and a final one, Agni-Vadh, still marked to be announced.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bhokal",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Bhokal is a winged prince from the fairyland Parilok. He came to the city of Vikasnagar for a fighting tournament and stayed to protect it with his sword and shield. He grows stronger by shouting his teacher's name in battle. His grown-up comics are dark, so younger fans have a separate children's series.",
+  "story": [
+    {
+      "title": "A prince from Parilok",
+      "text": "Prince Alop flies down from the fairyland Parilok to enter a fighting tournament and lands in the city of Vikasnagar."
+    },
+    {
+      "title": "Defender of the city",
+      "text": "He decides to stay and protect Vikasnagar, where he meets friends such as Turin, Shootan and the strong Atikrur."
+    },
+    {
+      "title": "Sword, shield and a shout",
+      "text": "His sword throws fire, his shield blocks attacks and lets him fly, and a shout of his teacher's name boosts his strength."
+    },
+    {
+      "title": "Loss and a long search",
+      "text": "Turin is lost while he is away, and he goes looking for her soul. Years later he searches for his lost powers and his birth father."
+    }
+  ]
+}

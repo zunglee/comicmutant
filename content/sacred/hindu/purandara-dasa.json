@@ -1,0 +1,253 @@
+{
+  "slug": "purandara-dasa",
+  "name": "Purandara Dasa",
+  "aka": ["Pitamaha of Carnatic music"],
+  "native": "ಪುರಂದರ ದಾಸ",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Haridasa saint-composer, called the father of Carnatic music",
+  "summary": "Purandara Dasa was a 15th-16th century Kannada devotional singer of Vishnu and Krishna. He gave Carnatic music teaching its graded exercises and is honoured as its Pitamaha, or grandsire.",
+  "about": "Purandara Dasa (died 1564) was a Haridasa, a wandering devotional singer who served Vishnu in the form worshipped as Krishna. Records give his birth year as anywhere from about 1470 to 1494, and his birthplace is also debated. Sources say he came from a wealthy merchant family and later gave up his riches. He followed the Dvaita philosophy of Madhvacharya and composed in Kannada so ordinary people could sing along. He is credited with the graded exercises still used to teach Carnatic music, such as svaravalis and alankaras, which is why he is called its Pitamaha. According to a tradition, he is considered an incarnation of the sage Narada.",
+  "kidSummary": "Purandara Dasa was a rich merchant who gave up his wealth to sing about Krishna in Kannada. He designed the first music lessons that Carnatic students still practise today, the simple note patterns beginners start with. That is why people call him the grandsire of Carnatic music.",
+  "story": [
+    {
+      "title": "A wealthy merchant",
+      "text": "Purandara Dasa came from a rich merchant family. Some accounts say his father dealt in diamonds, and he was a clever businessman too."
+    },
+    {
+      "title": "A new path",
+      "text": "A legend says his wife's kindness and a returning nose ring changed his heart, and he gave up his riches to follow the path of a Haridasa, a singer who serves Vishnu through song."
+    },
+    {
+      "title": "A teacher at Hampi",
+      "text": "He was initiated by the teacher Vyasatirtha at Hampi, the grand capital of the Vijayanagara empire, and began to compose songs."
+    },
+    {
+      "title": "Lessons in music",
+      "text": "He built graded music exercises, starting with a simple scale, so that any beginner could climb step by step. They are still taught today."
+    },
+    {
+      "title": "Songs for everyone",
+      "text": "He sang in Kannada, the language of the people. His songs travelled through Karnataka and shaped Carnatic music for hundreds of years."
+    }
+  ],
+  "teaches": [
+    "Wealth is less precious than devotion",
+    "Music should be shared with everyone",
+    "Teach by simple, patient steps"
+  ],
+  "symbol": "drum",
+  "emblems": ["Tambura (devotional singing)"],
+  "family": [
+    {
+      "relation": "Tradition: incarnation of",
+      "name": "Narada",
+      "slug": "narada"
+    },
+    {
+      "relation": "Devotion to",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Devotion to",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Kirtanas and sooladis in Kannada", "Svaravalis and alankaras (teaching exercises)"],
+  "places": ["Hampi (Vijayanagara)", "Purandara Mantapa, Hampi", "Tirumala", "Doddamallur"],
+  "festivals": [],
+  "related": ["narada", "krishna", "vishnu", "tyagaraja", "madhvacharya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+    "mayamalavagowla": "https://en.wikipedia.org/wiki/Mayamalavagowla",
+    "hindupedia": "https://hindupedia.com/en/Purandara_Dasa"
+  },
+  "palette": {
+    "c1": "#f0dfb8",
+    "c2": "#bfd3dc"
+  },
+  "years": "c. 1470–1564",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "What is the title Pitamaha?",
+      "options": ["Grandsire", "Warrior", "Minister", "Painter"],
+      "answer": 0,
+      "why": "Pitamaha means grandsire or grandfather; he is called the grandsire of Carnatic music."
+    },
+    {
+      "q": "Which language were most of his songs in?",
+      "options": ["Tamil", "Telugu", "Kannada", "Bengali"],
+      "answer": 2,
+      "why": "He composed in Kannada, the language of ordinary people."
+    },
+    {
+      "q": "Which raga did he choose as the base scale for lessons?",
+      "options": ["Mayamalavagowla", "Todi", "Bhairavi", "Kalyani"],
+      "answer": 0,
+      "why": "Mayamalavagowla is still the first scale learned by beginners."
+    },
+    {
+      "q": "Where is the Purandara Mantapa?",
+      "options": ["Madurai", "Hampi", "Mysuru", "Puri"],
+      "answer": 1,
+      "why": "It stands next to the Vijayavittala temple at Hampi."
+    },
+    {
+      "q": "What is a Haridasa?",
+      "options": [
+        "A soldier of the king",
+        "A devotional singer of Hari",
+        "A temple builder",
+        "A royal cook"
+      ],
+      "answer": 1,
+      "why": "Haridasas travelled and sang in praise of Hari, a name of Vishnu."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Purandara Dasa is called Pitamaha, the grandsire of Carnatic music, because he set out the graded exercises, svaravalis and alankaras, that beginners still learn first.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tirumala Tirupati Devasthanams records say he met the elderly composer Annamacharya at Tirumala in 1500, and Annamacharya's grandson wrote down the songs they sang together.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before his change of heart he was nicknamed Navakoti Narayana, roughly 'Narayana of nine crores', for his huge wealth and his miserly ways.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the legend, a poor priest, said to be Vishnu in disguise, asked the miserly Srinivasa for help with his son's thread ceremony; Srinivasa kept him waiting about six months and then gave him only a worthless coin he had played with as a child.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The priest then told Srinivasa's kind wife Saraswati Bai his troubles; she gave him her nose ring, and when he tried to pawn it at her husband's shop, Srinivasa recognised it and locked it in his safe.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the story, the ring turned up again at home although it was locked in the safe; Srinivasa decided the priest was God, gave away his riches and became Purandara Dasa, 'servant of God'.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He later composed a song thanking his wife Saraswati Bai for showing him the way to God.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one song he asks what caste means if you do not understand the spirit of humanism, and uses cows of different colours to show that birth does not decide worth.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mayamalavagowla, the scale he chose for lessons, has a Western equivalent known as the double harmonic scale.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mayamalavagowla",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition counts as many as 4,75,000 Kannada songs by him; historians estimate between 75,000 and 4,75,000, but only a few hundred survive today.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Haridasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After he gave up his wealth, the hands that once wore gold rings played the tambura, his neck wore a tulasi garland, and he went about collecting alms.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His parents, the pawnbroker Varadappa Nayaka and Lakshmi Bai, were childless for years; after praying to Srinivasa of Tirupati they had a son and named him Srinivasa.",
+      "kind": "family",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His wife Saraswati Bai was the opposite of the young miser: she always wanted to give to charity, which annoyed her husband.",
+      "kind": "family",
+      "source": "https://hindupedia.com/en/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 2018 a Karnataka government committee named Tirthahalli, where he is said to have been born in Araga, the likeliest birthplace, though others point to Purandaragad near Pune.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After taking Haridasa initiation from Vyasatirtha at Hampi at about 30, he is said to have met Annamacharya, then in his 90s, and sung with him before the deity at Tirumala.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He designed a ladder of lessons for beginners: svaravalis, janti swaras, alankaras, lakshana geetas, and on up to the full kriti.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He, Sripadaraya and Kanakadasa are called the great trinity of Vaishnava composers from Karnataka, and Hampi, the Vijayanagara capital, was the centre of their work.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Haridasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He fused bhava, raga and laya in his songs, wrote about everyday life in colloquial Kannada, and set his words to folk ragas that ordinary people could sing.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Haridasa movement he belonged to grew from earlier devotional streams: the Veerashaiva vachana poets of the 12th century and the Alvar saints of Tamil Nadu.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Haridasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His sooladis, a special song form, are regarded as musical masterpieces and a standard for describing the shape of a raga.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Purandara_Dasa",
+      "interest": 7,
+      "kid": false
+    }
+  ]
+}

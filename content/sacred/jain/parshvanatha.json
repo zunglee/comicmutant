@@ -1,0 +1,295 @@
+{
+  "name": "Parshvanatha",
+  "aka": ["Parshva", "Parasnath", "Parshvanath"],
+  "native": "पार्श्वनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "23rd Tirthankara of the present Jain age",
+  "summary": "Parshvanatha is the 23rd Tirthankara, shown sheltered by a many-headed serpent. Many scholars think he really lived, before Mahavira.",
+  "about": "Jains count Parshvanatha as the 23rd of the 24 ford-makers (tirthankaras). Jain tradition says he was born in Varanasi to King Ashvasena and Queen Vamadevi, became a monk at 30, and taught for 70 years before being liberated on Mount Shikharji, now called Parasnath Hill. Many scholars treat him as the earliest tirthankara who probably lived, around the 8th to 7th century BCE, and think Mahavira later reformed his community. His idols have a serpent hood above the head, linked in Jain stories to Dharanendra and Padmavati, who protected him from a storm at Ahichchhatra. Shvetambara and Digambara texts differ on some details of his teaching and life.",
+  "kidSummary": "Parshvanatha is the 23rd Tirthankara in Jainism. He is remembered with a snake hood over his head. Jain stories say a storm tried to disturb his meditation, but a serpent king spread his hood to protect him. Parshvanatha taught kindness to every living creature.",
+  "story": [
+    {
+      "title": "A prince of Varanasi",
+      "text": "Jain tradition says Parshvanatha was born as a prince in Varanasi, and grew up kind and brave, caring for all creatures."
+    },
+    {
+      "title": "A snake in the log",
+      "text": "Jain tradition says the young prince saw an ascetic burning a log with a snake trapped inside. He had it freed. That snake was later reborn as Dharanendra."
+    },
+    {
+      "title": "Leaving the palace",
+      "text": "At thirty, he gave up palace life to become a monk, taking time to meditate and live simply."
+    },
+    {
+      "title": "The storm",
+      "text": "A former enemy, Kamath, sent heavy rain while he meditated. The water rose to his neck, but he did not move or get angry."
+    },
+    {
+      "title": "The serpent canopy",
+      "text": "Dharanendra, the serpent king, held a thousand-hooded canopy over him, and the goddess Padmavati coiled beneath him. That is why idols show a snake hood."
+    },
+    {
+      "title": "Teacher of the world",
+      "text": "After this he found perfect knowledge. Jains believe he taught for seventy years, and was freed on Parasnath Hill."
+    }
+  ],
+  "teaches": [
+    "Staying calm and forgiving even when someone troubles you",
+    "Non-violence to all living beings",
+    "Truth and not taking what is not given"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Seven-hooded serpent canopy",
+    "Serpent (emblem)",
+    "Dharanendra and Padmavati (guardians)",
+    "Art shows seven hoods; one text tells of a thousand"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Ashvasena"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Vamadevi"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Neminatha",
+      "slug": "neminatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Mahavira",
+      "slug": "mahavira"
+    },
+    {
+      "relation": "Guardian serpent god",
+      "name": "Dharanendra",
+      "slug": "dharanendra"
+    },
+    {
+      "relation": "Guardian goddess",
+      "name": "Padmavati",
+      "slug": "padmavati"
+    }
+  ],
+  "texts": ["Kalpa Sutra", "Acharanga Sutra", "Parshvabhyudaya (Jinasena)", "Uvasagharam Stotra"],
+  "places": [
+    "Varanasi (birthplace)",
+    "Ahichchhatra, Uttar Pradesh",
+    "Parasnath Hill, Shikharji",
+    "Gwalior Fort (Gopachal)"
+  ],
+  "festivals": ["Moksha Saptami"],
+  "facts": [
+    {
+      "text": "Parshvanatha is the tirthankara whose head is shielded by a many-headed serpent hood. His idols usually show seven hoods, while the Suparshvanatha idol has five.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vividha Tirtha Kalpa: Kamath sent endless rain as Parshvanatha meditated; the serpent king Dharanendra spread a thousand-hooded canopy over him and Padmavati coiled beneath. Some versions name the storm-sender a hostile god, Meghamalin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jainworld retells that Prince Parshva sensed a snake inside a log in the ascetic Kamath's fire, had it split open, and spoke the Namokar mantra to the dying snake, which became Dharanendra.",
+      "kind": "story",
+      "source": "https://jainworld.com/education/jain-education-material/elementry-level/the-compassion-of-lord-parshvanath/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jain accounts read the name of Ahichchhatra, in Uttar Pradesh, as serpent umbrella, after the hood that sheltered him there.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain texts trace his soul through earlier lives: Marubhuti, the elephant Vajraghosha, who met a monk and learned to give up anger, a god, then the prince Agnivega. His enemy Kamath was reborn as a serpent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars accept Parshvanatha as the earliest tirthankara who likely lived, about the 8th to 7th century BCE. Jain tradition places him 273 years before Mahavira.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Buddhist commentary, the Manorathapurani, names Vappa, the Buddha's uncle, as a follower of Parshva's tradition, which historians count as evidence that it existed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shvetambara texts say Parshvanatha taught four restraints: non-violence, non-possession, non-stealing and truth. Mahavira added a fifth vow, celibacy. Digambaras do not accept this view.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Acharanga Sutra says Mahavira's parents, Trishala and Siddhartha, were lay followers of Parshvanatha. This is why many scholars think Mahavira joined an existing community.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At 30 Parshvanatha renounced after seeing an image of Neminatha, then meditated for 84 days before gaining omniscience under a dhataki tree near Benares, say Jain texts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts describe lions and fawns playing near Parshvanatha during his years of meditation, showing the calm around him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guru Gobind Singh wrote a life of Parshvanatha in the 17th century, called Paranath Avtar, which is part of the Dasam Granth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sammeta, now Parasnath Hill, is revered because 20 of the 24 tirthankaras are believed to have reached liberation there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Early images of Parshvanatha include a headless Kankali Tila sculpture dated about 100-75 BCE and a first-century BCE ayagapata tablet now in the State Museum, Lucknow.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Parshvanatha is easy to spot in the Chausa hoard of Bihar, the oldest known Jain bronzes: those early casts have no pedestal emblems, but his serpent canopy gives him away.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kahaum pillar, raised in 460 CE under the Gupta emperor Skandagupta, carries an inscription praising the Arihants and a carved figure of Parshvanatha.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Early Buddhist texts such as the Samannaphala Sutta cite a fourfold restraint, not five vows. Hermann Jacobi took that to mean the Buddha's world knew Parshva's form of the Jain rules.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Svetambara tradition counts 108 prominent Parshvanatha idols, each named for its place, such as Shankheshwar Parshvanath in Gujarat and Panchasara Parshvanath.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Madhusudan Dhaky argued from wording in Jain texts that Parshva and Mahavira lived closer in time than tradition's 273 years, perhaps only a few decades apart.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Uttaradhyayana tells of Keshi, a monk of Parshva's line, and Indrabhuti Gautama, Mahavira's disciple, who discuss four restraints versus five vows. Gautama says followers' abilities had changed.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At eight, say Jain accounts summarised on Wikipedia, Parshva began following the twelve duties of a Jain householder, such as not killing, not lying and not taking what is not given.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Kalyanamandira Stotra, a 44-verse hymn to Parshvanatha by the Digambara monk Kumudachandra, is popular among both Digambaras and Svetambaras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What shelters Parshvanatha's head in Jain pictures?",
+      "options": [
+        "An umbrella of peacock feathers",
+        "A many-headed serpent hood",
+        "A lotus",
+        "A tree branch"
+      ],
+      "answer": 1,
+      "why": "Dharanendra, the serpent king, sheltered him from the storm."
+    },
+    {
+      "q": "What does Ahichchhatra mean?",
+      "options": ["Serpent umbrella", "City of lions", "River of kings", "Hill of flowers"],
+      "answer": 0,
+      "why": "Ahi means snake, and chhatra means umbrella."
+    },
+    {
+      "q": "Which mountain in Jharkhand is named after him?",
+      "options": ["Girnar", "Parasnath Hill", "Kailash", "Mount Abu"],
+      "answer": 1,
+      "why": "Parasnath Hill (Shikharji) takes its name from Parshvanatha."
+    },
+    {
+      "q": "Which tirthankara came after Parshvanatha?",
+      "options": ["Neminatha", "Rishabhanatha", "Mahavira", "Shantinatha"],
+      "answer": 2,
+      "why": "Mahavira is the 24th and last."
+    },
+    {
+      "q": "In the Vividha Tirtha Kalpa, who holds a thousand-hooded canopy over Parshvanatha?",
+      "options": ["Dharanendra", "Indra", "Kamath", "Gautama"],
+      "answer": 0,
+      "why": "Dharanendra, the serpent king, shelters him while Padmavati coils beneath."
+    }
+  ],
+  "related": ["neminatha", "mahavira", "dharanendra", "padmavati", "trishala"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parshvanatha",
+    "ahichchhatra": "https://en.wikipedia.org/wiki/Ahichchhatra",
+    "shikharji": "https://en.wikipedia.org/wiki/Shikharji",
+    "uvasaggaharam": "https://en.wikipedia.org/wiki/Uvasaggaharam_Stotra"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d3e6d8",
+    "c2": "#efe6d0"
+  },
+  "years": "c. 8th-7th century BCE (historians)",
+  "order": 23,
+  "slug": "parshvanatha"
+}

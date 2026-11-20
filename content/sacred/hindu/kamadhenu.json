@@ -1,0 +1,273 @@
+{
+  "slug": "kamadhenu",
+  "name": "Kamadhenu",
+  "aka": ["Surabhi", "Sabala", "Kapila", "Nandini", "Homadhenu"],
+  "native": "कामधेनु",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "Divine wish-granting cow and mother of cattle",
+  "summary": "Kamadhenu, also called Surabhi, is the divine cow who gives whatever is wished for. Texts tell her birth and her adventures in many different ways, and cows are honoured as her earthly form.",
+  "about": "Kamadhenu is the sacred cow of plenty in Hindu tradition, named in the Mahabharata, Ramayana and Puranas. Her name roughly means 'the cow from whom every wish is milked', and Surabhi, another name, is read as 'fragrant one'. Hindu texts disagree about her origin: the Mahabharata says she rose from the churning of the ocean, Shatapatha Brahmana says Prajapati made her from his breath, and the Puranas often call her Daksha's daughter and Kashyapa's wife. In the Ramayana she is Sabala, the cow of the sage Vasishtha, who produced a feast and warriors to protect herself. She has no cult of her own, but many Hindus see every cow as her earthly form.",
+  "kidSummary": "Kamadhenu is a magical cow in Hindu stories who can give anything good that a person wishes for. A sage kept her safe because she helped with his daily offerings. Many families honour cows today because they remember her.",
+  "story": [
+    {
+      "title": "A cow from the ocean",
+      "text": "In the Mahabharata, Kamadhenu rose from the Ocean of Milk when the gods and asuras churned it. In the churning story, she was given to sages."
+    },
+    {
+      "title": "A king's visit",
+      "text": "In the Ramayana, King Vishvamitra came to the hermitage of Vasishtha. The sage's cow Sabala, a form of Kamadhenu, magically made a feast for the king and his whole army."
+    },
+    {
+      "title": "A king who wanted her",
+      "text": "Vishvamitra offered herds of cattle, elephants and jewels for Sabala. Vasishtha said no, because she was needed for his sacred rituals."
+    },
+    {
+      "title": "The cow's own army",
+      "text": "When Vishvamitra tried to take her by force, Sabala created warriors from her own body. They defeated his army."
+    },
+    {
+      "title": "A new path",
+      "text": "The defeat showed Vishvamitra the power of Vasishtha's goodness and penance. According to tradition, he gave up kingship to become a great sage."
+    }
+  ],
+  "teaches": [
+    "Generosity, since she gives freely",
+    "Respect for animals and nature",
+    "Not taking what is not yours"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Wish-granting cow",
+    "Calf (Nandini in some tellings)",
+    "Cow with the gods in her body (poster art)",
+    "Winged cow with woman's head (rarer form)"
+  ],
+  "family": [
+    { "relation": "Father (Puranas)", "name": "Daksha" },
+    { "relation": "Husband (Puranas)", "name": "Kashyapa", "slug": "kashyapa" },
+    { "relation": "Keeper of Sabala", "name": "Vasishtha", "slug": "vasishtha" },
+    { "relation": "Sought her", "name": "Vishvamitra", "slug": "vishvamitra" },
+    { "relation": "Linked in a story", "name": "Parashurama", "slug": "parashurama" }
+  ],
+  "texts": [
+    "Ramayana",
+    "Mahabharata",
+    "Devi Bhagavata Purana",
+    "Harivamsa",
+    "Shatapatha Brahmana",
+    "Bhagavad Gita"
+  ],
+  "places": ["Rasatala (Patala)", "Vasishtha's hermitage", "Kamadhenu Devi Temple, Bengaluru"],
+  "festivals": ["Gopashtami", "Diwali"],
+  "facts": [
+    {
+      "text": "The name Surabhi is read as 'fragrant one', and one scholar thinks it may come from the smell of cows.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Anushasana Parva says she was born from a belch of Daksha after he drank amrita, and the Udyoga Parva says she came from amrita that Brahma brought up.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Krishna creates Surabhi and her calf from his body, and her spilled milk becomes the cosmic ocean of milk. He then decrees she be worshipped at Diwali on Bali Pratipada.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Vishvamitra seized Sabala, she made warriors such as Pahlavas, Shakas, Yavanas and Kambojas who beat his army. Humbled, he is said to have given up his kingdom for penance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mother Earth goddess Prithvi is often described as a cow in Sanskrit, and Kamadhenu is closely linked with her as a source of all prosperity.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the earliest Mahabharata version of another tale, King Kartavirya Arjuna takes Kamadhenu's calf and Parashurama kills him; Parashurama then clears the earth of kshatriyas 21 times.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Raghuvamsa, King Dilipa fails to honour Surabhi and is cursed to have no children until her daughter Nandini lifts the curse.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Vana Parva, Surabhi weeps over an overworked bullock, and Indra stops the ploughing with rain.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A cow identified with Kamadhenu often stands beside the god Dattatreya in pictures, where she is said to stand for the five classical elements.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In poster art Kamadhenu is often drawn as a cow whose body holds the gods: the Vedas are her legs, the Trimurti her horns, and the sun and moon her eyes.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A rarer form shows a white cow with a woman's head, eagle wings and a peacock tail, and the Philadelphia Museum of Art says this image influenced the Persian Buraq.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Bhishma story, the Vasus stole Vasishtha's cow Nandini, Surabhi's daughter, and were cursed to be born on earth. Dyu, the thief in chief, was doomed to the longest life and became Bhishma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhishma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Anushasana Parva, Surabhi worshipped Brahma on Mount Kailash for 10,000 years, and he rewarded her with goddess-hood and a world of her own, Goloka, the cow-heaven.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Brahma is said to have pressed Surabhi to give false witness that he had found the top of Shiva's pillar of light, and Shiva cursed her for it. In some versions Surabhi herself suggested the lie.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Brahmanda Purana, Kamadhenu conjures a whole city to house the army of King Kartavirya Arjuna when he visits Jamadagni's hermitage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Besides Surabhi, her names include Sabala, the spotted one, and Kapila, the red one, so her different names point to the colours of cattle.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa calls Surabhi the mother of amrita, Brahmins, cows and the Rudras, while the Vishnu and Bhagavata Puranas call her the mother of cows and buffaloes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Udyoga Parva, Surabhi lives in Rasatala with four daughters who guard the four directions, and her milk there has six flavours and holds the essence of the best things on earth.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Vaivarta Purana, the cow Kapila makes weapons and an army for Jamadagni and even trains him in martial arts. He beats the king several times, and spares him each time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Anushasana Parva, Surabhi gave birth to many golden Kapila cows, who were called the mothers of the world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Milk and ghee are needed in Vedic fire rituals, so Kamadhenu is sometimes called Homadhenu. As a goddess she becomes a warrior, creating armies to guard her master and herself.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kamadhenu has no worship cult of her own, though a recent Kamadhenu Devi Temple stands at KR Puram in Bengaluru. Cows are fed outside temples and worshipped on Fridays.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamadhenu",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Kamadhenu give?",
+      "options": ["Gold coins", "Whatever good is wished for", "Weapons only", "Rain"],
+      "answer": 1,
+      "why": "Her name means roughly the cow from whom every wish is drawn."
+    },
+    {
+      "q": "Which king tried to take Sabala from Vasishtha?",
+      "options": ["Dasharatha", "Janaka", "Vishvamitra", "Ravana"],
+      "answer": 2,
+      "why": "In the Ramayana, King Vishvamitra wanted her, and Vasishtha refused."
+    },
+    {
+      "q": "Which Hindu festival is dedicated to worshipping cows?",
+      "options": ["Holi", "Navaratri", "Raksha Bandhan", "Gopashtami"],
+      "answer": 3,
+      "why": "Gopashtami honours cows and remembers Krishna caring for them."
+    },
+    {
+      "q": "What does Surabhi mean?",
+      "options": ["Fragrant one", "Golden one", "Swift one", "Brave one"],
+      "answer": 0,
+      "why": "It is read as 'fragrant one'."
+    },
+    {
+      "q": "In the churning story, who is said to have taken Kamadhenu and given her to sages?",
+      "options": ["Indra", "Brahma", "Hanuman", "Yama"],
+      "answer": 1,
+      "why": "In the Samudra Manthana account, Brahma took her and gave her to sages."
+    }
+  ],
+  "related": [
+    "vasishtha",
+    "vishvamitra",
+    "jamadagni",
+    "parashurama",
+    "kashyapa",
+    "krishna",
+    "brahma",
+    "bhishma",
+    "airavata",
+    "uchchaihshravas"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamadhenu",
+    "vishvamitra": "https://en.wikipedia.org/wiki/Vishvamitra",
+    "churning": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+    "gopashtami": "https://en.wikipedia.org/wiki/Gopashtami",
+    "bhishma": "https://en.wikipedia.org/wiki/Bhishma"
+  },
+  "depth": "full",
+  "palette": { "c1": "#F7EDDC", "c2": "#EBCFCB" },
+  "order": 500
+}

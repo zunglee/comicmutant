@@ -1,0 +1,320 @@
+{
+  "slug": "timeslip",
+  "name": "Timeslip",
+  "realName": "Rina Patel",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A young Indian-heritage mutant who joined Marvel's New Warriors after visions of Speedball's death. She swaps her mind with past and future selves and can manipulate time.",
+  "origin": "Rina Patel is a college student who finds she can send her consciousness into past or future versions of herself. After a news report about the New Warriors, she accidentally sends herself forward in time to a point where she is on the team. Later visions show Speedball dying, which sends her to find and warn the team; Hindsight designs her costume and gives her the name Timeslip.",
+  "creators": ["Evan Skolnick (writer)", "Patrick Zircher (artist)"],
+  "firstAppearance": {
+    "title": "New Warriors",
+    "issue": "#59",
+    "year": 1995
+  },
+  "powers": [
+    "Swaps her mind with her past and future selves",
+    "Time manipulation that can slow time or speed her up",
+    "Time travel",
+    "Superhuman strength, durability and speed"
+  ],
+  "affiliations": ["New Warriors", "C.R.A.D.L.E.", "Secret Avengers"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1995",
+      "title": "Warnings of a death",
+      "beat": "She seeks out the New Warriors to warn them that she has seen Speedball die; Hindsight dubs her Timeslip and helps her gain the team's attention."
+    },
+    {
+      "era": "Future Shock",
+      "years": "1996",
+      "title": "Speedball's fate",
+      "beat": "Advent kills every other Warrior and the Sphinx kills the Speedball she foresaw, who turns out to be a stand-in; Rina joins the team and helps stop Advent in 1996."
+    },
+    {
+      "era": "Finale",
+      "years": "1996",
+      "title": "Volx and the power bomb",
+      "beat": "She helps the Warriors stop the Dire Wraith queen Volx from detonating a device that would strip heroes' powers, and loses her own in the blast."
+    },
+    {
+      "era": "Civil War",
+      "years": "2006",
+      "title": "Outed online",
+      "beat": "After Stamford, her secret identity and address are posted online and she is chased by an angry mob, her powers apparently restored."
+    },
+    {
+      "era": "Aftermath",
+      "years": "2006 onward",
+      "title": "Registered hero",
+      "beat": "She is one of the registered heroes of the Initiative, and later appears in C.R.A.D.L.E. during the Outlawed storyline."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "gossip",
+      "text": "Hindsight, the friend who named her, first believed her future-visions and paid for her costume with Avengers money.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Speedball thought she was just a pushy fan and refused to take her warnings seriously at first.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "In Champions #2 (2020) the grown-up Timeslip works beside C.R.A.D.L.E. troops, the agency enforcing a law against teen heroes.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Timeslip's origin is simple time travel.",
+      "truth": "She swaps her consciousness with past and future selves, and her body travels only later.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The 2006 Official Handbook gives her birthplace as Palo Alto, California, while her family heritage is Indian.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hero's death does Rina foresee in her debut story?",
+      "options": ["Night Thrasher", "Speedball", "Firestar", "Namorita"],
+      "answer": 1,
+      "why": "Her visions show Speedball dying, so she seeks out the team."
+    },
+    {
+      "q": "Who designs Rina's costume and names her Timeslip?",
+      "options": ["Hindsight", "Advent", "Volx", "Sphinx"],
+      "answer": 0,
+      "why": "Carlton LaFroyge, called Hindsight, helps her get the team's attention."
+    },
+    {
+      "q": "What is Timeslip's main power?",
+      "options": [
+        "Shrinking to tiny size",
+        "Sending her mind into her past or future self",
+        "Turning invisible",
+        "Controlling fire"
+      ],
+      "answer": 1,
+      "why": "She swaps her consciousness with her past and future selves, and later learned to manipulate time."
+    },
+    {
+      "q": "How many minutes do the Warriors have in 2092 to save reality?",
+      "options": ["Two", "Seven", "Twenty", "Sixty"],
+      "answer": 1,
+      "why": "After Advent's attack they are sent to 2092 with seven minutes before reality is unmade."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#7e57c2",
+      "c2": "#231446",
+      "c3": "#80deea"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Yesterday and tomorrow, in one head."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+    "marvelDatabase": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+    "newWarriorsWiki": "https://en.wikipedia.org/wiki/New_Warriors",
+    "nw59": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_59",
+    "nw69": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_69",
+    "nw75": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_75",
+    "champions2": "https://marvel.fandom.com/wiki/Champions_Vol_4_2",
+    "shehulk8": "https://marvel.fandom.com/wiki/She-Hulk_Vol_2_8"
+  },
+  "timeline": [
+    {
+      "year": 1995,
+      "kind": "debut",
+      "title": "New Warriors #59",
+      "note": "Evan Skolnick and Patrick Zircher introduce her; she is the last member added before the series ends."
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Speedball arc",
+      "note": "Her visions of Speedball's death drive her to join the team; the Sphinx kills him in New Warriors #69."
+    },
+    {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Final issue",
+      "note": "The original New Warriors run ends at a double-sized #75."
+    },
+    {
+      "year": 2006,
+      "kind": "turn",
+      "title": "Civil War outing",
+      "note": "Her identity is exposed online after the Stamford incident."
+    },
+    {
+      "year": 2007,
+      "kind": "turn",
+      "title": "Initiative registrant",
+      "note": "Avengers: The Initiative #1 lists her among the 142 registered heroes."
+    },
+    {
+      "year": 2020,
+      "kind": "return",
+      "title": "C.R.A.D.L.E.",
+      "note": "She appears as a member during the Outlawed storyline."
+    }
+  ],
+  "facts": [
+    {
+      "text": "She found her power when she aimed her consciousness backwards, but it jumped forward to a day when she was already a New Warrior.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "She convinced Hindsight by shoving him out of the way of an oncoming truck, proof that her predictions were true.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "Villain Advent, a time traveller trying to reshape the future to his wish, ends up killing every New Warrior except Timeslip, leaving her as the last hope.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/New_Warriors",
+      "interest": 8
+    },
+    {
+      "text": "Instead of truly dying, the Warriors are sent to the year 2092 with seven minutes to save themselves before reality is erased.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/New_Warriors",
+      "interest": 8
+    },
+    {
+      "text": "Hindsight's website, called Destroy All Warriors, outed Rina, Debrii and finally himself, a trick to throw off suspicion, until She-Hulk and Iron Man's help let Justice and Rage uncover him.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Carlton_LaFroyge_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "When Darrion died, his memories passed into Rina's mind, so she learned what had really happened to the team's timeline.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "After the real Speedball returns from the kinetic dimension, he and Timeslip briefly become a couple, a twist given how he first treated her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Speedball_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "After the Stamford disaster, Hindsight, the friend who named her, turns on the Warriors and posts their secret identities and addresses online, which is how Rina ends up chased by an angry mob.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "The Speedball who dies was really Darrion Grobe, a time traveller who had secretly replaced the real hero since New Warriors #50 to stop his own father, the villain Advent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/New_Warriors",
+      "interest": 9
+    },
+    {
+      "text": "In the double-sized finale, New Warriors #75 in 1996, Rina slows time around Volx's power bomb to blunt it; the Dire Wraith queen's device would have stripped thousands of heroes, yet Rina still loses her own powers.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "In her debut issue, New Warriors #59 (on sale 28 March 1995, titled Radicals), Rina is only a supporting character: she sees the team on a TV news report and cannot work out why she has a vision of being one of them.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_59",
+      "interest": 8
+    },
+    {
+      "text": "CBR ranked Rina 6th in its 15 Amazing Asian Superheroes list, 7th among powerful time-travelling heroes and 10th among the most powerful New Warriors.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "The Marvel database calls her mind-swapping ability chronoskimming: she sends her awareness into earlier or later versions of herself, not her body.",
+      "kind": "powers",
+      "source": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "Marvel Database lists the Civil War-era Secret Avengers, the faction also called Team Cap or Blue Faction, among her former affiliations, besides the New Warriors and C.R.A.D.L.E.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "Both Wikipedia and the Marvel database file Rina under Hindu characters, which makes her one of Marvel's few heroes with a clear Indian-heritage background.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Timeslip_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "The issue where her visions come true, New Warriors #69 (February 1996), also guest-starred the Guardians of the Galaxy, billed as two of the era's boldest teams meeting to face a time threat.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_69",
+      "interest": 7
+    },
+    {
+      "text": "Hindsight, the first person to believe her visions, paid for her costume with money from the Avengers, according to the Marvel database.",
+      "kind": "origin",
+      "source": "https://marvel.fandom.com/wiki/Rina_Patel_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "In Champions #2 (2020) Timeslip arrives with C.R.A.D.L.E. troops and says she went back in time to before two teens got powers and removed those powers, a grim twist for a once-teen hero.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Champions_Vol_4_2",
+      "interest": 9
+    },
+    {
+      "text": "The last New Warriors issue, #75 (31 July 1996, Sweet Sorrow), carried letters from Skolnick and Zircher, the pair who created Rina, about their run on the series.",
+      "kind": "creator",
+      "source": "https://marvel.fandom.com/wiki/New_Warriors_Vol_1_75",
+      "interest": 7
+    },
+    {
+      "text": "In She-Hulk (vol. 2) #8, Civil Union (24 May 2006), the lawyer She-Hulk defends Justice and Rage against the Destroy All Warriors site that exposed ex-Warriors like Rina.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/She-Hulk_Vol_2_8",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Rina Patel is a college student whose mind can slip into her own past and future selves. After she sees a vision of the hero Speedball in danger, she rushes to the New Warriors to warn them and ends up joining the team.",
+  "story": [
+    {
+      "title": "A mind that slips",
+      "text": "Rina discovers she can send her thoughts into her past or future self. One day she aims backwards but lands forward, in a day when she is already a New Warrior."
+    },
+    {
+      "title": "A warning nobody wants",
+      "text": "She sees Speedball in danger and tries to warn him, but he thinks she is just an overeager fan. Only her friend Hindsight believes her, after she pushes him out of the way of a truck."
+    },
+    {
+      "title": "Timeslip",
+      "text": "Hindsight designs her costume and names her Timeslip, and the New Warriors let her stay close while they try to change the future."
+    },
+    {
+      "title": "The truth about Speedball",
+      "text": "The Speedball who falls was really Darrion, a time traveller trying to stop his own father, the villain Advent. With Rina's help the team saves the future."
+    },
+    {
+      "title": "Time and the bomb",
+      "text": "In the final issue Rina slows time around a bomb that would strip heroes of their powers. It costs her own powers, but it protects many others."
+    }
+  ]
+}

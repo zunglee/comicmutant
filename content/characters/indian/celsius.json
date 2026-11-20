@@ -1,0 +1,345 @@
+{
+  "slug": "celsius",
+  "name": "Celsius",
+  "realName": "Arani Desai (Arani Caulder)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "DC's Indian-heritage Doom Patrol hero, a fire-and-ice martial artist who debuted in 1977. Her story ties to the Chief's immortality serum, her father's hellish portal and a Black Lantern return.",
+  "origin": "Arani Desai was born into a wealthy Indian family and fled after her father Ashok went insane. In one account Niles Caulder rescued her, gave her an immortality serum and left her in the Himalayas, where monks trained her. The serum lets her control her core temperature: fire from the left hand, ice from the right. She later rebuilt the Doom Patrol to protect herself from General Immortus.",
+  "creators": ["Paul Kupperberg (writer)", "Joe Staton (artist)"],
+  "firstAppearance": {
+    "title": "Showcase",
+    "issue": "#94",
+    "year": 1977
+  },
+  "powers": [
+    "Fire from her left hand",
+    "Ice from her right hand",
+    "Control of her core temperature",
+    "Superior martial arts",
+    "Minor mystical knowledge",
+    "Long life through an immortality serum"
+  ],
+  "affiliations": ["Doom Patrol", "Black Lantern Corps (temporarily)", "The Doomed"],
+  "storyline": [
+    {
+      "era": "Showcase",
+      "years": "1977",
+      "title": "The Doom Patrol lives on",
+      "beat": "Celsius re-forms the team in Showcase #94-96 to protect herself from General Immortus, with Robotman, Negative Woman and Tempest."
+    },
+    {
+      "era": "Doom Patrol relaunch",
+      "years": "1987",
+      "title": "Her father's portal",
+      "beat": "Her father Ashok, bound up with the immortality serum, seeks Kali Yuga; Celsius injures him and his demons drag him into their realm."
+    },
+    {
+      "era": "Invasion!",
+      "years": "1988-1989",
+      "title": "A sacrificial death",
+      "beat": "She dies crippling a Gil'Dishpan battle cruiser to save her teammates during the combined alien invasion of Earth."
+    },
+    {
+      "era": "Blackest Night",
+      "years": "2009-2010",
+      "title": "Black Lantern",
+      "beat": "A black ring resurrects her as a Black Lantern and its memory download seems to confirm her marriage to Niles Caulder."
+    },
+    {
+      "era": "New 52",
+      "years": "2013",
+      "title": "Back in a new world",
+      "beat": "After the New 52 relaunch, Justice League vol. 2 #24 shows a Doom Patrol like the 1977 team, with Celsius in it."
+    },
+    {
+      "era": "Forever Evil",
+      "years": "2014",
+      "title": "Presumed dead",
+      "beat": "She and Joshua Clay are presumed killed during Forever Evil; Lex Luthor later reveals they faked their deaths to escape the Chief."
+    },
+    {
+      "era": "Doomsday Clock",
+      "years": "2018",
+      "title": "Leader of the Doomed",
+      "beat": "Doomsday Clock #5 shows her as leader of the Doomed, India's sanctioned superhero team."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Joe Staton drew Celsius using National Geographic photographs of India for reference.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Madhur Jaffrey, the celebrated food writer and actor, played the older Arani on the Doom Patrol TV series.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Kupperberg later said he was not proud of the 1977 Doom Patrol relaunch, which never got its own series.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "The 1977 Doom Patrol relaunch was partly inspired by the multinational, all-new X-Men team.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Her first run lasted only three Showcase issues, but she has been revived repeatedly since.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which hand does Celsius use to fire ice?",
+      "options": ["Left hand", "Right hand", "Both hands", "Her feet"],
+      "answer": 1,
+      "why": "Her right hand projects ice, while her left hand projects fire."
+    },
+    {
+      "q": "In which comic did Celsius debut?",
+      "options": ["Showcase #94", "Doom Patrol #1", "Justice League #1", "Action Comics #1"],
+      "answer": 0,
+      "why": "Showcase #94 introduced her in 1977."
+    },
+    {
+      "q": "Who played the older Arani on TV?",
+      "options": ["Madhur Jaffrey", "Priyanka Chopra", "Nandita Das", "Shabana Azmi"],
+      "answer": 0,
+      "why": "Madhur Jaffrey played the older version in Doom Patrol."
+    },
+    {
+      "q": "Which Indian team does Celsius lead in Doomsday Clock?",
+      "options": ["The Doomed", "Justice Bharat", "The Avengers India", "The Seven"],
+      "answer": 0,
+      "why": "Celsius leads the Doomed, India's sanctioned team, in Doomsday Clock #5 (2018)."
+    },
+    {
+      "q": "What name does Celsius's father take as a villain?",
+      "options": ["Kalki", "Immortus", "Mr. Nobody", "Tempest"],
+      "answer": 0,
+      "why": "Her father appears as the mad scientist Kalki in Doom Patrol vol. 2 #1 (1987)."
+    },
+    {
+      "q": "Which villain tried to steal her immortality formula?",
+      "options": ["General Immortus", "Mr. Nobody", "Kalki", "Black Hand"],
+      "answer": 0,
+      "why": "General Immortus used a mind probe, but the formula backfired because it was tailored to her."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e8590c",
+      "c2": "#1971c2",
+      "c3": "#e7f5ff"
+    },
+    "motif": "flame",
+    "mood": "dark",
+    "tagline": "Fire in one hand, frost in the other."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Celsius_(character)",
+    "doom_patrol": "https://en.wikipedia.org/wiki/Doom_Patrol",
+    "dcuguide": "https://dcuguide.com/Celsius_(Arani_Desai-Caulder)",
+    "jaffrey": "https://en.wikipedia.org/wiki/Madhur_Jaffrey"
+  },
+  "timeline": [
+    {
+      "year": 1977,
+      "kind": "debut",
+      "title": "Showcase #94",
+      "note": "Kupperberg and Staton introduce Celsius in a relaunched Doom Patrol team."
+    },
+    {
+      "year": 1987,
+      "kind": "comic",
+      "title": "Doom Patrol relaunch",
+      "note": "Her father's portal storyline appears in Doom Patrol vol. 2 #1 and #3."
+    },
+    {
+      "year": 1989,
+      "kind": "death",
+      "title": "Invasion! sacrifice",
+      "note": "She dies stopping an alien battle cruiser during the Invasion! crossover."
+    },
+    {
+      "year": 2010,
+      "kind": "return",
+      "title": "Black Lantern",
+      "note": "Blackest Night resurrects her as a Black Lantern."
+    },
+    {
+      "year": 2013,
+      "kind": "return",
+      "title": "Back after the New 52",
+      "note": "Justice League vol. 2 #24 briefly shows a Doom Patrol like the 1977 team, with Celsius in it."
+    },
+    {
+      "year": 2014,
+      "kind": "turn",
+      "title": "Forever Evil",
+      "note": "Celsius and Joshua Clay are presumed killed in the Forever Evil storyline; a later story reveals they faked their deaths."
+    },
+    {
+      "year": 2018,
+      "kind": "return",
+      "title": "Leader of the Doomed",
+      "note": "Doomsday Clock #5 (May 2018) is cited for her leading the Doomed, India's sanctioned team."
+    },
+    {
+      "year": 2019,
+      "kind": "screen",
+      "title": "Doom Patrol TV",
+      "note": "Jasmine Kaur and Madhur Jaffrey play young and older Arani in the series."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Kupperberg wanted heroes of different nationalities, inspired by the all-new X-Men, so Celsius joined Robotman, Negative Woman and Tempest, a Vietnam veteran who fires energy blasts.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Joe Staton used National Geographic photographs of India as reference for how Celsius looks.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 8
+    },
+    {
+      "text": "She is among the few superheroes of Indian heritage and may be the first created by DC, though sources are not firm on that 'first'.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Celsius controls her core temperature, firing fire from her left hand and ice from her right.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 8
+    },
+    {
+      "text": "In the 1977 story she is introduced as the unseen wife of the Doom Patrol's chief, Niles Caulder, and re-forms the team to protect herself from General Immortus.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 7
+    },
+    {
+      "text": "When Immortus used a mind probe to steal the serum formula it backfired, because the formula was tailored to her own metabolism.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 8
+    },
+    {
+      "text": "Her father, Ashok Desai, helped develop the serum, tested an early version on himself and became a living portal to a hell-like realm, according to her backstory.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 9
+    },
+    {
+      "text": "Ashok tried to bring about Kali Yuga, but Celsius injured him and his demons dragged him back through the portal in Doom Patrol vol. 2 #1 and #3 (1987).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In Doom Patrol vol. 2 #1 (October 1987) her father appears as an aging mad scientist who has taken the name Kalki and who once employed a young Niles Caulder.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 7
+    },
+    {
+      "text": "When the Chief returned he dismissed her marriage story as false, but Grant Morrison's run (issue #57) revealed he had lied, out of anger over how his experiments had affected her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 8
+    },
+    {
+      "text": "During the Invasion! crossover she died stopping a Gil'Dishpan alien battle cruiser from leaving the Arctic Circle, crippling it before its engines killed her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 9
+    },
+    {
+      "text": "In Blackest Night a black ring copied her memories into a Black Lantern body, and those memories seemed to back up her claim of being Caulder's wife.",
+      "kind": "story",
+      "source": "https://dcuguide.com/Celsius_(Arani_Desai-Caulder)",
+      "interest": 7
+    },
+    {
+      "text": "Doomsday Clock #5 (May 2018) is cited for Celsius leading the Doomed, which Wikipedia calls India's sanctioned superhero team.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In Forever Evil, Celsius and Joshua Clay were presumed killed in the clash with Johnny Quick and Atomica. Lex Luthor later reveals they faked their deaths to escape the Chief, and the new Doom Patrol debuts in Justice League vol. 2 #30.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 8
+    },
+    {
+      "text": "On TV, Jasmine Kaur plays young Arani and Madhur Jaffrey the older one in the episode Doom Patrol Patrol, where a 1950s team that includes her is beaten by Mr. Nobody and left badly hurt in mind.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In one account, Niles Caulder gave Arani an immortality serum on their wedding day and then left her in the Himalayas while he dodged General Immortus; only later did she realise it also gave her control of her body heat.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Celsius_(character)",
+      "interest": 8
+    },
+    {
+      "text": "DCU Guide gives her debut, Showcase #94, the title The Doom Patrol Lives Forever, a name that signals the team was being revived.",
+      "kind": "publishing",
+      "source": "https://dcuguide.com/Celsius_(Arani_Desai-Caulder)",
+      "interest": 7
+    },
+    {
+      "text": "When Grant Morrison took over the Doom Patrol, Paul Kupperberg, who had created Celsius, agreed to write out characters Morrison did not want, and she was one of them.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 8
+    },
+    {
+      "text": "Madhur Jaffrey, who plays the older Arani on TV, nearly failed domestic science at school and taught herself to cook from recipes her mother mailed to London, then became a James Beard Award-winning cookbook author.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Madhur_Jaffrey",
+      "interest": 8
+    },
+    {
+      "text": "After the New 52 reboot, Justice League vol. 2 #24 (December 2013) showed a Doom Patrol modelled on Kupperberg's 1977 lineup, with Celsius back in it.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Doom_Patrol",
+      "interest": 7
+    }
+  ],
+  "heat": 30,
+  "kidSummary": "Celsius is Arani Desai, a martial artist from the DC Comics team the Doom Patrol. A special serum lets her control her body heat, so she shoots fire from one hand and ice from the other. She first appeared in 1977 and is one of the few DC heroes with Indian roots.",
+  "story": [
+    {
+      "title": "A new team",
+      "text": "In 1977 Celsius gathers a fresh Doom Patrol with Robotman, Negative Woman and Tempest to protect herself from the villain General Immortus."
+    },
+    {
+      "title": "Fire and ice",
+      "text": "A serum lets her control her body heat, with fire from her left hand and ice from her right. Monks in the Himalayas trained her in martial arts."
+    },
+    {
+      "title": "A hard choice",
+      "text": "During the Invasion! crossover in the late 1980s she stops an alien battle cruiser and gives her life to save her teammates."
+    },
+    {
+      "title": "Back again",
+      "text": "Later stories bring her back, first as a Black Lantern, then after the New 52 relaunch, and in 2018 she is shown leading a team called the Doomed."
+    }
+  ]
+}

@@ -1,0 +1,254 @@
+{
+  "slug": "abhimanyu",
+  "name": "Abhimanyu",
+  "aka": ["Saubhadra", "Arjunapara", "Janmavira"],
+  "native": "अभिमन्यु",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Young Pandava warrior, son of Arjuna and Subhadra",
+  "summary": "In the Mahabharata, Abhimanyu is the teenage son of Arjuna and Subhadra, remembered for bravely entering the chakravyuha formation on the thirteenth day of the Kurukshetra War.",
+  "about": "In the Mahabharata, Abhimanyu is the son of Arjuna and Subhadra, Krishna's sister. The Adi Parva says he is Varchas, the moon god Soma's son, born on earth by agreement for a short life. He grows up in Dvaraka, trained by Balarama, Krishna and his cousin Pradyumna, and marries Uttara, the daughter of King Virata. In the war, Bhishma calls him an atiratha, a leader of chariot-warriors. On the thirteenth day, Arjuna is drawn away, and Abhimanyu enters the circular chakravyuha formation, which he knew how to enter. Many warriors then attack him together, and he falls. His unborn son Parikshit later becomes king. Folk tradition says he learned the entry method while still in the womb. Regional retellings such as the Telugu Sasirekha Parinayam and Javanese wayang add their own episodes.",
+  "kidSummary": "Abhimanyu is Arjuna's brave young son in the Mahabharata. Folk stories say he learned how to enter a tricky wheel-shaped army formation before he was even born. He went in to help his side, and people still remember his courage today.",
+  "story": [
+    {
+      "title": "A prince from Dvaraka",
+      "text": "In the Mahabharata, Abhimanyu grows up with his mother Subhadra in Dvaraka. His uncle Krishna, Balarama and cousin Pradyumna teach him to fight."
+    },
+    {
+      "title": "A wedding with Uttara",
+      "text": "When the Pandavas are in hiding, Arjuna teaches dance to the princess Uttara. He does not marry her himself but asks that his son Abhimanyu be her husband."
+    },
+    {
+      "title": "The wheel of soldiers",
+      "text": "On the thirteenth day of the war, the enemy forms the chakravyuha, a many-layered formation like a spiralling lotus. Only a few warriors know how to break it, and Abhimanyu is the one present."
+    },
+    {
+      "title": "Going in alone",
+      "text": "Arjuna is far away, so Abhimanyu goes into the formation to help his side. Folk tradition says he knew how to go in but had not heard how to get out."
+    },
+    {
+      "title": "His courage is remembered",
+      "text": "Many warriors attack him together, and he falls. The epic remembers his bravery, and his son Parikshit, born after, becomes the next king."
+    }
+  ],
+  "teaches": [
+    "Courage, even when odds are hard",
+    "Fair play matters, even in war",
+    "Learn well and listen to the whole lesson"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Chakravyuha (wheel formation)", "Chariot wheel in the last fight"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Subhadra",
+      "slug": "subhadra"
+    },
+    {
+      "relation": "Wife",
+      "name": "Uttara",
+      "slug": "uttara"
+    },
+    {
+      "relation": "Son",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    },
+    {
+      "relation": "Uncle and teacher",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Cousin and teacher",
+      "name": "Pradyumna",
+      "slug": "pradyumna"
+    }
+  ],
+  "texts": ["Mahabharata (Drona Parva)", "Sasirekha Parinayam", "Javanese wayang"],
+  "places": ["Dvaraka", "Upaplavya", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the epic, the gods ask Soma, the moon god, to send his son Varchas to be born as Abhimanyu. Soma agrees only if his son returns when he turns sixteen, and Abhimanyu was killed at sixteen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 9
+    },
+    {
+      "text": "Only four warriors on the Pandava side knew how to enter the chakravyuha: Abhimanyu, Arjuna, Krishna and Pradyumna. Only Abhimanyu was on the field when the Kauravas used it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 7
+    },
+    {
+      "text": "Later folk tradition says he learned the way into the chakravyuha in his mother's womb but fell asleep before the way out was told. In the epic he warned Yudhishthira he did not know the exit, and Yudhishthira promised the others would follow close behind.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The chakravyuha is also called the padmavyuha: chakra means wheel or disc, and padma means lotus, both describing how it looks from above.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As soon as Abhimanyu broke in, Jayadratha, using a boon from Shiva, held back the Pandavas following him and beat Bhima and Satyaki. On hearing of the boy's death, Arjuna vowed to kill Jayadratha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 7
+    },
+    {
+      "text": "In a fierce fight with Bhishma, the young Abhimanyu broke the flagstaff of Bhishma's chariot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In his last stand, he is said to have used a chariot wheel as a weapon before he fell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Telugu folktale Sasirekha Parinayam, Abhimanyu first marries Sasirekha, Balarama's daughter, and Ghatotkacha disguises himself as her to break Lakshmana's arm.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 8
+    },
+    {
+      "text": "In the wayang telling, he swore a false oath that he was unmarried, promising to die beaten by his enemies if he lied. It says that oath is why he fell bristling with weapons, like a hedgehog.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "Even with weapons stuck all over his body, the wayang Abimanyu is said to have killed Duryodhana's son Lesmana with a thrown kris, before Jayadrata's mace finally felled him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "In separate duels inside the formation, the epic has him beat Drona, Karna and Duryodhana one by one, so the Kaurava warriors then attacked him together, which broke the rules of war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "Abhimanyu means one with self-respect, and can also be read as heroic or fiery. The epic calls him Saubhadra (son of Subhadra), Arjunapara (equal to Arjuna) and Janmavira (brave from birth).",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Intricate stone carvings show Abhimanyu entering the chakravyuha.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A folio showing the chakravyuha scene comes from the Razmnama, a Mughal-era Persian version of the Mahabharata, and is credited to the artists Daswanth and Tara.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 7
+    },
+    {
+      "text": "It has been noted that the skills used to break into the chakravyuha likely connect to those in traditional Indian games such as kabaddi and kho-kho.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "By the time Abhimanyu had broken through the sixth of the seven tiers, all the Kaurava commanders attacked him at once, which went against the rules of fair fighting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chakravyuha",
+      "interest": 8
+    },
+    {
+      "text": "Among those Abhimanyu cut down was Lakshmana, Duryodhana's own son, and Duryodhana's fury led him to tell Drona to change the plan.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "In Javanese wayang, Abimanyu is shown as gentle, honest and brave, also known as Angkawijaya, and is said to hold two divine revelations, Hidayat and Makutha Raja.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the wayang telling, only three Pandava knights had mastered the battle strategy, Bima, Arjuna and Abimanyu, and the others were lured away, leaving him as the one the Pandavas relied on.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    },
+    {
+      "text": "Abhimanyu has been played on screen since the 1946 film Uttara Abhimanyu. Akkineni Nageswara Rao and Gemini Ganesan took the role in the Telugu and Tamil versions of Mayabazar (1957), and Mayur Verma in B. R. Chopra's 1988 serial.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the formation Abhimanyu entered on the thirteenth day called?",
+      "options": ["Chakravyuha", "Garuda vyuha", "Vajra vyuha", "Makara vyuha"],
+      "answer": 0,
+      "why": "The chakravyuha, also called padmavyuha, is the wheel or lotus-shaped formation."
+    },
+    {
+      "q": "According to folk tradition, when did Abhimanyu learn how to enter the formation?",
+      "options": [
+        "From a book",
+        "In a dream at sea",
+        "While still in the womb",
+        "From his cousin only"
+      ],
+      "answer": 2,
+      "why": "Later tradition says he heard the way in before birth but not the way out."
+    },
+    {
+      "q": "Who is Abhimanyu's mother?",
+      "options": ["Draupadi", "Kunti", "Uttara", "Subhadra"],
+      "answer": 3,
+      "why": "Subhadra, Krishna's sister, is his mother; his epithet Saubhadra comes from her name."
+    },
+    {
+      "q": "Who was Abhimanyu's son, born after his death?",
+      "options": ["Parikshit", "Ghatotkacha", "Babruvahana", "Iravan"],
+      "answer": 0,
+      "why": "Parikshit, born to Uttara after Abhimanyu died, became ruler of Hastinapura."
+    }
+  ],
+  "related": ["arjuna", "subhadra", "uttara", "parikshit", "krishna", "ghatotkacha", "pradyumna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhimanyu",
+    "chakravyuha": "https://en.wikipedia.org/wiki/Chakravyuha",
+    "kurukshetra": "https://en.wikipedia.org/wiki/Kurukshetra_War"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8cfa0",
+    "c2": "#b7c9a8"
+  },
+  "order": 23
+}

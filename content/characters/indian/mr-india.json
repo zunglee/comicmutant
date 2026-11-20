@@ -43,7 +43,7 @@
       "era": "Tragedy",
       "years": "1987",
       "title": "Mogambo strikes back",
-      "beat": "To lure Mr. India out, Mogambo plants bombs around the country. One, disguised as a toy, kills a little girl from the orphanage."
+      "beat": "To lure Mr. India out, Mogambo plants bombs around the country. One of them, hidden inside a toy, brings heartbreak to the orphanage."
     },
     {
       "era": "Finale",
@@ -55,7 +55,7 @@
   "gossip": [
     {
       "type": "gossip",
-      "text": "Salim–Javed wrote the hero with Rajesh Khanna in mind, then offered it to Amitabh Bachchan, who reportedly didn't want to play a hero you can't see. The row helped end their partnership, so this was the duo's last film.",
+      "text": "Several publications said the story borrowed from sci-fi films Mr. X (1957) and Mr. X in Bombay (1964). Kapur denied it, saying he never even found copies of them.",
       "spice": 3
     },
     {
@@ -65,13 +65,8 @@
     },
     {
       "type": "fact",
-      "text": "Filming started in July 1985 and took 350 days.",
+      "text": "Filming started on 6 July 1985 and took 350 days.",
       "spice": 1
-    },
-    {
-      "type": "fact",
-      "text": "The effects were made before digital VFX, using masking and in-camera tricks supervised by Peter Pereira.",
-      "spice": 2
     },
     {
       "type": "fact",
@@ -141,5 +136,134 @@
       "note": "The London Indian Film Festival screens the film in honour of Sridevi after her death that February."
     }
   ],
-  "heat": 65
+  "heat": 65,
+  "facts": [
+    {
+      "text": "The device fails on red. Under red light or through red glass Arun shows up, and for the red-glass scene he was filmed normally with black paper over the lower frame and a red filter on the lens, then merged with the glass footage.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Kapur reportedly got just ₹10,000 to direct, while Salim–Javed were paid ₹70,000 for story and screenplay.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Satish Kaushik's character Calendar got his name from a dealer who kept using that word, a habit Kaushik heard about from his Delhi-salesman father.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Peter Pereira's team made Arun's footprints with stop-motion and his vanishing with mechanical tricks, since there was no digital VFX in 1987.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Salim–Javed wrote the hero for Rajesh Khanna, then offered it to Amitabh Bachchan, who reportedly asked why an invisible man needed him. The duo took it as an insult and split, and Salim Khan later said he never said they would quit.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mogambo's line 'Mogambo khush hua' nearly got cut. Kapur wanted several repeats of it trimmed because it came up too often, but Javed Akhtar argued the audience would love it, and it became one of Hindi cinema's best-known lines.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Shekhar Kapur was a comic-book fan who always wanted to make a superhero film and had written several comics himself, including Devi, Snakewoman and The Warlord.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Trade analysts raved so much about Sridevi's performance that some suggested the film's title be changed to Miss India.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Sridevi's scenes dressed as Charlie Chaplin's Tramp took 30 to 35 days to film. She later called them her all-time favourite, and said the crew loved her in the costume.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Anupam Kher was first offered Mogambo, but after his screen test the team thought he looked more funny than fierce. Amrish Puri got the part because his menacing presence suited it.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "To play Mogambo, Amrish Puri was told by Kapur to act like a Shakespearean character talking to a nine-year-old child, which is why the villain is grand and scary but still fun.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Mogambo's look was a blond wig and garish knee-high silver boots, a costume that a Times of India writer said had audiences thrilled every time Amrish Puri glared at the camera.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "The Encyclopaedia of Hindi Cinema said Mogambo's over-the-top villainy seems inspired by the eccentricities of James Bond villains.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Filmfare named Mogambo the second-most iconic villain in Indian cinema in 2013, and Film Companion, Filmfare and NDTV all listed his catchphrase among famous lines.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "A Filmfare writer joked that Mogambo could drop you into an acid tank with the press of a single button, then sign off with his catchphrase. His island lair also holds missiles.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Amrish Puri said Kapur wanted a comic-book villain, not a scary one, and that playing a bad man children loved was great fun.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+      "interest": 8
+    },
+    {
+      "text": "Seema goes undercover as a Hawaiian dancer called Hawa Hawaii to sneak into a party thrown by Mogambo's henchman Daga, until she is caught and rescued by Mr. India.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mr. India is called the first mainstream Bollywood science-fiction film, and one critic said it opened the gates to the idea of a superhero for Indian cinema.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Shekhar Kapur picked up the nickname the Steven Spielberg of India, reported by the Glasgow Times, partly because of this film.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Arun looks after ten orphans in the film. Ahmed Khan, who later became a choreographer, and Aftab Shivdasani, who later became an actor, are both listed among the child cast.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Puri's son Rajeev said the actor was asked to say 'Mogambo khush hua' at every award function he attended, and he was offered similar villain roles afterwards.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Arun Verma is a poor violinist who looks after orphans. When he finds his father's invisibility device, he becomes Mr. India and stops the villain Mogambo. Red light is his one weakness."
 }

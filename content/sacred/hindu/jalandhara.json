@@ -1,0 +1,273 @@
+{
+  "slug": "jalandhara",
+  "name": "Jalandhara",
+  "aka": ["Chalantarana", "Jalandhar"],
+  "native": "जलंधर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura emperor born from Shiva's energy in the sea",
+  "summary": "In the Puranas, Jalandhara is an asura emperor born from the fire of Shiva's third eye in the ocean. His devoted wife Vrinda protected him, and the stories explain the tulsi plant's sacred place.",
+  "about": "Jalandhara is an asura emperor in the Puranas, including the Padma, Shiva and Skanda Puranas. Many versions say he was born when energy from Shiva's third eye fell into the ocean and took the form of a crying boy. Brahma foretold that he would rule the asuras and could be slain only by Shiva. He was raised by Varuna and later by Shukra, married Vrinda, and ruled with justice. When the devas refused to return the treasures of the ocean, war followed, and the god Vishnu came to fight, admired his courage and agreed to stay in his city. Later Jalandhara sent Rahu to Shiva to demand Parvati, which led to a final battle. According to these texts, Vrinda's faithfulness protected him until Vishnu used a trick, after which Shiva defeated him. Vrinda is linked to the sacred tulsi plant.",
+  "kidSummary": "Jalandhara is an asura king in the Puranas who was born from a spark of Shiva's energy in the sea. He ruled the asuras fairly, and his wife Vrinda was famous for her faithfulness. After a long struggle with the devas, he met Shiva in battle. Vrinda is remembered in the holy tulsi plant, which many families keep at home.",
+  "story": [
+    {
+      "title": "A spark in the ocean",
+      "text": "In the Puranas, a burst of Shiva's energy flew into the sea and became a baby. Brahma said the child would become the asura emperor and that only Shiva could defeat him."
+    },
+    {
+      "title": "Emperor of the asuras",
+      "text": "The sea god Varuna and the teacher Shukra raised him. Jalandhara grew strong and married Vrinda, a devoted wife, and became emperor of the asuras."
+    },
+    {
+      "title": "A war over treasures",
+      "text": "Jalandhara wanted back the ocean's treasures that the devas had kept. Indra refused. In the long war Vishnu came to fight, admired his courage and promised to stay in his city."
+    },
+    {
+      "title": "The challenge to Shiva",
+      "text": "In some tellings Narada described Parvati so grandly that Jalandhara sent Rahu to ask for her. Shiva was angered, and the final battle began."
+    },
+    {
+      "title": "Vrinda and the tulsi",
+      "text": "Vrinda's faithfulness kept Jalandhara safe until Vishnu used a trick. In one telling Vrinda gave up her life, many people remember her in the tulsi plant, and Shiva ended the war."
+    }
+  ],
+  "teaches": [
+    "Pride and desire can lead even the strong into trouble",
+    "Faithfulness and devotion are lasting values",
+    "Even a fierce enemy can be admired for courage"
+  ],
+  "symbol": "wave",
+  "emblems": ["Ocean wave", "Tulsi leaf"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Vrinda",
+      "slug": "tulsi"
+    },
+    {
+      "relation": "Fosterer",
+      "name": "Varuna",
+      "slug": "varuna"
+    },
+    {
+      "relation": "Guru",
+      "name": "Shukracharya",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Padma Purana", "Shiva Purana", "Skanda Purana"],
+  "places": ["Jalandhar, Punjab", "Mount Drona (in the story)"],
+  "festivals": ["Tulsi Vivah"],
+  "facts": [
+    {
+      "text": "His Sanskrit name means the one who holds water. His other name, Chalantarana, means the one who walks and swims.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, Indra threatened a yogi who was Shiva in disguise. Shiva's third eye opened, and he sent its fire into the ocean rather than at Indra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Brahma also said that, when Jalandhara died, his energy would return to Shiva's third eye, so the story starts and ends with Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7
+    },
+    {
+      "text": "As a child he is said to have flown over the ocean on the wind and kept lions as pets.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jalandhara married Vrinda, daughter of the asura Kalanemi. In the Puranic telling he ruled so well that nobody in his realm was sick or thin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7
+    },
+    {
+      "text": "Shukra revived fallen asuras while Brihaspati revived devas with herbs from Mount Drona; on Shukra's advice Jalandhara hurled the mountain into the sea so the herbs were lost.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The newborn boy in the ocean cried so loudly that Brahma came down, and even the ocean said it did not know where the child had come from.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jalandhara asked his brother-in-law Vishnu to live in his city with his followers and his wife Lakshmi, and without Vishnu's help the devas were beaten.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Tulasi Vivaha tradition, people believe Vrinda's soul rests in the tulsi plant at night and leaves it in the morning.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one version, Jalandhara sent Rahu to Shiva with a demand for Parvati. Shiva's anger produced a lion-faced creature that nearly swallowed Rahu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "That creature is Kirtimukha, glorious face. Shiva told it to feed on human selfishness, greed and attachment, named it, and set its face above temple doorways, where you can still see it.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kirtimukha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The same glorious-face motif, called kala-makara in Java, shows on a 9th-century portal at Borobudur and on Khmer lintels at Angkor, far from India.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kirtimukha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the end Shiva beheaded Jalandhara with a discus made from his toe, and Jalandhara's soul merged with Shiva, just as Vrinda's had merged with Parvati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana telling, Vrinda cursed Vishnu that his own wife would one day be taken from him, as in the Ramayana when Sita is parted from Rama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In popular tradition Vishnu, in the form of a shaligram stone, weds Tulasi on Prabodhini Ekadashi, which is the origin of the Tulsi Vivah ceremony.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jalandhar city in Punjab may take its name from the asura, from a Nath guru named Jalandhara, or from a word for the land between the Sutlej and Beas; its origin is uncertain.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jalandhar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda, Padma and Shiva Puranas, Vrinda's devotion and fidelity gave Jalandhara a power that made him invincible even to the gods, so the whole story turns on her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Tulasi Vivaha telling, Vrinda dreams of her husband seated on a buffalo, and walks in a park to calm herself, where two rakshasas frighten her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Vaishnava tradition links Tulasi to the churning of the ocean: when Dhanvantari rose with amrita, Vishnu's first happy tear fell into it and formed Tulasi, whom he married.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shiva Purana says Shukra told Jalandhara how Vishnu cut off Rahu's head at the churning of the ocean, and Jalandhara came to believe the devas had cheated his father Varuna of the sea's treasures.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jalandhara",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How did Jalandhara come to be, in the Puranas?",
+      "options": [
+        "From a lotus",
+        "From Shiva's third-eye energy in the ocean",
+        "From a mountain",
+        "From the sun"
+      ],
+      "answer": 1,
+      "why": "Shiva's energy fell into the ocean and became a boy."
+    },
+    {
+      "q": "Who was Jalandhara's wife?",
+      "options": ["Vrinda", "Sita", "Lakshmi", "Parvati"],
+      "answer": 0,
+      "why": "Vrinda was famous for her faithfulness."
+    },
+    {
+      "q": "What plant is Vrinda linked to?",
+      "options": ["Banyan", "Neem", "Tulsi", "Lotus"],
+      "answer": 2,
+      "why": "In popular tradition Vrinda is linked to the tulsi plant."
+    },
+    {
+      "q": "What is Kirtimukha?",
+      "options": ["A bow", "A lion-like face on temples", "A river", "A sword"],
+      "answer": 1,
+      "why": "It is the glorious face carved over temple doors."
+    },
+    {
+      "q": "Who did Jalandhara send to Shiva?",
+      "options": ["Hanuman", "Rahu", "Narada", "Garuda"],
+      "answer": 1,
+      "why": "He sent Rahu with a demand."
+    }
+  ],
+  "related": [
+    "shiva",
+    "vishnu",
+    "tulsi",
+    "parvati",
+    "rahu-and-ketu",
+    "shukracharya",
+    "varuna",
+    "indra",
+    "nandi",
+    "kartikeya"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jalandhara",
+    "kirtimukha": "https://en.wikipedia.org/wiki/Kirtimukha",
+    "tulsi-vivah": "https://en.wikipedia.org/wiki/Tulasi_Vivaha",
+    "shaligram": "https://en.wikipedia.org/wiki/Shaligram",
+    "city": "https://en.wikipedia.org/wiki/Jalandhar"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#B9D6E0",
+    "c2": "#E6DDB8"
+  },
+  "order": 503
+}

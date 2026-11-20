@@ -1,0 +1,188 @@
+{
+  "slug": "chandanbala",
+  "name": "Chandanbala",
+  "aka": ["Chandana", "Candanabala", "Vasumati"],
+  "native": "चंदनबाला",
+  "role": "First nun of Mahavira's order",
+  "years": "c. 6th-5th century BCE (traditional)",
+  "summary": "A princess who became a captive and then, Jains say, ended Mahavira's long fast by offering him a bowl of simple beans. She became the leader of his order of nuns.",
+  "about": "Jain tradition says Chandanbala was born Vasumati, daughter of King Dadhivahana of Champa. After war her family lost everything and she was sold as a slave. A merchant raised her as a daughter, but his jealous wife shaved her head, chained her and shut her away. Jain texts say Mahavira had vowed to accept food only if a long list of conditions was met, and Chandanbala met them all. After his fast ended, she became the first nun of his order. The Kalpa Sutra names her as head of the nuns, while Avashyaka texts and Hemachandra tell her story. Sources differ on details such as the food and her fate at the end of her life.",
+  "kidSummary": "Chandanbala was a princess who lost her home and was treated unkindly. Jain stories say Mahavira had a very special vow about whom he would take food from, and she was the one. Her kindness ended his fast, and she became the first Jain nun.",
+  "story": [
+    {
+      "title": "A princess in trouble",
+      "text": "Vasumati was a princess of Champa. After a war her kingdom fell and she was sold as a slave."
+    },
+    {
+      "title": "A kind merchant",
+      "text": "A merchant named Dhanavaha took her home and cared for her like a daughter. The family called her Chandanbala."
+    },
+    {
+      "title": "A jealous wife",
+      "text": "When the merchant was away, his wife Mula shaved Chandanbala's head, chained her feet and locked her in a room."
+    },
+    {
+      "title": "A bowl of beans",
+      "text": "The merchant found her and gave her the only food he could find, a pan of boiled beans. Before eating, she hoped to offer some to a visiting monk."
+    },
+    {
+      "title": "Mahavira's vow",
+      "text": "Mahavira had been fasting for months, waiting for someone who matched his vow. When she wept, he saw every condition met and took her gift."
+    },
+    {
+      "title": "A new path",
+      "text": "Jains say her chains fell away. She became the first nun of Mahavira's community and led its women monastics. One night her pupil Mrigavati saw a snake in the dark and moved her arm to safety, which led Chandanbala to full knowledge too."
+    }
+  ],
+  "teaches": [
+    "Kindness and faith can shine in hard times",
+    "Give food with respect",
+    "Forgive those who treated you badly"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Chains that fell away", "Bowl of beans", "Sandalwood (her name)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Dadhivahana"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Dharini"
+    },
+    {
+      "relation": "Guardian",
+      "name": "Dhanavaha"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Mahavira",
+      "slug": "mahavira"
+    }
+  ],
+  "texts": ["Kalpa Sutra", "Avashyaka Sutra", "Antakrid-dasha"],
+  "places": ["Champa", "Kaushambi", "Bihar"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Jainpedia says her name means hair like sandalwood. A camel trader had seized the princess and her mother in the war and put her up for sale as a slave.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/candanbala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mahavira had vowed to accept food only from a princess who was now a slave, with a shaved head and chains on her feet, one foot in and one out of the doorway, and tears in her eyes.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/literature/story05.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Jainworld telling, every condition was met except tears. Mahavira turned away, she wept, and he came back to accept the food.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "No one met his vow for five months and twenty-five days, and the people of Kaushambi were baffled: feeding the famed ascetic was an honour, yet he left every house with nothing. He accepted food from her in his eleventh year of penance.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition says Mahavira ate on only 349 days across 12 years of penance, often taking vows with very specific conditions.",
+      "kind": "history",
+      "source": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jainpedia says gods showered gold when he accepted her food. Her chains broke and her hair grew back, and her royal identity was revealed.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/candanbala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "That night Mrigavati saw a snake creeping toward the sleeping Chandanbala and lifted her arm out of its way. Asked how she could see in the dark, she said her omniscience had arisen. Chandanbala then became omniscient too.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216007.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Kalpa Sutra counts thirty-six thousand nuns in Mahavira's community, with Chandana, written Kandana there, at their head.",
+      "kind": "text",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2285.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's telling, the Sun and Moon came in their own aerial cars to honour Mahavira at Kaushambi. Their glow made Mrigavati think it was still day, so she stayed on after Chandana left and reached the lodging late.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216007.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Jainworld telling, Vasumati's father Dadhivahan lost a war with the king of Kaushambi. A soldier caught her and her mother, her mother died of shock, and the girl was taken away to be sold.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/literature/story05.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hemachandra has Mahavira list ten rare wonders that happen once in an immense span of time. The Sun and Moon's visit is one, and so is a woman Tirthankara, linked to Mallinatha.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216007.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Chandanbala's name before she was called Chandanbala?",
+      "options": ["Vasumati", "Trishala", "Brahmi", "Rajula"],
+      "answer": 0,
+      "why": "She was born Vasumati, a princess of Champa."
+    },
+    {
+      "q": "In one well-known telling, what was missing when Mahavira first turned away from her?",
+      "options": ["A basket", "Tears in her eyes", "A lamp", "Chains"],
+      "answer": 1,
+      "why": "All conditions were met except that she was not crying."
+    },
+    {
+      "q": "About how long was Mahavira's fast before he accepted her food?",
+      "options": ["Three days", "Two weeks", "Five months and 25 days", "Ten years"],
+      "answer": 2,
+      "why": "The fast lasted five months and twenty-five days."
+    },
+    {
+      "q": "What role did she take after Mahavira began his community?",
+      "options": ["Queen of Champa", "First nun and head of the nuns", "Merchant", "Court poet"],
+      "answer": 1,
+      "why": "She became the first nun and led the women's order."
+    }
+  ],
+  "related": ["mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahavira",
+    "jainpedia": "https://jainpedia.org/themes/people/women-in-the-jain-tradition/candanbala",
+    "jainworld": "https://jainworld.jainworld.com/literature/story05.htm",
+    "jainworld2": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+    "kalpasutra": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2285.htm",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc216007.html"
+  },
+  "palette": {
+    "c1": "#e8d0d8",
+    "c2": "#d4c99a"
+  },
+  "order": 604,
+  "tradition": "jain",
+  "group": "jain-figure",
+  "depth": "compact"
+}

@@ -1,0 +1,295 @@
+{
+  "name": "Vasudeva",
+  "aka": ["Anakadundubhi", "Anaka-Dundubhi"],
+  "native": "वसुदेव",
+  "role": "Yadava king and father of Krishna in the Puranas",
+  "summary": "Vasudeva, also called Anakadundubhi, is a king of the Vrishnis and the father of Krishna and Balarama in the Puranas. He is remembered for carrying the newborn Krishna across the Yamuna.",
+  "about": "The Bhagavata Purana, Vishnu Purana, Harivamsa and Mahabharata describe Vasudeva as a king of the Vrishnis, a clan of the Yadu line, born to Shurasena. His name Anakadundubhi is explained as the drums that sounded at his birth. His sisters include Kunti, mother of the Pandavas. His chief wife is Devaki, and he is also father of Balarama through Rohini. Subhadra is Rohini's daughter in the Mahabharata but Devaki's in the Bhagavata Purana. The texts say that after Kamsa imprisoned him, he carried the newborn Krishna to Gokul on a rainy night and brought back Yogamaya. Scholars note that in Vaishnavism the worshipped name Vasudeva usually means Krishna, not his father. The Heliodorus pillar, from about 113 BCE, honours his son under the name Vasudeva, as God of Gods.",
+  "kidSummary": "Vasudeva is the father who saved baby Krishna. On the night Krishna was born, he carried him in a basket through rain and across the Yamuna to a safe home in Gokul. He is remembered for his courage and for keeping a hard promise.",
+  "story": [
+    {
+      "title": "A hard promise",
+      "text": "Vasudeva is married to Devaki. When her brother Kamsa becomes angry at a warning, Vasudeva promises to hand over every child so that Devaki is safe."
+    },
+    {
+      "title": "The night of the birth",
+      "text": "In the Bhagavata Purana, Krishna is born in the prison. Vasudeva sees a divine child and gives away thousands of cows in his mind, then prays."
+    },
+    {
+      "title": "The doors that open",
+      "text": "The guards fall asleep and the locked doors open on their own. Vasudeva lifts baby Krishna and walks out into a rainstorm."
+    },
+    {
+      "title": "Across the Yamuna",
+      "text": "A great serpent, Shesha, spreads his hoods over them like an umbrella, and the Yamuna lets them cross. At Gokul, Vasudeva leaves Krishna with Yashoda and takes her baby girl."
+    },
+    {
+      "title": "Back in prison",
+      "text": "Vasudeva returns, places the girl beside Devaki and puts the shackles back on. The prison closes again and nobody knows."
+    }
+  ],
+  "teaches": [
+    "Courage to protect a child",
+    "Keeping a promise",
+    "Trust in a plan bigger than oneself"
+  ],
+  "symbol": "drum",
+  "emblems": ["Basket with baby Krishna", "Anaka and dundubhi drums"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Devaki",
+      "slug": "devaki"
+    },
+    {
+      "relation": "Son",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Son (by Rohini)",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Daughter (Rohini's or Devaki's)",
+      "name": "Subhadra",
+      "slug": "subhadra"
+    },
+    {
+      "relation": "Sister",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Sister's son",
+      "name": "Shishupala",
+      "slug": "shishupala"
+    },
+    {
+      "relation": "Friend or step-brother",
+      "name": "Nanda",
+      "slug": "nanda"
+    },
+    {
+      "relation": "Daughter's husband",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Harivamsa", "Vishnu Purana", "Brahma Purana", "Mahabharata"],
+  "places": ["Mathura", "Gokul", "Yamuna river"],
+  "festivals": ["Krishna Janmashtami"],
+  "facts": [
+    {
+      "text": "His second name Anakadundubhi is explained as the drums (anakas and dundubhis) played by heavenly musicians when he was born.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Vasudeva brought the first son, Kamsa returned him, saying he feared only the eighth child, though Vasudeva still did not trust him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/1/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, the iron-locked doors opened and the guards slept, and the serpent Ananta held his hoods over father and child in the rain.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Yamuna parted for Vasudeva, the text says, just as the ocean once yielded to Rama.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Kurukshetra, sages told Vasudeva how to be freed from karma. He held great sacrifices with them as priests and fed everyone, even the village dogs, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/84/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Mathura relief from about the 1st century CE shows Vasudeva carrying baby Krishna across the Yamuna, now at Gatashram Narayan Temple and the Mathura Museum.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Heliodorus pillar, from about 113 BCE, honours Vasudeva as God of Gods, meaning Vasudeva-Krishna, not the father. Locals once worshipped it as Khamba Baba under red paste; cleaning in 1909-10 revealed the Brahmi inscription.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Heliodorus_pillar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Retellings differ on his earlier birth: one says Varuna cursed sage Kashyapa over a divine cow, another that Brahma cursed him for taking a cow for a sacrifice. Aditi is Devaki in both; Rohini joins in the second.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Kamsa stayed deaf, Vasudeva promised him every son. The Bhagavata Purana says he reasoned that Kamsa might die first, or that one of the sons might end Kamsa's rule.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/1/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vasudeva's sisters were mothers of famous cousins: Kunti bore the Pandavas, Shrutasrava bore Shishupala and Shrutadeva bore Dantavakra. So both friends and foes of Krishna were his relatives.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some versions give Vasudeva another son, Paundraka, by a princess of Kashi. Paundraka later claimed the name Vasudeva for himself and copied Krishna's discus, mace and conch. The Vayu Purana makes him Vasudeva's son.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Paundraka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "While he carried the Lord within his mind before the birth, the Bhagavata Purana says Vasudeva shone as bright as the sun, so dazzling that even Kamsa could not approach him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/2/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Devaki's wedding her father Devaka gave a dowry of four hundred decorated elephants, ten thousand horses, eighteen hundred chariots and two hundred maidservants, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/1/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A short verse in the Mahanarayana Upanishad links Narayana, Vasudeva and Vishnu in one meditation prayer. Scholars date the text to the last centuries BCE or later, and the name Vasudeva there means Krishna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Kurukshetra Vasudeva took Nanda's hand and admitted that comfort had made the Yadavas neglect him. He wept as he remembered Nanda's friendship, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/84/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says Vasudeva's other wives, including Rohini, Balarama's foster-mother, lived quietly in Vraja near Nanda's home, since they feared what Kamsa might do to them.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/2/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the Yadavas' end, Pradyumna's grandson Vajra was crowned king of Mathura, and some surviving Yadavas moved south, according to the account of Vasudeva's descendants.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Seeing the divine newborn, Vasudeva mentally gave ten thousand cows to brahmins, recognised the child as Narayana, lost his fear and began to pray, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At his sons' sacred-thread ceremony, Vasudeva gave brahmins cows wearing gold necklaces and linen wreaths, and also gave the cows he had once offered only in thought, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mathura arena, the Bhagavata Purana says Devaki and Vasudeva grieved when they heard women fear for the two boys, for they did not yet know their sons' strength.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/44/",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who did Vasudeva carry across the Yamuna on a stormy night?",
+      "options": ["Balarama", "Baby Krishna", "Kamsa", "Hanuman"],
+      "answer": 1,
+      "why": "He carried newborn Krishna to Gokul."
+    },
+    {
+      "q": "What does the name Anakadundubhi refer to?",
+      "options": ["Drums at his birth", "A bow", "A river", "A cow"],
+      "answer": 0,
+      "why": "Heavenly musicians played anaka and dundubhi drums."
+    },
+    {
+      "q": "Who spread his hoods over Vasudeva and Krishna in the rain?",
+      "options": ["Kaliya", "Vasuki", "Ananta Shesha", "Airavata"],
+      "answer": 2,
+      "why": "Ananta Shesha sheltered them."
+    },
+    {
+      "q": "Which Pandava prince married Vasudeva's daughter Subhadra?",
+      "options": ["Bhima", "Yudhishthira", "Nakula", "Arjuna"],
+      "answer": 3,
+      "why": "Arjuna and Subhadra were the parents of Abhimanyu."
+    },
+    {
+      "q": "Vasudeva's sister Kunti was the mother of which famous brothers?",
+      "options": ["The Pandavas", "The Kauravas", "Kamsa's brothers", "The sons of Nanda"],
+      "answer": 0,
+      "why": "Kunti, Vasudeva's sister, was the mother of the Pandavas."
+    }
+  ],
+  "related": [
+    "devaki",
+    "krishna",
+    "balarama",
+    "nanda",
+    "kamsa",
+    "kunti",
+    "subhadra",
+    "yashoda",
+    "shishupala"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasudeva_(Krishna%27s_father)",
+    "bhagavata_1": "https://vedabase.io/en/library/sb/10/1/",
+    "bhagavata_3": "https://vedabase.io/en/library/sb/10/3/",
+    "bhagavata_5": "https://vedabase.io/en/library/sb/10/5/",
+    "bhagavata_8": "https://vedabase.io/en/library/sb/10/8/",
+    "heliodorus": "https://en.wikipedia.org/wiki/Heliodorus_pillar",
+    "bhagavata_45": "https://vedabase.io/en/library/sb/10/45/",
+    "bhagavata_82": "https://vedabase.io/en/library/sb/10/82/",
+    "bhagavata_84": "https://vedabase.io/en/library/sb/10/84/",
+    "bhagavata_85": "https://vedabase.io/en/library/sb/10/85/",
+    "mausala": "https://en.wikipedia.org/wiki/Mausala_Parva",
+    "bhagavata_66": "https://vedabase.io/en/library/sb/10/66/",
+    "subhadra": "https://en.wikipedia.org/wiki/Subhadra",
+    "paundraka": "https://en.wikipedia.org/wiki/Paundraka",
+    "bhagavata_2": "https://vedabase.io/en/library/sb/10/2/",
+    "bhagavata_44": "https://vedabase.io/en/library/sb/10/44/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c6dde0",
+    "c2": "#f6e7b4"
+  },
+  "order": 40,
+  "slug": "vasudeva",
+  "tradition": "hindu",
+  "group": "krishna-leela"
+}

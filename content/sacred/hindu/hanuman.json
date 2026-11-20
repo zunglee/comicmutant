@@ -1,0 +1,276 @@
+{
+  "slug": "hanuman",
+  "name": "Hanuman",
+  "aka": ["Maruti", "Anjaneya", "Bajrangabali", "Pavanaputra", "Sankata Mochana"],
+  "native": "हनुमान",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Devoted monkey hero of the Ramayana",
+  "summary": "Hanuman is the mighty, devoted vanara companion of Rama in the Ramayana. Hindus honour him as a symbol of strength, courage and selfless service, and many call him a son of the wind god Vayu.",
+  "about": "Hanuman appears in the Valmiki Ramayana as a vanara, a forest-dwelling monkey being, who becomes Rama's most faithful helper. Tradition calls him a son of Vayu, the wind god, and of the vanara Anjana, and many Shaiva traditions also see him as a form of Shiva. In the epic he leaps across the ocean to Lanka, finds Sita and later brings a whole mountain of healing herbs to save Lakshmana. Devotion to Hanuman as a god in his own right grew centuries after the epic, and poets such as Tulsidas shaped the picture of him as the ideal devotee. He is thought of as a chiranjivi, one who lives on. Temples, wrestling halls and recitations of the Hanuman Chalisa keep his worship alive, and in Southeast Asia he appears in dance, puppetry and local Ramayana versions.",
+  "kidSummary": "Hanuman is a super-strong and super-loyal monkey hero in the Ramayana. He can leap over oceans, grow big or small, and lift whole mountains, all to help his friend Rama. People also love him because he is humble and kind. Many children learn the Hanuman Chalisa, a short song of praise to him.",
+  "story": [
+    {
+      "title": "A big leap",
+      "text": "In the Valmiki Ramayana, Sita has been taken to Lanka and nobody knows how to reach her. Hanuman, reminded of his own strength by Jambavan, leaps across the sea."
+    },
+    {
+      "title": "Finding Sita",
+      "text": "In Lanka, Hanuman searches quietly until he finds Sita in a garden. He shows her Rama's ring and tells her that help is on its way."
+    },
+    {
+      "title": "The burning tail",
+      "text": "Ravana's guards wrap Hanuman's tail in oil-soaked cloth and light it. As more cloth is added, the tail grows longer, and Hanuman leaps across the rooftops of Lanka."
+    },
+    {
+      "title": "The mountain of herbs",
+      "text": "Later in the war, Lakshmana is badly hurt and needs a special herb in the Himalayas. Unsure which plant is right, Hanuman lifts the whole mountain and carries it back."
+    },
+    {
+      "title": "Devotion above all",
+      "text": "Rama offers Hanuman a great reward, but Hanuman asks for nothing except to keep serving and remembering Rama."
+    }
+  ],
+  "teaches": [
+    "Loyalty and humble service",
+    "Courage with a gentle heart",
+    "Remember your strengths when you doubt yourself"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Mace (gada)",
+    "Mountain of herbs",
+    "Vermilion colour",
+    "Five faces (Panchamukha form)"
+  ],
+  "family": [
+    {
+      "relation": "Father (by tradition)",
+      "name": "Vayu",
+      "slug": "vayu"
+    },
+    {
+      "relation": "Lord he serves",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Spiritual brother (Mahabharata)",
+      "name": "Bhima",
+      "slug": "bhima"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas",
+    "Hanuman Chalisa",
+    "Garuda Purana",
+    "Rasavinoda",
+    "Thai Ramakien"
+  ],
+  "places": [
+    "Anjanadri Hill, Tirumala",
+    "Anjaneri, Nashik",
+    "Khajuraho",
+    "Paritala, Andhra Pradesh",
+    "Panchmukhi Hanuman Temple, Karachi"
+  ],
+  "festivals": ["Hanuman Jayanti", "Tuesday and Saturday worship"],
+  "facts": [
+    {
+      "text": "Nobody is sure what Hanuman means. One reading is one with a disfigured jaw, linked to the story of Indra's thunderbolt hitting him as a child.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    },
+    {
+      "text": "In the Valmiki Ramayana, baby Hanuman mistakes the sun for a fruit and Indra's thunderbolt strikes his jaw. Vayu withdraws the air, so Brahma comes and, at his touch, Hanuman revives and Vayu lets the air flow again. Other tellings name Shiva.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424802.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the same Valmiki episode the gods give gifts: Indra makes Hanuman safe from thunderbolts, Surya lends a hundredth of the sun's radiance, Varuna's noose and waters will never harm him, Yama frees him from disease, and Brahma shields him from his weapons.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424802.html",
+      "interest": 8
+    },
+    {
+      "text": "Another Hindu telling, probably older and also found in the Jain 8th-century Dhurtakhyana, has Hanuman burned to ashes by the sun. The gods reassemble him, Surya revives him, and his jaw is left changed.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "In a tale told in the Ramayana tradition, a sage's curse makes Hanuman forget most of his powers until Jambavan reminds him before he crosses the ocean.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Popular tellings say Hanuman once opened his chest to show Rama and Sita living in his heart to prove his devotion.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "To heal Lakshmana, Hanuman lifted a whole Himalayan mountain rather than risk the wrong herb. Some believe pieces of it formed the forts of Purandar and Vajragad.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "A Japanese text, the Keiranshuyoshu, tells how a flying white monkey carried the mountain from India to China and then to Japan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 9
+    },
+    {
+      "text": "In the Mahabharata, the mighty Bhima cannot lift the tail of a frail old monkey, who turns out to be Hanuman, his brother through Vayu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The five-faced Panchamukha form adds the faces of a man-lion, Garuda, a boar and a horse. A Bengali Ramayana has him blow out five lamps at once in this form.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "The grey langur monkey of India is also called the Hanuman langur, named after him.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Thai Ramakien, Hanuman is a playful, mischievous figure, often shown white, and he was the mascot of the 2009 Asian Martial Arts Games in Bangkok.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    },
+    {
+      "text": "Tibetan Ramayana versions make Hanuman a carrier of love letters between Rama and Sita, and Rama playfully asks him to write more often.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 9
+    },
+    {
+      "text": "In Jain tradition Hanuman is a Vidyadhara, a being with special knowledge, not a monkey, and he eventually becomes an ascetic after a family life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "Some scholars suggest Hanuman influenced Sun Wukong, the Monkey King of the Chinese novel Journey to the West.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On the way to Lanka, the snake-mother Surasa opens her jaws to test Hanuman. He swells bigger, then shrinks to thumb size, slips into her mouth and out again before she can close it. She blesses him for his cleverness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Surasa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A popular folktale says Sita wore sindoor in Lanka so that Rama would live long. When Hanuman heard, he covered his whole body in it, hoping to give Rama even more blessing, which explains his vermilion colour.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sindoor",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Hanuman promises his brother Bhima that he will sit on the flag of Arjuna's chariot and shout a battle cry that weakens enemy hearts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Krittivasi Ramayana, Hanuman goes down to Patala to rescue Rama and Lakshmana from the king Mahiravana. On the way, a being named Makaradhwaja claims to be his son, but Hanuman defeats and ties him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 8
+    },
+    {
+      "text": "Hindu texts describe Hanuman as kurup, plain to look at, on the outside and sundar, beautiful, within. The Hanuman Chalisa by Tulsidas, however, pictures him golden in colour, with a mace and flag in hand.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The wrestler Dara Singh played Hanuman in the first Hindi film about him in 1976 and again in the 1987 TV series Ramayan, so a whole generation pictures Hanuman with a wrestler's build.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Lucknow, Bada Mangal is a festival for Hanuman held every Tuesday in the Hindu month of Jyeshtha, around May and June, and in many temples Tuesday and Saturday are his special days.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    },
+    {
+      "text": "Hanuman Jayanti falls in the month of Chaitra, around March and April, across much of India, but in parts of Kerala and Tamil Nadu it is kept in the month of Margali, in December and January.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Hanuman mistake for a fruit as a child?",
+      "options": ["The moon", "The sun", "A star", "A mango"],
+      "answer": 1,
+      "why": "In the Valmiki Ramayana, baby Hanuman leaps at the sun."
+    },
+    {
+      "q": "What did Hanuman carry to save Lakshmana?",
+      "options": ["A river", "A tree", "A whole mountain", "A golden deer"],
+      "answer": 2,
+      "why": "He lifted a Himalayan mountain of healing herbs."
+    },
+    {
+      "q": "Hanuman is called Pavanaputra. Whose son does that name say he is?",
+      "options": ["The Sun", "The Ocean", "The Moon", "The Wind"],
+      "answer": 3,
+      "why": "Pavana is a name of Vayu, so Pavanaputra means son of the wind."
+    },
+    {
+      "q": "In which language is the Hanuman Chalisa written?",
+      "options": ["Awadhi", "Tamil", "Persian", "Pali"],
+      "answer": 0,
+      "why": "It is in Awadhi, a language of north India."
+    },
+    {
+      "q": "Scholars suggest Hanuman may have inspired which Chinese Monkey King?",
+      "options": ["Nezha", "Zhu Bajie", "Sun Wukong", "Sha Wujing"],
+      "answer": 2,
+      "why": "Some scholars see a link between Hanuman and Sun Wukong, the monkey hero of Journey to the West."
+    }
+  ],
+  "related": ["rama", "sita", "vayu", "bhima", "jambavan", "sugriva", "tulsidas"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hanuman",
+    "chalisa": "https://en.wikipedia.org/wiki/Hanuman_Chalisa",
+    "sunwukong": "https://en.wikipedia.org/wiki/Sun_Wukong",
+    "surasa": "https://en.wikipedia.org/wiki/Surasa",
+    "sindoor": "https://en.wikipedia.org/wiki/Sindoor",
+    "valmiki-uttara36": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424802.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F0B27A",
+    "c2": "#EFD9A8"
+  },
+  "order": 30
+}

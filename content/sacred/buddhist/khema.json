@@ -1,0 +1,243 @@
+{
+  "slug": "khema",
+  "name": "Khema",
+  "aka": ["Khemā", "Kṣemā", "Bhikkhuni Khema"],
+  "native": "खेमा",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Chief nun disciple, foremost in wisdom",
+  "summary": "Khema was a queen of Magadha who became a Buddhist nun and an arahant. The Buddha named her foremost in wisdom among his nun disciples.",
+  "about": "Buddhist texts say Khema was born in Sagala, in the Madra kingdom, and became a chief consort of King Bimbisara of Magadha. She was famous for her beauty and, according to the commentaries, avoided visiting the Buddha until he used a teaching vision to help her see that beauty changes. She became an arahant, joined the nuns and, along with Uppalavanna, was one of the two chief women disciples. The Anguttara Nikaya calls her foremost in wisdom. In the Khema Sutta she answers King Pasenadi's questions with an ocean analogy.",
+  "kidSummary": "Khema was a queen in ancient India who became a Buddhist nun. The Buddha called her the wisest of his nun disciples. When a king asked her a tricky question, she answered with a clever picture of the ocean.",
+  "story": [
+    {
+      "title": "A proud queen",
+      "text": "Khema was a beautiful queen of Magadha, married to King Bimbisara. She was proud of her looks and did not want to visit the Buddha."
+    },
+    {
+      "title": "The king's plan",
+      "text": "Bimbisara asked poets to sing about a monastery's beauty, hoping the songs would make her curious. She finally agreed to go."
+    },
+    {
+      "title": "A vision that changes",
+      "text": "Texts say the Buddha made a lovely woman appear beside him, then let her grow old before Khema's eyes. Khema saw that beauty does not last."
+    },
+    {
+      "title": "A nun and teacher",
+      "text": "She understood at once and became an arahant, then joined the nuns. People came to her with hard questions, and her wisdom became famous."
+    },
+    {
+      "title": "The king's question",
+      "text": "King Pasenadi asked what happens to the Buddha after death. Khema asked if anyone could count the ocean's water, and showed why that question has no simple answer."
+    }
+  ],
+  "teaches": [
+    "Wisdom matters more than looks",
+    "Beauty and everything else change",
+    "Hard questions deserve patient answers"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Golden complexion (tradition)", "Role: foremost in wisdom"],
+  "family": [
+    {
+      "relation": "Husband (royal)",
+      "name": "Bimbisara",
+      "slug": "bimbisara"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Male counterpart in wisdom",
+      "name": "Sariputta",
+      "slug": "sariputta"
+    }
+  ],
+  "texts": ["Khema Sutta (SN 44.1)", "Therigatha", "Apadana", "Anguttara Nikaya", "Dhammapada 347"],
+  "places": ["Sagala (Sialkot)", "Rajagaha", "Savatthi", "Toranavatthu"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Buddha used his powers to conjure a woman more beautiful than Khema, seemingly fanning him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He then made the vision grow old before her eyes, from youth to death, and she saw that beauty is not permanent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In her Therigatha verses (Thig 6.3), Mara invites her to enjoy a five-piece band; she replies that sense pleasures are like swords and spears, and that he is beaten.",
+      "kind": "text",
+      "source": "https://suttacentral.net/thig6.3/en/sujato",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She asked the king whether an accountant could count the Ganges' sand or the ocean's water, to show the Buddha is too deep to measure; Pasenadi later heard the same words from the Buddha and marvelled.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.001.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The last stanza of her Therigatha verses says that before turning to the Buddha she had worshipped the stars and tended a sacred fire in a grove, thinking that was purity.",
+      "kind": "text",
+      "source": "https://suttacentral.net/thig6.3/en/sujato",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In an earlier life under Padumuttara Buddha she was a slave who gave a chief disciple three cakes and, that same day, sold her hair to give alms.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/khemaa.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Jatakas, Khema is identified with queens who dreamed of a golden deer, a golden peacock or a golden swan teaching the Dhamma and longed to see it come true.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/khemaa.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The anthropologist Ranjini Obeyesekere notes that in each pair of the Buddha's chief disciples one was dark-skinned and one light-skinned, which she reads as a sign that the teaching is for people of every colour and class.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She is said to have reached awakening while still a layperson, hearing the Buddha teach, and only then joined the nuns; the writer Susan Murcott calls this a rare case in the early stories.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Khema was born a princess at Sagala in the Madra kingdom, a city identified with today's Sialkot in Pakistan.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She is regarded as holding the same standing among the nuns that Sariputta held among the monks.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholars Susan Murcott and Gisela Krey note that early texts rarely show a woman teaching a man, which makes her talk with a powerful king stand out.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her past-life wish for wisdom, the commentary says, came after seeing the Buddha's chief male disciple, unusual for a nun's story; the Apadana says she saw a chief nun instead.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Khema",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The commentary says the Buddha taught her with a verse about people caught by passion like a spider in its own web, and that she became an arahant by the end of the talk.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084508.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Khema Sutta the king's man roamed Toranavatthu for a worthy teacher and found only Khema, whom he praised as wise, learned and a fluent speaker, so Pasenadi went to hear her.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.001.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pasenadi asked whether the Buddha exists after death, does not, both does and does not, or neither; to each she replied that the Buddha had not declared it, then explained why.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.001.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She told the king the Buddha has cut off every form by which he could be described, like a palm tree cut to a stump, which is why he is boundless.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.001.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bimbisara's other wife, the courtesan Padumavati, brought from Ujjeni with a yakkha's help so Rajagaha would have a city beauty, also became a nun, as Khema did.",
+      "kind": "history",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Dhammapada commentary says that on hearing the Buddha's words about the body she reached stream-entry, and at the end of the talk she became an arahant.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084508.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Khema named foremost in?",
+      "options": ["Psychic power", "Wisdom", "Keeping the rules", "Teaching the Dhamma"],
+      "answer": 1,
+      "why": "The Buddha named her foremost in wisdom among nuns."
+    },
+    {
+      "q": "Who asked Khema about the Buddha after death?",
+      "options": ["King Pasenadi", "King Ashoka", "Prince Rahula", "Ananda"],
+      "answer": 0,
+      "why": "King Pasenadi stopped at Toranavatthu and asked her."
+    },
+    {
+      "q": "What did she compare the Buddha to, in her answer?",
+      "options": ["A forest", "The ocean", "A mountain", "A bird"],
+      "answer": 1,
+      "why": "No one can count the ocean's water, and the Buddha is just as deep."
+    },
+    {
+      "q": "What did the Buddha show her to teach her?",
+      "options": ["A dragon", "A woman growing old", "A tree growing", "A flood"],
+      "answer": 1,
+      "why": "The vision aged before her eyes to show that beauty changes."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "bimbisara",
+    "sariputta",
+    "patacara",
+    "dhammadinna",
+    "mahapajapati-gotami",
+    "mara"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khema",
+    "khemasutta": "https://www.accesstoinsight.org/tipitaka/sn/sn44/sn44.001.than.html",
+    "dhammapada347": "https://www.wisdomlib.org/buddhism/book/dhammapada-illustrated/d/doc1084508.html"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f6e6c9",
+    "c2": "#ead9ea"
+  },
+  "years": "c. 6th–5th century BCE",
+  "order": 50
+}

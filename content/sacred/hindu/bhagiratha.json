@@ -1,0 +1,277 @@
+{
+  "slug": "bhagiratha",
+  "name": "Bhagiratha",
+  "aka": ["Bhagirath", "Ikshvaku king"],
+  "native": "भगीरथ",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Ikshvaku king who brought the Ganga to earth",
+  "summary": "Bhagiratha is a legendary king of the Ikshvaku line who, in the Ramayana and the Puranas, performs long penance so that the river goddess Ganga will come down from heaven to earth.",
+  "about": "In the Ramayana and the Puranas, Bhagiratha is a king of the Ikshvaku dynasty and a descendant of King Sagara. The stories say Sagara's sixty thousand sons were burnt to ash near the sage Kapila after they disturbed his meditation, and that only the waters of the heavenly river could free them. Generations tried and failed until Bhagiratha went to the Himalayas to pray to Ganga. She warned that her fall would be too strong for the earth, so he prayed to Shiva, who is said to have caught her in his matted hair. Many tellings add that sage Jahnu swallowed the river and released it again, which is why she is also called Jahnavi. Bhagiratha then led her to the sea, and she is remembered by the name Bhagirathi near her source. The Narada Purana adds a conversation between him and Yama. Today the legend is linked with pilgrim places such as Gangotri and Gangasagar.",
+  "kidSummary": "Bhagiratha was a king who wanted to help his family by bringing the heavenly river Ganga down to earth. He prayed for a very long time, and Shiva agreed to catch the river so she would not crash down too hard. Because of his effort, one of the river's streams is still called Bhagirathi.",
+  "story": [
+    {
+      "title": "A task for the family",
+      "text": "Bhagiratha's ancestors, the sons of King Sagara, were reduced to ash near the sage Kapila. The old stories say only the waters of heavenly Ganga could free them, and nobody in the family had managed to bring her down."
+    },
+    {
+      "title": "Prayer in the mountains",
+      "text": "Bhagiratha gave the throne duties a pause and went to the Himalayas to pray. Many versions say his prayer lasted for a very long time, until Ganga was ready to hear him."
+    },
+    {
+      "title": "A strong river",
+      "text": "Ganga said that if she fell straight from heaven, the earth could not bear her force. She told him to ask Shiva, who could hold her."
+    },
+    {
+      "title": "Shiva's hair",
+      "text": "Bhagiratha prayed to Shiva with great patience. Shiva agreed, stood ready, and let the river flow gently through his hair before she touched the ground."
+    },
+    {
+      "title": "Following the river",
+      "text": "Bhagiratha led Ganga across the land towards the sea, even when sage Jahnu swallowed her and then let her out again. She reached the place of his ancestors and freed them. People still call her Bhagirathi."
+    }
+  ],
+  "teaches": [
+    "Patience and effort can achieve big goals",
+    "Doing one's duty to family",
+    "Ask for help from those who can truly give it"
+  ],
+  "symbol": "wave",
+  "emblems": ["Conch (shown in Nepali spout sculptures)", "River Ganga"],
+  "family": [
+    {
+      "relation": "Goddess he invoked",
+      "name": "Ganga",
+      "slug": "ganga"
+    },
+    {
+      "relation": "God who held the river",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Sage of the story",
+      "name": "Kapila",
+      "slug": "kapila"
+    },
+    {
+      "relation": "Ancestor (great-great-grandfather)",
+      "name": "Sagara"
+    },
+    {
+      "relation": "Father",
+      "name": "Dilipa"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Hamsi"
+    }
+  ],
+  "texts": [
+    "Ramayana (Bala Kanda)",
+    "Mahabharata",
+    "Narada Purana",
+    "Krittivasi Ramayan (Bengali)"
+  ],
+  "places": [
+    "Gangotri",
+    "Devprayag",
+    "Sagar Island",
+    "Kailasa",
+    "Mahabalipuram (Descent of the Ganges relief)"
+  ],
+  "festivals": ["Ganga Sagar Mela (Makar Sankranti)"],
+  "facts": [
+    {
+      "text": "The upper stream of the Ganges is called the Bhagirathi after him. It keeps that name until it meets the Alaknanda river at Devprayag, and below there people call it Ganga.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Bhagiratha hands his kingdom to his ministers and does harsh penance for a thousand years. Brahma then arrives with the gods, and Bhagiratha asks for Ganga's water for his ancestors' ashes and for a child to carry his family on.",
+      "kind": "story",
+      "source": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=42&field_sloka_value=18",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the way to the sea, Ganga flooded sage Jahnu's ashram, so he swallowed her, and Bhagiratha pleaded until he let her out through his ear. This is why Ganga is also called Jahnavi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sagar Island, where the Bhagirathi stream of the Ganges meets the Bay of Bengal, is identified in tradition with Kapila's ashram and with the place called Patala in the story.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Sanskrit word for sea, sagara, is said in the legend to honour King Sagara, Bhagiratha's ancestor, whose sons the river Ganga was brought to free.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Old drinking fountains in Nepal often have Bhagiratha beneath the spout, holding or blowing a conch. Figures of him also sit under water spouts of some Indian temples, such as the Brihadisvara temple at Thanjavur.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bengali tellings (the Bengali Padma Purana recension and the Krittivasi Ramayan) say a prophecy that Vishnu would be born in Dilipa's line led to Bhagiratha. He is born boneless or as a lump of flesh until the sage Ashtavakra makes him strong.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Telangana named its huge piped-water scheme Mission Bhagiratha, after the king who brought a river to people in need. Launched in August 2016, it aims to reach about 25,000 villages and 65 towns.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mission_Bhagiratha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Shiva caught her, the story says Ganga flowed through his hair for a thousand years. Bhagiratha had to pray again before Shiva shook his locks and let a single drop fall to the plains, and that drop became the Ganges.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The whole episode is called Bhagirathaprayatnam, which means Bhagiratha's labour. Dictionaries record the word as a figure of speech for any enormous, almost impossible effort.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/bhagirathaprayatna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The giant rock carving at Mahabalipuram, long called Arjuna's Penance, is read by many as the Descent of the Ganges. In that reading, the man standing on one leg in prayer is Bhagiratha rather than Arjuna.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabalipuram relief once had a water tank at its top. When water was released down the natural crack in the rock during festivals, it looked like Ganga pouring from Shiva's hair.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The 7th-century Mahabalipuram relief holds roughly 146 carvings, including almost life-size elephants with their calves, a deer scratching its nose and monkeys copying the sages.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hindu belief the Bhagirathi is the true source stream of the Ganges. Hydrologists, however, treat the longer Alaknanda as the main source, because it is longer and carries more water.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhagirathi_River",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Gangotri, a rock called Bhagirath Shila beside the river is shown as the place where the king prayed to Shiva. Each winter the temple closes and the goddess's image is carried down to Mukhba village.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gangotri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagirathi begins at Gaumukh, at the foot of the Gangotri glacier, about 3,900 metres up. Later it meets the Bhilangna at the Tehri Dam, whose lake covers the old town of Tehri.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhagirathi_River",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Drona Parva, Narada says that Ganga once sat in Bhagiratha's lap to escape the crowds at his sacrifices. That is why she was thought of as his daughter and is named after him.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07057.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The same Drona Parva account says Bhagiratha built golden flights of steps along the Ganga, and that these bathing steps were named after him.",
+      "kind": "art",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07057.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bengali Krittivasi Ramayan says the boy Bhagiratha was teased at school for having two mothers, the two widows of his father Dilipa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Every Makar Sankranti, pilgrims gather at Sagar Island, where Kapila's ashram is placed, for the Ganga Sagar Mela, and the river's meeting with the sea is remembered through Bhagiratha's labour.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What river stream is named after Bhagiratha?",
+      "options": ["Godavari", "Bhagirathi", "Yamuna", "Kaveri"],
+      "answer": 1,
+      "why": "The upper stream of the Ganges, until Devprayag, is called the Bhagirathi."
+    },
+    {
+      "q": "Whom does Bhagiratha ask to catch Ganga as she falls?",
+      "options": ["Indra", "Brahma", "Shiva", "Kapila"],
+      "answer": 2,
+      "why": "Ganga told him only Shiva could bear her force, so he prayed to Shiva."
+    },
+    {
+      "q": "Why is Ganga also called Jahnavi?",
+      "options": [
+        "Named after a mountain",
+        "Sage Jahnu swallowed and released her",
+        "Named after a star",
+        "She is Jahnu's sister"
+      ],
+      "answer": 1,
+      "why": "In the story the sage Jahnu swallowed the river and let her out through his ear."
+    },
+    {
+      "q": "Which Indian state named a big water project Mission Bhagiratha?",
+      "options": ["Kerala", "Punjab", "Telangana", "Assam"],
+      "answer": 2,
+      "why": "Telangana launched Mission Bhagiratha in 2016 to bring piped water to homes."
+    }
+  ],
+  "related": ["ganga", "shiva", "kapila", "rama", "yama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhagiratha",
+    "gangotriTemple": "https://en.wikipedia.org/wiki/Gangotri_Temple",
+    "sagarIsland": "https://en.wikipedia.org/wiki/Sagar_Island",
+    "missionBhagiratha": "https://en.wikipedia.org/wiki/Mission_Bhagiratha",
+    "gangotri": "https://en.wikipedia.org/wiki/Gangotri",
+    "mahabalipuram": "https://en.wikipedia.org/wiki/Descent_of_the_Ganges_(Mahabalipuram)",
+    "bhagirathi": "https://en.wikipedia.org/wiki/Bhagirathi_River",
+    "wisdomlib": "https://www.wisdomlib.org/definition/bhagirathaprayatna",
+    "valmikiBala42": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=42&field_sloka_value=18",
+    "valmikiBala44": "https://www.valmiki.iitk.ac.in/sloka?field_kanda_tid=1&language=dv&field_sarga_value=44&field_sloka_value=1",
+    "dronaParva60": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07057.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe5ee",
+    "c2": "#e8e2c4"
+  },
+  "order": 500
+}

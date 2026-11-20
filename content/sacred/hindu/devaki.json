@@ -1,0 +1,276 @@
+{
+  "name": "Devaki",
+  "aka": ["Devakee", "Devaki Maa"],
+  "native": "देवकी",
+  "role": "Birth-mother of Krishna in the Puranas",
+  "summary": "Devaki is the princess of the Yadus who, in the Puranas, is the mother of Krishna and wife of Vasudeva. Her story is retold every Janmashtami: the prison in Mathura, the prophecy and the birth at midnight.",
+  "about": "The Bhagavata Purana, the Vishnu Purana, the Harivamsa and the Mahabharata describe Devaki as a Yadu princess, one of the daughters of King Devaka, who marries Vasudeva. At the wedding a voice from the sky tells Kamsa, her cousin whom the texts often call her brother, that her eighth child will end his rule. Kamsa agrees to spare her only because Vasudeva promises to hand over each baby, and he later imprisons the couple. The texts say six sons were lost, Balarama was transferred to Rohini's womb, and Krishna, the eighth, was carried away to Gokul on the night of his birth. After Kamsa's death she is freed. Popular tradition regards her as an incarnation of the goddess Aditi. A temple in Goa honours Krishna together with Devaki, and the Chandogya Upanishad names a 'Krishna, son of Devaki'.",
+  "kidSummary": "Devaki is the mother Krishna was born to. She and her husband Vasudeva were kept in a prison by Kamsa, her cousin whom the stories often call her brother, but they stayed hopeful. On the night Krishna was born, the doors opened by themselves and he was carried safely to Gokul.",
+  "story": [
+    {
+      "title": "A wedding and a warning",
+      "text": "Devaki marries Vasudeva, and her brother Kamsa proudly drives their chariot. A voice from the sky says her eighth child will end his rule, and Kamsa becomes afraid."
+    },
+    {
+      "title": "A promise",
+      "text": "Vasudeva promises to give Kamsa every child so that Devaki is spared. Kamsa keeps the couple in prison, and the first children are taken from them."
+    },
+    {
+      "title": "The night of Krishna's birth",
+      "text": "At midnight, the Bhagavata Purana says, baby Krishna is born. He first appears with four arms, then becomes a normal baby so that his parents can hide him."
+    },
+    {
+      "title": "A baby is swapped",
+      "text": "The doors open and the guards fall asleep. Vasudeva carries Krishna to Gokul, brings back a baby girl and the prison closes again."
+    },
+    {
+      "title": "The girl who rose into the sky",
+      "text": "Kamsa tries to hurt the baby girl, but, the Bhagavata Purana says, she rises into the sky as the goddess Durga and warns him that his foe is growing elsewhere. Later the couple are freed."
+    }
+  ],
+  "teaches": ["Hope in hard times", "A mother's courage", "Keeping promises even when afraid"],
+  "symbol": "moon",
+  "emblems": ["Prison cell in Mathura", "Midnight birth (Janmashtami vigil)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Cousin, called his sister in texts",
+      "name": "Kamsa",
+      "slug": "kamsa"
+    },
+    {
+      "relation": "Son",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Son (moved to Rohini's womb)",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Foster-family of Krishna",
+      "name": "Yashoda",
+      "slug": "yashoda"
+    },
+    {
+      "relation": "Foster-family of Krishna",
+      "name": "Nanda",
+      "slug": "nanda"
+    },
+    {
+      "relation": "Earlier life (popular tradition)",
+      "name": "Aditi",
+      "slug": "aditi"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Vishnu Purana", "Harivamsa", "Mahabharata"],
+  "places": ["Mathura", "Mashel (Marcel), Goa", "Dwarka"],
+  "festivals": ["Krishna Janmashtami"],
+  "facts": [
+    {
+      "text": "In the Puranic account, Vasudeva married Devaki after first marrying her six older sisters.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a popular account, at Devaki's wedding Vishnu took a lock of hair from Shesha and one of his own, declaring they would be born as her seventh and eighth children.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "According to the Harivamsa, her six lost sons had been sons of Kalanemi, cursed by Hiranyakashipu after they secretly worshipped Brahma.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says that in earlier lives Devaki and Vasudeva, as Prishni and Sutapa, practised austerities for twelve thousand divine years to get a son like Vishnu.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the same chapter, Vishnu tells them he was born to them first as Prishnigarbha, then as Vamana to Aditi and Kashyapa, and now a third time.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana describes the newborn with four arms holding conch, disc, club and lotus, and Devaki asked him to become an ordinary child to hide from Kamsa.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Devaki begged Kamsa to spare her baby daughter. In the Bhagavata Purana, the child slipped from his grasp and rose as eight-armed Durga.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/4/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the warning, Kamsa freed Devaki and Vasudeva, apologised and fell at their feet, and the couple forgave him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/4/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Goa, the Devaki Krishna temple at Mashel is described as perhaps the only temple in India where Krishna is worshipped beside his mother, whose image stands holding the baby. Dwarka also has a small shrine to her.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Goa temple's deities are recorded as first worshipped on Chorao island, then moved to Mayem in Bicholim during the Goa Inquisition, and later settled at Mashel.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Chandogya Upanishad (3.17.6) names a student 'Krishna, son of Devaki', an early written mention that scholars weigh when tracing Krishna's story, though they debate whether it is the same Krishna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After freeing them, Krishna told Devaki and Vasudeva that he and Balarama had never enjoyed a childhood at home with them, and asked forgiveness. The parents hugged them in tears, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "While Krishna was in her womb, Devaki glowed with light, says the Bhagavata Purana. Kamsa grew anxious yet could not harm his own relative, and the gods gathered to sing the Garbha-stuti, prayers to the child within.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/2/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says Devaki bore eight sons and a daughter named Subhadra, while the Mahabharata makes Subhadra Rohini's daughter. The girl swapped at Gokul was Yashoda's daughter, a different child.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Devaki's six lost sons were sage Marichi's sons, born as demons after they laughed at Brahma. Krishna and Balarama fetched them from Sutala, and Devaki's milk flowed.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/85/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The name Devaki is the feminine form of Devaka, which comes from deva, meaning celestial or shining, so it can be read as 'the divine one'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On Janmashtami devotees sing until midnight, the traditional hour of Krishna's birth in the prison. Some then break a day-long fast with a feast, and baby images of Krishna are bathed and placed in cradles.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Krishna_Janmashtami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mathura's Krishna Janmasthan complex is built around what is held to be Krishna's birthplace, an underground prison. It holds the Keshav Deva temple and a Garbha Griha shrine.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mathura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Krishna's elder brother was moved from Devaki's womb to Rohini's, the Bhagavata Purana says the people of the palace cried out that Devaki had lost her baby, thinking it a miscarriage.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/2/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana describes the birth night as calm: the Rohini star shone, the sky was clear, heavenly drums sounded, and celestial singers and dancers rejoiced as the baby appeared to Devaki and Vasudeva.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/3/",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Devaki's husband?",
+      "options": ["Nanda", "Vasudeva", "Ugrasena", "Akrura"],
+      "answer": 1,
+      "why": "Vasudeva married Devaki."
+    },
+    {
+      "q": "Which child of Devaki was moved into Rohini's womb?",
+      "options": ["Krishna", "The first", "Balarama", "The sixth"],
+      "answer": 2,
+      "why": "The Puranas say Balarama, her seventh, was transferred."
+    },
+    {
+      "q": "What happened to the baby girl Kamsa tried to hurt?",
+      "options": [
+        "She vanished into the Yamuna",
+        "She rose into the sky as Durga",
+        "She turned into a bird",
+        "She fell asleep"
+      ],
+      "answer": 1,
+      "why": "The Bhagavata Purana says she rose as the eight-armed goddess."
+    },
+    {
+      "q": "In the Bhagavata Purana, from which realm did Krishna and Balarama bring back Devaki's six sons?",
+      "options": ["Sutala", "Kailash", "Gokul", "Ayodhya"],
+      "answer": 0,
+      "why": "They went to Sutala, where King Bali welcomed them, and returned the six sons to Devaki."
+    },
+    {
+      "q": "In which state is a temple dedicated to Krishna with Devaki at Mashel?",
+      "options": ["Goa", "Kerala", "Punjab", "Assam"],
+      "answer": 0,
+      "why": "The Devaki Krishna temple is at Mashel in Goa."
+    }
+  ],
+  "related": ["vasudeva", "kamsa", "krishna", "balarama", "yashoda", "nanda", "aditi", "durga"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Devaki",
+    "bhagavata_1": "https://vedabase.io/en/library/sb/10/1/",
+    "bhagavata_3": "https://vedabase.io/en/library/sb/10/3/",
+    "bhagavata_4": "https://vedabase.io/en/library/sb/10/4/",
+    "bhagavata_44": "https://vedabase.io/en/library/sb/10/44/",
+    "janmashtami": "https://en.wikipedia.org/wiki/Krishna_Janmashtami",
+    "chandogya": "https://en.wikipedia.org/wiki/Chandogya_Upanishad",
+    "bhagavata_2": "https://vedabase.io/en/library/sb/10/2/",
+    "bhagavata_45": "https://vedabase.io/en/library/sb/10/45/",
+    "subhadra": "https://en.wikipedia.org/wiki/Subhadra",
+    "bhagavata_85": "https://vedabase.io/en/library/sb/10/85/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9d5ea",
+    "c2": "#f6e7b4"
+  },
+  "order": 30,
+  "slug": "devaki",
+  "tradition": "hindu",
+  "group": "krishna-leela"
+}

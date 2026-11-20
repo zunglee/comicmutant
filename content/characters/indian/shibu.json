@@ -5,8 +5,8 @@
   "kind": "villain",
   "medium": "film",
   "publisher": "Weekend Blockbusters",
-  "summary": "Minnal Murali's tragic villain: a lonely outcast struck by the same lightning as the hero, whose obsessive love turns his powers destructive. Played by Guru Somasundaram (2021).",
-  "origin": "Shibu is a social outcast who has carried a torch for his childhood sweetheart Usha for years, though she resents him. Struck by lightning on Christmas Eve along with Jaison, he gains the same powers. He first uses them to defend Usha and robs a bank to pay for her daughter's surgery. When Usha's brother Daasan opposes the match, Shibu burns down Jaison's shop in a rage, which kills Daasan, and frames Minnal Murali. After an explosion kills Usha and her daughter, his grief turns into a rampage.",
+  "summary": "Minnal Murali's lonely villain: an outcast struck by the same lightning as the hero, whose longing for acceptance turns his powers destructive. Played by Guru Somasundaram (2021).",
+  "origin": "Shibu is a village outsider who works at a teashop and has long cared for his childhood friend Usha, though she is cold toward him. On Christmas Eve lightning strikes him and the tailor Jaison at the same moment, giving both telekinetic powers. Shibu first uses his gift to protect Usha, then tries to raise money for her daughter's operation. When Usha's brother Daasan stands in the way, Shibu's anger leads to a fire at Jaison's shop, and he lets Minnal Murali take the blame. Heartbreak follows, and his grief turns into a rampage.",
   "creators": ["Basil Joseph (director)", "Arun Anirudhan (writer)", "Justin Mathew (writer)"],
   "firstAppearance": {
     "title": "Minnal Murali",
@@ -23,31 +23,31 @@
       "era": "Outsider",
       "years": "2021",
       "title": "Love from the margins",
-      "beat": "Shibu, mocked by the village, still longs for Usha."
+      "beat": "Shibu, shut out by the village, still hopes to win Usha's trust."
     },
     {
       "era": "Christmas Eve",
       "years": "2021",
       "title": "The shared bolt",
-      "beat": "He's struck by lightning at the same moment as Jaison."
+      "beat": "He is struck by lightning at the same moment as Jaison, and both wake with the same powers."
     },
     {
       "era": "For Usha",
       "years": "2021",
       "title": "A bank job",
-      "beat": "Shibu robs a bank to pay for Usha's daughter's surgery, not knowing the bill has already been paid with money stolen from Jaison."
+      "beat": "Shibu robs a bank to pay for Usha's daughter's operation, not knowing Daasan has already paid with Jaison's saved visa money."
     },
     {
       "era": "Frame job",
       "years": "2021",
       "title": "Fire and blame",
-      "beat": "In a fit of anger he burns down Jaison's shop, killing Daasan, and blames Minnal Murali."
+      "beat": "In a fit of anger he sets fire to Jaison's shop, with tragic results, and wears the Minnal Murali costume so the blame lands on the hero."
     },
     {
       "era": "Grief",
       "years": "2021",
       "title": "Siege at the church",
-      "beat": "After Usha and her daughter die, he terrorises a church congregation until Jaison defeats him."
+      "beat": "After a devastating loss, Shibu terrorises a church congregation until Jaison stops him."
     }
   ],
   "gossip": [
@@ -64,7 +64,7 @@
     {
       "type": "myth",
       "text": "Shibu is evil from the start.",
-      "truth": "He begins as a lonely man who first uses his powers to protect Usha. Grief and obsession turn him.",
+      "truth": "He begins as a lonely man who first uses his powers to protect Usha. Hurt and anger turn him.",
       "spice": 2
     },
     {
@@ -85,6 +85,28 @@
       "options": ["Usha", "Bincy", "Biji", "Meenakshi"],
       "answer": 0,
       "why": "His childhood sweetheart Usha."
+    },
+    {
+      "q": "What do Shibu and Jaison have in common on Christmas Eve?",
+      "options": [
+        "Both win a tailoring prize",
+        "Both are struck by the same lightning",
+        "Both rescue a bus",
+        "Both build a church"
+      ],
+      "answer": 1,
+      "why": "One lightning strike gives both men telekinetic powers."
+    },
+    {
+      "q": "Why is Shibu's bank robbery pointless?",
+      "options": [
+        "The bank was empty",
+        "Daasan had already paid for the operation",
+        "Usha refused the money",
+        "The police caught him first"
+      ],
+      "answer": 1,
+      "why": "Daasan had quietly covered the cost with Jaison's visa savings, and Shibu did not know."
     }
   ],
   "rivals": ["minnal-murali"],
@@ -112,23 +134,188 @@
     },
     {
       "year": 2021,
-      "kind": "turn",
-      "title": "The bank job",
-      "note": "He robs a bank to pay for a child's operation, his first big step from lonely man to menace."
+      "kind": "screen",
+      "title": "Mumbai Film Festival premiere",
+      "note": "Minnal Murali, with Shibu as its villain, premieres at the Mumbai Film Festival on 16 December 2021."
     },
     {
       "year": 2021,
-      "kind": "turn",
-      "title": "Siege at the church",
-      "note": "After Usha dies, he holds a church congregation in terror until Minnal Murali brings him down.",
-      "with": "minnal-murali"
+      "kind": "screen",
+      "title": "Netflix release",
+      "note": "The film streams worldwide on Netflix from 24 December 2021, dubbed into five languages."
     },
     {
       "year": 2022,
       "kind": "legacy",
-      "title": "Acting honours",
-      "note": "Guru Somasundaram wins SIIMA's negative-role award and an Asian Academy Creative Awards acting prize for the part."
+      "title": "SIIMA negative-role award",
+      "note": "Guru Somasundaram wins the SIIMA award for Best Actor in a Negative Role (Malayalam) for Shibu, at the 10th SIIMA in Bengaluru in September 2022."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Sequel talk",
+      "note": "Tovino Thomas says in 2022 that a sequel is planned; Shibu's own story closes in the first film."
     }
   ],
-  "heat": 45
+  "heat": 45,
+  "facts": [
+    {
+      "text": "Shibu and the hero Jaison are struck by lightning at the same moment on Christmas Eve and both gain telekinetic powers, so the villain's origin is exactly the hero's.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The film reached Netflix worldwide on 24 December 2021, Christmas Eve, the same night the story's lightning strikes.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After a fire at Jaison's shop, Shibu lets the blame fall on Minnal Murali, wearing a copy of the hero's disguise (the cast list calls him the fake Minnal Murali).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Director Basil Joseph says casting a familiar Kerala face as Shibu would give the villain away, so the role went to Tamil actor Guru Somasundaram, whom the team had noticed in Joker and Vanjagar Ulagam.",
+      "kind": "creator",
+      "source": "https://www.filmcompanion.in/interviews/we-rehearse-not-to-memorise-dialogues-but-to-forget-them-guru-somasundaram-minnal-murali-interview",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Basil Joseph suggested he watch Joker before filming, but Guru, a self-confessed fan of the American superhero genre, chose not to, so that a Western style would not seep into his Shibu.",
+      "kind": "creator",
+      "source": "https://eastmojo.com/national/2021/12/27/when-minnal-murali-director-told-guru-somasundaram-to-watch-joker/",
+      "interest": 8
+    },
+    {
+      "text": "Guru has described Shibu as a 40-year-old baby, an adult who never grew up emotionally.",
+      "kind": "creator",
+      "source": "https://www.outlookindia.com/website/story/entertainment-news-minnal-murali-antagonist-guru-somsundram-says-he-never-wanted-to-be-an-actor/408023",
+      "interest": 7
+    },
+    {
+      "text": "The first time viewers meet Shibu, he is hunting for a lost wallet, not for its money but because it holds a photograph of Usha from their school days.",
+      "kind": "story",
+      "source": "https://www.thenewsminute.com/kerala/minnal-murali-does-malayalam-film-glorify-stalking-an-toxic-love-159229",
+      "interest": 8
+    },
+    {
+      "text": "When the lightning strikes, the whole village rushes Jaison to hospital, but Shibu is struck at the same moment and has to recover alone.",
+      "kind": "story",
+      "source": "https://www.thenewsminute.com/kerala/minnal-murali-does-malayalam-film-glorify-stalking-an-toxic-love-159229",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jaison is taken in by a respected family, while Shibu is shunned as the son of a woman the village calls mad, and the film uses that gap to explain how differently the two men grow up.",
+      "kind": "origin",
+      "source": "https://www.thenewsminute.com/kerala/minnal-murali-does-malayalam-film-glorify-stalking-an-toxic-love-159229",
+      "interest": 7
+    },
+    {
+      "text": "Balloons are a comic prop in Jaison's story, but at the village fair Shibu sells balloons that are tied to a dangerous trap he has prepared, so the same kind of prop turns menacing around him.",
+      "kind": "story",
+      "source": "https://www.thenewsminute.com/kerala/minnal-murali-does-malayalam-film-glorify-stalking-an-toxic-love-159229",
+      "interest": 7
+    },
+    {
+      "text": "The church used for the climax was a film set. A first set built near Kalady was demolished by vandals in May 2020, and the team later rebuilt a large church replica in Karnataka.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Shibu is a Tamil migrant in a Kerala village, which the film's critics read as part of why the village leaves him at the bottom and shuts him out.",
+      "kind": "origin",
+      "source": "https://www.thenewsminute.com/kerala/minnal-murali-does-malayalam-film-glorify-stalking-an-toxic-love-159229",
+      "interest": 7
+    },
+    {
+      "text": "To play Shibu, Guru picked up some Malayalam and learned to row a canoe, training for five days on a river in Wayanad.",
+      "kind": "creator",
+      "source": "https://www.onmanorama.com/entertainment/interviews/2021/12/30/minnal-murali-interview-guru-somasundaram.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shibu secretly cares for his childhood friend Usha, but she stays cold and resentful toward him, so his hope of being accepted is one-sided from the start.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "The first time Shibu uses his new telekinetic gift, it is to step in when Usha is harassed at a teashop, which shows the villain's powers begin as an act of protection.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Usha's brother Daasan opposes any match between Usha and Shibu. In anger over that, Shibu burns down Jaison's shop, the act that makes him a real danger.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "The police work out that the fake Minnal Murali is really Shibu, but he escapes capture, which leads to the showdown between him and Jaison.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "Shibu's duel with Jaison on a bus ends with the driver gone and the bus hanging over a cliff. Jaison saves it, and the villagers begin to respect him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the church finale Shibu overpowers Jaison at first, but Jaison draws on his own inner strength and defeats him, ending Shibu's rampage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Times of India's reviewer called the film a modest, jokey entertainer with both a likeable superhero and a likeable villain, so critics treated Shibu as more than a standard bad guy.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 7
+    },
+    {
+      "text": "The team grounded the lightning powers in real accounts of people struck by lightning, who report odd effects such as a bulb glowing for a second or a watch stopping.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Minnal_Murali",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "kidSummary": "Shibu is the villain of the Malayalam superhero film Minnal Murali. He lives on the edge of his village, feels left out, and gets the same lightning powers as the hero Jaison. His anger grows until Jaison stops him.",
+  "story": [
+    {
+      "title": "The outsider",
+      "text": "Shibu works at a teashop in his village and often feels left out, while others stand by Jaison."
+    },
+    {
+      "title": "One bolt of lightning",
+      "text": "On Christmas Eve, the same bolt of lightning strikes Shibu and Jaison, and both get the power to move things with their minds."
+    },
+    {
+      "title": "A bad choice",
+      "text": "Shibu first uses his power to help someone he cares about, but then he lets anger and sadness guide him and does things that hurt others."
+    },
+    {
+      "title": "Pretending to be the hero",
+      "text": "He puts on a copy of the Minnal Murali costume, so the blame for his actions falls on the hero."
+    },
+    {
+      "title": "The last stand",
+      "text": "Hurt and furious, Shibu frightens a church full of villagers until Jaison, now a true hero, steps in and stops him."
+    }
+  ]
 }

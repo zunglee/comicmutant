@@ -1,0 +1,269 @@
+{
+  "slug": "saraswati",
+  "name": "Saraswati",
+  "aka": ["Sharada", "Vagdevi", "Veenapani", "Vani"],
+  "native": "सरस्वती",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of learning, speech, music and the arts",
+  "summary": "Hindus honour Saraswati as the goddess of knowledge, speech and music. She began in the Rigveda as a mighty river and grew into the patron of every student.",
+  "about": "In the Rigveda, Saraswati is both a roaring river and a goddess, and the earliest hymns praise her as a flowing source of life. Later texts bring her close to Vac, the divine power of speech, and the Puranas place her beside Brahma, though they differ on whether she is his daughter or his consort. Artists show her with a veena, a book, prayer beads and a water pot, often near a swan. Students, teachers and musicians honour her on Vasant Panchami, when many families begin a young child's first letters. Buddhists in Japan know her as Benzaiten, and Jains revere a goddess of learning who spreads the Tirthankaras' teachings.",
+  "kidSummary": "Saraswati is the goddess of learning, music and wise words. People picture her with a veena and a swan. Every spring, children say a prayer to her before they begin to write their first letters.",
+  "story": [
+    {
+      "title": "A river that sings",
+      "text": "Long ago, say the Vedic hymns, there was a bright river called Saraswati. People thanked her for water, food and good thoughts, and soon she was honoured as a goddess too."
+    },
+    {
+      "title": "The gift of words",
+      "text": "Later stories say her gift is speech itself. Without her, the texts say, nobody could sing a song, tell a tale or share an idea."
+    },
+    {
+      "title": "Her four hands",
+      "text": "Artists show a book for knowledge, beads for focus, a water pot for purity and a veena for music. Together they say that learning has many sides."
+    },
+    {
+      "title": "The swan's secret",
+      "text": "A swan sits near her. People say a swan can sip only the milk from a mix of milk and water, so it reminds us to choose what is good."
+    },
+    {
+      "title": "Spring and first letters",
+      "text": "On Vasant Panchami, families wear yellow and put books and pens before her. Little children write their very first letters on that day."
+    }
+  ],
+  "teaches": [
+    "Learning is worth honouring",
+    "Choose what is true and good",
+    "Music and art feed the mind"
+  ],
+  "symbol": "book",
+  "emblems": ["Veena", "Hamsa (swan or goose)", "Book and prayer beads", "White lotus"],
+  "family": [
+    {
+      "relation": "Consort or father (versions differ)",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Sometimes identified with",
+      "name": "Gayatri",
+      "slug": "gayatri"
+    },
+    {
+      "relation": "Companion goddess in the Tridevi",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Companion goddess in the Tridevi",
+      "name": "Parvati",
+      "slug": "parvati"
+    }
+  ],
+  "texts": ["Rigveda", "Shatapatha Brahmana", "Matsya Purana", "Padma Purana"],
+  "places": ["Gnana Saraswati Temple, Basar", "Koothanur Temple, Tamil Nadu", "Sharada Peeth"],
+  "festivals": ["Vasant Panchami", "Navaratri", "Ayudha Puja"],
+  "facts": [
+    {
+      "text": "The Rigveda pictures the river-goddess as a loud, unstoppable flood that roars like a bull, a long way from the gentle figure with a veena that people know today.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In many medieval Vishnu sculptures, especially in Bengal, Saraswati stands in the place usually given to Bhumi, so she and Lakshmi flank Vishnu as his two wives.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana's Uttara Kanda, Saraswati is said to cloud the mind of the rakshasa Kumbhakarna, so he asks Brahma for long sleep instead of the invincibility he meant to ask for.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Yajur Veda says she healed Indra after he drank too much soma, and Vedic hymns also call her a slayer of Vritra, the snake-like drought that blocks the rivers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Bali, Hari Raya Saraswati closes the 210-day Pawukon calendar. The next day, Banyu Pinaruh, people go at dawn to the sea, a waterfall or a river to pray to her and rinse themselves, then share a feast such as bebek betutu and nasi kuning.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Maharaja Ranjit Singh encouraged Basant celebrations, and some Chishti Sufis also mark the day in memory of Nizamuddin Aulia, so the festival crosses several communities.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasant_Panchami",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Japan she became Benzaiten. The name came into Japanese from a Chinese phrase meaning \"great eloquence deity\", and she joined the Seven Lucky Gods.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Benzaiten",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Vishvamitra curses her to flow with blood after she favours his rival Vasishtha. Sages later purify her waters, and out of compassion she becomes the reddish Aruna so that asuras can bathe in her and reach heaven.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 12th-century temple at Halebidu in Karnataka shows Saraswati dancing with eight hands that hold instruments and tools of the arts, a lively contrast to her usual seated pose.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, a twelve-year drought makes the sages forget the Vedas. Saraswati raises Sarasvata and feeds him fish through the famine, and he later teaches the scriptures again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition holds that the goddess Sharada moved from her ruined temple in Kashmir to live in Sringeri in Karnataka. The old shrine's ruins lie near the Line of Control.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shakti_Peetha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars have long matched the Vedic river with the Ghaggar-Hakra system in north-west India, but recent geology suggests that channel was a former Sutlej course and had dried up before the Rigveda was composed, so the debate is still open.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Saraswati_River",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Many Hindus believe the unseen Saraswati joins the Ganga and Yamuna at the Triveni Sangam in Prayagraj, flowing underground, which is why that meeting of rivers is counted as three.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Saraswati_River",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Burma she is Thurathadi, a guardian of Buddhist scriptures, and students there often pray to her for blessings before exams.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest known sculpture of Saraswati in any religious tradition is a Jain one from Kankali Tila in Mathura, dated to 132 CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some images give her a peacock instead of a swan. The peacock eats snakes, so it is read as turning the poison inside us into the bright feathers of wisdom.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A hymn in the Golden Light Sutra, a Mahayana Buddhist text first known from a Chinese translation of 417 CE, describes a warlike eight-armed Saraswati, compared to a lion, who carries a bow, arrow, sword, spear, axe, vajra, iron wheel and noose.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, a fiery being born from a sage's anger threatens to destroy creation. Saraswati, though unwilling, leads it to the sea god Varuna, who swallows it, and she then becomes a river that reaches the sea through five channels.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kerala and Tamil Nadu, children are taught to write for the first time on Vijayadashami, tracing letters with a finger in rice spread on a plate. The rite is called Vidyarambham.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "During Navaratri in Kerala and Tamil Nadu, families place their books before the goddess on Ashtami and do not read them again until the morning of Vijayadashami, so the books get a rest.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Tiruvalluva Maalai, a collection of fifty-five Tamil verses praising the Kural and its author Valluvar, she is called Namagal and is believed to have composed the second verse.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tibetan Buddhists know her as Yangchenma, \"goddess of melodious voice\", and some also call her the Tara of Music.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Saraswati",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which instrument does Saraswati usually hold?",
+      "options": ["Flute", "Veena", "Drum", "Conch"],
+      "answer": 1,
+      "why": "The veena stands for music and the arts."
+    },
+    {
+      "q": "What bird is often shown near Saraswati?",
+      "options": ["Owl", "Parrot", "Swan (hamsa)", "Crow"],
+      "answer": 2,
+      "why": "The swan is said to separate milk from water, a sign of wise choices."
+    },
+    {
+      "q": "On which festival do many children begin their first letters?",
+      "options": ["Vasant Panchami", "Holi", "Raksha Bandhan", "Pongal"],
+      "answer": 0,
+      "why": "Vasant Panchami is Saraswati's day."
+    },
+    {
+      "q": "In Japan, Saraswati is known as which goddess?",
+      "options": ["Amaterasu", "Benzaiten", "Kannon", "Inari"],
+      "answer": 1,
+      "why": "Benzaiten comes from Saraswati and plays a biwa lute."
+    },
+    {
+      "q": "What colour do people wear for Vasant Panchami?",
+      "options": ["Black", "Red", "Yellow", "Grey"],
+      "answer": 2,
+      "why": "Yellow matches the mustard flowers of spring."
+    }
+  ],
+  "related": ["brahma", "gayatri", "lakshmi", "parvati", "durga"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Saraswati",
+    "vasantPanchami": "https://en.wikipedia.org/wiki/Vasant_Panchami",
+    "benzaiten": "https://en.wikipedia.org/wiki/Benzaiten",
+    "basar": "https://en.wikipedia.org/wiki/Gnana_Saraswati_Temple",
+    "navaratri": "https://en.wikipedia.org/wiki/Navaratri",
+    "river": "https://en.wikipedia.org/wiki/Saraswati_River"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F3F0E6",
+    "c2": "#BFD8E4"
+  },
+  "order": 10
+}

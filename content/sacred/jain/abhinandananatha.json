@@ -1,0 +1,161 @@
+{
+  "slug": "abhinandananatha",
+  "name": "Abhinandananatha",
+  "aka": ["Abhinandana Swami"],
+  "native": "अभिनन्दननाथ",
+  "role": "Fourth Tirthankara of the present age",
+  "order": 4,
+  "summary": "Jains revere Abhinandananatha as the fourth Tirthankara, born in Ayodhya, with the monkey as his emblem and a footprint shrine called Anand Koot on Shikharji.",
+  "about": "Jain tradition counts Abhinandananatha as the fourth of the 24 Tirthankaras of our descending age. Texts say he belonged to the Ikshvaku dynasty, was born in Ayodhya to King Samvara and Queen Siddhartha, gave up worldly life, and reached omniscience under a priyangu tree. Jains believe he attained liberation on Mount Shikharji. Surviving sources give few stories about him, so his profile focuses on how he got his name, a verse praising him and his pilgrim places.",
+  "kidSummary": "Abhinandananatha is the fourth Tirthankara of Jainism. Jain stories say he was born in Ayodhya, and his symbol is the monkey. He found liberation on Shikharji hill, where pilgrims honour his footprints.",
+  "story": [
+    {
+      "title": "Born in Ayodhya",
+      "text": "Jain texts say he was born in Ayodhya to King Samvara and Queen Siddhartha, in the Ikshvaku royal family."
+    },
+    {
+      "title": "A name of welcome",
+      "text": "One Jain telling says the people of Ayodhya grew courteous and greeted one another while he was in the womb, so he was named Abhinandana."
+    },
+    {
+      "title": "A life of letting go",
+      "text": "He gave up royal comforts and chose the life of a monk."
+    },
+    {
+      "title": "Under the priyangu tree",
+      "text": "Jains believe he reached full knowledge while meditating beneath a priyangu tree."
+    },
+    {
+      "title": "At Shikharji",
+      "text": "Texts say he reached liberation on Mount Shikharji, where the Anand Koot shrine holds his footprints."
+    }
+  ],
+  "teaches": ["Detachment brings peace", "Truth is found through meditation"],
+  "symbol": "mountain",
+  "emblems": ["Monkey (lanchana)", "Priyangu tree", "Golden colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Samvara"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Siddhartha"
+    }
+  ],
+  "texts": ["Svayambhustotra", "Uttarapurana"],
+  "places": ["Ayodhya", "Sammed Shikharji", "Abhinandanoday Teerth Kshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "One Jain telling says he was named Abhinandana, meaning greeting, because the people of Ayodhya grew courteous and began to greet and honour one another while he was in the womb.",
+      "kind": "language",
+      "source": "https://jainworld.com/?p=10576",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As at the birth of every Tirthankara, Indra is said to have come down with his queen Shachi and the elephant Airavata to carry the newborn to Mount Meru for a ceremonial bath.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Swayambhustotra/007721/209",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A retelling says that in an earlier life he was a humble king named Mahabal, who took initiation under Vimal Suri before being reborn in the Vijay realm.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10576",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts give his height as 350 bows, which the Wikipedia page converts to about 1,050 metres, and his lifespan as 50 lakh purvas.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Abhinandananatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A verse by Samantabhadra says that feeding the body endlessly and indulging the senses leaves neither body nor soul at peace. It presents Abhinandananatha as the one who taught this truth about reality.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Abhinandananatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Anand Koot on Shikharji, a hilltop shrine holds his footprints instead of a statue. Jain texts say he reached liberation there with 1,000 other monks, on the same hill where 20 of the 24 Tirthankaras are believed to have done so.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Abhinandananatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 16th-century Chaturmukha Basadi at Gerusoppa in Karnataka is a stone temple with four faces, enshrining idols that look out in all four directions. It is among the temples linked with his worship.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Abhinandananatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A monkey is carved or stamped beneath his seat as his emblem. The priyangu tree under which he is said to have reached omniscience is called Aglaia elaeagnoidea by botanists.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Abhinandananatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal is Abhinandananatha's emblem?",
+      "options": ["Monkey", "Horse", "Bull", "Heron"],
+      "answer": 0,
+      "why": "A monkey is carved on his images."
+    },
+    {
+      "q": "Where was he born, per Jain texts?",
+      "options": ["Shravasti", "Kosambi", "Ayodhya", "Mathura"],
+      "answer": 2,
+      "why": "Ayodhya."
+    },
+    {
+      "q": "What does his Svayambhustotra verse say about only feeding the body and chasing pleasures?",
+      "options": [
+        "It makes you strong",
+        "It helps neither body nor soul",
+        "It brings fame",
+        "It cures illness"
+      ],
+      "answer": 1,
+      "why": "Indulging the body helps neither the body nor the soul."
+    },
+    {
+      "q": "Under which tree did he reach omniscience, per Jain tradition?",
+      "options": ["Banyan", "Mango", "Priyangu", "Neem"],
+      "answer": 2,
+      "why": "Botanists call it Aglaia elaeagnoidea."
+    },
+    {
+      "q": "What does his name Abhinandana suggest, in one Jain telling?",
+      "options": ["Greeting", "Invincible", "Lotus glow", "Moonlight"],
+      "answer": 0,
+      "why": "The people of Ayodhya are said to have greeted and honoured each other."
+    }
+  ],
+  "related": ["sambhavanatha", "sumatinatha", "ajitanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Abhinandananatha",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "cosmology": "https://en.wikipedia.org/wiki/Jain_cosmology",
+    "siddhartha": "https://en.wikipedia.org/wiki/Siddhartha",
+    "jainworld": "https://jainworld.com/?p=10576",
+    "svayambhustotra": "https://jainqq.org/pagetext/Swayambhustotra/007721/209"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f0dcc0",
+    "c2": "#d9e4d0"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

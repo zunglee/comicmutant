@@ -1,0 +1,179 @@
+{
+  "slug": "dharmanatha",
+  "name": "Dharmanatha",
+  "aka": ["Dharmanath", "Dharma", "Lord of Dharma"],
+  "native": "धर्मनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "15th Tirthankara of the present age",
+  "summary": "Jains revere Dharmanatha as the 15th Tirthankara of this age, born in Ratnapuri. His name means the lord of dharma, and his emblem is the thunderbolt.",
+  "about": "According to Jain tradition, Dharmanatha was born in Ratnapuri, a city said to lie west of Ayodhya, to King Bhanu and Queen Suvrata of the Ikshvaku line. Jain texts say that because the household turned so deeply to religious practice during the pregnancy, the child was named Dharmanatha, lord of dharma. He is said to have ruled, then renounced, practised austerities for two years and reached omniscience before teaching a large community. Jains believe he attained liberation on Mount Shikharji. Svetambara and Digambara accounts differ in some names, dates and counts. In Ahmedabad, the Hutheesing Jain Temple, built in 1848, enshrines him as its main image.",
+  "kidSummary": "Dharmanatha is remembered by Jains as the 15th Tirthankara. His name means the lord of dharma, which is about living rightly and kindly. The stories say his mother spent her days in prayer and kindness before he was born, and his sign is a thunderbolt.",
+  "story": [
+    {
+      "title": "A home of kindness",
+      "text": "Jain texts say that while his mother carried him, she took great interest in good deeds and prayer. The whole family followed her example and the home was full of calm."
+    },
+    {
+      "title": "A name from dharma",
+      "text": "Because of this, the king named the boy Dharmanatha, which means lord of dharma, or the right way to live."
+    },
+    {
+      "title": "A king who let go",
+      "text": "Svetambara accounts say he grew up, married and ruled. Then, Jain accounts say, he decided that power and comfort could not give lasting peace, and he gave them up with a thousand kings."
+    },
+    {
+      "title": "Two quiet years",
+      "text": "He wandered as a monk for two years, meditating and eating only simple food offered by householders. Then, Jains believe, he gained perfect knowledge under a tree."
+    },
+    {
+      "title": "Teaching and liberation",
+      "text": "He taught about kindness and about how passions such as anger and greed trouble the mind. At the end of his life, Jains believe, he reached liberation on Mount Shikharji."
+    }
+  ],
+  "teaches": ["Living by dharma every day", "Calming anger and greed", "Kindness through example"],
+  "symbol": "sun",
+  "emblems": ["Vajra / thunderbolt (lanchana)", "Golden complexion", "Dadhiparna tree"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Bhanu"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Suvrata (Digambaras: Suprabha)"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Anantanatha",
+      "slug": "anantanatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Shantinatha",
+      "slug": "shantinatha"
+    }
+  ],
+  "texts": [
+    "Trishashtishalakapurusha Charitra (Hemachandra)",
+    "Jain Puranas",
+    "Avashyaka-niryukti"
+  ],
+  "places": [
+    "Ratnapuri, Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Hutheesing Jain Temple, Ahmedabad",
+    "Kochi Jain Temple, Mattancherry"
+  ],
+  "festivals": ["Dharmanatha Janma Kalyanak (Magha bright half)"],
+  "facts": [
+    {
+      "text": "The Jaina Iconography suggests his thunderbolt-staff emblem echoes the staff of Yama, whose other names include Dharmaraja and Dharmanatha.",
+      "kind": "symbol",
+      "source": "https://www.wisdomlib.org/definition/dharmanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His sermon in Hemachandra names four passions, anger, conceit, deceit and greed, with remedies forbearance, humility, sincerity and contentment, and warns that anger can burn away in an instant penance built over a vast time.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213336.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra describes Ratnapura, his birthplace, as a city with three seasons at once: cool from garden tanks, warm from kitchens and rainy from elephants' ichor.",
+      "kind": "art",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213317.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Hutheesing Temple was built during a severe famine in Gujarat, giving work to hundreds of artisans for about two years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hutheesing_Jain_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The sermon's greed ladder: someone with nothing wants a hundred, then a thousand, a lakh, a crore, a kingdom, an emperor's rank, a god's, and finally Indra's, since greed grows like grass.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213336.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's tale of his age, half-brothers Sudarshana and Purushasimha were raised together. The rival Nishumbha offered 'protection', which Purushasimha took as an insult, so war followed and Purushasimha killed Nishumbha.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/jina/dharma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After a two-day fast he first ate at the house of King Dharmasimha in some versions and Dhanyasena in others. He then wandered two years before gaining omniscience under a dadhiparna tree.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/jina/dharma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Kochi Jain temple in Mattancherry, built in 1904, is also dedicated to him, which makes him the main deity of a temple in Kerala as well as Gujarat.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dharmanatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Dharmanatha mean?",
+      "options": ["Lord of peace", "Lord of dharma", "Lord of victory", "Lord of light"],
+      "answer": 1,
+      "why": "Dharmanatha means lord of dharma, from his religious household during the pregnancy."
+    },
+    {
+      "q": "What is his emblem?",
+      "options": ["Thunderbolt", "Boar", "Deer", "Goat"],
+      "answer": 0,
+      "why": "His lanchana is the vajra, or thunderbolt."
+    },
+    {
+      "q": "Which Ahmedabad temple has his image as its main image?",
+      "options": ["Dilwara", "Ranakpur", "Hutheesing Jain Temple", "Palitana"],
+      "answer": 2,
+      "why": "The Hutheesing temple enshrines Dharmanatha in white marble as its main image (mulnayak)."
+    },
+    {
+      "q": "Which four passions does his sermon in Hemachandra's account name?",
+      "options": [
+        "Anger, conceit, deceit and greed",
+        "Hunger, thirst, heat and cold",
+        "Fear, sleep, speech and sorrow",
+        "Pride, music, wealth and fame"
+      ],
+      "answer": 0,
+      "why": "It pairs each with a remedy: forbearance, humility, sincerity and contentment."
+    },
+    {
+      "q": "Where do Jains believe he reached liberation?",
+      "options": ["Mount Shikharji", "Ratnapuri", "Kampilya", "Girnar"],
+      "answer": 0,
+      "why": "Jain tradition places his liberation at Mount Sammeta, now Shikharji."
+    }
+  ],
+  "related": ["anantanatha", "shantinatha", "mahavira", "mallinatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dharmanatha",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/dharma",
+    "jainworld": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/dharmnath-bhagavan-15/",
+    "hutheesing": "https://en.wikipedia.org/wiki/Hutheesing_Jain_Temple",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213314.html",
+    "wisdomlib": "https://www.wisdomlib.org/definition/dharmanatha"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f6e3c2",
+    "c2": "#d8e6f0"
+  },
+  "order": 15
+}

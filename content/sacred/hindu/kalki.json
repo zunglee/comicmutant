@@ -1,0 +1,270 @@
+{
+  "slug": "kalki",
+  "name": "Kalki",
+  "aka": ["Kalkin", "Kalki Avatar"],
+  "native": "कल्कि",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "Tenth and future avatar of Vishnu",
+  "summary": "In Puranic tradition Kalki is the tenth avatar of Vishnu, still to come at the end of the Kali Yuga. He is described riding a white horse and carrying a blazing sword.",
+  "about": "Kalki is described in the Puranas as the final avatar of Vishnu, expected at the end of the present age, the Kali Yuga, to bring a new Satya Yuga. He is pictured on a white horse with a shining sword. The Vedas do not mention him, and he first appears in a later passage of the Mahabharata. The Kalki Purana, a late text probably from Bengal, tells that he is born in Shambhala to Vishnuyashas and Sumati, studies with Parashurama and receives a horse, a sword and a parrot from Shiva. Texts differ on details, and the Vayu Purana gives the ending of the age to a different figure, Pramiti. Buddhist Kalachakra texts speak of Kalki kings of Shambhala, and the Sikh Dasam Granth lists Kalki among its twenty-four avatars. The film Kalki 2898 AD brought the name to a new audience in 2024.",
+  "kidSummary": "Kalki is the avatar of Vishnu who has not yet come, according to Hindu tradition. Old texts say he will ride a white horse and carry a shining sword at the end of the age to begin a new, good age. The story is about hope that kindness and truth will return.",
+  "story": [
+    {
+      "title": "A future promise",
+      "text": "Puranic texts say that when the age called Kali Yuga is nearly over, Vishnu will take a final form to bring in a new age of goodness."
+    },
+    {
+      "title": "Born in Shambhala",
+      "text": "In the Kalki Purana, Kalki is born in the village of Shambhala. His father is Vishnuyashas and his mother is Sumati."
+    },
+    {
+      "title": "A teacher and gifts",
+      "text": "He learns the arts of war from Parashurama. Shiva gives him a white horse called Devadatta, a jewelled sword and a talking parrot named Shuka."
+    },
+    {
+      "title": "Putting things right",
+      "text": "Riding the horse, he and his generals are said to defeat the forces of greed and cruelty, including the family of Kali, the asura of the dark age (not the goddess Kali)."
+    },
+    {
+      "title": "A new age begins",
+      "text": "After his victory, the Kalki Purana says a new Satya Yuga starts, a golden age when truth and justice are strong again."
+    }
+  ],
+  "teaches": [
+    "Hope that goodness returns",
+    "Truth and justice matter",
+    "Every age comes to an end and renews"
+  ],
+  "symbol": "sword",
+  "emblems": ["White horse (Devadatta)", "Blazing sword", "Parrot Shuka"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vishnuyashas"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sumati"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    },
+    {
+      "relation": "Wife",
+      "name": "Padmavati"
+    },
+    {
+      "relation": "Wife",
+      "name": "Rama (princess)"
+    }
+  ],
+  "texts": [
+    "Kalki Purana",
+    "Mahabharata",
+    "Vishnu Purana",
+    "Garuda Purana",
+    "Devi Bhagavata Purana",
+    "Dasam Granth"
+  ],
+  "places": [
+    "Shambhala, as named in the Puranas",
+    "Sambhal, Uttar Pradesh",
+    "Kanchipuram, Tamil Nadu"
+  ],
+  "festivals": ["Kalki Jayanti"],
+  "facts": [
+    {
+      "text": "The name Kalki is linked to kala, time, and to the Kali Yuga. Some Mahabharata manuscripts use Karki, which may mean white, perhaps for the horse.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Kanchipuram temple, two relief panels show Kalki as the child of the lunar and solar dynasties, and tell of him defeating the asura Kali.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 7
+    },
+    {
+      "text": "In the Kalki Purana, Kalki is born on the thirteenth day of the waxing moon fortnight, in the village of Shambhala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 7
+    },
+    {
+      "text": "The Kali Yuga is traditionally dated to begin in 3102 BCE, and Puranic tradition says it lasts 432,000 years, made of a long main period and two shorter twilights.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kali_Yuga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Kalki Purana, Shiva gives Kalki a white horse called Devadatta, said to be a form of Garuda, along with a jewelled sword and a parrot called Shuka who knows the past, present and future.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki_Purana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "According to Ibn Battuta, the last Yuan emperor of China sent an embassy to the Sultan of Delhi asking leave to rebuild a Buddhist temple at Sambhal, a town that drew pilgrims from Tibet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sambhal",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Kalki Purana, Kalki marries Padmavati and a princess named Rama, not the prince Rama of the Ramayana.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 7
+    },
+    {
+      "text": "In the Kalki Purana, Kalki and his generals defeat the sorcerer generals Koka and Vikoka and wipe out the family of Kali, an asura who is the son of Krodha (Anger) and Himsa (Violence). This Kali is not the goddess Kali.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 2024 Telugu-language film Kalki 2898 AD, released on 27 June 2024, is a mythological science-fiction story set in the year 2898 and draws its title from the future avatar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalki_2898_AD",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars suggest the Kalki idea grew partly as a reaction to invasions from the northwest. The Mahabharata mentions Kalki only once, in verses 3.188.85 to 3.189.6, and Hiltebeitel reads him there as an extension of the Parashurama legend.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 7
+    },
+    {
+      "text": "The Puranas name Shambhala as Kalki's birthplace, and some identify it with Sambhal in Uttar Pradesh, where a Shri Kalki Vishnu Mandir stands today.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sambhal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Kalki Purana, the evil Kali is not born from the ocean's poison as in other texts, but comes from a long family line that starts with monsters born from Brahma's back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki_Purana",
+      "interest": 8
+    },
+    {
+      "text": "The Puranas say the immortal Chiranjivis will help Kalki at various stages of his life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nicholas and Helena Roerich led a 1924 to 1928 expedition in search of Shambhala. They believed Belukha Mountain in the Altai range was a gateway to it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shambhala",
+      "interest": 8
+    },
+    {
+      "text": "The Sikh Dasam Granth, traditionally linked to Guru Gobind Singh, lists Kalki as the 24th avatar in its Chaubis Avatar section.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 8
+    },
+    {
+      "text": "The Vishnu Purana (4.24) names Shambhala as the place where Kalki will be born and bring in a new Satya Yuga.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shambhala",
+      "interest": 7
+    },
+    {
+      "text": "Shambhala may have inspired Shangri-La, the hidden paradise valley in James Hilton's 1933 novel Lost Horizon.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shambhala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A shrine tradition says Vaishno Devi waits in a cave on Trikuta mountain to marry Kalki, as Rama is said to have promised her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 8
+    },
+    {
+      "text": "The Buddhist Kalachakra Tantra calls the kings of Shambhala Kalki. The 25th is expected to lead a huge army, and tradition dates the final battle to 2424 or 2425, the 3304th year after the Buddha's death.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shambhala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Kalki Purana is an Upapurana, not one of the 18 great Puranas. Wendy Doniger dates it to 1500 to 1700 CE, and a manuscript found in Dhaka dates it to at least 1726.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalki_Purana",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which avatar of Vishnu is still to come, according to Puranic tradition?",
+      "options": ["Rama", "Kalki", "Vamana", "Matsya"],
+      "answer": 1,
+      "why": "Kalki is the tenth avatar, expected at the end of the Kali Yuga."
+    },
+    {
+      "q": "What is the name of Kalki's white horse?",
+      "options": ["Devadatta", "Uchchaihshravas", "Ashwini", "Chetak"],
+      "answer": 0,
+      "why": "The Kalki Purana names Kalki's horse Devadatta."
+    },
+    {
+      "q": "Who teaches Kalki the art of war in the Kalki Purana?",
+      "options": ["Parashurama", "Hanuman", "Vyasa", "Narada"],
+      "answer": 0,
+      "why": "Parashurama, the sixth avatar, trains him."
+    },
+    {
+      "q": "What is the name of Kalki's parrot?",
+      "options": ["Hiraman", "Shuka", "Mayura", "Kaka"],
+      "answer": 1,
+      "why": "Shiva gives him a parrot called Shuka that knows past, present and future."
+    },
+    {
+      "q": "In which village is Kalki to be born, according to the Puranas?",
+      "options": ["Shambhala", "Ayodhya", "Mathura", "Kashi"],
+      "answer": 0,
+      "why": "The Puranas name Shambhala, which some identify with Sambhal, as his birthplace."
+    }
+  ],
+  "related": [
+    "vishnu",
+    "parashurama",
+    "shiva",
+    "krishna",
+    "rama",
+    "matsya",
+    "narasimha",
+    "vamana",
+    "varaha",
+    "kurma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kalki",
+    "kalkipurana": "https://en.wikipedia.org/wiki/Kalki_Purana",
+    "dashavatara": "https://en.wikipedia.org/wiki/Dashavatara",
+    "shambhala": "https://en.wikipedia.org/wiki/Shambhala",
+    "sambhal": "https://en.wikipedia.org/wiki/Sambhal",
+    "film": "https://en.wikipedia.org/wiki/Kalki_2898_AD",
+    "kaliyuga": "https://en.wikipedia.org/wiki/Kali_Yuga",
+    "kalki": "https://en.wikipedia.org/wiki/Kalki"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfd8ee",
+    "c2": "#f0dcc0"
+  },
+  "order": 10
+}

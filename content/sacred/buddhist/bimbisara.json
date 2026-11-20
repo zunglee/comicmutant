@@ -1,0 +1,289 @@
+{
+  "slug": "bimbisara",
+  "name": "Bimbisara",
+  "aka": ["Shrenika", "Seniya", "Srenika"],
+  "native": "बिम्बिसार",
+  "role": "King of Magadha and early royal friend of the Buddha",
+  "summary": "Bimbisara ruled Magadha around the Buddha's time. Buddhist tradition says he gave the Buddha a forest monastery; Jain tradition knows him as Shrenika, a devotee of Mahavira.",
+  "about": "Bimbisara was a king of Magadha who belonged to the Haryanka dynasty and ruled from Rajagriha in present-day Bihar. Traditional dates run from about 558 to 491 BCE, though some historians place him later. He grew his kingdom by taking over Anga and by marrying princesses from neighbouring Kosala, Vaishali and the Madra clan. Buddhist texts say he met the Buddha before his awakening, became a follower and offered him a forest monastery. Jain texts call him Shrenika and say he visited Mahavira. The Buddhist and Jain traditions disagree about his death: Buddhist texts say his son Ajatashatru had him killed, while Jain texts say he took his own life. His expansion of Magadha is thought to have prepared the way for the later Maurya empire.",
+  "kidSummary": "Bimbisara was a king of Magadha. One morning he saw a calm young monk walking with his alms bowl and sent people to follow him. That monk was the future Buddha. Years later Bimbisara became his friend, and in Buddhist stories he gave him a quiet grove.",
+  "story": [
+    {
+      "title": "A king looks out his window",
+      "text": "One day King Bimbisara looked out from his palace and saw a handsome young monk collecting alms. He was so calm that the king sent messengers to follow him."
+    },
+    {
+      "title": "An offer of riches",
+      "text": "The messengers found him sitting on a mountain. The king rode there and offered him wealth and honour, but the monk gently said he wanted to find peace instead."
+    },
+    {
+      "title": "A friend of the Buddha",
+      "text": "Buddhist texts say Bimbisara met the Buddha again after his awakening. He listened to the teaching and became a follower, and the two stayed friends."
+    },
+    {
+      "title": "The gift of a grove",
+      "text": "Bimbisara gave the Buddha and his monks a peaceful forest near Rajagriha as a place to stay. Many early teachings were given near this royal city."
+    },
+    {
+      "title": "The two traditions",
+      "text": "Buddhist and Jain stories both remember Bimbisara kindly, though they call him by different names and tell his ending differently."
+    }
+  ],
+  "teaches": [
+    "Respect for wise teachers",
+    "Giving a place where others can learn",
+    "Kings can protect, not only conquer"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Bamboo grove (Veluvana)", "Mountain fortress of Rajagriha"],
+  "family": [
+    {
+      "relation": "Son",
+      "name": "Ajatashatru"
+    },
+    {
+      "relation": "Wife (Buddhist tradition)",
+      "name": "Kosala Devi"
+    },
+    {
+      "relation": "Wife",
+      "name": "Chellana"
+    },
+    {
+      "relation": "Wife",
+      "name": "Kshema",
+      "slug": "khema"
+    },
+    {
+      "relation": "Physician at court",
+      "name": "Jivaka"
+    },
+    {
+      "relation": "Said to be his descendant",
+      "name": "Ashoka",
+      "slug": "ashoka"
+    }
+  ],
+  "texts": [
+    "Sutta Nipata 3.1 (Pabbajja Sutta)",
+    "Mahavagga (Vinaya)",
+    "Jain Agamas (Shrenika)",
+    "Ashokavadana"
+  ],
+  "places": ["Rajagriha (Rajgir), Bihar", "Girivraja", "Anga and Champa", "Veluvana (Venu Van)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Sri Lankan chronicles say the Buddha-to-be and Bimbisara were friends as boys because their fathers were friends; the Pabbajja Sutta instead puts their first meeting after the Buddha left home.",
+      "kind": "history",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Pali dictionary says Bimbisara took the throne at fifteen and ruled from Rajagaha for fifty-two years, and that the Buddha was about five years older than he was.",
+      "kind": "history",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahavagga text depicts him as having 500 wives.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bimbisara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Pabbajja Sutta, the king sees the future Buddha on an alms round from his palace, sends scouts, rides out to meet him on Mount Pandava, and offers him wealth, which he politely declines.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.3.01.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Palace women who visited the Buddha only in the evenings asked for something to venerate at any time, so Bimbisara asked and the Buddha agreed to a hair-and-nail stupa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bimbisara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Commentaries explain his name as 'golden-coloured', and he is said to have flown a white banner, which gave him the epithet Pandaraketu, 'white-bannered'.",
+      "kind": "language",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to Jain texts, he will be reborn as Padmanabha (Mahapadma), the first Tirthankara of the next half-cycle of time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bimbisara",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Pali dictionary says the rich man Jotiya lived in a house built wholly of jewels while the king's own palace was wooden, yet the king felt no jealousy.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "People called Bimbisara the happiest of men, but the Buddha is recorded as saying that he himself was far happier than the king.",
+      "kind": "teaching",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary says no weapon could hurt him when his own son plotted against him, so the plotters chose to starve him in a hot-house prison instead.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Buddhist commentaries, Ajatashatru was a baby when he once got a boil on his finger; Bimbisara sucked it, and the boil burst in his mouth, but out of love he swallowed the pus.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajatashatru",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before Ajatashatru was born, soothsayers warned he would cause his father's death; his mother wanted to end the pregnancy, but Bimbisara refused and doted on the boy.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bimbisara promised the monk Pilindavaccha a park-keeper, forgot, and 500 days later made amends by giving 500 park-keepers and a whole village for them to live in.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A commentary says Bimbisara poured water from a golden jar over the Buddha's hand to give the Veluvana bamboo grove to the Buddha and his monks.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Ajatashatru starved him in prison, Queen Kosala Devi smuggled in food, hiding it first in her clothes, then in her headdress, then in her shoes, until each trick was found.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The commentary says that once visits were banned, Bimbisara kept himself alive by pacing in walking meditation in his cell.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "To welcome the Buddha, he is said to have repaired the road toward the Ganges, built a rest house at every league, and strewn flowers knee-deep along the way.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the Buddha crossed the Ganges by boat, the commentary says Bimbisara followed the boat into the river, wading in up to his neck.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A commentary tale says he forgot to roof four huts built for monks, so the gods held back the rain until he remembered.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When the physician Jivaka cured the king's fistula, the queens had mocked his blood-stained clothes; the king offered Jivaka the ornaments of 500 palace women, and Jivaka refused them.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the Buddha's first return visit, the king said his five life ambitions had come true: to be king, to host the Buddha, to serve him, to hear the teaching and to understand it.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Pali dictionary says that after death he was reborn as a yakkha named Janavasabha in the retinue of Vessavana; the Janavasabha Sutta records a visit he paid to the Buddha.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/bimbisara.html",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which dynasty did Bimbisara belong to?",
+      "options": ["Maurya", "Gupta", "Haryanka", "Nanda"],
+      "answer": 2,
+      "why": "He was a Haryanka king of Magadha."
+    },
+    {
+      "q": "What do Jains call Bimbisara?",
+      "options": ["Shrenika", "Padmavati", "Chetaka", "Kunika"],
+      "answer": 0,
+      "why": "Jain texts call him Shrenika, a devotee of Mahavira."
+    },
+    {
+      "q": "What did the king offer the future Buddha when they met?",
+      "options": ["A sword", "A horse", "Wealth and honour", "A boat"],
+      "answer": 2,
+      "why": "He offered wealth, but the monk chose his own path."
+    },
+    {
+      "q": "What city did Bimbisara rule from?",
+      "options": ["Ujjain", "Pataliputra", "Rajagriha", "Taxila"],
+      "answer": 2,
+      "why": "His first capital was Girivraja, identified with Rajagriha."
+    },
+    {
+      "q": "Which kingdom did Bimbisara conquer to the east?",
+      "options": ["Gandhara", "Anga", "Kosala", "Kuru"],
+      "answer": 1,
+      "why": "After the Anga campaign succeeded, Anga was annexed and prince Kunika (Ajatashatru) was made governor at Champa."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "ambapali",
+    "devadatta",
+    "ashoka",
+    "mahavira",
+    "anathapindika",
+    "khema"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bimbisara",
+    "pabbajja_sutta": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.3.01.than.html",
+    "rajgir": "https://en.wikipedia.org/wiki/Rajgir",
+    "ajatashatru": "https://en.wikipedia.org/wiki/Ajatashatru",
+    "jivaka": "https://en.wikipedia.org/wiki/Jivaka",
+    "dppn": "https://aimwell.org/DPPN/bimbisara.html"
+  },
+  "palette": {
+    "c1": "#e0e8d8",
+    "c2": "#efe4d0"
+  },
+  "years": "c. 558 – c. 491 BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "full"
+}

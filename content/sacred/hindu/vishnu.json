@@ -1,0 +1,337 @@
+{
+  "slug": "vishnu",
+  "name": "Vishnu",
+  "aka": ["Narayana", "Hari", "Perumal", "Mayon"],
+  "native": "विष्णु",
+  "tradition": "hindu",
+  "group": "trimurti",
+  "role": "The preserver god of the Trimurti",
+  "summary": "In Hindu tradition Vishnu preserves the world and restores balance, often by taking avatars such as Rama and Krishna; he rests on the serpent Shesha and rides Garuda.",
+  "about": "Vishnu is the preserver in the Trimurti and the central deity of Vaishnavism. His name is traditionally explained as \"the all-pervading one\". Few Rigveda hymns address him, yet in the Puranas he becomes supreme for many devotees, who say he descends as avatars, listed as ten in the Dashavatara, in two common versions, and counted differently across texts. He is pictured with dark blue skin, four arms holding a conch, discus, mace and lotus, and resting on the serpent Shesha on the cosmic ocean, with Lakshmi as his consort. Temples such as Srirangam, Tirupati and Angkor Wat honour him.",
+  "kidSummary": "Vishnu is the god who, in Hindu stories, keeps the world safe and in balance. When trouble grows he comes to earth in new forms called avatars, like Rama and Krishna. He sleeps on a huge snake in a calm milky ocean.",
+  "story": [
+    {
+      "title": "The cosmic ocean",
+      "text": "The Puranas picture Vishnu resting on the giant serpent Shesha, floating on a calm ocean, dreaming the universe into being."
+    },
+    {
+      "title": "A lotus and a creator",
+      "text": "From his navel grows a lotus, and in many tellings Brahma sits on it and begins to create the world."
+    },
+    {
+      "title": "When the world is in trouble",
+      "text": "When dharma, the right way of living, is in danger, Vishnu comes to earth in a new form, an avatar, to set things right."
+    },
+    {
+      "title": "Rescuing a friend",
+      "text": "In the Gajendra story, an elephant trapped by a crocodile prays for help. Vishnu rushes down on Garuda, his eagle mount, and frees him."
+    },
+    {
+      "title": "Three giant steps",
+      "text": "The Vedas say Vishnu crossed the world in three great strides: the first two over earth and sky, the third into a place beyond mortal sight."
+    }
+  ],
+  "teaches": [
+    "Protect and care for others",
+    "Set things right with patience and balance",
+    "Help those who call for you"
+  ],
+  "symbol": "wave",
+  "emblems": [
+    "Panchajanya (conch)",
+    "Sudarshana (discus)",
+    "Kaumodaki (mace)",
+    "Lotus",
+    "Garuda (vahana)",
+    "Shesha (serpent couch)"
+  ],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Mount",
+      "name": "Garuda",
+      "slug": "garuda"
+    },
+    {
+      "relation": "Serpent couch",
+      "name": "Shesha",
+      "slug": "shesha"
+    },
+    {
+      "relation": "Avatar",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Avatar",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Vishnu Purana",
+    "Bhagavata Purana",
+    "Mahabharata",
+    "Vishnu Sahasranama",
+    "Naalayira Divya Prabandham"
+  ],
+  "places": [
+    "Srirangam Ranganathaswamy Temple",
+    "Tirumala (Venkateswara)",
+    "Angkor Wat",
+    "Badrinath"
+  ],
+  "festivals": ["Vaikuntha Ekadashi", "Diwali"],
+  "facts": [
+    {
+      "text": "Only 5 of the 1,028 hymns of the Rigveda are addressed to Vishnu, yet he later became one of the most widely worshipped deities in Hinduism.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishnu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Avatar lists differ. One common Dashavatara runs Matsya to Kalki, while the Shiva Purana swaps the Buddha for Balarama. The Bhagavata Purana names 22 in its first canto, the Manava names 42, and the Mahabharata's list starts with a swan, not a fish.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishnu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vishnu is said to fall asleep on Shesha in the cosmic ocean of milk on Shayani Ekadashi in the month of Ashadha. He wakes four months later on Prabodhini Ekadashi, and that rainy-season stretch is called Chaturmasya.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Shayani_Ekadashi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vamana story, King Bali had beaten the devas. Vishnu came as a young dwarf Brahmin asking for land he could cover in three steps, then grew to cosmic size; Bali offered his own head for the third step.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Puranic tradition says Vishvakarma trimmed the sun's glare so his daughter could live with Surya, then shaped three wonders from it: the flying chariot Pushpaka, Shiva's trident and Vishnu's Sudarshana discus. In the Mahabharata, Krishna uses it on Shishupala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sudarshana_Chakra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In later tellings, the fish Matsya, Vishnu's first avatar in the Dashavatara, rescues the Vedas from the asura Hayagriva, who snatched them when the age ended. Plenty of Puranas retell this, and some versions leave out the flood altogether.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana compares Vishnu to a spider and the universe to the web it spins.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishnu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hiranyakashipu's son Prahlada stayed devoted to Vishnu through his father's attempts to harm him. Asked where Vishnu was, he said everywhere, and Vishnu appeared from a pillar as Narasimha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Angkor Wat in Cambodia was built in the 12th century as a Hindu temple for Vishnu by the Khmer king Suryavarman II. Unlike most Khmer temples it faces west, a direction scholars link to Vishnu or to the king's funerary role.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Angkor Wat appears on Cambodia's national flag, a tradition going back well over a century, and the Angkor area became a UNESCO World Heritage Site in 1992.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A famous Angkor Wat wall carving shows the Churning of the Sea of Milk: 92 asuras and 88 devas pull the serpent Vasuki, as Vishnu directs the churning.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Angkor_Wat",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Srirangam temple in Tamil Nadu covers about 155 acres with 21 towers, and is described as the largest functioning religious complex in the world. The Alvar poet-saints sang 247 hymns in its praise.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Srirangam's main gateway tower is about 73 metres high with 13 tiers; building began under the Vijayanagara period and finished only in 1987.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As Mohini, the only female avatar of Vishnu, he tricked the asuras out of the nectar of immortality after the ocean was churned, and in another tale tricked the asura Bhasmasura into burning himself to ash.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mohini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Srirangam, the northern gate called Paramapada Vasal opens just once a year, on Vaikuntha Ekadashi, and devotees believe stepping through it leads toward Vishnu's abode.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vaikuntha_Ekadashi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Sri Lanka, Vishnu is worshipped as Upulvan, a name meaning 'blue water lily coloured'. Local lore says the Buddha entrusted this god with the guardianship of the island and of the Buddhist teachings there.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Upulvan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "By local tradition the seven peaks of the Tirumala hills are the seven heads of the cosmic serpent Shesha, on whom Vishnu is said to rest. The Venkateswara temple sits on the seventh peak, and pilgrims there can have their heads shaved as an offering.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Garuda, Vishnu's eagle mount, is the national emblem of both Indonesia and Thailand. In the Garuda story, Vishnu himself asked the bird to carry him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Mount Mandara, the churning rod, began to sink during the churning of the ocean of milk, Vishnu as the tortoise Kurma held it up on his shell. Among the treasures the churning brought forth was Lakshmi, who chose Vishnu as consort.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When the asura Hiranyaksha hid the earth goddess Bhumi in the cosmic waters, Vishnu took the form of the boar Varaha, dived down, lifted her on his tusks and set her back in her place.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jaya and Vijaya, gatekeepers of Vishnu's palace, mocked the four child sages, the Kumaras, and were cursed to be born three times on earth: as Hiranyaksha and Hiranyakashipu, then Ravana and Kumbhakarna, then Shishupala and Dantavakra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Four_Kumaras",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kalki, the tenth avatar, is foretold by several Puranas to arrive at the end of the Kali Yuga on a white horse named Devadatta, carrying a blazing sword, to end the age of adharma and start a new Satya Yuga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kalki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu Sahasranama is a hymn of 1,000 names of Vishnu. The best-known version is in the Mahabharata, and \"the Sahasranama\" usually means this one rather than the hymns of 1,000 names for other deities.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishnu_Sahasranama",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 2011 India's Supreme Court ordered Padmanabhaswamy Temple's secret vaults opened. The royal family said opening Vault B could be a bad omen, and a temple ritual called it forbidden. A 1933 guidebook tells of an earlier attempt, about 1908, ended by cobras.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A shaligram is a fossil ammonite from the ancient Tethys sea, collected from the Kali Gandaki river in Nepal, and Hindus worship it as a form of Vishnu. Adi Shankara's commentaries show the practice was well known by his time.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shaligram",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which serpent does Vishnu rest upon in the cosmic ocean?",
+      "options": ["Vasuki", "Shesha", "Kaliya", "Takshaka"],
+      "answer": 1,
+      "why": "Shesha is the primordial serpent whose coils form his couch."
+    },
+    {
+      "q": "Which bird carries Vishnu?",
+      "options": ["Garuda", "Hamsa", "Peacock", "Crow"],
+      "answer": 0,
+      "why": "Garuda, a divine eagle, is Vishnu's main mount."
+    },
+    {
+      "q": "Which of these is the name of Vishnu's conch?",
+      "options": ["Panchajanya", "Kaumodaki", "Sudarshana", "Nandaka"],
+      "answer": 0,
+      "why": "Panchajanya is the conch; Sudarshana is the discus and Kaumodaki the mace."
+    },
+    {
+      "q": "Which Cambodian temple was first built for Vishnu?",
+      "options": ["Bayon", "Angkor Wat", "Ta Prohm", "Banteay Srei"],
+      "answer": 1,
+      "why": "Angkor Wat was a Vishnu temple built by Suryavarman II."
+    },
+    {
+      "q": "How many names of Vishnu does the Vishnu Sahasranama list?",
+      "options": ["108", "1,000", "1,008", "10,000"],
+      "answer": 1,
+      "why": "Sahasranama means one thousand names."
+    }
+  ],
+  "related": [
+    "brahma",
+    "shiva",
+    "lakshmi",
+    "garuda",
+    "shesha",
+    "rama",
+    "krishna",
+    "narasimha",
+    "prahlada"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vishnu",
+    "srirangam": "https://en.wikipedia.org/wiki/Ranganathaswamy_Temple,_Srirangam",
+    "angkor": "https://en.wikipedia.org/wiki/Angkor_Wat",
+    "sahasranama": "https://en.wikipedia.org/wiki/Vishnu_Sahasranama",
+    "vamana": "https://en.wikipedia.org/wiki/Vamana",
+    "hiranyakashipu": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+    "mohini": "https://en.wikipedia.org/wiki/Mohini",
+    "vaikuntha": "https://en.wikipedia.org/wiki/Vaikuntha_Ekadashi",
+    "tirumala": "https://en.wikipedia.org/wiki/Venkateswara_Temple,_Tirumala",
+    "badrinath": "https://en.wikipedia.org/wiki/Badrinath_Temple",
+    "garuda": "https://en.wikipedia.org/wiki/Garuda",
+    "gita": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+    "shayani": "https://en.wikipedia.org/wiki/Shayani_Ekadashi",
+    "matsya": "https://en.wikipedia.org/wiki/Matsya",
+    "kurma": "https://en.wikipedia.org/wiki/Samudra_Manthan",
+    "varaha": "https://en.wikipedia.org/wiki/Varaha",
+    "kumaras": "https://en.wikipedia.org/wiki/Four_Kumaras",
+    "kalki": "https://en.wikipedia.org/wiki/Kalki",
+    "padmanabhaswamy": "https://en.wikipedia.org/wiki/Padmanabhaswamy_Temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#a9c8e6",
+    "c2": "#efe3b4"
+  },
+  "order": 2
+}

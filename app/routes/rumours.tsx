@@ -138,7 +138,11 @@ export default function Rumours({ loaderData: d }: Route.ComponentProps) {
                 </span>
               </div>
               {g.spice === 3 && i % 3 === 0 ? (
-                <ScratchCard label={`${g.name} rumour`} foil={g.palette.c3} className="rounded-md">
+                <ScratchCard
+                  label={`${g.name} rumour`}
+                  foil={g.palette.c3}
+                  className="rounded-skin-s"
+                >
                   <p className="min-h-20 leading-snug">{g.text}</p>
                 </ScratchCard>
               ) : (

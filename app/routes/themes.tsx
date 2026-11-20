@@ -275,7 +275,7 @@ function ThemeCard({
   const [c1, c2, c3] = r.swatch;
   const on = current.slug === r.slug;
   const pinned = top5.some((p) => p.slug === r.slug);
-  const bg = r.mood === 'dark' ? '#14111a' : '#fbf4e2';
+  const bg = r.mood === 'dark' ? 'var(--print-ink)' : 'var(--print-paper)';
   async function get(e: React.MouseEvent<HTMLButtonElement>, wear: boolean, doPin = false) {
     const rect = e.currentTarget.getBoundingClientRect();
     setState('busy');
@@ -301,15 +301,15 @@ function ThemeCard({
           style={{ background: c2 }}
         />
         <div
-          className="absolute top-8 left-3 h-4 w-20 -rotate-2 rounded-sm border-2 border-line"
+          className="absolute top-8 left-3 h-4 w-20 -rotate-2 rounded-skin-s border-2 border-line"
           style={{ background: c1 }}
         />
         <div
-          className="absolute top-14 left-3 h-2 w-28 rounded-sm"
+          className="absolute top-14 left-3 h-2 w-28 rounded-skin-s"
           style={{ background: r.mood === 'dark' ? '#f6f1e7aa' : '#16120eaa' }}
         />
         <div
-          className="absolute top-[4.5rem] left-3 h-2 w-20 rounded-sm"
+          className="absolute top-[4.5rem] left-3 h-2 w-20 rounded-skin-s"
           style={{ background: r.mood === 'dark' ? '#f6f1e766' : '#16120e66' }}
         />
         <div
@@ -317,7 +317,7 @@ function ThemeCard({
           style={{ background: c3 }}
         />
         <div
-          className="absolute right-4 bottom-3 size-7 rounded-full border-2 border-line"
+          className="absolute right-4 bottom-3 size-7 round border-2 border-line"
           style={{ background: c1 }}
         />
       </div>
@@ -390,7 +390,7 @@ function TopFiveEditor() {
             initial={{ scale: 0.6, opacity: 0 }}
             animate={{ scale: 1, opacity: 1 }}
             exit={{ scale: 0.6, opacity: 0 }}
-            className="flex items-center gap-2 rounded-full border-[3px] border-line bg-bg py-1 pr-1 pl-1"
+            className="flex items-center gap-2 round border-[3px] border-line bg-bg py-1 pr-1 pl-1"
           >
             <button
               type="button"
@@ -400,7 +400,7 @@ function TopFiveEditor() {
               }}
               aria-label={`Wear ${p.name}`}
               aria-pressed={current.slug === p.slug}
-              className="size-11 cursor-pointer rounded-full border-2 border-line"
+              className="size-11 cursor-pointer round border-2 border-line"
               style={{
                 background: `conic-gradient(${p.vars['--c1']} 0 50%, ${p.vars['--c2']} 0 80%, ${p.vars['--c3']} 0)`,
               }}

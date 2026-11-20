@@ -1,0 +1,269 @@
+{
+  "slug": "bakasura",
+  "name": "Bakasura",
+  "aka": ["Baka", "Vakasura"],
+  "native": "बकासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Rakshasa of Ekachakra in the Mahabharata",
+  "summary": "In the Mahabharata, Baka is a rakshasa who lived near the town of Ekachakra and received a cartload of food by turns from the townspeople. The Pandava Bhima took the cart to him in place of a Brahmin host.",
+  "about": "In the Mahabharata, Baka (also called Bakasura) is a rakshasa who lived in a forest near the town of Ekachakra. The epic says he guarded the kingdom from outside raiders, and in return the weak king let him claim food and, in turn, a person from each household. The townsfolk agreed to send a cartload of food, with the driver taken too; popular summaries say this happened every week, but the epic text says each family's turn came only after many years. While the five Pandavas and their mother Kunti were hiding in the town as Brahmins, their host family wept over their turn. Kunti decided that her son Bhima would go instead. Bhima carried the food to the forest, ate it himself and then wrestled Baka. The epic says Baka was defeated, and his kin promised to leave people in peace. The Bhagavata Purana has a different Bakasura, a crane-shaped asura who met the child Krishna.",
+  "kidSummary": "Bakasura is a giant in the Mahabharata who lived in a forest near the town of Ekachakra. The townspeople had to send him a cart full of food, taking turns. When it was a kind Brahmin family's turn, the strong Pandava Bhima went in their place. The story shows that helping the people who have helped you is a mark of true gratitude.",
+  "story": [
+    {
+      "title": "A town and a promise",
+      "text": "The people of Ekachakra were afraid of a rakshasa named Baka. They made a deal with him: by turns, a cart of food would be sent to his forest, along with the person who drove it."
+    },
+    {
+      "title": "A worried host family",
+      "text": "The Pandavas were hiding in the town and living with a Brahmin family. One day Kunti heard the family crying, because it was their turn to send the food cart. Each family member wanted to take the place of the others."
+    },
+    {
+      "title": "Kunti decides",
+      "text": "Kunti was grateful for the family's kindness and wished to repay it. She sent her strong son Bhima to take the cart instead, and Bhima gladly agreed."
+    },
+    {
+      "title": "The meal in the forest",
+      "text": "Bhima drove the cart into the forest at night. The food smelled so good that he began to eat it himself. When Baka arrived and found the cart half empty, he was furious and the two began to fight."
+    },
+    {
+      "title": "Peace for Ekachakra",
+      "text": "The two wrestled with uprooted trees until Bhima won. Baka's relatives were frightened and promised to stop harming people. The next morning the townspeople were amazed, and the town was safe."
+    }
+  ],
+  "teaches": [
+    "Repay kindness with kindness",
+    "Courage means taking a risk for someone else",
+    "Some promises can end fear for a whole town"
+  ],
+  "symbol": "mace",
+  "emblems": ["Cart of food", "Uprooted trees (the fight)"],
+  "family": [
+    {
+      "relation": "Younger brother",
+      "name": "Kirmira"
+    },
+    {
+      "relation": "Slain by",
+      "name": "Bhima",
+      "slug": "bhima"
+    },
+    {
+      "relation": "Mother of the Pandavas (sent Bhima)",
+      "name": "Kunti",
+      "slug": "kunti"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva, Bakavadha Parva)", "Bhagavata Purana (the crane asura)"],
+  "places": ["Ekachakra (Birbhum, West Bengal)", "Gangani forest near Garhbeta, West Bengal"],
+  "festivals": ["Bhimana Amavasya"],
+  "facts": [
+    {
+      "text": "When Kunti offered Bhima, Yudhishthira asked whether she had lost her senses, and reminded her how often Bhima had saved the family, from the fire trap and from a monster.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01165.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the epic Bhima called out Baka's name as he ate the food, and Baka came storming out and demanded to know who dared eat his meal.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01166.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Baka hurled an uprooted tree; Bhima caught it with one hand and threw trees back until the area was bare, and as they wrestled the ground shook and big trees snapped.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01166.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Instead of killing Baka's kin, Bhima warned them that killing people would end as it had for Baka, and made them promise to stop. The epic says the rakshasas there then lived peacefully.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01167.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Karnataka, Bhimana Amavasya, the new moon of Ashadha, is regarded as Bhima's birthday and also as the day he overcame Bakasura.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhimana_Amavasya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ganguli text, Baka's fee was a cartload of rice, two buffaloes and the person who brought them, and each household's turn came only once in many years.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01163.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Yudhishthira worried, Kunti answered that Bhima had the strength of ten thousand elephants, and that as a baby he fell from her lap and broke the rock beneath him.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01165.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Ganguli text Bhima kept eating the food while Baka struck him on the back, and he did not even look up until the meal was done.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01166.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Baka's younger brother Kirmira later swore revenge on Bhima in the Kamyaka forest, but Bhima defeated him in a duel that Yudhishthira allowed.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kirmira",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana a different Bakasura appears: a giant crane asura sent by King Kamsa, and a brother of Putana and Aghasura.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bakasura_(crane_demon)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In that Bhagavata tale the crane swallowed the child Krishna, but the heat in its throat forced it to spit him out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bakasura_(crane_demon)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Krishna held the crane's two beak halves and pulled them apart; believers say the asura gained liberation, since Krishna frees those he slays.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bakasura_%28crane_demon%29",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ganguli translation describes Baka as huge, with red eyes, red hair and beard, a mouth stretching from ear to ear and a forehead marked by three lines.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01166.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Pandavas reached Ekachakra soon after Bhima's wedding to Hidimbi, and stayed with a Brahmin family before the Baka story begins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bakasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kunti asked the Brahmin family to tell nobody about her plan, since people curious about Bhima's strength might keep troubling her sons.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01164.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The next morning, to keep the Pandavas hidden, the host told the town only that a mantra-skilled Brahmin had smilingly gone in his place.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01167.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the epic the Brahmin's daughter offers herself and says a child is called putra, meaning rescuer, because children rescue their parents, so she will save her family.",
+      "kind": "language",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01162.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the epic the Brahmin's little son, seeing his family weep, picks up a blade of grass and cries that he will kill the cannibal with it, and the family smiles through its tears.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01162.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The next morning thousands of townspeople came to see the corpse, said to be huge as a mountain cliff, and began praying to their gods after seeing the superhuman feat.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01167.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kirmira, Baka's younger brother, came out after midnight in the Kamyaka forest with blazing hair and illusions, until the priest Dhaumya broke the spell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kirmira",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who took the food cart to Bakasura in the Mahabharata?",
+      "options": ["Arjuna", "Bhima", "Yudhishthira", "Nakula"],
+      "answer": 1,
+      "why": "Kunti sent her strong son Bhima in place of the Brahmin host."
+    },
+    {
+      "q": "Which town did Bakasura live near?",
+      "options": ["Dwaraka", "Ekachakra", "Hastinapura", "Mathura"],
+      "answer": 1,
+      "why": "Ekachakra was the town in the story."
+    },
+    {
+      "q": "What did Bhima do with the food on the way?",
+      "options": ["Gave it to the poor", "Ate it himself", "Threw it into a river", "Hid it"],
+      "answer": 1,
+      "why": "The smell tempted him, so Bhima ate the food himself."
+    },
+    {
+      "q": "What did Bhima make Baka's relatives promise?",
+      "options": [
+        "To leave the forest",
+        "To stop harming people",
+        "To fight him again",
+        "To give him a gift"
+      ],
+      "answer": 1,
+      "why": "Bhima made them promise not to hurt humans."
+    },
+    {
+      "q": "In which Karnataka observance is Bhima's win remembered?",
+      "options": ["Bhimana Amavasya", "Makar Sankranti", "Onam", "Pongal"],
+      "answer": 0,
+      "why": "Bhimana Amavasya is held on the new moon of Ashadha."
+    }
+  ],
+  "related": [
+    "bhima",
+    "kunti",
+    "yudhishthira",
+    "hidimbi",
+    "krishna",
+    "kamsa",
+    "putana",
+    "arjuna",
+    "ghatotkacha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bakasura",
+    "ekachakra": "https://en.wikipedia.org/wiki/Ekachakra",
+    "bhimana-amavasya": "https://en.wikipedia.org/wiki/Bhimana_Amavasya",
+    "crane-bakasura": "https://en.wikipedia.org/wiki/Bakasura_(crane_demon)",
+    "ganguli-163": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01163.htm",
+    "ganguli-165": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01165.htm",
+    "ganguli-166": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01166.htm",
+    "kirmira": "https://en.wikipedia.org/wiki/Kirmira",
+    "ganguli-mahabharata": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01167.htm",
+    "en-wikipedia-org-wiki-bakasura-28crane-d": "https://en.wikipedia.org/wiki/Bakasura_%28crane_demon%29",
+    "www-ibiblio-org-sripedia-ebooks-mb-m01-m": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01162.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E6D3A8",
+    "c2": "#C9D8B6"
+  },
+  "order": 500
+}

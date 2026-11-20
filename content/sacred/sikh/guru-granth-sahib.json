@@ -1,0 +1,278 @@
+{
+  "slug": "guru-granth-sahib",
+  "name": "Guru Granth Sahib",
+  "aka": ["Adi Granth", "Granth Sahib"],
+  "native": "ਗੁਰੂ ਗ੍ਰੰਥ ਸਾਹਿਬ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Sikh scripture and eternal Guru (since 1708)",
+  "summary": "The Guru Granth Sahib is the sacred scripture of Sikhism, with 1,430 pages of hymns by Sikh Gurus and saints of different backgrounds. Sikhs honour it as the living Guru.",
+  "about": "The Adi Granth was compiled by Guru Arjan, with the work completed on 29 August 1604 and installed at Harmandir Sahib on 1 September 1604. It gathers hymns of Sikh Gurus together with those of Hindu and Muslim saints, written in many languages and dialects and set to musical raags. Later, Guru Gobind Singh added the hymns of his father, Guru Tegh Bahadur, and, according to Sikh tradition, on 6 October 1708 declared the scripture to be the Guru after him. Since the early twentieth century the standard printed edition has 1,430 pages, called angs. Sikhs honour the book with rituals: it is opened each morning with ceremony and a hymn is read aloud as the hukam, the day's guidance. Translators, from Ernest Trumpp in the 1870s to Gopal Singh and Manmohan Singh in the 1960s, have made it available in English.",
+  "kidSummary": "The Guru Granth Sahib is the holy book of Sikhs. Sikhs treat it as their Guru, with great love and respect. It holds songs and poems from Sikh Gurus and from wise people of many backgrounds. Each page is called an ang, which means limb.",
+  "story": [
+    {
+      "title": "Gathering the songs",
+      "text": "Around 1604, Guru Arjan collected hymns of the earlier Gurus and wise people from many parts of India, and had them written down in one big book."
+    },
+    {
+      "title": "The book is installed",
+      "text": "On 1 September 1604 the book was placed in Harmandir Sahib, the Golden Temple. Baba Buddha became its first granthi, the person who looks after the book."
+    },
+    {
+      "title": "A new chapter",
+      "text": "Later, Guru Gobind Singh added the hymns of his father, Guru Tegh Bahadur, so the book became even fuller."
+    },
+    {
+      "title": "The Guru forever",
+      "text": "On 6 October 1708 Sikhs believe Guru Gobind Singh told the community that the Guru Granth Sahib would be their Guru after him."
+    },
+    {
+      "title": "A daily blessing",
+      "text": "Today in gurdwaras the book is opened with care each morning, and a hymn from the page is read aloud as the day's guidance."
+    }
+  ],
+  "teaches": [
+    "One God and the oneness of all people",
+    "Truthful living, service and sharing",
+    "Respect for wisdom from every background"
+  ],
+  "symbol": "book",
+  "emblems": [
+    "Chaur (fan) and rumala (cloth covering) used in respect",
+    "Angs (pages, meaning limbs)"
+  ],
+  "family": [
+    {
+      "relation": "compiled by",
+      "name": "Guru Arjan",
+      "slug": "guru-arjan"
+    },
+    {
+      "relation": "finalised by",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "first granthi",
+      "name": "Baba Buddha",
+      "slug": "baba-buddha"
+    }
+  ],
+  "texts": ["Japji Sahib", "Mul Mantar", "Sukhmani Sahib", "Bhagat Bani (hymns of saints)"],
+  "places": [
+    "Harmandir Sahib (Golden Temple), Amritsar",
+    "Kartarpur",
+    "Takht Sri Hazur Sahib, Nanded",
+    "Goindval"
+  ],
+  "festivals": ["Prakash Utsav (first installation)", "Gurgaddi Divas (Guru Granth Sahib)"],
+  "facts": [
+    {
+      "text": "Its 1,430 angs hold 5,894 shabads, line compositions that are set to rhythmic north Indian classical music.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The scripture is divided mainly into 31 ragas, or musical settings, so it is meant to be sung as well as read.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "It was composed mainly by six Gurus (Nanak, Angad, Amar Das, Ram Das, Arjan and Tegh Bahadur) and also holds teachings of fourteen Hindu bhakti saints such as Ramananda, Kabir and Namdev, plus one Muslim Sufi saint, Sheikh Farid.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1708 the naming of the Adi Granth as the Guru was recorded in a bard's scroll, a Bhatt Vahi, by an eyewitness named Narbud Singh, a bard at a Rajput court tied to the Gurus.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Eleven Bhatts, court bards, also have verses in the scripture, and Bhatt Kalshar alone has 54 of them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Each dawn, in a ritual called prakash, meaning light, the scripture is brought from its bedroom on the head in a flower-decked palanquin and opened in the sanctum; at night, in sukhasan, meaning rest, it is carried back the same way after devotional singing.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Among the bhagats, Kabir has 541 hymns, Namdev 60 and Ravidas 41, so voices from different castes and backgrounds sit beside the Gurus.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sheikh Farid, a Muslim Sufi saint, has 134 hymns in the scripture, which shows how widely it welcomes wisdom from different paths.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The whole book is written in the Gurmukhi script, a word meaning from the mouth of the guru, yet it holds many languages and dialects including Punjabi, Sanskrit, Braj, Awadhi, Marathi, Sindhi, Bengali and Persian.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Guru Arjan decided to make an approved collection after learning that his elder brother Prithi Chand was circulating hymns of earlier Gurus mixed with his own, which Guru Arjan considered spurious.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When a report claimed the book insulted Islam, Akbar asked to inspect it; Baba Buddha and Bhai Gurdas read hymns to him, he found the report false, and he gave 51 gold mohurs to the effort (a retelling from Khushwant Singh).",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "A granthi cares for the scripture and keeps it covered in clean cloths called rumala to protect it from heat and dust; it rests on a bed called manji sahib under a rumala until it is brought out again.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Guru Arjan edited the Adi Granth, Bhai Gurdas served as his scribe, and the Kartarpur manuscript is said to have been completed by them in 1604.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A hukamnama is a hymn read each morning from a randomly opened left-hand page, which Sikhs regard as guidance for that day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hukamnama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Swords, daggers and other weapons are placed in front of it in most gurdwaras, a custom linked to the Sikh martial spirit and to a Dasam Granth verse that praises weapons.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "An Akhand Path is a non-stop reading of the whole scripture by a relay of readers; going through all 1,430 angs without a break takes about 48 hours.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Akhand_Path",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Copies that are no longer fit for reading are cremated in a ceremony like a funeral, called Agan Bheta, and misprints and printing waste carrying its text are cremated at Goindval.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Nobel-winning author Pearl S. Buck wrote that its different voices speak to people of any religion or of none, and that they speak for the human heart and the searching mind.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Damdama Sahib, the page says, Guru Gobind Singh and Bhai Mani Singh added Guru Tegh Bahadur's hymns to create the final edition, called the Damdama bir; before it, three versions of the Adi Granth with small differences were in use at Sikh shrines.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The original manuscript is held by the Sodhi family of Kartarpur, descendants of Guru Arjan, at Gurdwara Thum Sahib.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Handwriting analysis of the Kartarpur manuscript shows at least four distinct scribal styles, which suggests several hands worked on it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What are the pages of the Guru Granth Sahib called?",
+      "options": ["Angs", "Vars", "Raags", "Chapters"],
+      "answer": 0,
+      "why": "Pages are called angs, meaning limbs."
+    },
+    {
+      "q": "How many angs does the standard Guru Granth Sahib have?",
+      "options": ["108", "1,430", "5,000", "1,008"],
+      "answer": 1,
+      "why": "The standard printed edition has 1,430 pages."
+    },
+    {
+      "q": "Who compiled the first version, the Adi Granth?",
+      "options": ["Guru Nanak", "Guru Angad", "Guru Arjan", "Guru Gobind Singh"],
+      "answer": 2,
+      "why": "Guru Arjan completed it in 1604."
+    },
+    {
+      "q": "Which Sufi saint has 134 hymns in it?",
+      "options": ["Bhagat Kabir", "Bhagat Namdev", "Bulleh Shah", "Sheikh Farid"],
+      "answer": 3,
+      "why": "Sheikh Farid is a Muslim Sufi saint with 134 hymns."
+    },
+    {
+      "q": "What is a hukamnama?",
+      "options": [
+        "A daily hymn read for guidance",
+        "A kind of drum",
+        "A pilgrim path",
+        "A festival food"
+      ],
+      "answer": 0,
+      "why": "It is the hymn read from a randomly opened page each morning."
+    }
+  ],
+  "related": [
+    "guru-arjan",
+    "guru-gobind-singh",
+    "guru-nanak",
+    "guru-tegh-bahadur",
+    "baba-buddha",
+    "bhai-gurdas",
+    "guru-angad",
+    "guru-hargobind"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+    "mulmantar": "https://en.wikipedia.org/wiki/Mul_Mantar",
+    "hukamnama": "https://en.wikipedia.org/wiki/Hukamnama",
+    "akhandpath": "https://en.wikipedia.org/wiki/Akhand_Path"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e3b8",
+    "c2": "#d4e4d2"
+  },
+  "years": "Guru since 1708",
+  "order": 11
+}

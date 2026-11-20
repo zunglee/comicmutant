@@ -1,0 +1,267 @@
+{
+  "slug": "angada",
+  "name": "Angada",
+  "aka": ["Angad", "Angadan", "Ongkhot"],
+  "native": "अंगद",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Vanara prince, envoy and commander in the Ramayana",
+  "summary": "Angada is the young vanara prince of Kishkindha, son of Vali and Tara. In the Ramayana he leads the southern search for Sita and carries Rama's last message to Ravana.",
+  "about": "In the Valmiki Ramayana, Angada is the son of Vali and Tara and the nephew of Sugriva. After Vali's death he is made crown prince, and he serves in Rama's army. He leads the southern search party, joined by Hanuman and Jambavan, which meets the vulture Sampati and learns where Sita is held. Before the war begins, Rama sends him to Ravana as an envoy. The Valmiki text records that he delivered the message fearlessly, shook off the guards who seized him and stamped a palace roof to rubble. Popular retellings add the famous leg challenge, in which no courtier can move his planted foot. Many regional Ramayanas, from Tamil and Bengali to Thai and Khmer, tell his story.",
+  "kidSummary": "Angada is a brave young monkey prince, the son of Vali. He helps lead the search for Sita and is sent to Ravana with a message of peace from Rama. Even in a hall full of Ravana's warriors, he stays calm and speaks plainly. Many tellings also say that nobody could lift his foot!",
+  "story": [
+    {
+      "title": "A prince grows up",
+      "text": "After his father Vali dies, young Angada is cared for by his uncle Sugriva and is named crown prince of Kishkindha."
+    },
+    {
+      "title": "The search party",
+      "text": "Sugriva sends search parties in all directions. Angada leads the one going south, with Hanuman and Jambavan."
+    },
+    {
+      "title": "A vulture's news",
+      "text": "The tired party meets the old vulture Sampati, who sees far. He tells them where Sita is, and Hanuman then leaps the sea."
+    },
+    {
+      "title": "A message for Ravana",
+      "text": "Before the war, Rama sends Angada to Ravana's court to ask him to return Sita. Ravana refuses and orders him seized, but Angada shakes the guards off."
+    },
+    {
+      "title": "Planted foot",
+      "text": "Popular tellings add that Angada plants his foot and challenges everyone to move it. Nobody can, and Ravana's crown tumbles when he tries."
+    }
+  ],
+  "teaches": [
+    "Speak truthfully and calmly, even when outnumbered",
+    "Carry out a task you are trusted with",
+    "Make peace before war"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Armlet-like name (angada)", "Planted foot (popular tellings)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vali",
+      "slug": "vali"
+    },
+    {
+      "relation": "Mother",
+      "name": "Tara",
+      "slug": "tara-ramayana"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Sugriva",
+      "slug": "sugriva"
+    },
+    {
+      "relation": "Leader he served",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Yuddha Kanda", "Kamba Ramayanam", "Ramcharitmanas", "Ramakien"],
+  "places": ["Kishkindha", "Lanka"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "When the searchers were starving, Angada said that dying for Rama's cause would be a blessing, just as Jatayu had. The vulture Sampati heard the name and spoke up.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sampati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Hanuman found Sita, the monkeys on the way home entered the honey grove Madhuvana and drank freely, with Angada's permission, over the guard Dadhimukha's protests.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ravana ordered Angada seized. Four rakshasas caught him, but he shook them off and sent all four crashing to the floor.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After throwing off the guards, Angada leaped onto the palace roof, stamped it into rubble, roared his name and flew back to the army.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Popular retellings add a famous challenge: Angada plants his foot and says that if anyone can move it, Rama will leave. Many warriors, even Indrajit, fail.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angada",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In that tale, when Ravana himself bends to lift the foot, Angada pulls it away and Ravana's crown falls. Angada hurls the crown to Rama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Angada",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Narantaka's javelin broke against Angada's chest; Angada killed his horse with a palm blow and defeated Narantaka with his fists.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Rama's coronation, Rama gave Angada an upper-arm bracelet set with cat's-eye gems, which is just what the Sanskrit word angada means.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Searching the south, Angada's party followed wet waterbirds out of a dark cave, went in, and found woods, lakes and fine mansions hidden inside.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga50/kishkindhasans50.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "That cave was made by the asura Maya; its keeper, the ascetic Svayamprabha, fed the hungry vanaras and then helped them out after telling them to shut their eyes.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the month's deadline passed, Angada thought of breaking away from Sugriva. Hanuman talked the monkeys out of it, then warned Angada that Sugriva would never forgive a rebel and that he was stronger than his father.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When terrified monkeys fled from Kumbhakarna, Angada's words brought them back to fight. Kumbhakarna then struck Angada so hard that he fell unconscious.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhasans67.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Angada killed the rakshasa Kampana and later Prajangha, though in the same battle Kumbha flung Angada to the ground until Rama sent Jambavan and others to help.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga76/yuddhasans76.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rama could not enter towns during exile, so the monkeys crowned Sugriva without him. Rama suggested that young Angada also be anointed, and he became crown prince of Kishkindha.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga26/kishkindhasans26.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At his father Vali's funeral Angada gathered wreaths, cloths, ghee and oils for the rites, even as Rama urged the grieving family to carry on with the ceremony.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien, Ongkhot's mother is not a Tara figure but Nang Montho, the Thai Mandodari. Phali takes her from Thotsakan, Ongkhot is born, and she is later returned to her husband.",
+      "kind": "art",
+      "source": "https://mythlok.com/nang-monto/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Angada's starving party saw the giant vulture Sampati, they feared he would eat them all, yet he turned out to be Jatayu's brother and gave them the news of Sita.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga57/kishkindhasans57.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Lakshmana stormed toward Kishkindha in anger, he spoke of replacing Sugriva, with Angada and others leading the search. At the gate he sent Angada ahead to tell Sugriva that he had come.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga31/kishkindhasans31.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the sea shore Angada was ready to try the leap, but Jambavan said that as the leader of the mission he must be protected, since a task fails if its prime mover is lost.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki likens Angada to the moon growing from the first day of the bright fortnight, as wise as Jupiter and as bold as his father Vali, and Hanuman judged him eightfold clever.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga54/kishkindhasans54.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Angada's father?",
+      "options": ["Sugriva", "Vali", "Hanuman", "Jambavan"],
+      "answer": 1,
+      "why": "Angada is the son of Vali and Tara."
+    },
+    {
+      "q": "Where did Rama send Angada before the war?",
+      "options": ["To Ravana as an envoy", "To the Himalayas", "To Ayodhya", "To the ocean"],
+      "answer": 0,
+      "why": "Angada carried Rama's last offer of peace to Ravana."
+    },
+    {
+      "q": "Which direction did Angada's search party travel?",
+      "options": ["North", "East", "West", "South"],
+      "answer": 3,
+      "why": "He led the southern party with Hanuman and Jambavan."
+    },
+    {
+      "q": "What is Angada famous for in popular tellings?",
+      "options": [
+        "Flying to the moon",
+        "Nobody being able to move his planted foot",
+        "Carrying a mountain",
+        "Drinking the sea"
+      ],
+      "answer": 1,
+      "why": "This is the well-known foot challenge in Ravana's court."
+    }
+  ],
+  "related": [
+    "vali",
+    "tara-ramayana",
+    "sugriva",
+    "hanuman",
+    "jambavan",
+    "ravana",
+    "rama",
+    "sampati"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Angada",
+    "yuddha41": "https://www.valmikiramayan.net/utf8/yuddha/sarga41/yuddhasans41.htm",
+    "yuddha17": "https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm",
+    "k65": "https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm",
+    "k53": "https://www.valmikiramayan.net/utf8/kish/sarga53/kishkindhasans53.htm",
+    "y44": "https://www.valmikiramayan.net/utf8/yuddha/sarga44/yuddhasans44.htm",
+    "y69": "https://www.valmikiramayan.net/utf8/yuddha/sarga69/yuddhasans69.htm",
+    "s61": "https://www.valmikiramayan.net/utf8/sundara/sarga61/sundarasans61.htm",
+    "y128": "https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm",
+    "k52": "https://www.valmikiramayan.net/utf8/kish/sarga52/kishkindhasans52.htm"
+  },
+  "palette": {
+    "c1": "#D9B38C",
+    "c2": "#C9DCC4"
+  },
+  "order": 211,
+  "depth": "full"
+}

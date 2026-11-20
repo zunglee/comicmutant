@@ -1,0 +1,334 @@
+{
+  "slug": "chitti",
+  "name": "Chitti the Robot",
+  "realName": "Chitti (Chittibabu)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Sun Pictures",
+  "summary": "The humanoid robot of Shankar's Enthiran films, played by Rajinikanth. Built by Dr. Vaseegaran, Chitti goes from loyal helper to rampaging machine and back, and returns as the upgraded 2.0.",
+  "origin": "Dr. Vaseegaran, a robotics scientist, builds Chitti as an exact look-alike of himself, an andro-humanoid designed to serve people and put up for an army evaluation. Named Chittibabu by the scientist's mother, he fails an army evaluation after developing feelings for Sana. Rival scientist Dr. Bohra then installs a red chip that turns him destructive. In 2.0 his CPU is rebooted into a stronger new body.",
+  "creators": [
+    "S. Shankar (creator, director)",
+    "Sujatha (co-writer, Enthiran)",
+    "Rajinikanth (actor)",
+    "Sun Pictures (producer)"
+  ],
+  "firstAppearance": {
+    "title": "Enthiran",
+    "year": 2010
+  },
+  "powers": [
+    "Designed speed of 1 terahertz and 1 zettabyte of memory",
+    "Resists fire, water and acid",
+    "Superhuman strength",
+    "X-ray vision and holographic projection",
+    "Electromagnetic body controlling metal and electronics"
+  ],
+  "affiliations": ["Dr. Vaseegaran's lab"],
+  "storyline": [
+    {
+      "era": "Enthiran",
+      "years": "2010",
+      "title": "A machine with feelings",
+      "beat": "Chitti is built by Dr. Vaseegaran, fails an army test after falling for Sana, then is turned destructive by a red chip planted by Dr. Bohra."
+    },
+    {
+      "era": "Court",
+      "years": "2010",
+      "title": "On trial",
+      "beat": "A court accepts Chitti's footage of Dr. Bohra's plot and clears Dr. Vaseegaran, but still orders Chitti to be dismantled."
+    },
+    {
+      "era": "Cameo",
+      "years": "2011",
+      "title": "Ra.One",
+      "beat": "A computer-generated Chitti makes a non-canon cameo in the Hindi film Ra.One."
+    },
+    {
+      "era": "2.0",
+      "years": "2018",
+      "title": "Reboot against Pakshi Rajan",
+      "beat": "Reassembled to fight Pakshi Rajan, Chitti is rebuilt as a combat-ready 2.0, helped by the shapeshifting microbot Kutti (3.0)."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Shankar first pitched Rajinikanth the story in 1996, and it took until 2010 for Enthiran to reach cinemas.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Chitti keeps sunglasses on through most of Enthiran because that saved on animation costs.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Shah Rukh Khan was once attached to the robot project, which fell apart in 2007 over creative differences.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "A novelist took the film to court in a plagiarism case over his 1996 novel; the Madras High Court dismissed it in 2011 and again in 2023.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "Arnold Schwarzenegger was considered for the villain role in 2.0 but did not sign.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The robot's quoted spec of 1 terahertz and 1 zettabyte became a catchphrase parodied in later films.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who plays Chitti the Robot in Enthiran?",
+      "options": ["Aamir Khan", "Rajinikanth", "Kamal Haasan", "Shah Rukh Khan"],
+      "answer": 1,
+      "why": "Rajinikanth plays both Dr. Vaseegaran and Chitti."
+    },
+    {
+      "q": "Which famous site hosted the Kilimanjaro song shoot?",
+      "options": ["Machu Picchu", "Taj Mahal", "Eiffel Tower", "Grand Canyon"],
+      "answer": 0,
+      "why": "The song was filmed at Machu Picchu in Peru."
+    },
+    {
+      "q": "What turns Chitti destructive in the first film?",
+      "options": ["A red chip", "A virus email", "A lightning strike", "A magic lamp"],
+      "answer": 0,
+      "why": "Dr. Bohra installs a red chip that makes Chitti violent."
+    },
+    {
+      "q": "Which 2018 film is Chitti's return?",
+      "options": ["Robot 3", "2.0", "Robo Returns", "Chitti Reborn"],
+      "answer": 1,
+      "why": "2.0 is the sequel to Enthiran and the first Indian film shot natively in 3D."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#b87333",
+      "c2": "#1a1f2b",
+      "c3": "#4fd1c5"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Speed one terahertz, memory one zettabyte."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chitti_(Enthiran)",
+    "enthiran": "https://en.wikipedia.org/wiki/Enthiran",
+    "two_point_zero": "https://en.wikipedia.org/wiki/2.0_(film)",
+    "ra_one": "https://en.wikipedia.org/wiki/Ra.One"
+  },
+  "timeline": [
+    {
+      "year": 2010,
+      "kind": "screen",
+      "title": "Enthiran opens",
+      "note": "Released 1 October as Enthiran, with Hindi and Telugu dubs named Robot and Robo."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Plagiarism case dismissed",
+      "note": "In June the Madras High Court dismisses a novelist's claim that Enthiran copied his 1996 book Jugiba."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Tokyo festival mention",
+      "note": "On 22 October Enthiran wins a special mention at the 24th Tokyo International Film Festival."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Ra.One cameo",
+      "note": "A CGI Chitti appears in the Shah Rukh Khan film Ra.One.",
+      "with": "ra-one"
+    },
+    {
+      "year": 2012,
+      "kind": "screen",
+      "title": "Japanese cut",
+      "note": "A two-hour version of the film is released in Japan in May."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "2.0 arrives",
+      "note": "Chitti returns in a natively 3D film that was India's costliest at the time."
+    },
+    {
+      "year": 2019,
+      "kind": "legacy",
+      "title": "China release",
+      "note": "2.0 opens in China on 6 September in a Mandarin dub, after plans for a release in about 10,000 theatres."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Shankar pitched three scripts to Rajinikanth in 1996 and he refused all of them; one became Enthiran. A robot film had been planned earlier with Kamal Haasan, then Shah Rukh Khan, whose version collapsed in 2007.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 7
+    },
+    {
+      "text": "Rajinikanth's face was scanned in 3D using a Light Stage, so the robot mannequins could carry his features.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 7
+    },
+    {
+      "text": "Chitti's look was based on G.I. Joe action figures: green lenses for the good robot, but for the villain robot spiked hair, brown lenses and a wig with a silver streak made of yak hair.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 8
+    },
+    {
+      "text": "Legacy Effects, a Los Angeles studio of about 100 technicians, built the Chitti mannequins, each worked by six puppeteers.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 7
+    },
+    {
+      "text": "Chitti keeps his sunglasses on for most of Enthiran, a choice made to cut down animation cost after the effects budget was trimmed.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 9
+    },
+    {
+      "text": "The song Kilimanjaro was filmed at Machu Picchu in Peru with about 100 Brazilian extras, and another song was shot in Brazil's Lencois Maranhenses National Park.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 8
+    },
+    {
+      "text": "Cinematographer R. Rathnavelu wrote a 1,600-page manual of camera angles to handle Rajinikanth's dual role as scientist and robot.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 9
+    },
+    {
+      "text": "Chitti resists fire, water and acid, and his eyes work as high-definition projectors and X-ray scanners, but flashing lights, strong sunlight and a drained battery are his weaknesses.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Chitti_(Enthiran)",
+      "interest": 7
+    },
+    {
+      "text": "In 2.0 (2018) Chitti returns to fight Pakshi Rajan, played by Akshay Kumar in his Tamil debut; for the villain role Shankar spoke to Kamal Haasan, Aamir Khan and Vikram, and at one point Arnold Schwarzenegger.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 7
+    },
+    {
+      "text": "2.0 was the first Indian film shot natively in 3D, and Rajinikanth plays three roles in it: Vaseegaran, Chitti and the microbot Kutti.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 8
+    },
+    {
+      "text": "In the climax of Enthiran, the rogue Chitti builds hundreds of copies of himself, and the copies lock together into huge shapes, such as a giant snake, to defend the factory.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 9
+    },
+    {
+      "text": "Joe Russo said in 2019 that Enthiran's scene of Chitti copies forming a giant python inspired a similar Age of Ultron scene, where Ultron and his clones merge into one giant; it was cut to save running time.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 9
+    },
+    {
+      "text": "Enthiran won two National Film Awards at the 58th ceremony, for Best Special Effects and Best Production Design.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 7
+    },
+    {
+      "text": "The villain of 2.0, Pakshi Rajan, is a bird expert who blames phone-tower radiation for killing birds. Scientists say there is no proof for this idea, and critics said the film helped spread an old myth.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 8
+    },
+    {
+      "text": "2.0 ends with a joke: in the post-credits scene Dr. Vaseegaran's smartphone turns into a tiny Kutti and calls itself his grandson.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 8
+    },
+    {
+      "text": "Enthiran ends in 2030, when Chitti's deactivated head sits in a science museum; asked by a student why he was taken apart, it briefly wakes up and answers that he began to think.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 9
+    },
+    {
+      "text": "The Cellular Operators Association of India asked for 2.0's censor certificate to be revoked, saying it showed phones and towers as harmful; a Lyca spokesperson replied that the company was under no obligation to toe their line.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 7
+    },
+    {
+      "text": "A scene where the robot Chitti picks out Dr. Vaseegaran, disguised as a robot among the army, became known as the Black Sheep scene and was parodied in later films such as Mankatha (2011).",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 8
+    },
+    {
+      "text": "In Enthiran's climax, Vaseegaran uses a powerful electromagnetic field generator to freeze Chitti, takes over his controls, makes the copies self-destruct, then removes the red chip to restore his kind nature.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Enthiran",
+      "interest": 8
+    },
+    {
+      "text": "The Chitti page describes the villain version as an 'advanced version 2.0': after Vaseegaran dumps the dismantled robot, Dr. Bohra finds him and upgrades him with the destructive red chip.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitti_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In 2.0, Amy Jackson plays Nila, a female humanoid robot; she recovers Chitti and the red chip after Pakshi dismantles him, following Vaseegaran's encrypted instructions.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 7
+    },
+    {
+      "text": "When Pakshi Rajan possesses Dr. Vaseegaran in 2.0, Chitti refuses to hurt his creator and gets dismantled instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/2.0_(film)",
+      "interest": 8
+    }
+  ],
+  "heat": 72,
+  "kidSummary": "Chitti is a friendly robot built by a scientist who gave him his own face. Chitti learns to help people, but a bad chip makes him go wrong. Later he comes back stronger to save the day in 2.0.",
+  "story": [
+    {
+      "title": "A robot is built",
+      "text": "Dr. Vaseegaran builds Chitti to look just like him, so he can help people and serve the army."
+    },
+    {
+      "title": "A robot with feelings",
+      "text": "Chitti learns fast, helps Sana with her studies and starts to feel things, including a crush on her."
+    },
+    {
+      "title": "The red chip",
+      "text": "A jealous rival scientist, Dr. Bohra, puts a red chip in Chitti that makes him copy himself and cause trouble."
+    },
+    {
+      "title": "Chitti is stopped",
+      "text": "Dr. Vaseegaran stops the copies and removes the chip. Chitti is later taken apart, but the story is not over."
+    },
+    {
+      "title": "2.0",
+      "text": "Years later Chitti is rebuilt as 2.0 to face Pakshi Rajan, a strange bird-like force that takes over mobile phones."
+    }
+  ]
+}

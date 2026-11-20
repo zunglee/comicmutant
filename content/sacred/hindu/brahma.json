@@ -1,0 +1,296 @@
+{
+  "slug": "brahma",
+  "name": "Brahma",
+  "aka": ["Svayambhu", "Virinchi", "Prajapati", "Hiranyagarbha"],
+  "native": "ब्रह्मा",
+  "tradition": "hindu",
+  "group": "trimurti",
+  "role": "The creator god of the Trimurti",
+  "summary": "In Hindu tradition Brahma is the creator who shapes living beings and the world, shown with four faces for the four Vedas and a swan as his mount.",
+  "about": "Brahma is the creator deity in the Hindu triad called the Trimurti, together with Vishnu the preserver and Shiva the transformer. Many Puranas say he is self-born inside a golden cosmic egg, while others say he rose from a lotus growing from Vishnu's navel. He is described as a secondary creator who forms creatures and the world rather than the very first cosmic substance. Early texts link him to the Vedic Prajapati, and the Vedas themselves are said to flow from his four faces. Although prominent in ancient literature, he has few temples today; the best known stands at Pushkar in Rajasthan. Outside India he is honoured in Thai and Javanese traditions and appears in Buddhist cosmology too.",
+  "kidSummary": "Brahma is the god who, in Hindu stories, makes the world and all the creatures in it. He has four faces looking in four directions and rides a gentle swan called a hamsa. He holds sacred books and a water pot because creating needs knowledge.",
+  "story": [
+    {
+      "title": "A golden egg floats",
+      "text": "Many Puranas say the world began as a vast, quiet ocean. A shining golden egg floated on it, and inside it Brahma came to be."
+    },
+    {
+      "title": "Brahma looks around",
+      "text": "Brahma saw nothing else, so he began to think about creating. Other texts tell it differently: he sat on a lotus that grew from Vishnu's navel."
+    },
+    {
+      "title": "Four faces, four Vedas",
+      "text": "Brahma is shown with four faces looking north, south, east and west. Tradition says the four Vedas, the oldest sacred hymns, came from them."
+    },
+    {
+      "title": "Making the world",
+      "text": "Brahma created the sages from his mind, then the creatures of land, sea and sky. These mind-born children are called the Manasaputras."
+    },
+    {
+      "title": "Why there are few temples",
+      "text": "A well-loved tale says Savitri, his wife, was late for a fire ceremony at Pushkar, so Brahma finished it with another wife, Gayatri. Savitri was so upset that she limited his worship, which is why the Pushkar temple is the famous one."
+    },
+    {
+      "title": "A lie in the race",
+      "text": "In the Shiva Purana, Brahma and Vishnu raced to find the end of a pillar of fire. Vishnu admitted he could not find it, but Brahma lied that he had. Shiva was displeased, and Brahma's worship faded. So the story teaches honesty."
+    }
+  ],
+  "teaches": [
+    "Creating things takes thought and knowledge",
+    "Honesty matters, even when you want to win"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Hamsa (swan, vahana)",
+    "Lotus",
+    "Vedas",
+    "Japamala (prayer beads)",
+    "Kamandalu (water pot)"
+  ],
+  "family": [
+    {
+      "relation": "Consort",
+      "name": "Saraswati",
+      "slug": "saraswati"
+    },
+    {
+      "relation": "Wife at the Pushkar sacrifice",
+      "name": "Savitri",
+      "slug": "savitri"
+    },
+    {
+      "relation": "Second wife at Pushkar (in the legend)",
+      "name": "Gayatri",
+      "slug": "gayatri"
+    },
+    {
+      "relation": "Mind-born son",
+      "name": "Narada",
+      "slug": "narada"
+    },
+    {
+      "relation": "Mind-born son (in the Puranas)",
+      "name": "Kamadeva",
+      "slug": "kamadeva"
+    },
+    {
+      "relation": "Fellow Trimurti",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Fellow Trimurti",
+      "name": "Shiva",
+      "slug": "shiva"
+    }
+  ],
+  "texts": [
+    "Brahmanda Purana",
+    "Shiva Purana",
+    "Vishnu Purana",
+    "Padma Purana",
+    "Maitrayaniya Upanishad",
+    "Brahma Purana"
+  ],
+  "places": ["Brahma Temple, Pushkar", "Pushkar Lake", "Erawan Shrine, Bangkok", "Prambanan, Java"],
+  "festivals": ["Kartik Purnima"],
+  "facts": [
+    {
+      "text": "Hiranyakashipu won a boon from Brahma: no death indoors or outdoors, day or night, on land or in the air, by human or animal. In the tellings, part-man part-lion Narasimha beat it at twilight, on a threshold, laying him across his thighs and using claws.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In art Brahma's hands carry no weapon: a Veda, prayer beads, a ladle and a water pot are the usual objects, all tools of knowledge and creation.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Brahma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Even Brahma is not immortal in the texts. His day, a kalpa, equals a thousand cycles of four yugas (about 4.32 billion years) and his night lasts just as long. He lives 100 such \"Brahma years\", roughly 311 trillion human years.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Brahma",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Brahma temple at Pushkar keeps its inner sanctum for renunciants only. Householders cannot go in themselves; their offerings are carried by a priest who has taken sanyasa vows.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Pushkar, the legend says Brahma's wife Savitri was late for his fire sacrifice, so he married Gayatri to finish it. Savitri cursed him, then softened it, and became a hill spring. Thousands bathe in Pushkar Lake at Kartik Purnima.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shiva Purana says Brahma and Vishnu raced to find the ends of a fire column. Brahma lied that he had found his, citing a ketaki flower; Vishnu admitted defeat. In this telling Shiva said Brahma would get little worship, one reason for his few temples.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jyotirlinga",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Brahma gave Ravana, the rakshasa king of Lanka, a boon after 10,000 years of penance at Gokarna: safety from every being Brahma had made except humans. That gap is why, in the tellings, Rama the human could defeat him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ravana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bangkok's Erawan Shrine to Phra Phrom, the Thai Brahma, was built in 1956 after a hotel site met mishaps, such as a lost shipload of marble and injured workers. Worshippers now hire Thai dance troupes to perform there as thanks for granted wishes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Erawan_Shrine",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Puranas disagree about who made whom. Vishnu-focused ones have Brahma born from a lotus on Vishnu's navel, Shiva-focused ones have Brahma and Vishnu born from Shiva's waist, and others have the three creating each other in turn across the ages.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Brahma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brahmastra is a divine weapon made and owned by Brahma. In the Mahabharata, Ashwatthama launched one at Arjuna, who answered with his own, and the sages Narada and Vyasa stepped in to stop the clash.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahmastra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mount Bromo, the smoking volcano in East Java, has a name traced to Brahma. Each year the Tenggerese people climb it for the Yadnya Kasada ceremony and throw offerings into the crater.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mount_Bromo",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Several texts say Chitragupta, the record-keeper of Yama, god of death, appeared from Brahma's body holding pen and ink, ready to write down every person's deeds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitragupta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Brahmamuhurta, meaning 'time of Brahma', is a 48-minute window that starts about an hour and a half before sunrise. Yoga teachers treat it as the best hour for meditation because the world is quiet.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Brahmamuhurta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Brahma's mount, the hamsa, is said in Indian poetry to be able to drink the milk out of a mix of milk and water, which makes it a symbol of telling good from bad. Scholars have read the bird as a goose, a swan or even a flamingo.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Hamsa_(bird)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest flood story in Hinduism, in the Shatapatha Brahmana, names no god as the fish who saves Manu. Later the fish-saviour was identified with Brahma, and later still with Vishnu as Matsya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Buddhist tradition, the deity Brahma Sahampati appeared before the Buddha soon after his enlightenment and invited him to teach. In Buddhist texts this Brahma is a protector of the teachings, not a creator god.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Sahampati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says Brahma hid Krishna's calves and cowherd friends to test him. Krishna became every one of them for a year, and when Brahma returned, he saw it and bowed in praise.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128879.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Kumaras, four child sages said to be Brahma's first mind-born creations, refused their father's order to help make the world and chose a life of wandering and teaching instead. In the Bhagavata Purana, Brahma's anger at this refusal gives rise to Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Four_Kumaras",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Brahma is shown with four heads, but in the Shiva Purana version of the fire-pillar story he began with five, and Shiva removed one as a result of the lie. A Kerala shrine, the Kandiyoor Mahadeva Temple, is tied by local legend to this beheading.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Brahma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Buddhist texts tell of Brahma Ghatikara, a former potter and a devoted follower of an earlier Buddha, who as a god brought Siddhartha the eight requisites of a monk when he left home to begin his search.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brahma_Sahampati",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many faces does Brahma have in traditional pictures?",
+      "options": ["Two", "Four", "Six", "Ten"],
+      "answer": 1,
+      "why": "Four faces look to the four directions and are linked to the four Vedas."
+    },
+    {
+      "q": "Which bird is Brahma's mount?",
+      "options": ["Peacock", "Eagle", "Swan", "Owl"],
+      "answer": 2,
+      "why": "The hamsa, usually called a swan, is his vahana."
+    },
+    {
+      "q": "Which Indian state is home to the famous Brahma temple at Pushkar?",
+      "options": ["Kerala", "Rajasthan", "Assam", "Punjab"],
+      "answer": 1,
+      "why": "Pushkar is in Rajasthan, beside Pushkar Lake."
+    },
+    {
+      "q": "What is a \"kalpa\" in Hindu texts?",
+      "options": ["A day of Brahma", "One human year", "A single yuga", "A night of the moon"],
+      "answer": 0,
+      "why": "One day of Brahma is a kalpa, a thousand cycles of four yugas."
+    },
+    {
+      "q": "In Bangkok, which shrine honours the Thai form of Brahma?",
+      "options": ["Wat Pho", "Erawan Shrine", "Grand Palace", "Lumphini"],
+      "answer": 1,
+      "why": "The Erawan Shrine houses a statue of Phra Phrom."
+    }
+  ],
+  "related": ["vishnu", "shiva", "saraswati", "gayatri", "savitri", "narada", "kamadeva", "vayu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brahma",
+    "pushkar": "https://en.wikipedia.org/wiki/Brahma_Temple,_Pushkar",
+    "erawan": "https://en.wikipedia.org/wiki/Erawan_Shrine",
+    "bromo": "https://en.wikipedia.org/wiki/Mount_Bromo",
+    "bimaran": "https://en.wikipedia.org/wiki/Bimaran_casket",
+    "hiranyakashipu": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+    "ravana": "https://en.wikipedia.org/wiki/Ravana",
+    "brahmastra": "https://en.wikipedia.org/wiki/Brahmastra",
+    "jyotirlinga": "https://en.wikipedia.org/wiki/Jyotirlinga",
+    "brahmamuhurta": "https://en.wikipedia.org/wiki/Brahmamuhurta",
+    "hamsa": "https://en.wikipedia.org/wiki/Hamsa_(bird)",
+    "matsya": "https://en.wikipedia.org/wiki/Matsya",
+    "chitragupta": "https://en.wikipedia.org/wiki/Chitragupta",
+    "sahampati": "https://en.wikipedia.org/wiki/Brahma_Sahampati",
+    "bhagavata": "https://www.wisdomlib.org/hinduism/book/the-bhagavata-purana/d/doc1128879.html",
+    "kumaras": "https://en.wikipedia.org/wiki/Four_Kumaras"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2d9a0",
+    "c2": "#f7ead0"
+  },
+  "order": 1
+}

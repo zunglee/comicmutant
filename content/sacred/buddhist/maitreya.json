@@ -1,0 +1,251 @@
+{
+  "slug": "maitreya",
+  "name": "Maitreya",
+  "aka": ["Metteyya", "Ajita", "Jampa", "Miroku", "Milefo"],
+  "native": "मैत्रेय",
+  "role": "The Buddha-to-come, the bodhisattva of loving-kindness",
+  "summary": "Buddhists of many schools believe Maitreya is the next Buddha, who will arrive in a far future age. His name comes from the Sanskrit word for loving-kindness.",
+  "about": "In Buddhist tradition, Maitreya is the bodhisattva who will become the next Buddha, long after the teachings of Gautama Buddha have faded. The Pali Cakkavatti-Sihanada Sutta names him Metteyya, and some sources give his personal name as Ajita, meaning unconquered. Buddhist texts say he now lives in the Tushita heaven and will be born in a city called Ketumati when humans live very long lives. Gandharan sculptors showed him often beside Gautama, and in China from the fourth to sixth centuries Maitreya and Shakyamuni were sometimes treated as interchangeable. Different traditions describe his age and arrival differently. In East Asia, the laughing monk Budai is regarded as a form of Maitreya, and the Leshan Giant Buddha in China is linked to him.",
+  "kidSummary": "Maitreya is the Buddha who is still to come. His name comes from the word for friendship and kindness. Buddhists say he is waiting in a heaven called Tushita until the world is ready for his teaching, many ages from now.",
+  "story": [
+    {
+      "title": "Waiting in Tushita",
+      "text": "Buddhist texts say Maitreya now lives in a happy heaven called Tushita, the same one where Gautama lived before he was born on Earth."
+    },
+    {
+      "title": "The world forgets",
+      "text": "In the stories, after a very long time people will forget the Buddha's teachings, and the world will need a new teacher."
+    },
+    {
+      "title": "A new Buddha appears",
+      "text": "Then Maitreya will be born in a city named Ketumati and become a Buddha, teaching kindness again to everyone he meets."
+    },
+    {
+      "title": "A helping dog",
+      "text": "A story about the monk Asanga says he met Maitreya in the form of a dying dog, and learned that real compassion means caring for every creature."
+    }
+  ],
+  "teaches": [
+    "Loving-kindness for all",
+    "Hope for a kinder future",
+    "Compassion for every creature"
+  ],
+  "symbol": "sun",
+  "emblems": [
+    "Water bottle (kamandalu)",
+    "Hair loop (Gandharan style)",
+    "Princely robes and jewels",
+    "Throne or Tushita heaven setting"
+  ],
+  "family": [
+    {
+      "relation": "Buddha of our age before him",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Will receive the robe from",
+      "name": "Mahakashyapa",
+      "slug": "mahakashyapa"
+    }
+  ],
+  "texts": ["Cakkavatti-Sihanada Sutta (Digha Nikaya 26)", "Lotus Sutra", "Amitabha sutras"],
+  "places": ["Tushita heaven", "Ketumati (legendary)", "Leshan Giant Buddha, Sichuan"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Once Maitreya becomes a Buddha, he will rule the Ketumati pure land, an earthly paradise that some link with Varanasi (Benares) in Uttar Pradesh and others with Shambhala.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Many Buddhist sources say Maitreya will arrive about 5.67 billion years from now, though traditions describe the timing in different ways.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The Cakkavatti Sutta says that when Maitreya is born in the city of Ketumati, humans will live for about 80,000 years.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some sources say Maitreya will be about 40 metres (88 cubits) tall and live for 88,000 years.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some texts the humans of Maitreya's age are so large that Gautama's robe would only barely cover two of their fingers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A story says the master Asanga cared for a dying dog, moving its maggots onto his own flesh instead of killing them; the dog was Maitreya, who took him to Tushita and gave him five texts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Xuanzang is said to have had a vision of Maitreya when pirates threatened his boat on the Ganges, and the pirates grew frightened.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The empress Wu Zetian declared herself a Maitreya incarnation in 690 CE and called Luoyang the holy capital.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Japan the laughing monk Budai is called Hotei and counts among the Seven Lucky Gods.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Seven_Lucky_Gods",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Leshan Giant Buddha in Sichuan is 71 metres high, linked to Maitreya, and hidden channels in its hair and chest have carried rainwater off for about 1,200 years.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Leshan Giant Buddha has 1,021 spiral curls in its hair, and its 7-metre-long ears are big enough to hold two people.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Sui dynasty, three leaders in 610 and 613 each claimed to be Maitreya and led rebellions, but every attempt failed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In some accounts the monk Mahakashyapa sits in deep meditation on Mount Kukkutapada, waiting to hand the Buddha Shakyamuni's robe to Maitreya when he arrives.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Gandhara under the Kushans (30-375 CE) Maitreya was the most popular figure shown beside Gautama; his water bottle and hair loop are shared with Brahma, which some scholars read as signs of priestly birth.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Chinese Buddhists see the 10th-century wandering monk Budai, a cheerful man with a big belly and a cloth sack, as an emanation of Maitreya, which is how the 'Laughing Buddha' image arose.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Maitreya is counted as the eighth Buddha in a line that begins with the Seven Buddhas of Antiquity, starting with Vipassi and ending so far with Gautama.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Koryu-ji's second National Treasure Maitreya, the 'Weeping Maitreya', earned its nickname from a sorrowful look and a hand on the cheek.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/K%C5%8Dry%C5%AB-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shingon followers believe Kukai still rests in meditation on Mount Koya, waiting for Maitreya to come.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Artisans in 4th to 6th century China treated Shakyamuni and Maitreya as interchangeable; a Maitreya carved in 529 CE from the Qingzhou cache is now in a Shandong museum.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Maitreya appears in art at Sanchi in India even before the Kushan era; images become far more numerous under the Kushans, including at Mathura.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 10th century the Korean king Gung Ye claimed to be Maitreya himself, but most monks rejected the claim and he was later overthrown.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maitreya",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the word maitri, behind Maitreya's name, mean?",
+      "options": ["Mountain", "Friendship and loving-kindness", "Brave fighter", "Golden"],
+      "answer": 1,
+      "why": "Maitreya comes from maitri, meaning friendship or loving-kindness."
+    },
+    {
+      "q": "Where do Buddhist texts say Maitreya lives now?",
+      "options": ["Tushita heaven", "The ocean", "Mount Meru's root", "Lanka"],
+      "answer": 0,
+      "why": "He is said to live in Tushita, where Gautama also lived before his birth."
+    },
+    {
+      "q": "Who is the laughing monk seen as a form of Maitreya?",
+      "options": ["Atisha", "Budai", "Asanga", "Haitong"],
+      "answer": 1,
+      "why": "East Asian Buddhists regard Budai as a form of Maitreya."
+    },
+    {
+      "q": "How tall is the Leshan Giant Buddha in China?",
+      "options": ["7 m", "21 m", "71 m", "200 m"],
+      "answer": 2,
+      "why": "The statue carved from a cliff is about 71 metres high."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "mahakashyapa",
+    "avalokiteshvara",
+    "manjushri",
+    "samantabhadra",
+    "amitabha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maitreya",
+    "leshan": "https://en.wikipedia.org/wiki/Leshan_Giant_Buddha",
+    "budai": "https://en.wikipedia.org/wiki/Budai"
+  },
+  "palette": {
+    "c1": "#f5e6b8",
+    "c2": "#e6efd8"
+  },
+  "order": 4,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

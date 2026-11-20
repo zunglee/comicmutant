@@ -1,0 +1,266 @@
+{
+  "slug": "guru-hargobind",
+  "name": "Guru Hargobind",
+  "aka": ["Hargobind Sahib", "Sacha Padshah"],
+  "native": "ਗੁਰੂ ਹਰਿਗੋਬਿੰਦ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Sixth Sikh Guru, bearer of the two swords",
+  "years": "1595–1644",
+  "order": 6,
+  "summary": "Guru Hargobind (1595–1644) became Guru at about eleven, wore two swords for spiritual and worldly authority, built the Akal Takht, and is remembered at Bandi Chhor Divas.",
+  "about": "Born in 1595 at Guru ki Wadali, Hargobind was Guru Arjan's only son. When Guru Arjan died in 1606, he was named Guru at about eleven. He wore two swords called miri and piri, for worldly and spiritual authority, and built the Akal Takht across from Harmandir Sahib in Amritsar. He is credited with starting the Akal Sena, a Sikh force. Jahangir held him at Gwalior Fort, and Sikh tradition says he freed 52 Rajput hill rajas with him; Sikhs remember this at Bandi Chhor Divas. After a clash with Shah Jahan's men in 1628, he fought several battles, including Amritsar (1634) and Kartarpur (1635). He died at Kiratpur on 28 February 1644.",
+  "kidSummary": "Guru Hargobind became Guru when he was only about eleven years old. He wore two swords to show that a good person must care both for the spirit and for justice in the world. He built the Akal Takht and is remembered for helping free 52 kings from a fort.",
+  "story": [
+    {
+      "title": "A young Guru",
+      "text": "In 1606, after his father Guru Arjan died, Hargobind became the sixth Guru at about age eleven."
+    },
+    {
+      "title": "Two swords",
+      "text": "He wore two swords. One stood for spiritual wisdom (piri) and the other for protecting people and justice (miri)."
+    },
+    {
+      "title": "The Akal Takht",
+      "text": "With Baba Buddha and Bhai Gurdas he built the Akal Takht, the 'Throne of the Timeless', opposite Harmandir Sahib."
+    },
+    {
+      "title": "In Gwalior Fort",
+      "text": "Emperor Jahangir held him at Gwalior Fort. Accounts differ on the dates, but he was eventually freed."
+    },
+    {
+      "title": "Freeing the rajas",
+      "text": "Sikh tradition says he would not leave unless 52 imprisoned hill rajas could leave too. They held the hems of his special cloak as they walked out."
+    },
+    {
+      "title": "Bandi Chhor Divas",
+      "text": "Sikhs remember his release each year on Diwali night by lighting lamps at gurdwaras and homes."
+    }
+  ],
+  "teaches": [
+    "Care for others as well as yourself",
+    "Courage with kindness",
+    "Speak up for those who are held back"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Miri and piri (two swords)", "Akal Takht", "Cloak with 52 hems"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Guru Arjan",
+      "slug": "guru-arjan"
+    },
+    {
+      "relation": "mother",
+      "name": "Mata Ganga"
+    },
+    {
+      "relation": "son",
+      "name": "Guru Tegh Bahadur",
+      "slug": "guru-tegh-bahadur"
+    },
+    {
+      "relation": "grandson and successor",
+      "name": "Guru Har Rai",
+      "slug": "guru-har-rai"
+    },
+    {
+      "relation": "eldest son",
+      "name": "Baba Gurditta"
+    }
+  ],
+  "texts": ["Janamsakhis and Sikh histories"],
+  "places": ["Guru ki Wadali", "Akal Takht, Amritsar", "Gwalior Fort", "Kiratpur Sahib"],
+  "festivals": ["Bandi Chhor Divas"],
+  "facts": [
+    {
+      "text": "Bhai Gurdas wrote down critics' complaints that this Guru roamed about, kept hunting dogs and did not sit in one temple like earlier Gurus. He answered that truth cannot be hidden and that disciples, like bees around a lotus, still loved him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikh accounts say he survived several attempts on his life as a boy. He is said to have seized a snake by the head and squeezed it until it died, and a dog named Pista died after eating poisoned curd he had knocked away. He also survived smallpox.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He wore two swords, miri and piri, one for worldly authority and one for spiritual authority.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He built the Akal Takht opposite Harmandir Sahib in 1606. It was once called Akal Bunga, and two Nishan Sahibs fly there, said to stand for miri and piri.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Akal_Takht",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is credited with founding the Akal Sena, a Sikh army, and kept a retinue of 52 armed men, since the number 52 held special meaning in his life. His household reportedly kept 700 horses, 300 cavalry and 60 musketeers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His warriors are said to have worn a kachhera, a kara and a kirpan, long before the Khalsa was formed.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jahangir held him at Gwalior Fort in about 1609, when he was about 14, over an unpaid fine imposed on his father. The release date is uncertain: one account says 1611 or 1612, while Persian sources suggest imprisonment between 1617 and 1619.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sikh tradition says he secured the release of 52 Rajput hill rajas by having them each hold a hem of his special cloak with 52 hems.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Bandi Chhor Divas, 'Day of Liberation', falls on Diwali night, with lamps, processions and langar at gurdwaras.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He inherited the pothi mahal, his father's library of sacred texts, and signed his name on a folio of the Goindwal Pothi to mark that it had passed to him. Sikhs guarded the library during the Battle of Amritsar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He is said to have seen women as the consciousness of humankind, backed the householder's life and discouraged giving up the world.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says he met the saint Samarth Ramdas and described himself as a hermit within and a prince outside.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "His preserved swords, the piri tegh and miri tegh, are kept at the Toshakhana in Amritsar and carry martial inscriptions.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another episode in Sikh hagiographies, a nurse sent to care for the infant Hargobind had put poison on her body to harm him as he fed, but the baby refused to latch on and she herself fell ill.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On 4 November 1598, an eight-year-old Hargobind witnessed the emperor Akbar visiting his father's Sikh court, an event said to have shaped his views.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sources disagree on his birth year. Most give 1595, but the Bhatt Vahi Multani Sindhi gives 19 June 1590, and later works may have copied the Gurbilas Patshahi Chhevin's date.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Historians do not know why Jahangir freed him from Gwalior. Some scholars suggest Jahangir had returned to Akbar's tolerant policies; another theory says he concluded the Guru was harmless.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After his release he travelled with Jahangir to Kashmir and Rajputana. Under Shah Jahan, from 1627, ties soured: the stepwell at Lahore was destroyed, and in 1628 the emperor's hunting party plundered some of his property, the first armed clash.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a battle at Rohilla, Mughal forces led by Governor Abdul Khan were defeated by the Sikhs. It was fought in response to the growing militarisation of the Sikhs.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hargobind was born after Baba Buddha blessed his mother, Ganga, who had wished for a son to continue the guruship. Baba Buddha later trained the first Sikh army's recruits in Shastar Vidya, a martial art, by Hargobind's order.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "About how old was he when he became Guru?",
+      "options": ["11", "25", "40", "60"],
+      "answer": 0,
+      "why": "He became Guru in 1606 at about eleven."
+    },
+    {
+      "q": "What do his two swords stand for?",
+      "options": [
+        "East and west",
+        "Worldly and spiritual authority",
+        "Peace and war",
+        "Past and future"
+      ],
+      "answer": 1,
+      "why": "Miri is worldly and piri is spiritual."
+    },
+    {
+      "q": "What did he build opposite Harmandir Sahib?",
+      "options": ["Akal Takht", "A palace", "A school", "A fort"],
+      "answer": 0,
+      "why": "The Akal Takht is the 'Throne of the Timeless'."
+    },
+    {
+      "q": "How many rajas were freed with him, by tradition?",
+      "options": ["12", "30", "52", "108"],
+      "answer": 2,
+      "why": "Sikh tradition says 52 hill rajas."
+    },
+    {
+      "q": "Which festival connects to his release?",
+      "options": ["Bandi Chhor Divas", "Vaisakhi", "Lohri", "Hola Mohalla"],
+      "answer": 0,
+      "why": "It falls on Diwali night."
+    }
+  ],
+  "related": ["guru-arjan", "guru-har-rai", "guru-tegh-bahadur", "baba-buddha", "bhai-gurdas"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+    "akaltakht": "https://en.wikipedia.org/wiki/Akal_Takht",
+    "bandi": "https://en.wikipedia.org/wiki/Bandi_Chhor_Divas",
+    "buddha": "https://en.wikipedia.org/wiki/Baba_Buddha"
+  },
+  "palette": {
+    "c1": "#f0d8b0",
+    "c2": "#c9d8e8"
+  },
+  "depth": "full"
+}

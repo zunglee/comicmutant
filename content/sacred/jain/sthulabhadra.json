@@ -1,0 +1,261 @@
+{
+  "slug": "sthulabhadra",
+  "name": "Sthulabhadra",
+  "aka": ["Sthulibhadra", "Acharya Sthulabhadra"],
+  "native": "स्थूलभद्र",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Jain acharya, pupil of Bhadrabahu and head of the Svetambara line",
+  "summary": "Sthulabhadra was a minister's son who became a Jain monk and is famous for staying calm in a courtesan's dance hall for a whole rainy season.",
+  "about": "Sthulabhadra is remembered in Jain tradition as the son of Shakatala, a minister of the Nanda kings. After his father's death he refused a ministry and became a monk under Acharya Sambhutavijaya. Svetambara accounts say he later learned ten purvas from Bhadrabahu and the last four only as words. He is best known for a story in which he spent a monsoon retreat in the house of Kosha, a courtesan he had known, and stayed steady while she turned from temptation to Jain vows. Svetambaras trace their monastic line to him, while Digambaras tell the history of the split differently. His dates are uncertain; one modern author gives 297 to 198 BCE, which does not fit easily with his father serving the Nandas.",
+  "kidSummary": "Sthulabhadra was a Jain monk who lived more than 2,000 years ago. Four monks each chose a hard place to spend the rainy season. Three picked scary places like a lion's den. Sthulabhadra chose the dance hall of a woman he used to know, and stayed calm and peaceful the whole time.",
+  "story": [
+    {
+      "title": "A minister's son",
+      "text": "Sthulabhadra's father Shakatala was a minister to the Nanda kings. When his father died, the king offered Sthulabhadra the job, but he said no."
+    },
+    {
+      "title": "Becoming a monk",
+      "text": "He joined the monk Sambhutavijaya and began to follow the Jain path, giving up family, wealth and comfort."
+    },
+    {
+      "title": "Four monks, four tests",
+      "text": "For the four months of the rainy season, three monks picked hard places: a dry well's lid, a lion's cave mouth and a python's chasm. Sthulabhadra asked to stay at Kosha's house."
+    },
+    {
+      "title": "A calm heart",
+      "text": "Kosha tried everything she could to pull him back to old ways, with food, music and a full-moon dance. He stayed calm and kept meditating."
+    },
+    {
+      "title": "Kosha learns",
+      "text": "He taught her gently about inner beauty. She became a follower of Jainism and made her own vows."
+    },
+    {
+      "title": "Praise from the teacher",
+      "text": "His teacher praised him for doing something very hard, and the story reminds Jains how steady the heart can be."
+    }
+  ],
+  "teaches": [
+    "Self-control is harder than facing danger",
+    "Calm without anger or pride",
+    "Kindness can change a heart"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Chaturmas retreat", "Lotus (purity amid temptation)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shakatala, Nanda minister"
+    },
+    {
+      "relation": "Brother",
+      "name": "Shriyaka"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Bhadrabahu",
+      "slug": "bhadrabahu"
+    },
+    {
+      "relation": "Guru",
+      "name": "Sambhutavijaya"
+    },
+    {
+      "relation": "Lay follower",
+      "name": "Kosha"
+    }
+  ],
+  "texts": ["Parishishtaparvan", "Kalpa Sutra", "Avashyaka Bhashya"],
+  "places": ["Pataliputra (Patna)", "Kamaldah, Patna", "Patan, Gujarat"],
+  "festivals": ["Chaturmas"],
+  "years": "uncertain (4th–3rd century BCE)",
+  "quiz": [
+    {
+      "q": "Which place did Sthulabhadra choose for his four-month test?",
+      "options": ["A lion's cave", "A python's chasm", "The lid of a dry well", "A dance hall"],
+      "answer": 3,
+      "why": "He chose Kosha's dance hall, which his guru praised as the hardest."
+    },
+    {
+      "q": "What was his father's job?",
+      "options": ["Minister to the Nanda kings", "Temple priest", "Sailor", "Farmer"],
+      "answer": 0,
+      "why": "Shakatala was a minister at the Nanda court."
+    },
+    {
+      "q": "How many purvas did he learn in full from Bhadrabahu?",
+      "options": ["Four", "Ten", "Fourteen", "Two"],
+      "answer": 1,
+      "why": "He learned ten in full and the last four only as words."
+    },
+    {
+      "q": "What does chaturmas mean?",
+      "options": [
+        "Four moons of dancing",
+        "Four temples",
+        "A four-day festival",
+        "Four months of rainy-season retreat"
+      ],
+      "answer": 3,
+      "why": "Jain monks stay in one place for the four monsoon months."
+    }
+  ],
+  "related": ["bhadrabahu", "chandragupta-maurya", "shalibhadra", "hemachandra", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sthulabhadra",
+    "digambara": "https://en.wikipedia.org/wiki/Digambara",
+    "stories": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/70",
+    "stories_from_jainism_p70": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/70",
+    "stories_from_jainism_p74": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/74",
+    "shraman_bhagwan_mahavira_p243": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/243",
+    "kundakunda_blessing": "https://jainqq.org/pagetext/Acharya_Kundakunda/201050/1"
+  },
+  "palette": {
+    "c1": "#f1e4d6",
+    "c2": "#e1e8f0"
+  },
+  "order": 500,
+  "facts": [
+    {
+      "text": "When he arrived at Kosha's door as a monk, she fainted from shock. He gently told her he now lived as a monk and asked her permission to stay for the rainy season.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/71",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After his father's death the king offered him the post of chief minister. He went off to a garden to think, decided the post had cost his father too dearly, and returned only to bless the king and leave.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/234",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one telling the guru's pupils chose to spend the rainy months on a dry well's wooden lid, at a lion's cave mouth and by a python's mountain chasm. Sthulabhadra picked the dance hall of Kosha.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/70",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Monks do not eat food cooked specially for them, so Sthulabhadra refused the dishes Kosha prepared and went out begging at other houses instead, even in the rain.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/72",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the next rainy season a monk tried the same test and wavered. Kosha sent him to fetch a gem-set shawl from the King of Nepal. He brought it, she tore it up, and her sharp words woke him to his mistake.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/74",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He once turned himself into a lion to impress his seven nun sisters. They saw only a lion, thought their brother killed and hurried to Bhadrabahu, who knew the truth and sent them back, where they found Sthulabhadra safe.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/243",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One Svetambara text says he took vows at 30, was a monk for 24 years and then led the order for 45, living to 99. With his passing, it says, the last four purvas and a meditation method called Mahaprana dhyana were lost.",
+      "kind": "history",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/244",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambara Jains recite a blessing naming Mahavira, Gautama and Sthulabhadra as auspicious. Digambaras use almost the same verse but put Kundakunda in the third place.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Because he had used his learning to show off, Bhadrabahu refused to teach him more. After the Sangha pleaded, he gave the words of the last four purvas without their meanings and barred him from teaching them, so his pupils Mahagiri and Suhastin learned ten.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before becoming a monk, Sthulabhadra had lived twelve years at Kosha's home. That is why his choice of her dance hall for the rainy-season retreat was seen as the hardest test of all.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/70",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the young monks heard that Sthulabhadra wanted to spend the four months at Kosha's dance hall, the others laughed. The teacher nevertheless agreed to the request.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/70",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the story, the king offered the minister's post first to Sthulabhadra's younger brother Shriyaka. Shriyaka declined and recommended his elder brother, explaining that he had been living at Kosha's house.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/234",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In this telling, his father Shakatala planned his own death so that the king's anger would not fall on the family. The king then offered the vacant ministry, and that offer set Sthulabhadra thinking about leaving worldly life.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/234",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tenth-century Digambara texts say Sthulabhadra allowed monks to wear loincloths during a 12-year famine, which they see as the start of the Svetambara order. Svetambaras consider this baseless.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 5th-century Svetambara text, the Avashyaka Bhashya by Jinabhadra, tells the split differently: it says the Svetambara line always existed and that the Digambara line began with a monk named Sivabhuti.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the other monks went back to Pataliputra, Sthulabhadra stayed on with Bhadrabahu to keep studying the scriptures.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/243",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He knew the last four purvas but not their meanings, so he is not counted as a Shruta Kevalin, a monk who knows all the scriptures in full.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain monks wander for eight months of the year but stay in one place during the four monsoon months of Chaturmas, which is why his famous test was a rainy-season retreat.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The monk who failed said his courage had never really been tested in Parashuram's cave, but a courtesan's house had shown it was weak. The page then closes by praising Sthulabhadra as a conqueror of desire.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Stories_From_Jainism/007018/74",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A diorama in the Jain Museum at Madhuban shows his monsoon retreat at Rupkosa's home, where, in the story, she tried to lure him from the monk's path and failed.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sthulabhadra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "full"
+}

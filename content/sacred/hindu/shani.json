@@ -1,0 +1,277 @@
+{
+  "slug": "shani",
+  "name": "Shani",
+  "aka": ["Shanaishchara", "Saneeswar", "Chhayasutha", "Kakadhvaja", "Antak"],
+  "native": "शनि",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Deity of the planet Saturn and of karma",
+  "summary": "Shani is the Hindu deity of Saturn, a Navagraha shown on a crow. Stories say he rewards fair deeds, and many devotees honour him on Saturdays.",
+  "about": "Shani is the Hindu god of the planet Saturn and one of the nine Navagraha. Medieval Puranas name him as the son of Surya and Chhaya, which makes Yama and Yamuna his siblings. Texts describe him with dark skin and a crow or vulture as his mount, and he is linked with karma, time and the results of actions. Hindu astrology gives him Saturday, the signs Capricorn and Aquarius and the blue sapphire. Sanskrit astronomers measured Saturn's orbit with surprising accuracy. Major shrines include Shani Shingnapur in Maharashtra and Thirunallar in Tamil Nadu. The Brahma Vaivarta Purana presents him as a devotee of Krishna, and tradition says he favours people who help the poor.",
+  "kidSummary": "Shani is the god of the planet Saturn in Hindu stories. His name means the slow mover, like Saturn plodding across the sky. He rides a crow, and in a Maharashtra village named Shani Shingnapur, houses have no locked doors.",
+  "story": [
+    {
+      "title": "Born from shadow",
+      "text": "Many Puranas say Shani is the son of Surya, the sun god, and Chhaya, the shadow that Sanjna left behind."
+    },
+    {
+      "title": "A slow traveller",
+      "text": "Shani is the planet Saturn, which takes a very long time to circle the sky. Indian astronomers measured its journey carefully."
+    },
+    {
+      "title": "A stone in the village",
+      "text": "Legend says shepherds in Shingnapur found a black stone. In a dream, Shani asked to be worshipped with oil on Saturdays."
+    },
+    {
+      "title": "Under the open sky",
+      "text": "The deity asked for no roof, saying the open sky was roof enough. Even today the shrine has none."
+    },
+    {
+      "title": "Kindness is rewarded",
+      "text": "Tradition says Shani is pleased with people who help the poor, so devotees on Saturdays often give to those in need."
+    }
+  ],
+  "teaches": [
+    "Our actions have results, so act fairly",
+    "Be generous to the poor without expecting reward",
+    "Patience and discipline bring lasting strength"
+  ],
+  "symbol": "star",
+  "emblems": [
+    "Crow (mount)",
+    "Dark blue robes",
+    "Bow and arrow",
+    "Iron chariot (some accounts)",
+    "Blue sapphire"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Chhaya"
+    },
+    {
+      "relation": "Brother",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Sister",
+      "name": "Yamuna",
+      "slug": "yamuna"
+    },
+    {
+      "relation": "Brother",
+      "name": "Karna",
+      "slug": "karna"
+    },
+    {
+      "relation": "Brothers",
+      "name": "The Ashvins",
+      "slug": "ashvins"
+    }
+  ],
+  "texts": ["Brahma Vaivarta Purana", "Surya Siddhanta", "Aryabhatiya"],
+  "places": [
+    "Shani Shingnapur, Maharashtra",
+    "Thirunallar, Tamil Nadu",
+    "Kashi Vishwanath Temple, Varanasi",
+    "Udupi, Karnataka"
+  ],
+  "festivals": ["Shani Jayanti", "Saturday worship"],
+  "facts": [
+    {
+      "text": "Sade Sati, the famous seven-and-a-half-year Saturn period in Hindu astrology, gets its name because Saturn spends about two and a half years in each of three zodiac signs.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sade_Sati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Vaivarta Purana, Shani is hesitant to look at the newborn Ganesha because his gaze is destructive, but Parvati insists, and the infant's head is lost before being replaced with an elephant's.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mythological_anecdotes_of_Ganesha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Buddhist images from northeastern India and Nepal show him riding a tortoise, a very different mount from the crow of Hindu images.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sanskrit astronomers put Saturn's year at about 10,765.8 days, Ptolemy at about 10,758.7 and modern work at about 10,759.2, so the old Indian figure was off by only about a week over 29 years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Brahma Vaivarta Purana, Shani ignored his wife while worshipping Krishna, and she cursed him so that whoever he gazes on meets hardship, which is why his glance is said to be feared.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shani Shingnapur is a village where houses have door frames but no doors, because villagers trust Shani to deter thieves, though thefts were reported in 2010 and 2011.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The shrine there has no roof, since legend says the deity declared the sky roof enough, and the deity is a self-emerged black stone about five and a half feet tall.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Legend says shepherds found the stone and it bled when touched with a sharp rod; the deity then appeared in a dream asking for daily worship and oil.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Shanaishchara, Shani's full name, is read as the slow-moving one, and Saturn is the slowest of the classical planets, spending about 30 months in each zodiac sign.",
+      "kind": "language",
+      "source": "https://hindupedia.com/en/Sani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A popular devotional legend says Ravana held Shani prisoner in Lanka until Hanuman freed him, and Shani then promised to spare Hanuman's devotees, which is why many worship Hanuman on Saturdays.",
+      "kind": "story",
+      "source": "https://www.hindu-blog.com/2009/11/hanuman-and-shani-story-of-why.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In January 2011 UCO Bank opened a branch at Shingnapur said to be India's first lockless one: it has doors but keeps them open, which reportedly displeased local police because banks must meet security rules.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindupedia says Shani was made lame by his half-brother Yama, one more reason this planet is thought of as the slow walker.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shani is shown in blue or black robes, riding a crow or vulture or an iron chariot with eight horses, and holding a bow, arrow, axe and trident.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Shingnapur shrine draws 30,000 to 45,000 visitors a day, and around three lakh on new-moon days, when the village holds a fair with a palanquin procession.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shingnapur marks Shani Jayanti, his birthday, and treats Saturdays and new-moon Saturdays as especially dear to him.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hindupedia lists sesame-oil lamps before Shani on Saturdays as a remedy, and giving a copper pot of sesame oil after looking at one's own reflection in it.",
+      "kind": "festival",
+      "source": "https://hindupedia.com/en/Sani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the road to Shingnapur, locals still press sugarcane juice with bullocks instead of machines, at juice stalls called Rasavanti.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A tradition of about 400 years kept women out of the Shingnapur sanctum until April 2016, after the Bombay High Court ruled on 30 March 2016 that no temple may bar women.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shani's siblings in the Puranas include the river goddess Tapti and Savarni Manu, who is destined to be the eighth Manu, the next ruler of humankind.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Chhaya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Medieval texts call Shani feared for the misfortune he brings to those who deserve it, yet also a great teacher who rewards righteous acts and can grant boons.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is Shani in Hindu astronomy?",
+      "options": ["Mars", "Mercury", "Saturn", "Venus"],
+      "answer": 2,
+      "why": "Shani is the deity of Saturn."
+    },
+    {
+      "q": "What is Shani's usual mount in Hindu images?",
+      "options": ["A crow", "A lion", "An elephant", "A peacock"],
+      "answer": 0,
+      "why": "Most images show a crow or vulture as his mount."
+    },
+    {
+      "q": "In Shani Shingnapur, what do many houses not have?",
+      "options": ["Windows", "Locked doors", "Gardens", "Electric lights"],
+      "answer": 1,
+      "why": "Villagers leave many houses without locked doors, trusting Shani."
+    },
+    {
+      "q": "Which day of the week is Shani's day?",
+      "options": ["Monday", "Thursday", "Saturday", "Sunday"],
+      "answer": 2,
+      "why": "Shanivara, Saturday, is his dedicated day."
+    },
+    {
+      "q": "Whose son is Shani in many Puranas?",
+      "options": ["Surya", "Indra", "Vayu", "Agni"],
+      "answer": 0,
+      "why": "Many Puranas name Surya and Chhaya as his parents."
+    }
+  ],
+  "related": ["navagraha", "surya", "yama", "karna", "brihaspati", "hanuman", "ganesha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shani",
+    "shingnapur": "https://en.wikipedia.org/wiki/Shani_Shingnapur",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "sanjna": "https://en.wikipedia.org/wiki/Sanjna",
+    "ganesha-anecdotes": "https://en.wikipedia.org/wiki/Mythological_anecdotes_of_Ganesha",
+    "sade-sati": "https://en.wikipedia.org/wiki/Sade_Sati",
+    "hindupedia": "https://hindupedia.com/en/Sani",
+    "hanuman-legend": "https://www.hindu-blog.com/2009/11/hanuman-and-shani-story-of-why.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9d3e3",
+    "c2": "#e6dccb"
+  },
+  "order": 503
+}

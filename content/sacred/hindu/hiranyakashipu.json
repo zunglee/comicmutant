@@ -1,0 +1,266 @@
+{
+  "slug": "hiranyakashipu",
+  "name": "Hiranyakashipu",
+  "aka": ["Hiranyakasipu", "Hiranyakashyap"],
+  "native": "हिरण्यकशिपु",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura king in the Prahlada story of the Puranas",
+  "summary": "Hiranyakashipu is the asura king of the Puranas who gains an unusual boon from Brahma. His story, with his son Prahlada and Narasimha, lies behind Holi.",
+  "about": "In the Puranas, Hiranyakashipu is an asura king and the elder brother of Hiranyaksha. The Bhagavata Purana says the two were once Jaya and Vijaya, Vishnu's gatekeepers, who were cursed to be born on earth. After Varaha ended Hiranyaksha's story, Hiranyakashipu performed great austerities and asked Brahma for protection from death in many specific ways, indoors or outdoors, by day or night, by humans, animals or weapons. The Puranas say he then conquered the three worlds. His son Prahlada stayed devoted to Vishnu, and in many versions Vishnu appeared as Narasimha, a form that fell outside every condition of the boon. Versions differ on details such as the pillar, the boon list and how Prahlada and Narasimha meet. The story is linked to Holika Dahan and Holi.",
+  "kidSummary": "Hiranyakashipu is a king in the Puranas who gets a very clever promise from Brahma. His son Prahlada loves Vishnu and will not stop praying. In the story, Vishnu shows up as Narasimha, half man and half lion, in a way that fits every condition of the promise. This tale is why many people light a bonfire before Holi.",
+  "story": [
+    {
+      "title": "A very careful wish",
+      "text": "After years of tapas, Hiranyakashipu asks Brahma for a boon. Brahma will not give him immortality, so he asks to be safe from many things: day and night, indoors and outdoors, humans and animals."
+    },
+    {
+      "title": "A king of three worlds",
+      "text": "With the boon, he becomes so strong that the Puranas say he rules the three worlds and takes the place of Indra."
+    },
+    {
+      "title": "A devoted son",
+      "text": "His son Prahlada is a devotee of Vishnu. Hiranyakashipu is angry and tries many ways to stop him, but the boy stays calm and keeps praying."
+    },
+    {
+      "title": "The pillar",
+      "text": "One day the king asks where Vishnu is. Prahlada answers that Vishnu is everywhere, even in that pillar. The king strikes the pillar with his mace."
+    },
+    {
+      "title": "Twilight at the threshold",
+      "text": "Narasimha appears, half man and half lion. At dusk, on a doorway, he places the king on his lap and ends the story, fitting every condition of the boon."
+    }
+  ],
+  "teaches": [
+    "Devotion and kindness can stay steady under pressure",
+    "Power and cleverness do not last without humility"
+  ],
+  "symbol": "flame",
+  "emblems": ["Mace", "Jewelled earring (Uttara Ramayana)"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Hiranyaksha",
+      "slug": "hiranyaksha"
+    },
+    {
+      "relation": "Sister",
+      "name": "Holika",
+      "slug": "holika"
+    },
+    {
+      "relation": "Son",
+      "name": "Prahlada",
+      "slug": "prahlada"
+    },
+    {
+      "relation": "Father",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Opponent in the Puranas",
+      "name": "Narasimha",
+      "slug": "narasimha"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Harivamsha",
+    "Shiva Purana",
+    "Kurma Purana",
+    "Skanda Purana",
+    "Uttara Ramayana"
+  ],
+  "places": ["Ahobilam, Andhra Pradesh", "Sikligarh Dharhara, Bihar", "Hampi"],
+  "festivals": ["Holi", "Holika Dahan", "Narasimha Jayanti"],
+  "facts": [
+    {
+      "text": "His name is commonly read as gold plus a soft bed, meaning one who loves gold and comfort.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsha says he meditated for 11,500 years while standing in water and keeping silence.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Puranas, grass, bamboo and an anthill grew over him, and insects ate until only a skeleton was left, but his life force stayed in the bones.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Skanda Purana says he ruled the universe for about 107.28 million years, which it counts as 24.8 yugas.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Narasimha slays him by using the gaps in the boon: twilight, a threshold, his own lap and his claws.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Harivamsha, Narasimha comes with an attendant called Omkara and does not come out of a pillar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Kurma Purana, Prahlada fights Narasimha at first on his father's orders and only later accepts the god's divinity.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Uttara Ramayana, Mahabali shows Ravana a huge earring once worn by Hiranyakashipu, which Ravana cannot lift.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Prahlada's trials in the Puranas included snakes that formed a bed for him and elephants whose tusks broke.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one account of Prahlada's trials, Hiranyakashipu had him buried under mountains in the ocean for a year, until Vishnu moved the mountains and brought him home.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Holi tale, the king sat Prahlada on the lap of his sister Holika atop a pyre, since a boon kept her safe from fire; she burned and Prahlada did not.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A variant says Holika wore a fireproof scarf meant only for her, but in the blaze it flew off and covered Prahlada instead, so she died.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Prahlada declined boons after the death, and asked that his father's faults be forgiven; the Bhagavata says Narasimha replied that contact with his own body had already purified him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, he also asks Brahma that nothing living or lifeless, and no serpent of the lower worlds, can kill him, and that he be given no rival.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Shiva Purana's version, he asks to be safe from weapons, thunderbolts, mountains, trees, missiles, water, fire and anything Brahma created.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He did his austerities in the valley of Mandara Mountain, standing perfectly still with his arms raised and his gaze fixed on the sky.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Holika Dahan tradition calls Narasimha a form not created by Brahma, which is why he slipped past a boon that covered the beings Brahma made.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says the two brothers were once Vishnu's gatekeepers Jaya and Vijaya, born on earth after a curse from the Four Kumaras.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Hiranyakashipu began to hate Vishnu after Varaha slew his younger brother Hiranyaksha, and he vowed to win a boon of invulnerability from Brahma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the story, Prahlada takes the throne of the asuras and rules peacefully and virtuously, and he later reaches Vaikuntha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which gap in Hiranyakashipu's boon did Narasimha use?",
+      "options": [
+        "Daytime in a field",
+        "Inside a locked room",
+        "Dusk on a threshold",
+        "A weapon of iron"
+      ],
+      "answer": 2,
+      "why": "Narasimha came at twilight, on a threshold, with his claws, so neither day nor night, indoors nor outdoors."
+    },
+    {
+      "q": "Who is Hiranyakashipu's devoted son?",
+      "options": ["Prahlada", "Bali", "Arjuna", "Dhruva"],
+      "answer": 0,
+      "why": "Prahlada is devoted to Vishnu."
+    },
+    {
+      "q": "Which festival is linked to Holika's pyre?",
+      "options": ["Holi", "Pongal", "Onam", "Lohri"],
+      "answer": 0,
+      "why": "Holika Dahan is lit before Holi."
+    },
+    {
+      "q": "Who appears from the pillar in the common telling?",
+      "options": ["Varaha", "Narasimha", "Vamana", "Matsya"],
+      "answer": 1,
+      "why": "Narasimha is half man and half lion."
+    }
+  ],
+  "related": ["prahlada", "narasimha", "hiranyaksha", "holika", "varaha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+    "narasimha": "https://en.wikipedia.org/wiki/Narasimha",
+    "holika": "https://en.wikipedia.org/wiki/Holika",
+    "prahlada": "https://en.wikipedia.org/wiki/Prahlada",
+    "ahobilam": "https://en.wikipedia.org/wiki/Ahobilam",
+    "diti": "https://en.wikipedia.org/wiki/Diti"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0d9a0",
+    "c2": "#e2b9a4"
+  },
+  "order": 500
+}

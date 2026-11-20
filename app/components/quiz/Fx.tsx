@@ -136,7 +136,7 @@ export function StreakMeter({ streak }: { streak: number }) {
           {[1, 2, 3, 4, 5].map((i) => (
             <span
               key={i}
-              className="h-1.5 w-3 rounded-sm border border-line"
+              className="h-1.5 w-3 rounded-skin-s border border-line"
               style={{ background: streak >= i ? 'var(--qz-warn)' : 'var(--card)' }}
             />
           ))}

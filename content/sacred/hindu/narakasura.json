@@ -1,0 +1,256 @@
+{
+  "slug": "narakasura",
+  "name": "Narakasura",
+  "aka": ["Naraka", "Bhauma", "Bhaumasura"],
+  "native": "नरकासुर",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Asura king of Pragjyotisha, linked with Naraka Chaturdashi",
+  "summary": "Narakasura is an asura king of Pragjyotisha in the Puranas and the legendary ancestor of Assam's old dynasties. Naraka Chaturdashi, the day before Diwali in many places, recalls his defeat by Krishna and Satyabhama.",
+  "about": "In the Harivamsa and Puranas, Narakasura, also called Bhauma, is the son of Bhumi, the earth goddess, and Vishnu in his Varaha form. He rules Pragjyotisha, the old name of Assam's region, and several royal families of ancient Kamarupa traced themselves back to him. His son Bhagadatta fought for the Kauravas in the Mahabharata. The Bhagavata Purana says he took the earrings of Aditi, Varuna's umbrella and the gods' playground on Mount Mandara, and held thousands of women captive in his palace. Krishna and Satyabhama ride Garuda to his city, defeat his army and his general Mura, and bring the captives home. In the Bhagavata Purana Krishna ends him with his discus; in many later retellings a boon says only his mother can end his life, and Satyabhama, believed in those tellings to be an avatar of Bhumi, joins the fight. Naraka Chaturdashi marks this story in many parts of India, and Assam also has legends connecting him with the Kamakhya temple.",
+  "kidSummary": "Narakasura is an asura king in the Puranas who rules Pragjyotisha, in today's Assam. In the stories, Krishna and Satyabhama defeat him and bring home the captive women. Many people remember the story on Naraka Chaturdashi, just before Diwali.",
+  "story": [
+    {
+      "title": "A king of Pragjyotisha",
+      "text": "In the Puranas, Narakasura is the son of Bhumi, the earth goddess. He rules Pragjyotisha, in today's Assam, and gains great power from a boon."
+    },
+    {
+      "title": "Trouble for the gods",
+      "text": "He takes the earrings of the goddess Aditi, Varuna's umbrella and the gods' playground on Mount Mandara. He also holds thousands of women in his palace."
+    },
+    {
+      "title": "Krishna and Satyabhama set out",
+      "text": "Indra asks Krishna for help. Krishna and his wife Satyabhama fly to Pragjyotisha on Garuda, the divine eagle."
+    },
+    {
+      "title": "The battle",
+      "text": "Krishna defeats the army and the general Mura, which gives Krishna the name Murari. In the Bhagavata Purana Krishna's discus then ends Narakasura. In many later retellings a boon says only his mother can end his life, and Satyabhama, thought of as an avatar of Bhumi, joins the fight after Krishna feigns a swoon."
+    },
+    {
+      "title": "Lamps for the dawn",
+      "text": "After Narakasura's defeat, the captive women are freed and In the Bhagavata Purana, Bhumi gives the earrings to Krishna, who carries them back to Aditi. Many families celebrate this at Naraka Chaturdashi with oil baths and lamps."
+    }
+  ],
+  "teaches": [
+    "Power should be used with care",
+    "Courage and teamwork help set people free",
+    "Light and joy follow after dark times"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Aditi's earrings",
+    "Oil lamps of Naraka Chaturdashi",
+    "Mura-pasha wire fortress",
+    "Nilachal stairway"
+  ],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Bhumi",
+      "slug": "bhumi"
+    },
+    {
+      "relation": "Father (in the Harivamsa line)",
+      "name": "Varaha",
+      "slug": "varaha"
+    },
+    {
+      "relation": "Slain by",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Fought him; mother's avatar in tellings",
+      "name": "Satyabhama",
+      "slug": "satyabhama"
+    },
+    {
+      "relation": "Goddess whose earrings he took",
+      "name": "Aditi",
+      "slug": "aditi"
+    }
+  ],
+  "texts": ["Harivamsa", "Bhagavata Purana", "Vishnu Purana", "Kalika Purana", "Mahabharata"],
+  "places": ["Pragjyotisha (Kamarupa), Assam", "Nilachal Hill, Guwahati", "Kamakhya Temple"],
+  "festivals": ["Naraka Chaturdashi", "Diwali"],
+  "facts": [
+    {
+      "text": "Bhumi, the earth goddess, asked Vishnu in his Varaha form for a long life and great power for the son she bore him, and Vishnu granted both. That is how Naraka grew so mighty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 7th-century copper plate from Nidhanpur says the Varman dynasty began with Naraka, placed about 3,000 years before those kings. The Mlechchha and Pala dynasties of Kamarupa also traced themselves to him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 9
+    },
+    {
+      "text": "The Kalika Purana of the 10th century says Naraka came from Mithila and overthrew the last Kirata king, Ghatakasura.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 7
+    },
+    {
+      "text": "His son Bhagadatta succeeded him as king of Pragjyotisha and fought for the Kauravas in the Mahabharata war. He inherited a Vaishnava weapon from Naraka and used it against Arjuna, but Krishna took the blow himself to protect Arjuna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhagadatta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In many later retellings, a boon said only the one who bore Naraka could end him. When he struck at Krishna, Krishna pretended to swoon, Satyabhama, held to be an avatar of Bhumi, attacked, and Krishna then killed Naraka with the Sudarshana Chakra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says he held 16,100 women captive, and they were freed after his defeat.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 7
+    },
+    {
+      "text": "His army is said to have had eleven akshauhinis, and Krishna beat his general Mura, which is why Krishna is called Murari.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, after Mura fell, his seven sons rose in anger under their commander Pitha and attacked Krishna, who cut them all down with arrows before Naraka himself rode out.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 8
+    },
+    {
+      "text": "In the Bhagavata Purana, Garuda used his wings, beak and claws to drive Naraka's remaining elephants back into the city, leaving Naraka alone against Krishna.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, after Naraka fell, Bhumi gave Krishna Aditi's earrings, Varuna's umbrella and the Mandara peak. Krishna then carried the earrings to Indra's realm and returned them to Aditi himself.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 7
+    },
+    {
+      "text": "An Assamese legend says Naraka wanted to win the goddess Kamakhya, and she set him a test, to build a stairway up Nilachal Hill before dawn.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 9
+    },
+    {
+      "text": "In that legend, the goddess created a rooster and made it crow before its time, as if morning had come, so Naraka gave up the task and, in anger, killed the bird.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says a five-headed being named Mura slept in the moat around Naraka's city and rose up at the sound of Krishna's conch.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says Naraka rode out of his fortress on a huge elephant of the Milk Ocean and hurled a weapon at Krishna, but it could not even shake Garuda. Krishna then ended him with his discus.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says Naraka's fortress was ringed by hills, weapons, water, fire, wind and a web of wires called mura-pasha, and Krishna broke each barrier in turn.",
+      "kind": "place",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some traditions say that before his end Narakasura asked Satyabhama that everyone should celebrate his death with colourful lights, which is why Naraka Chaturdashi begins Deepavali.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the way home, Krishna took the heavenly Parijata tree from Indra's home at Satyabhama's request and planted it in her palace garden, in the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/59/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Goa, people make paper effigies of Narakasura stuffed with grass and firecrackers and burn them at dawn, then crush a bitter berry called kareet underfoot.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In West Bengal the day is Bhoot Chaturdashi, when fourteen diyas are lit for ancestors, the day before Kali Puja.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+      "interest": 8
+    },
+    {
+      "text": "In Tamil Nadu, Naraka Chaturdashi marks the start of Deepavali, with an oil bath, prayers and fireworks before dawn. Parts of South India also call the day Deepavali Bhogi.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which goddess is Narakasura's mother in the Harivamsa?",
+      "options": ["Ganga", "Bhumi", "Lakshmi", "Parvati"],
+      "answer": 1,
+      "why": "Bhumi, the earth goddess."
+    },
+    {
+      "q": "Which bird does Krishna ride to Pragjyotisha with Satyabhama?",
+      "options": ["Garuda", "Peacock", "Swan", "Owl"],
+      "answer": 0,
+      "why": "Garuda, the divine eagle."
+    },
+    {
+      "q": "What name does Krishna get for defeating the general Mura?",
+      "options": ["Gopala", "Murari", "Madhava", "Keshava"],
+      "answer": 1,
+      "why": "Murari means enemy of Mura."
+    },
+    {
+      "q": "In many retellings, who joins the battle because only Narakasura's mother could end his life?",
+      "options": ["Rukmini", "Radha", "Satyabhama", "Draupadi"],
+      "answer": 2,
+      "why": "Satyabhama, held to be an avatar of his mother Bhumi, takes up the fight after Krishna feigns a swoon."
+    },
+    {
+      "q": "In Goa, what is burned on the morning of Naraka Chaturdashi?",
+      "options": ["Paper effigies", "Sandalwood logs", "Coconuts", "Silk kites"],
+      "answer": 0,
+      "why": "Paper effigies stuffed with grass and firecrackers."
+    }
+  ],
+  "related": ["krishna", "satyabhama", "bhumi", "varaha", "garuda", "aditi", "indra", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narakasura",
+    "festival": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+    "bhagavata_59": "https://www.vedabase.io/en/library/sb/10/59/",
+    "bhagadatta": "https://en.wikipedia.org/wiki/Bhagadatta"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#efd9b0",
+    "c2": "#d9bfb0"
+  },
+  "order": 500
+}

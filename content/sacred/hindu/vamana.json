@@ -1,0 +1,262 @@
+{
+  "slug": "vamana",
+  "name": "Vamana",
+  "aka": ["Trivikrama", "Urukrama", "Upendra", "Ulagalanthan"],
+  "native": "वामन",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The dwarf avatar of Vishnu, fifth of the Dashavatara",
+  "summary": "Vamana is the small Brahmin boy form of Vishnu. The Puranas say he asked King Mahabali for three steps of land and then grew huge to cover the worlds.",
+  "about": "Vamana is the fifth avatar in the usual Dashavatara list, and the first to appear in a human form. His name means dwarf. The Rigveda describes Vishnu taking three great strides but does not call him a dwarf, and some scholars see the later story growing from those verses. In the Puranas, Vamana is a son of Aditi and Kashyapa. He visits the generous king Mahabali, asks for three steps of land, then grows so large that two steps cover the earth and sky. Mahabali offers his head for the third. In Kerala the tale is tied to Onam, which celebrates the king's yearly visit.",
+  "kidSummary": "Vamana is Vishnu as a little boy. In a famous story, he asked a king for just three steps of land. Then he grew enormous and covered the whole world in two steps!",
+  "story": [
+    {
+      "title": "A powerful king",
+      "text": "In the Puranas, King Mahabali was generous and strong. He had won the heavens and the gods asked Vishnu for help."
+    },
+    {
+      "title": "A small guest",
+      "text": "Vishnu came as Vamana, a small Brahmin boy with an umbrella and water pot. He visited Mahabali's sacrifice."
+    },
+    {
+      "title": "Three steps",
+      "text": "The boy asked for only as much land as three of his steps could cover. Mahabali kindly agreed."
+    },
+    {
+      "title": "Growing tall",
+      "text": "Vamana grew until he filled the sky. His first step covered the earth and his second covered the heavens."
+    },
+    {
+      "title": "The third step",
+      "text": "For the third step, Mahabali offered his own head. In many tellings Vamana sent him to Patala and he is remembered with love."
+    }
+  ],
+  "teaches": [
+    "Keep promises, even when it is hard",
+    "Generosity is remembered",
+    "Humility can be strong"
+  ],
+  "symbol": "sun",
+  "emblems": ["Umbrella", "Water pot (kamandalu)", "Three strides"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Mother",
+      "name": "Aditi",
+      "slug": "aditi"
+    },
+    {
+      "relation": "Father",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Met",
+      "name": "Mahabali",
+      "slug": "mahabali"
+    }
+  ],
+  "texts": ["Rigveda", "Shatapatha Brahmana", "Mahabharata", "Bhagavata Purana"],
+  "places": ["Thrikkakara temple, Kochi"],
+  "festivals": ["Onam", "Vamana Dvadashi", "Balipratipada"],
+  "facts": [
+    {
+      "text": "In a Brahmavaivarta Purana tale, Vishnu comes as a smiling Brahmin boy called Vamana. He shows the proud Indra a stream of countless ants and says each one was once an Indra, reborn by its own deeds. The text even calls the boy Shiva in Vishnu's form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The ancient scholar Yaska gave two readings of Vishnu's three strides: the sun at sunrise, midday and sunset, or the three worlds of earth, air and sky.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, the teacher Shukra blocks the water spout to stop Bali's gift, and Vamana pokes it with a blade of darbha grass. Shukra loses an eye, and regains it only after a very hard penance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Brahmanda Purana gives one of the few tellings where Bali is neither warned beforehand nor aware of who Vamana really is. After the three steps, Bali and the asuras are sent down to Sutala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Several Puranas say his third stride cracked the cosmic egg at its edge, and the water that rushed in and washed his foot became the Ganga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Theravada tradition says the Buddha crossed the world in three strides, a legend that echoes Vamana's three steps and may have helped the Buddha join the avatar list.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dashavatara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Garuda Purana says Bali is the son of Virochana and the grandson of Prahlada, the young devotee of the Narasimha story, and that he had 100 sons, the eldest being Bana.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, Vamana orders his mace to strike Bali, and the mace refuses because Bali honours Brahmins. His discus and bow refuse too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, Bali asks only for Vishnu's feet as his boon, and Vishnu promises to stand as the gatekeeper of Bali's home.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The pookalam is a flower carpet. On the first day it is small and yellow only, and it grows larger each day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vamana images follow three patterns: the left foot raised above the knee, above the navel, or above the forehead. These stand for the netherworld, the earth and the heavens that he crossed as Trivikrama.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahmavaivarta Purana, the sage Lomasa tells Indra that he loses one hair from his chest each time an Indra dies. Brahma's fall, he adds, is just one wink of Vishnu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, after Vamana's two steps, Garuda binds Bali with Varuna's rope. Remembering his grandfather Prahlada's devotion, Bali offers his own head for the third step, and Vishnu promises to guard him as a doorkeeper in Sutala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vamana Purana, Bali knows exactly who Vamana is. Warned by Shukra to refuse, he says he cannot turn away the Lord of Sacrifices and is lucky he came in person. Far from being tricked, he is promised the post of Indra later and rules Sutala until then.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bala Kanda of Valmiki's Ramayana names a hermitage called Siddhashrama as the home of Vamana, so the dwarf avatar was already part of the epic's world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Harivamsa, Vamana comes to Bali's sacrifice as a boy with smoky eyes, a sacred thread, deerskin, umbrella and staff, who looks old although he is not aged.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vamana Purana places Bali's great horse sacrifice at Kurukshetra, as H. H. Wilson's summary notes and as Vamana says in its second account. The Bhagavata Purana instead sets the scene at Bhrigukaccha, on the northern bank of the Narmada.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brahmavaivarta Purana says Vishnu promised the devout Sutapa and Prishni to be their son three times: the second as Vamana, born to Kashyapa and Aditi, and the third as Krishna, born to Vasudeva and Devaki.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mahabali's legend is told far beyond Kerala's Onam. Stories about him are important in Balia and Bawan in Uttar Pradesh, Bharuch in Gujarat and Mahabaleshwar in Maharashtra.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The name Upendra, Indra's younger brother, fits the Vamana Purana, where Vishnu agrees to be born as Indra's younger brother after Aditi performs penance for 10,000 years.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vedic thinkers saw the three worlds as more than places. In the Brihadaranyaka Upanishad they also stand for speech, mind and life-breath, and Vamana's first step on the earth is tied to speech.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Vamana mean?",
+      "options": ["Giant", "Dwarf", "Fish", "Lion"],
+      "answer": 1,
+      "why": "Vamana means dwarf."
+    },
+    {
+      "q": "Which teacher of the asuras warned Bali not to give the gift?",
+      "options": ["Shukra", "Vasishtha", "Brihaspati", "Narada"],
+      "answer": 0,
+      "why": "Shukra advised Bali to refuse, but Bali kept his word."
+    },
+    {
+      "q": "Which king gave the land?",
+      "options": ["Mahabali", "Ravana", "Janaka", "Yayati"],
+      "answer": 0,
+      "why": "Mahabali was the generous king."
+    },
+    {
+      "q": "Which festival in Kerala is linked with this story?",
+      "options": ["Holi", "Onam", "Diwali", "Baisakhi"],
+      "answer": 1,
+      "why": "Onam marks Mahabali's yearly visit."
+    },
+    {
+      "q": "Who are Vamana's parents in the Puranas?",
+      "options": [
+        "Aditi and Kashyapa",
+        "Devaki and Vasudeva",
+        "Kaushalya and Dasharatha",
+        "Sati and Shiva"
+      ],
+      "answer": 0,
+      "why": "Aditi and Kashyapa are his parents."
+    }
+  ],
+  "related": ["vishnu", "aditi", "kashyapa", "mahabali", "indra", "narasimha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vamana",
+    "onam": "https://en.wikipedia.org/wiki/Onam"
+  },
+  "palette": {
+    "c1": "#f2d6a0",
+    "c2": "#f7ecc9"
+  },
+  "order": 5
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Bhrigu",
+  "aka": ["Bhargava (descendants)", "Prajapati Bhrigu"],
+  "native": "भृगु",
+  "role": "Ancient sage, Prajapati and teacher of the Bhargava line",
+  "summary": "Bhrigu is an ancient sage said to be born from the mind of Brahma. He is linked with the Bhrigu Samhita, a Taittiriya Upanishad teaching and the Shrivatsa mark on Vishnu's chest.",
+  "about": "Bhrigu is a rishi named in the Vedas, Upanishads and Puranas. Many texts call him a mind-born son of Brahma and one of the Prajapatis, and some list him among the Saptarishi. The Bhargava family, which includes Shukra, Chyavana, Jamadagni and Parashurama, is said to descend from him. In the Taittiriya Upanishad he learns about Brahman from his father Varuna through reflection. The Bhagavata Purana tells how sages sent him to compare the Trimurti, which led to the Shrivatsa mark in Vaishnava telling. The Bhrigu Samhita is an astrological collection credited to him. Places such as Bharuch and Bhuinj keep his memory alive.",
+  "kidSummary": "Bhrigu is a very old sage. Stories say he was sent to visit three great gods and see how each one reacted. In one telling, Vishnu's calm kindness made Bhrigu happy. He is also remembered for the Taittiriya Upanishad lesson on finding what is true inside.",
+  "story": [
+    {
+      "title": "A question among sages",
+      "text": "In the Bhagavata Purana, sages at the Sarasvati river cannot agree which of the three great gods to honour in their sacrifice, so they ask Bhrigu to find out."
+    },
+    {
+      "title": "Two quiet visits",
+      "text": "Bhrigu visits Brahma and Shiva without the usual greetings. Both react with anger at first, then Brahma recognises the test and Parvati calms Shiva."
+    },
+    {
+      "title": "A visit to Vaikuntha",
+      "text": "At Vishnu's home, Bhrigu finds him resting and, to test him, presses his foot against Vishnu's chest."
+    },
+    {
+      "title": "A gentle answer",
+      "text": "Vishnu rises, greets Bhrigu warmly, and says the chest is blessed by the touch."
+    },
+    {
+      "title": "The sages decide",
+      "text": "Bhrigu returns and tells the sages. In this Vaishnava telling, they choose Vishnu for their offering, praising his patience. Other traditions tell Bhrigu's story in other ways."
+    }
+  ],
+  "teaches": [
+    "Patience and gentleness are strengths",
+    "Look inward to find true knowledge",
+    "Share food and welcome guests"
+  ],
+  "symbol": "book",
+  "emblems": ["Shrivatsa mark (in Vaishnava tradition)", "Footprint (in the Vaishnava story)"],
+  "family": [
+    {
+      "relation": "Father (Puranas)",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Father (Taittiriya Upanishad)",
+      "name": "Varuna",
+      "slug": "varuna"
+    },
+    {
+      "relation": "Son",
+      "name": "Shukra",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Son",
+      "name": "Chyavana"
+    },
+    {
+      "relation": "Descendant",
+      "name": "Jamadagni",
+      "slug": "jamadagni"
+    },
+    {
+      "relation": "Descendant",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    },
+    {
+      "relation": "Daughter (Bhargavi tradition)",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Taittiriya Upanishad (Bhrigu Valli)",
+    "Manusmriti",
+    "Skanda Purana",
+    "Bhrigu Samhita"
+  ],
+  "places": ["Bharuch, Gujarat", "Dhosi Hill", "Bhuinj, Satara", "Tirumala", "Khedbrahma"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana says sages at the Sarasvati river asked Bhrigu to find which of Brahma, Vishnu and Shiva should get their offering. Brahma grew angry when Bhrigu withheld praise, then saw it was a test.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Bhrigu tests Vishnu by pressing a foot against the resting god's chest. Vishnu rises, greets him warmly and gently rubs his feet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhrigu curses Agni for telling the asura Puloma where the ashram stood. When Puloma carries off Bhrigu's wife, her baby Chyavana is born blazing, and his glow burns the asura to ash.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shrivatsa mark on Vishnu's chest is explained in the Bhagavata Purana tradition as the footprint left from Bhrigu's visit.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shrivatsa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Tirumala legend, Lakshmi was upset that the sage's foot had touched the chest where she sits, so she went to earth, and Vishnu followed as Srinivasa.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shrivatsa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A variant says Lakshmi was raised by Bhrigu and Khyati after being found on a lotus. That is why she is called Bhargavi and Padmavati.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhrigu Samhita is an astrology text credited to Bhrigu, said to hold about half a million horoscopes. Parts are said to survive in Hoshiarpur and Varanasi, though much was lost.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu_Samhita",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Bhrigu's son Shukra is the guru of the asuras and shares his name with the planet Venus. He learned a reviving knowledge from Shiva.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Chyavana, Bhrigu's son in the Puranas, is linked to Chyavanprash, the herbal jam, and to a hill ashram at Dhosi Hill on the Haryana-Rajasthan border.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Aurva, Bhrigu's grandson in the Puranas, was born from his mother's thigh. His glow blinded kings who attacked the Bhargava ashrams.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Aurva's austerities grew so fierce that the world began to burn. His ancestors begged him to stop and to send the fire into the ocean instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Vishnu's discus kills Bhrigu's wife Kavyamata for sheltering asuras. Bhrigu curses Vishnu to be born on earth again and again, with all the pains of birth and death.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kavyamata",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In that same tale, Bhrigu brings Kavyamata back to life by sprinkling water from his kamandalu, and she wakes as if from a deep sleep.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kavyamata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhrigu Valli, Varuna tells his son Bhrigu to seek Brahman through tapas. Bhrigu keeps returning, finding it first in food, then breath, mind, knowledge and finally bliss.",
+      "kind": "teaching",
+      "source": "https://www.hindu-blog.com/2021/12/taittiriya-upanishad-teachings-on.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Manusmriti presents itself as a talk between Manu and Bhrigu. Manu speaks the first 58 verses, and the remaining two thousand or so are credited to his student Bhrigu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manusmriti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Shiva and Vayu Puranas, Bhrigu attends Daksha's great sacrifice and backs it going ahead, even after a warning that leaving Shiva out of the offerings would bring disaster on everyone there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhrigu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Bhrigu's son Chyavana meditated so long that termites built a mound over him, leaving only his eyes. After the Ashvins restored his youth, his wife Sukanya picked him out from three look-alikes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chyavana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Indra objected to the Ashvins getting a share of the soma, Chyavana froze Indra's arm as he raised his thunderbolt. He then made a four-fanged asura, Mada, until Indra gave in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chyavana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Chyavana had King Kushika and his queen serve him for 21 days. He rewarded them with a palace of gold and foretold a grandson, Vishvamitra, who would rise to the rank of Brahmana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chyavana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the birth of Kapila, nine great sages, Bhrigu among them, came to honour him. The sage Kardama then gave his daughters in marriage to them, and Bhrigu's bride was Khyati.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kardama",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whom did the sages send to test the three gods?",
+      "options": ["Narada", "Bhrigu", "Agastya", "Valmiki"],
+      "answer": 1,
+      "why": "The Bhagavata Purana says sages sent Bhrigu."
+    },
+    {
+      "q": "What mark on Vishnu's chest is linked to Bhrigu's visit?",
+      "options": ["Kaustubha gem", "Shrivatsa", "Lotus", "Conch"],
+      "answer": 1,
+      "why": "Vaishnava tradition links the Shrivatsa with Bhrigu's footprint."
+    },
+    {
+      "q": "Which text teaches about Bhrigu learning from Varuna?",
+      "options": ["Taittiriya Upanishad", "Arthashastra", "Gita Govinda", "Panchatantra"],
+      "answer": 0,
+      "why": "The Bhrigu Valli is part of the Taittiriya Upanishad."
+    },
+    {
+      "q": "Which planet shares the name of Bhrigu's son Shukra?",
+      "options": ["Mars", "Venus", "Saturn", "Jupiter"],
+      "answer": 1,
+      "why": "Shukra is also the name of Venus."
+    },
+    {
+      "q": "In which Gujarat city did Bhrigu settle, says the Skanda Purana?",
+      "options": ["Bharuch", "Surat", "Dwarka", "Somnath"],
+      "answer": 0,
+      "why": "The Skanda Purana names Bhrigukaccha, now Bharuch."
+    }
+  ],
+  "related": [
+    "brahma",
+    "vishnu",
+    "shiva",
+    "lakshmi",
+    "shukracharya",
+    "jamadagni",
+    "parashurama",
+    "varuna",
+    "atri",
+    "gautama-maharishi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhrigu",
+    "shrivatsa": "https://en.wikipedia.org/wiki/Shrivatsa",
+    "taittiriya": "https://en.wikipedia.org/wiki/Taittiriya_Upanishad",
+    "bhriguSamhita": "https://en.wikipedia.org/wiki/Bhrigu_Samhita",
+    "saptarshi": "https://en.wikipedia.org/wiki/Saptarshi",
+    "manusmriti": "https://en.wikipedia.org/wiki/Manusmriti",
+    "kardama": "https://en.wikipedia.org/wiki/Kardama",
+    "angiras": "https://en.wikipedia.org/wiki/Angiras",
+    "kavyamata": "https://en.wikipedia.org/wiki/Kavyamata",
+    "bhriguValliSummary": "https://www.hindu-blog.com/2021/12/taittiriya-upanishad-teachings-on.html",
+    "chyavana": "https://en.wikipedia.org/wiki/Chyavana"
+  },
+  "palette": {
+    "c1": "#c5d3b0",
+    "c2": "#ecd7a6"
+  },
+  "order": 720,
+  "slug": "bhrigu",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

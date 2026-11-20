@@ -1,0 +1,193 @@
+{
+  "slug": "anantanatha",
+  "name": "Anantanatha",
+  "aka": ["Anantnath", "Ananta", "Lord Ananta"],
+  "native": "अनन्तनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "14th Tirthankara of the present age",
+  "summary": "Jains revere Anantanatha as the 14th Tirthankara of this age, born in Ayodhya. His name means the infinite lord, pointing to knowledge without limit.",
+  "about": "According to Jain tradition, Anantanatha was born a prince of Ayodhya in the Ikshvaku line, the son of King Simhasena and Queen Suyasha. His name is said to mean infinite, especially infinite knowledge. Jain texts tell that he lived as a prince and a ruler for many lakh years, then renounced his throne together with a thousand kings, practised strict meditation, reached omniscience (in Hemachandra's telling under an ashoka tree) and taught for a very long time. Jains believe he attained liberation on Mount Shikharji. Svetambara and Digambara accounts differ in his emblem, his mother's name and some figures of his assembly. In Kannada literature his life was retold in the Anantanatha Purana by the poet Janna.",
+  "kidSummary": "Anantanatha is remembered by Jains as the 14th Tirthankara. His name means endless. The stories give reasons such as his father's endless victories before his birth, and an endless thread that gained the power to heal. Jains say he left his kingdom to find deep peace.",
+  "story": [
+    {
+      "title": "A dream of endless jewels",
+      "text": "Jain texts say his mother dreamed of a huge garland of jewels with no end in sight. This is one of the signs said to announce a Tirthankara."
+    },
+    {
+      "title": "An endless name",
+      "text": "In one account, the king's army won a great victory while the baby was still unborn, so the child was named Ananta, meaning endless or infinite."
+    },
+    {
+      "title": "From palace to forest",
+      "text": "After many years as a prince and a king, he felt the call to a quieter life. Jain accounts say he gave gifts for a year, then left with a thousand kings."
+    },
+    {
+      "title": "Three years of silence",
+      "text": "He wandered as an ascetic for about three years, living simply and meditating, until he sat beneath an ashoka tree and, Jains believe, gained perfect knowledge."
+    },
+    {
+      "title": "A teacher and a final fast",
+      "text": "He taught for a very long time. At the end Jains believe he fasted on Mount Shikharji, with seven thousand monks, and reached liberation."
+    }
+  ],
+  "teaches": [
+    "Knowledge has no limit",
+    "Letting go of attachment",
+    "Patience on the spiritual path"
+  ],
+  "symbol": "star",
+  "emblems": ["Falcon (Svetambara) or bear (Digambara)", "Golden complexion", "Ashoka tree"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Simhasena"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Suyasha (Digambara lists: Jayashyama or Sarvayasha)"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Vimalanatha",
+      "slug": "vimalanatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Dharmanatha",
+      "slug": "dharmanatha"
+    }
+  ],
+  "texts": [
+    "Anantanatha Purana (Janna, 1230 CE)",
+    "Trishashtishalakapurusha Charitra (Hemachandra)",
+    "Avashyaka-niryukti"
+  ],
+  "places": [
+    "Ayodhya, Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Anantnath Swami Temple, Kalpetta, Kerala",
+    "Anantnath Derasar, Mumbai"
+  ],
+  "festivals": ["Anantanatha Janma Kalyanak"],
+  "facts": [
+    {
+      "text": "The Jaina Iconography records a tradition that an endless thread lying powerless in Ayodhya gained the power to heal diseases at the moment he was born.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/anantanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain texts describe Ayodhya as the birthplace of five Tirthankaras: Rishabhanatha, Ajitanatha, Abhinandananatha, Sumatinatha and Anantanatha.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ayodhya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's account the sage Narada, who loved to stir up contests, told the proud half-emperor Madhu that stronger men exist, which led to war with the young brothers Suprabha and Purushottama.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213303.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Madhu's brother Kaitabha died in the same battle, and Purushottama and his brother blew the conch Panchajanya, whose sound left some of Madhu's soldiers trembling and others fainting.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213304.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the sermon Hemachandra gives him, earth, water, fire, air and plants are counted as living beings with one sense, while creatures with two to five senses include animals and humans.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213309.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is unusually popular in Karnataka, where many temples have him as the main idol. Jainpedia says the reason for this is unknown.",
+      "kind": "place",
+      "source": "https://jainpedia.org/themes/people/jina/ananta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madhu and Kaitabha also appear in Hindu Puranas as asuras killed by Vishnu, and Panchajanya is Vishnu's conch there. In Hemachandra, Madhu, Kaitabha and Panchajanya belong to a different Jain war story: shared names, different tales.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madhu_and_Kaitabha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Hathigumpha inscription says King Kharavela of Kalinga brought home a Jina image that a Nanda king had taken long before. Jainpedia identifies it with Ananta; the inscription names no Tirthankara.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Nemichandra-suri's Prakrit Ananta-jina-cariya of 1159 runs to 9,610 stanzas and includes karma stories and his two earlier births, according to Jainpedia.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/ananta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jainpedia notes that in some accounts his community has fewer nuns than monks, 62,000 nuns against 66,000 monks, which it calls unusual and unexplained.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/ananta",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ananta mean?",
+      "options": ["Infinite", "Peaceful", "Pure", "Golden"],
+      "answer": 0,
+      "why": "Ananta means endless or infinite, especially infinite knowledge."
+    },
+    {
+      "q": "Under which tree does Hemachandra's account say he reached omniscience?",
+      "options": ["Banyan", "Mango", "Neem", "Ashoka"],
+      "answer": 3,
+      "why": "Hemachandra and Jainpedia name the ashoka; one iconography text names the peepal."
+    },
+    {
+      "q": "In which city was he born?",
+      "options": ["Ayodhya", "Hastinapur", "Kampilya", "Ratnapuri"],
+      "answer": 0,
+      "why": "Jain tradition says he was born in Ayodhya."
+    },
+    {
+      "q": "Which Kannada poet wrote the Anantanatha Purana?",
+      "options": ["Pampa", "Janna", "Ponna", "Ranna"],
+      "answer": 1,
+      "why": "Janna wrote this Kannada epic around 1230 CE."
+    },
+    {
+      "q": "What was his first meal as an ascetic, in the Svetambara account?",
+      "options": ["Fruit", "Rice pudding", "Bread", "Milk"],
+      "answer": 1,
+      "why": "King Vijaya offered rice pudding after his two-day fast."
+    }
+  ],
+  "related": ["vimalanatha", "dharmanatha", "vasupujya", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Anantanatha",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/ananta",
+    "jainworld": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/anantnath-bhagavan-14/",
+    "ayodhya": "https://en.wikipedia.org/wiki/Ayodhya",
+    "janna": "https://en.wikipedia.org/wiki/Janna",
+    "wisdomlib": "https://www.wisdomlib.org/definition/anantanatha",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213290.html"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#e9dcf0",
+    "c2": "#f2e2b9"
+  },
+  "order": 14
+}

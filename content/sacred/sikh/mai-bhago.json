@@ -1,0 +1,257 @@
+{
+  "slug": "mai-bhago",
+  "name": "Mai Bhago",
+  "aka": ["Mata Bhag Kaur"],
+  "native": "ਮਾਈ ਭਾਗੋ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Sikh woman warrior and bodyguard of Guru Gobind Singh",
+  "years": "c. 1670-1720 (dates uncertain)",
+  "order": 530,
+  "summary": "Mai Bhago, or Mata Bhag Kaur, is remembered as the woman who urged forty Sikhs to return to Guru Gobind Singh and fought beside them at Khidrana in 1705. Little about her life is firmly documented and her dates are uncertain.",
+  "about": "According to Sikh tradition, Mai Bhago was born in the village of Chabhal Kalan, now in the Tarn Taran district of Punjab, to a family connected with the army of Guru Hargobind. When forty Sikhs left Guru Gobind Singh during the siege of Anandpur, she is said to have urged them to repent and return. She led them to find the Guru, and they fought a Mughal force at Khidrana in December 1705. The pool there was later called Muktsar, the pool of liberation. She survived, became one of the Guru's bodyguards, and after 1708 settled at Janwada near Bidar in Karnataka. Sources note that little about her life is firmly documented, and they disagree on basics such as her dates.",
+  "kidSummary": "Mai Bhago was a brave Sikh woman who believed in standing up for what is right. When forty Sikhs left their Guru, she reminded them of their promise and led them back. She fought beside them at Muktsar and later served as one of the Guru's guards.",
+  "story": [
+    {
+      "title": "A village girl with courage",
+      "text": "Bhag Kaur grew up in the village of Chabhal. Her father had served in a Guru's army and taught her how to handle weapons."
+    },
+    {
+      "title": "A hard siege",
+      "text": "Anandpur Sahib was surrounded for months and food ran short. Forty Sikhs wrote that they were leaving the Guru's side and went home."
+    },
+    {
+      "title": "She spoke up",
+      "text": "When Mai Bhago heard, she spoke to them plainly. Feeling ashamed, the forty agreed to find the Guru again, and she went with them."
+    },
+    {
+      "title": "The pool at Khidrana",
+      "text": "At Khidrana, the only water in the dry land, a Mughal army blocked the path. The Sikhs fought hard to protect the water and the Guru."
+    },
+    {
+      "title": "Forgiven and remembered",
+      "text": "Tradition says the Guru forgave the forty and named them the Chali Mukte, the forty liberated ones. Mai Bhago was hurt but lived and stayed near him."
+    }
+  ],
+  "teaches": [
+    "Keep your promises",
+    "Courage includes admitting mistakes",
+    "Women can be brave leaders"
+  ],
+  "symbol": "sword",
+  "emblems": ["Spear", "Gurdwara Tap Asthan Mai Bhago"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Malo Shah"
+    },
+    {
+      "relation": "husband",
+      "name": "Nidhan Singh of Patti"
+    },
+    {
+      "relation": "leader she followed",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    }
+  ],
+  "texts": ["Sikh historical traditions of Muktsar", "Chali Mukte accounts"],
+  "places": [
+    "Chabhal Kalan, Tarn Taran",
+    "Sri Muktsar Sahib",
+    "Hazur Sahib, Nanded",
+    "Janwada near Bidar"
+  ],
+  "festivals": ["Maghi Mela at Sri Muktsar Sahib"],
+  "facts": [
+    {
+      "text": "Forty Sikhs led by Mahan Singh signed a paper to leave the Guru. Mai Bhago spoke to them openly, and they agreed to seek him out and apologise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The fight was at Khidrana, a pool that was the only water source in the area. The Mughal force had reached it first, which is why the battle took place there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Estimates of the Mughal force range from 7,000 to 12,000 men, against about forty Sikhs plus other Sikh fighters on the field.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Muktsar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Nanded she joined the Guru's ten bodyguards, and sources describe her in male attire.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her husband, Bhai Nidhan Singh of Patti, and her two brothers died in the fighting at Muktsar.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sikh tradition says the Guru tore up the signed paper, a bedava or written disclaimer, forgave the forty, and called them the Chali Mukte, the forty liberated ones.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Muktsar",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "One account says she carried a lance said to weigh about 102 pounds (46 kg) plus a musket, a heroic detail from tradition rather than a measured fact.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her father Malo Shah served in Guru Hargobind's army. Her grandfather Pero Shah was a younger brother of Bhai Langah, a chief of 84 villages who became a Sikh in Guru Arjan's time.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the battle the Guru found only two alive, Mai Bhago and the badly wounded Mahan Singh, who died as the Guru held him in his lap.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In 1788 Mohan Singh, jathedar of Hazur Sahib, built a fortified tower, Bunga Mai Bhago, in her memory at Nanded. Her weapons are kept in the Hazur Sahib complex.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mai Bhago Armed Forces Preparatory Institute in Mohali trains Punjab girls for the armed forces, taking 25 girls a year from roughly 1,200 to 1,400 applicants.",
+      "kind": "place",
+      "source": "https://theprint.in/india/smashing-stereotypes-mohali-armed-forces-institute-prepares-girls-for-guns-glory/1336527",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Talwandi Sabo she may have taken up the garb of a Nihang, the Sikh warrior order, according to Wikipedia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "During the siege, the attackers announced that any Sikh who declared he was no longer the Guru's would be left alone while the rest would be killed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some sources say her own children were also lost in the fighting at Muktsar.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her hut at Janwada stands just outside the walls of the old village fortress, now a ruin. Sikhs received it in 1948, and the Guru Granth Sahib is now seated in it.",
+      "kind": "place",
+      "source": "https://eos.learnpunjabi.org/JINWADA.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After 1708 she settled at Janwada, 11 km from Bidar, set up a small dera and spent a long life in meditation and in teaching Gurmat, the Guru's way.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "SikhNet says she was born Bhag Bhari, meaning fortunate, and was called Bhag Kaur after she took amrit.",
+      "kind": "language",
+      "source": "https://sikhnet.com/node/96571",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "SikhNet says she was believed to carry a long spear everywhere and practised her aim on the bushes around her village.",
+      "kind": "story",
+      "source": "https://sikhnet.com/node/96571",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "SikhNet's account says that after the 1699 Vaisakhi she wanted to stay at Anandpur to train as a soldier, but her father insisted she come home.",
+      "kind": "story",
+      "source": "https://sikhnet.com/node/96571",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Alongside the forty fought about 1,300 local Sikhs under Kapura Singh Brar and Daan Singh Brar. The page counts about 3,000 Mughals dead and calls the battle a Sikh victory.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Muktsar",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Why did Mai Bhago lead forty Sikhs to find Guru Gobind Singh?",
+      "options": [
+        "To bring them back to the Guru",
+        "To escape the Mughal army",
+        "To ask for food and supplies",
+        "To end the siege by talks"
+      ],
+      "answer": 0,
+      "why": "The forty had left the Guru, and she led them back so they could ask forgiveness."
+    },
+    {
+      "q": "What was special about the pool at Khidrana?",
+      "options": [
+        "It was a holy pool",
+        "It was the only water nearby",
+        "It was on the border",
+        "It was the Guru's fort"
+      ],
+      "answer": 1,
+      "why": "It was the only water source in the dry area, so both sides wanted it."
+    },
+    {
+      "q": "What are the forty Sikhs of Muktsar called?",
+      "options": ["Panj Pyare", "Sahibzade", "Chali Mukte", "Nihang"],
+      "answer": 2,
+      "why": "Chali Mukte means the forty liberated ones."
+    },
+    {
+      "q": "Which town in Karnataka is near the place where Mai Bhago lived later?",
+      "options": ["Mysuru", "Hampi", "Udupi", "Bidar"],
+      "answer": 3,
+      "why": "Janwada is about 11 km from Bidar."
+    }
+  ],
+  "related": ["guru-gobind-singh", "sahibzade", "panj-pyare", "baba-deep-singh", "guru-hargobind"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mai_Bhago",
+    "muktsar": "https://en.wikipedia.org/wiki/Battle_of_Muktsar",
+    "janwada": "https://eos.learnpunjabi.org/JINWADA.html",
+    "sikhnet": "https://sikhnet.com/node/96571",
+    "institute": "https://theprint.in/india/smashing-stereotypes-mohali-armed-forces-institute-prepares-girls-for-guns-glory/1336527"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1dcc4",
+    "c2": "#c8dccb"
+  }
+}

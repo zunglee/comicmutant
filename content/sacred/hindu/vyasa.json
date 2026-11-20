@@ -1,0 +1,275 @@
+{
+  "slug": "vyasa",
+  "name": "Vyasa",
+  "aka": ["Veda Vyasa", "Krishna Dvaipayana", "Badarayana"],
+  "native": "व्यास",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage said to have compiled the Vedas and the Mahabharata",
+  "summary": "Vyasa is the great sage whom tradition credits with arranging the Vedas into four parts, composing the Mahabharata and the Puranas, and teaching them to disciples. His day is celebrated as Guru Purnima.",
+  "about": "Hindu tradition honours Vyasa as the sage who divided the one Veda into four collections, which is why he is called Veda Vyasa; the name itself points to arranging and dividing. The Mahabharata names him Krishna Dvaipayana, after his dark colour and an island where he was born to Satyavati and the sage Parashara. In the epic he is both author and character: he fathers Dhritarashtra, Pandu and Vidura, advises the Pandavas, and gives Sanjaya the sight to describe the war. Tradition also credits him with the eighteen major Puranas, and the Brahma Sutras are attributed to Badarayana, whom many identify with him. Many Hindus see him as a partial form of Vishnu and as one of the chiranjivis, beings said to live on. Guru Purnima, also called Vyasa Purnima, is observed in his name.",
+  "kidSummary": "Vyasa is the wise sage who, in Hindu tradition, gathered the ancient Vedas into four books and told the great story of the Mahabharata. He is remembered as the first teacher of many teachers. On Guru Purnima, people thank their own teachers in his honour.",
+  "story": [
+    {
+      "title": "Born on an island",
+      "text": "The Mahabharata says Satyavati, a ferrywoman on the Yamuna, gave birth to a baby on a little island. He grew up very quickly and left to meditate, promising to return whenever his mother called."
+    },
+    {
+      "title": "Sorting the Veda",
+      "text": "Tradition says the sacred Veda was one huge body of hymns. Vyasa arranged it into four parts and gave each part to a different student to learn and pass on."
+    },
+    {
+      "title": "A story for the world",
+      "text": "Later he composed the long story of the Pandavas and Kauravas, the Mahabharata. In a popular tale, Ganesha agreed to write it down if Vyasa never stopped speaking."
+    },
+    {
+      "title": "Sight for Sanjaya",
+      "text": "When the great war began, the blind king Dhritarashtra wanted to know what was happening. Vyasa gave his charioteer Sanjaya a gift of far-seeing so he could describe every day of the battle."
+    },
+    {
+      "title": "Thanks to the teacher",
+      "text": "People remember Vyasa on the full moon of Ashadha. On Guru Purnima, students bow to their teachers to thank them for sharing what they know."
+    }
+  ],
+  "teaches": [
+    "Respect and gratitude for teachers",
+    "Knowledge grows when it is shared",
+    "Stories carry wisdom across generations"
+  ],
+  "symbol": "book",
+  "emblems": ["Palm-leaf manuscript", "Quill (in popular art)", "Full moon of Ashadha"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Satyavati",
+      "slug": "satyavati"
+    },
+    {
+      "relation": "Father",
+      "name": "Parashara",
+      "slug": "parashara"
+    },
+    {
+      "relation": "Son",
+      "name": "Shuka",
+      "slug": "shuka"
+    },
+    {
+      "relation": "Son (by niyoga)",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Son (by niyoga)",
+      "name": "Pandu",
+      "slug": "pandu"
+    },
+    {
+      "relation": "Son (by niyoga)",
+      "name": "Vidura",
+      "slug": "vidura"
+    }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Puranas (attributed)",
+    "Brahma Sutras (attributed to Badarayana)",
+    "Vishnu Purana"
+  ],
+  "places": ["Mana village near Badrinath (Vyas Gufa)", "Naimisha Forest"],
+  "festivals": ["Guru Purnima (Vyasa Purnima)"],
+  "facts": [
+    {
+      "text": "The Vishnu Purana says that in every Dvapara age a Vyasa divides the Veda, and it counts twenty-eight such Vyasas in the present manvantara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Vishnu Purana, Drona's son Ashwatthama is expected to become a future Vyasa in a later age.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars treat the Ganesha-as-scribe tale as a later addition, and the Critical Edition leaves it out. In the popular version Ganesha writes only if Vyasa never pauses, and Vyasa replies that Ganesha must grasp each verse first.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabharata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata has about 1.8 million words, roughly ten times the Iliad and Odyssey put together, and around four times the Ramayana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabharata",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says Gandhari's pregnancy ended in a hard mass of flesh, which Vyasa divided into 101 parts that grew into her hundred sons and a daughter.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the war, the epic says Vyasa called up the spirits of the fallen so the grieving elders could see them once more.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His son Shuka is said to be named after the parrot (shuka), because he repeated everything he heard, like a parrot.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shankara Digvijaya, Vyasa meets Adi Shankara, debates him for eight days, and then adds sixteen years to Shankara's life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Vyasa came to the queens unkempt after forest meditation: Ambika shut her eyes and bore blind Dhritarashtra, Ambalika turned pale and bore Pandu; a calm maid then bore the healthy Vidura.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One common reckoning says the epic grew in three stages: Jaya, 8,800 verses credited to Vyasa; Bharata, 24,000 verses recited by Vaisampayana; and the full epic of over 100,000 verses told by Ugrashrava Sauti.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Mahabharata",
+      "kid": true
+    },
+    {
+      "text": "In the Pali Kanhadipayana Jataka, Vyasa is a past life of the Buddha-to-be. Drops of blood fall on his fair skin and dry into dark spots, which earns him the name Kanha, meaning 'black'.",
+      "kind": "language",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "kid": true
+    },
+    {
+      "text": "The Ghata Jataka gives Kanhadipayana a role like the Mahabharata's Mausala Parva: he foresees that a knot of acacia wood will destroy the princes' clan, and the prophecy comes true.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "kid": false
+    },
+    {
+      "text": "The epic's frame says Vaisampayana first recited it to King Janamejaya at Taxila; long afterwards the storyteller Ugrashrava Sauti retold it to sages at a twelve-year sacrifice in Naimisha Forest.",
+      "kind": "text",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Mahabharata",
+      "kid": false
+    },
+    {
+      "text": "The Bhagavad Gita has 700 verses in 18 chapters and is set on the Kurukshetra battlefield. Its two main speakers are Krishna and Arjuna, but Sanjaya, the secondary narrator, is the one who reports it to Dhritarashtra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagavad_Gita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Mana village near Badrinath, the cave called Vyas Gufa is believed to be where Vyasa lived while arranging the Vedas. Its roof is said to look like stacked pages, and a small shrine inside is said to be about 5,000 years old.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mana,_Uttarakhand",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Guru Purnima, also called Vyasa Purnima, is believed to mark both Vyasa's birthday and the day he divided the Vedas.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vyasa's father Parashara was a descendant of Vasishtha, so tradition makes Vasishtha, the sage of the Saptarishi star group, Vyasa's great-grandfather.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brahma Sutras, a founding text of Vedanta, are attributed to Badarayana, a name many identify with Vyasa. Veda Vyasa itself means roughly 'the one who arranges'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars disagree about the epic's earliest form. John Brockington argues that Jaya ('victory') and Bharata were one text and that the 8,800-verse figure comes from misreading a line in the Adi Parva.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahabharata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After his birth, the Mahabharata says, Vyasa told his mother Satyavati that he was leaving for penance, but that whenever she was in trouble she need only think of him and he would stand by her side.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Vyasa do with the Veda, according to tradition?",
+      "options": [
+        "Wrote it down for the first time",
+        "Divided it into four parts",
+        "Set it to music",
+        "Taught it only to kings"
+      ],
+      "answer": 1,
+      "why": "His title Veda Vyasa points to dividing and arranging the Veda."
+    },
+    {
+      "q": "Who wrote down the Mahabharata as Vyasa spoke, in the popular tale?",
+      "options": ["Hanuman", "Narada", "Ganesha", "Valmiki"],
+      "answer": 2,
+      "why": "In the well-known tale, Ganesha is the scribe, though scholars see it as a later addition."
+    },
+    {
+      "q": "Which festival honours Vyasa and all teachers?",
+      "options": ["Guru Purnima", "Holi", "Makar Sankranti", "Ugadi"],
+      "answer": 0,
+      "why": "Guru Purnima, also called Vyasa Purnima, falls on the full moon of Ashadha."
+    },
+    {
+      "q": "Who received special sight from Vyasa to describe the war?",
+      "options": ["Vidura", "Drona", "Kripa", "Sanjaya"],
+      "answer": 3,
+      "why": "Sanjaya told King Dhritarashtra about the battle using the sight Vyasa gave."
+    }
+  ],
+  "related": [
+    "ganesha",
+    "satyavati",
+    "parashara",
+    "shuka",
+    "sanjaya",
+    "dhritarashtra",
+    "vidura",
+    "valmiki"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vyasa",
+    "guru_purnima": "https://en.wikipedia.org/wiki/Guru_Purnima",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2e3c6",
+    "c2": "#c9d6e8"
+  },
+  "order": 10
+}

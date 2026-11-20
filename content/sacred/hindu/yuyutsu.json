@@ -1,0 +1,271 @@
+{
+  "slug": "yuyutsu",
+  "name": "Yuyutsu",
+  "aka": ["Dhartarashtra", "Kauravya", "Karana"],
+  "native": "युयुत्सु",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Dhritarashtra's son who joined the Pandavas",
+  "summary": "Yuyutsu is a half-brother of the Kauravas in the Mahabharata who crosses to the Pandava side before the war, and is the only son of Dhritarashtra to survive.",
+  "about": "In the Mahabharata, Yuyutsu is a son of King Dhritarashtra born to a Vaishya attendant of Queen Gandhari, so the text treats him as a half-brother of Duryodhana and the others. The epic says he stayed on good terms with the Pandavas and warned them of Duryodhana's plans. On the eve of the Kurukshetra war, Yudhishthira announced that anyone could change sides, and Yuyutsu walked across. He fought for the Pandavas and was the only son of Dhritarashtra to survive. When the Pandavas retired at the start of the Kali Yuga, Yudhishthira put him in charge of supervising the kingdom while Parikshit became king. Later texts give his mother's name as Sauvali.",
+  "kidSummary": "Yuyutsu is a brother of the Kauravas in the Mahabharata, but he chose to do what he thought was right. Just before the big war, he crossed over to the Pandavas. He was the only son of King Dhritarashtra who lived through the war.",
+  "story": [
+    {
+      "title": "An unusual birth",
+      "text": "Yuyutsu is born to Dhritarashtra and a Vaishya woman who served Queen Gandhari. He is a half-brother of Duryodhana and his brothers."
+    },
+    {
+      "title": "A friend to the Pandavas",
+      "text": "Even though he lives with the Kauravas, Yuyutsu warns the Pandavas about Duryodhana's plots. He is unhappy with unfair plans."
+    },
+    {
+      "title": "The open invitation",
+      "text": "Before the war begins, Yudhishthira calls out that anyone who wishes may switch sides. Yuyutsu steps forward."
+    },
+    {
+      "title": "Crossing over",
+      "text": "Yuyutsu walks across the field to the Pandavas. He fights bravely on their side and is the only son of Dhritarashtra to survive."
+    },
+    {
+      "title": "Keeping the kingdom",
+      "text": "At the end of the story, Yudhishthira entrusts him with supervising the kingdom while young Parikshit is king."
+    }
+  ],
+  "teaches": [
+    "Choose what is right, even when it is hard",
+    "Courage means listening to your conscience"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Vikarna",
+      "slug": "vikarna"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Dushasana",
+      "slug": "dushasana"
+    },
+    {
+      "relation": "Cousin",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    },
+    {
+      "relation": "Ruler he served",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    }
+  ],
+  "texts": ["Mahabharata", "Bhagavata Purana"],
+  "places": ["Kurukshetra", "Hastinapura"],
+  "quiz": [
+    {
+      "q": "Who announced that anyone could change sides before the war?",
+      "options": ["Krishna", "Yudhishthira", "Bhishma", "Drona"],
+      "answer": 1,
+      "why": "Yudhishthira called it out before the conches."
+    },
+    {
+      "q": "What is Yuyutsu's name said to mean?",
+      "options": ["Eager to fight", "Born of fire", "Lord of the earth", "Gentle wind"],
+      "answer": 0,
+      "why": "It comes from a verb of fighting, roughly 'wishing to fight'."
+    },
+    {
+      "q": "Whose son was Yuyutsu?",
+      "options": ["Pandu", "Dhritarashtra", "Vichitravirya", "Vidura"],
+      "answer": 1,
+      "why": "He was a son of Dhritarashtra."
+    },
+    {
+      "q": "Who was left in charge of the kingdom when the Pandavas retired?",
+      "options": ["Yuyutsu", "Vikarna", "Satyaki", "Shalya"],
+      "answer": 0,
+      "why": "Yudhishthira put him in charge while Parikshit was king."
+    },
+    {
+      "q": "Which Kaurava brother spoke up for Draupadi in the dice hall but still stayed loyal to Duryodhana?",
+      "options": ["Vikarna", "Chitrasena", "Dushasana", "Durmarshana"],
+      "answer": 0,
+      "why": "Vikarna protested in the hall, yet stayed loyal and fell in the war."
+    }
+  ],
+  "related": [
+    "dhritarashtra",
+    "gandhari",
+    "duryodhana",
+    "vikarna",
+    "dushasana",
+    "yudhishthira",
+    "bhima",
+    "parikshit",
+    "vidura",
+    "kripa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yuyutsu",
+    "kauravas": "https://en.wikipedia.org/wiki/Kauravas",
+    "wisdomlib": "https://www.wisdomlib.org/definition/yuyutsu"
+  },
+  "palette": {
+    "c1": "#d4c8e2",
+    "c2": "#efe4d0"
+  },
+  "order": 44,
+  "facts": [
+    {
+      "text": "Gandhari stayed pregnant for a year without giving birth. In that time Dhritarashtra's Vaishya attendant bore him Yuyutsu, a half-brother of the hundred Kauravas.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His name comes from a verb for fighting and means roughly 'one who wants to fight'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yuyutsu warned the Pandavas about Duryodhana's plots and so saved Bhima's life. The plot is told as poisoned water in one source and poisoned food in another.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the war, Yudhishthira said that anyone who wished could change sides before the conches were blown, and Yuyutsu took that chance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He was the only son of Dhritarashtra to live through the Kurukshetra war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the war Yudhishthira ordered Yuyutsu, with Vidura, Sanjaya, Dhaumya and others, to arrange funeral rites for the many thousands of the slain.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m11/m11025.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Yuyutsu crossed over, Yudhishthira welcomed him and said the line of Dhritarashtra and its ancestral offerings now rested on him. Drums and cymbals sounded as he went to the Pandavas.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m06/m06043.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The very first verse of the Bhagavad Gita calls the assembled armies at Kurukshetra 'yuyutsavah', 'eager to fight', a plural form of the word that is Yuyutsu's name.",
+      "kind": "language",
+      "source": "https://www.holy-bhagavad-gita.org/chapter/1/verse/1/en/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata also calls him Vaishyaputra, 'son of a Vaishya woman', and Karana. He is not counted among the hundred sons of Dhritarashtra.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc242089.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the Pandavas left Hastinapura for their final journey, Kripa and others gathered around Yuyutsu, who had been put in charge of the kingdom and of young Parikshit.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m17/m17001.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says only eleven warriors survived the war, with Yuyutsu among them. Yet in the Stri Parva, Yudhishthira counts 240,165 heroes who escaped with their lives.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m11/m11025.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dhritarashtra himself recalls that many angry kings fought Yuyutsu together for six months at Varanavata and could not beat him. At Varanasi he brought down the prince of Kashi with an arrow.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07010.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Duryodhana's fall, Yuyutsu asked leave of Yudhishthira and Krishna, then escorted the royal women into Hastinapura. Tearful, he found Vidura waiting there in grief.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09029.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When the Pandavas honoured Dhritarashtra after his death in the forest, the water offerings were led by Yuyutsu, with the Pandavas and townsfolk behind him.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m15/m15039.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When some Kauravas celebrated the death of King Bhagadatta, Yuyutsu rebuked them sharply, says the Puranic Encyclopaedia.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc242089.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the war he fought Subahu and cut off his hands, according to the Puranic Encyclopaedia.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc242089.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Puranic Encyclopaedia says the bullocks tied to Yuyutsu's chariot were killed by Bhagadatta's elephant.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc242089.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On day seven Kripa wounded Yuyutsu in a sword fight but he survived. On day sixteen he fought Ulooka, Shakuni's son, and wounded him, though Ulooka fled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Later texts name his mother as Sauvali. The Mahabharata also calls him Dhartarashtra and Kauravya, both meaning a son or descendant of the Kuru king's line.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia notes that both Yuyutsu and Vikarna disliked Duryodhana's schemes. Vikarna stayed loyal to his family and died in the war, while Yuyutsu crossed to the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "full"
+}

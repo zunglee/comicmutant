@@ -1,0 +1,300 @@
+{
+  "slug": "sahibzade",
+  "name": "Sahibzade",
+  "aka": ["Char Sahibzade", "Four Sahibzade", "Sons of Guru Gobind Singh"],
+  "native": "ਸਾਹਿਬਜ਼ਾਦੇ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "The four sons of Guru Gobind Singh, remembered as young martyrs",
+  "years": "1687–1704 (some sources say 1705)",
+  "order": 510,
+  "summary": "Ajit Singh, Jujhar Singh, Zorawar Singh and Fateh Singh were the four sons of Guru Gobind Singh. Sikhs honour their courage in December 1704 (some sources say 1705), and India marks Veer Baal Diwas for the younger two.",
+  "about": "According to Sikh history, the four Sahibzade were the sons of Guru Gobind Singh: Ajit Singh (born 1687), Jujhar Singh (born 1691), Zorawar Singh (born 1696) and Fateh Singh (born about 1699). In December 1704 (some sources say 1705, because of calendar conversion), within about two weeks, the family left Anandpur and was split at the Sarsa stream, the two elder brothers fell fighting in the Second Battle of Chamkaur, and the two younger brothers, with their grandmother Mata Gujri, were held in the Thanda Burj at Sirhind. Sikh tradition says the younger two refused to give up their faith and were put to death on the orders of the governor, Wazir Khan. Sources differ on exact dates and ages, and this profile notes where they differ. Their memory lives on at Fatehgarh Sahib and in the city of Sahibzada Ajit Singh Nagar (Mohali).",
+  "kidSummary": "The four Sahibzade were the sons of Guru Gobind Singh. The older two were brave in a battle at Chamkaur. The younger two, still little boys, stayed calm and true to their beliefs in a hard time. Many people remember them every December.",
+  "story": [
+    {
+      "title": "Four brothers",
+      "text": "Guru Gobind Singh had four sons: Ajit Singh, Jujhar Singh, Zorawar Singh and Fateh Singh. They grew up at Anandpur, learning prayers, history and how to look after others."
+    },
+    {
+      "title": "Leaving Anandpur",
+      "text": "In the cold winter of December 1704 (some sources say 1705) the family left Anandpur Sahib. On the way a flooded stream, the Sarsa, carried many people apart, and the family was split up."
+    },
+    {
+      "title": "Chamkaur",
+      "text": "Ajit Singh and Jujhar Singh stayed with their father and the Sikhs in a small fortified house at Chamkaur. Sikh history remembers that they fought bravely there and did not come back."
+    },
+    {
+      "title": "The cold tower",
+      "text": "Zorawar Singh and Fateh Singh, with their grandmother Mata Gujri, were taken to Sirhind and kept in the Thanda Burj, an open tower that was very cold in winter."
+    },
+    {
+      "title": "Kindness in the dark",
+      "text": "A local man, Moti Ram Mehra, brought them warm milk in secret. Sikhs remember him with great respect."
+    },
+    {
+      "title": "Remembering them",
+      "text": "Sikh tradition says the two younger brothers refused to leave their faith. Each December a fair is held at Fatehgarh Sahib, and India marks Veer Baal Diwas on 26 December."
+    }
+  ],
+  "teaches": [
+    "Courage with calm",
+    "Stay true to your beliefs",
+    "Kindness can happen in dark times",
+    "Remember those who were brave"
+  ],
+  "symbol": "star",
+  "emblems": ["Four shrines at Fatehgarh Sahib", "Veer Baal Diwas"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "grandmother",
+      "name": "Mata Gujri",
+      "slug": "mata-gujri"
+    },
+    {
+      "relation": "mother of Ajit Singh",
+      "name": "Mata Sundari",
+      "slug": "mata-sundari"
+    },
+    {
+      "relation": "mother of Jujhar, Zorawar and Fateh",
+      "name": "Mata Jito"
+    }
+  ],
+  "texts": [
+    "Zafarnama (Guru Gobind Singh's letter to Aurangzeb)",
+    "Sikh histories of Chamkaur and Sirhind"
+  ],
+  "places": [
+    "Anandpur Sahib",
+    "Chamkaur Sahib",
+    "Fatehgarh Sahib (Sirhind)",
+    "Sahibzada Ajit Singh Nagar (Mohali)"
+  ],
+  "festivals": ["Veer Baal Diwas (26 December)", "Shaheedi Jor Mela, Fatehgarh Sahib"],
+  "facts": [
+    {
+      "text": "At about twelve, Ajit Singh led a party of 100 Sikhs against raiders at Nuh in May 1699 and recovered the goods taken from a Sikh group.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sahibzada_Ajit_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Punjab city of Mohali was renamed Sahibzada Ajit Singh Nagar in his memory, and the district around it carries the same name.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sahibzada_Ajit_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Chamkaur, a messenger came to demand surrender. Ajit Singh drew his sword and sent the man back with a firm reply before leading a charge.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sahibzada_Ajit_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A contemporary Mughal letter mentions about 700 cavalry sent against Chamkaur, while Sikh tradition, following the Zafarnama, counts about 40 Sikhs inside. The Zafarnama itself gives the opposing army as a million, a figure Wikipedia calls metaphorical.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The family's cook, Gangu, took the boys and their grandmother to his village, and later gave them up to officials at Morinda for a reward, the Sikh Encyclopedia says.",
+      "kind": "story",
+      "source": "https://thesikhencyclopedia.com/sahibzada-zorawar-singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Sirhind the boys were kept in the Thanda Burj, a cold tower that served as a cool summer retreat but was a harsh place in winter.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Moti Ram Mehra, who lived in Sirhind, secretly carried milk to Mata Gujri and the boys for three nights, at great risk to himself and his family.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Moti_Ram_Mehra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Diwan Todar Mal, a wealthy merchant, bought the land at Sirhind for the cremation; Sikh tradition says he covered the ground with gold coins. A hall at Fatehgarh Sahib bears his name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Wazir Khan ordered the two younger boys sealed alive in a wall; tradition says the masonry crumbled and they were taken back to the Cold Tower for the night.",
+      "kind": "story",
+      "source": "https://thesikhencyclopedia.com/sahibzada-zorawar-singh",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Gurdwara Bhora Sahib at Fatehgarh Sahib preserves the historic wall where the younger brothers were bricked in, according to Wikipedia.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Fatehgarh Sahib takes its name from the youngest brother, Fateh Singh.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Moti Ram Mehra was the nephew of Bhai Himmat Singh, one of the first Panj Pyare.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Moti_Ram_Mehra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sikh writer Rattan Singh Bhangu compared Jujhar Singh's sacrifice at Chamkaur to that of Abhimanyu in the Mahabharata, as sons who fought and died for their fathers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jujhar_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Chamkaur, the Guru is reported to have said he was proud of his sons and still had thousands of sons, meaning the Singhs.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In March 1703 Ajit Singh and Bhai Udai Singh led about a hundred Sikhs to Bassi Kalan to recover a Brahmin's wife taken by force; she was returned, says Wikipedia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sahibzada_Ajit_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The two younger Sahibzade were small boys: Zorawar Singh was about nine and Fateh Singh about seven when they were taken to Sirhind, though some dates make Fateh Singh a little younger.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Nawab of Malerkotla, Sher Muhammad Khan, had lost a brother and nephew at Chamkaur yet protested the boys' execution in court. His cry became known as haah da naara, and Sikhs built a gurdwara in his honour.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Malerkotla",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Five years later, in 1710, Sikhs under Banda Singh Bahadur captured Sirhind from Wazir Khan and razed the old fort there; Gurdwara Fatehgarh Sahib also marks that conquest.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Indian government announced Veer Bal Diwas to honour the four brothers. For this purpose Fateh Singh's age is counted as 7, although Wikipedia's page on him also says he was 6.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Fateh_Singh_(Sikhism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Early Sikh accounts say the two younger brothers were beheaded, while popular tradition holds that they were bricked up alive, so the manner of their death is told in two ways.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Fateh_Singh_(Sikhism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Wazir Khan's court the courtier Suchanand Khatri is said to have insulted the boys, and Nawab Sher Muhammad Khan of Malerkotla refused to join in harming them, according to Wikipedia's page on Zorawar Singh.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sahibzada_Zorawar_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sangat Singh, who looked like Guru Gobind Singh, put on his clothes and stayed to fight at Chamkaur while the Guru left at night, according to Wikipedia.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says two Pathans, Ghani Khan and Nabi Khan, carried the Guru away after Chamkaur to Jatpur.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jujhar Singh was trained in fighting by Bhai Jaita (Jiwan Singh). Wikipedia gives his birth as 14 March 1691, though the Nanakshahi calendar celebrates it each year on 9 April.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jujhar_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sources disagree on the date of Chamkaur: Wikipedia gives 6 December 1704, one historian's conversion makes it 22 December, and Pal Singh Purewal argues for 7 December.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which flooded stream split the family as they left Anandpur?",
+      "options": ["Sarsa", "Beas", "Sutlej", "Ghaggar"],
+      "answer": 0,
+      "why": "The swollen Sarsa carried the family apart: the elder brothers stayed with their father, and the younger two went with Mata Gujri."
+    },
+    {
+      "q": "Who secretly brought warm milk to Mata Gujri and the young boys?",
+      "options": ["Moti Ram Mehra", "Diwan Todar Mal", "Wazir Khan", "Bhai Jaita"],
+      "answer": 0,
+      "why": "Moti Ram Mehra risked his life to bring milk for three nights."
+    },
+    {
+      "q": "Which city was renamed after the eldest Sahibzada?",
+      "options": ["Ludhiana", "Mohali", "Patiala", "Jalandhar"],
+      "answer": 1,
+      "why": "Mohali is now Sahibzada Ajit Singh Nagar."
+    },
+    {
+      "q": "On which date does India mark Veer Baal Diwas?",
+      "options": ["13 April", "14 November", "2 October", "26 December"],
+      "answer": 3,
+      "why": "The day was declared in 2022 and falls on 26 December."
+    }
+  ],
+  "related": ["guru-gobind-singh", "mata-gujri", "panj-pyare", "mata-sundari", "guru-granth-sahib"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sahibzada_Ajit_Singh",
+    "encyclopedia": "https://thesikhencyclopedia.com/sahibzada-zorawar-singh",
+    "fatehgarh": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+    "malerkotla": "https://en.wikipedia.org/wiki/Malerkotla",
+    "jito": "https://www.thesikhencyclopedia.com/jitoji-mata",
+    "chamkaur": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+    "fateh": "https://en.wikipedia.org/wiki/Fateh_Singh_(Sikhism)",
+    "zorawar": "https://en.wikipedia.org/wiki/Sahibzada_Zorawar_Singh",
+    "jujhar": "https://en.wikipedia.org/wiki/Jujhar_Singh"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e3c3",
+    "c2": "#c9d6e8"
+  }
+}

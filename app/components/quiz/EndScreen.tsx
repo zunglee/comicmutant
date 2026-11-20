@@ -54,7 +54,7 @@ function Cell({ kind, i }: { kind: CellKind; i: number }) {
   const label = kind === 'ok' ? 'Right' : kind === 'bad' ? 'Wrong' : 'Timed out';
   return (
     <li
-      className="qz-pop grid size-8 place-items-center rounded-md border-[3px] border-line text-ink sm:size-9"
+      className="qz-pop grid size-8 place-items-center rounded-skin-s border-[3px] border-line text-ink sm:size-9"
       style={{
         background:
           kind === 'ok' ? 'var(--qz-ok)' : kind === 'bad' ? 'var(--qz-bad)' : 'var(--qz-warn)',

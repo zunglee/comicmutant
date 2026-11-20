@@ -1,0 +1,274 @@
+{
+  "name": "Nanda",
+  "aka": ["Nandagopa", "Nanda Maharaja", "Nandaraya"],
+  "native": "नन्द",
+  "role": "Cowherd chief and foster-father of Krishna",
+  "summary": "Nanda, also called Nandagopa, is the generous cowherd chief of Gokul who, in the Puranas, raises Krishna and Balarama as his sons. Krishna is sometimes called Nandanandana, son of Nanda.",
+  "about": "The Harivamsa and the Puranas describe Nanda as the chief of the cowherds of Gokul and the husband of Yashoda. The texts call him a kinsman and close friend of Vasudeva, and some accounts, such as one citing Madhvacharya, say the two were step-brothers. When Vasudeva carried the newborn Krishna out of Kamsa's prison, he left him in Nanda's care, and Nanda raised both Krishna and Balarama. The Bhagavata Purana tells of his generosity at Krishna's birth, of the shift of the herders to Vrindavan, of the day Krishna talked him out of worshipping Indra, of the servant of Varuna who seized him by the Yamuna, and of a python that caught him at Ambika Vana. Nandgaon near Barsana became linked with him only after the 16th century, and its present hilltop temple, built in the mid-18th century, honours him with Yashoda, Krishna and Balarama.",
+  "kidSummary": "Nanda is the kind cowherd chief who brought up Krishna as his own son. He gave away cows and gifts when Krishna arrived and loved celebrating. Krishna is sometimes called Nandanandana, which means son of Nanda.",
+  "story": [
+    {
+      "title": "A baby is brought to Gokul",
+      "text": "On the stormy night of Krishna's birth, Vasudeva brings the baby across the Yamuna to Gokul. Nanda and Yashoda welcome him, and the village soon hears of a new little boy."
+    },
+    {
+      "title": "The great celebration",
+      "text": "Nanda gives away two million cows and hills of grain. The cows are painted with turmeric and dressed with peacock feathers, and the village sings and sprinkles curd and butter."
+    },
+    {
+      "title": "A trip to Mathura",
+      "text": "Nanda travels to Mathura to pay the yearly tax to King Kamsa. He meets his old friend Vasudeva, who gently tells him to hurry home because trouble may come."
+    },
+    {
+      "title": "Rescued from the water",
+      "text": "Nanda bathes in the Yamuna at the wrong hour and a servant of Varuna takes him. Krishna goes to Varuna, who apologises. The villagers watch and wonder who the boy really is."
+    },
+    {
+      "title": "A hill for the rain",
+      "text": "Nanda's people prepare their yearly worship of Indra. Young Krishna asks why, and says the cows and the green hill feed them. The village listens and honours Govardhana Hill with the same food."
+    }
+  ],
+  "teaches": [
+    "Generosity to everyone",
+    "Care for family and friends",
+    "Loyalty in a promise to protect"
+  ],
+  "symbol": "tree",
+  "emblems": ["Cows (his herds)", "Hilltop temple at Nandgaon"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Yashoda",
+      "slug": "yashoda"
+    },
+    {
+      "relation": "Foster-son",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Foster-son",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Close friend or step-brother",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Yogamaya (swapped at birth)"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Harivamsa", "Vishnu Purana", "Mahabharata"],
+  "places": ["Gokul", "Nandgaon", "Mahavan (Nanda Bhavan)", "Vrindavan"],
+  "festivals": ["Nanda Utsav", "Krishna Janmashtami"],
+  "facts": [
+    {
+      "text": "After the birth feast Nanda went to Mathura to pay the yearly tax. The Bhagavata Purana says Vasudeva compared kin to planks swept apart by a river and urged him to hurry home.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/5/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As Nanda's community prepared its yearly worship of Indra for rain, young Krishna asked why, and argued that cows and the hill fed them; the Bhagavata Purana says offerings then went to Govardhana Hill.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/24/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Garga warned that a grand naming rite might alert Kamsa, the Bhagavata Purana says Nanda asked him to hold it quietly in the cowshed, away from even relatives.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/8/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Krishna lifted Govardhana, the cowherds asked Nanda how a boy could do this. He repeated Garga's words that the child took white, red and yellow forms in earlier ages and was now dark.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/26/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Nanda bathed in the Yamuna at the forbidden late hour after an ekadashi fast, a servant of Varuna seized him. Krishna went to Varuna's court, where he was honoured, and Varuna called it his servant's mistake and begged pardon.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/28/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On a pilgrimage to Ambika Vana, a python seized Nanda's leg. Krishna freed him with a touch of his foot, and the snake turned out to be a celestial being named Sudarshana, who had been cursed for mocking sages.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nanda_(Hinduism)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Nandgaon was once called Nandigrama after Shiva's bull Nandi, and its hill was Nandishvar, seen as a form of Shiva, before the Krishna link arrived in the 16th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nandgaon,_Uttar_Pradesh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Mahavan, a yellow Nanda Bhavan with 84 pillars is said to mark where Krishna spent his early years; each pillar is said to stand for 100,000 species.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nanda_(Hinduism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Kamsa fell, Krishna and Balarama told Nanda that those who raise a child abandoned by relatives are the true parents. They gave him gifts of cloth, jewels and utensils, and he left in tears, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says he gave two million cows, decked with turmeric, oil, peacock feathers and gold, plus seven hills of grain to brahmins at the birth rites for Krishna.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/5/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Kurukshetra Nanda kept saying he would leave today, then tomorrow, but out of love for Krishna and Balarama he stayed three more months, honoured by the Yadavas, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/84/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nandotsava, the day after Janmashtami, honours Nanda. Regional tradition says he invited villagers, drummers and gopis to celebrate Krishna's birth; today devotees in Vrindavan break butter pots hung high.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Nandotsava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Krishna was caught in the coils of the serpent Kaliya, Nanda and the cowherds began to step into the lake, but Balarama held them back, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the rescue from Varuna's realm, the Bhagavata Purana says Krishna took the cowherds to Brahma-hrada. They dived in, came up, and saw a vision of the spiritual world with Krishna in it.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/28/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Uddhava reached Vraja, Nanda asked whether Krishna remembered his mother, his friends, the cows, Vrindavan and Govardhana, and whether he would ever visit again, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/46/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Nanda told Uddhava that Krishna had saved them from forest fire, storm, and bull and serpent demons. Remembering all this, the Bhagavata Purana says he choked up and could speak no more.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/46/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Uddhava told Nanda and Yashoda that their love for Krishna was the greatest gain anyone could reach, and that Krishna is the son of everyone. They spent the night talking about him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/46/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Lathmar Holi, women of Barsana, the village linked with Radha, playfully strike with sticks the men who come from Nandgaon, the village linked with Nanda. It is a spring festival tied to Krishna and Radha.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Lathmar_Holi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Akrura brought Kamsa's invitation, Nanda had the village announce that everyone should collect milk products, load their wagons and go to Mathura for a great festival. He then led the wagons.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/39/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Retellings differ on how Nanda and Vasudeva were related: some say brothers, Madhvacharya and the Harivamsa say step-brothers, and others say only close friends.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Nanda_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Nandanandana mean?",
+      "options": ["Lord of cows", "Son of Nanda", "Friend of the Yamuna", "Holder of butter"],
+      "answer": 1,
+      "why": "It is an epithet of Krishna meaning son of Nanda."
+    },
+    {
+      "q": "Whose servant seized Nanda while he bathed in the Yamuna?",
+      "options": ["Indra's", "Kamsa's", "Shiva's", "Varuna's"],
+      "answer": 3,
+      "why": "Varuna's servant took him, and Krishna asked Varuna to free him."
+    },
+    {
+      "q": "How many cows did Nanda give away at Krishna's birth rites?",
+      "options": ["Two million", "Two hundred thousand", "Twenty million", "Twenty thousand"],
+      "answer": 0,
+      "why": "The Bhagavata Purana says two million decorated cows."
+    },
+    {
+      "q": "Who was Nanda's old friend in Mathura?",
+      "options": ["Sudama", "Akrura", "Vasudeva", "Ugrasena"],
+      "answer": 2,
+      "why": "Vasudeva met Nanda when Nanda came to pay the tax."
+    },
+    {
+      "q": "Which village is famous for a hill temple of Nanda?",
+      "options": ["Nandgaon", "Dwarka", "Ayodhya", "Hastinapur"],
+      "answer": 0,
+      "why": "Nandgaon, near Barsana, has the hilltop temple."
+    },
+    {
+      "q": "What did Krishna persuade Nanda's people to honour instead of Indra?",
+      "options": ["A banyan tree", "Govardhana Hill", "The Yamuna river", "The moon"],
+      "answer": 1,
+      "why": "In the Bhagavata Purana the offerings were shifted to Govardhana Hill."
+    }
+  ],
+  "related": ["yashoda", "krishna", "balarama", "vasudeva", "devaki", "kamsa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nanda_(Hinduism)",
+    "bhagavata_5": "https://vedabase.io/en/library/sb/10/5/",
+    "bhagavata_28": "https://vedabase.io/en/library/sb/10/28/",
+    "nandgaon": "https://en.wikipedia.org/wiki/Nandgaon,_Uttar_Pradesh",
+    "janmashtami": "https://en.wikipedia.org/wiki/Krishna_Janmashtami",
+    "bhagavata_24": "https://vedabase.io/en/library/sb/10/24/",
+    "bhagavata_11": "https://vedabase.io/en/library/sb/10/11/",
+    "bhagavata_45": "https://vedabase.io/en/library/sb/10/45/",
+    "bhagavata_26": "https://vedabase.io/en/library/sb/10/26/",
+    "bhagavata_46": "https://vedabase.io/en/library/sb/10/46/",
+    "bhagavata_16": "https://vedabase.io/en/library/sb/10/16/",
+    "bhagavata_39": "https://vedabase.io/en/library/sb/10/39/",
+    "bhagavata_84": "https://vedabase.io/en/library/sb/10/84/",
+    "nandotsava": "https://en.wikipedia.org/wiki/Nandotsava",
+    "lathmar": "https://en.wikipedia.org/wiki/Lathmar_Holi"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9e6c3",
+    "c2": "#f6e7b4"
+  },
+  "order": 20,
+  "slug": "nanda",
+  "tradition": "hindu",
+  "group": "krishna-leela"
+}

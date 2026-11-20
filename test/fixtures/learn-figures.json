@@ -1,0 +1,2083 @@
+[
+  {
+    "slug": "guru-nanak",
+    "name": "Guru Nanak",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 1,
+    "role": "Guru number 1",
+    "kidSummary": "Fixture kid summary for Guru Nanak. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Nanak that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Nanak that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Nanak that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Nanak that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Nanak that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-angad",
+    "name": "Guru Angad",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 2,
+    "role": "Guru number 2",
+    "kidSummary": "Fixture kid summary for Guru Angad. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Angad that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Angad that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Angad that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Angad that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Angad that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-amar-das",
+    "name": "Guru Amar Das",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 3,
+    "role": "Guru number 3",
+    "kidSummary": "Fixture kid summary for Guru Amar Das. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Amar Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Amar Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Amar Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Amar Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Amar Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-ram-das",
+    "name": "Guru Ram Das",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 4,
+    "role": "Guru number 4",
+    "kidSummary": "Fixture kid summary for Guru Ram Das. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Ram Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Ram Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Ram Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Ram Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Ram Das that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-arjan",
+    "name": "Guru Arjan",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 5,
+    "role": "Guru number 5",
+    "kidSummary": "Fixture kid summary for Guru Arjan. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Arjan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Arjan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Arjan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Arjan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Arjan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-hargobind",
+    "name": "Guru Hargobind",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 6,
+    "role": "Guru number 6",
+    "kidSummary": "Fixture kid summary for Guru Hargobind. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Hargobind that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Hargobind that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Hargobind that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Hargobind that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Hargobind that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-har-rai",
+    "name": "Guru Har Rai",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 7,
+    "role": "Guru number 7",
+    "kidSummary": "Fixture kid summary for Guru Har Rai. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Har Rai that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Har Rai that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Har Rai that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Har Rai that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Har Rai that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-har-krishan",
+    "name": "Guru Har Krishan",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 8,
+    "role": "Guru number 8",
+    "kidSummary": "Fixture kid summary for Guru Har Krishan. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Har Krishan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Har Krishan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Har Krishan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Har Krishan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Har Krishan that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-tegh-bahadur",
+    "name": "Guru Tegh Bahadur",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 9,
+    "role": "Guru number 9",
+    "kidSummary": "Fixture kid summary for Guru Tegh Bahadur. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Tegh Bahadur that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Tegh Bahadur that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Tegh Bahadur that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Tegh Bahadur that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Tegh Bahadur that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "guru-gobind-singh",
+    "name": "Guru Gobind Singh",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 10,
+    "role": "Guru number 10",
+    "kidSummary": "Fixture kid summary for Guru Gobind Singh. A gentle test paragraph used only in development.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Guru Gobind Singh that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Guru Gobind Singh that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Guru Gobind Singh that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Guru Gobind Singh that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Guru Gobind Singh that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "rishabhanatha",
+    "name": "Rishabhanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 1,
+    "role": "Tirthankara 1",
+    "emblems": ["Bull"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Rishabhanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Rishabhanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Rishabhanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Rishabhanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Rishabhanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "ajitanatha",
+    "name": "Ajitanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 2,
+    "role": "Tirthankara 2",
+    "emblems": ["Elephant"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Ajitanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Ajitanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Ajitanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Ajitanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Ajitanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "sambhavanatha",
+    "name": "Sambhavanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 3,
+    "role": "Tirthankara 3",
+    "emblems": ["Horse"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Sambhavanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Sambhavanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Sambhavanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Sambhavanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Sambhavanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "abhinandananatha",
+    "name": "Abhinandananatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 4,
+    "role": "Tirthankara 4",
+    "emblems": ["Monkey"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Abhinandananatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Abhinandananatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Abhinandananatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Abhinandananatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Abhinandananatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "sumatinatha",
+    "name": "Sumatinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 5,
+    "role": "Tirthankara 5",
+    "emblems": ["Heron"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Sumatinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Sumatinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Sumatinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Sumatinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Sumatinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "padmaprabha",
+    "name": "Padmaprabha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 6,
+    "role": "Tirthankara 6",
+    "emblems": ["Lotus"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Padmaprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Padmaprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Padmaprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Padmaprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Padmaprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "suparshvanatha",
+    "name": "Suparshvanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 7,
+    "role": "Tirthankara 7",
+    "emblems": ["Swastika"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Suparshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Suparshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Suparshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Suparshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Suparshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "chandraprabha",
+    "name": "Chandraprabha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 8,
+    "role": "Tirthankara 8",
+    "emblems": ["Crescent moon"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Chandraprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Chandraprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Chandraprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Chandraprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Chandraprabha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "pushpadanta",
+    "name": "Pushpadanta",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 9,
+    "role": "Tirthankara 9",
+    "emblems": ["Crocodile"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Pushpadanta that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Pushpadanta that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Pushpadanta that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Pushpadanta that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Pushpadanta that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "shitalanatha",
+    "name": "Shitalanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 10,
+    "role": "Tirthankara 10",
+    "emblems": ["Shrivatsa (Shvetambara)", "Wishing tree or sacred fig (Digambara)"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Shitalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Shitalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Shitalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Shitalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Shitalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "shreyamsanatha",
+    "name": "Shreyamsanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 11,
+    "role": "Tirthankara 11",
+    "emblems": ["Rhinoceros"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Shreyamsanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Shreyamsanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Shreyamsanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Shreyamsanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Shreyamsanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "vasupujya",
+    "name": "Vasupujya",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 12,
+    "role": "Tirthankara 12",
+    "emblems": ["Buffalo"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Vasupujya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Vasupujya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Vasupujya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Vasupujya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Vasupujya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "vimalanatha",
+    "name": "Vimalanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 13,
+    "role": "Tirthankara 13",
+    "emblems": ["Boar"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Vimalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Vimalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Vimalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Vimalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Vimalanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "anantanatha",
+    "name": "Anantanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 14,
+    "role": "Tirthankara 14",
+    "emblems": ["Falcon (Svetambara) or bear (Digambara)"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Anantanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Anantanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Anantanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Anantanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Anantanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "dharmanatha",
+    "name": "Dharmanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 15,
+    "role": "Tirthankara 15",
+    "emblems": ["Thunderbolt"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Dharmanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Dharmanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Dharmanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Dharmanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Dharmanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "shantinatha",
+    "name": "Shantinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 16,
+    "role": "Tirthankara 16",
+    "emblems": ["Deer"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Shantinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Shantinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Shantinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Shantinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Shantinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "kunthunatha",
+    "name": "Kunthunatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 17,
+    "role": "Tirthankara 17",
+    "emblems": ["Goat"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Kunthunatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Kunthunatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Kunthunatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Kunthunatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Kunthunatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "aranatha",
+    "name": "Aranatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 18,
+    "role": "Tirthankara 18",
+    "emblems": ["Nandyavarta"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Aranatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Aranatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Aranatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Aranatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Aranatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "mallinatha",
+    "name": "Mallinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 19,
+    "role": "Tirthankara 19",
+    "emblems": ["Pitcher"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Mallinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Mallinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Mallinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Mallinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Mallinatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "munisuvrata",
+    "name": "Munisuvrata",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 20,
+    "role": "Tirthankara 20",
+    "emblems": ["Tortoise"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Munisuvrata that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Munisuvrata that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Munisuvrata that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Munisuvrata that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Munisuvrata that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "naminatha",
+    "name": "Naminatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 21,
+    "role": "Tirthankara 21",
+    "emblems": ["Blue lotus"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Naminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Naminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Naminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Naminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Naminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "neminatha",
+    "name": "Neminatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 22,
+    "role": "Tirthankara 22",
+    "emblems": ["Conch"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Neminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Neminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Neminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Neminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Neminatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "parshvanatha",
+    "name": "Parshvanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 23,
+    "role": "Tirthankara 23",
+    "emblems": ["Serpent"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Parshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Parshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Parshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Parshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Parshvanatha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "mahavira",
+    "name": "Mahavira",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 24,
+    "role": "Tirthankara 24",
+    "emblems": ["Lion"],
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Mahavira that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Mahavira that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Mahavira that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Mahavira that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Mahavira that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "matsya",
+    "name": "Matsya",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 1,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Fish"],
+    "kidSummary": "Fixture kid summary for Matsya. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Matsya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Matsya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Matsya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Matsya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Matsya that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "kurma",
+    "name": "Kurma",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 2,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Tortoise"],
+    "kidSummary": "Fixture kid summary for Kurma. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Kurma that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Kurma that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Kurma that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Kurma that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Kurma that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "varaha",
+    "name": "Varaha",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 3,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Boar"],
+    "kidSummary": "Fixture kid summary for Varaha. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Varaha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Varaha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Varaha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Varaha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Varaha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "narasimha",
+    "name": "Narasimha",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 4,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Lion face"],
+    "kidSummary": "Fixture kid summary for Narasimha. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Narasimha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Narasimha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Narasimha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Narasimha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Narasimha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "vamana",
+    "name": "Vamana",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 5,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Umbrella"],
+    "kidSummary": "Fixture kid summary for Vamana. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Vamana that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Vamana that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Vamana that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Vamana that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Vamana that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "parashurama",
+    "name": "Parashurama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 6,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Axe (parashu)"],
+    "kidSummary": "Fixture kid summary for Parashurama. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Parashurama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Parashurama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Parashurama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Parashurama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Parashurama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "rama",
+    "name": "Rama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 7,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Bow and arrow"],
+    "kidSummary": "Fixture kid summary for Rama. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Rama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Rama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Rama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Rama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Rama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "krishna",
+    "name": "Krishna",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 8,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Flute (bansuri)"],
+    "kidSummary": "Fixture kid summary for Krishna. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Krishna that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Krishna that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Krishna that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Krishna that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Krishna that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "balarama",
+    "name": "Balarama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 8,
+    "role": "Avatar of Vishnu",
+    "emblems": ["Plough (hala)", "Mace"],
+    "kidSummary": "Fixture kid summary for Balarama. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Balarama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Balarama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Balarama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Balarama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Balarama that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "kalki",
+    "name": "Kalki",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 10,
+    "role": "Avatar of Vishnu",
+    "emblems": ["White horse (Devadatta)"],
+    "kidSummary": "Fixture kid summary for Kalki. In many tellings, this avatar has a special story that children enjoy.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Kalki that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Kalki that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Kalki that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Kalki that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Kalki that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  },
+  {
+    "slug": "gautama-buddha",
+    "name": "Gautama Buddha",
+    "tradition": "buddhist",
+    "group": "buddha",
+    "order": 1,
+    "role": "The Buddha",
+    "emblems": ["Dharmachakra (wheel of teaching)"],
+    "kidSummary": "Fixture kid summary for the Buddha, written as a gentle test paragraph.",
+    "facts": [
+      {
+        "text": "Fixture clue 1: a made-up test fact about Gautama Buddha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 2: a made-up test fact about Gautama Buddha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 3: a made-up test fact about Gautama Buddha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 7,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 4: a made-up test fact about Gautama Buddha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 9,
+        "kid": true
+      },
+      {
+        "text": "Fixture clue 5: a made-up test fact about Gautama Buddha that is long enough to read as a sentence.",
+        "kind": "story",
+        "source": "https://example.org/fixture",
+        "interest": 8,
+        "kid": true
+      }
+    ]
+  }
+]

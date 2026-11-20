@@ -1,0 +1,238 @@
+{
+  "slug": "sahadeva",
+  "name": "Sahadeva",
+  "aka": ["Tantripala", "Madreya", "Ashvineya"],
+  "native": "सहदेव",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Youngest Pandava, wise swordsman and cattle expert",
+  "summary": "Sahadeva is the youngest of the five Pandava brothers in the Mahabharata, twin of Nakula, known for wisdom, a steady nature, skill with the sword and care for cattle.",
+  "about": "In the Mahabharata, Sahadeva is the younger of the twins born to Madri through the Ashvins, the heavenly healers. He grows up with Kunti and his brothers, learns weapons from Kripa and Drona, and becomes skilled with the sword and the axe. Yudhishthira sends him to the south during the Rajasuya campaign, and in the hidden year he works as a cowherd called Tantripala at King Virata's court. At Kurukshetra, he fulfils a vow by defeating Shakuni, the man behind the dice game. In South India he is also remembered as an astrologer and face-reader. The epic's last journey names him the first of the brothers to fall, right after Draupadi, because of pride in his own wisdom. A temple in Kerala, Thrikodithanam, is said to hold an image consecrated by him.",
+  "kidSummary": "Sahadeva is the youngest of the Pandava brothers in the Mahabharata, and the twin of Nakula. He is known for being clever, calm and kind to animals. When the Pandavas hide for a year, he works as a cowherd who knows how to take care of cows. He helps defeat Shakuni, the person behind the dice game.",
+  "story": [
+    {
+      "title": "Born to the twin healers",
+      "text": "Madri calls on the Ashvins and has twin sons, Nakula and Sahadeva. A heavenly voice says the twins will shine even brighter than their divine fathers."
+    },
+    {
+      "title": "Mud on his face",
+      "text": "When the Pandavas leave Hastinapura for exile, Sahadeva smears mud on his face so that no one in the streets can recognise him."
+    },
+    {
+      "title": "The cowherd",
+      "text": "In the hidden year, he works at King Virata's cattle pens as a cowherd named Tantripala. He tells the king that he knows every cow within a huge area and how to help the herds grow."
+    },
+    {
+      "title": "Faraway lands",
+      "text": "For Yudhishthira's big Rajasuya ceremony, Sahadeva travels south, and the epic says he gathers gifts from many kingdoms."
+    },
+    {
+      "title": "A vow kept",
+      "text": "On the last day of the Kurukshetra war, he meets Shakuni, the man behind the dice game. Sahadeva defeats him and keeps his promise."
+    }
+  ],
+  "teaches": [
+    "Quiet wisdom",
+    "Knowing when to speak and when to stay silent",
+    "Caring for animals and the land",
+    "Keeping a promise"
+  ],
+  "symbol": "sword",
+  "emblems": ["Sword", "Axe", "Silver swan banner", "Conch Manipushpaka", "Bow Ashwina"],
+  "family": [
+    { "relation": "Father (by tradition)", "name": "Ashvins", "slug": "ashvins" },
+    { "relation": "Mother", "name": "Madri", "slug": "madri" },
+    { "relation": "Twin brother", "name": "Nakula", "slug": "nakula" },
+    { "relation": "Foster mother", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Wife", "name": "Draupadi", "slug": "draupadi" },
+    { "relation": "Opponent", "name": "Shakuni", "slug": "shakuni" },
+    { "relation": "Eldest brother", "name": "Yudhishthira", "slug": "yudhishthira" }
+  ],
+  "texts": ["Mahabharata", "Harivamsa"],
+  "places": ["Shatashringa", "Mahishmati", "Thrikodithanam Temple, Kerala", "Badrinath"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "At Kishkindha, Sahadeva fought the monkey kings Mainda and Dvivida for seven days.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The epic says a wall of fire blocked his army at Mahishmati until Sahadeva prayed to Agni, the god of fire.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "The epic says he collected tribute from Lanka through his nephew Ghatotkacha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "One verse of the Mahabharata even claims that Sahadeva reached as far as Antioch, Rome and Greece. Scholars note how far the list of places stretches.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 9
+    },
+    {
+      "text": "In the forest at Badrinath, Sahadeva cut off the top-knot (jata) that gave the rakshasa Jatasura his name, before Bhima finished the fight.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    },
+    {
+      "text": "In Virata's court he said he had tended 800,000 cattle and knew the past, present and future of every cow within ten yojanas. He took the name Tantripala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In South India, Sahadeva is regarded as a gifted astrologer, a face-reader and a master of intuitive perception.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sahadeva understood situations clearly but never spoke unless asked. Even today, a secretive person may be called a Sahadeva.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The epic's list of Sahadeva's southern conquests includes the Pandya kingdom, an island called the Copper island, and a tribe called the Kerakas, described as one-legged men.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "At the Rajasuya, the youngest Pandava boldly backed Krishna for the first honour and challenged anyone who disagreed to speak up. Not one king answered him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sahadeva was sent south for the Rajasuya because of his sword skill, and because Bhishma thought Southerners were good at sword-fighting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    },
+    {
+      "text": "Sahadeva also married Vijaya, a Madra princess and daughter of his uncle Dyutimata, at a self-choice ceremony. Their son was Suhotra.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    },
+    {
+      "text": "The Harivamsa adds a wife, Bhanumati, whom a demon named Nikumbha had carried away. Krishna, Arjuna and Pradyumna rescued her, and Narada suggested she marry Sahadeva.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "Sanjaya, in the Ashramavasika Parva, mentions one more wife of Sahadeva, a daughter of Jarasandha of Magadha. A scholar suggests the marriage came after the war.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    },
+    {
+      "text": "While Yudhishthira, Bhima, Nakula and Sahadeva helped Virata defeat Trigarta's king Susharma, Arjuna alone beat the Kauravas who had stolen sixty thousand of Virata's cattle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sahadeva vowed to slay Shakuni after the dice game. On the last day of the war he killed Shakuni's son Uluka and then Shakuni himself, keeping the vow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "On the final journey Sahadeva fell right after Draupadi, the first of the brothers to fall. Yudhishthira said it was because he took too much pride in his own wisdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "Thrikodithanam Mahavishnu Temple in Kerala is one of five ancient shrines where the five Pandavas are believed to have built one temple each. Its Vishnu image is said to be Sahadeva's, and it is one of the 108 Divya Desams.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sahadeva served as Yudhishthira's minister at the Rajasuya and helped with its rituals. When it ended, he escorted Drona and Ashwatthama back to their palaces.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    },
+    {
+      "text": "Among the southern kingdoms listed for Sahadeva's Rajasuya campaign is Navarashtra, under King Kuntibhoja, the very king who had adopted his foster mother Kunti.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What name did Sahadeva use at King Virata's court?",
+      "options": ["Granthika", "Tantripala", "Vallava", "Kanka"],
+      "answer": 1,
+      "why": "He worked as a cowherd called Tantripala."
+    },
+    {
+      "q": "Which Pandava is Sahadeva's twin?",
+      "options": ["Arjuna", "Bhima", "Nakula", "Yudhishthira"],
+      "answer": 2,
+      "why": "Nakula and Sahadeva are the twin sons of Madri."
+    },
+    {
+      "q": "What did he do to hide his identity when leaving Hastinapura?",
+      "options": ["Wore a mask", "Smeared mud on his face", "Shaved his head", "Wore armour"],
+      "answer": 1,
+      "why": "The mud kept townspeople from recognising him."
+    },
+    {
+      "q": "Who did Sahadeva defeat at Kurukshetra to keep a vow?",
+      "options": ["Karna", "Drona", "Shakuni", "Bhishma"],
+      "answer": 2,
+      "why": "Shakuni was the man behind the dice game."
+    },
+    {
+      "q": "Which Kerala temple is said to hold an image Sahadeva consecrated?",
+      "options": ["Guruvayur", "Thrikodithanam", "Padmanabhaswamy", "Sabarimala"],
+      "answer": 1,
+      "why": "Thrikodithanam is linked to Sahadeva by tradition."
+    },
+    {
+      "q": "In South India, what skill is Sahadeva especially remembered for?",
+      "options": ["Astrology", "Wrestling", "Cooking", "Sailing"],
+      "answer": 0,
+      "why": "He is regarded as an astrologer and face-reader who spoke only when asked."
+    }
+  ],
+  "related": [
+    "nakula",
+    "madri",
+    "ashvins",
+    "yudhishthira",
+    "arjuna",
+    "bhima",
+    "draupadi",
+    "shakuni"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sahadeva",
+    "nakula": "https://en.wikipedia.org/wiki/Nakula"
+  },
+  "depth": "full",
+  "palette": { "c1": "#c6c3e3", "c2": "#f3e9d6" },
+  "order": 5
+}

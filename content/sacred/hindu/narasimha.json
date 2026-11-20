@@ -1,0 +1,257 @@
+{
+  "slug": "narasimha",
+  "name": "Narasimha",
+  "aka": ["Narasingha", "Man-lion", "Nakhastra"],
+  "native": "नरसिंह",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The man-lion avatar of Vishnu, fourth of the Dashavatara",
+  "summary": "Narasimha is the half-man, half-lion form of Vishnu. In the Puranas he appears from a pillar to protect his devotee Prahlada from the king Hiranyakashipu.",
+  "about": "Narasimha, whose name joins the Sanskrit words for man and lion, is the fourth avatar in the usual Dashavatara list. According to the Puranas, the asura king Hiranyakashipu had received a boon that made him very hard to kill. His son Prahlada kept faith in Vishnu. In the Bhagavata Purana, Vishnu appeared from a pillar in a form that was neither man nor beast, and defeated the king at twilight on a threshold. Many texts say Prahlada then calmed him. Narasimha is worshipped widely in South India, at sites such as Ahobilam, and he is mentioned in about seventeen Puranas.",
+  "kidSummary": "Narasimha is Vishnu as a half-man, half-lion. In the story, a king believed nothing could harm him, but his young son Prahlada trusted Vishnu. Narasimha appeared from a pillar and kept Prahlada safe.",
+  "story": [
+    {
+      "title": "A king with a boon",
+      "text": "In the Puranas, King Hiranyakashipu got a boon from Brahma. It said he could not be harmed by man or animal, indoors or outdoors, by day or night."
+    },
+    {
+      "title": "Prahlada's faith",
+      "text": "His young son Prahlada loved Vishnu. The king grew angry, but Prahlada never gave up his faith."
+    },
+    {
+      "title": "The pillar",
+      "text": "The king struck a pillar and asked if Vishnu was in it. Prahlada said Vishnu is everywhere."
+    },
+    {
+      "title": "The man-lion",
+      "text": "Narasimha burst out of the pillar, neither man nor animal. In the Bhagavata Purana he lifted the king onto his lap at the doorway at twilight."
+    },
+    {
+      "title": "A gentle end",
+      "text": "After the fight, the gods asked Prahlada to calm Narasimha. In the stories, he softened and blessed Prahlada."
+    }
+  ],
+  "teaches": [
+    "Faith can stay steady under pressure",
+    "Help can come in unexpected ways",
+    "Fair rules matter, even for the powerful"
+  ],
+  "symbol": "flame",
+  "emblems": ["Lion face", "Claws", "Pillar"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Protected",
+      "name": "Prahlada",
+      "slug": "prahlada"
+    },
+    {
+      "relation": "Met in battle",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Vishnu Purana", "Narasimha Purana", "Paripadal"],
+  "places": [
+    "Ahobilam, Andhra Pradesh",
+    "Hampi, Karnataka",
+    "Prahladpuri ruins, Pakistan",
+    "Parakala Matha, Mysuru"
+  ],
+  "festivals": ["Narasimha Jayanti", "Holi (in some traditions)"],
+  "facts": [
+    {
+      "text": "Narasimha means man-lion. One of his names, Nakhastra, means that his claws are his weapons.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a widely told Puranic legend, Prahlada's aunt Holika, said to be fireproof, sits with him on a blazing pyre. Prahlada walks out unharmed and Holika burns, which is the story behind the Holika Dahan bonfire before Holi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a variant of the Holika story, the fireproof scarf she wears flies off in the blaze and wraps around Prahlada instead, saving him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vedic tale of Indra and the asura Namuci, Namuci makes Indra promise not to kill him by day or night, wet or dry, and Indra defeats him with foam, which is neither. The scholar Deborah Soifer argues this loophole plot matches the Narasimha story.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before the pillar, Prahlada survives poison, eight elephants whose tusks shatter against him, a room of venomous snakes that curl into a bed for him, and a throw from a valley, from which the earth goddess Bhumi rescues him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Narasimha has many named forms in temples and art. Jvala Narasimha is shown sending out flames, while Yogananda Narasimha is calm and teaches yoga.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another attempt, Hiranyakashipu has the daityas and danavas pile mountains over Prahlada in the ocean for a year. Prahlada, bound hand and foot, keeps praying, and Vishnu moves every mountain back to its place.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahobilam in Andhra Pradesh holds nine shrines called Nava Narasimha, each honouring a different form of the deity.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ahobilam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Once crowned, Prahlada is said to have won the three worlds without lifting a weapon, so that Indra fled heaven. Indra then came disguised as a Brahmin and asked Prahlada to teach him good conduct as a gift, and Prahlada agreed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Prahlada once challenged the sages Nara and Narayana to a duel by the Sarasvati. His arrows, a Brahmastra and finally his mace all failed, and Vishnu told him the two could be won only by devotion, not by combat, so Prahlada built an ashram to apologise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa says Hiranyakashipu did penance in water, silent, for 11,500 years, so long that grass, bamboo and an anthill grew over his body and ants ate his skin and flesh.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The restored Yoga-Narasimha monolith at Hampi is about 6.7 metres tall, and is said to be the largest of its kind.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rigveda hymn 1.154.2 describes Vishnu as a fearsome prowling beast who rules the earth with three steps. Many readers take this beast to be a lion, a hint of the later Narasimha story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Several Puranas describe Narasimha as the force that ends the universe at the time of Pralaya. They give him three eyes like Shiva's, with fire coming from the third.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1987 the Philadelphia Museum of Art bought a Mathura Narasimha dated to the 2nd or 3rd century CE, which Stella Kramrisch called perhaps the earliest known. Michael Meister later re-dated it to the 4th century CE, judging by its Gandhara-style robe.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The story of Narasimha and Hiranyakashipu is part of Indian classical dance. Kathakali stages it, Prahlada Charitam is a popular performance in Kerala, and Tamil Nadu's Bhagavata Mela dramas play it at Narasimha temples on his yearly Jayanti.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Narasimha appears in at least 17 Puranas, including the Vishnu, Bhagavata, Agni, Matsya, Linga and Skanda Puranas, as well as in the Ramayana and the Harivamsa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On Holika Dahan night, people in North India circle the bonfire and offer coconuts, barley, wheat and cow dung. In South India the same date is Kama Dahanam, when Shiva is said to have burned Kamadeva.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Puranic telling says Brahma refused Hiranyakashipu immortality, so he asked for a boon that blocked many kinds of death: indoors or out, day or night, weapon, earth or sky, man or beast, god or asura. He also wanted no equal and sole rule over creation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Skanda Purana says Hiranyakashipu ruled the universe for 107.28 million years, which it counts as 24.8 yugas.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Holika tradition calls Narasimha a form not created by Brahma, which is how he slipped past the boon that covered the beings Brahma made.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What two forms are joined in Narasimha?",
+      "options": ["Man and lion", "Man and horse", "Bird and fish", "Bull and lion"],
+      "answer": 0,
+      "why": "Nara means man and simha means lion."
+    },
+    {
+      "q": "Who did Narasimha protect?",
+      "options": ["Hanuman", "Prahlada", "Arjuna", "Dhruva"],
+      "answer": 1,
+      "why": "Prahlada was a devotee of Vishnu."
+    },
+    {
+      "q": "From what did Narasimha appear?",
+      "options": ["A river", "A pillar", "A cave", "A cloud"],
+      "answer": 1,
+      "why": "He came out of a pillar."
+    },
+    {
+      "q": "At what time of day did the story take place?",
+      "options": ["Dawn", "Noon", "Twilight", "Midnight"],
+      "answer": 2,
+      "why": "Twilight is neither day nor night."
+    },
+    {
+      "q": "Which Andhra place has nine Narasimha shrines?",
+      "options": ["Ahobilam", "Hampi", "Puri", "Madurai"],
+      "answer": 0,
+      "why": "Ahobilam holds Nava Narasimha."
+    }
+  ],
+  "related": ["vishnu", "prahlada", "hiranyakashipu", "vamana", "varaha", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narasimha",
+    "ahobilam": "https://en.wikipedia.org/wiki/Ahobilam"
+  },
+  "palette": {
+    "c1": "#f0c9a0",
+    "c2": "#f8e6c8"
+  },
+  "order": 4
+}

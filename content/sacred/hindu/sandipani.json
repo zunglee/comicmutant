@@ -1,0 +1,259 @@
+{
+  "name": "Sandipani",
+  "aka": ["Sandipani Muni", "Sandipana"],
+  "native": "सांदीपनि",
+  "role": "Guru of Krishna, Balarama and Sudama",
+  "summary": "Sandipani is the teacher of Krishna and Balarama. His school in Avanti, near present-day Ujjain, is where they are said to have learned the 64 arts in 64 days.",
+  "about": "In the Bhagavata Purana, Sandipani is a teacher from Kashi who lives in Avanti. Krishna and Balarama, after their sacred thread ceremony, choose to study with him and serve him humbly. The text says they learn the Vedas and many arts in 64 days and nights, and offer a gift to the teacher. Sandipani asks for his son, who was lost in the sea at Prabhasa. Many Puranas tell how Krishna recovers him from the realm of Yama. The Harivamsa and the Bhagavata differ in small details of the story. Today the Sandipani Ashram in Ujjain remembers him, and a national Vedic institute in Ujjain carries his name.",
+  "kidSummary": "Sandipani was the wise teacher of Krishna, Balarama and their friend Sudama. They learned so quickly that they finished the 64 arts in 64 days. As a thank-you gift, Sandipani asked for his lost son, and Krishna brought him home.",
+  "story": [
+    {
+      "title": "A teacher from Avanti",
+      "text": "Krishna and Balarama go to study with Sandipani in Avanti. They serve their teacher with great respect, even though they are already very capable."
+    },
+    {
+      "title": "64 arts in 64 days",
+      "text": "Sandipani teaches the Vedas, archery, logic, statecraft and more. The brothers learn each subject at one hearing and complete the 64 arts in 64 days and nights."
+    },
+    {
+      "title": "A special gift",
+      "text": "Before they leave, Sandipani asks his wife what to request. Together they ask for their son, who was lost in the sea at Prabhasa."
+    },
+    {
+      "title": "To the sea and beyond",
+      "text": "At Prabhasa, Krishna recovers a conch shell from a sea-dwelling being named Panchajana. He then goes to Yama's city, blows the conch, and Yama returns the boy."
+    },
+    {
+      "title": "A teacher content",
+      "text": "The brothers bring the boy back and offer another gift. Sandipani says that such pupils have already fulfilled all his wishes, and blesses them."
+    }
+  ],
+  "teaches": [
+    "Honour your teachers with humility",
+    "Gratitude is a gift to give",
+    "Learning with care helps everyone"
+  ],
+  "symbol": "book",
+  "emblems": ["Gurukul at Avanti", "Conch of Panchajana"],
+  "family": [
+    {
+      "relation": "Pupil",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Sudama",
+      "slug": "sudama"
+    },
+    {
+      "relation": "Realm visited",
+      "name": "Yama",
+      "slug": "yama"
+    }
+  ],
+  "texts": ["Bhagavata Purana (10.45)", "Harivamsa", "Vishnu Purana"],
+  "places": ["Sandipani Ashram, Ujjain", "Prabhasa", "Avanti"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana says Krishna and Balarama learned the full set of 64 arts in just 64 days and nights, understanding each subject after hearing it only once.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata lists Sandipani's lessons: all the Vedas with their helper subjects and the Upanishads, Dhanurveda with its secrets, law books, logic and debate, and the six-fold science of politics.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Prabhasa, the Bhagavata Purana says the ocean's deity recognised the brothers and brought tribute, but explained that it was a conch-shaped asura named Pancajana who had taken the boy.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata, Krishna kills Pancajana but does not find the boy; he takes the conch grown around the being, and this is the Panchajanya, the conch he blows when he reaches Yama's city.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says Krishna went to Yama's city, Samyamani, and blew the conch; Yama came at once, honoured the brothers and returned the boy.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says that when offered a second gift, Sandipani replied that having such pupils had already fulfilled all his wishes.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tellings differ on the sea-dwelling asura who took the boy: the Bhagavata and Harivamsa name Panchajana, while another telling names an asura called Shankhasura (conch asura).",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sandipani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata, Krishna later reminds his old classmate Sudama of a night in the forest when Sandipani's wife sent them to fetch firewood and a sudden storm hit.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/80/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Lost in the dark storm and floods, the two boys wandered holding hands until Sandipani found them at sunrise and blessed them: their Vedic learning would stay fresh in this world and the next.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/80/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A stone engraved with the numbers 1 to 100 at the ashram is believed to be Sandipani's work, and the nearby area Ankpat is believed to be where Krishna washed his writings.",
+      "kind": "place",
+      "source": "https://ujjain.nic.in/en/tourist-place/sandipani/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A local tradition says Krishna summoned the waters of India's holy rivers into the Gomti Kund so his guru could perform rituals.",
+      "kind": "place",
+      "source": "https://www.mptourism.com/sandipani-ashram-in-ujjain.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vidyarambh ritual, a child's first step into learning, is held at the ashram, with crowds especially on Guru Purnima.",
+      "kind": "festival",
+      "source": "https://www.mptourism.com/sandipani-ashram-in-ujjain.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia lists Sandipani's lessons as the Vedas, drawing, astronomy, Gandharva-veda (music), medicine, training elephants and horses, and archery.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sandipani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Near the ashram's Gomti Kund stands a Nandi statue dated to the Shunga period, centuries older than most of the buildings around it.",
+      "kind": "place",
+      "source": "https://ujjain.nic.in/en/tourist-place/sandipani/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sarveshwar Mahadev temple at the ashram holds a Shivlinga said to be about 6,000 years old, which tradition says Sandipani and his disciples worshipped.",
+      "kind": "place",
+      "source": "https://www.mptourism.com/sandipani-ashram-in-ujjain.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A print dated 1525-1550 shows the brothers studying with him, and a Malwa painting from about 1640 shows the return of his son.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sandipani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata, Sudama's wife borrows four handfuls of flattened rice from neighbours, ties them in a torn cloth, and sends them as his gift for Krishna.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/80/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata, Krishna sees Sudama from afar, rises at once, hugs him with tears of joy, washes his feet and honours him, to the surprise of the palace residents.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/80/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata, Krishna tells Sudama that faithful service to a teacher pleases him more than ritual worship, initiation or penance.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/80/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata, Krishna and Balarama serve Sandipani with the devotion one would show the Lord himself, setting an example of how to treat a teacher.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many arts did Krishna and Balarama learn from Sandipani?",
+      "options": ["64", "8", "108", "12"],
+      "answer": 0,
+      "why": "They learned 64 arts in 64 days and nights."
+    },
+    {
+      "q": "What gift did Sandipani ask for?",
+      "options": ["His lost son", "A herd of cows", "A palace", "A golden crown"],
+      "answer": 0,
+      "why": "He asked for his son lost in the sea at Prabhasa."
+    },
+    {
+      "q": "Which friend studied with Krishna and Balarama?",
+      "options": ["Sudama", "Arjuna", "Hanuman", "Akrura"],
+      "answer": 0,
+      "why": "Sudama is named as their fellow student."
+    },
+    {
+      "q": "Who returned the boy in the Bhagavata story?",
+      "options": ["Yama", "Varuna", "Indra", "Agni"],
+      "answer": 0,
+      "why": "Krishna went to Yama's city and Yama gave him back."
+    },
+    {
+      "q": "In which city is Sandipani Ashram?",
+      "options": ["Ujjain", "Varanasi", "Puri", "Mysuru"],
+      "answer": 0,
+      "why": "The ashram is at Ujjain, once in Avanti."
+    },
+    {
+      "q": "What is the name of Krishna's conch linked to this story?",
+      "options": ["Panchajanya", "Devadatta", "Anantavijaya", "Paundra"],
+      "answer": 0,
+      "why": "The conch taken from the sea-being Pancajana is Panchajanya."
+    }
+  ],
+  "related": ["krishna", "balarama", "sudama", "yama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sandipani",
+    "bhagavata1045": "https://vedabase.io/en/library/sb/10/45/",
+    "ujjainAshram": "https://ujjain.nic.in/en/tourist-place/sandipani/",
+    "institute": "https://en.wikipedia.org/wiki/Maharishi_Sandipani_Rashtriya_Ved_Vidya_Pratishthan"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e0c3",
+    "c2": "#cbd9e6"
+  },
+  "order": 810,
+  "slug": "sandipani",
+  "tradition": "hindu",
+  "group": "rishi"
+}

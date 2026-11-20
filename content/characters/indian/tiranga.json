@@ -1,0 +1,316 @@
+{
+  "slug": "tiranga",
+  "name": "Tiranga",
+  "realName": "Abhay Deshpande",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' flag-coloured detective-hero Abhay Deshpande: no clear superpowers, a sharp mind, poetic lines and a tri-coloured shield.",
+  "origin": "Abhay Deshpande, also called Bharat Deshpande in some listings, is a detective with a sharp mind who fights crime as Tiranga. His costume, cape and shield follow the colours of the Indian flag, and Indianetzone says he was inspired by Captain America. Raj Comics co-founder Sanjay Gupta is credited as creator. No accessible source tells how Abhay first became Tiranga, so this profile does not guess.",
+  "creators": ["Sanjay Gupta (Raj Comics co-founder, credited creator)", "Raj Comics"],
+  "firstAppearance": {
+    "title": "Tiranga (solo series)",
+    "issue": "#1",
+    "year": 1995
+  },
+  "powers": [
+    "Detective's sharp mind",
+    "Tri-coloured protective shield",
+    "Poetic speech as a signature"
+  ],
+  "affiliations": ["P.O.E.M.", "Jan Shakti"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "1995",
+      "title": "Tiranga solo series begins",
+      "beat": "Comic Vine dates the start of his own series to 1995: a flag-coloured detective-hero who relies on his mind and a protective shield rather than clear superpowers."
+    },
+    {
+      "era": "Solo run",
+      "years": "1995 onward",
+      "title": "A long solo run",
+      "beat": "His own series runs through dozens of issues, with titles such as Insaaf, Nakalchi, Rasayan, Most Wanted and Tiranga Meri Adalat."
+    },
+    {
+      "era": "Foes",
+      "years": "Series",
+      "title": "Shatranj and Nakalchi",
+      "beat": "He faces enemies such as Shatranj, Nakalchi, Rasayan and Enviro; Nakalchi is a mimic who turns his talent for copying voices to revenge."
+    },
+    {
+      "era": "Special",
+      "years": "1999",
+      "title": "The Kargil special",
+      "beat": "A 64-page special sends him into a story inspired by the Kargil conflict, with income donated to the Army Central Welfare Fund."
+    },
+    {
+      "era": "Team-ups",
+      "years": "2005-2014",
+      "title": "Raj Comics crossovers",
+      "beat": "He joins Dhruva, Nagraj, Doga and Parmanu in multi-hero issues, from Hum Honge Kaamyab and Negatives to all four Sarvanayak parts."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Sanjay Gupta's Wikipedia article lists Tiranga among the heroes he created, alongside Nagraj, Doga, Bhokal and Parmanu.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "His secret name is given as Abhay Deshpande, but one listing also calls him Bharat Deshpande, so fans disagree on which first name is right.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Tiranga is described as a detective with a sharp mind rather than a hero with clear superpowers.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Some think Tiranga is just a copy of an American hero.",
+      "truth": "Indianetzone says he was inspired by Captain America's shield idea, but he is a poetry-speaking detective in Indian flag colours.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What do the colours of Tiranga's costume follow?",
+      "options": ["The Indian flag", "A cricket team", "A festival rangoli", "A railway map"],
+      "answer": 0,
+      "why": "His outfit, cape and shield use the flag's colours, and his name means tri-colour."
+    },
+    {
+      "q": "How does Tiranga mostly beat his foes?",
+      "options": [
+        "A sharp detective mind and a shield",
+        "Flying faster than sound",
+        "Shrinking to atom size",
+        "Commanding snakes"
+      ],
+      "answer": 0,
+      "why": "He is described as a detective with a sharp mind and a protective shield, with no clearly defined superpowers."
+    },
+    {
+      "q": "Which Marvel hero inspired Tiranga's shield?",
+      "options": ["Iron Man", "Captain America", "Thor", "Hulk"],
+      "answer": 1,
+      "why": "Indianetzone says Tiranga was inspired by Captain America, who also carries a shield."
+    },
+    {
+      "q": "Where did the income from the Raj Comics Kargil special go?",
+      "options": ["Army Central Welfare Fund", "A cricket club", "A film studio", "A railway fund"],
+      "answer": 0,
+      "why": "Comics Byte says all proceeds of the Kargil special were donated to the Army Central Welfare Fund."
+    }
+  ],
+  "rivals": [],
+  "allies": ["nagraj", "doga"],
+  "theme": {
+    "palette": {
+      "c1": "#ff9933",
+      "c2": "#0f6f06",
+      "c3": "#ffffff"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "A detective in the colours of the flag."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "indianetzone": "https://www.indianetzone.com/57/tiranga.htm",
+    "raj-comics-site": "https://rajcomics.net/about",
+    "sanjay-gupta": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(comics)",
+    "manoj-gupta": "https://en.wikipedia.org/wiki/Manoj_Gupta",
+    "dhruva-list": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+    "comicvine-character": "https://comicvine.gamespot.com/tiranga/4005-68191/",
+    "comicvine-volume": "https://comicvine.gamespot.com/tiranga/4050-31916/",
+    "comicsbyte-kargil": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+    "nakalchi-listing": "https://auctiontoys.com/product/tiranga-nakalchi/",
+    "comicsbyte-sets": "https://comicsbyte.com/raj-comics-sets-featuring-bhediya-tiranga-bankelal-bhokal/",
+    "comicsbyte-collector": "https://comicsbyte.com/special-collectors-edition-by-raj-comics-anthony-inspector-steel-tiranga/"
+  },
+  "heat": 30,
+  "facts": [
+    {
+      "text": "Shatranj, one of his archenemies, is named for the Hindi word for chess, and Nakalchi, another foe, means copycat or imitator.",
+      "kind": "story",
+      "source": "https://www.indianetzone.com/57/tiranga.htm",
+      "interest": 7
+    },
+    {
+      "text": "Several titles sound like the villains' threats, such as Tiranga Chadhega Fansi (Tiranga will be hanged), Tiranga Jala Doongi (I will burn Tiranga) and Tiranga Ka Dushman (Tiranga's enemy).",
+      "kind": "culture",
+      "source": "https://www.indianetzone.com/57/tiranga.htm",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics' 64-page Kargil special, dated 1999 by ComicsByte, sent Tiranga into a story inspired by the real Kargil conflict, a rare patriotic comic where Indian soldiers, not the superhero, stay the real heroes.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+      "interest": 8
+    },
+    {
+      "text": "All the income from the Kargil special was donated to the Army Central Welfare Fund, so buying the comic helped soldiers' families.",
+      "kind": "publishing",
+      "source": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+      "interest": 8
+    },
+    {
+      "text": "After his father's death, the young mimic Nakalchi vows revenge and, posing as a bank caller on the phone, tricks out a corrupt chief minister's locker password.",
+      "kind": "story",
+      "source": "https://auctiontoys.com/product/tiranga-nakalchi/",
+      "interest": 8
+    },
+    {
+      "text": "The Kargil special's artist Dilip Chaubey draws snowy peaks, army units and enemy bunkers, while Malti Verma's effects add explosions and show soldiers from both sides of the war.",
+      "kind": "creator",
+      "source": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+      "interest": 7
+    },
+    {
+      "text": "The Kargil special's cover, painted by the late Dheeraj Verma, shows the Indian tricolour waving behind Tiranga, and ComicsByte says the image still stops collectors in their tracks.",
+      "kind": "culture",
+      "source": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+      "interest": 7
+    },
+    {
+      "text": "The Kargil special appeared in 1999, the year of the real conflict, and ComicsByte counts it among the most memorable Tiranga specials.",
+      "kind": "publishing",
+      "source": "https://comicsbyte.com/kargil-vijay-diwas-raj-comics-tiranga-special/",
+      "interest": 7
+    },
+    {
+      "text": "Nakalchi's backstory: the mimic Rakesh fools his father Dange by copying the chief minister's voice, then watches a corrupt minister kill Dange; Tiranga hands the frightened boy to the police.",
+      "kind": "story",
+      "source": "https://auctiontoys.com/product/tiranga-nakalchi/",
+      "interest": 8
+    },
+    {
+      "text": "Other issue titles include Insaaf (Justice), Tiranga Meri Adalat (Tiranga, My Court), Kaatil Aankhein (Killer Eyes) and Sattebaaz (Gambler), mixing courtroom drama with crime thrillers.",
+      "kind": "culture",
+      "source": "https://www.indianetzone.com/57/tiranga.htm",
+      "interest": 7
+    },
+    {
+      "text": "In the Anemonster issue, part of a 2025 Tiranga reprint set, even Marvel characters show up, according to ComicsByte.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/raj-comics-sets-featuring-bhediya-tiranga-bankelal-bhokal/",
+      "interest": 8
+    },
+    {
+      "text": "ComicsByte says Blind Death returns against Tiranga in two issues of that 2025 set, and Shunya (Zero) also brings in Inspector Steel.",
+      "kind": "story",
+      "source": "https://comicsbyte.com/raj-comics-sets-featuring-bhediya-tiranga-bankelal-bhokal/",
+      "interest": 7
+    },
+    {
+      "text": "Several Tiranga specials sound like thrillers: Shunya (Zero), Andhi Duniya (Blind World), Kaal Murti (Statue of Death) and Jaldi Mar (Die Quickly).",
+      "kind": "culture",
+      "source": "https://comicsbyte.com/raj-comics-sets-featuring-bhediya-tiranga-bankelal-bhokal/",
+      "interest": 7
+    },
+    {
+      "text": "A Raj Comics collector's edition gathers six Tiranga issues in 192 pages, including Sindoor Mita Do (Wipe Out the Vermilion), Deshdrohi (Traitor) and Kahan Hai Tiranga (Where Is Tiranga?).",
+      "kind": "publishing",
+      "source": "https://comicsbyte.com/special-collectors-edition-by-raj-comics-anthony-inspector-steel-tiranga/",
+      "interest": 7
+    },
+    {
+      "text": "Nitin Mishra wrote all four Sarvanayak parts with Tiranga in each; Dheeraj Verma drew parts one and two, and Sushant Panda drew parts three and four.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+      "interest": 7
+    },
+    {
+      "text": "The Sarvanayak cast lists grow from sixteen heroes in Sarvayugam to twenty in Sarvasangram, and Tiranga is on every one of them.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+      "interest": 7
+    },
+    {
+      "text": "In 2005 Tiranga guest-stars in Bankelal Aur Kaliyug, a special headlined by comedy hero Bankelal with Bhediya, Doga, Gamraj, Parmanu and Shakti, so even the funny corner of Raj Comics' world borrowed him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+      "interest": 7
+    },
+    {
+      "text": "Despite his protective shield he has no clearly defined superpowers; Indianetzone describes him as a detective who wins with a sharp, intelligent mind.",
+      "kind": "powers",
+      "source": "https://www.indianetzone.com/57/tiranga.htm",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia says Sanjay Gupta was a huge superhero fan from childhood, which led him to build an Indian hero universe that includes Tiranga, Nagraj, Doga and Parmanu.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "After Nagraj's success Raj Comics added heroes such as Tiranga, and Manoj Gupta's Wikipedia page says this earned it the title Home of Indian Superheroes, later built into its brand name.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Manoj_Gupta",
+      "interest": 7
+    }
+  ],
+  "timeline": [
+    {
+      "year": 1995,
+      "kind": "debut",
+      "title": "Tiranga solo series begins",
+      "note": "Comic Vine lists his solo series as starting in 1995."
+    },
+    {
+      "year": 1999,
+      "kind": "comic",
+      "title": "Kargil special",
+      "note": "ComicsByte dates the 64-page Kargil special to 1999, with all income going to the Army Central Welfare Fund."
+    },
+    {
+      "year": 2005,
+      "kind": "comic",
+      "title": "Bankelal Aur Kaliyug",
+      "note": "He guest-stars in a multi-hero special headlined by Bankelal.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 2010,
+      "kind": "comic",
+      "title": "Hum Honge Kaamyab",
+      "note": "He teams with Dhruva, Parmanu and Vakra in a multi-hero issue.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 2013,
+      "kind": "comic",
+      "title": "Sarvayugam begins Sarvanayak",
+      "note": "He appears in the first of four mega-crossover parts and in all the rest through 2014.",
+      "with": "nagraj"
+    }
+  ],
+  "kidSummary": "Tiranga is a comic hero dressed in the colours of the Indian flag. Detective Abhay Deshpande has no clear superpowers, so he uses his sharp mind and a tri-coloured shield to stop criminals and protect people.",
+  "story": [
+    {
+      "title": "A flag-coloured detective",
+      "text": "Abhay Deshpande wears a costume, cape and shield in the colours of the Indian flag, and fights crime as Tiranga."
+    },
+    {
+      "title": "Mind over muscle",
+      "text": "He has no clearly defined superpowers. He solves cases with a sharp mind and a shield, and he is known for speaking in poetic lines."
+    },
+    {
+      "title": "Odd enemies",
+      "text": "His foes include Shatranj, named for chess, and Nakalchi, a copycat who imitates voices."
+    },
+    {
+      "title": "A tribute to soldiers",
+      "text": "A special Kargil issue linked a superhero tale to the real conflict, and its income went to the Army Central Welfare Fund."
+    },
+    {
+      "title": "Hero team-ups",
+      "text": "In big crossovers he joins Dhruva, Nagraj, Doga and Parmanu to face threats together."
+    }
+  ]
+}

@@ -1,0 +1,115 @@
+/* skin:crime start */
+/* Crime city: details the shared tokens cannot express. Selectors are scoped to the skin and read
+   tokens only. The neon halo is outside on panels (no clip-path, it would cut the glow) and inside on
+   buttons, which carry the angled cut. */
+@font-face {
+  font-family: "Oswald Fallback";
+  src: local("Arial Narrow"), local("ArialNarrow"), local("Arial");
+  size-adjust: 92%;
+}
+html[data-skin="crime"] .panel,
+html[data-skin="crime"] .panel-c1 {
+  border-top-color: var(--c3);
+  transition:
+    box-shadow var(--dur-base) var(--ease-out),
+    border-color var(--dur-base) var(--ease-out);
+}
+html[data-skin="crime"] .panel:hover {
+  border-color: var(--c3);
+}
+html[data-skin="crime"] .btn {
+  clip-path: polygon(
+    0 0,
+    calc(100% - 10px) 0,
+    100% 10px,
+    100% 100%,
+    10px 100%,
+    0 calc(100% - 10px)
+  );
+  box-shadow: inset 0 0 12px -2px var(--glow);
+}
+html[data-skin="crime"] .btn:hover {
+  border-color: var(--c3);
+  box-shadow: inset 0 0 16px 0 var(--glow);
+}
+html[data-skin="crime"] .btn:active {
+  box-shadow: inset 0 0 22px 2px var(--glow);
+}
+html[data-skin="crime"] .btn:focus-visible {
+  outline: 2px solid var(--c3);
+  outline-offset: 3px;
+}
+html[data-skin="crime"] .chip,
+html[data-skin="crime"] .field:focus,
+html[data-skin="crime"] .field:focus-visible {
+  box-shadow: 0 0 10px -2px var(--glow);
+}
+/* Display type reads as a lit sign: a soft halo instead of the comic ink drop. */
+html[data-skin="crime"] .ink-text {
+  text-shadow:
+    0 0 10px var(--glow),
+    0 0 1px var(--line);
+}
+html[data-skin="crime"] .h-display {
+  text-shadow: 0 0 14px var(--glow);
+}
+/* Wet asphalt: a cool reflection band fades up from the bottom of the viewport. */
+html[data-skin="crime"] body::after {
+  content: "";
+  position: fixed;
+  inset: auto 0 0 0;
+  height: 22vh;
+  z-index: 0;
+  pointer-events: none;
+  background: linear-gradient(0deg, color-mix(in srgb, var(--c3) 9%, transparent), transparent);
+}
+/* Glitch wipe: stepped horizontal slices tear across instead of a round reveal. */
+html[data-skin="crime"] .theme-wipe[data-wipe="glitch"],
+.theme-wipe[data-wipe="glitch"] {
+  background:
+    repeating-linear-gradient(
+      0deg,
+      color-mix(in srgb, var(--c3) 30%, transparent) 0 2px,
+      transparent 2px 6px
+    ),
+    var(--wipe-bg);
+  clip-path: inset(0 100% 0 0);
+  animation: crime-glitch 0.32s steps(7, end) forwards;
+}
+@keyframes crime-glitch {
+  0% {
+    clip-path: inset(0 100% 0 0);
+    transform: translateX(0);
+    opacity: 1;
+  }
+  30% {
+    clip-path: inset(10% 40% 55% 0);
+    transform: translateX(-6px);
+  }
+  60% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(8px);
+    opacity: 1;
+  }
+  100% {
+    clip-path: inset(0 0 0 0);
+    transform: translateX(0);
+    opacity: 0;
+  }
+}
+/* Neon-rain canvas wrapper (see components/atmosphere/neon-rain.tsx). */
+.cr-canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+@media (prefers-reduced-motion: reduce) {
+  html[data-skin="crime"] .theme-wipe[data-wipe="glitch"] {
+    animation: none;
+    display: none;
+  }
+}
+/* skin:crime end */

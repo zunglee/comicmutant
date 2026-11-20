@@ -1,0 +1,256 @@
+{
+  "slug": "mata-gujri",
+  "name": "Mata Gujri",
+  "aka": ["Mata Gujari"],
+  "native": "ਮਾਤਾ ਗੁਜਰੀ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Mother of Guru Gobind Singh, wife of Guru Tegh Bahadur",
+  "years": "1624–1705",
+  "summary": "Mata Gujri (1624–1705) was the wife of Guru Tegh Bahadur and mother of Guru Gobind Singh. She cared for her two younger grandsons and died in the Thanda Burj at Sirhind.",
+  "about": "Sikh sources say Mata Gujri was born in 1624 at Kartarpur and married Guru Tegh Bahadur on 4 February 1633. She lived in Amritsar, Kiratpur and Bakala, and stayed at Patna while her husband travelled, where her son Gobind Rai was born in December 1666. After the Guru's martyrdom in 1675 she helped run Chakk Nanaki, now Anandpur Sahib, for the young Gobind Rai. In December 1704 or 1705, as the Sikhs left Anandpur, she and her grandsons Zorawar Singh and Fateh Singh were separated at the Sarsa river and a former servant betrayed them. They were held in the Thanda Burj at Sirhind, where she died on the day the boys were executed.",
+  "kidSummary": "Mata Gujri was the mother of Guru Gobind Singh and grandmother of four brave boys. When her two youngest grandsons were taken prisoner, she stayed beside them. Sikhs remember her courage every December.",
+  "story": [
+    {
+      "title": "A bride in Kartarpur",
+      "text": "Gujri was born in 1624. In 1633 she married Tegh Bahadur, who later became the ninth Guru, and began a life of moving between Amritsar, Kiratpur and Bakala."
+    },
+    {
+      "title": "A son born in Patna",
+      "text": "While Guru Tegh Bahadur travelled far away, Gujri stayed in Patna. There, in December 1666, her son Gobind Rai was born, who would become Guru Gobind Singh."
+    },
+    {
+      "title": "Raising a young Guru",
+      "text": "After Guru Tegh Bahadur's martyrdom in 1675, she helped look after Chakk Nanaki, today's Anandpur Sahib, as young Gobind Rai grew into leadership."
+    },
+    {
+      "title": "A brave farewell",
+      "text": "On 11 July 1675 Guru Tegh Bahadur left Chakk Nanaki for Delhi. The Sikh Encyclopedia says Mata Gujri showed courage at the parting, and afterwards she helped manage the household with her brother Kirpal Chand."
+    },
+    {
+      "title": "Lost at the river",
+      "text": "When the Sikhs left Anandpur in winter, the family was split at the Sarsa river. Gujri was left with her two youngest grandsons."
+    },
+    {
+      "title": "The cold tower",
+      "text": "A former servant betrayed them, and they were kept in the Thanda Burj, the cold tower of Sirhind. Moti Ram Mehra secretly brought them warm milk."
+    }
+  ],
+  "teaches": [
+    "Courage in hard times",
+    "Family love and keeping faith",
+    "Kindness shown even at great risk"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Thanda Burj (cold tower)", "Warm milk (Moti Ram Mehra)"],
+  "family": [
+    {
+      "relation": "husband",
+      "name": "Guru Tegh Bahadur",
+      "slug": "guru-tegh-bahadur"
+    },
+    {
+      "relation": "son",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "grandsons",
+      "name": "Sahibzade",
+      "slug": "sahibzade"
+    },
+    {
+      "relation": "daughter-in-law",
+      "name": "Mata Sundari",
+      "slug": "mata-sundari"
+    },
+    {
+      "relation": "daughter-in-law",
+      "name": "Mata Sahib Kaur",
+      "slug": "mata-sahib-kaur"
+    },
+    {
+      "relation": "brother",
+      "name": "Kirpal Chand"
+    }
+  ],
+  "texts": ["Historical Sikh chronicles", "Encyclopaedia of Sikhism"],
+  "places": [
+    "Kartarpur (Punjab)",
+    "Anandpur Sahib",
+    "Patna Sahib",
+    "Gurdwara Fatehgarh Sahib (Thanda Burj)",
+    "Lakhnaur Sahib"
+  ],
+  "festivals": ["Shaheedi Jor Mela"],
+  "facts": [
+    {
+      "text": "The Thanda Burj at Sirhind fort was considered a cool spot in summer, which made holding Mata Gujri and her young grandsons there in December a harsh punishment.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Moti Ram Mehra, a Sikh whose family fed pilgrims, slipped into the tower on three nights to bring warm milk to Mata Gujri and the boys, at great risk to his own life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Moti_Ram_Mehra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A tradition says Diwan Todar Mal paid gold coins laid on their edges. Wikipedia says this was to recover the bodies; the Fatehgarh Sahib page says it bought land for the cremation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mata_Gujri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The town of Fatehgarh was named after the youngest grandson, Fateh Singh, and it is now called Fatehgarh Sahib.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "While the boys were called to court day after day, their grandmother kept urging them to stay firm in their faith, says the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sikh Encyclopedia says the boys were ordered to be bricked up alive on 11 December, but the wall crumbled before reaching their heads. They were executed the next day, and she died in the tower.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "She was promised to Tegh Bahadur in 1629, when he came to Kartarpur with his brother Suraj Mall's wedding party. Her mother was charmed by the young man and her parents pledged their daughter.",
+      "kind": "story",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "An old well just outside Lakhnaur village, called Mata Gujari da Khuh, still marks her stay there with her brother in 1670.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When she and her grandsons were separated from the main party at the Sarsa, Zorawar Singh and Fateh Singh were only nine and seven years old.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 2017 the Government of Haryana named the road from Ambala to Gurdwara Lakhnaur Sahib after her. Lakhnaur was her father's ancestral village.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mata_Gujri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On 11 July 1675 Guru Tegh Bahadur left Chakk Nanaki for Delhi. The Sikh Encyclopedia says she showed courage at the parting, and after his death she took charge of the household with her younger brother Kirpal Chand.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says a Brahmin servant named Gangu led her and the two boys to his village, Saheri, in today's Ropar district. He is said to have betrayed them to two Muslim officers of Morinda, who arrested them on 8 December.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Gujri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gurdwara Joti Sarup, the cremation site near Fatehgarh Sahib, has a small white marble pavilion dedicated to her. A three-day fair is held there in the last week of December.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1670 she travelled to Lakhnaur with the aged Mata Nanaki and young Gobind Rai, arriving on 13 September, and stayed with her brother Mehar Chand until her husband joined them.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gobind Rai was born at Patna on 22 December 1666, while Guru Tegh Bahadur was travelling in Bengal and Assam and had left the family behind.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sikh chronicle Gurbilas Chhevin Patshahi, quoted by the Sikh Encyclopedia, praised the bride as a match for Tegh Bahadur in every way, saying like groom, like bride.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gujari-mata",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose mother was Mata Gujri?",
+      "options": ["Guru Nanak", "Guru Arjan", "Guru Angad", "Guru Gobind Singh"],
+      "answer": 3,
+      "why": "She was the mother of the tenth Guru."
+    },
+    {
+      "q": "What is the Thanda Burj?",
+      "options": [
+        "A cold tower at Sirhind",
+        "A gate at Anandpur",
+        "A fort at Chamkaur",
+        "A well at Lakhnaur"
+      ],
+      "answer": 0,
+      "why": "Mata Gujri and her grandsons were kept in the Thanda Burj."
+    },
+    {
+      "q": "Who secretly brought warm milk to the prisoners?",
+      "options": ["Gangu", "Moti Ram Mehra", "Wazir Khan", "Mardana"],
+      "answer": 1,
+      "why": "Moti Ram Mehra took milk to them at great risk."
+    },
+    {
+      "q": "Who is remembered for paying gold coins laid on their edges to arrange the cremation?",
+      "options": ["Diwan Todar Mal", "Moti Ram Mehra", "Gangu", "Wazir Khan"],
+      "answer": 0,
+      "why": "Tradition says Todar Mal paid in gold; sources differ on whether it bought land or the bodies."
+    },
+    {
+      "q": "In which city was her son Gobind Rai born?",
+      "options": ["Patna", "Anandpur", "Delhi", "Sirhind"],
+      "answer": 0,
+      "why": "He was born at Patna in December 1666."
+    }
+  ],
+  "related": [
+    "guru-tegh-bahadur",
+    "guru-gobind-singh",
+    "sahibzade",
+    "mata-sundari",
+    "mata-sahib-kaur"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mata_Gujri",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/gujari-mata",
+    "fatehgarh-sahib": "https://en.wikipedia.org/wiki/Gurdwara_Fatehgarh_Sahib",
+    "moti-ram-mehra": "https://en.wikipedia.org/wiki/Moti_Ram_Mehra"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#d9dff0",
+    "c2": "#f0e3c8"
+  },
+  "order": 4
+}

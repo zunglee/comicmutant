@@ -20,5 +20,8 @@ export default defineConfig({
     timeout: 180_000,
     stdout: 'pipe',
     stderr: 'pipe',
+    // Every spec runs from one IP: lift the poll ceilings so repeated runs never hit "reload"
+    // (S15 defaults 60 / 5 stay in production; Playwright merges this over process.env).
+    env: { COMICMUTANT_MINT_CEILING: '100000', COMICMUTANT_VOTE_CAP: '100000' },
   },
 });

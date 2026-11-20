@@ -1,4 +1,6 @@
 import { allCharacters, allFighters } from '~/.server/content';
+import { allFigures } from '~/.server/sacred';
+import { TRADITION_TABLE } from '~/lib/sacred-taxonomy';
 
 export function loader({ request }: { request: Request }) {
   const o = new URL(request.url).origin;
@@ -14,6 +16,11 @@ export function loader({ request }: { request: Request }) {
     '/rumours',
     '/themes',
     '/about',
+    '/desi',
+    '/sacred',
+    '/sacred/learn',
+    ...TRADITION_TABLE.map((t) => `/sacred/${t.id}`),
+    ...allFigures.map((f) => `/sacred/f/${f.slug}`),
     ...allCharacters().map((c) => `/c/${c.slug}`),
     ...allFighters().map((f) => `/originals/${f.slug}`),
   ];

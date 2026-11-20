@@ -1,0 +1,251 @@
+{
+  "slug": "kaliya",
+  "name": "Kaliya",
+  "aka": ["Kāliya", "Kaliya Naga"],
+  "native": "कालिय",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Many-hooded naga of the Yamuna in the Krishna story",
+  "summary": "Kaliya is a many-hooded naga who lives in the Yamuna near Vrindavan in the Bhagavata Purana. Krishna dances on his hoods, and then asks him to leave the river and sail home to the sea.",
+  "about": "In the Bhagavata Purana, Kaliya is a naga, a serpent being, who left his home on Ramanaka island because he feared Garuda. He settled in a deep pool of the Yamuna, and the poison in his pool made the water dangerous for the cows and cowherds of Vrindavan. The tale is told in Canto 10, chapter 16, and is also found in the Harivamsa and Vishnu Purana. Krishna, still a boy, leaps in and dances on Kaliya's hoods until the serpent is humbled. Kaliya's wives plead for him, and Krishna lets him go back to the sea. The tale is retold in dance, in painting and in a yearly festival in Varanasi.",
+  "kidSummary": "Kaliya is a many-headed serpent who lived in the Yamuna river. His poison made the water unsafe, so young Krishna jumped in and danced on his heads. Then Krishna asked him to leave the river and go home to the sea.",
+  "story": [
+    {
+      "title": "A poisoned pool",
+      "text": "In the Bhagavata Purana, the serpent Kaliya hides in a deep pool of the Yamuna. His poison is so strong that birds flying over the water fall into it."
+    },
+    {
+      "title": "A brave leap",
+      "text": "Krishna climbs a tall kadamba tree on the bank and jumps into the river. Kaliya wraps his coils around him, and the cowherd friends watch with fear."
+    },
+    {
+      "title": "The great dance",
+      "text": "Krishna grows larger and slips out of the coils. Then he dances on the serpent's many hoods until Kaliya is tired and humbled."
+    },
+    {
+      "title": "Prayers for mercy",
+      "text": "Kaliya's wives bow to Krishna and ask him to forgive their husband. Krishna listens kindly and accepts their prayers."
+    },
+    {
+      "title": "Home to the sea",
+      "text": "Krishna asks Kaliya to take his family back to the ocean. His footprints stay on Kaliya's hoods, so Garuda will not harm him, and the Yamuna becomes clear again."
+    }
+  ],
+  "teaches": [
+    "Pride gives way to humility",
+    "Mercy follows a sincere apology",
+    "Rivers and water should be kept clean"
+  ],
+  "symbol": "serpent",
+  "emblems": ["Many hoods", "Kadamba tree", "Yamuna river"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Kadru"
+    },
+    {
+      "relation": "Sibling",
+      "name": "Shesha",
+      "slug": "shesha"
+    },
+    {
+      "relation": "Sibling",
+      "name": "Vasuki",
+      "slug": "vasuki"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Harivamsa", "Vishnu Purana"],
+  "places": ["Yamuna river, Vrindavan", "Ramanaka island", "Tulsi Ghat, Varanasi"],
+  "festivals": ["Nag Nathaiya"],
+  "facts": [
+    {
+      "text": "Many tellings say the sage Saubhari cursed Garuda to die if he entered Vrindavan. In the Bhagavata version the cause was Garuda eating a fish from the lake while Saubhari meditated underwater, and only Kaliya knew, so he lived there safely.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says the poison was so strong that birds flying over the water fell into it.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana gives two numbers for Kaliya's heads. One verse says he had 101 main heads, and later verses say Krishna danced on a thousand hoods.",
+      "kind": "text",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 8
+    },
+    {
+      "text": "To loosen Kaliya's coils, Krishna grew in size. Then he went back to his normal form and began to dance on the hoods.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Krishna did not destroy Kaliya. He sent him back to the sea with his family and said the footprints on his hoods would keep Garuda away.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Nag Nathaiya, a boy playing Krishna leaps from a kadamba branch planted on the Ganga's edge onto a model serpent in the water while thousands watch.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Nag_Nathaiya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Indian Fijians have a tradition that Kaliya was sent to Ramanik Deep, which they identify with Fiji, where the local serpent-god is named Degei.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kaliya",
+      "interest": 9
+    },
+    {
+      "text": "In the Bhagavata Purana the serpents of Ramanaka agreed to leave Garuda a monthly food offering, but the proud Kaliya ate it all himself, and that started the feud.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/17/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kaliya bit Garuda with his poison fangs, but Garuda struck him with his golden left wing, and Kaliya fled to a lake beside the Yamuna.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/17/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During the dance, Gandharvas, Siddhas, Charanas and heavenly wives arrived to play drums, sing and shower flowers at each step.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Balarama smiled and stayed calm during the crisis, and he held Nanda and the other cowherds back from rushing into the lake.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At first Krishna circled Kaliya playfully, the way Garuda circles a snake, then pressed down his raised shoulders and leapt onto the hoods.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/16/",
+      "interest": 7
+    },
+    {
+      "text": "The trigger of the story: cowherd boys and cows drank the poisoned Yamuna water and fell lifeless, and Krishna brought them back to life with a merciful glance, says Bhagavata canto 10, chapter 15.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/15/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kaliya's wives placed their children before them and bowed low, saying Krishna's anger was really mercy because it cleanses the wicked, then begged him to give their husband back to them.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At parting, Kaliya gave Krishna fine clothes, jewels, perfumes and a great lotus garland, and the Yamuna became clean and sweet again the moment he left.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Manipuri classical dance-drama also enacts Krishna's victory over Kaliya, besides the Nag Nathaiya festival.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kaliya",
+      "interest": 7
+    },
+    {
+      "text": "In his surrender, Kaliya says he was born a snake and so was prone to envy and anger, and that illusion is hard to escape alone, then he leaves the decision of mercy or punishment to the Lord.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 8
+    },
+    {
+      "text": "Around Kaliya the water boiled and bubbled with poison for four leagues, and no bird or beast dared come near. Only one kadamba tree stood on the bank.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaliya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As Kaliya tired, his nostrils looked like pots cooking poison and his staring eyes like glowing firebrands, while he kept flicking his forked tongues.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Krishna sank into the water, the Bhagavata Purana says the gopis felt the whole world had become empty.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 7
+    },
+    {
+      "text": "Krishna struck any stubborn head with his foot until it bowed, and the Bhagavata Purana says his heels shattered the serpent's umbrella-like hoods.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/16/",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Why did Kaliya leave his island home of Ramanaka?",
+      "options": ["He was lonely", "He feared Garuda", "The sea dried up", "He lost a jewel"],
+      "answer": 1,
+      "why": "Garuda, the enemy of serpents, kept hunting him."
+    },
+    {
+      "q": "Which tree does Krishna climb before he jumps into the Yamuna?",
+      "options": ["Banyan", "Peepal", "Kadamba", "Neem"],
+      "answer": 2,
+      "why": "Krishna jumps from a tall kadamba tree on the bank."
+    },
+    {
+      "q": "What does Krishna do on Kaliya's hoods?",
+      "options": [
+        "Plays his flute",
+        "Ties him with a rope",
+        "Lifts him out of the river",
+        "Dances"
+      ],
+      "answer": 3,
+      "why": "The story is called the dance on Kaliya's hoods."
+    },
+    {
+      "q": "Which festival in Varanasi reenacts the story?",
+      "options": ["Nag Nathaiya", "Dev Deepawali", "Ganga Dussehra", "Ram Lila"],
+      "answer": 0,
+      "why": "Nag Nathaiya is held at Tulsi Ghat."
+    },
+    {
+      "q": "Where does Krishna ask Kaliya to go at the end?",
+      "options": ["Back to the sea", "To a mountain", "Up to heaven", "To Mathura"],
+      "answer": 0,
+      "why": "Kaliya returns to the sea with his family."
+    }
+  ],
+  "related": ["krishna", "yamuna", "shesha", "vasuki", "garuda", "kashyapa", "radha", "durvasa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaliya",
+    "bhagavata": "https://www.vedabase.io/en/library/sb/10/16/",
+    "nagnathaiya": "https://en.wikipedia.org/wiki/Nag_Nathaiya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#bfd9cf",
+    "c2": "#a8c3dc"
+  },
+  "order": 500
+}

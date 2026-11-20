@@ -1,0 +1,232 @@
+{
+  "slug": "maudgalyayana",
+  "name": "Maudgalyayana",
+  "aka": ["Maha Moggallana", "Mahamaudgalyayana", "Kolita", "Mokuren"],
+  "native": "मौद्गल्यायन",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Chief disciple, foremost in psychic powers",
+  "years": "c. 6th–5th century BCE",
+  "order": 11,
+  "summary": "In Buddhist tradition, Maudgalyayana was the Buddha's second chief male disciple, known for his powers of meditation. His story of helping his mother inspired the Ghost Festival and Obon.",
+  "about": "Buddhist texts say Maudgalyayana was born as Kolita in a village near Rajagaha, on the same day as his friend Sariputta. After they both met the Buddha, he struggled at first with drowsiness but then attained enlightenment. The Buddha named him a chief disciple, foremost in psychic powers, and the texts describe him visiting heavens and hells and reporting what he saw. A well-known story, told in the Ullambana Sutra, says he used his powers to look for his mother and helped free her by offering merit. Pali tradition says he died around age 84 after attackers hired by rival groups caught him at the Kalasila (Black Rock) cave. His relics were found at Sanchi.",
+  "kidSummary": "Maudgalyayana was one of the Buddha's top students and was famous for his special meditation powers. A famous story says he used them to help his mother, and that story is why many people celebrate Obon and the Ghost Festival.",
+  "story": [
+    {
+      "title": "Friends set out",
+      "text": "Kolita, later called Maudgalyayana, and his friend Sariputta wanted to find the truth about life. They left their wandering teacher and met the Buddha, who welcomed them as monks."
+    },
+    {
+      "title": "Wide-awake at last",
+      "text": "At first, the texts say, Maudgalyayana kept dozing off in meditation. The Buddha encouraged him, and he soon woke fully up, in both senses, and became an arahant."
+    },
+    {
+      "title": "Looking for mother",
+      "text": "In some Chinese versions of the Ullambana story, Maudgalyayana looks for his late mother. He sees she is suffering as a hungry ghost and tries to give her food, but it bursts into flames."
+    },
+    {
+      "title": "A gift of kindness",
+      "text": "The Buddha told him to share a generous gift with the whole community of monks and dedicate its goodness to his mother. When he did, she was freed from her hunger."
+    },
+    {
+      "title": "A festival is born",
+      "text": "This story is said to be the origin of the Ghost Festival in China and Obon in Japan, when families remember their ancestors with food, lights and dance."
+    }
+  ],
+  "teaches": [
+    "Looking after your parents",
+    "Kindness can be shared with others",
+    "Calm focus beats sleepiness"
+  ],
+  "symbol": "feather",
+  "emblems": [
+    "Left-hand disciple",
+    "Blue-lotus skin colour (in the Pali texts)",
+    "Offering bowl (Ullambana)"
+  ],
+  "family": [
+    { "relation": "Lifelong friend", "name": "Sariputta", "slug": "sariputta" },
+    { "relation": "Teacher", "name": "Gautama Buddha", "slug": "gautama-buddha" }
+  ],
+  "texts": ["Pali Canon", "Ullambana (Yulanpen) Sutra", "Petavatthu", "Dhammapada commentary"],
+  "places": [
+    "Kolita village (Juafardih near Nalanda)",
+    "Kallavala, Magadha",
+    "Black Rock cave near Rajagaha",
+    "Sanchi stupa"
+  ],
+  "festivals": [
+    "Obon in Japan",
+    "Ghost Festival in China",
+    "Pavarana (end of the monsoon retreat)"
+  ],
+  "facts": [
+    {
+      "text": "In chapter 6 of the Lotus Sutra the Buddha predicts that Maudgalyayana will become a buddha one day. Pali tradition instead sees him as an arhat who will not be reborn.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "Pali texts describe his skin as blue-lotus or rain-cloud coloured. One scholar thinks the old word simply meant dark-skinned, while Sri Lankan oral tradition links it to many births in hell.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "On the day he ordained, the Buddha gave him and Sariputta the seats of the chief disciples. Some senior monks felt slighted, so the Buddha said seniority is not the only test and told of their wish made lifetimes ago.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is said to have visited hells and heavens, talked with spirits and asked devas which deeds took them to heaven, then reported to the Buddha. Theravada reads the Vimanavatthu as his accounts of those heavens.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "He once shook a building to settle noisy monks, according to the Buddhist texts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pali account says he escaped his attackers for six days by disappearing, but on the seventh day his powers failed him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 9
+    },
+    {
+      "text": "The Buddha explained his violent death as the result of a past deed. Scholar Richard Gombrich notes he still reached awakening despite that heavy karma, which he reads as showing awakening is open to anyone now.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "In some Chinese versions of the Ullambana story, Maudgalyayana finds his mother reborn as a hungry ghost, and each time he offers her food through an ancestral shrine it bursts into flames.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Lao version, the lord of death, Yama, lets hell beings out for one day each year to receive merit.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "The story inspired the Ghost Festival in China and Obon in Japan, which probably reached Japan in the 7th century.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Texts say the Buddha, hearing Maudgalyayana praised as a teacher, had a wheel of existence painted on the Veluvana gate, with a white circle for nirvana, and stationed a monk there to explain karma to visitors.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "King Udayana is said to have missed the Buddha while he was teaching his mother in heaven. Texts say Maudgalyayana used his powers to carry 32 craftsmen there to carve a sandalwood image, linked to the first Buddha image.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Learning from devas that Devadatta was seeking Prince Ajatasattu's help, Maudgalyayana warned the Buddha, since the two together were dangerous. So the Pali tradition says.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The oldest story like his is in the Petavatthu: Sariputta rescued his mother from five lives earlier, then a hungry ghost, by filling four huts with food for the monks and sharing the merit with her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yulanpen_Sutra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars say his story helped Buddhism fit into China, where critics said childless monks could not honour their ancestors. Rescuing a mother showed that monks could repay a parent's kindness.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "In 2015 Sri Lanka's Maha Bodhi Society showed the relics of Maudgalyayana and Sariputta to Pope Francis outside the yearly exhibition. Its head said religious leaders should unite communities, not divide them.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8
+    },
+    {
+      "text": "Scholars see similarities between his rescue of his mother and Phra Malai, a legend popular in Thailand and Laos. His story is also thought to have influenced the Central Asian epic of King Gesar.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 8
+    },
+    {
+      "text": "Pilgrim Xuanzang reported that Indian monks honoured Sariputta for his Abhidharma teaching and Maudgalyayana for his meditation, the basis of psychic powers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    },
+    {
+      "text": "After both chief disciples had died, the Buddha said the community seemed smaller, like a healthy tree that has lost some branches.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Dharmaguptaka, one of the early Buddhist schools, traces its origins to Maudgalyayana or to one of his followers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Maudgalyayana",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What special skill was Maudgalyayana famous for?",
+      "options": ["Psychic powers", "Healing herbs", "Archery", "Writing poems"],
+      "answer": 0,
+      "why": "The Buddha called him foremost in psychic powers."
+    },
+    {
+      "q": "Which festival is linked to his story about his mother?",
+      "options": ["Diwali", "Holi", "Obon", "Vaisakhi"],
+      "answer": 2,
+      "why": "His Ullambana story inspired Obon and the Ghost Festival."
+    },
+    {
+      "q": "What was he named before he became a monk?",
+      "options": ["Rahula", "Kolita", "Pippali", "Upatissa"],
+      "answer": 1,
+      "why": "Kolita was his birth name."
+    },
+    {
+      "q": "What did Maudgalyayana do to help his mother in the story?",
+      "options": [
+        "Built a temple",
+        "Prayed alone for years",
+        "Fought a demon",
+        "Offered gifts to the monks and shared the merit"
+      ],
+      "answer": 3,
+      "why": "The Buddha told him to give to the community and dedicate the goodness to his mother."
+    }
+  ],
+  "related": ["sariputta", "gautama-buddha", "devadatta", "ananda"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maudgalyayana",
+    "ullambana": "https://en.wikipedia.org/wiki/Yulanpen_Sutra"
+  },
+  "depth": "full",
+  "palette": { "c1": "#d7e4ea", "c2": "#e8d6c3" }
+}

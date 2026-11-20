@@ -1,0 +1,290 @@
+{
+  "slug": "super-indian",
+  "name": "Super Indian",
+  "realName": "Aman",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Raj Comics",
+  "summary": "Raj Comics' 2005 hero Aman, a clone of a terrorist chief raised by villains, then cleansed by a mystic to defend a future Indian city set in 2020.",
+  "origin": "In the comics, Aman is a clone of the terrorist leader Ahankari, made by Dr Heathrow and trained by super-villains as a successor. Ahankari's father had the mystic Rudraksh Baba raise Aman instead and remove his inherited evil. Aman became Super Indian, wearing a dhoti and guarding Metro City.",
+  "creators": ["Dilip Chaubey", "Tarun Kumar Wahi"],
+  "firstAppearance": {
+    "title": "Super Indian",
+    "year": 2005
+  },
+  "powers": [
+    "Superhuman strength",
+    "Endurance",
+    "Speed",
+    "Flight",
+    "Skin turns blue when he senses evil"
+  ],
+  "affiliations": ["Brahmand Rakshak", "P.O.E.M."],
+  "storyline": [
+    {
+      "era": "Cloning",
+      "years": "Backstory",
+      "title": "A clone is made",
+      "beat": "After Ahankari nearly dies, Dr Heathrow makes a clone whose genes help him grow fast."
+    },
+    {
+      "era": "Villain school",
+      "years": "Backstory",
+      "title": "Raised by foes",
+      "beat": "Super-villains train the clone to take over from Ahankari, so he learns all their weak spots."
+    },
+    {
+      "era": "Cleansing",
+      "years": "Backstory",
+      "title": "Rudraksh Baba",
+      "beat": "A mystic raises Aman to remove his inherited evil, and he takes the name Super Indian."
+    },
+    {
+      "era": "Metro City",
+      "years": "2005 onward",
+      "title": "Uncle Metro",
+      "beat": "He protects Metro City from the crime lord Uncle Metro, whose nephew Petro fell into a coma."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Raj Comics launched the series in its 20th year, setting it in a future Indian city in 2020.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The hero was raised by villains, so he knows their methods and they have nowhere to hide.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "His skin turns blue when he senses evil, as a side effect of the darkness sealed in him.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "He wears a dhoti, which the sources tie to his mystic training with Rudraksh Baba.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Super Indian's real name?",
+      "options": ["Aman", "Abhay", "Alop", "Vinay"],
+      "answer": 0,
+      "why": "Aman is the clone behind the hero."
+    },
+    {
+      "q": "Which mystic raised him to remove inherited evil?",
+      "options": ["Rudraksh Baba", "Guru Bhatiki", "Mahaguru Bhokal", "Fuzobaba"],
+      "answer": 0,
+      "why": "Rudraksh Baba took charge of Aman."
+    },
+    {
+      "q": "Which city does he defend?",
+      "options": ["Metro City", "Vikasnagar", "Wolfano", "Ashwlok"],
+      "answer": 0,
+      "why": "Metro City is his base."
+    },
+    {
+      "q": "In what year was the first series set?",
+      "options": ["2020", "2010", "2025", "2050"],
+      "answer": 0,
+      "why": "The 2005 series is set in a futuristic city in 2020."
+    }
+  ],
+  "rivals": [],
+  "allies": ["nagraj", "super-commando-dhruva", "doga", "bheriya"],
+  "theme": {
+    "palette": {
+      "c1": "#ff9933",
+      "c2": "#138808",
+      "c3": "#1a237e"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "Raised by villains, trained to save a city."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Super_Indian",
+    "indianetzone": "https://www.indianetzone.com/super_indian",
+    "animationxpress": "https://www.animationxpress.com/?p=62813",
+    "raj-comics": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "wahi": "https://en.wikipedia.org/wiki/Tarun_Kumar_Wahi",
+    "theprint": "https://theprint.in/feature/brandma/raj-comics-publishers-who-brought-home-your-friendly-neighbourhood-desi-superheroes/1072153"
+  },
+  "heat": 34,
+  "facts": [
+    {
+      "text": "Raj Comics announced SuperIndian in the publisher's 20th year, setting it in an ultra-modern Indian city in 2020, about fifteen years ahead of its readers.",
+      "kind": "publishing",
+      "source": "https://www.animationxpress.com/?p=62813",
+      "interest": 7
+    },
+    {
+      "text": "The pitch was that he was raised by the era's biggest villains, who taught him everything, so he knows every one of their tricks and they have nowhere to hide.",
+      "kind": "origin",
+      "source": "https://www.animationxpress.com/?p=62813",
+      "interest": 9
+    },
+    {
+      "text": "Aman is a clone of the terrorist chief Ahankari, made after Ahankari had a near-fatal clash with an infiltrator named William Boother and wanted a successor.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 8
+    },
+    {
+      "text": "Dr. Heathrow copied every aspect of Ahankari, and cloned genes sped up the clone's growth so he reached adulthood quickly.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 7
+    },
+    {
+      "text": "Ahankari's own father feared the clone would inherit his son's malevolence and called in the mystic Rudraksh Baba to bring up his grandson.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 7
+    },
+    {
+      "text": "In the story Rudraksh Baba purged the evil from the clone and confined it beneath a trident mark, which the comic links to Lord Shiva.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 7
+    },
+    {
+      "text": "A strange side effect of that cleansing is that his skin turns blue whenever he senses evil.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 9
+    },
+    {
+      "text": "He wears a traditional dhoti as a sign of his turn to mysticism, a very different costume from the usual spandex.",
+      "kind": "culture",
+      "source": "https://www.indianetzone.com/super_indian",
+      "interest": 7
+    },
+    {
+      "text": "Because he has no relatives, he affectionately calls the members of P.O.E.M. (Protectors Of Earth & Mankind) his uncles and aunt.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 8
+    },
+    {
+      "text": "Red Eyebrow, a scientific genius, lost the chance to build Metro City to another scientist and now wants to destroy the city and rebuild it himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 7
+    },
+    {
+      "text": "Super Indian appears in Raj Comics' Kaal series, a crossover line that also features Ashwaraj, Gojo, Bhokal, TilismDev, Parmanu and Inspector Steel.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics runs a Khoon series that is listed as a Doga and Super Indian pairing, so the hero raised by villains teams up with one of the publisher's grittiest heroes.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    },
+    {
+      "text": "His titles include the playful Villain Chacha and Chemical Lochcha, a question-style Super Indian Kaun, and Project Setusamudram.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Super_Indian",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics' first superhero was Nagraj, the snake hero; the idea came from Manoj Gupta in 1985 because snakes carry religious and mythological importance in India.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 8
+    },
+    {
+      "text": "About 3.5 lakh copies of a single Nagraj title were printed at a time, according to ThePrint, a sign of how big Raj Comics got.",
+      "kind": "record",
+      "source": "https://theprint.in/feature/brandma/raj-comics-publishers-who-brought-home-your-friendly-neighbourhood-desi-superheroes/1072153",
+      "interest": 8
+    },
+    {
+      "text": "Over roughly 30 years Raj Comics published more than 3,500 titles, all of them in Hindi, which gave it a strong base in the Hindi belt but limited readers elsewhere.",
+      "kind": "publishing",
+      "source": "https://theprint.in/feature/brandma/raj-comics-publishers-who-brought-home-your-friendly-neighbourhood-desi-superheroes/1072153",
+      "interest": 8
+    },
+    {
+      "text": "In 1997 a TV advertisement for Nagraj starring Sonu Sood aired, and in the publisher's golden age it reportedly sold over a million copies a year.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 8
+    },
+    {
+      "text": "Tarun Kumar Wahi, Super Indian's co-creator and Raj Comics' chief writer, also created Doga, Parmanu and Bheriya, so two of Super Indian's named allies, Doga and Bheriya, come from his own pen.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Tarun_Kumar_Wahi",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics has made short films too: Aadamkhor in 2018, partly self-produced and crowdfunded on YouTube, and Doga - Mumbai Ka Rakhwala around 2019.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 8
+    },
+    {
+      "text": "In 2015 Raj Comics released an Android app, which the publisher's page says earned a large following and an average rating above 4.5 stars.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Super Indian is a Raj Comics hero named Aman. He was made as a copy of a bad man and raised by villains, but a wise mystic cleansed him so he could protect people instead.",
+  "story": [
+    {
+      "title": "A copy is made",
+      "text": "A terrorist leader named Ahankari has a scientist create a clone of himself, so he will have an heir."
+    },
+    {
+      "title": "Raised by villains",
+      "text": "Super-villains teach the clone their tricks, so he learns exactly how they think."
+    },
+    {
+      "title": "A wise teacher",
+      "text": "Ahankari's father worries and brings in the mystic Rudraksh Baba, who removes the evil from the clone."
+    },
+    {
+      "title": "A hero is born",
+      "text": "The clone gets the name Aman and chooses to be Super Indian. His skin turns blue whenever he senses evil."
+    },
+    {
+      "title": "Guarding Metro City",
+      "text": "He protects the high-tech Metro City and calls the heroes of P.O.E.M. his uncles and aunt."
+    }
+  ],
+  "timeline": [
+    {
+      "year": 2005,
+      "kind": "debut",
+      "title": "SuperIndian announced",
+      "note": "On 16 May 2005 Raj Comics announces a new series, SuperIndian, set in a futuristic Indian city in 2020, in the publisher's 20th year."
+    },
+    {
+      "year": 2005,
+      "kind": "comic",
+      "title": "Launch planned for month-end",
+      "note": "The announcement says the series is due by the end of that month, backed by a pre-launch buzz campaign and an online fan hub for posters and goodies."
+    },
+    {
+      "year": 2010,
+      "kind": "legacy",
+      "title": "Co-creator honoured",
+      "note": "Tarun Kumar Wahi receives a Best Script Writer award from Raja Pocket Books CEO Manoj Gupta in 2010."
+    },
+    {
+      "year": 2015,
+      "kind": "legacy",
+      "title": "Raj Comics goes to Android",
+      "note": "Super Indian's publisher releases an Android app for the general public in 2015."
+    }
+  ]
+}

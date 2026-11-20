@@ -1,0 +1,276 @@
+{
+  "slug": "parashara",
+  "name": "Parashara",
+  "aka": ["Parashar", "Parasara", "Parashara Shaktya"],
+  "native": "पराशर",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage, author of the Vishnu Purana tradition and father of Vyasa",
+  "summary": "Parashara is a sage, grandson of Vasishtha and father of Vyasa. Texts on law, astrology and trees carry his name, and a lake in Himachal Pradesh is named after him.",
+  "about": "Parashara is the son of Shakti and grandson of Vasishtha and Arundhati. The Rigveda credits him with hymns to Agni, and later tradition names him as the speaker of the Vishnu Purana to his student Maitreya. In the Mahabharata he meets the ferrywoman Matsyagandha on the Yamuna; their son is Vyasa, the arranger of the Vedas and compiler of the Mahabharata. Texts attributed to him include the Parashara Smriti, a law code for Kali Yuga, the Vrikshayurveda on trees, and the astrology work Brihat Parashara Hora Shastra. Scholars think some of these books were written long after the Vedic age.",
+  "kidSummary": "Parashara is a wise sage whose son was Vyasa, the great teacher who gathered the Vedas. Old books on trees, law and the stars carry his name. High in the Himalaya, a beautiful lake with a floating island is named after him.",
+  "story": [
+    {
+      "title": "A voice before birth",
+      "text": "Parashara's grandfather Vasishtha hears Vedic chanting in the forest. His daughter-in-law tells him it comes from the baby not yet born."
+    },
+    {
+      "title": "A child raised by a sage",
+      "text": "Vasishtha raises Parashara in his hermitage as his own son. The boy grows up learning the Vedas."
+    },
+    {
+      "title": "Learning to let go of anger",
+      "text": "In the Vishnu Purana, Parashara begins a sacrifice to destroy rakshasas. Vasishtha explains that anger harms the one who keeps it, and he stops."
+    },
+    {
+      "title": "A crossing on the Yamuna",
+      "text": "In the Mahabharata, Parashara asks the ferrywoman Matsyagandha to take him across. He gives her a lovely fragrance and creates a quiet island."
+    },
+    {
+      "title": "A son called Vyasa",
+      "text": "Their son is born on the island and is named Krishna Dvaipayana. He grows up to be Vyasa, who arranges the Vedas and tells the Mahabharata."
+    }
+  ],
+  "teaches": ["Let go of anger", "Share knowledge with students", "Look after trees and nature"],
+  "symbol": "book",
+  "emblems": ["Vishnu Purana", "Island in the Yamuna", "Prashar Lake"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shakti"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Grandmother",
+      "name": "Arundhati",
+      "slug": "arundhati"
+    },
+    {
+      "relation": "Son",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Partner in Vyasa's birth",
+      "name": "Satyavati",
+      "slug": "satyavati"
+    }
+  ],
+  "texts": [
+    "Rigveda (1.65-73)",
+    "Vishnu Purana",
+    "Parashara Smriti",
+    "Vrikshayurveda",
+    "Brihat Parashara Hora Shastra",
+    "Parashar Gita"
+  ],
+  "places": ["Prashar Lake, Mandi, Himachal Pradesh", "Yamuna river island", "Mithila"],
+  "festivals": ["Rishi Panchami"],
+  "facts": [
+    {
+      "text": "His name is explained in one legend as 'enlivener of the dead', because his birth gave new hope to his grieving grandfather Vasishtha.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In his grief over his lost sons, the legend says Vasishtha wandered, yet fire, sea and rivers would not harm him. The river Haimavati split into many streams around him, and so it was named Satadru, today's Sutlej.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The tale says Parashara's mother Adrushyanti heard Vedic chanting in the forest and told Vasishtha it came from the unborn child in her womb. Vasishtha was overjoyed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Vishnu Purana, King Kalmashapada, cursed into a flesh-eating rakshasa, devoured Parashara's father Shakti. Grieving Parashara began a sacrifice to destroy all rakshasas, and Vasishtha calmed him by explaining that anger blocks the path to freedom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Matsyagandha, whose name means 'smelling of fish', was a ferrywoman who crossed Parashara over the Yamuna. The Mahabharata says he gave her a heavenly fragrance, and she became known as Satyavati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Parashara raised an island in the Yamuna and wrapped it in fog. Their son was born there and was called Krishna Dvaipayana, 'dark island-born', who became Vyasa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Brihat Parashara Hora Shastra, the astrology text under his name, seems to have vanished for at least 900 years. A writer around 900 CE said he had never seen it, and new manuscripts only appeared in the early 20th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brihat_Parashara_Hora_Shastra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Vrikshayurveda, 'the science of life of trees', is attributed to Parashara and is regarded as one of the earliest texts on botany in India.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition calls him the 'limping sage' because a wound hurt his leg. One story says wolves attacked him in a forest and he merged into them when he left the world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Prashar Lake in Mandi district, Himachal Pradesh, lies at about 2,730 m and is named after the sage, who local tradition says meditated there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A floating island of partly rotted plants drifts around Prashar Lake. It covers about 7 per cent of the lake and floats on air held in its roots.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "No one has officially measured the depth of Prashar Lake, and local people say that a diver cannot find its bottom.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Parashara is the kul devta, the family deity, of the Mandi royal family. In the Mandi and Kullu valleys people lovingly call him 'Dadu', meaning the eldest deity.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A three-storey pagoda-style temple stands by the lake, and a local legend says it was made from a single tree. Dates given for it range from the 13th to the 14th century.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda credits Parashara, son of Shakti, as the seer of hymns 1.65 to 1.73, which praise Agni, the sacred fire. He is also credited with part of hymn 9.97, which praises Soma.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition names Parashara as the speaker of the Vishnu Purana, telling it to his student Maitreya. The page calls his the original version, which his son Vyasa later reworked.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the title of the Brihat Parashara Hora Shastra, 'hora' means horoscope and also hour or time. Scholars say the word is loosely related to the Greek word for hour.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Brihat_Parashara_Hora_Shastra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A text called the Parashar Gita is credited to Parashara. It records philosophical dialogues between the sage and King Janaka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Anushasana Parva of the Mahabharata, Parashara tells Yudhishthira that he prayed to Shiva for a son of great ascetic merit who would arrange the Vedas. Shiva granted the wish.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Parashara's boon, the ferrywoman Satyavati was also called Yojanagandha, 'she whose fragrance is smelled from a yojana away', and Kasturi-gandhi, 'musk-scented'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Parashara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Each year at the lake's festivals, such as Kashi, Rishi Panchami and Sauranahuli, deities from neighbouring valleys including Shanor, Badar, Utrasaal and Saraj join the celebrations at Parashar.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Parashar_Lake",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Parashara's famous son?",
+      "options": ["Valmiki", "Vyasa", "Narada", "Agastya"],
+      "answer": 1,
+      "why": "Vyasa was born on a Yamuna island to Parashara and Satyavati."
+    },
+    {
+      "q": "What does Parashara's name mean in one legend?",
+      "options": ["Tiger-footed", "Enlivener of the dead", "Born of fire", "Moon-crowned"],
+      "answer": 1,
+      "why": "Legend says his birth gave Vasishtha new hope."
+    },
+    {
+      "q": "What unusual feature drifts about in Prashar Lake?",
+      "options": ["A floating island", "A hot spring", "A red ice sheet", "A sunken boat"],
+      "answer": 0,
+      "why": "A floating island of partly rotted plants drifts around the lake."
+    },
+    {
+      "q": "Which text on trees is attributed to him?",
+      "options": ["Vrikshayurveda", "Arthashastra", "Kamasutra", "Natyashastra"],
+      "answer": 0,
+      "why": "Vrikshayurveda means the science of life of trees."
+    },
+    {
+      "q": "Who is Parashara's grandfather?",
+      "options": ["Atri", "Vasishtha", "Bhrigu", "Kanva"],
+      "answer": 1,
+      "why": "Vasishtha raised him in his hermitage."
+    }
+  ],
+  "related": [
+    "vasishtha",
+    "arundhati",
+    "vyasa",
+    "satyavati",
+    "vishnu",
+    "janaka",
+    "shuka",
+    "dhritarashtra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Parashara",
+    "bphs": "https://en.wikipedia.org/wiki/Brihat_Parashara_Hora_Shastra",
+    "prashar-lake": "https://en.wikipedia.org/wiki/Parashar_Lake",
+    "arundhati": "https://en.wikipedia.org/wiki/Arundhati_(Hinduism)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cde3e0",
+    "c2": "#efe2c6"
+  },
+  "order": 763
+}

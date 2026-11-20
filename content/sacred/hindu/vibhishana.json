@@ -1,0 +1,261 @@
+{
+  "slug": "vibhishana",
+  "name": "Vibhishana",
+  "aka": ["Bibhishana", "Vibhishan", "Phiphek"],
+  "native": "विभीषण",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Rakshasa king who joined Rama; one of the Chiranjivis",
+  "summary": "Vibhishana is the younger brother of Ravana in the Ramayana. He urges Ravana to return Sita, joins Rama and is crowned king of Lanka. Tradition counts him among the seven or eight Chiranjivis.",
+  "about": "In the Valmiki Ramayana, Vibhishana is a rakshasa, the younger brother of Ravana and Kumbhakarna, son of the sage Vishrava and Kaikasi. Tradition says he asked Brahma for a mind that always followed dharma. When Ravana kept Sita, Vibhishana advised returning her. Ravana dismissed him, so Vibhishana left Lanka for Rama's camp, where after debate the vanaras accepted him. Rama later crowned him king of Lanka. Many Vaishnava traditions add that Rama gave him an image of Vishnu, which stayed at Srirangam in Tamil Nadu. In Sri Lanka some people long honoured him as a guardian deity, and the Sapta Chiranjivi Stotram names him among the immortals.",
+  "kidSummary": "Vibhishana is Ravana's younger brother, but he is kind and wise. When Ravana will not return Sita, Vibhishana tells him it is wrong. Then he leaves Lanka to join Rama. Later he becomes the king of Lanka. Some stories say he is one of the immortal beings who still walk the earth.",
+  "story": [
+    {
+      "title": "A good heart",
+      "text": "Vibhishana is Ravana's younger brother. He prays to Brahma and asks for a mind that always stays on the right path."
+    },
+    {
+      "title": "A warning ignored",
+      "text": "When Ravana keeps Sita in Lanka, Vibhishana urges him to send her home. Ravana does not listen to his advice."
+    },
+    {
+      "title": "Leaving Lanka",
+      "text": "Vibhishana leaves with four companions and flies to Rama's camp. He asks Rama for shelter."
+    },
+    {
+      "title": "Trust and doubt",
+      "text": "Some vanaras think he might be a spy. Hanuman says he can be trusted. Rama welcomes him."
+    },
+    {
+      "title": "A new king",
+      "text": "After the war, Rama has Vibhishana crowned king of Lanka. Later tradition says Rama also asked him to stay on earth and guide people in dharma."
+    }
+  ],
+  "teaches": [
+    "Stand for what is right even when your family disagrees",
+    "Be honest and courageous",
+    "Rule with care for others"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Sri Ranga vimana (Srirangam tradition)", "Crown of Lanka"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Sister",
+      "name": "Shurpanakha",
+      "slug": "shurpanakha"
+    },
+    {
+      "relation": "Friend and lord",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Yuddha Kanda",
+    "Ravana Katha (Sri Lankan)",
+    "Sapta Chiranjivi Stotram",
+    "Ramakien"
+  ],
+  "places": ["Srirangam, Tamil Nadu", "Kelaniya, Sri Lanka", "Lankatilaka Vihara"],
+  "festivals": ["Vaikuntha Ekadashi at Srirangam"],
+  "facts": [
+    {
+      "text": "After austerities, Vibhishana asked Brahma for one thing only, a mind that would always stay on the path of dharma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some versions Vibhishana revealed that Ravana's immortality rested in nectar stored in his belly, which had to be dried up first.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Rama's coronation Vibhishana was given the Sri Ranga vimana, a shrine of Vishnu, to carry to Lanka. The Srirangam legend says he set it down by the Kaveri and could not lift it again; Vishnu said he wished to stay there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the reclining deity faces south, towards Lanka, because the local king Dharmavarma kept the vimana on that condition.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sri_Ranganathaswamy_Temple,_Srirangam",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "A 15th-century Sinhala poem, the Selalihini Sandesaya, imagines a myna bird carrying a message to his temple at Kelaniya.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Vibhishana asks for shelter, Rama says he will give safety to anyone who comes to him and says 'I am yours', and adds that this covers Vibhishana or even Ravana himself.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhaitrans18.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "To explain why he must accept Vibhishana, Rama recalls a tale of a dove that welcomed and fed a hunter who had captured its mate, because a refuge-seeker must be protected.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga18/yuddhaitrans18.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "It was Vibhishana's idea that Rama should ask the Ocean for a way across. He reasoned that the sea, dug by Rama's ancestor Sagara, would help a relative of that king.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhaitrans19.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Yuddha Kanda 19, Rama has Lakshmana sprinkle Vibhishana with sea water and crown him king of the rakshasas well before the war has even begun.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga19/yuddhaitrans19.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Later tradition says Rama, ready to leave the world, asked Vibhishana to stay on earth and guide people towards dharma. That is why the Sapta Chiranjivi Stotram counts him among eight immortals.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vibhishana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Vibhishana at first refuses to cremate Ravana, Rama tells him that hostilities end with death and that Ravana is now as much Rama's as his, so Vibhishana should perform the rites.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga111/yuddhaitrans111.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "When Rama faints, thinking Sita is dead, Vibhishana tells him the killing was an illusion made by Indrajit and that Ravana would never harm her. He also points to Nikumbhila as Indrajit's next move.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga84/yuddhaitrans84.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Hanuman's flaming tail burned Lanka house by house, but Valmiki says he spared Vibhishana's home and burned the rest of the city.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga54/sundaraitrans54.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Yuddha 16, Ravana tells him one can live with an enemy or an angry snake more easily than with a supposed friend who serves the enemy.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga16/yuddhaitrans16.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ravana ordered Hanuman killed, but Vibhishana argued that a messenger must not be harmed. Ravana then chose a different punishment and had the vanara's tail set on fire.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga52/sundaraitrans52.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before Ravana's council, Vibhishana listed bad omens since Sita's arrival: the sacred fire smoking, milk curdling, horses neighing sadly and jackals howling at dusk. He urged returning her as atonement.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga10/yuddhaitrans10.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the council Indrajit boasted of once hurling Indra to the ground. Vibhishana called his nephew a reckless boy with an unsteady mind and warned that Rama's arrows were like the staff of Yama.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhaitrans15.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sita tells Hanuman in Valmiki that Vibhishana's wife sent their daughter Kala to share news of Ravana's plans. Later texts name the wife Sarama and the daughter Trijata.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sarama_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Krittivasi Ramayan, Sita plays on the name of Vibhishana's wife, saying she is called Sarama because of Sita herself, since Sita calls herself Rama.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sarama_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Meeting Indrajit at Nikumbhila, Vibhishana answers the charge of betrayal by saying his nature is goodness though he was born among rakshasas, and that one drops a sinful kinsman as one shakes off a snake.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga87/yuddhaitrans87.htm",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Vibhishana's elder brother?",
+      "options": ["Sugriva", "Ravana", "Lakshmana", "Vali"],
+      "answer": 1,
+      "why": "Vibhishana is the younger brother of Ravana."
+    },
+    {
+      "q": "What did Vibhishana ask Brahma for?",
+      "options": ["A mind on the path of dharma", "A golden city", "Ten heads", "An army"],
+      "answer": 0,
+      "why": "He asked for a steady mind that always followed dharma."
+    },
+    {
+      "q": "Which temple tradition says Vibhishana's vimana stayed there?",
+      "options": ["Srirangam", "Puri", "Kedarnath", "Tirupati"],
+      "answer": 0,
+      "why": "It could not be lifted again on the banks of the Kaveri."
+    },
+    {
+      "q": "Who spoke up for trusting Vibhishana in Rama's camp?",
+      "options": ["Sugriva", "Hanuman", "Jambavan", "Sharabha"],
+      "answer": 1,
+      "why": "Hanuman argued he could be trusted."
+    }
+  ],
+  "related": [
+    "ravana",
+    "kumbhakarna",
+    "rama",
+    "hanuman",
+    "shurpanakha",
+    "mandodari",
+    "sugriva",
+    "vishnu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vibhishana",
+    "yuddha17": "https://www.valmikiramayan.net/utf8/yuddha/sarga17/yuddhasans17.htm",
+    "srirangam": "https://en.wikipedia.org/wiki/Sri_Ranganathaswamy_Temple,_Srirangam"
+  },
+  "palette": {
+    "c1": "#CDB6D8",
+    "c2": "#E8D8A8"
+  },
+  "order": 215,
+  "depth": "full"
+}

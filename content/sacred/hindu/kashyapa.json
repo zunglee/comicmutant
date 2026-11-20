@@ -1,0 +1,296 @@
+{
+  "slug": "kashyapa",
+  "name": "Kashyapa",
+  "aka": ["Kasyapa", "Kashyapa Prajapati", "Kassapa (Pali)"],
+  "native": "कश्यप",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Ancient sage and father of many beings",
+  "summary": "Kashyapa, whose name means 'tortoise', is a Vedic sage and Prajapati. Puranas call him father of the devas, asuras, nagas and more, and say he drained Kashmir.",
+  "about": "Kashyapa is one of the oldest sages named in Vedic literature. The Brihadaranyaka Upanishad lists him in its lineage, the Rigveda credits hymns in Mandala 9 to him, and the Puranas place him among the seven sages of the present age. Tellings differ on how many wives he had: the Vishnu Purana names thirteen daughters of Daksha, the Ramayana eight, and the Mahabharata gives another list. Many Puranas say the devas, danavas, yakshas, daityas and all living creatures descend from him. Legends say he drained a huge lake to make Kashmir, and texts of medicine, music and architecture are attributed to his name.",
+  "kidSummary": "Kashyapa is a very old sage whose name means 'tortoise'. Stories say he was the father of gods, nagas, birds and many other beings. One legend says he drained a giant lake so people could live in Kashmir. Old books on medicine and building are even named after him.",
+  "story": [
+    {
+      "title": "A sage of the first age",
+      "text": "The Puranas say Kashyapa was one of the great sages who helped fill the world with life. He married several daughters of the sage Daksha, and the stories name them Aditi, Diti, Kadru, Vinata and others."
+    },
+    {
+      "title": "A family of many kinds",
+      "text": "Through his wives came the Adityas, the daityas, the nagas and the birds, the Puranas say. Aditi's children were the gods, and Vinata's sons were Aruna and Garuda."
+    },
+    {
+      "title": "The impatient egg",
+      "text": "Kadru's thousand eggs hatched first. Vinata grew impatient and cracked one of her two eggs early, and a half-formed son named Aruna came out. He rose into the sky as the charioteer of the sun, while Garuda hatched later."
+    },
+    {
+      "title": "Draining a lake",
+      "text": "In Kashmir's legends, the valley was once covered by a huge lake. Kashyapa drained it, and the dry land became a place where people could live. Some say the name Kashmir comes from his."
+    },
+    {
+      "title": "The cow from Varuna",
+      "text": "One tradition says Varuna lent Kashyapa a holy cow for a ritual. When he did not return it, Brahma cursed him to be born among cowherds, and he became Vasudeva, the father of Krishna."
+    },
+    {
+      "title": "Books under his name",
+      "text": "Over the centuries, books on children's medicine, music and temple-building were credited to Kashyapa. Scholars note that later authors often wrote under a famous sage's name."
+    }
+  ],
+  "teaches": [
+    "Honour what is lent to you",
+    "Care for all kinds of living beings",
+    "Knowledge is passed along generations"
+  ],
+  "symbol": "tree",
+  "emblems": ["Tortoise (name meaning)", "Kashmir valley"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Aditi",
+      "slug": "aditi"
+    },
+    {
+      "relation": "Wife",
+      "name": "Vinata"
+    },
+    {
+      "relation": "Wife",
+      "name": "Kadru"
+    },
+    {
+      "relation": "Son",
+      "name": "Garuda",
+      "slug": "garuda"
+    },
+    {
+      "relation": "Son",
+      "name": "Vamana",
+      "slug": "vamana"
+    },
+    {
+      "relation": "Reborn as",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Wife",
+      "name": "Diti"
+    },
+    {
+      "relation": "Son (by Diti)",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 9)",
+    "Brihadaranyaka Upanishad",
+    "Vishnu Purana",
+    "Mahabharata",
+    "Kashyapa Samhita"
+  ],
+  "places": ["Kashmir"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Kashyapa means 'tortoise'. Scholar Michael Witzel links it to tortoise words in Avestan, Sogdian, Kurdish and Persian, and to the name of the Kashaf Rud river in Turkmenistan and Khorasan.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu and Vayu Puranas say that Kashyapa fathered the devas, danavas, yakshas, daityas and all living creatures.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some Puranas say Kashyapa drained the Kashmir valley to make it habitable. Scholars read this as allegory, and one suggests Kashmir comes from 'Kashyapa Mira', the lake of the sage Kashyapa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Greek writers of the Alexander era called Kashmir 'Kasperia', and Herodotus says the explorer Skylax began his Indus voyage at Kaspatyros. Some link these names to Kashyapa-pura, the city of Kashyapa.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A medical text, the Kashyapa Samhita, is framed as a talk between Kashyapa and his student Vriddhajivaka on children's health and women's care. A temple-building text, Kashyapashilpa, is also credited to him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one tradition, Varuna gave Kashyapa a holy cow for a ritual. He would not return it, so Brahma cursed him to be reborn as a cowherd, which is how he became Krishna's father Vasudeva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Kashyapa grants his wives Kadru and Vinata a boon each. Kadru picks a thousand mighty naga sons. Vinata asks for two sons stronger and brighter, and they become Aruna and Garuda.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vinata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Kadru and Vinata bet on the colour of the horse Uccaihshravas's tail. Kadru's naga sons cling to it to make it look black, so Vinata loses and becomes Kadru's slave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vinata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Garuda learns that his mother's freedom costs the nectar of immortality. He fetches the amrita from the gods' realm, though Indra takes it back, and Vinata goes free.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vinata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Kashyapa's wife Vinata grew impatient and cracked one of her two eggs early. A half-formed son, Aruna, stepped out. He foretold her slavery to Kadru, then rose to the sky to drive Surya's chariot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vinata",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Pali Tevijja Sutta the Buddha names ten ancient sages who made the old verses, and Kassapa, the Pali form of Kashyapa, is one of them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Puranas, Diti seeks a son who can defeat Indra, so Indra splits her unborn child with his thunderbolt into many pieces. The pieces become the Maruts, the storm spirits.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Diti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Vishnu Purana names Vamana, Vishnu's dwarf form, as a son of Kashyapa and Aditi. In the legend he asks King Bali for three steps of land, then grows to cosmic size and wins back the worlds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says that after his campaigns against kings, Parashurama held an Ashvamedha sacrifice and gave the whole earth, with its seven continents, to Kashyapa as a gift.",
+      "kind": "story",
+      "source": "https://www.drikpanchang.com/dashavatara/parashurama/info/lord-parashurama.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Vettam Mani, studying the epics and Puranas, counted as many as 21 women as Kashyapa's wives. The Ramayana names eight daughters of Daksha, and the Vishnu Purana thirteen.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Brahmanda Purana, Garuda helps his sister Sumati, daughter of Kashyapa and Vinata, find a husband on the sage Aurva's advice. She marries King Sagara, tying Garuda's family to the Solar dynasty.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vinata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Two works credited to Kashyapa, a Dharmasutra and a Sangita on music, are lost and known only from quotations. The scholar Abhinavagupta quotes the music work on how to use each rasa and bhava.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one tale, Kashyapa's wives Kadru and Suparna disturb sages performing rites by the Ganga, against his wishes, and are turned into rivers. Kashyapa restores them by doing penance to Shiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kadru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kashyapa Samhita, a medical text on children and childbirth, has 200 chapters in nine parts. It was translated into Chinese in the Middle Ages and is still part of Ayurveda study.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa_Samhita",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A closing lineage verse of the Brihadaranyaka Upanishad (6.5.3) names Kashyapa as the earliest rishi, so he stands at the head of that line of teachers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kashyapa",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Kashyapa's name mean?",
+      "options": ["Tortoise", "Eagle", "Lotus", "Mountain"],
+      "answer": 0,
+      "why": "The name means tortoise."
+    },
+    {
+      "q": "Which valley does legend say Kashyapa drained?",
+      "options": ["Kullu", "Kashmir", "Sikkim", "Nilgiri"],
+      "answer": 1,
+      "why": "Some Puranas say he drained a lake to make the Kashmir valley."
+    },
+    {
+      "q": "Who is Kashyapa's wife that is mother of the gods?",
+      "options": ["Kadru", "Vinata", "Aditi", "Danu"],
+      "answer": 2,
+      "why": "Aditi is the mother of the Adityas."
+    },
+    {
+      "q": "Which great bird is a son of Kashyapa and Vinata?",
+      "options": ["Peacock", "Garuda", "Swan", "Crow"],
+      "answer": 1,
+      "why": "Vinata bore Aruna and Garuda to Kashyapa."
+    },
+    {
+      "q": "The Kashyapa Samhita is mostly about what?",
+      "options": ["Archery", "Cooking", "Children's medicine", "Weather"],
+      "answer": 2,
+      "why": "It covers paediatrics and women's care."
+    }
+  ],
+  "related": [
+    "aditi",
+    "garuda",
+    "vamana",
+    "vasudeva",
+    "jamadagni",
+    "bharadvaja",
+    "atri",
+    "vasishtha",
+    "vishvamitra",
+    "gautama-maharishi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kashyapa",
+    "saptarishi": "https://en.wikipedia.org/wiki/Saptarishi",
+    "vinata": "https://en.wikipedia.org/wiki/Vinata",
+    "godavari": "https://en.wikipedia.org/wiki/Godavari_River",
+    "diti": "https://en.wikipedia.org/wiki/Diti",
+    "vamana": "https://en.wikipedia.org/wiki/Vamana",
+    "aditi": "https://en.wikipedia.org/wiki/Aditi",
+    "parashuramaGift": "https://www.drikpanchang.com/dashavatara/parashurama/info/lord-parashurama.html",
+    "kadru": "https://en.wikipedia.org/wiki/Kadru",
+    "kashyapaSamhita": "https://en.wikipedia.org/wiki/Kashyapa_Samhita"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d8e8d2",
+    "c2": "#9fc3b3"
+  }
+}

@@ -1,0 +1,271 @@
+{
+  "name": "Neminatha",
+  "aka": ["Nemi", "Arishtanemi", "Aristanemi"],
+  "native": "नेमिनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "22nd Tirthankara of the present Jain age",
+  "summary": "Neminatha is the 22nd Tirthankara. Jain tradition says he cancelled his own wedding out of pity for animals, and made Mount Girnar his home.",
+  "about": "Jains count Neminatha as the 22nd ford-maker (tirthankara) of the present age. In Jain texts he is the youngest son of King Samudravijaya of the Yadu line, born at Shauripura and a cousin of Krishna. The best-known Jain story tells that at his wedding feast he heard animals crying, felt deep pity, and left to become a monk on Mount Girnar. His bride Rajimati became a nun. Jain tradition says he reached omniscience and was liberated on Girnar. Modern historians debate whether he was a historical person, though some link him to the sage Ghora Angirasa of the Chandogya Upanishad. He is one of the five most worshipped tirthankaras.",
+  "kidSummary": "Neminatha is the 22nd Tirthankara in Jainism. Jain stories say he was a prince and cousin of Krishna. On his wedding day he heard animals crying and felt so sorry for them that he gave up the wedding and the palace. He went to the mountain Girnar and spent his life teaching kindness to every creature.",
+  "story": [
+    {
+      "title": "A prince of the Yadus",
+      "text": "Jain stories say Neminatha was a handsome, shy prince in Shauripura, and a cousin of Krishna. He loved animals from childhood."
+    },
+    {
+      "title": "The great conch",
+      "text": "In one tale, he blew Krishna's huge conch shell that nobody else could lift. Everybody was amazed at the young prince's strength."
+    },
+    {
+      "title": "The wedding day",
+      "text": "On the day of his wedding to Princess Rajimati, he heard animals crying in pens, kept for the wedding feast. He felt great pity."
+    },
+    {
+      "title": "A different road",
+      "text": "Neminatha turned back from the wedding and went to Mount Girnar to become a monk. Rajimati also chose the path of a nun."
+    },
+    {
+      "title": "Light on Girnar",
+      "text": "Jains believe he meditated hard, gained perfect knowledge, and taught kindness for many years. They say he was freed on Girnar's fifth peak."
+    }
+  ],
+  "teaches": [
+    "Kindness to every living creature",
+    "Feeling pity should lead to action",
+    "Not holding on to wealth and comfort"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Conch shell (shankha)", "Dark blue complexion", "Yaksha Gomedha and Yakshi Ambika"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Samudravijaya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Shivadevi"
+    },
+    {
+      "relation": "Cousin",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Bride-to-be",
+      "name": "Rajimati",
+      "slug": "rajimati"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Naminatha",
+      "slug": "naminatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Parshvanatha",
+      "slug": "parshvanatha"
+    }
+  ],
+  "texts": [
+    "Kalpa Sutra",
+    "Harivamsa Purana (Jinasena)",
+    "Uttarapurana",
+    "Trishashti Shalaka Purusha Charitra",
+    "Uttaradhyayana Sutra"
+  ],
+  "places": [
+    "Shauripura (birthplace)",
+    "Mount Girnar, Gujarat",
+    "Luna Vasahi, Mount Abu",
+    "Lakshmeshwar, Karnataka"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Nemi means the rim of a wheel, and natha means lord. Jain texts say Indra chose the name, seeing the Jina as the rim of the wheel of dharma.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts make Neminatha a cousin of Krishna, as his father Samudravijaya was the brother of Krishna's father Vasudeva. He was born in Shauripura in the Yadu line.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Jain story, Satyabhama teased him, and young Neminatha blew Krishna's great conch Panchajanya, which no one but Krishna could lift. He is said to have blown it through his nostrils.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa Purana of Jinasena says Krishna then challenged him to a friendly test of strength, and Neminatha won it easily.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain tradition says that at his wedding feast, Neminatha heard animals crying in pens meant for the guests' food. Filled with pity, he cancelled the wedding and went to Girnar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In Jain art and the Uttaradhyayana (chapter 22), caught in rain on the way to Mount Raivataka, Rajimati shelters in a cave where the monk Rathanemi is sheltering; she firmly urges him to stay steady in his vows.",
+      "kind": "story",
+      "source": "https://jainpedia.org/manuscript/rajimati-in-the-cave-with-rathanemi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain epics such as Jinasena's 8th-century Harivamsa Purana retell Krishna's world with Neminatha at the centre, giving Jains their own Mahabharata.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Mount Abu, Luna Vasahi was built in 1230 by the brothers Vastupala and Tejpal. Its ceiling carvings show Neminatha, Rajimati and Krishna.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Jain legend says that even as a child Neminatha spun a great discus on the toe of his right foot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 1275 CE inscription at the Neminatha temple on Girnar orders 2,000 flowers a day from a dedicated garden, to be used for his worship and nothing else.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Girnar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to tradition, 533 other enlightened sages reached liberation with Neminatha at the highest peak of Girnar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Girnar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition holds that he fought beside Krishna in the war against Jarasandha, one reason Jains also celebrate Krishna-related festivals.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Chandogya Upanishad names a teacher, Ghora Angirasa, who taught Krishna nonviolence and truthfulness. D. D. Kosambi suggested he was Neminatha or an early ascetic whose life inspired the Neminatha story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Kushana-period sculptures from Kankali Tila in Mathura show Krishna and Balarama beside Neminatha as his cousins, so the family tie was carved in stone in the first centuries CE.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Neminatha and Rajimati story inspired medieval Gujarati fagu poems, among them Neminatha Fagu by Rajshekhar (1344) and by Jayashekhar (1375), and Somsundar's Rangasagara Neminatha Fagu (1400).",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A palm-leaf manuscript of the Neminatha-Charitra, written between 1138 and 1142 CE, is kept at the Shantinatha Bhandara library in Khambhat.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain tradition reads the name Arishtanemi in the Rigveda and Yajurveda as pointing to him. Scholars such as Paul Dundas are cautious and think it may have been a general Vedic title.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At the Tijara Jain temple in Rajasthan a carving shows him resting on a snake bed, with a wheel on his toe and playing the conch through his nose.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts give him 1,000 years of life: 300 as an unmarried youth, 54 days as an ascetic before omniscience, and 700 as an omniscient teacher.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhand Dewal at Arang in Chhattisgarh, an 11th-century star-shaped temple, holds three black stone images of tirthankaras, Neminatha among them.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Neminatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What made Neminatha leave his wedding in Jain stories?",
+      "options": ["A storm", "Hearing animals crying", "A message from Krishna", "A war"],
+      "answer": 1,
+      "why": "He felt pity for the animals meant for the feast and chose non-violence."
+    },
+    {
+      "q": "Which famous figure is Neminatha's cousin in Jain texts?",
+      "options": ["Rama", "Hanuman", "Krishna", "Arjuna"],
+      "answer": 2,
+      "why": "Jain texts make Krishna his cousin."
+    },
+    {
+      "q": "What is the emblem of Neminatha?",
+      "options": ["A lion", "A conch shell", "A serpent", "A lotus"],
+      "answer": 1,
+      "why": "The conch (shankha) is carved below his idols."
+    },
+    {
+      "q": "Which mountain in Gujarat is linked with Neminatha's liberation?",
+      "options": ["Girnar", "Parasnath", "Arbuda", "Vindhya"],
+      "answer": 0,
+      "why": "Jains believe he was liberated on Girnar's fifth peak."
+    },
+    {
+      "q": "Who was Neminatha's bride-to-be?",
+      "options": ["Satyabhama", "Rajimati", "Radha", "Sita"],
+      "answer": 1,
+      "why": "Rajimati became a Jain nun after he left."
+    }
+  ],
+  "related": ["krishna", "rajimati", "ambika", "naminatha", "parshvanatha", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Neminatha",
+    "girnar": "https://en.wikipedia.org/wiki/Girnar",
+    "dilwara": "https://en.wikipedia.org/wiki/Dilwara_Temples"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9dff0",
+    "c2": "#f4e8d2"
+  },
+  "order": 22,
+  "slug": "neminatha"
+}

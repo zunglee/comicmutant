@@ -1,0 +1,300 @@
+{
+  "slug": "ashta-dikpalas",
+  "name": "Ashta Dikpalas",
+  "aka": ["Ashtadikpala", "Eight Guardians of the Directions", "Lokapalas"],
+  "native": "अष्टदिक्पाल",
+  "role": "Eight guardians of the compass directions",
+  "summary": "The Ashta Dikpalas are eight Hindu deities who guard the directions: Indra east, Agni south-east, Yama south, Nirriti south-west, Varuna west, Vayu north-west, Kubera north and Ishana north-east.",
+  "about": "Ashta Dikpala means guardians of the eight directions. Hindu tradition names Indra for the east, Agni for the south-east, Yama for the south, Nirriti for the south-west, Varuna for the west, Vayu for the north-west, Kubera for the north and Ishana for the north-east. Adding Brahma for the zenith and Vishnu for the nadir gives ten guardians, the Dasha-Dikpalas. Temples carve them on walls and ceilings, and texts say eight great elephants, the Ashtadiggajas, serve as their mounts. Jains and Vajrayana Buddhists have their own direction guardians, and Java and Bali have their own nine-fold set of direction gods with Shiva at the centre.",
+  "kidSummary": "The Ashta Dikpalas are eight gods who, in Hindu tradition, guard the eight directions, like watchmen of a great compass. Indra guards the east, Yama the south, Varuna the west and Kubera the north. Old temples carve them on walls and ceilings.",
+  "story": [
+    {
+      "title": "A compass of gods",
+      "text": "Hindu tradition gives every direction its own guardian, so the whole world is watched over, in the east, south, west, north and the corners between."
+    },
+    {
+      "title": "Kubera's lost city",
+      "text": "Kubera, guardian of the north, was said to rule golden Lanka. His half-brother Ravana took it, and Kubera then made his home in the Himalayan city of Alaka."
+    },
+    {
+      "title": "Indra and the rains",
+      "text": "Indra, guardian of the east, is praised in the Rigveda for striking down the serpent Vritra, who held back the waters, so that rain and rivers could flow."
+    },
+    {
+      "title": "Elephants of the directions",
+      "text": "In one old text, eight elephants came from the two halves of the cosmic egg. They serve as the mounts of the guardians, and Airavata of the east leads them."
+    },
+    {
+      "title": "Up and down",
+      "text": "Add Brahma for the sky above and Vishnu for the ground below, and the guardians watch over all ten directions."
+    }
+  ],
+  "teaches": [
+    "Everyone has a place and a duty",
+    "Looking after the world is a shared job",
+    "Justice, wealth, wind, water and fire all need care"
+  ],
+  "symbol": "star",
+  "emblems": ["Eight directions", "Elephants (Ashtadiggajas)", "Compass"],
+  "family": [
+    {
+      "relation": "East",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "South-east",
+      "name": "Agni",
+      "slug": "agni"
+    },
+    {
+      "relation": "South",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "West",
+      "name": "Varuna",
+      "slug": "varuna"
+    },
+    {
+      "relation": "North-west",
+      "name": "Vayu",
+      "slug": "vayu"
+    },
+    {
+      "relation": "North",
+      "name": "Kubera",
+      "slug": "kubera"
+    },
+    {
+      "relation": "Zenith",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Nadir",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": [
+    "Matanga Lila",
+    "Ramayana",
+    "Mahabharata",
+    "Puranas",
+    "Vishnudharmottara Purana",
+    "Kalachakra tantra",
+    "Agamas"
+  ],
+  "places": ["Badami Cave 3", "Parshvanatha Temple, Khajuraho", "Prambanan (Java)"],
+  "festivals": [],
+  "quiz": [
+    {
+      "q": "Which god guards the east, in the Dikpala tradition?",
+      "options": ["Yama", "Kubera", "Varuna", "Indra"],
+      "answer": 3,
+      "why": "Indra is the guardian of the east."
+    },
+    {
+      "q": "Which guardian rides a buffalo and watches the south?",
+      "options": ["Yama", "Varuna", "Kubera", "Indra"],
+      "answer": 0,
+      "why": "Yama, lord of justice, guards the south and rides a water buffalo."
+    },
+    {
+      "q": "Which guardian watches over the north?",
+      "options": ["Kubera", "Agni", "Vayu", "Ishana"],
+      "answer": 0,
+      "why": "Kubera, god of fortune, guards the north."
+    },
+    {
+      "q": "Which animals serve as mounts of the guardians, in the Matanga Lila?",
+      "options": ["Eight horses", "Eight tigers", "Eight elephants", "Eight bulls"],
+      "answer": 2,
+      "why": "The Ashtadiggajas are eight elephants."
+    }
+  ],
+  "related": ["indra", "agni", "yama", "varuna", "vayu", "kubera", "airavata", "vahanas"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dikpala",
+    "diggaja": "https://en.wikipedia.org/wiki/Diggaja",
+    "ashtadiggajas": "https://en.wikipedia.org/wiki/Ashtadiggajas",
+    "lokapala": "https://en.wikipedia.org/wiki/Lokapala",
+    "nirriti": "https://en.wikipedia.org/wiki/Nir%E1%B9%9Bti_(god)",
+    "vahana": "https://en.wikipedia.org/wiki/Vahana",
+    "guardians": "https://en.wikipedia.org/wiki/Guardians_of_the_directions",
+    "world-elephant": "https://en.wikipedia.org/wiki/World_Elephant",
+    "ishana": "https://en.wikipedia.org/wiki/Ishana",
+    "kubera": "https://en.wikipedia.org/wiki/Kubera",
+    "yama": "https://en.wikipedia.org/wiki/Yama",
+    "varuna": "https://en.wikipedia.org/wiki/Varuna",
+    "vayu": "https://en.wikipedia.org/wiki/Vayu",
+    "agni": "https://en.wikipedia.org/wiki/Agni",
+    "airavata": "https://en.wikipedia.org/wiki/Airavata"
+  },
+  "palette": {
+    "c1": "#e3ecf3",
+    "c2": "#f1e4c3"
+  },
+  "order": 60,
+  "facts": [
+    {
+      "text": "The Matanga Lila says eight male elephants came out of the right half of a cosmic egg and eight female elephants from the left half.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Diggaja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wilhelm von Humboldt suggested that the world-elephant idea may come from a mix-up over the Sanskrit word naga, which means both serpent and elephant.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Diggaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The title Ashtadiggajas, elephants of the eight directions, was given to the eight great Telugu poets at the court of Krishnadevaraya, who ruled the Vijayanagara Empire from 1509 to 1529.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashtadiggajas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kubera and Nirriti both appear on lists of deities who ride a man, and Kubera is also listed with a mongoose.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Nirriti stands for death, decay and sorrow. In the early Vedas she is a goddess, and later Hindu tradition makes Nirriti a male guardian of the south-west.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nir%E1%B9%9Bti_(god)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Each direction has its own guardian elephant: Airavata east, Pundarika south-east, Vamana south, Kumuda south-west, Anjana west, Pushpadanta north-west, Sarvabhauma north and Supratika north-east.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/World_Elephant",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ishana, guardian of the north-east, is counted as a form of Shiva among the Ashtamurti and as one of the eleven Rudras. One Linga Purana verse gives him three feet, seven hands, four horns and two heads.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ishana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Brahmavaivarta Purana says Ishana was born from Krishna's left eye. He wears a tiger skin and a crescent crown, has three eyes, and became the leader of the Dikpalas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ishana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kubera, the guardian of the north, once ruled Lanka until his half-brother Ravana took it, and then he settled in the Himalayan city of Alaka, whose splendour many scriptures describe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the oldest texts Kubera was a chief of spirits of darkness. Only in the Puranas and epics did he become a full god of wealth, and a few Mahabharata lists of guardians leave him out.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Varuna, guardian of the west, is pictured as a moral watchman who throws a noose, the pasha, over wrongdoers. In the Yajurveda he is also called the patron deity of physicians.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vayu, guardian of the north-west, is said to be born from the breath of the cosmic being Vishvapurusha and to be the first to drink soma. The Upanishads call him prana, the life breath of the world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Both Hanuman and the Mahabharata hero Bhima are called spiritual sons of Vayu, the wind god, which is why Hanuman is also known as Pavanaputra, son of the wind.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vayu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Agni, guardian of the south-east, has seven tongues of flame in the Mundaka Upanishad. The Rigveda has over 200 hymns for him, and his name appears in nearly a third of its 1,028 hymns.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agni",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Indra's elephant Airavata is also called the elephant of the clouds. His consort's name, Abhramu, means one who binds the clouds, which fits the old link between elephants and rain.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Java and Bali have their own nine-fold set, the Dewata Nawa Sanga, with Shiva at the centre and Vishnu north, Brahma south, Isvara east and Mahadeva west. It appears on the Surya Majapahit emblem.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guardians_of_the_directions",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Indra, guardian of the east, is the sole dedicatee of about 250 hymns of the Rigveda, roughly a quarter of its 1,028 hymns, which makes him its most-praised god.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Badami Cave 3, dated by inscription to 578 CE, has a ceiling of painted panels with Shiva, Vishnu, Indra, Brahma and Kama, with small Dikpala figures in the corners.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Badami_cave_temples",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Japanese Buddhism the twelve guardian devas, the Jūni-ten, were made by adding four to an older group of eight direction guardians. The twelve include Indra as Taishakuten and Kubera as Bishamon.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jain temples also carve direction guardians, but a Naga usually takes the place of Vishnu in the nadir, the downward direction.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dikpala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The name Nirriti means absence of order. A Rigveda hymn asks her to leave the sacrifice, and a Taittiriya Brahmana passage pictures her as dark, while the Atharvaveda gives her golden locks.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nirrti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Vedic tradition Yama, guardian of the south, was the first mortal to die and find the path to the world of the departed. His name means twin, and two four-eyed dogs guard his road.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

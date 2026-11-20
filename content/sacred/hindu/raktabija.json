@@ -1,0 +1,204 @@
+{
+  "slug": "raktabija",
+  "name": "Raktabija",
+  "aka": ["Raktavija", "Blood-seed asura"],
+  "native": "रक्तबीज",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura general in the Devi Mahatmya",
+  "summary": "Raktabija is an asura commander whose spilled blood is said to make more copies of him, until the Goddess and Kali found a way to end the battle.",
+  "about": "In the Devi Mahatmya's eighth chapter, Raktabija is a great asura who strides in with a club as his army is driven back; many summaries say Shumbha and Nishumbha sent him. One Puranic account says he carries a boon from Shiva: each drop of his blood falling to earth sprouts a new warrior as strong as he is. Every wound therefore made the field more crowded, and the Matrikas, the goddesses who joined the battle, struggled. In the Devi Mahatmya the Goddess tells Kali to open her mouth wide and take in the blood; the Devi Bhagavata Purana has Durga give her the same instruction. Kali did so, and Raktabija fell. One Puranic account gives him a different birth, as a rebirth of Rambha, the father of Mahishasura. Kali's red tongue in many pictures is linked to a folk tale of the aftermath.",
+  "kidSummary": "In the Devi Mahatmya, Raktabija is an asura soldier with a strange gift: each drop of his blood that touches the ground becomes another warrior like him. The Goddess and Kali solve the puzzle by catching every drop, and the battle ends.",
+  "story": [
+    {
+      "title": "A general with a gift",
+      "text": "Raktabija was an asura general who rushed into the fight against the Goddess. He had a boon that made a new copy of him appear from each drop of his blood."
+    },
+    {
+      "title": "More and more of him",
+      "text": "Whenever he was wounded, new warriors appeared. The more the Goddess's helpers struck, the more asuras filled the field."
+    },
+    {
+      "title": "The goddesses struggle",
+      "text": "The Matrikas, the mother goddesses who joined the fight, found that striking him only made the crowd bigger."
+    },
+    {
+      "title": "The plan",
+      "text": "Durga asked Kali to open her wide mouth and drink his blood before a drop could reach the ground."
+    },
+    {
+      "title": "Kali drinks",
+      "text": "Kali took in every drop, so no new copies could appear, and the real Raktabija grew weaker."
+    },
+    {
+      "title": "The end",
+      "text": "With no more copies to appear, Raktabija fell, the Matrikas danced with joy, and the gods who had been worried cheered."
+    }
+  ],
+  "teaches": [
+    "Clever thinking can solve what force cannot",
+    "Trouble multiplies when it is fed",
+    "Teamwork wins hard battles"
+  ],
+  "symbol": "flame",
+  "emblems": ["Boon of blood-copies", "Weapons carried by each copy"],
+  "family": [
+    {
+      "relation": "Served",
+      "name": "Shumbha and Nishumbha",
+      "slug": "shumbha-and-nishumbha"
+    },
+    {
+      "relation": "Fought",
+      "name": "Kali",
+      "slug": "kali"
+    },
+    {
+      "relation": "Fought",
+      "name": "Durga",
+      "slug": "durga"
+    },
+    {
+      "relation": "Said by some to be reborn from",
+      "name": "Rambha"
+    }
+  ],
+  "texts": ["Devi Mahatmya (Markandeya Purana)", "Devi Bhagavata Purana"],
+  "places": ["Utthanahalli, Mysuru"],
+  "festivals": ["Navaratri", "Durga Puja"],
+  "facts": [
+    {
+      "text": "In one Puranic account, Rambha, Mahishasura's father, rose again from the same funeral pyre as Raktabija, standing beside his newborn son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Raktabija",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Folklore says that after the battle Kali ran wild until Shiva lay in her path, and when she stepped on him she stuck out her tongue in embarrassment, a scene in many paintings.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Raktabija",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Puranic account, Shiva's boon meant every drop of blood falling on the field made another Raktabija, matching the original in strength, form and weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Raktabija",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Puranic story of his origin, Rambha's brother Karambha is drowned when Indra, disguised as a crocodile, drags him underwater by the feet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Raktabija",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, Indra's Shakti strikes him first with a thunderbolt, and each Matrika's blow after that, with discus, club, spear, sword or trident, only makes more of him.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Raktabija strikes each of the Mothers in turn with his club, and in the Devi Mahatmya the blood-born copies fill the whole world.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Devi Mahatmya says the gods fell into utmost terror as the asuras born of his blood spread everywhere, before Chandika called to Kali.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When he strikes Chandika with his club, the Devi Mahatmya says the blow does not trouble her even slightly.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The name Raktabija literally means blood seed, from rakta for blood and bija for seed.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Raktabija",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata retelling kept on Kamakoti, he welcomes more and more wounds, because every drop of blood would grow into another Raktabija.",
+      "kind": "text",
+      "source": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Utthanahalli, at the foot of Chamundi Hill, the Jwalamalini Tripura Sundari temple honours a goddess seen as Chamundeshwari's sister who helped slay Raktabija.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chamundeshwari_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he finally falls bloodless, the Devi Mahatmya says the band of Mothers breaks into a dance and the gods rejoice.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Raktabija roughly mean?",
+      "options": ["Fire-seed", "Blood-seed", "Moon-seed", "Iron-seed"],
+      "answer": 1,
+      "why": "Rakta means blood and bija means seed."
+    },
+    {
+      "q": "What happened to each drop of his blood?",
+      "options": [
+        "It turned to water",
+        "It became a new copy of him",
+        "It vanished",
+        "It healed him"
+      ],
+      "answer": 1,
+      "why": "Each drop was said to sprout another warrior like him."
+    },
+    {
+      "q": "Who drank his blood so no drops could fall?",
+      "options": ["Kali", "Lakshmi", "Sita", "Ganga"],
+      "answer": 0,
+      "why": "Kali did, as the Goddess told her in the Devi Mahatmya and Devi Bhagavata Purana."
+    },
+    {
+      "q": "Whom did Raktabija serve?",
+      "options": ["Ravana", "Shumbha and Nishumbha", "Kamsa", "Hiranyakashipu"],
+      "answer": 1,
+      "why": "He joined their war against the Goddess."
+    }
+  ],
+  "related": ["shumbha-and-nishumbha", "kali", "durga", "mahishasura", "andhaka", "saptamatrikas"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Raktabija",
+    "devi-mahatmya": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "matrikas": "https://en.wikipedia.org/wiki/Matrikas",
+    "chamunda": "https://en.wikipedia.org/wiki/Chamunda",
+    "markandeya-ch88": "https://www.wisdomlib.org/hinduism/book/the-markandeya-purana/d/doc117167.html",
+    "andhaka": "https://en.wikipedia.org/wiki/Andhaka",
+    "dbp-summary": "https://kamakoti.org/kamakoti/details/devibhagvatpurana42.html",
+    "chamundeshwari": "https://en.wikipedia.org/wiki/Chamundeshwari_Temple",
+    "rambha": "https://en.wikipedia.org/wiki/Rambha_(asura)"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#e6c2c2",
+    "c2": "#d9d0e8"
+  },
+  "order": 500
+}

@@ -1,0 +1,230 @@
+{
+  "slug": "kaushalya",
+  "name": "Kaushalya",
+  "aka": ["Kausalya", "Mata Kaushalya"],
+  "native": "कौसल्या",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Dasharatha's eldest queen and Rama's mother",
+  "summary": "In the Valmiki Ramayana, Kaushalya is the first queen of King Dasharatha and mother of Rama. She is remembered for her patience and for sending Rama to the forest with her blessing.",
+  "about": "Kaushalya is the eldest queen of Dasharatha of Ayodhya and the mother of Rama. The Valmiki Ramayana calls her the daughter of a king of Kosala and never names her parents, while later texts give them as Sukaushala and Amritaprabha. When Dasharatha held the Putrakameshti sacrifice, she received half of the divine pudding. When Rama was exiled, she wanted to go with him but he asked her to stay and care for the household. The Ramayana shows her facing grief and sometimes anger, which shows her as more human than the flawless heroes around her. Some traditions say she was Dhara in a past life and that Vishnu promised to be born as her son. The Mata Kaushalya Temple in Chandkhuri, Chhattisgarh, is dedicated to her.",
+  "kidSummary": "Kaushalya is Rama's loving mother in the Ramayana and the king's first queen. When Rama had to leave for the forest, she was very sad but blessed him and let him go. She is remembered for her patience, love and quiet strength.",
+  "story": [
+    {
+      "title": "A queen with a wish",
+      "text": "Queen Kaushalya and King Dasharatha longed for children. They joined a great sacrifice led by the sage Rishyashringa."
+    },
+    {
+      "title": "Half the pudding",
+      "text": "A divine bowl of sweet pudding was shared among the queens. Kaushalya received half, and in time she gave birth to Rama."
+    },
+    {
+      "title": "Rama grows up",
+      "text": "Kaushalya raised Rama with love in Ayodhya. People there said he was kind, calm and loved by everyone."
+    },
+    {
+      "title": "Rama must leave",
+      "text": "On the day Rama was to be named heir, plans changed. He told his mother he must leave for the forest for fourteen years. She wanted to go too, but he asked her to look after the family."
+    },
+    {
+      "title": "A mother's sorrow",
+      "text": "Kaushalya was deeply sad. She and Dasharatha even ran after Rama's chariot, until Rama asked the charioteer to hurry."
+    },
+    {
+      "title": "The queen mother",
+      "text": "After fourteen years, Rama came home and was crowned. Kaushalya was honoured as the queen mother, and people loved her for her patience."
+    }
+  ],
+  "teaches": [
+    "Patience in hard times",
+    "A mother's love and letting go",
+    "Faith that things can work out"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Lamp (diya)", "Golden bowl of the sacred pudding (in the story)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Son",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Sumitra",
+      "slug": "sumitra"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Kaikeyi",
+      "slug": "kaikeyi"
+    },
+    {
+      "relation": "Daughter-in-law",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Daughter in some versions",
+      "name": "Shanta"
+    },
+    {
+      "relation": "Grandsons",
+      "name": "Lava and Kusha"
+    }
+  ],
+  "texts": ["Valmiki Ramayana (Ayodhya Kanda)", "Padma Purana", "Ramcharitmanas (Tulsidas)"],
+  "places": ["Chandkhuri (Chhattisgarh)", "Ayodhya", "Dakshina Kosala"],
+  "festivals": ["Rama Navami"],
+  "facts": [
+    {
+      "text": "The Mata Kaushalya Temple at Chandkhuri, Chhattisgarh, is described as the only temple in the world for her; its idol shows her with baby Rama in her lap, and it stands in a lake reached by the Hanuman Pul bridge.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mata_Kaushalya_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Because Kaushalya is said to be from Chhattisgarh, the state is called Rama's maternal home, and the Ram Van Gaman Path of exile stops began with this temple's restoration in 2021.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mata_Kaushalya_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ramcharitmanas, Kaushalya first sees Vishnu in a vast divine form with countless universes in the pores of his body, then asks him to become a human baby, and he turns into a crying newborn.",
+      "kind": "story",
+      "source": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After Rama's birth, Tulsidas says, the sun forgot to set over Ayodhya and there was no night for a whole month, though nobody noticed.",
+      "kind": "story",
+      "source": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After a night spent worshipping Vishnu for her son, Kaushalya ran to greet Rama like a mare to her foal; hearing of the exile she fell like a branch cut by an axe, and Rama gently brushed off the dust.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423967",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As Rama left, Kaushalya gave him a healing wood called Vishalya-karani and invoked the gods, seasons, mountains and rivers to guard him from demons and wild animals in the forest.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423972.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Chitrakuta Kaushalya saw the plain funeral ball Rama had made from wild fruit pulp for Dasharatha, and grieved that a great king should be given such a humble offering.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424080",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Rama said he must go, Kaushalya told him not to, saying she would live on herbs beside him in the forest, or stop eating if he left. Rama answered that obeying his father was dharma.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423968",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Angry with grief, Kaushalya spoke sharply to the king, who begged her with joined palms to stop. She apologised, saying the five nights since the exile had felt like five years.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424039",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Uttara Kanda, Kaushalya, surrounded by her sons and grandsons, was the first of the three queens to pass away, and Rama gave gifts to ascetics in her memory.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424874",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In Tulsidas's Ramcharitmanas, what did Kaushalya ask Vishnu to become after she saw his divine form?",
+      "options": ["A crying newborn baby", "A golden deer", "A great bird", "A mountain"],
+      "answer": 0,
+      "why": "She asked him to take the form of a human baby, and he became a crying newborn."
+    },
+    {
+      "q": "Whom does the idol at the Chandkhuri temple show Kaushalya holding in her lap?",
+      "options": ["Baby Rama", "Lakshmana", "Sita", "Bharata"],
+      "answer": 0,
+      "why": "The idol shows her with infant Rama."
+    },
+    {
+      "q": "What did Tulsidas say happened to the sun after Rama's birth?",
+      "options": [
+        "It forgot to set for a month",
+        "It turned blue",
+        "It split in two",
+        "It hid behind the moon"
+      ],
+      "answer": 0,
+      "why": "He says there was no night over Ayodhya for a whole month."
+    },
+    {
+      "q": "In which state is the Mata Kaushalya Temple?",
+      "options": ["Kerala", "Chhattisgarh", "Punjab", "Assam"],
+      "answer": 1,
+      "why": "It is at Chandkhuri near Raipur."
+    },
+    {
+      "q": "What did Rama ask Kaushalya to do instead of going to the forest?",
+      "options": [
+        "Stay and care for the household",
+        "Rule Lanka",
+        "Teach Lava and Kusha",
+        "Visit Mithila"
+      ],
+      "answer": 0,
+      "why": "He reminded her of her duties at the palace."
+    }
+  ],
+  "related": [
+    "rama",
+    "dasharatha",
+    "sumitra",
+    "kaikeyi",
+    "sita",
+    "manthara",
+    "lakshmana",
+    "bharata-ramayana"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaushalya",
+    "temple": "https://en.wikipedia.org/wiki/Mata_Kaushalya_Temple",
+    "kosala": "https://en.wikipedia.org/wiki/Dakshina_Kosala",
+    "putrakameshti": "https://en.wikipedia.org/wiki/Putrakameshti",
+    "tulsidas": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+    "ayodhya75": "https://www.valmikiramayan.net/utf8/ayodhya/sarga75/ayodhyasans75.htm",
+    "ayodhya25": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423972.html",
+    "ayodhya66": "https://www.valmikiramayan.net/utf8/ayodhya/sarga66/ayodhyasans66.htm",
+    "ayodhya20": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423967.html",
+    "ayodhya43": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423990.html",
+    "kausalya": "https://en.wikipedia.org/wiki/Kausalya",
+    "ayodhya103": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424080",
+    "ayodhya62": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424039",
+    "uttara99": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424874",
+    "ayodhya21": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423968"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f1dfc6",
+    "c2": "#e0d7ea"
+  },
+  "order": 500
+}

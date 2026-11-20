@@ -1,0 +1,260 @@
+{
+  "slug": "dharanendra",
+  "name": "Dharanendra",
+  "aka": ["Dharan", "Nagaraja Dharanendra"],
+  "native": "धरणेन्द्र",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Serpent king and yaksha, protector of Parshvanatha",
+  "summary": "Dharanendra is the Jain serpent king of the underworld. Jain tradition says he was a snake saved by Parshvanatha and later shielded the Tirthankara from a storm with a canopy of hoods.",
+  "about": "Dharanendra is a snake lord worshipped in Jainism as the yaksha, or attendant protector, of Parshvanatha, the 23rd Tirthankara. Digambara tradition tells that Parshvanatha, then a prince, rescued a pair of snakes from a log burning in a sorcerer's fire, and that the two were reborn as Dharanendra, lord of the snake realm, and Padmavati. When a hostile being named Kamatha, reborn as Meghamali or Sambara, sent a storm on the meditating Tirthankara, Dharanendra is said to have sheltered him under his hoods. One scholar sees him as the Jain counterpart of the Brahmanical serpent Shesha. Many Jains honour him, though the two main sects tell his story differently, and sources disagree on which sect uses his name for the yaksha.",
+  "kidSummary": "Dharanendra is a king of snakes in Jain stories. Long ago, the Tirthankara Parshvanatha saved a snake from a fire. Later, when a great storm fell on Parshvanatha during meditation, the snake, now Dharanendra, spread a big hood over him like an umbrella.",
+  "story": [
+    {
+      "title": "A prince sees a fire",
+      "text": "Jain tradition says Prince Parshvanatha once saw an ascetic named Kamatha burning logs. Inside a log, a pair of snakes were trapped."
+    },
+    {
+      "title": "Saved by kindness",
+      "text": "Parshvanatha had the log opened and the snakes saved. The snakes, a naga and his mate, were deeply grateful."
+    },
+    {
+      "title": "A new birth",
+      "text": "In the Digambara telling, the naga was later reborn as Dharanendra, lord of the snake realm, and his mate as Padmavati."
+    },
+    {
+      "title": "A storm during meditation",
+      "text": "Years later, Parshvanatha sat meditating. Kamatha, reborn as Meghamali, sent heavy rain and floods to disturb him."
+    },
+    {
+      "title": "An umbrella of hoods",
+      "text": "Dharanendra rose and held a canopy of many hoods over the Tirthankara. Padmavati coiled around him as well. The storm could not harm him."
+    }
+  ],
+  "teaches": [
+    "Kindness is never wasted",
+    "Gratitude to those who help us",
+    "Calmness through a storm"
+  ],
+  "symbol": "wave",
+  "emblems": ["Snake-hood canopy", "Serpent (nagaraja)"],
+  "family": [
+    {
+      "relation": "Consort (Digambara tradition)",
+      "name": "Padmavati",
+      "slug": "padmavati"
+    },
+    {
+      "relation": "Tirthankara he protects",
+      "name": "Parshvanatha",
+      "slug": "parshvanatha"
+    },
+    {
+      "relation": "Fellow protector deities",
+      "name": "Ambika",
+      "slug": "ambika"
+    },
+    {
+      "relation": "Fellow protector deities",
+      "name": "Chakreshvari",
+      "slug": "chakreshvari"
+    }
+  ],
+  "texts": [
+    "Sutrakritanga (Mahavira-stava)",
+    "Kalpa Sutra",
+    "Uvasaggaharam Stotra",
+    "Dharnoraga-stotra"
+  ],
+  "places": ["Akkana Basadi, Shravanabelagola", "Ahichchhatra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Digambara telling, he and Padmavati were a snake pair trapped in a burning log, which Prince Parshvanatha ordered to be rescued from the sorcerer Kamatha's fire.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dharanendra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Kamatha, reborn as Meghamali, sent a storm during Parshvanatha's meditation, Dharanendra shielded him under a many-hooded canopy, in Jain tradition.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dharanendra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Seven-headed snake hoods over Parshvanatha are a common sign in his images, and the earliest known examples are from the 1st century BCE.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahichchhatra in Uttar Pradesh, where Parshvanatha is said to have gained omniscience, is traditionally explained as meaning 'snake umbrella'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tellings cast Kamatha as Parshvanatha's elder brother in an earlier birth, who wronged him. The Ahichchhatra story names either Kamatha or Meghamali as the one who sent the storm.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Trishashti-shalaka-purusha-charitra, the naga king Dharana, in the age of Rishabhanatha long before Parshvanatha, makes Nami and Vinami lords of the Vidyadharas. Nami founds fifty cities and Vinami sixty on Vaitadhya mountain.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212453.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Iconography texts give the yaksha of Parshvanatha a tortoise as his mount, along with snake hoods and a snake in his hand.",
+      "kind": "symbol",
+      "source": "https://jainqq.org/pagetext/Jaina_Iconography/011018/120",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One scholar reads the tortoise mount as a sign that he rules over Kamatha, Parshvanatha's long-time enemy, who is linked with the tortoise.",
+      "kind": "symbol",
+      "source": "https://jainqq.org/pagetext/Jaina_Iconography/011018/121",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His name points to Shesha, the snake who in Brahmanical lore holds up the earth on his hoods, and one scholar calls him the Jain adaptation of that figure.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Arhat_Parshva_and_Dharnendra_Nexus/002108/25",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia's article on Parshvanatha says Shvetambara art shows his yaksha as a Ganesha-like figure, while Digambara art shows him with Dharanendra.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sources disagree on which sect uses which name. Jainpedia says Shvetambaras call Parshvanatha's yaksha Dharanendra, and Digambaras call him Parshva or Matanga, the other way round from Wikipedia's Parshvanatha article.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shvetambara texts picture Parshvanatha's yaksha with four hands holding a mongoose, a snake, a citrus fruit and another snake. Digambara texts list a snake, a noose and a boon-giving hand.",
+      "kind": "symbol",
+      "source": "https://jainqq.org/pagetext/Jaina_Iconography/011018/120",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says the Shvetambara tradition does not list Padmavati among Dharanendra's queens. That is why Padmavati is called his consort only in the Digambara telling.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dharanendra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jain texts of roughly the 1st to 4th century CE, several of the later agamas, name him lord of the Nagakumara class of gods.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Arhat_Parshva_and_Dharnendra_Nexus/002108/25",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His earliest mention is in the Mahavira-stava of the Sutrakritanga, about the 2nd century BCE, where he appears as a comparison for Mahavira.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Arhat_Parshva_and_Dharnendra_Nexus/002108/25",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A late 15th or early 16th-century Gujarati Kalpa Sutra page in the V&A shows the story in two scenes: a prince on an elephant ordering a snake saved, and the snake king's seven-headed hood.",
+      "kind": "art",
+      "source": "https://collections.vam.ac.uk/item/O143129",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "An 8th-century relief at the Kalugumalai Jain Beds in Tamil Nadu shows Parshvanatha with his yaksha Dharanendra.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One scholar says the snake-canopy scene in the Shvetambara telling took the place of an earlier hill motif from the Krishna story, which would link the tale to Govardhana.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Arhat_Parshva_and_Dharnendra_Nexus/002108/25",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jainpedia says the bond between Dharanendra and Parshvanatha is well established, while Padmavati's link to Parshvanatha does not show up in art before the tenth century.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Western Ganga text says the naga king Dharanendra was worshipped by people hoping to have sons.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dharanendra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Tirthankara did Dharanendra protect?",
+      "options": ["Mahavira", "Parshvanatha", "Rishabhanatha", "Neminatha"],
+      "answer": 1,
+      "why": "Dharanendra shielded the 23rd Tirthankara, Parshvanatha."
+    },
+    {
+      "q": "What does Dharanendra spread over Parshvanatha?",
+      "options": ["A tent", "A canopy of snake hoods", "A lotus leaf", "His wings"],
+      "answer": 1,
+      "why": "Tradition says he held a canopy of many snake hoods over him."
+    },
+    {
+      "q": "Who is his consort in Digambara tradition?",
+      "options": ["Ambika", "Chakreshvari", "Padmavati", "Trishala"],
+      "answer": 2,
+      "why": "Padmavati is his consort in the Digambara story."
+    },
+    {
+      "q": "In the story, what did Prince Parshvanatha rescue from a log in a sorcerer's fire?",
+      "options": ["A snake", "A lion", "A deer", "A bird"],
+      "answer": 0,
+      "why": "Jains say the snake he saved was reborn as Dharanendra."
+    },
+    {
+      "q": "What does Ahichchhatra, the place linked to the snake canopy, mean?",
+      "options": ["Snake umbrella", "Golden gate", "River of milk", "Lotus garden"],
+      "answer": 0,
+      "why": "Its name is traditionally explained as 'snake umbrella'."
+    }
+  ],
+  "related": ["parshvanatha", "padmavati", "ambika", "chakreshvari", "neminatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dharanendra",
+    "parshvanatha": "https://en.wikipedia.org/wiki/Parshvanatha",
+    "vam": "https://collections.vam.ac.uk/item/O143129",
+    "jain_nexus": "https://jainqq.org/pagetext/Arhat_Parshva_and_Dharnendra_Nexus/002108/25",
+    "jainpedia": "https://jainpedia.org/themes/practices/deities/padmavati",
+    "padmavati": "https://jainpedia.org/themes/practices/deities/padmavati",
+    "trishashti": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212453.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e3ddb5",
+    "c2": "#c6dfd2"
+  }
+}

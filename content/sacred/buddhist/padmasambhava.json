@@ -1,0 +1,272 @@
+{
+  "slug": "padmasambhava",
+  "name": "Padmasambhava",
+  "aka": ["Guru Rinpoche", "Lotus-Born", "Urgyen Rinpoche"],
+  "native": "पद्मसम्भव",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Tantric master who carried Buddhism to Tibet",
+  "summary": "Padmasambhava, called Guru Rinpoche, is remembered as a teacher from India who helped bring Buddhism to Tibet and Bhutan in the 8th century.",
+  "about": "Tibetan and Bhutanese tradition honours Padmasambhava, whose name means Lotus-Born, as a tantric master from Oddiyana who helped bring Buddhism to Tibet in the 8th century. Early sources link him to King Trisong Detsen and the building of Samye Monastery. Tradition holds that he subdued local spirits, hid teachings called termas for later discovery, and taught disciples including Yeshe Tsogyal. Accounts of his birth differ: one says he appeared in a lotus, another that he was born to a queen. Historians note that firm records are thin, and the Nyingma school treats him as a founding figure.",
+  "kidSummary": "Padmasambhava, also called Guru Rinpoche, is loved in Tibet and Bhutan. His name means Lotus-Born, because one story says he appeared inside a lotus flower. Tales say he flew to a cliff cave in Bhutan on a tigress.",
+  "story": [
+    {
+      "title": "A child in a lotus",
+      "text": "One tradition says an eight-year-old boy appeared inside a lotus on Lake Dhanakosha, surrounded by gentle beings called dakinis."
+    },
+    {
+      "title": "A teacher grows",
+      "text": "He learned many kinds of Buddhist and yogic teachings and became a wise teacher, travelling to places like Nepal and Tibet."
+    },
+    {
+      "title": "The flames become a lotus",
+      "text": "At Rewalsar Lake, a king tried to burn him. People found him sitting calmly in a lotus, and the king bowed to him."
+    },
+    {
+      "title": "Helping Tibet",
+      "text": "King Trisong Detsen invited him to Tibet. Tradition says he calmed local spirits that kept troubling the building of Samye Monastery."
+    },
+    {
+      "title": "The tiger's nest",
+      "text": "Bhutanese legend says he flew to a cliff on a tigress and meditated in a cave. Today a monastery called Tiger's Nest stands there."
+    }
+  ],
+  "teaches": [
+    "Calm courage in trouble",
+    "Wisdom and compassion work together",
+    "Sharing teachings for the future"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Lotus hat (five petals, vulture feather)",
+    "Khatvanga staff",
+    "Vajra and skull cup",
+    "Vajra Guru mantra"
+  ],
+  "family": [
+    {
+      "relation": "Student and spiritual companion",
+      "name": "Yeshe Tsogyal"
+    },
+    {
+      "relation": "Spiritual companion",
+      "name": "Mandarava"
+    }
+  ],
+  "texts": [
+    "Testament of Ba",
+    "The Copper Palace (Zangling Ma)",
+    "Lotus Testament",
+    "Bardo Thodol (terma tradition)"
+  ],
+  "places": [
+    "Paro Taktsang (Tiger's Nest)",
+    "Samye Monastery",
+    "Rewalsar Lake",
+    "Lukhang Temple, Lhasa",
+    "Pharping"
+  ],
+  "festivals": ["Paro Tsechu"],
+  "facts": [
+    {
+      "text": "Terma means hidden treasure: Padmasambhava and Yeshe Tsogyal are said to have hidden teachings in the 8th century, to be found by treasure-finders called tertons when the time was right.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Terma_(religion)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One birth tradition says he appeared as an eight-year-old child inside a lotus on Lake Dhanakosha, surrounded by dakinis.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tibetan accounts say the walls of Samye kept collapsing at a certain stage of building; workers feared a demon in a nearby river, so the king invited Padmasambhava to help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samye",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In his life story, a staff he carried accidentally killed a minister, and this led to his exile from Oddiyana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Rewalsar Lake, a king who tried to burn Padmasambhava and Mandarava found them sitting unharmed in a lotus and offered them his kingdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Tiger's Nest, Paro Taktsang, clings to a cliff about 900 metres above the Paro valley around a cave where he is said to have meditated.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Legend says he flew to the Tiger's Nest cave on a tigress. Accounts differ on who she was: a woman he transformed, or an emperor's former wife and disciple who changed herself into a tigress.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Most Bhutanese tshechu festivals unfurl a thongdrel, a giant appliqued painting of Padmasambhava, raised before dawn and rolled away by morning; seeing it is said to cleanse sins.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tshechu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yeshe Tsogyal, his chief Tibetan consort and student, is revered as the 'Mother of Buddhism' in Tibet; she helped him hide termas and is widely seen as a female Buddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The first full biography is the Copper Palace, a terma said to have been revealed by Nyangrel Nyima Ozer; scholars note he appears in tantric ritual and lore up to two centuries earlier.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Copper Palace says that after King Trisong Detsen died, Padmasambhava travelled to Lanka to teach its fierce rakshasas, advising them to honour Avalokiteshvara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is quoted as saying that a human body is the basis for awakening, male or female, and that if a woman develops the wish to awaken, her body is the better one.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tshechu literally means 'tenth day': each Bhutanese district holds one on the tenth day of a lunar month, and the gatherings double as fairs where far-apart villages meet and trade.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tshechu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His pure land, in tradition, is Zangdok Palri, the Copper-Coloured Mountain.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 123-foot (37.5 m) statue of Padmasambhava was consecrated above Rewalsar Lake in 2012 by the 14th Dalai Lama, after nearly ten years of building.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rewalsar_Lake",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In his fierce form Dorje Drolo, 'Crazy Wisdom', he is shown dancing on a tiger, and tradition counts 13 emanations for the 13 Tiger's Nest caves.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says he and Mandarava practised long-life rituals in Nepal's Maratika Cave and received the blessing of immortality from Amitayus, the Buddha of long life.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Bhutan's Bumthang valley he is said to have hidden many treasures in Membartsho, the Burning Lake.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Samye holds a statue called 'looks like me' that tradition says Padmasambhava blessed in person.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Another birth story says he was born from Queen Jalendra's womb in Oddiyana and named Dorje Duddul, 'Vajra Demon-Tamer', after body marks read as signs of a demon tamer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Tibetan account says Padmasambhava performed a sacred dance to prepare the ground for Samye and calm local spirits, then set up a thread-cross.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samye",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Testament of Ba dates Samye's founding to a 'hare year' and its consecration to a 'sheep year', which scholars read as 763 or 775 and 767 or 779.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Samye",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Reed islands drift on Rewalsar Lake and are said to hold his spirit; the lake is also sacred to Hindus and Sikhs, and Guru Gobind Singh stayed there for a month.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rewalsar_Lake",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Padmasambhava's name mean?",
+      "options": ["Mountain-Born", "Lotus-Born", "Sun-Born", "River-Born"],
+      "answer": 1,
+      "why": "Padma means lotus and sambhava means born."
+    },
+    {
+      "q": "In Bhutanese legend, what did he ride to the Tiger's Nest?",
+      "options": ["An elephant", "A horse", "A tigress", "An eagle"],
+      "answer": 2,
+      "why": "Legend says he flew on a tigress."
+    },
+    {
+      "q": "Which country is the Tiger's Nest monastery in?",
+      "options": ["Bhutan", "Japan", "Sri Lanka", "Thailand"],
+      "answer": 0,
+      "why": "Paro Taktsang is in the Paro valley of Bhutan."
+    },
+    {
+      "q": "Which was Tibet's first Buddhist monastery?",
+      "options": ["Tabo", "Samye", "Shaolin", "Nalanda"],
+      "answer": 1,
+      "why": "Samye was founded in the 8th century under King Trisong Detsen."
+    }
+  ],
+  "related": ["gautama-buddha", "avalokiteshvara", "tara", "nagarjuna", "vajrapani"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Padmasambhava",
+    "tigersnest": "https://en.wikipedia.org/wiki/Paro_Taktsang",
+    "samye": "https://en.wikipedia.org/wiki/Samye"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f4dfe0",
+    "c2": "#f2e8c8"
+  },
+  "years": "c. 8th century CE",
+  "order": 20
+}

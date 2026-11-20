@@ -1,0 +1,280 @@
+{
+  "slug": "yamuna",
+  "name": "Yamuna",
+  "aka": ["Yami", "Kalindi", "Suryatanaya", "Suryaja", "Ravinandini"],
+  "native": "यमुना",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "River goddess, daughter of Surya",
+  "summary": "Yamuna is the goddess of the river Yamuna, said in Hindu texts to be the sun god's daughter and the twin sister of Yama. She is closely tied to Krishna's childhood in Vrindavan.",
+  "about": "Yamuna is worshipped both as a river and as a goddess. In the Puranas she is the daughter of the sun god Surya and his wife Sanjna, and the twin sister of Yama, lord of death; some sources instead call her a daughter of Brahma. Early texts call her Yami, and later literature calls her Kalindi. She is linked with Krishna in many stories: tradition says she parted her waters when Vasudeva carried baby Krishna across, and the Bhagavata Purana lists Kalindi among Krishna's eight chief consorts. Hindus count her among the holiest rivers, and the Mahabharata and Puranas praise bathing in her waters. Her source shrine, Yamunotri, is in the Garhwal Himalayas, and she is remembered each year on Bhai Dooj.",
+  "kidSummary": "Yamuna is a river goddess. Hindu stories say she is the child of the Sun and the twin sister of Yama. She also helped baby Krishna by making a path through her water. On Bhai Dooj, sisters pray for their brothers, and many people remember Yamuna and Yama's special bond that day.",
+  "story": [
+    {
+      "title": "Daughter of the Sun",
+      "text": "In the Puranas, Yamuna is born to Surya, the sun god, and his wife Sanjna. Her twin brother is Yama, the lord of death."
+    },
+    {
+      "title": "A flowing goddess",
+      "text": "She becomes a river that starts in the Himalayas near Yamunotri. Many people call her Kalindi, and her dark waters are known all over north India."
+    },
+    {
+      "title": "A night crossing",
+      "text": "In the Krishna story, Vasudeva had to carry newborn Krishna across a flooded river at night. Yamuna made her water part so he could cross safely."
+    },
+    {
+      "title": "Playing in Vrindavan",
+      "text": "Krishna grew up near her banks in Vrindavan. He played with friends on her shore and met the snake Kaliya in her waters."
+    },
+    {
+      "title": "Brother and sister",
+      "text": "Tradition remembers the bond between Yami and Yama on the festival of Bhai Dooj, when sisters pray for their brothers to be happy and safe."
+    }
+  ],
+  "teaches": [
+    "Love between brothers and sisters",
+    "Rivers are living gifts to respect",
+    "Help given at the right time can change a life"
+  ],
+  "symbol": "wave",
+  "emblems": ["Tortoise (mount)", "Water pot (kalasha)", "Dark flowing water"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Twin brother",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Brother",
+      "name": "Shani",
+      "slug": "shani"
+    },
+    {
+      "relation": "Brothers",
+      "name": "The Ashvins",
+      "slug": "ashvins"
+    },
+    {
+      "relation": "Consort in the Bhagavata Purana",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Rigveda (the Yama and Yami hymn)",
+    "Bhagavata Purana",
+    "Vamana Purana",
+    "Agni Purana",
+    "Taittiriya Samhita"
+  ],
+  "places": ["Yamunotri", "Mathura", "Vrindavan", "Prayagraj (Triveni Sangam)"],
+  "festivals": ["Bhai Dooj (Bhau-beej)", "Yamuna Chhath"],
+  "facts": [
+    {
+      "text": "Since the Gupta era, temple doorjambs have often carried Yamuna paired with Ganga, so the two river goddesses welcome visitors at the entrance.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A tale explains her name: when Sanjna shut her eyes against Surya's heat he named their son Yama, and when her eyes flickered he named their daughter Yamuna, blessing her to be worshipped.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Maitrayani Samhita, Yami keeps mourning Yama until the gods create night, so she can feel time passing and stop grieving.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Bhai Dooj, also called Bhau-beej, honours Yami and Yama. Sisters pray for their brothers, and one prayer asks the brother to enjoy the food she offers, to please both Yama and Yamuna.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vamana Purana says that Shiva's grief for Sati turned the Yamuna's clear water black.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one tale, Balarama pulls the river toward him with his plough when she does not come, flooding the forest so he can bathe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Yamunotri, pilgrims first worship a rock called Divya Shila beside the hot spring Surya Kund before they make offerings to the goddess Yamuna.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yamunotri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pilgrims at Yamunotri tie rice and potatoes in muslin cloth, cook them in the hot springs near the temple and carry the rice home as prasada.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Yamunotri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Yamuna Chhath, or Yamuna Jayanti, falls on the sixth day of Chaitra's bright half and marks her descent. At Mathura and Vrindavan, devotees may drape a huge stitched chunari across the river from boats.",
+      "kind": "festival",
+      "source": "https://www.drikpanchang.com/festivals/yamuna-chhath/yamuna-chhath-date-time.html?year=2027",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Padma Purana says one careless brother who bathed in the Yamuna for two months at a sage's hermitage was granted heaven, while his equally careless brother was not.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Agni Purana pictures Yamuna as dark in colour, standing on a tortoise and holding a water pot.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yamuna's brothers include Yama, the first man Vaivasvata Manu, the twin Ashvins who are divine healers, and the planet Saturn. Her mother is a goddess of clouds, and Yamuna is described as Surya's favourite child.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Krishna birth story, Yamuna wanted to touch the baby's feet and rose to deeper levels to do so, which is why the river became calm.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vedic belief makes Yama the Lord of Death and his twin Yami the Lady of Life, a divine pair.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Pushtimarg tradition, Vallabhacharya wrote the Yamunashtak, the first of his Sodasha Granth, in praise of Yamuna, and followers honour her as Krishna's fourth consort.",
+      "kind": "text",
+      "source": "https://www.hindu-blog.com/2022/10/yamunashtak-of-vallabhacharya-meaning.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one tale, the serpent Kaliya left his island home to hide from Garuda in the Yamuna at Vrindavan. Krishna danced on his heads until Kaliya gave in, and then sent him away from the river.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaliya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Pandavas' capital Indraprastha, in modern Delhi, stood on the Yamuna. In the Bhagavata Purana, Krishna and Arjuna stop at her bank to bathe and drink there, and meet Kalindi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As Kalindi, she is one of Krishna's eight principal consorts, the Ashtabharya, and the Bhagavata Purana says she had ten sons, including Shruta.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The temple at Yamunotri has a black marble deity. Sources disagree on its builder: one says Sundarshan Shah of Tehri built it in 1839 on the site of a small older shrine, while another credits Maharaja Pratap Shah of Tehri Garhwal.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yamunotri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vishram Ghat in Mathura is where the circuit pilgrimage of the city begins and ends. Tradition says Krishna rested there after defeating Kamsa, though the Varaha Purana says the ghat is named for Vasudeva's rest.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vishram_Ghat",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Taittiriya Samhita says Yama is Agni, fire, and Yami is the earth, so the twins also appear as fire and earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Yamuna's twin brother in Hindu texts?",
+      "options": ["Yama", "Indra", "Agni", "Kubera"],
+      "answer": 0,
+      "why": "Yamuna, also called Yami, is the twin sister of Yama, the lord of death."
+    },
+    {
+      "q": "What did Yamuna do when Vasudeva carried baby Krishna across?",
+      "options": ["Dried up", "Turned to ice", "Parted her waters", "Sent a boat"],
+      "answer": 2,
+      "why": "In the story she made a path so Vasudeva could cross safely."
+    },
+    {
+      "q": "Which festival honours the bond of Yami and Yama?",
+      "options": ["Navratri", "Bhai Dooj", "Holi", "Onam"],
+      "answer": 1,
+      "why": "On Bhai Dooj, sisters pray for their brothers, remembering Yami and Yama."
+    },
+    {
+      "q": "What do pilgrims cook in the hot springs near Yamunotri?",
+      "options": ["Bread", "Fish", "Lentil soup", "Rice and potatoes"],
+      "answer": 3,
+      "why": "They tie rice and potatoes in muslin, cook them in the springs and take the rice home as prasada."
+    },
+    {
+      "q": "Which weapon did Balarama use to pull the river toward him?",
+      "options": ["Plough", "Bow", "Mace", "Discus"],
+      "answer": 0,
+      "why": "In the tale, Balarama drew the river to him with his plough so he could bathe."
+    }
+  ],
+  "related": [
+    "ganga",
+    "surya",
+    "yama",
+    "krishna",
+    "kaliya",
+    "balarama",
+    "shani",
+    "ashvins",
+    "sati"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yamuna_in_Hinduism",
+    "yamunotri": "https://en.wikipedia.org/wiki/Yamunotri",
+    "yamunaChhath": "https://www.drikpanchang.com/festivals/yamuna-chhath/yamuna-chhath-date-time.html?year=2027"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9dde8",
+    "c2": "#efe5d0"
+  },
+  "order": 8
+}

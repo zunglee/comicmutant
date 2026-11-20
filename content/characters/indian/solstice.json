@@ -1,0 +1,322 @@
+{
+  "slug": "solstice",
+  "name": "Solstice",
+  "realName": "Kiran Singh",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "DC Comics",
+  "summary": "A teenage Delhi-born light-wielder from DC's Teen Titans. Daughter of two archaeologists, she wears a costume of solid light and joined the Titans while searching for her missing parents.",
+  "origin": "Kiran Singh is a teenager from Delhi whose parents, Vijay and Rani Singh, are archaeologists. On a trip to a conference in London she befriends Cassie Sandsmark, Wonder Girl, and helps her fight the villain Lady Zand's rock creatures, announcing her hero name for the first time. Later her parents vanish from a dig at Mohenjo-daro, and the Teen Titans help her find them; she is then invited onto the team.",
+  "creators": ["J.T. Krul (writer)", "Nicola Scott (artist)"],
+  "firstAppearance": {
+    "title": "Teen Titans (vol. 3)",
+    "issue": "#88",
+    "year": 2010
+  },
+  "powers": [
+    "Generates and projects concussive blasts of golden light",
+    "Costume made of solid light that she can create and dissolve at will",
+    "Flight"
+  ],
+  "affiliations": ["Teen Titans", "The Doomed (India's sanctioned team)"],
+  "storyline": [
+    {
+      "era": "Preview",
+      "years": "2010",
+      "title": "A silent cameo",
+      "beat": "She first shows up unnamed in a montage of upcoming events (#88, October 2010), standing near the new Aqualad, and gets her civilian name, Kiran, in #89 the next month."
+    },
+    {
+      "era": "Origin",
+      "years": "2011",
+      "title": "Wonder Girl one-shot",
+      "beat": "In a January 2011 one-shot she meets Cassie Sandsmark in London, helps stop Lady Zand's raid on an exhibit, and first uses the name Solstice."
+    },
+    {
+      "era": "Titans",
+      "years": "2011",
+      "title": "Parents in peril",
+      "beat": "Her parents disappear during a dig at Mohenjo-daro. After an adventure with the Teen Titans she rescues them and is invited to join the team."
+    },
+    {
+      "era": "Titans",
+      "years": "2011",
+      "title": "The Legion of Doom",
+      "beat": "In her last story with the original team she faces the Legion of Doom and joins Miss Martian to defeat Sun Girl."
+    },
+    {
+      "era": "New 52",
+      "years": "2011 onward",
+      "title": "A darker reboot",
+      "beat": "After DC's reboot she is kidnapped by the secret group N.O.W.H.E.R.E., which alters her powers and leaves her with a black, smoky look."
+    },
+    {
+      "era": "Doomsday Clock",
+      "years": "2018",
+      "title": "India's team",
+      "beat": "In Doomsday Clock she appears as a member of the Doomed, the superhero team sanctioned by India."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Mohenjo-daro, where her parents go missing, is in India.",
+      "truth": "The ancient city lies in Sindh, Pakistan, though it belongs to the same Indus Valley civilisation that spread into northern India.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her best friend Cassie is a demigoddess whose father is Zeus, a surprise for a girl whose parents study ancient history for a living.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Before writing her debut, co-creator J.T. Krul worked as a production coordinator on the sitcom Seinfeld.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Cassie Sandsmark is always the daughter of Zeus.",
+      "truth": "Cassie's origin was changed after the 2011 reboot: her father became a demigod named Lennox, making Zeus her grandfather.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which city does Kiran Singh first meet Wonder Girl?",
+      "options": ["Delhi", "London", "Karachi", "Paris"],
+      "answer": 1,
+      "why": "The two meet at an archaeology conference in London."
+    },
+    {
+      "q": "What are Kiran Singh's parents' jobs?",
+      "options": ["Archaeologists", "Doctors", "Pilots", "Journalists"],
+      "answer": 0,
+      "why": "Vijay and Rani Singh are archaeologists who travel to dig sites around the world."
+    },
+    {
+      "q": "What is Solstice's costume made from?",
+      "options": ["Silk", "Armour plates", "Solid light", "Ice"],
+      "answer": 2,
+      "why": "She can create and dissolve a costume of solid light at will."
+    },
+    {
+      "q": "Where do Kiran Singh's parents vanish during a dig?",
+      "options": ["Mohenjo-daro", "Giza", "Petra", "Machu Picchu"],
+      "answer": 0,
+      "why": "They disappear from an archaeological dig at Mohenjo-daro, which lies in Sindh, Pakistan."
+    },
+    {
+      "q": "Who is the villain Solstice and Wonder Girl fight at the London museum?",
+      "options": ["Lady Zand", "Sun Girl", "Raven", "Deathstroke"],
+      "answer": 0,
+      "why": "Lady Zand's army of rock creatures attacks the exhibit, and she escapes."
+    },
+    {
+      "q": "Which India-sanctioned team does Solstice join in Doomsday Clock?",
+      "options": ["The Doomed", "The Titans", "The Outsiders", "Young Justice"],
+      "answer": 0,
+      "why": "Doomsday Clock #5 shows her as a member of the Doomed."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f5b83a",
+      "c2": "#6b3a00",
+      "c3": "#fff3b0"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "A sunrise you can wear."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Solstice_(character)",
+    "doomsday": "https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)",
+    "wonderGirl": "https://en.wikipedia.org/wiki/Wonder_Girl_(Cassie_Sandsmark)",
+    "mohenjo": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+    "helena": "https://en.wikipedia.org/wiki/Helena_Sandsmark",
+    "krul": "https://en.wikipedia.org/wiki/J._T._Krul",
+    "scott": "https://en.wikipedia.org/wiki/Nicola_Scott",
+    "teenTitans": "https://en.wikipedia.org/wiki/Teen_Titans"
+  },
+  "timeline": [
+    {
+      "year": 2010,
+      "kind": "debut",
+      "title": "Silent cameo",
+      "note": "Teen Titans (vol. 3) #88 shows her unnamed in a preview montage."
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "Wonder Girl one-shot",
+      "note": "She first appears as Solstice and teams up with Cassie Sandsmark."
+    },
+    {
+      "year": 2011,
+      "kind": "comic",
+      "title": "Joins the Titans",
+      "note": "After her parents vanish at Mohenjo-daro, she is invited onto the Teen Titans."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "New 52 reboot",
+      "note": "DC's reboot reshapes her into a black, smoky look at the hands of N.O.W.H.E.R.E."
+    },
+    {
+      "year": 2018,
+      "kind": "comic",
+      "title": "Joins the Doomed",
+      "note": "Doomsday Clock #5, released 30 May 2018, shows her as part of the Doomed, the team sanctioned by India."
+    }
+  ],
+  "facts": [
+    {
+      "text": "When Cassie reveals she is Wonder Girl, Kiran forms a golden costume on the spot and tells her to call her Solstice; together they beat back Zand's rock creatures, though Zand escapes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Solstice_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Her archaeologist parents were digging at Mohenjo-daro alongside Helena Sandsmark, who is Cassie's mother, so two heroes' parents shared a dig.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Solstice_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Her costume is made of solid light that she can create and dissolve at will, so she never changes clothes in the usual way.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Solstice_(character)",
+      "interest": 8
+    },
+    {
+      "text": "In Teen Titans (vol. 4) #2 (December 2011), after DC's New 52 reboot, the group N.O.W.H.E.R.E. kidnapped her and altered her powers, leaving her with a black, smoky appearance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Solstice_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In the Titans' search for her parents, DC's story pits them against a villain called King Rankor, whom the comic describes as a Hindu god, and his demon minions in a lost kingdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Helena_Sandsmark",
+      "interest": 8
+    },
+    {
+      "text": "Solstice drives off Rankor's demons with a blinding pulse of light, which a Titans biography calls the most brilliant display of her powers up to that point.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Helena_Sandsmark",
+      "interest": 8
+    },
+    {
+      "text": "Before writing comics, her co-creator J.T. Krul worked on the sitcom Seinfeld in Los Angeles, starting as a production assistant and rising to production coordinator in its final season.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/J._T._Krul",
+      "interest": 8
+    },
+    {
+      "text": "Her co-creator Nicola Scott is an artist from Sydney who tried acting first, then switched to comics in 2001 by painting covers for an Australian series called The Watch.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Nicola_Scott",
+      "interest": 8
+    },
+    {
+      "text": "Scott drew every issue of Teen Titans (vol. 3) from #88 until the series ended with #100 in October 2011, the whole stretch in which Solstice arrived and joined.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Nicola_Scott",
+      "interest": 7
+    },
+    {
+      "text": "In 2016 Scott and writer Greg Rucka relaunched Wonder Woman for DC Rebirth, so Solstice's artist later drew the heroine whose sidekick Cassie was Solstice's best friend.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Nicola_Scott",
+      "interest": 7
+    },
+    {
+      "text": "Solstice debuted in the Wonder Girl one-shot of January 2011 but reached the main Teen Titans book only after its crossover with Red Robin, in which Tim rejoined as Red Robin and Cassie stayed team leader.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans",
+      "interest": 7
+    },
+    {
+      "text": "Teen Titans' history lists Solstice among the notable newer members of the 2000s-era team, alongside Miss Martian, Supergirl and Blue Beetle (Jaime Reyes).",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans",
+      "interest": 7
+    },
+    {
+      "text": "The New 52 reboot changed Cassie's own backstory too: her father became a British demigod named Lennox, making Zeus her grandfather, so Solstice's friend lost her old origin the way Solstice got a new look.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Girl_(Cassie_Sandsmark)",
+      "interest": 7
+    },
+    {
+      "text": "Cassie first got her powers from borrowed artefacts, the Sandals of Hermes and the Gauntlet of Atlas, and she once wore a black wig over her blonde hair to look like Donna Troy.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Wonder_Girl_(Cassie_Sandsmark)",
+      "interest": 7
+    },
+    {
+      "text": "Mohenjo-daro, where her parents dig, has a name that Sindhi speakers read as Mound of the Dead, and in 1980 it became the first UNESCO World Heritage Site in South Asia.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+      "interest": 8
+    },
+    {
+      "text": "The ruins went undocumented for about 3,700 years until R.D. Banerji of the Archaeological Survey of India visited in 1919-1920, expecting only a Buddhist stupa, and a flint scraper he found hinted at the site's far greater age.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+      "interest": 8
+    },
+    {
+      "text": "Mohenjo-daro had over 700 wells, about one for every three houses, a number unheard of among its Egyptian and Mesopotamian contemporaries.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mohenjo-daro",
+      "interest": 7
+    },
+    {
+      "text": "Her 2018 appearance comes in Doomsday Clock, a 12-issue series by Geoff Johns and Gary Frank that was the first official crossover between Watchmen and the mainstream DC Universe.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Doomsday_Clock_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "The issue that gave Kiran her name, Teen Titans (vol. 3) #89, is also the issue in which Damian Wayne, Batman's son and the current Robin, officially joined the team.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Teen_Titans",
+      "interest": 8
+    },
+    {
+      "text": "Before Teen Titans, Nicola Scott drew Birds of Prey and Secret Six with writer Gail Simone, and her 2010 Titans job began with issue #88, the same issue that carried Solstice's first cameo.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Nicola_Scott",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Solstice is Kiran Singh, a teenage DC hero from Delhi who can make light blasts and a costume of glowing light. She becomes friends with Wonder Girl and joins the Teen Titans.",
+  "story": [
+    {
+      "title": "A girl from Delhi",
+      "text": "Kiran's parents are archaeologists, and she travels with them to see old places around the world."
+    },
+    {
+      "title": "Meeting Wonder Girl",
+      "text": "At a museum in London she meets Cassie, who is secretly Wonder Girl. When a villain attacks, Kiran makes a costume of golden light."
+    },
+    {
+      "title": "A hero name",
+      "text": "She tells Cassie to call her Solstice, and together they chase off the villain's rock monsters."
+    },
+    {
+      "title": "Missing parents",
+      "text": "Her parents go missing at an old dig in Mohenjo-daro. The Teen Titans help her find them, and she is invited to join the team."
+    },
+    {
+      "title": "Later adventures",
+      "text": "After DC's reboot her look changes, and years later she appears on a team of heroes sanctioned by India."
+    }
+  ]
+}

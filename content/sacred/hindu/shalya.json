@@ -1,0 +1,268 @@
+{
+  "slug": "shalya",
+  "name": "Shalya",
+  "aka": ["Madraraja", "Artayani", "Balhika Pungava", "King of Madra"],
+  "native": "शल्य",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "King of Madra, uncle of Nakula and Sahadeva",
+  "summary": "In the Mahabharata, Shalya is the king of Madra and the brother of Madri. He is tricked into fighting for the Kauravas, drives Karna's chariot and falls to Yudhishthira.",
+  "about": "In the Mahabharata, Shalya is the king of Madra, a kingdom in the northwest, and the brother of Madri, Pandu's wife, which makes him the uncle of Nakula and Sahadeva. The epic says that, on his way to join the Pandavas, he was warmly welcomed by Duryodhana's men and, bound by his word, agreed to fight for the Kauravas. He privately wished the Pandavas victory, and the epic says he used his job as Karna's charioteer to weaken Karna's confidence. After Karna fell he commanded the Kaurava army on the last day, and was defeated by Yudhishthira. The Adi Parva calls him a rebirth of Samhlada, brother of Prahlada. The Madrakas are also recorded in a 4th-century inscription of Samudragupta.",
+  "kidSummary": "Shalya is a king of Madra in the Mahabharata and the uncle of Nakula and Sahadeva. He wanted to join the Pandavas, but a clever trick by Duryodhana led him to fight on the other side. The epic says he kept his promise, but secretly hoped the Pandavas would win.",
+  "story": [
+    {
+      "title": "A king and his sister",
+      "text": "In the Mahabharata, Shalya is king of Madra. His sister Madri marries King Pandu, and her sons Nakula and Sahadeva become Shalya's nephews."
+    },
+    {
+      "title": "A clever trick",
+      "text": "Shalya travels to join the Pandavas. Duryodhana's men secretly prepare wonderful meals and tents for him, and Shalya thanks the generous hosts without knowing who they are."
+    },
+    {
+      "title": "A promise is a promise",
+      "text": "Duryodhana reveals himself and asks for a favour. Shalya has promised a boon, so he agrees to fight for the Kauravas, even though he loves the Pandavas."
+    },
+    {
+      "title": "The charioteer",
+      "text": "Yudhishthira asks Shalya to cheer the Pandava side by bringing down Karna's pride. When Shalya drives Karna's chariot, he keeps telling him about Arjuna's strengths."
+    },
+    {
+      "title": "The last commander",
+      "text": "After Karna falls, Shalya leads the Kaurava army on the final day. He is defeated by Yudhishthira, and his story ends there."
+    }
+  ],
+  "teaches": [
+    "Keeping your word matters",
+    "Be careful whose kindness you accept",
+    "Loyalty can be torn between family and promise"
+  ],
+  "symbol": "bow",
+  "emblems": ["Spear (shalya means pike)", "Chariot and horses"],
+  "family": [
+    {
+      "relation": "Sister",
+      "name": "Madri",
+      "slug": "madri"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Nakula",
+      "slug": "nakula"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Sahadeva",
+      "slug": "sahadeva"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Pandu",
+      "slug": "pandu"
+    },
+    {
+      "relation": "Charioteer of",
+      "name": "Karna",
+      "slug": "karna"
+    },
+    {
+      "relation": "Slain by",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    }
+  ],
+  "texts": ["Mahabharata (Udyoga Parva, Karna Parva, Shalya Parva)", "Bhagavata Purana"],
+  "places": ["Madra", "Sagala", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Shalya means a pike or spear. The same word names a spear-head in a Shiva Purana description of Shiva's divine chariot, and the Indian porcupine in a Sanskrit bird-and-beast treatise.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/shalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Draupadi's svayamvara Shalya failed to string the bow. Later, at the wedding, Bhima beat him in a mace fight, and the two did not know each other.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madra_kingdom",
+      "interest": 7
+    },
+    {
+      "text": "Shalya marched toward the Pandavas with an army. Duryodhana's men secretly set up lavish camps and feasts along the way, and Shalya thought the Pandavas were the hosts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Shalya praised his generous hosts, Duryodhana stepped forward and claimed the thanks. Shalya offered him a boon, and Duryodhana asked him to fight for the Kauravas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 8
+    },
+    {
+      "text": "Shalya brought a full akshauhini, and the epic says his camp spread across about a yojana and a half. He marched by slow stages to rest his troops on the way to the Pandavas.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05008.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Shalya reached the Pandavas he embraced Yudhishthira, Bhima, Arjuna and his sister's twin sons. Yudhishthira did not blame him for his promise to Duryodhana, but asked one favour: to drive Karna's chariot and dishearten him.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05008.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shalya agreed, saying Karna thought him Krishna's equal as a charioteer. He promised to speak words that would drain Karna's pride before his duel with Arjuna.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05008.htm",
+      "interest": 8
+    },
+    {
+      "text": "To comfort Yudhishthira, Shalya told an old story of Indra's own troubles, which begins with Tvashtri's three-headed son and the making of the being Vritra.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05009.htm",
+      "interest": 8
+    },
+    {
+      "text": "Duryodhana asked Shalya to drive Karna's chariot and he accepted reluctantly, a request shown in a Razmnama illustration. Yudhishthira had asked him to shake Karna's nerve, and in the Karna Parva he keeps praising Arjuna.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 8
+    },
+    {
+      "text": "When Karna threatened to kill Shalya, he answered with the tale of the swan and the crow, a story about arrogance, according to the Karna Parva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The epic says that Shalya stopped Karna from killing Nakula, Sahadeva and Yudhishthira during the Karna Parva fighting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7
+    },
+    {
+      "text": "Shalya also presented Yudhishthira with a sword and a golden jar at his coronation, and Wikipedia notes he took part in the Rajasuya sacrifice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7
+    },
+    {
+      "text": "In the Karna Parva Shalya also consoled Karna when Bhima's power had unnerved him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7
+    },
+    {
+      "text": "Shalya is listed among the warriors who guarded Jayadratha against Arjuna on the day of Arjuna's sunset vow (Drona Parva, chapter 145).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 7
+    },
+    {
+      "text": "When Karna and Shalya quarrelled, Karna scorned the Madra and Vahika lands and their customs. Shalya answered calmly that every country has good and bad people, and pointed to faults among Karna's Anga people. Duryodhana ended it.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m08/m08045.htm",
+      "interest": 7
+    },
+    {
+      "text": "In the Shalya Parva, Ashwatthama proposed Shalya as the new commander. He praised his birth, prowess and fame, and noted that Shalya had left his own sister's sons to side with Duryodhana.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09006.htm",
+      "interest": 8
+    },
+    {
+      "text": "Duryodhana likened Shalya to Skanda leading the gods and asked him to take command. Shalya answered that his life, kingdom and wealth were at Duryodhana's service.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09006.htm",
+      "interest": 7
+    },
+    {
+      "text": "After Karna's fall, Shalya became the last commander of the Kaurava army on the eighteenth day. One Purana summary says he led for half a day before Yudhishthira ended his life.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/shalya",
+      "interest": 7
+    },
+    {
+      "text": "On the last day Sanjaya describes Shalya fighting alone against the whole Pandava army, and calls it a wonderful feat.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09016.htm",
+      "interest": 8
+    },
+    {
+      "text": "Yudhishthira's chariot had lost its horses and driver when he took up a dart with a golden, jewelled handle, charged it with mantras and hurled it. In the Shalya Parva that single dart ends Shalya's fight.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09017.htm",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose brother was Shalya?",
+      "options": ["Kunti", "Madri", "Gandhari", "Draupadi"],
+      "answer": 1,
+      "why": "Madri, Pandu's second wife, was his sister."
+    },
+    {
+      "q": "How did Duryodhana win Shalya's support?",
+      "options": ["By a lavish welcome", "By a duel", "By a letter", "By a gift of horses"],
+      "answer": 0,
+      "why": "Duryodhana's men secretly set up generous hospitality, so Shalya felt bound to repay it."
+    },
+    {
+      "q": "Whose chariot did Shalya drive in the war?",
+      "options": ["Duryodhana's", "Karna's", "Bhishma's", "Drona's"],
+      "answer": 1,
+      "why": "He was Karna's charioteer."
+    },
+    {
+      "q": "Which story did Shalya tell Karna about arrogance?",
+      "options": [
+        "The tortoise and the hare",
+        "The swan and the crow",
+        "The lion and the mouse",
+        "The fox and the crane"
+      ],
+      "answer": 1,
+      "why": "The Karna Parva has the swan and the crow tale."
+    },
+    {
+      "q": "What does the word shalya mean?",
+      "options": ["Pike or spear", "Lotus", "River", "Moon"],
+      "answer": 0,
+      "why": "Shalya means a pike."
+    }
+  ],
+  "related": [
+    "madri",
+    "nakula",
+    "sahadeva",
+    "pandu",
+    "karna",
+    "duryodhana",
+    "yudhishthira",
+    "bhima"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shalya",
+    "wisdomlib": "https://www.wisdomlib.org/definition/shalya",
+    "madra": "https://en.wikipedia.org/wiki/Madra_kingdom",
+    "shalya_parva": "https://en.wikipedia.org/wiki/Shalya_Parva",
+    "karna_parva_ganguli": "https://www.ibiblio.org/sripedia/ebooks/mb/m08/m08045.htm",
+    "ganguli_udyoga8": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05008.htm",
+    "ganguli_udyoga9": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05009.htm",
+    "ganguli_shalya_parva6": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09006.htm",
+    "ganguli_shalya_parva16": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09016.htm",
+    "ganguli_shalya_parva17": "https://www.ibiblio.org/sripedia/ebooks/mb/m09/m09017.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9b8a0",
+    "c2": "#eee4cf"
+  },
+  "order": 500
+}

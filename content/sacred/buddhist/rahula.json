@@ -1,0 +1,237 @@
+{
+  "slug": "rahula",
+  "name": "Rahula",
+  "aka": ["Rahula the Lucky", "Rahula-bhadda"],
+  "native": "राहुल",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Son of the Buddha and first novice monk",
+  "summary": "Rahula was the only child of Siddhartha and Yashodhara. Buddhist tradition remembers him as the first novice monk, a student eager to learn, and one of the Buddha's Ten Principal Disciples.",
+  "about": "In Buddhist tradition, Rahula was the son of Prince Siddhartha and Yashodhara. Accounts differ on when he was born: Pali tradition says on the day his father left home, while another tradition says he was born six years later on the day of awakening. His name is linked to the word rahu, which tradition connects with an obstacle. As a child he joined the Buddha's order and is regarded as the first novice, ordained by Sariputta. Texts give his age as somewhere between seven and fifteen. The Buddha taught him about honesty and reflection in the Ambalatthika-Rahulovada Sutta, and the Pali tradition says he became an arahant, praised as foremost among those eager to train. Tradition also counts him among the sixteen elders who guard the teaching until the future Buddha Maitreya comes. Different traditions tell his death differently.",
+  "kidSummary": "Rahula was the son of Prince Siddhartha, who became the Buddha. He joined his father's community as a young boy, the first novice monk. The Buddha taught him to always be honest and to think before acting, and Rahula grew up to be a careful and eager learner.",
+  "story": [
+    {
+      "title": "A prince's son",
+      "text": "Rahula was born to Prince Siddhartha and Yashodhara. Before long his father left the palace to find the way to end suffering."
+    },
+    {
+      "title": "Asking for his inheritance",
+      "text": "When the Buddha visited Kapilavastu, Rahula's mother sent him to ask for his inheritance. Many stories say the Buddha then welcomed him into the order."
+    },
+    {
+      "title": "The first novice",
+      "text": "Rahula became a novice monk, ordained by the Buddha's disciple Sariputta. Tradition says he was the first to join in this way, and he was very young."
+    },
+    {
+      "title": "The water dipper",
+      "text": "In the Mango Stone sutta, the Buddha showed him a dipper with a little water, then tipped it out and turned it over. He taught that a person who lies without shame becomes empty inside, like the dipper."
+    },
+    {
+      "title": "Look in the mirror",
+      "text": "The Buddha also taught Rahula to think before, during and after every action, as one looks in a mirror, and to keep what is kind and helpful."
+    }
+  ],
+  "teaches": [
+    "Always tell the truth, even in jest",
+    "Think before, during and after every action",
+    "Eager and humble learning"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Water dipper (from the sutta)", "Mirror (from the sutta)"],
+  "family": [
+    { "relation": "Father", "name": "Siddhartha Gautama, the Buddha", "slug": "gautama-buddha" },
+    { "relation": "Mother", "name": "Yashodhara", "slug": "yashodhara" },
+    { "relation": "Grandfather", "name": "Suddhodana", "slug": "suddhodana" },
+    { "relation": "Teacher and preceptor", "name": "Sariputta", "slug": "sariputta" }
+  ],
+  "texts": ["Ambalatthika-Rahulovada Sutta (MN 61)", "Mahavastu", "Apadana", "Lotus Sutra"],
+  "places": ["Kapilavastu", "Savatthi", "Andhavana", "Rajagriha (Mango Stone)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name is tied to the word rahu. Tradition says his father felt a fetter had arisen, and the Apadana compares the birth to Rahu blocking the moon.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pali tradition says he was born on the day his father left, but Mulasarvastivada texts say he was born six years later on the day of the Buddha's awakening.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "Early medieval Chinese and Japanese accounts say young Rahula struggled at first as a novice and only later came to value the Buddha's teaching, a different picture from the eager boy of the Pali texts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His ordination upset his grandfather so much that, in tradition, the Buddha agreed to require parental consent for future ordinations.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8
+    },
+    {
+      "text": "In a Mulasarvastivada story, the Buddha made everyone around him look exactly like himself, and young Rahula still walked straight up to his real father.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In MN 61 the Buddha washes his feet, leaves a little water in a dipper and tips it out and over to show Rahula that lying without shame makes a person hollow.",
+      "kind": "teaching",
+      "source": "https://dhammatalks.org/suttas/MN/MN61.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the same sutta, the Buddha compares a person who lies shamelessly to a war elephant that holds back nothing, trunk included, so he will do any harm.",
+      "kind": "teaching",
+      "source": "https://dhammatalks.org/suttas/MN/MN61.html",
+      "interest": 7
+    },
+    {
+      "text": "The Buddha asked Rahula what a mirror is for. The answer, reflection, led to the lesson to check one's actions before, during and after.",
+      "kind": "teaching",
+      "source": "https://dhammatalks.org/suttas/MN/MN61.html",
+      "interest": 8
+    },
+    {
+      "text": "In the Mahavastu the royals tried to keep Rahula from learning that his father was coming, but he insisted on knowing who the 'Great Ascetic' about to arrive was, and was told.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As a novice, he is said to have slept in an outdoor toilet to follow the rule that novices may not share a room with fully ordained monks. When the Buddha heard, he scolded the monks for neglecting novices and changed the rule.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says every morning he threw a handful of sand into the air, wishing for as many teachers as the grains of sand.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Pali Udana the Buddha listed Rahula among eleven especially praiseworthy disciples, and he was declared foremost among disciples in eagerness for learning.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8
+    },
+    {
+      "text": "Xuanzang wrote that he had heard Rahula was still alive as an old man, having delayed his nirvana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "The Lotus Sutra predicts that Rahula will become a buddha named 'Stepping on Seven Treasure Flowers'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "When the boy followed his father out of Kapilavastu to ask for his inheritance, the Pali story says he told him his shadow was pleasant. The Buddha then decided to give him an inheritance that could never be lost.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some texts explain Rahula's six-year wait to be born by a past life: as King Surya he forgot for six days about his hermit brother, who was the Buddha in an earlier life. A 13th-century Japanese text sees a miracle instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chinese sources add that Rahula was foremost in 'practising with discretion', keeping the rules steadily without seeking praise or pride in being the Buddha's son.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "'Rahula the Lucky' came with a twist. He explained that he was lucky twice over: he was the Buddha's son, and he had reached awakening himself.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pali tradition says ten million heavenly beings attended the sermon at which Rahula became enlightened, because they had once vowed to witness the awakening of the Buddha's son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    },
+    {
+      "text": "Mahayana tradition says Rahula is still alive on an island called the 'land of chestnuts and grains', living with 1,100 pupils until the future Buddha Maitreya appears.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At 18, Rahula grew vain about how handsome he and his father looked on the alms round. The Buddha taught him a meditation and a talk on not-self to help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Gandharan art the scene of the Buddha giving Rahula his inheritance is paired with the old tale of Sumedha and Dipankara Buddha. Archaeologist Maurizio Taddei noted both show flames rising from the figures.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rahula",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Rahula's father?",
+      "options": ["Siddhartha", "Ananda", "Sariputta", "Ashoka"],
+      "answer": 0,
+      "why": "Rahula was the son of Siddhartha, who became the Buddha, and Yashodhara."
+    },
+    {
+      "q": "What object did the Buddha use to teach Rahula about lying?",
+      "options": ["A lamp", "A water dipper", "A bell", "A clay pot of rice"],
+      "answer": 1,
+      "why": "In the Mango Stone sutta the Buddha used a water dipper emptied and turned over."
+    },
+    {
+      "q": "What is Rahula traditionally called among monks?",
+      "options": [
+        "The oldest elder",
+        "A wandering poet",
+        "The first novice monk",
+        "The judge of the order"
+      ],
+      "answer": 2,
+      "why": "He is traditionally the first novice monk, ordained by Sariputta."
+    },
+    {
+      "q": "What did Rahula throw into the air each morning, in the story?",
+      "options": ["Flower petals", "Water", "A scarf", "A handful of sand"],
+      "answer": 3,
+      "why": "Tradition says he threw sand, wishing for as many teachers as grains."
+    }
+  ],
+  "related": ["gautama-buddha", "yashodhara", "suddhodana", "sariputta", "devadatta", "angulimala"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rahula",
+    "mn61": "https://dhammatalks.org/suttas/MN/MN61.html"
+  },
+  "depth": "full",
+  "palette": { "c1": "#E3D6B4", "c2": "#BFD3DB" },
+  "years": "c. 6th–5th century BCE",
+  "order": 4
+}

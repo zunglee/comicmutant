@@ -355,7 +355,7 @@ export function SharePanel({
       <h3 id="qz-share-h" className="h-head text-lg">
         Brag about it
       </h3>
-      <div className="mx-auto aspect-[1080/1400] w-full max-w-[18rem] overflow-hidden rounded-md border-[3px] border-line bg-bg shadow-ink-sm">
+      <div className="mx-auto aspect-[1080/1400] w-full max-w-[18rem] overflow-hidden rounded-skin-s border-[3px] border-line bg-bg shadow-ink-sm">
         <canvas
           ref={view}
           role="img"

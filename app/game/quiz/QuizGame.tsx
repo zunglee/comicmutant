@@ -226,7 +226,7 @@ function Panel({
           </p>
         </div>
         <div
-          className="mb-3 h-3 overflow-hidden rounded-full border-2 border-line bg-bg"
+          className="mb-3 h-3 overflow-hidden round border-2 border-line bg-bg"
           role="progressbar"
           aria-label="Time left"
           aria-valuemin={0}
@@ -234,7 +234,7 @@ function Panel({
           aria-valuenow={Math.ceil(s.timeLeft)}
         >
           <div
-            className={`h-full transition-[width] duration-100 ease-linear ${k < 0.33 ? 'bg-[#ff3b30]' : fast ? 'bg-[#3ddc84]' : 'bg-c3'}`}
+            className={`h-full transition-[width] duration-skin-fast ease-linear ${k < 0.33 ? 'bg-[#ff3b30]' : fast ? 'bg-[#3ddc84]' : 'bg-c3'}`}
             style={{ width: `${k * 100}%` }}
           />
         </div>
@@ -379,7 +379,7 @@ function verdict(s: QuizSnapshot, p1: string) {
 function HitStrip({ s, names }: { s: QuizSnapshot; names: [string, string] }) {
   // Nobody hit: the verdict line above already says so.
   if (!s.strikes.length) return null;
-  const chip = 'rounded-full border-2 border-line px-2 py-0.5 font-head text-xs';
+  const chip = 'round border-2 border-line px-2 py-0.5 font-head text-xs';
   return (
     <ol className="my-1 flex flex-wrap items-center gap-1.5" aria-label="Hits this question">
       {s.strikes.map((k) => {
@@ -549,7 +549,7 @@ function HpRow({
         return (
           <div key={w} className={`flex min-w-0 items-center gap-2 ${w ? 'flex-row-reverse' : ''}`}>
             <span className="max-w-[40%] truncate">{names[w]}</span>
-            <div className="h-3 min-w-8 flex-1 overflow-hidden rounded-full border-2 border-line bg-bg">
+            <div className="h-3 min-w-8 flex-1 overflow-hidden round border-2 border-line bg-bg">
               <div
                 className={`h-full transition-[width] duration-300 ${w ? 'ml-auto' : ''}`}
                 style={{ width: `${pct}%`, background: pct < 25 ? '#ff3b30' : colors[w] }}

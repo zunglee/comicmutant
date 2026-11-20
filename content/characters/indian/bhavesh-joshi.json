@@ -1,0 +1,298 @@
+{
+  "slug": "bhavesh-joshi",
+  "name": "Bhavesh Joshi",
+  "realName": "Bhavesh Joshi / Sikander 'Siku' Khanna",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Phantom Films",
+  "summary": "The paper-bag vigilante of Vikramaditya Motwane's 2018 Hindi film Bhavesh Joshi Superhero. A grounded, gritty take on the Indian masked hero set in Mumbai.",
+  "origin": "Bhavesh Joshi comes from a 2018 vigilante film in which three friends meet at an anti-corruption rally and start a YouTube show, Insaaf TV. After Bhavesh is killed, his friend Siku takes up the mask and name to fight a water-siphoning scheme. Vikramaditya Motwane directed.",
+  "creators": [
+    "Vikramaditya Motwane (director, writer)",
+    "Anurag Kashyap (writer)",
+    "Abhay Koranne (writer)",
+    "Vikas Bahl, Madhu Mantena and Anurag Kashyap (producers)"
+  ],
+  "firstAppearance": {
+    "title": "Bhavesh Joshi Superhero",
+    "issue": "Film",
+    "year": 2018
+  },
+  "powers": [
+    "Martial arts and street-fighting skill",
+    "DIY mask with LED eye lights",
+    "Online reach through the Insaaf TV channel"
+  ],
+  "affiliations": ["Insaaf TV"],
+  "storyline": [
+    {
+      "era": "Setup",
+      "years": "2018",
+      "title": "Three friends and a rally",
+      "beat": "Three friends meet at an anti-corruption rally and run a YouTube show, Insaaf TV, exposing local corruption."
+    },
+    {
+      "era": "Turn",
+      "years": "2018",
+      "title": "A vigilante falls",
+      "beat": "Bhavesh grows obsessive about vigilantism and is killed by the water-mafia boss Patil."
+    },
+    {
+      "era": "Mask",
+      "years": "2018",
+      "title": "Siku steps in",
+      "beat": "Siku, who blames himself, secretly takes up the mask and Bhavesh's identity to fight a water scheme backed by a minister."
+    },
+    {
+      "era": "Afterlife",
+      "years": "2018",
+      "title": "Streaming and cult following",
+      "beat": "A box-office bomb in theatres, it reaches Netflix on 16 August 2018. Wikipedia credits its later cult following to the societal relevance of its themes."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Early masks were paper bags with painted faces, which the film's own heroes call DIY.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Imran Khan was first considered for the lead, then Sidharth Malhotra, before Harshvardhan Kapoor got the role after delays.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "The film cost about Rs 21 crore and earned only about Rs 2.52 crore.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The name Insaaf-Man was invented by the character Rajat.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Nishikant Kamat, who plays the villain minister Rana, made his last screen appearance in this film.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of the friends' YouTube show?",
+      "options": ["Hero TV", "Insaaf TV", "Mumbai Live", "Jan Awaaz"],
+      "answer": 1,
+      "why": "The friends run Insaaf TV to expose corruption."
+    },
+    {
+      "q": "Who directed Bhavesh Joshi Superhero?",
+      "options": ["Anurag Kashyap", "Vikramaditya Motwane", "Rohit Shetty", "Zoya Akhtar"],
+      "answer": 1,
+      "why": "Vikramaditya Motwane directed, co-writing with Kashyap and Koranne."
+    },
+    {
+      "q": "Which streaming service premiered the film in August 2018?",
+      "options": ["Hotstar", "Netflix", "Prime Video", "Zee5"],
+      "answer": 1,
+      "why": "It reached Netflix on 16 August 2018."
+    },
+    {
+      "q": "What did the early vigilantes wear on their heads?",
+      "options": ["Paper bags", "Cricket helmets", "Cloth sacks", "Motorbike helmets"],
+      "answer": 0,
+      "why": "They started with paper-bag masks."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#0f766e",
+      "c2": "#111827",
+      "c3": "#facc15"
+    },
+    "motif": "shadow",
+    "mood": "dark",
+    "tagline": "Rain, graffiti and a homemade mask."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+    "filmcompanion": "https://www.filmcompanion.in/bhavesh-joshi-superhero-film-teaser-harshvardhan-kapoor",
+    "dailyo": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+    "dailyexcelsior": "https://www.dailyexcelsior.com/news/archive/bhavesh-joshi-not-asuperhero-film-harshvardhan",
+    "naezy": "https://en.wikipedia.org/wiki/Naezy"
+  },
+  "timeline": [
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Theme single arrives",
+      "note": "The first song, Hum Hain Insaaf by Babu Haabi and Naezy, is released on 12 May 2018."
+    },
+    {
+      "year": 2018,
+      "kind": "screen",
+      "title": "Soundtrack released",
+      "note": "The full soundtrack, composed by Amit Trivedi, comes out on 23 May 2018."
+    },
+    {
+      "year": 2018,
+      "kind": "debut",
+      "title": "Theatrical release",
+      "note": "It opens in India on 1 June 2018 and flops against a Rs 21 crore budget."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Netflix premiere",
+      "note": "It arrives on Netflix on 16 August 2018, after a weak run in cinemas."
+    }
+  ],
+  "heat": 30,
+  "facts": [
+    {
+      "text": "Imran Khan was first picked for the lead, then Sidharth Malhotra. Wikipedia says Malhotra was replaced by Harshvardhan Kapoor because of frequent delays in the film's pre-production.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "It cost about Rs 21 crore and earned only about Rs 2.52 crore, making it a box-office bomb.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "The heroes begin as YouTube hosts, and they wear paper bags with frown faces drawn on them while pulling off small vigilante stunts.",
+      "kind": "origin",
+      "source": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+      "interest": 8
+    },
+    {
+      "text": "The villains fit extra pipes to city water mains to siphon free water into tankers, then sell it back to the residents who were already entitled to it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 8
+    },
+    {
+      "text": "In the early days their crusades are tiny: stopping public urination and chopping down a roadside tree, with videos that get only hundreds of views.",
+      "kind": "story",
+      "source": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+      "interest": 7
+    },
+    {
+      "text": "After Bhavesh is gone, Siku fakes a trip to the US and hides in an abandoned hotel that was once the gang's safe house.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "Siku presents himself on Insaaf TV as the supposedly still-alive Bhavesh Joshi, so he borrows his friend's name along with the mask.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 8
+    },
+    {
+      "text": "Siku trains in karate and eskrima, a Filipino stick-fighting art, and gets a motorcycle fitted with nitro cylinders.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "The villain minister Rana compares Siku to Icarus, who flew too close to the sun, and casts himself as the sun.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "The rap anthem Hum Hain Insaaf was co-sung by Naezy, the Mumbai rapper whose life helped inspire the film Gully Boy.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Naezy",
+      "interest": 7
+    },
+    {
+      "text": "The villains blow up the city's water pipes to cause a drinking-water crisis. Then the minister Rana offers the Chief Minister free water in return for control of future water contracts, and both become popular.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "When Rajat accuses Siku of wanting to be a comic-book hero, Siku answers that he does not want to be a hero at all, only to stop Bhavesh's work from having been for nothing.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhavesh_Joshi_Superhero",
+      "interest": 7
+    },
+    {
+      "text": "In 2016 Harshvardhan Kapoor told PTI the film was not a superhero film, and said he did not know where reports of a Gujarati boy with special powers had come from.",
+      "kind": "culture",
+      "source": "https://www.dailyexcelsior.com/news/archive/bhavesh-joshi-not-asuperhero-film-harshvardhan",
+      "interest": 8
+    },
+    {
+      "text": "Harshvardhan said he and Motwane first discussed the film in 2012. Before shooting he did a workshop from 1 July, asked for two more weeks, and moved in with the actor playing his roommate.",
+      "kind": "creator",
+      "source": "https://www.dailyexcelsior.com/news/archive/bhavesh-joshi-not-asuperhero-film-harshvardhan",
+      "interest": 8
+    },
+    {
+      "text": "The posters were styled like graphic-novel pages, showing the masked silhouette rather than the star, as Motwane said Batman and Superman posters sell the character, not the actor.",
+      "kind": "publishing",
+      "source": "https://www.filmcompanion.in/bhavesh-joshi-superhero-film-teaser-harshvardhan-kapoor",
+      "interest": 8
+    },
+    {
+      "text": "The poster look drew on Mumbai's wall graffiti and anime, with lots of primary colours. Seek Red's Sucharita Sengupta Suri designed them, starting about a year before release.",
+      "kind": "creator",
+      "source": "https://www.filmcompanion.in/bhavesh-joshi-superhero-film-teaser-harshvardhan-kapoor",
+      "interest": 8
+    },
+    {
+      "text": "Posters highlighted the DIY mask with LED lights around the eyes, because the mask plays an important role in the film.",
+      "kind": "powers",
+      "source": "https://www.filmcompanion.in/bhavesh-joshi-superhero-film-teaser-harshvardhan-kapoor",
+      "interest": 7
+    },
+    {
+      "text": "The story starts during the India Against Corruption movement, and DailyO says the film draws its moral drive from the failures of the Anna Hazare-led campaign.",
+      "kind": "story",
+      "source": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+      "interest": 8
+    },
+    {
+      "text": "DailyO notes the film name-checks earlier Indian hero films such as Krrish, Ra.One, Flying Jatt and Shahenshah, and calls it the most realistic vigilante film made in India so far.",
+      "kind": "culture",
+      "source": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+      "interest": 8
+    },
+    {
+      "text": "DailyO's writer spotted Easter eggs in the visuals, homages to Chinatown, The Dark Knight and, in a way, the whole body of Frank Miller's comic work.",
+      "kind": "culture",
+      "source": "https://dailyo.in/arts/bhavesh-joshi-superhero-harshvardhan-kapoor-priyanshu-painyuli-vikramaditya-motwane-bollywood-24633",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Bhavesh and Siku film a YouTube show where they put on paper-bag masks and catch small-time cheats. When their friend Bhavesh is lost fighting a gang that steals the city's water, Siku puts on the mask himself and keeps up the fight as Insaaf-Man. Note: this is a film for older viewers, with violence, not a children's film.",
+  "story": [
+    {
+      "title": "Paper-bag heroes",
+      "text": "Bhavesh, Siku and Rajat become friends and start Insaaf TV, a YouTube show about local wrongdoing."
+    },
+    {
+      "title": "The water scheme",
+      "text": "Bhavesh discovers a gang that siphons the city's free water into tankers and sells it back to residents."
+    },
+    {
+      "title": "A friend lost",
+      "text": "Bhavesh is lost fighting the gang, and Siku blames himself."
+    },
+    {
+      "title": "Siku wears the mask",
+      "text": "Siku hides, trains hard and takes up the mask, even using Bhavesh's name to keep the fight alive."
+    },
+    {
+      "title": "Insaaf-Man",
+      "text": "In the end he fights as himself under the name Rajat invented: Insaaf-Man."
+    }
+  ]
+}

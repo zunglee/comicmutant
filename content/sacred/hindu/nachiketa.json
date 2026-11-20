@@ -1,0 +1,254 @@
+{
+  "slug": "nachiketa",
+  "name": "Nachiketa",
+  "aka": ["Nachiketas", "Nachiketan"],
+  "native": "नचिकेता",
+  "role": "Boy seeker who questions Yama in the Katha Upanishad",
+  "summary": "Nachiketa is the young boy of the Katha Upanishad who waits three days at the house of Yama, the god of death, wins three boons and asks what happens after death.",
+  "about": "Nachiketa is a child hero of the Katha Upanishad, a principal Upanishad of the Krishna Yajurveda. In that text he is the son of the sage Vajashravasa, who is also called Auddalaki Aruni (Uddalaki) in the text and some traditions. When his father gives away poor, worn-out cows in a sacrifice, the boy asks to whom he himself will be given, and the angry father says he is given to Yama. Nachiketa goes to Yama's house, waits three days without food or water, and Yama grants him three boons. For the third boon he asks what happens after death. Yama first tests him with offers of wealth, long life and pleasures, but the boy refuses, and Yama then teaches him about the Self (atman) and Brahman. Nachiketa's name also appears in older texts such as the Taittiriya Brahmana, and in the Mahabharata he is counted among the sages.",
+  "kidSummary": "Nachiketa is a brave, curious boy from an old Upanishad. He walks to the house of Yama, the god of death, and waits politely for three days. Yama is so impressed that he offers three gifts. Nachiketa does not pick toys or treasure. He asks the biggest question of all, and learns to choose what is good over what is merely fun.",
+  "story": [
+    {
+      "title": "A gift that was not enough",
+      "text": "Nachiketa's father gave away cows that were too old to give milk. The boy felt this was not a true gift and asked his father, 'To whom will you give me?'"
+    },
+    {
+      "title": "Sent to Yama",
+      "text": "His father, annoyed by the questions, said he would give Nachiketa to Yama. The boy took these words seriously and went to Yama's house."
+    },
+    {
+      "title": "Three days at the door",
+      "text": "Yama was away, so Nachiketa waited for three days without food or water. When Yama came home, he felt sorry for the guest and offered him three wishes."
+    },
+    {
+      "title": "Three wishes",
+      "text": "Nachiketa asked for peace for his father, then for the lesson of the sacred fire, and last for the secret of what happens after death."
+    },
+    {
+      "title": "Not tempted",
+      "text": "Yama offered gold, long life, children and heavenly delights instead. Nachiketa said these things fade away, and he held to his question until Yama taught him."
+    },
+    {
+      "title": "Home again",
+      "text": "Yama taught him that the true Self does not die. Nachiketa went home calm and wise, and his father, as the first wish had asked, welcomed him without anger."
+    }
+  ],
+  "teaches": [
+    "Choose what is good over what is merely pleasant",
+    "Be patient and keep asking big questions",
+    "Fleeting treasures do not last"
+  ],
+  "symbol": "flame",
+  "emblems": [
+    "Nachiketa fire (sacred fire lesson)",
+    "Three boons",
+    "Chariot of the self (metaphor)"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vajashravasa (also called Auddalaki Aruni)"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Yama",
+      "slug": "yama"
+    }
+  ],
+  "texts": ["Katha Upanishad", "Rigveda 10.135", "Taittiriya Brahmana", "Mahabharata"],
+  "places": ["Yama's house (in the Upanishad)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The words 'arise, awake' come from Katha Upanishad 1.3.14. Swami Vivekananda made the slogan 'Arise, awake, and stop not till the goal is reached' famous in the late 1800s.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Arise,_awake,_and_stop_not_till_the_goal_is_reached",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Yama said even the gods had once been puzzled by the third question, and urged the boy to ask for something else.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nachiketa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Yama compares a person to a chariot: the self is the rider, the body the chariot, the intellect the driver, the mind the reins and the senses the horses.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Yama separates shreya, what is truly good, from preya, what is merely pleasant, and says a wise person chooses the first.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One verse says the path to freedom is as hard to walk as the sharp edge of a razor. Somerset Maugham took the title of The Razor's Edge from it.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Persian translations of the Upanishad in the 17th century were turned into Latin and reached Europe, where the philosopher Schopenhauer praised it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Yama teaches that the Self is smaller than the smallest thing and larger than the largest, a riddle meant to stretch the mind.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Nachiketa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Nachiketa repeats the fire ritual back correctly, Yama is so pleased that he says the rite will carry the boy's name, the Nachiketa fire, and adds a many-coloured chain as an extra gift.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145163.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Upanishad's chariot picture has a cousin in ancient Greece. Plato's dialogue Phaedrus uses a chariot comparison for the soul, and also separates what is merely pleasant from what is truly good, much like Yama's shreya and preya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Katha Upanishad is one of the earliest Sanskrit texts to mention yoga, in the sense of calming the mind to find the Self.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The scholar Paul Deussen noticed that the name Nachiketa may be a wordplay: it can sound like 'what does not decay' or 'what cannot be vanquished', ideas that fit the boy's second and third wishes.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Katha 1.2.18 says the Self is not born and never dies, and is not harmed when the body is. Commentators note that Bhagavad Gita 2.20 restates the same idea.",
+      "kind": "text",
+      "source": "https://www.advaita-vision.org/eight-upanishads-topic-wise-part-18/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Nachiketa asks his father three times, 'To whom will you give me?' before the angry answer comes that he is given to Death. Shankara's commentary says a good son should try to repair his father's flawed gift.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145151.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yama treats the boy as an honoured guest who spent three nights without food. He bows to him and offers one wish for each night, three wishes in all.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145156.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yama tempts him with beautiful celestial attendants, chariots and music. Nachiketa answers that such pleasures last only until tomorrow and wear out the senses, and tells Yama to keep them.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145173.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nachiketa tells Yama that wealth can never truly satisfy a person, and that he could have it anyway just by meeting Yama. So he sticks to the one gift he asked for.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145174.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The heaven that Nachiketa's second wish leads to is described in the Katha Upanishad as a place with no fear, no old age, no hunger or thirst and no grief, where Yama has no power.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145159.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Katha Upanishad pictures the human body as a town with eleven gates that connect a person to the wider world.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Yama warns the boy not to ask about death, Shankara's commentary likens the question to counting a crow's teeth, something that seems pointless to Yama.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145172.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Shankara's commentary on his refusal, even the longest life, even that of the creator Brahma, counts as short, so the offer of a long life does not tempt Nachiketa.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145173.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who does Nachiketa go to meet?",
+      "options": ["Indra", "Yama", "Agni", "Brahma"],
+      "answer": 1,
+      "why": "His father says he is given to Yama, so he goes there."
+    },
+    {
+      "q": "How long does Nachiketa wait at Yama's door?",
+      "options": ["One day", "Three days", "Seven days", "One month"],
+      "answer": 1,
+      "why": "He waits three days without food or water."
+    },
+    {
+      "q": "What does the third boon ask about?",
+      "options": ["Wealth", "A kingdom", "What happens after death", "Long life"],
+      "answer": 2,
+      "why": "His third wish is the secret of life after death."
+    },
+    {
+      "q": "In the chariot picture, what are the senses compared to?",
+      "options": ["Wheels", "Horses", "Flags", "Roads"],
+      "answer": 1,
+      "why": "The senses are the horses that pull the chariot."
+    },
+    {
+      "q": "Which Upanishad tells the story?",
+      "options": ["Katha Upanishad", "Isha Upanishad", "Mandukya", "Kena"],
+      "answer": 0,
+      "why": "The story comes from the Katha Upanishad."
+    }
+  ],
+  "related": ["yama", "agni", "markandeya", "brahma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nachiketa",
+    "katha_upanishad": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+    "advaitaVision": "https://www.advaita-vision.org/eight-upanishads-topic-wise-part-18/",
+    "kathaMuller": "https://www.sacred-texts.com/hin/sbe15/sbe15010.htm",
+    "ariseAwake": "https://en.wikipedia.org/wiki/Arise,_awake,_and_stop_not_till_the_goal_is_reached",
+    "wisdomlibValli1_9": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145156.html",
+    "wisdomlibValli1_16": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145163.html",
+    "wisdomlibValli1_26": "https://www.wisdomlib.org/hinduism/book/katha-upanishad-shankara-bhashya/d/doc145173.html"
+  },
+  "palette": {
+    "c1": "#F3E2B8",
+    "c2": "#CFE0E3"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

@@ -6,7 +6,7 @@
   "medium": "tv",
   "publisher": "DD National (Doordarshan)",
   "summary": "Shaktimaan's ancient archenemy: a 6,000-year-old lord of darkness who wants to rule the world through sin and hatred. Played for most of the run by Surendra Pal.",
-  "origin": "Kilvish was once a human. He tricked Shri Satya, founder of the Suryanshi sect, out of the mystic Shakti Punj and kept half of its power. Chasing immortality, he swapped his mortal body for an ethereal one that cannot be killed in the normal way; the show says it can only be destroyed once the evil in the world is wiped out, and that only the reborn Shri Satya can end him. That is why he fears Shaktimaan. Tamraj suggests a king of darkness.",
+  "origin": "Kilvish was once a human. In the series, he tricked Shri Satya, a leader of the Suryanshi sect, out of the mystic Shakti Punj and kept half of its power. Chasing immortality, he swapped his mortal body for an ethereal one that cannot be killed in the normal way; the show says it can only be destroyed once the evil in the world is wiped out, and that only the reborn Shri Satya can end him. That is why he fears Shaktimaan. Tamraj suggests a king of darkness.",
   "creators": ["Mukesh Khanna (series creator)"],
   "firstAppearance": {
     "title": "Shaktimaan",
@@ -38,7 +38,7 @@
       "era": "Main run",
       "years": "1997–2005",
       "title": "An army of horrors",
-      "beat": "He sends wave after wave of agents at Shaktimaan, including the evil scientist Dr. Jackal, the shapeshifting tantrik Kapala, Stone-man and Electric-man."
+      "beat": "He sends wave after wave of agents at Shaktimaan, including the evil scientist Dr. Jackal, the shapeshifting dark sorcerer Kapala, Stone-man and Electric-man."
     },
     {
       "era": "Prophecy",
@@ -49,29 +49,29 @@
   ],
   "gossip": [
     {
-      "type": "fact",
-      "text": "His followers' slogan, Andhera Kaayam Rahe, wishes for darkness to last forever.",
-      "spice": 1
-    },
-    {
-      "type": "fact",
-      "text": "Early on, viewers never got to see Kilvish's face. When he finally showed up properly, Surendra Pal played him.",
-      "spice": 2
-    },
-    {
-      "type": "fact",
-      "text": "Tamraj suggests king of darkness, and Kilvish echoes the Sanskrit word for sin.",
-      "spice": 1
-    },
-    {
       "type": "myth",
       "text": "Kilvish is simply a demon who was always evil.",
       "truth": "The series says he was once a human being who grew powerful through evil deeds and gave up his body to become immortal.",
       "spice": 2
     },
     {
+      "type": "gossip",
+      "text": "Accounts of his power differ: one says it is the half of the Shakti Punj he kept, another says it is fed by the evil that people commit.",
+      "spice": 2
+    },
+    {
       "type": "fact",
-      "text": "Defeating him in a fight isn't enough. The show says his body can only be destroyed once the evil in the world is gone.",
+      "text": "Faqir Nabi is credited as Kapala, Kilvish's shapeshifting servant, who is also listed as Dr. Sahab.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Crab-man, one of Dr. Jackal's clones, was made by mixing crab cells with a kidnapped Suryanshi, and he breathes poisonous fire.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "A 2005 Diamond Comics Shaktimaan issue, Paap Samraat, tells a longer story of the sorceress Teemira meeting baby Gangadhar.",
       "spice": 2
     }
   ],
@@ -92,6 +92,18 @@
       "options": ["Tom Alter", "Amrish Puri", "Mukesh Khanna", "Surendra Pal"],
       "answer": 3,
       "why": "Surendra Pal took the role once Kilvish's face was finally shown."
+    },
+    {
+      "q": "Which crystal can weaken Shaktimaan?",
+      "options": ["Papmani", "Sooryamani", "Nagmani", "Chandramani"],
+      "answer": 0,
+      "why": "Kilvish holds the Papmani, full of the world's evil."
+    },
+    {
+      "q": "Who alone can destroy Kilvish, according to the series?",
+      "options": ["Dr. Jackal", "Shri Satya, reborn as Shaktimaan", "Geeta Vishwas", "Kapala"],
+      "answer": 1,
+      "why": "The series reveals that Shaktimaan is Shri Satya reborn."
     }
   ],
   "rivals": ["shaktimaan"],
@@ -107,14 +119,15 @@
     "tagline": "Older than history and still scared of sunrise."
   },
   "sources": {
-    "wikipedia": "https://en.wikipedia.org/wiki/Shaktimaan"
+    "wikipedia": "https://en.wikipedia.org/wiki/Shaktimaan",
+    "animated": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series"
   },
   "timeline": [
     {
       "year": 1997,
       "kind": "debut",
       "title": "The faceless dark lord",
-      "note": "Surendra Pal's villain arrives with the series, his face kept in shadow through the early episodes.",
+      "note": "Kilvish arrives with the series as a faceless voice in the early episodes, later played by Surendra Pal.",
       "with": "shaktimaan"
     },
     {
@@ -138,5 +151,168 @@
       "note": "Doordarshan's lockdown rerun puts his darkness-worshipping catchphrase back on India's TV screens."
     }
   ],
-  "heat": 60
+  "heat": 60,
+  "facts": [
+    {
+      "text": "Tamraj means king of darkness, from tama for darkness and raj for king, and Wikipedia's Shaktimaan page glosses Kilvish as shameful.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "His trademark phrase, Andhera Kaayam Rahe, which roughly means May Darkness Prevail, is also chanted by his followers.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 9
+    },
+    {
+      "text": "The series says only Shri Satya can kill Kilvish, and Shaktimaan turns out to be Satya's rebirth, which is why Kilvish fears him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Shaktimaan's only weakness is the Papmani crystal, which Kilvish holds and which is full of the world's evil.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "The series says Kilvish was once a human who grew powerful through evil deeds, then took an ethereal body to chase immortality. It can be destroyed only once all evil is gone.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "In the first episodes his face is never shown and his voice differs from the one heard later, when Surendra Pal plays him.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "Surendra Pal is credited with two roles, Tamraj Kilvish and Guru Sarvagya.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Later in the run Kilvish's face twists into a distorted wolf-like look.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "The series says Kilvish is behind the loss of Shaktimaan's parents and his adoptive father, Pandit Vidyadhar Shastri, which makes the fight personal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Kapala, a dark sorcerer who serves Kilvish, made the Stone-man from his magic skull. Stone-man's glance petrifies and can be reflected back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Dr. Jackal turned to evil after being refused a research scholarship, when Kilvish stepped in with funds and labs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "Kashtak, a servant of Kilvish, was locked away about 2,500 years ago by a lady sage's curse and freed when an archaeological dig opened his sarcophagus.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Kilvish used a smashed Divya mani to control Shaktimaan's mind so that he broke Earth's protective shell, letting the ghost-like Pretolla in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Kitanuman, a creature made of germs, was turned to stone by Shri Satya, then freed to spread germs that age children into old men.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 9
+    },
+    {
+      "text": "Dakoda, a creature made of fire, was woken from thousands of years of sleep by Kilvish and first appeared disguised as Shaktimaan's father, Ranjeet Singh.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "In the 2011 cartoon, Kilvish is not an outsider: he and Vehaan, the young man who becomes Shaktimaan, were both trained by the same seven yogic gurus.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series",
+      "interest": 7
+    },
+    {
+      "text": "Kilvish cursed Shaliyaa into a cat after she failed to stop Major Ranjeet Singh. Years later he sent her sister Shalaka after Shaktimaan, hiding the truth from her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "His animated henchmen Tick and Tock work for him half out of fear and half hoping to get rich, and often foil his plans by accident.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series",
+      "interest": 7
+    },
+    {
+      "text": "The Mahaguru, played by Tom Alter, tells Shaktimaan that his mission is to destroy the sin inside people, not to destroy the sinners.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "Kapala, a corrupted tantrik in Kilvish's service, cracks jokes mid-fight and has a fragile ego that taunts easily rattle, unlike Kilvish's other grim servants.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 7
+    },
+    {
+      "text": "In the 2011 cartoon, Kilvish lives in a dark underground lair, and the seven yogic gurus who trained him and Vehaan have no names. Only the colour of their robes tells them apart.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan:_The_Animated_Series",
+      "interest": 7
+    },
+    {
+      "text": "Kakodar, a sorcerer with a devil's face, was trapped in a statue about 500 years ago and could be freed only if a good person removed a thread from his neck. Mayor JJ was tricked into doing it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    },
+    {
+      "text": "Dr. Jackal's clones for Kilvish include Kekda Man, fused from a crab and a kidnapped Suryanshi, and Jonk Jonkaa, built from a human and a leech from Mars.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shaktimaan",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Kilvish is the dark lord who battles Shaktimaan in the TV show. He is thousands of years old, tricked his way into half of a magical power and gave up his body to live forever. Only Shri Satya, reborn as Shaktimaan, can stop him.",
+  "story": [
+    {
+      "title": "A trick long ago",
+      "text": "Thousands of years ago, Kilvish tricked Shri Satya out of the magical Shakti Punj and kept half of it."
+    },
+    {
+      "title": "A body that cannot die",
+      "text": "He gave up his human body for an ethereal one, so he cannot be killed in the usual way."
+    },
+    {
+      "title": "Waves of villains",
+      "text": "He sends scientists, sorcerers and strange creatures after Shaktimaan, one after another."
+    },
+    {
+      "title": "The one he fears",
+      "text": "Kilvish learns that Shaktimaan is Shri Satya reborn, the only one who can end him."
+    },
+    {
+      "title": "Light against darkness",
+      "text": "Shaktimaan's mission is to end the evil in people, so that Kilvish's darkness can finally fade."
+    }
+  ]
 }

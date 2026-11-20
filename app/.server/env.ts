@@ -5,6 +5,17 @@
  */
 const prod = process.env.NODE_ENV === 'production';
 
+/** A positive integer setting, else the default (unset, junk, zero or negative never loosen it). */
+export function positiveInt(raw: string | undefined, fallback: number): number {
+  if (!raw || !/^\d{1,9}$/.test(raw.trim())) return fallback;
+  const n = Number(raw.trim());
+  return n > 0 ? n : fallback;
+}
+
+/** Defaults for the poll/reaction ceilings (S15); e2e raises them, production keeps these. */
+export const DEFAULT_MINT_CEILING = 60;
+export const DEFAULT_VOTE_CAP = 5;
+
 export const ENV = {
   prod,
   /** Public origin, e.g. https://comicmutant.com. Drives Secure cookies and the CSRF check. */
@@ -17,6 +28,10 @@ export const ENV = {
    */
   ipHeader: process.env.COMICMUTANT_IP_HEADER ?? (prod ? undefined : 'none'),
   lab: !prod || process.env.COMICMUTANT_LAB === '1',
+  /** New poll/reaction voter cookies per IP (IPv6 /64) per 10 minutes, soft (S15). */
+  mintCeiling: positiveInt(process.env.COMICMUTANT_MINT_CEILING, DEFAULT_MINT_CEILING),
+  /** Counted new guest voters per IP (IPv6 /64) per poll or profile per hour (S15). */
+  voteCap: positiveInt(process.env.COMICMUTANT_VOTE_CAP, DEFAULT_VOTE_CAP),
 } as const;
 
 let checked = false;

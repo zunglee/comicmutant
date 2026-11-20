@@ -11,6 +11,7 @@
   "creators": [
     "Rajkumar Gupta (concept)",
     "Manoj Gupta (co-creator)",
+    "Sanjay Gupta (co-concept)",
     "Parshuram Sharma (writer, debut issue)",
     "Pratap Mullick (artist, debut issue)"
   ],
@@ -36,7 +37,7 @@
       "era": "Debut",
       "years": "1986",
       "title": "Professor Nagmani's weapon",
-      "beat": "Nagraj's first mission is to steal a temple's golden idol. Baba Gorakhnath beats him, frees his mind, and turns the weapon into a hero."
+      "beat": "Nagraj's first mission is to steal a golden statue of a Goddess from a temple. He pulls it off, but then Baba Gorakhnath beats him, frees his mind, and turns the weapon into a hero."
     },
     {
       "era": "Early run",
@@ -51,16 +52,10 @@
       "beat": "Special #1, Nagraj aur Super Commando Dhruv, is Raj Comics' first multi-hero special and pairs its two biggest stars."
     },
     {
-      "era": "Blockbuster",
-      "years": "1992",
-      "title": "Nagraj aur Bugaku",
-      "beat": "The second Nagraj and Dhruva team-up, Special #8, becomes one of the best-selling issues in Raj Comics history."
-    },
-    {
       "era": "Sinha era",
       "years": "1995 onward",
       "title": "The mythic Nagraj",
-      "beat": "Anupam Sinha takes over writing and art, telling multi-part epics like the Khazana arc and pitting Nagraj against snake-gods."
+      "beat": "Anupam Sinha takes over writing and art, telling multi-part epics like the Khazana arc, challenging snake-gods, and making the Two-in-One comics that combine Nagraj and Dhruva roughly yearly."
     },
     {
       "era": "Parallel lines",
@@ -87,17 +82,12 @@
     },
     {
       "type": "gossip",
-      "text": "In 2019 Manoj Gupta said he was negotiating with Ranveer Singh to play Nagraj in a film produced by Karan Johar. It hasn't been made yet.",
+      "text": "In 2019 it was reported that Ranveer Singh could play Nagraj in a Karan Johar production, and Raj Comics president Manoj Gupta welcomed the idea. The film has not been made.",
       "spice": 3
     },
     {
       "type": "fact",
       "text": "The character draws on legends of shapeshifting ichchhadhari snakes and the vishmanushya, a mythical venomous human.",
-      "spice": 1
-    },
-    {
-      "type": "fact",
-      "text": "A Nagraj concept trailer Raj Comics posted on YouTube in 2017 passed 1.5 million views.",
       "spice": 1
     }
   ],
@@ -115,10 +105,10 @@
       "why": "He carries millions of tiny snakes that he can send out as tools and weapons."
     },
     {
-      "q": "In which year did Nagraj debut?",
-      "options": ["1986", "1977", "1993", "2001"],
-      "answer": 0,
-      "why": "Nagraj GENL #14 came out in 1986."
+      "q": "Which of these is one of Nagraj's main weaknesses?",
+      "options": ["Sunlight", "Cold", "Rain", "Garlic"],
+      "answer": 1,
+      "why": "Severe cold makes him drowsy and pushes him toward hibernation, which is why the ice snake Sheetnag Kumar guards him."
     }
   ],
   "rivals": [],
@@ -171,17 +161,158 @@
       "with": "super-commando-dhruva"
     },
     {
-      "year": 2017,
+      "year": 2011,
+      "kind": "screen",
+      "title": "First animated film",
+      "note": "The first of five animated films, the My Name is Raj series, comes out; the last arrives in 2021."
+    },
+    {
+      "year": 2019,
       "kind": "legacy",
-      "title": "Concept trailer goes viral",
-      "note": "Raj Comics posts a Nagraj concept trailer on YouTube, and fans push it past a million views."
+      "title": "Live-action buzz",
+      "note": "Ranveer Singh is reported as a possible Nagraj in a film produced by Karan Johar."
     },
     {
       "year": 2020,
       "kind": "turn",
       "title": "One hero, three publishers",
-      "note": "The founding brothers split Raj Comics into three imprints, each running its own Nagraj books and plotlines."
+      "note": "In October 2020 Raj Comics splits into three separate entities, led by Sanjay, Manoj and Manish Gupta."
     }
   ],
-  "heat": 65
+  "heat": 65,
+  "facts": [
+    {
+      "text": "Sanjay Gupta says the Spider-Man cartoon he saw on Indian TV in the early 1980s inspired Nagraj. Scholar Suchitra Mathur spots the echo in his animal motif, science-lab roots and snake-rope swinging.",
+      "kind": "origin",
+      "source": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+      "interest": 9
+    },
+    {
+      "text": "In 1997 Raj Comics won plagiarism cases against Radha Comics' Nagesh and Goel Comics' Nagputra, two close copies of Nagraj. Sahapedia calls them among India's first comic-book lawsuits.",
+      "kind": "publishing",
+      "source": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+      "interest": 8
+    },
+    {
+      "text": "Demand was so intense that a new Nagraj issue was needed every two weeks, Manoj Gupta recalled, so he and his brother Sanjay shut themselves in a room every Sunday and came out with a fresh script.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Manoj_Gupta",
+      "interest": 8
+    },
+    {
+      "text": "In the comics, Nagraj's venom traces back through Deva Kaljayi to Shiva's venom from the churning of the ocean, a link between a pulp hero and Hindu mythology.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Cold is one of Nagraj's main weaknesses and can push him toward hibernation, while his icy snake-friend Sheetnag Kumar lives in his body and shields him from freezing.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagraj can fuse with allies. With an ally named Lava he became Agni-Nagraj, a form that breathed venomous flame and released burning snakes.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagayana, an eight-part saga, retells the Ramayana with Raj Comics heroes in the roles. It started as a planned four-part series and grew to eight, ending with a 128-page finale on 10 March 2009.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagraj Strikes: The Attack of the Coronaman, a 2020 comic, was made in about 72 hours, the fastest Raj Comics ever produced, and was conceived on day four of India's lockdown.",
+      "kind": "publishing",
+      "source": "https://www.csp.indica.in/?p=5814",
+      "interest": 8
+    },
+    {
+      "text": "Mongooses haunt Nagraj's tale. His uncle Nagpasha tricked the queen into offering a dead mongoose to the Snake God, and Baba Gorakhnath keeps a mystic black mongoose named Shikangi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 7
+    },
+    {
+      "text": "Nagraj was born with blue skin, and after treatment on the hidden snake island of Nagdweep his colour turned green. Greenman and Green Death are among his listed aliases.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagraj can split his body into particles and rejoin them in about three seconds, which makes him briefly invisible and untouchable.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 7
+    },
+    {
+      "text": "Nagraj's enemies come from around the world: an ancient Egyptian mummy whose power comes from his mask, a scientist from Japan called Miss Killer, and Thodanga, a creature that is part human, part turtle and part rhinoceros.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 7
+    },
+    {
+      "text": "In the late 1990s Raj Comics shot a few episodes of a live-action Nagraj TV show that never aired. Three episodes were given away on CDs with digest-sized comics.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 7
+    },
+    {
+      "text": "Nagraj's breath, called vish-funkar, blows his venom out as vapour, and depending on strength it can cause blindness, drowsiness or blackouts, and once even started a fire.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Naagu is the most cheerful and comical of the snakes living inside Nagraj. It is hard to tell whether he is a jester or a helper, and he loves watching movies.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Visarpi is the queen of Nagdweep and Nagraj's love interest. The original 44-issue run ended in 1995 with the issue Visarpi Ki Shadi, meaning Visarpi's wedding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Bharti is Nagraj's friend and business partner. She secretly fights crime under the name Faceless, and she is one-sidedly in love with him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagraj's arch-enemy is his own immortal, venomous uncle Nagpasha, who caused his parents' deaths. Nagpasha's guru is the mechanically brilliant scientist Gurudev, who wants to rule the world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Nagdant is a jealous, weaker copy of Nagraj, built by Professor Nagmani, the same scientist who first raised the hero.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Kentuki, a student of the villain Gurudev, is a physically powerful snake with the strength of fifty elephants, one of the toughest muscle-men in Nagraj's long list of enemies.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Saudaangi is a snake-woman from an Egyptian clan who lives in Nagraj's body. She has thorns in her snake form and some tantra knowledge, and her clan fights the mummy of pharaoh Tutankhamun.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 8
+    },
+    {
+      "text": "Five animated Nagraj films, the My Name is Raj series, were released in 2011, 2012, 2013, 2017 and 2021. Three aired on Cartoon Network India in 2015, and the last two followed in 2019 and 2021.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Nagraj",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Nagraj is Raj Comics' snake king. Venom flows through him and millions of tiny snakes live in his body. He began as a scientist's weapon, then a sage named Baba Gorakhnath freed him and he turned hero."
 }

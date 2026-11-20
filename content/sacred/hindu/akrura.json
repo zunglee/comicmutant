@@ -1,0 +1,265 @@
+{
+  "slug": "akrura",
+  "name": "Akrura",
+  "aka": ["Akrūra", "Shvaphalkaputra"],
+  "native": "अक्रूर",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Yadava elder and devotee who escorts Krishna to Mathura",
+  "summary": "Akrura is a Yadava elder in the Bhagavata Purana. King Kamsa sends him to fetch Krishna and Balarama, but he is a devoted follower of Krishna and treats the errand as a blessing.",
+  "about": "Akrura is a Yadava prince, the son of Shvaphalka and Gandini, and a relative of both Kamsa and Krishna. In the Bhagavata Purana and Vishnu Purana, Kamsa sends him to Gokula to bring Krishna and Balarama to a festival in Mathura, hoping to harm them there. Akrura is a devotee of Vishnu, so he travels full of joy and worry together. He later appears in the Syamantaka jewel episode told in the Harivamsa and Puranas, and Krishna sends him to Hastinapura to learn how Dhritarashtra feels about the Pandavas. Sources differ on details such as his wife and sons. Tradition says he died in the Yadu clan's last fight at Prabhasa. Akrura Ghat near Vrindavan is the place devotees link with his journey.",
+  "kidSummary": "Akrura is the gentle messenger in Krishna's story. A king sends him to bring Krishna and Balarama to the city of Mathura. On the road he is so happy to meet Krishna that he rolls in the dust where Krishna's footprints lie.",
+  "story": [
+    {
+      "title": "A king's order",
+      "text": "King Kamsa asks Akrura to go to the village of Gokula and invite Krishna and Balarama to a big festival in Mathura. Kamsa hopes to harm the boys there."
+    },
+    {
+      "title": "A hopeful journey",
+      "text": "As his chariot rolls along, Akrura thinks about Krishna and feels lucky to see him at last. He wonders if Krishna will be upset with him, but he trusts that Krishna sees into every heart."
+    },
+    {
+      "title": "Footprints in the dust",
+      "text": "In the cow pasture Akrura sees the footprints of Krishna. He jumps down from his chariot and rolls in the dust with tears of joy."
+    },
+    {
+      "title": "A warm welcome",
+      "text": "Krishna lifts him up and hugs him. Balarama washes his feet and gives him milk and honey, and Akrura shares the king's message with the villagers."
+    },
+    {
+      "title": "A sad goodbye",
+      "text": "The next morning the brothers set out for Mathura with Akrura. The village women are heartbroken as they watch the chariot go."
+    }
+  ],
+  "teaches": [
+    "Devotion can turn an ordinary errand into a blessing",
+    "Be humble, even when you serve a difficult master",
+    "Honesty: admit a mistake and make it right"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Chariot", "Syamantaka jewel (in the Harivamsa episode)"],
+  "family": [
+    {
+      "relation": "Cousin",
+      "name": "Kamsa",
+      "slug": "kamsa"
+    },
+    {
+      "relation": "Relative",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Cousin",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Father",
+      "name": "Shvaphalka"
+    },
+    {
+      "relation": "Mother",
+      "name": "Gandini"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Vishnu Purana", "Harivamsa", "Mahabharata"],
+  "places": ["Akrura Ghat, Vrindavan", "Mathura", "Dvaraka", "Hastinapura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name Akrura means not cruel, yet the milkmaids of Vraja called him cruel in their grief, because he was the one taking Krishna away from them.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Akrura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On reaching Gokula he sees Krishna's footprints in the pasture, marked with a lotus, a barleycorn and an elephant goad, and he leaps down to roll in the dust.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/38/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nanda asked how Akrura and the other Yadus of Mathura could bear Kamsa's rule, likening them to sheep under the care of a butcher.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/38/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Puranic Syamantaka account, Akrura, Kritavarma and Shatadhanva had all wanted to marry Satyabhama. Shatadhanva killed Satrajit and left the jewel with Akrura, who fled to Kashi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 7
+    },
+    {
+      "text": "In the Harivamsa, Akrura held a great sacrifice and gave out wealth from the jewel enough to last sixty thousand years.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Akrura",
+      "interest": 7
+    },
+    {
+      "text": "In the Harivamsa, Akrura offered Krishna the jewel together with his sister Sushila in marriage, and a pleased Krishna let him keep the jewel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akrura",
+      "interest": 7
+    },
+    {
+      "text": "In the Yamuna, Akrura saw Krishna and Balarama standing in the water, but when he climbed out they were still sitting in the chariot. Puzzled, he dived in again.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/39/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Underwater the second time, Akrura saw white, thousand-headed Shesha praised by heavenly beings, and a dark-blue four-armed Lord in yellow resting on Shesha's lap.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/39/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says Shishupala forcibly took Akrura's wife while she was travelling from Dvaraka, one of the wrongs Krishna lists at the Rajasuya.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02044.htm",
+      "interest": 7
+    },
+    {
+      "text": "When Akrura left Dvaraka with the jewel, bad omens and troubles struck. Elders recalled that his father Shvaphalka had once ended a drought in Kashi, so Krishna had Akrura called back.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/57/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna asks Akrura to show the jewel once because Balarama doubted him, then hands it back to Akrura, who has kept it safe.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/57/",
+      "interest": 7
+    },
+    {
+      "text": "In Hastinapura Akrura stayed several months. Kunti asked tearfully whether her family remembered her, and Dhritarashtra admitted he could not set aside his attachment to his sons.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/49/",
+      "interest": 7
+    },
+    {
+      "text": "Akrura found Krishna in yellow and Balarama in blue going out to milk the cows. He fell flat at their feet, too moved to speak, and Krishna lifted him up with a hug.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/38/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Krishna worked out that Akrura held the jewel because he was holding sacrifices on golden altars, and he asked Akrura to show it once, so that his relatives would be satisfied.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/57/",
+      "interest": 8
+    },
+    {
+      "text": "Kamsa's order in the Bhagavata Purana was to bring the brothers, and also Nanda with gifts, to a bow festival beginning on the fourteenth day, hiding his plan to have an elephant or wrestlers kill them.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/36/",
+      "interest": 8
+    },
+    {
+      "text": "Reaching Mathura at evening, Akrura asked the brothers to stay at his house. Krishna said he would come later, once he had dealt with the Yadus' enemy, and told him to drive ahead.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/41/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the road, Akrura wondered what good deed had earned him the chance to see Krishna, and he took Kamsa's order as an unexpected mercy because it sent him there.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/38/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Akrura saw Krishna in yellow and Balarama in blue, and the text compares the two, one dark and one white, to an emerald mountain and a silver mountain, lighting up the sky.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/38/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Shalva's flying city attacked Dvaraka, the Bhagavata Purana lists Akrura among the commanders who followed Pradyumna into battle.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/76/",
+      "interest": 7
+    },
+    {
+      "text": "In his vision under the Yamuna, the beings worshipping the Lord included Brahma, Rudra, Prahlada, Narada, the Kumaras and Nanda, says Bhagavata canto 10, chapter 39.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/39/",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Akrura mean in Sanskrit?",
+      "options": ["Very strong", "Not cruel", "Born in a cave", "Friend of cows"],
+      "answer": 1,
+      "why": "Akrura means not cruel."
+    },
+    {
+      "q": "Who sends Akrura to bring Krishna and Balarama to Mathura?",
+      "options": ["Nanda", "Indra", "Kamsa", "Yudhishthira"],
+      "answer": 2,
+      "why": "King Kamsa gives the order, hoping to harm the boys."
+    },
+    {
+      "q": "What does Akrura do when he sees Krishna's footprints in the pasture?",
+      "options": [
+        "Hurries past them",
+        "Rolls in the dust",
+        "Bows and sings a hymn",
+        "Washes his feet"
+      ],
+      "answer": 1,
+      "why": "In the Bhagavata Purana he is overjoyed and rolls in the dust of the footprints."
+    },
+    {
+      "q": "Which glowing jewel is linked with Akrura in the Harivamsa?",
+      "options": ["Kaustubha", "Syamantaka", "Chintamani", "Nilamani"],
+      "answer": 1,
+      "why": "The Syamantaka jewel, given by Surya, made gold every day."
+    },
+    {
+      "q": "Where is Akrura Ghat?",
+      "options": [
+        "Near Vrindavan on the Yamuna",
+        "In Puri by the sea",
+        "On the Ganga at Kashi",
+        "In Dvaraka"
+      ],
+      "answer": 0,
+      "why": "It is a bathing place near Vrindavan on the Yamuna."
+    }
+  ],
+  "related": [
+    "krishna",
+    "balarama",
+    "kamsa",
+    "kunti",
+    "dhritarashtra",
+    "satyabhama",
+    "nanda",
+    "yashoda",
+    "shishupala"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Akrura",
+    "bhagavata": "https://www.vedabase.io/en/library/sb/10/38/",
+    "syamantaka": "https://en.wikipedia.org/wiki/Syamantaka"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8d9b5",
+    "c2": "#a9c5b5"
+  },
+  "order": 500
+}

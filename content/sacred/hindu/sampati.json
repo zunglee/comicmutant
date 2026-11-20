@@ -1,0 +1,254 @@
+{
+  "slug": "sampati",
+  "name": "Sampati",
+  "aka": ["Sampathi", "Sampaati"],
+  "native": "सम्पाति",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Wingless vulture brother of Jatayu",
+  "summary": "Sampati is the elder brother of Jatayu, a vulture who lost his wings saving him from the sun. In the Ramayana his far sight tells the vanaras where Sita is.",
+  "about": "In the Valmiki Ramayana, Sampati is the elder son of Aruna and the older brother of Jatayu. As young birds the two raced towards the sun, and Sampati burned his wings shielding his brother, falling onto the Vindhya mountains. Tradition says the sage Nishakara cared for him and told him his wings would return after he helped Rama's cause. Many years later he meets the exhausted vanara search party led by Hanuman and Angada. Hearing of Jatayu's death, he grieves, and then uses his far sight to tell them that Sita is held in Lanka across the sea. The text says his wings then grew back, as the sage had foretold.",
+  "kidSummary": "Sampati is a very old vulture who cannot fly any more because his wings burned when he saved his little brother Jatayu from the sun. Years later, he sees far across the ocean and tells Hanuman and the others where Sita is hidden. His kindness helps save the day.",
+  "story": [
+    {
+      "title": "The race to the sun",
+      "text": "Young Sampati and his brother Jatayu race towards the sun to test their strength. The heat gets too strong for little Jatayu."
+    },
+    {
+      "title": "A brother's shield",
+      "text": "Sampati spreads his wings over Jatayu to protect him. His own wings burn, and he falls to the Vindhya mountains."
+    },
+    {
+      "title": "Waiting on the hills",
+      "text": "A sage looks after Sampati and tells him to wait patiently, for one day he will help Rama."
+    },
+    {
+      "title": "Hungry visitors",
+      "text": "Many years later a tired group of vanaras arrives in his cave. At first he thinks of them as a meal, but then hears Angada speak of Jatayu."
+    },
+    {
+      "title": "The far-seeing gift",
+      "text": "Sampati learns of his brother's brave end, and tells the vanaras that he can see Sita in Lanka, far across the sea."
+    }
+  ],
+  "teaches": [
+    "Protecting a younger sibling with love",
+    "Patience, and a purpose that finds you in time",
+    "Using your gifts to help others, even late in life"
+  ],
+  "symbol": "feather",
+  "emblems": ["Burnt wings", "Far sight", "Vindhya cave"],
+  "family": [
+    {
+      "relation": "Younger brother",
+      "name": "Jatayu",
+      "slug": "jatayu"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Garuda",
+      "slug": "garuda"
+    },
+    {
+      "relation": "Helped",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Kishkindha Kanda", "Brahma Purana"],
+  "places": ["Vindhya mountains", "Griddhraj Parvat, Satna (local tradition)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Sampati shielded Jatayu with his own wings when the midday sun began to scorch him. Sampati's wings burned and he fell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sampati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the race, the brothers made a bet on Mount Kailash in front of sages: they would follow the sun until it reached the western mountain. Sampati tells this in Valmiki Kishkindha 61.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhaitrans61.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Kishkindha 60, Sampati says eight thousand years have passed since the sage Nishakara left for heaven. Kishkindha 63 says a hundred years and more; the translator notes the two numbers disagree.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhaitrans60.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The tired search party found Sampati's cave, and he planned to eat them one by one once they starved. But when Angada spoke of Jatayu he stopped and anxiously asked whether his brother had really died.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sampati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Sampati says that eagles can see up to a hundred yojanas because of their lineage and diet.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "From high in the sky, Sampati says, towns looked as small as chariot wheels, rivers like threads, and great mountains such as the Himalaya and Meru shone like elephants standing in lakes.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhaitrans61.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sampati says the strength he had in his youth came back along with his new wings. He felt it return the moment they grew, with the vanaras watching.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhaitrans63.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki text, Sampati's son Suparshva saw a dark figure carry off a shining woman. Ravana begged for passage, and Suparshva let him go because he would not attack someone who pleaded.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhaitrans59.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Kishkindha 63, new red-feathered wings sprout on Sampati while the vanaras watch, and he flies from the mountaintop to try them, wishing the search party success.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhaitrans63.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sampati says he scolded his son Suparshva for not saving Sita when he saw her carried off, though he knew Ravana was strong, and for forgetting his old friendship with King Dasharatha.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga63/kishkindhaitrans63.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sampati says he lay senseless for six days after his fall, then looked around and slowly recognised the mountain as the Vindhya near the southern sea.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhaitrans60.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Near the sage Nishakara's hermitage every tree bore flowers and fruit, and wild animals followed him home from his bath, then turned back at the threshold like courtiers leaving a king.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhaitrans60.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The sage knew the burned bird at once: Sampati and Jatayu had often visited him in human form and touched his feet.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhaitrans60.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nishakara foretold that Indra would send Sita heavenly food in Lanka, and that she would set the first morsel aside for Rama and Lakshmana, wherever they were.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhaitrans62.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The sage said he could restore Sampati's wings at once, but Sampati had to wait, since the good he could do for Rama's cause would come only at the right time.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhaitrans62.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "During the high flight Sampati says both brothers began to sweat, grew afraid and dizzy, lost all sense of direction, and the world looked burnt as if at the end of an age.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhaitrans61.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sampati's son Suparshva once came home at dusk without food. He explained he had been guarding the sea route from Mount Mahendra, which is how he spotted Ravana carrying Sita.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhaitrans59.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Suparshva told his father he had flown out hungry for meat and hovered over the entrance of Mount Mahendra to block the path of sea creatures. From there he saw Ravana carrying a shining woman.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhaitrans59.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sampati says he supposed Jatayu had fallen in Janasthana, while he himself crashed onto Mount Vindhya with burnt wings. The two brothers did not meet again.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga61/kishkindhaitrans61.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Sampati spoke of eating the starving vanaras, Angada replied that Death had come as a vulture, yet they were lucky to end their lives for Rama's cause as Jatayu had.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sampati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sampati says each kind of being has its own driving need: passion for gandharvas, aggression for snakes, fear for deer, and hunger for eagles.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga59/kishkindhaitrans59.htm",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Why did Sampati lose his wings?",
+      "options": [
+        "A hunter cut them",
+        "He saved Jatayu from the sun",
+        "He flew into a storm",
+        "Ravana burned them"
+      ],
+      "answer": 1,
+      "why": "He shielded Jatayu from the sun with his own wings."
+    },
+    {
+      "q": "What helped Sampati find Sita?",
+      "options": ["A magic ring", "A map", "His great far sight", "A river"],
+      "answer": 2,
+      "why": "Sampati could see far, even across the sea."
+    },
+    {
+      "q": "Who is Sampati's younger brother?",
+      "options": ["Hanuman", "Jatayu", "Garuda", "Sugriva"],
+      "answer": 1,
+      "why": "Jatayu is his younger brother."
+    },
+    {
+      "q": "According to the Ramayana, how far could Sampati's sight reach?",
+      "options": ["A hundred yojanas", "10 yojanas", "1,000 yojanas", "To Mount Meru"],
+      "answer": 0,
+      "why": "Valmiki Kishkindha 58.32 says eagles see to a hundred yojanas. Some retellings say a thousand."
+    }
+  ],
+  "related": ["jatayu", "hanuman", "angada", "jambavan", "garuda", "sita", "rama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sampati",
+    "kishkindha58": "https://www.valmikiramayan.net/utf8/kish/sarga58/kishkindhasans58.htm",
+    "kishkindha60": "https://www.valmikiramayan.net/utf8/kish/sarga60/kishkindhaitrans60.htm",
+    "kishkindha62": "https://www.valmikiramayan.net/utf8/kish/sarga62/kishkindhaitrans62.htm"
+  },
+  "palette": {
+    "c1": "#E6C89A",
+    "c2": "#CFD8DE"
+  },
+  "order": 214,
+  "depth": "full"
+}

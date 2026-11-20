@@ -1,0 +1,285 @@
+{
+  "name": "Atri",
+  "aka": ["Attri", "Atreya (descendants)"],
+  "native": "अत्रि",
+  "role": "Vedic seer and one of the Saptarishi",
+  "summary": "Atri is one of the seven great sages and the seer of Mandala 5 of the Rigveda. He is the husband of Anasuya and, in the Puranas, the father of Dattatreya, Durvasa and Chandra.",
+  "about": "Atri is a Vedic sage named among the Saptarishi and credited with many Rigveda hymns, especially those of Mandala 5, called the Atri Mandala. The Brihadaranyaka Upanishad says each of the seven sages stands for a sense in Brahma, and Atri represents the tongue. The Bhagavata Purana says he and his wife Anasuya did austerities and asked that the three great gods be born as their children, giving Chandra, Dattatreya and Durvasa. In the Ramayana, Rama, Sita and Lakshmana visit the hermitage of Atri and Anasuya. Medieval Puranas mention several sages named Atri, so texts may speak of more than one person.",
+  "kidSummary": "Atri is one of the seven great sages of India. He listened closely to the dawn and the fire and composed hymns about them. Stories say that he and his wife Anasuya had three famous sons, and that he welcomed Rama and Sita into their forest home.",
+  "story": [
+    {
+      "title": "A sage of hymns",
+      "text": "Atri and his family compose many hymns to Agni, Indra and the dawn, and these fill Book 5 of the Rigveda."
+    },
+    {
+      "title": "A shared prayer",
+      "text": "In the Bhagavata Purana, Atri and Anasuya do austerities on the Riksha mountains, and the three great gods appear before them."
+    },
+    {
+      "title": "A special wish",
+      "text": "Atri asks that the three gods may be born as their children. The gods grant it, and three sons are born."
+    },
+    {
+      "title": "Three sons",
+      "text": "Chandra, Dattatreya and Durvasa are born. People remember Chandra with Brahma, Dattatreya with Vishnu and Durvasa with Shiva."
+    },
+    {
+      "title": "Guests in the forest",
+      "text": "Years later, Rama, Sita and Lakshmana leave Chitrakuta hill and soon reach Atri's hermitage, where Atri welcomes them as warmly as a father would."
+    }
+  ],
+  "teaches": [
+    "Honour the dawn, fire and the natural world",
+    "Live with self-restraint, giving and compassion",
+    "Welcome guests with warmth"
+  ],
+  "symbol": "flame",
+  "emblems": ["Mandala 5 of the Rigveda", "Star Megrez in the Big Dipper"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Anasuya",
+      "slug": "anasuya"
+    },
+    {
+      "relation": "Son",
+      "name": "Dattatreya",
+      "slug": "dattatreya"
+    },
+    {
+      "relation": "Son",
+      "name": "Durvasa",
+      "slug": "durvasa"
+    },
+    {
+      "relation": "Son",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Father (Puranas)",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 5)",
+    "Bhagavata Purana",
+    "Valmiki Ramayana",
+    "Shiva Purana",
+    "Atri Samhita"
+  ],
+  "places": ["Chitrakuta region", "Riksha mountain", "Atreyapuram, Andhra Pradesh"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Brihadaranyaka Upanishad says each sage stands for a sense or organ of Brahma, and Atri represents the tongue.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Big Dipper, the star Megrez is named Atri in Indian astronomy, alongside Vasishtha, Marichi and four other stars.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Saptarshi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Atri's hymns are known for riddles and wordplay. A scholar called hymn 5.44 the hardest riddle hymn in the whole Rigveda.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Rigveda 5.40, after Indra strikes down the asura Svarbhanu, Atri finds the sun that vanished in daytime and sets it back in the sky.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Svarbh%C4%81nu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Astronomers Mayank Vahia and Mitsuru Soma read the story as a total solar eclipse, dated 22 October 4202 BCE or 19 October 3811 BCE. Some call it the earliest eclipse on record. The hymns are symbolic, so this is a proposal.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Atri%27s_Eclipse",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda, the Ashvin twins save Atri when he is thrown into a fiery pit. They cool the flames and bring him out safely together with his people (hymn 1.116, verse 8).",
+      "kind": "story",
+      "source": "https://rigveda-online.github.io/1/116.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Atri's son Durvasa is served so patiently by the young Kunti that he teaches her a mantra to call a god of her choice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Shiva Purana credits Atri, together with his wife Anasuya, with bringing the river Ganga down to earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Svarbhanu strikes both sun and moon with arrows and Atri revives them. Much later, Svarbhanu is merged with the figure of Rahu, the eclipse demon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Svarbh%C4%81nu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Yajurveda and Brahmana tellings of this story, the gods free the sun from Svarbhanu's darkness using svara, the chanted accents of the hymns.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Svarbh%C4%81nu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Rama leaves Chitrakuta because memories of Bharata's visit haunt him and the army's horses and elephants have spoiled the ground. His next stop is Atri's hermitage, where he is welcomed like a son.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Atri is the seer named most often in the Rigveda. His Book 5 has 87 hymns, mostly for Agni and Indra, with just two each for Ushas and Savitr.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rigveda Book 5, the Atri Mandala, is one of six 'Family Books' (Books 2 to 7). Scholars think these family collections may have inspired the later idea of seven great sages.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Saptarshi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Vaikhanasa Vaishnava community near Tirupati credits its teaching to four sages: Atri, Marichi, Bhrigu and Kashyapa. The Atri Samhita, one of its texts, survives only in broken manuscripts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The earliest list of the seven sages, in the Jaiminiya Brahmana, names Atri, and so does the Upanishad list. The later Gopatha Brahmana gives eight names and leaves him out.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Saptarshi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One telling says Atri was very old when the young Anasuya married him, and that the pair asked the three great gods for a child. The gods were pleased, and the son born had the nature of all three.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Another version says Anasuya's goodness freed the three gods from trouble, and in return they were born to her as children. This differs from the telling where Atri's own prayer brings the sons.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Where did Atri and Anasuya's sons grow up? Tellings differ: one places the family at Mahur in Nanded, another in the western Deccan, and a third in the forests of Kashmir near Amarnath.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says nine great sages, Atri among them, came to honour the newborn Kapila. Kardama then gave a daughter in marriage to each of the nine.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kardama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Most hymns of Book 5 come from composers of the Atri clan, called the Atreyas. Atri's own name also turns up beyond Book 5, with credit for verses such as 10.137.4 in the tenth book.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Atri",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Rigveda book is called the Atri Mandala?",
+      "options": ["Book 1", "Book 3", "Book 5", "Book 9"],
+      "answer": 2,
+      "why": "Mandala 5 is named for Atri."
+    },
+    {
+      "q": "What organ does Atri stand for in the Brihadaranyaka Upanishad?",
+      "options": ["Eye", "Tongue", "Ear", "Hand"],
+      "answer": 1,
+      "why": "Atri represents the tongue."
+    },
+    {
+      "q": "Which star in the Big Dipper carries Atri's name?",
+      "options": ["Dubhe", "Megrez", "Alcor", "Polaris"],
+      "answer": 1,
+      "why": "Megrez is Atri in Indian astronomy."
+    },
+    {
+      "q": "Who are Atri's three sons in the Puranas?",
+      "options": [
+        "Chandra, Dattatreya, Durvasa",
+        "Rama, Bharata, Lakshmana",
+        "Shuka, Vyasa, Parashara",
+        "Nara, Narayana, Kapila"
+      ],
+      "answer": 0,
+      "why": "These three sons were born to Atri and Anasuya."
+    },
+    {
+      "q": "Which hill had Rama just left before he reached Atri's hermitage?",
+      "options": ["Govardhana", "Chitrakuta", "Kailasa", "Mandara"],
+      "answer": 1,
+      "why": "Valmiki says Rama left Chitrakuta hill and then came to Atri's hermitage."
+    }
+  ],
+  "related": [
+    "anasuya",
+    "dattatreya",
+    "durvasa",
+    "chandra",
+    "rama",
+    "sita",
+    "vasishtha",
+    "gautama-maharishi",
+    "bhrigu",
+    "agni"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Atri",
+    "eclipse": "https://en.wikipedia.org/wiki/Atri%27s_Eclipse",
+    "saptarshi": "https://en.wikipedia.org/wiki/Saptarshi",
+    "valmiki": "https://www.valmikiramayan.net/utf8/ayodhya/sarga117/ayodhya_117_prose.htm",
+    "rigveda": "https://rigveda-online.github.io/1/116.html",
+    "godavari": "https://en.wikipedia.org/wiki/Godavari_River",
+    "chandra": "https://en.wikipedia.org/wiki/Chandra",
+    "kardama": "https://en.wikipedia.org/wiki/Kardama",
+    "dattatreya": "https://en.wikipedia.org/wiki/Dattatreya"
+  },
+  "palette": {
+    "c1": "#f0d4a4",
+    "c2": "#b9d1d8"
+  },
+  "order": 730,
+  "slug": "atri",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

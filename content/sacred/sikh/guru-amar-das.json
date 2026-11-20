@@ -1,0 +1,272 @@
+{
+  "slug": "guru-amar-das",
+  "name": "Guru Amar Das",
+  "aka": ["Amar Das Ji"],
+  "native": "ਗੁਰੂ ਅਮਰ ਦਾਸ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Third Sikh Guru",
+  "years": "1479–1574",
+  "order": 3,
+  "summary": "Guru Amar Das (1479–1574) became Guru at about 73. He built the Goindwal stepwell, wrote Anand Sahib, spoke against sati and veils, and gave women leadership roles.",
+  "about": "Born in 1479 at Basarke near Amritsar, Amar Das was a farmer and trader who followed a Vaishnava devotional path. Sikh tradition says he made many pilgrimages to Haridwar before he heard a hymn of Guru Nanak sung by Guru Angad's daughter, Bibi Amro, and became a Sikh around 1539. He served Guru Angad for about eleven years and was named Guru in 1552 at about age 73. At Goindwal on the Beas he began a stepwell with 84 steps, built up the langar, and created preaching seats called manjis, including women leaders. He opposed sati and the veil, backed widow remarriage, and wrote Anand Sahib. He died on 1 September 1574, naming his son-in-law Jetha, Guru Ram Das, as successor.",
+  "kidSummary": "Guru Amar Das became Guru when he was already about 73, proving it is never too late to lead. He built a stepwell at Goindwal, taught that everyone should eat together in langar, and said girls and women should be respected and could be teachers too.",
+  "story": [
+    {
+      "title": "A busy life",
+      "text": "Amar Das was a farmer and trader who visited the holy river Ganges at Haridwar many times, looking for something deeper."
+    },
+    {
+      "title": "A hymn that changed him",
+      "text": "One day he heard Bibi Amro sing a hymn of Guru Nanak. It touched him so much that he went to meet Guru Angad."
+    },
+    {
+      "title": "Water before dawn",
+      "text": "For about eleven years he served Guru Angad, fetching water for the Guru's bath long before sunrise."
+    },
+    {
+      "title": "Guru at seventy-three",
+      "text": "In 1552, aged about 73, he was named Guru. He moved to Goindwal and began a stepwell with 84 steps."
+    },
+    {
+      "title": "Everyone eats together",
+      "text": "Visitors, even an emperor in the story, sat on the floor to eat in the langar, with no one higher than anyone else."
+    },
+    {
+      "title": "Women as teachers",
+      "text": "He sent out men and women to teach in different regions, and spoke up for widows and against covering women's faces."
+    }
+  ],
+  "teaches": [
+    "Serve with patience",
+    "Everyone sits as equals",
+    "Treat women with respect",
+    "Share a tenth of what you earn"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Baoli (stepwell)", "Langar", "Manji (preaching seat)"],
+  "family": [
+    {
+      "relation": "predecessor",
+      "name": "Guru Angad",
+      "slug": "guru-angad"
+    },
+    {
+      "relation": "son-in-law and successor",
+      "name": "Guru Ram Das",
+      "slug": "guru-ram-das"
+    },
+    {
+      "relation": "daughter",
+      "name": "Bibi Bhani"
+    },
+    {
+      "relation": "daughter",
+      "name": "Bibi Dani"
+    },
+    {
+      "relation": "son",
+      "name": "Mohan"
+    },
+    {
+      "relation": "son",
+      "name": "Mohri"
+    }
+  ],
+  "texts": ["Guru Granth Sahib (Anand Sahib)", "Goindwal Pothis"],
+  "places": ["Basarke", "Goindwal Sahib", "Baoli Sahib"],
+  "festivals": ["Vaisakhi", "Diwali (Bandi Chhor Divas)"],
+  "facts": [
+    {
+      "text": "In Bhai Mani Singh's account, Akbar asked the Guru's blessing before attacking Chittorgarh, then offered 84 villages. The Guru declined them, so they were granted in the name of Ram Das, who later became the fourth Guru.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Amar Das followed a Vaishnava devotional path and is said to have made about twenty pilgrimages to Haridwar. On the last one a sadhu asked him who his guru was, and having none, he decided to find one.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Anand Sahib means 'complete happiness'. Sikh legend says he composed it when news came of the birth of his grandson Baba Anand, who was named after it. The full text has 40 pauris; a short version of the first five and the last closes services.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Anand_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He was named the third Guru in March 1552 when he was about 73, which makes him one of the oldest people to take the role.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikh accounts say Guru Angad's son Datu kicked him off his seat, calling him a former water-carrier. Amar Das calmly replied, 'Pardon me, you must have hurt your foot,' then went home until Baba Buddha persuaded him back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Baoli Sahib at Goindwal, begun in 1552, has 84 steps down to the water, and Sikhs believe reciting the Japji on each step after bathing brings liberation. Goindwal, in the Majha region, is described as the first centre of Sikhism.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He set up the manji system of preaching seats, led by trained men and women, and a piri system of women preachers for reaching other women. Sikh history says women were appointed to lead congregations in places as far as Afghanistan and Kashmir.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sikh tradition says the emperor Akbar was asked to sit on the floor and eat langar with everyone before meeting the Guru, and he agreed. Janamsakhi accounts add that the Guru persuaded him to cancel a tax on Hindu pilgrims going to Haridwar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His best-known saying, 'first pangat, then sangat', means that sharing a meal side by side comes before meeting the Guru as a congregation.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Pangat",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He spoke out against sati, widow burning, and against purdah, and supported widow remarriage and weddings across castes.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When a raja of Haripur and his wives visited, the queens stayed veiled before the Guru, and he rebuked them. To one who refused to lift her veil he is said to have asked why she had come if she was not pleased with the Guru's face.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He taught that women who burn themselves on a husband's funeral pyre are not true satis; true ones, he said, are those who live with modesty and contentment and remember God.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He began the collection known as the Goindwal Pothi, or Mohan Pothi, a handwritten book that was a forerunner of the Adi Granth. Nearly 900 of his hymns, about 15 percent of the Guru Granth Sahib, are the third-largest share.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "To pick a successor, he had his sons-in-law build a seat; Rama gave up after four tries, but Jetha kept trying through seven and became Guru Ram Das.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Ram_Das",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A trader named Goinda failed to settle a river crossing on the Beas, blaming evil spirits. At Guru Angad's request Amar Das, who knew the tract from carrying water to Khadur, laid the foundation of the village, named Goindwal after Goinda.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Each night he slept at Goindwal and each day carried water from the Beas to Khadur for Guru Angad's bath, reciting the Japji on the way. Gurdwara Damdama Sahib marks where he is said to have rested under a tree on the road.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Under him Goindwal became the centre of an annual fair at the Vaisakhi festival, which he started there.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One account says Akbar visited Goindwal in 1569, ate in the langar, and granted land in the name of the Guru's daughter Bibi Bhani, where Ram Das was told to found Amritsar. This is one of several accounts of how the land came to the Sikhs.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Goindwal was the birthplace of the poet Bhai Gurdas (born 1551) and of Guru Arjan, born there on 15 April 1563.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Goindwal",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars note Bibi Bhani was singled out as his economic successor, with lands and villages in her name, and may even have been considered for the guruship. Doris Jakobsh reads this as a sign of women's central place in early Sikh thought.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Bhani",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He urged the Kshatriya people to fight to protect others and for the sake of justice, saying this was their dharma, alongside his teachings of peace and service.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How old was Amar Das when he became Guru?",
+      "options": ["About 23", "About 43", "About 73", "About 103"],
+      "answer": 2,
+      "why": "He was about 73, proving it is never too late."
+    },
+    {
+      "q": "Where is the stepwell with 84 steps?",
+      "options": ["Amritsar", "Goindwal", "Nankana Sahib", "Gwalior"],
+      "answer": 1,
+      "why": "He began the Baoli Sahib at Goindwal in 1552."
+    },
+    {
+      "q": "What did he introduce so women could teach?",
+      "options": ["Piri system", "Miri system", "Akal Sena", "Dasvandh"],
+      "answer": 0,
+      "why": "The piri system used women preachers."
+    },
+    {
+      "q": "Which hymn of his is sung at Sikh weddings and services?",
+      "options": ["Japji", "Anand Sahib", "Sukhmani", "Asa di Var"],
+      "answer": 1,
+      "why": "Anand Sahib means 'complete happiness'."
+    },
+    {
+      "q": "Who became the fourth Guru?",
+      "options": ["Arjan", "Hargobind", "Jetha (Ram Das)", "Angad"],
+      "answer": 2,
+      "why": "His son-in-law Jetha became Guru Ram Das."
+    }
+  ],
+  "related": ["guru-angad", "guru-ram-das", "guru-arjan", "baba-buddha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Amar_Das",
+    "goindwal": "https://en.wikipedia.org/wiki/Goindwal",
+    "anand": "https://en.wikipedia.org/wiki/Anand_Sahib",
+    "bhani": "https://en.wikipedia.org/wiki/Mata_Bhani"
+  },
+  "palette": {
+    "c1": "#f0dcb8",
+    "c2": "#c8dde0"
+  },
+  "depth": "full"
+}

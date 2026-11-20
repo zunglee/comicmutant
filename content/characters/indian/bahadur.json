@@ -6,7 +6,7 @@
   "medium": "comics",
   "publisher": "Indrajal Comics",
   "summary": "Indrajal Comics' home-grown hero (1976–1990): a dacoit's son turned crime-fighter in a saffron kurta and jeans who built a citizens' force against bandits.",
-  "origin": "Bahadur's father, the dacoit Bhairav Singh, was killed in a shootout with police. The teenage Bahadur was adopted by Vishal, the officer who had shot his father. He wanted revenge at first but eventually came over to the side of the law. As an adult he founded the Citizen's Security Force (Naagrik Suraksha Dal) to help police fight the bandits of the ravines, and he often tried to reform dacoits rather than just defeat them. His helper Lakhan is a reformed dacoit, and the martial artist Bela fights at his side.",
+  "origin": "Bahadur is the son of a dacoit, Bhairav Singh, killed by police. In creator Aabid Surti's version, his mother raised him to take revenge on the police officer Vishal, but when they met Vishal opened his eyes and offered him a chance to build a village defence force. Wikipedia instead says Vishal adopted the teenage Bahadur. Either way he switched sides and founded the Citizen's Security Force (Naagrik Suraksha Dal) to help police against the bandits of the ravines, often trying to reform dacoits. His helper Lakhan is a reformed dacoit, and the martial artist Bela fights at his side.",
   "creators": ["Aabid Surti (creator)", "Jagjit Uppal (later writer)", "Govind Brahmania (artist)"],
   "firstAppearance": {
     "title": "Indrajal Comics (December 1976)",
@@ -30,25 +30,25 @@
       "era": "Chambal era",
       "years": "Late 1970s",
       "title": "War on the dacoits",
-      "beat": "Inspired by the notorious Chambal ravines of the era, Bahadur's citizen force battles bandits around the small town of Jaigarh."
-    },
-    {
-      "era": "Makeover",
-      "years": "1986",
-      "title": "City look",
-      "beat": "Bahadur cuts his long hair and swaps the orange kurta for a tight pink T-shirt to look more urban."
+      "beat": "With the Chambal Valley in the news for banditry, Bahadur's citizen force battles bandits around the small town of Jaigarh."
     },
     {
       "era": "Modern turn",
       "years": "1980s",
-      "title": "Spies and cities",
-      "beat": "Jaigarh grows from a sleepy town into a city, and Bahadur moves on to espionage stories."
+      "title": "Beyond the ravines",
+      "beat": "Wikipedia, citing a Men of Comics profile, says the stories moved on from dacoits in ravines to themes such as espionage."
     },
     {
       "era": "Finale",
       "years": "1990",
       "title": "The last issue",
       "beat": "The series ends when Bennett, Coleman & Co. stops publishing Indrajal Comics."
+    },
+    {
+      "era": "Revival",
+      "years": "2010",
+      "title": "Back online",
+      "beat": "On 10 December 2010 Surti launches bahadur.in to re-upload early issues for new readers."
     }
   ],
   "gossip": [
@@ -59,8 +59,8 @@
     },
     {
       "type": "gossip",
-      "text": "Surti showed Bahadur and Bela living together without marriage, which was almost unheard of in comics of that time.",
-      "spice": 3
+      "text": "Surti made Bela a martial-arts partner and equal rather than a sidekick, a bold choice for comics of that time.",
+      "spice": 2
     },
     {
       "type": "fact",
@@ -74,7 +74,7 @@
     },
     {
       "type": "fact",
-      "text": "Bahadur fan clubs reportedly exist as far away as the USA.",
+      "text": "The name Bahadur means The Brave Man.",
       "spice": 1
     }
   ],
@@ -93,9 +93,27 @@
     },
     {
       "q": "What did Bahadur's citizen force mainly fight?",
-      "options": ["Dacoits", "Aliens", "Vampires", "Robots"],
+      "options": ["Dacoits", "Smugglers", "Aliens", "Pirates"],
       "answer": 0,
       "why": "The series focused on the bandits of the 1970s ravines."
+    },
+    {
+      "q": "What did Bahadur's jeans stand for, according to Aabid Surti?",
+      "options": ["Progress and Western influence", "Wealth", "The police", "A secret identity"],
+      "answer": 0,
+      "why": "Surti said the saffron kurta meant Indianness and the jeans meant progress."
+    },
+    {
+      "q": "What is Bela's stock reply when Bahadur invites her out?",
+      "options": ["Neki aur puchh puchh", "Kal dekhenge", "Bilkul nahin", "Chalo chalein"],
+      "answer": 0,
+      "why": "Wikipedia gives this as her favourite reply."
+    },
+    {
+      "q": "What was Bahadur's helper Lakhan before he joined him?",
+      "options": ["A dacoit", "A teacher", "A policeman", "A shopkeeper"],
+      "answer": 0,
+      "why": "Lakhan was a reformed dacoit who surrendered to the police."
     }
   ],
   "rivals": [],
@@ -113,7 +131,10 @@
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
     "indrajal": "https://en.wikipedia.org/wiki/Indrajal_Comics",
-    "creator": "https://en.wikipedia.org/wiki/Abid_Surti"
+    "creator": "https://en.wikipedia.org/wiki/Abid_Surti",
+    "interview": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+    "sahapedia": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+    "abid": "https://en.wikipedia.org/wiki/Abid_Surti"
   },
   "timeline": [
     {
@@ -123,16 +144,16 @@
       "note": "In December 1976 Aabid Surti hands Indrajal Comics a desi lead in a saffron kurta, built to stand beside the imported heroes."
     },
     {
-      "year": 1986,
-      "kind": "turn",
-      "title": "City makeover",
-      "note": "Bahadur cuts his long hair and trades the old kurta look for pink, more urban clothes."
-    },
-    {
       "year": 1990,
       "kind": "turn",
       "title": "Indrajal closes shop",
       "note": "Indrajal Comics prints its last issue in April 1990, and Bahadur's run stops with it."
+    },
+    {
+      "year": 2008,
+      "kind": "return",
+      "title": "Collectors abroad",
+      "note": "Surti says a US comic-book club writes that old Bahadur issues sell for up to 100 dollars."
     },
     {
       "year": 2010,
@@ -141,5 +162,146 @@
       "note": "Surti launches bahadur.in to revive the hero, starting by uploading classic issues for new readers."
     }
   ],
-  "heat": 30
+  "heat": 30,
+  "facts": [
+    {
+      "text": "Surti says one police station served roughly 100 villages, so bandits had usually vanished before anyone could report them. That gap inspired a hero who helps villagers defend themselves.",
+      "kind": "origin",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 9
+    },
+    {
+      "text": "Surti says the saffron kurta stood for Indianness and the jeans for progress and Western influence, so one outfit mixed old and new India.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "India's first Hindi comic book, in 1964, was a Phantom story, Vetal ki Mekhla, with the hero renamed Vetal. Bahadur arrived in 1976 as Indrajal's first homegrown series.",
+      "kind": "publishing",
+      "source": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+      "interest": 8
+    },
+    {
+      "text": "Surti claimed in 2010 that Bahadur sold more than the imported Phantom and Mandrake titles in the same line, because readers wanted native stories. He gave no sales figures.",
+      "kind": "record",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 8
+    },
+    {
+      "text": "Surti says Shah Rukh Khan and Ashutosh Gowariker were among those interested in a Bahadur film. He says the copyright is with him, but the Times group refuses the no-objection certificate a movie would need.",
+      "kind": "screen",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 9
+    },
+    {
+      "text": "In 2008 Surti said a US comic book club had written to him to say old Bahadur issues were selling for up to 100 dollars as collector's items.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Abid_Surti",
+      "interest": 8
+    },
+    {
+      "text": "In Surti's telling, Bahadur's mother raised him to hate the police officer Vishal, calling his bandit father a noble man. When they met, Vishal opened his eyes to the truth and offered him a chance to redeem himself.",
+      "kind": "origin",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 8
+    },
+    {
+      "text": "Surti's Gujarati strip Batuk Bhai got a lukewarm response, so he retitled it Dhabbuji in Hindi. It became an instant hit, and Indrajal Comics then asked him to create an Indian hero.",
+      "kind": "creator",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 7
+    },
+    {
+      "text": "As an eight-year-old in 1943, Surti caught a single comic page of Mickey Mouse thrown from a passing soldiers' train, and fell in love with it. He taught himself to draw by copying it.",
+      "kind": "creator",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 9
+    },
+    {
+      "text": "In 1986 Bahadur got a makeover: his trademark long hair was cut short and his orange kurta gave way to a tight pink long-sleeved T-shirt, giving him an urban look.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "Sahapedia describes Bahadur as a vigilante with no secret identity, tall and mustachioed, with one foot in modernity and the other in rural roots.",
+      "kind": "culture",
+      "source": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+      "interest": 8
+    },
+    {
+      "text": "Bela started as his martial-arts partner and, per Sahapedia, gradually became an equal in his adventures, a daring experiment by his creators that paid off with readers.",
+      "kind": "culture",
+      "source": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia says Govind Brahmania drew the series, later joined by his son B. Pramod, and that Jagjit Uppal took over the writing after Surti moved on.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Bahadur ran in Hindi, English and Bengali, and also appeared in dailies and weeklies. Wikipedia adds that the hero has fan clubs abroad, reportedly in the USA.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "The stories began in the ravines and the small town of Jaigarh, then widened to themes like espionage while the town itself grew into a modern city, per Wikipedia.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Surti researched India's bandit problem through articles, newspaper reports and books, and chose the Chambal region as the model because it was especially notorious for bandits.",
+      "kind": "creator",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 7
+    },
+    {
+      "text": "Surti also created Dhabbuji, an 'uncommon man' who meddles in everything, as a reply to R. K. Laxman's silent common man. He says Osho and leaders like Atal Bihari Vajpayee admired it.",
+      "kind": "creator",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia says Surti first devised Bahadur a few years before 1976 but only offered it to Indrajal Comics then, while he was freelancing for Bennett, Coleman & Co.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Bahadur_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Surti blamed new Times group managers for closing Indrajal: they felt comics brought hassle for little reward, and he says they lacked the nationalist drive behind indigenous heroes.",
+      "kind": "publishing",
+      "source": "https://bleedingcool.com/2010/12/30/india-ink-interview-with-aabid-surti-creator-of-bahadu",
+      "interest": 7
+    },
+    {
+      "text": "Issue titles show the series' range: Bahadur and the Challenge of the Witch (December 1977), the Kung-Fu Kings (October 1978) and The Invisible Saviour (March 1979).",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajal_Comics",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Bahadur's father was a bandit, and his mother raised him to hate the police officer Vishal. But when they met, Vishal showed him the truth and a better path. Grown up, Bahadur wore a saffron kurta and jeans, started a citizens' force, and often tried to turn bandits into good neighbours instead of just beating them.",
+  "story": [
+    {
+      "title": "A bandit's son",
+      "text": "Bahadur grows up as the son of a dacoit named Bhairav Singh, who is killed in a clash with the police."
+    },
+    {
+      "title": "A hidden truth",
+      "text": "Bahadur's mother has taught him to hate the officer Vishal. When they finally meet, Vishal shows him the truth about his father."
+    },
+    {
+      "title": "Switching sides",
+      "text": "Bahadur sees that the law protects ordinary villagers, and he chooses to fight for them."
+    },
+    {
+      "title": "The citizens' force",
+      "text": "He starts the Naagrik Suraksha Dal, a force of local people who help the police, and he often tries to help bandits change their ways."
+    }
+  ]
 }

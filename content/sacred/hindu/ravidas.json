@@ -1,0 +1,253 @@
+{
+  "slug": "ravidas",
+  "name": "Ravidas",
+  "aka": ["Raidas", "Guru Ravidass", "Ruidas", "Rohidas", "Ramdas"],
+  "native": "रविदास",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Bhakti poet-saint of Varanasi, honoured across traditions",
+  "summary": "Ravidas was a poet-saint of the Bhakti movement, born near Varanasi in the 15th or 16th century. His hymns, some in the Guru Granth Sahib, call for a world without caste, and the Ravidassia faith honours him as a Guru.",
+  "about": "Ravidas lived around the 15th to 16th century and was born near Varanasi into a family of leather workers, a community then treated as untouchable. Biographies of him were written long after his life, and they differ, so his dates are debated. He taught a formless God and that caste and gender should not divide people. About forty of his hymns are included in the Sikh scripture, the Guru Granth Sahib, where he is honoured as a bhagat, a devotee. Several communities honour him and none is ranked here: Sikhs honour him as a bhagat, Ravidassias, who declared a separate religion in 2010, count him as a Guru and keep their own scripture, and many Hindus revere him as a saint. Later stories speak of miracles, which historians have no records for. His poem about Begumpura, a city without sorrow, remains one of the most loved visions of equality in Indian poetry.",
+  "kidSummary": "Ravidas was a poet-saint who lived in Varanasi hundreds of years ago. He earned his living by working with leather, yet he wrote hymns that people still sing today. He said that everyone is equal before God, and he dreamed of a city called Begumpura, where nobody is sad and nobody is treated as lesser.",
+  "story": [
+    {
+      "title": "A boy in Varanasi",
+      "text": "Ravidas was born near the holy city of Varanasi. His family worked with leather, and in those days many people unfairly looked down on that work."
+    },
+    {
+      "title": "Work and welcome",
+      "text": "Ravidas kept the family trade and made shoes. Accounts say he also built a simple hut by the river where wandering holy people were always welcome."
+    },
+    {
+      "title": "Songs about one God",
+      "text": "He sang hymns about a God without shape who lives in everyone. He said that kindness and remembering God matter more than rituals, birth or rank."
+    },
+    {
+      "title": "The city without sorrow",
+      "text": "In one famous hymn he imagined Begumpura, a city with no sorrow, no taxes and no caste. In his dream everyone could be friends as equals."
+    },
+    {
+      "title": "Hymns that travelled",
+      "text": "His songs were gathered in the Guru Granth Sahib and other books. Today people in India and across the world still sing them and celebrate his birthday every winter."
+    }
+  ],
+  "teaches": [
+    "All people are equal; no caste or gender divides us",
+    "God is one and is in everyone",
+    "Honest work and devotion matter more than ritual"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Flame in a 40-ray circle (Ravidassia; text only)",
+    "Har in Gurmukhi (text only, never drawn)"
+  ],
+  "family": [
+    {
+      "relation": "Said to have taught",
+      "name": "Mirabai",
+      "slug": "meera-bai"
+    },
+    {
+      "relation": "Contemporary",
+      "name": "Kabir",
+      "slug": "kabir"
+    },
+    {
+      "relation": "Met, according to most scholars",
+      "name": "Guru Nanak",
+      "slug": "guru-nanak"
+    }
+  ],
+  "texts": [
+    "Guru Granth Sahib (about 40 hymns)",
+    "Panch Vani (Dadu Panth)",
+    "Amritbani Guru Ravidass Ji (Ravidassia)",
+    "Begumpura hymn"
+  ],
+  "places": ["Seer Govardhanpur, Varanasi", "Varanasi (Kashi)", "Nasinu, Fiji (gurdwara)"],
+  "festivals": ["Guru Ravidass Jayanti"],
+  "facts": [
+    {
+      "text": "His dates are uncertain. One tradition gives 1377 to 1528, which would be 151 years, another scholar placed him around 1267 to 1335, and 1433 is a common birth year.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition names Mirabai, born in 1498, as his disciple, a link scholars use to place him in the late 15th and early 16th centuries. In Chittorgarh a small pavilion before Meera's temple holds an engraved footprint of Ravidas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Medieval texts like the Bhaktamal name the Brahmin poet Ramananda as his teacher, and call him Kabir's younger contemporary. Old manuscripts also record a debate between Ravidas and Kabir on whether God is formless or takes forms.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ravidas wrote about Begumpura, which means roughly the city without sorrow. In it there are no taxes, no property and no caste, and everyone lives as friends.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Begumpura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some scholars see Guru Nanak's town of Kartarpur as a Sikh answer to Begumpura, and Kabir had a similar dream he called Premnagar, the city of love.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Begumpura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A saying linked to him, 'man changa to kathauti mein Ganga', means that if the heart is pure, the water in a leatherworker's tub is as holy as the Ganga. A story tells how water from his tub acted like Ganga water.",
+      "kind": "story",
+      "source": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In one tale, a Brahmin said only people wearing the sacred thread could worship Vishnu, and Ravidas showed a golden thread within his body. The Brahmin then accepted him as a devotee.",
+      "kind": "story",
+      "source": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Later biographies say a stone floated on water for Ravidas and the Ganges turned back for him. Historians note the early records do not support such miracles, and devotees treasure them as stories of faith.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A special train, the Begumpura Express, carried thousands of devotees from Jalandhar to Varanasi for Ravidas Jayanti. One newspaper report counted about 3,000 passengers.",
+      "kind": "place",
+      "source": "https://www.tribuneindia.com/news/jalandhar/thousands-of-devotees-board-special-train-going-to-varanasi-for-ravidas-jayanti-celebrations",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ravidassia emblem shows the word Har in Gurmukhi with a flame, inside a circle of 40 rays that stand for his 40 hymns.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ravidassia_religion",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 2022 India's Election Commission postponed Punjab's assembly election, an unusual step, so that followers could mark Ravidas Jayanti. It shows how much the day means to his devotees.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His hymn Prabhu ji tum chandan hum pani pairs images: God is sandalwood and the devotee the water that takes its scent, God is the lamp and the devotee the wick, God is master and the devotee servant.",
+      "kind": "art",
+      "source": "https://www.siddhayoga.org/poetry-of-saints/raidas/prabhu-ji",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A hagiographer, Mahipati, tells of a priest who objected that Ravidas kept a holy stone in a leather bag. Ravidas replied that drums, the cow's hide and every person's own skin are leather, and that God dwells in all of them alike.",
+      "kind": "story",
+      "source": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Other bhakti poets kept their trades too: Kabir was a weaver, Sain a barber, Namdeo a calico printer and Dadu a cotton carder. Yet none of those trades was seen as so lowly as Ravidas's leatherwork.",
+      "kind": "history",
+      "source": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "People from different regions say his name differently: Ravidas in Hindi regions, Raidas in Uttar Pradesh, Madhya Pradesh and Bihar, Ruidas in Bengal, and Rohidas in Maharashtra, Karnataka and Gujarat.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His name hints at a Sunday birth, since Ravi can mean sun or Sunday, and tradition puts his birth on the full moon of Magh. Most writers think the exact day and year cannot be known.",
+      "kind": "language",
+      "source": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A later copyist's 1687 manuscript of Anantadas's life of Ravidas added many verses about Brahmins persecuting him that earlier copies of 1662, 1665 and 1676 do not have. The scholar Callewaert treats the earlier text as standard.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Most scholars believe Ravidas met Guru Nanak. Forty-one of his poems are in the Guru Granth Sahib, where he is one of 36 contributors.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Many poems by later poets have been attributed to Ravidas out of reverence, even though he had nothing to do with them. This is why scholars lean on the oldest sources, the Guru Granth Sahib and the Panch Vani.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ravidas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ravidassia scripture Amritbani, a 240-hymn book of Guru Ravidass, was installed at the Ravidas temple in Jalandhar on 1 February 2012, on his birth anniversary.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ravidassia_religion",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Begumpura mean in Ravidas's poem?",
+      "options": ["City of gold", "City without sorrow", "City of kings", "City of rivers"],
+      "answer": 1,
+      "why": "Begumpura roughly means a city without sorrow where everyone is equal."
+    },
+    {
+      "q": "Which Sikh scripture contains about 40 of his hymns?",
+      "options": ["Dasam Granth", "Janamsakhi", "Varan Bhai Gurdas", "Guru Granth Sahib"],
+      "answer": 3,
+      "why": "About 40 hymns by Ravidas are part of the Guru Granth Sahib."
+    },
+    {
+      "q": "Near which holy city was Ravidas born?",
+      "options": ["Varanasi", "Ujjain", "Amritsar", "Madurai"],
+      "answer": 0,
+      "why": "He was born at Seer Govardhanpur near Varanasi."
+    },
+    {
+      "q": "What was Ravidas's family trade?",
+      "options": ["Leatherwork", "Weaving", "Barbering", "Printing cloth"],
+      "answer": 0,
+      "why": "His family worked with leather and he kept the trade, while Kabir was a weaver, Sain a barber and Namdeo a cloth printer."
+    }
+  ],
+  "related": ["kabir", "meera-bai", "guru-nanak", "namdev"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ravidas",
+    "ravidassia": "https://en.wikipedia.org/wiki/Ravidassia_religion",
+    "begumpura": "https://en.wikipedia.org/wiki/Begumpura",
+    "sikhencyclopedia": "https://www.thesikhencyclopedia.com/ravidas",
+    "sabrang": "https://sabrangindia.in/ravidas-jayanti-remembering-shoemaker-saint-who-broke-through-caste-barrier/",
+    "tribune": "https://www.tribuneindia.com/news/jalandhar/thousands-of-devotees-board-special-train-going-to-varanasi-for-ravidas-jayanti-celebrations"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f4dcc0",
+    "c2": "#cfe0d6"
+  },
+  "years": "15th–16th century CE (dates debated)",
+  "order": 500
+}

@@ -2,11 +2,23 @@ import '@fontsource/bangers/latin-400';
 import '@fontsource/russo-one/latin-400';
 import '@fontsource/chakra-petch/latin-400';
 import '@fontsource/chakra-petch/latin-600';
+// Sacred India realm faces (calm serif display + soft body); fetched only where the page uses them.
+import '@fontsource/cormorant-garamond/latin-400.css';
+import '@fontsource/cormorant-garamond/latin-600.css';
+import '@fontsource/cormorant-garamond/latin-500-italic.css';
+// Devanagari-capable families use the per-weight files: their @font-face rules carry unicode-range,
+// so the Hindi subset downloads only on pages that show Devanagari (S21).
+import '@fontsource/mukta/400.css';
+import '@fontsource/mukta/600.css';
+import '@fontsource/tiro-devanagari-hindi/400.css';
+// Crime city and Desi heroes skin faces: @font-face only, fetched when a page uses them.
+import '@fontsource/oswald/latin-700.css';
+import '@fontsource/yatra-one/400.css';
+import '@fontsource/teko/latin-600.css';
+// unicode-range: the Gurmukhi file is fetched only on pages that show Gurmukhi (Sikh profiles).
+import '@fontsource/noto-sans-gurmukhi/400.css';
 import './app.css';
 
-import bangers400 from '@fontsource/bangers/files/bangers-latin-400-normal.woff2?url';
-import chakra400 from '@fontsource/chakra-petch/files/chakra-petch-latin-400-normal.woff2?url';
-import russo400 from '@fontsource/russo-one/files/russo-one-latin-400-normal.woff2?url';
 import { isbot } from 'isbot';
 import { LazyMotion, MotionConfig } from 'motion/react';
 import { type ReactNode, useContext, useEffect, useRef } from 'react';
@@ -25,14 +37,17 @@ import {
 import { currentUser, readCookie } from '~/.server/auth';
 import { getSql } from '~/.server/db';
 import { readThemeState } from '~/.server/themes';
-import { Atmosphere } from '~/components/atmosphere';
+import { SkinAtmosphere } from '~/components/atmosphere/index';
 import { Footer, Header, MobileTabs, OfflineBanner, ThemeDock } from '~/components/chrome';
 import { EasterEggs } from '~/components/eggs';
 import { LoaderStage } from '~/components/loaders';
 import { FX_COOKIE, type Fx, FxProvider } from '~/lib/fx';
 import { NonceContext } from '~/lib/nonce';
-import { varsToStyle } from '~/lib/theme/compute';
 import { ThemeProvider } from '~/lib/theme/context';
+import { htmlMood, htmlVars } from '~/skins/compute';
+import { realmOf, SkinProvider, useSkin } from '~/skins/context';
+import { preloadHrefs, SKINS } from '~/skins/registry';
+import { pickSkin } from '~/skins/select';
 import type { Route } from './+types/root';
 
 /** Animation features arrive in their own chunk; `m.*` components render static until then. */
@@ -46,15 +61,20 @@ export async function loader({ request }: Route.LoaderArgs) {
   // First page of a session plays the intro (never for bots or Lite FX, and never over a timed game
   // screen, where it would cover the first question while its clock runs).
   const path = new URL(request.url).pathname;
+  // The skin is picked here, before first paint (lock > pinned > section default > comic).
+  const skin = pickSkin(request, path);
   const gameScreen = path === '/quiz/play' || path === '/freefall' || path.startsWith('/arena/');
   const playIntro =
     fx === 'rich' &&
     !gameScreen &&
+    // A calm skin (the Sacred realm) never opens with a comic slam.
+    !SKINS[skin.id].motion.calm &&
     !readCookie(request, 'cm_seen') &&
     !isbot(request.headers.get('user-agent') ?? '');
   return {
     theme: current,
     top5,
+    skin: { id: skin.id, pinned: skin.pinned, source: skin.source },
     fx,
     playIntro,
     user: user && { name: user.name, role: user.role },
@@ -75,38 +95,46 @@ export function shouldRevalidate({ formAction, formMethod }: ShouldRevalidateFun
 
 export const links: Route.LinksFunction = () => [
   { rel: 'icon', href: '/favicon.svg', type: 'image/svg+xml' },
-  // The faces above the fold on every page (Russo One sets the kicker and button text: a late swap
-  // re-centred character heroes, CLS 0.26).
-  ...[bangers400, russo400, chakra400].map((href) => ({
-    rel: 'preload',
-    href,
-    as: 'font',
-    type: 'font/woff2',
-    crossOrigin: 'anonymous' as const,
-  })),
 ];
 
 export function Layout({ children }: { children: React.ReactNode }) {
   const data = useRouteLoaderData<typeof loader>('root');
   const nonce = useContext(NonceContext);
   const theme = data?.theme;
+  // Everything on <html> comes from the root loader (picked from the request URL), never from the
+  // live location: after hydration SkinProvider and applyPack own these attributes, and a stable
+  // prop means React never writes a stale value back over them.
+  const skin = SKINS[data?.skin.id ?? 'comic'];
+  // Skin vars first, then the equipped character's vars as the skin's surface policy allows (T3).
+  const vars = htmlVars(skin, theme?.vars, theme?.slug);
   return (
     <html
       lang="en"
+      data-skin={skin.id}
+      // One-release alias, on the Sacred routes only (S19): not written when sacred is merely pinned.
+      data-realm={realmOf(skin.id, data?.skin.source)}
       data-theme={theme?.slug}
       data-motif={theme?.motif}
       data-fx={data?.fx ?? 'rich'}
-      // SSR paints the equipped theme, so there is never a flash of the house colours.
-      style={
-        theme
-          ? (styleObject(varsToStyle(theme.vars), theme.mood) as React.CSSProperties)
-          : undefined
-      }
+      // SSR paints skin + theme, so there is never a flash of the house colours.
+      style={styleObject(vars, htmlMood(skin, theme?.mood)) as React.CSSProperties}
     >
       <head>
         <meta charSet="utf-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
-        <meta name="theme-color" content={theme?.vars['--bg'] ?? '#12101a'} />
+        <meta name="theme-color" content={vars['--bg']} />
+        {/* Only the active skin's above-the-fold faces (comic: Russo One sets kickers and buttons; a
+            late swap re-centred character heroes, CLS 0.26). Other skins' faces load on demand. */}
+        {preloadHrefs(skin).map((href) => (
+          <link
+            key={href}
+            rel="preload"
+            href={href}
+            as="font"
+            type="font/woff2"
+            crossOrigin="anonymous"
+          />
+        ))}
         <Meta />
         <Links />
         {/* Without JavaScript the intro never hydrates: drop its curtain so the page is readable. */}
@@ -123,13 +151,8 @@ export function Layout({ children }: { children: React.ReactNode }) {
   );
 }
 
-function styleObject(css: string, mood: string): Record<string, string> {
-  const o: Record<string, string> = { colorScheme: mood };
-  for (const pair of css.split(';')) {
-    const i = pair.indexOf(':');
-    if (i > 0) o[pair.slice(0, i)] = pair.slice(i + 1);
-  }
-  return o;
+function styleObject(vars: Record<string, string>, mood: string): Record<string, string> {
+  return { colorScheme: mood, ...vars };
 }
 
 type RootData = Route.ComponentProps['loaderData'];
@@ -137,13 +160,12 @@ type RootData = Route.ComponentProps['loaderData'];
 /** After a page change, move focus to the new page (screen readers announce it; Tab starts there). */
 function RouteFocus() {
   const { pathname } = useLocation();
-  const first = useRef(true);
-  // biome-ignore lint/correctness/useExhaustiveDependencies: re-runs on purpose for each new pathname.
+  // Compare with the path we last saw: a hard load (and React StrictMode's second effect run in dev)
+  // sees no change, so focus is left on the skip link; only real client navigations move it.
+  const seen = useRef(pathname);
   useEffect(() => {
-    if (first.current) {
-      first.current = false;
-      return;
-    }
+    if (seen.current === pathname) return;
+    seen.current = pathname;
     document.getElementById('main')?.focus({ preventScroll: true });
   }, [pathname]);
   return null;
@@ -151,32 +173,47 @@ function RouteFocus() {
 
 /** Providers + site chrome around a page; error pages use it too, so nobody is stranded. */
 function Shell({ data, children }: { data: RootData; children: ReactNode }) {
-  const playing = /^\/arena\/[^/]+/.test(useLocation().pathname);
   return (
     <LazyMotion features={loadMotionFeatures} strict>
       <MotionConfig reducedMotion="user">
         <FxProvider initial={data.fx}>
           <ThemeProvider initial={data.theme} top5={data.top5}>
-            <a href="#main" className="skip-link btn btn-c3">
-              Skip to content
-            </a>
-            <LoaderStage playIntro={data.playIntro} />
-            <RouteFocus />
-            {!playing && <EasterEggs />}
-            <Atmosphere hidden={playing} />
-            <Header user={data.user} />
-            <OfflineBanner />
-            <main id="main" tabIndex={-1} className="relative z-[1] outline-none">
-              {children}
-            </main>
-            {!playing && <Footer />}
-            {/* Game screens own the whole viewport: no dock or tab bar over the touch controls. */}
-            {!playing && <ThemeDock />}
-            {!playing && <MobileTabs />}
+            <SkinProvider initial={data.skin}>
+              <ShellChrome data={data}>{children}</ShellChrome>
+            </SkinProvider>
           </ThemeProvider>
         </FxProvider>
       </MotionConfig>
     </LazyMotion>
+  );
+}
+
+/** The chrome inside the providers: what mounts depends on the active skin, not the URL (S19). */
+function ShellChrome({ data, children }: { data: RootData; children: ReactNode }) {
+  const { pathname } = useLocation();
+  const playing = /^\/arena\/[^/]+/.test(pathname);
+  // A calm skin (Sacred, on its routes or pinned anywhere) has no comic intro, page sweeps, easter
+  // eggs or theme dock: nothing loud and nothing under 0.4 s (T7).
+  const calm = useSkin().spec.motion.calm;
+  return (
+    <>
+      <a href="#main" className="skip-link btn btn-c3">
+        Skip to content
+      </a>
+      {!calm && <LoaderStage playIntro={data.playIntro} />}
+      <RouteFocus />
+      {!playing && !calm && <EasterEggs />}
+      <SkinAtmosphere hidden={playing} />
+      <Header user={data.user} />
+      <OfflineBanner />
+      <main id="main" tabIndex={-1} className="relative z-[1] outline-none">
+        {children}
+      </main>
+      {!playing && <Footer />}
+      {/* Game screens own the whole viewport: no dock or tab bar over the touch controls. */}
+      {!playing && !calm && <ThemeDock />}
+      {!playing && <MobileTabs />}
+    </>
   );
 }
 

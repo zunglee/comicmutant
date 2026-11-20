@@ -1,0 +1,250 @@
+{
+  "slug": "bhai-mardana",
+  "name": "Bhai Mardana",
+  "aka": ["Mardana", "Dana Mirasi"],
+  "native": "ਭਾਈ ਮਰਦਾਨਾ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Guru Nanak's lifelong musician companion",
+  "years": "1459–1534",
+  "summary": "Bhai Mardana (1459–1534) was a Muslim musician from Talwandi who played the rabab while Guru Nanak sang, and travelled with him for years. He is counted among the first Sikhs.",
+  "about": "Bhai Mardana was born in 1459 in Talwandi, now Nankana Sahib in Pakistan, into a Mirasi family of hereditary minstrels and genealogists. The Miharban Janamsakhi says he was about ten years older than Nanak and his friend from childhood. By the time Nanak settled in Sultanpur Lodhi, Mardana was married with children, yet he joined the Guru and left home for good. On the travels described in the janamsakhis he played the rabab while Nanak sang. Those stories often show Mardana as doubtful or hungry, which gives the Guru a chance to explain a lesson. One verse by Mardana and two by Nanak addressed to him appear in the Guru Granth Sahib. He died at Kartarpur in 1534, and his descendants served the Gurus as rababi musicians for generations.",
+  "kidSummary": "Bhai Mardana was Guru Nanak's best friend and musician. He grew up in the same village and played the rabab, a stringed instrument, while Guru Nanak sang hymns. Together they walked to many places, and Mardana often asked the questions that helped everyone learn.",
+  "story": [
+    {
+      "title": "Two friends in Talwandi",
+      "text": "Mardana was born in the village of Talwandi, about ten years before Nanak. The Miharban Janamsakhi says they were friends from childhood and that Mardana loved music."
+    },
+    {
+      "title": "Leaving home",
+      "text": "When Nanak began his mission, Mardana already had a wife and children. A disciple helped him arrange his daughter's wedding, and then he set out with the Guru."
+    },
+    {
+      "title": "Music on the road",
+      "text": "As they walked from place to place, Mardana played the rabab and Nanak sang hymns. People of many faiths stopped to listen to the two travellers."
+    },
+    {
+      "title": "The honest questioner",
+      "text": "In the janamsakhi tales Mardana gets hungry, worried or doubtful. His questions let Guru Nanak explain a lesson in simple words."
+    },
+    {
+      "title": "A peaceful goodbye",
+      "text": "In 1534, when Mardana was old and ill at Kartarpur, Nanak stayed with him. After Mardana died, hymns were sung and sweet karah prasad was shared."
+    }
+  ],
+  "teaches": [
+    "True friendship and loyalty",
+    "Music can carry prayer to everyone",
+    "Asking honest questions helps us learn"
+  ],
+  "symbol": "star",
+  "emblems": ["Rabab (stringed instrument)", "Mirasi minstrel tradition"],
+  "family": [
+    {
+      "relation": "companion",
+      "name": "Guru Nanak",
+      "slug": "guru-nanak"
+    },
+    {
+      "relation": "wife",
+      "name": "Bibi Rakhi"
+    },
+    {
+      "relation": "son",
+      "name": "Shahzada (Shajada)"
+    },
+    {
+      "relation": "great-grandson",
+      "name": "Balvand (Balwand)"
+    }
+  ],
+  "texts": ["Miharban Janamsakhi", "Guru Granth Sahib, Bihagre ki Var, Ang 553"],
+  "places": ["Talwandi (Nankana Sahib)", "Sultanpur Lodhi", "Kartarpur"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "He was the seventh child in his family and the earlier ones had all died. Tradition says his name was heard as a word for dying, and Guru Nanak reassured his mother, so it is now read as 'does not die'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Muslim rababi musicians who played for the Sikh community were known as 'Babe ke', which means 'those of Baba Nanak'. The name shows how long Mardana's line of players kept the connection to Guru Nanak.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ratan Singh Bhangu's Prachin Panth Prakash says that when Nanak was a small boy he made Mardana a stringed instrument out of reeds, so Mardana had something to play while Nanak sang.",
+      "kind": "story",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one janamsakhi tale Mardana came back from a village loaded with far more food than he could carry. The Encyclopaedia of Sikhism calls it an amiable faux pas, and says the Guru rolled on the ground laughing before Mardana threw the bundle away.",
+      "kind": "story",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In another janamsakhi account a storm and fire frightened him in a forest, then rain put the fire out. Guru Nanak told him to take up his rebeck and sang that fear of God drives out all other fear.",
+      "kind": "story",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One shlok by Mardana himself is in the Guru Granth Sahib, in Bihagre ki Var on Ang 553. Two shloks by Guru Nanak are addressed to him in the same place.",
+      "kind": "text",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He died in 1534 at Kartarpur. Guru Nanak offered him a tomb, but Mardana asked why stone should hold him when he was being freed from the body. His body was given to the river Ravi, with hymns and karah prasad.",
+      "kind": "history",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tradition says that when a new hymn came to Guru Nanak, he would call out to Mardana to start playing the rabab because the bani, the sacred verse, had arrived. The call is still remembered in Sikh music circles.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Hasan Abdal, Sikh legend says Wali Qandhari refused Mardana water three times. Guru Nanak moved a boulder and a spring flowed. The Wali hurled a rock, Nanak stopped it with his hand, and a handprint in the stone is shown at Gurdwara Panja Sahib.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Panja_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Puratan Janamsakhi says Babur's soldiers took Mardana and Nanak prisoner at Saidpur. Mir Khan reported that the Guru's load floated above his head and Mardana's horse followed without reins, so he was taken before Babur.",
+      "kind": "story",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A shlok that Guru Nanak addressed to Mardana turns the recipe for wine into a recipe for living: good conduct as the yeast, truth as the molasses and God's name as the drink.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mardana's family line continued in music. Wikipedia lists his great-grandson Balwand and great-great-grandson Sata among his descendants.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Mardana lay ill at Kartarpur, Guru Nanak noted that custom treated the dead of each of the four social groups differently. Mardana answered that pride in the body had left him, so the Guru could decide.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the partition of Punjab in 1947, many Muslim rababi families moved to Pakistan, and the rabab was gradually replaced in Sikh kirtan by the sarod and then the harmonium.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before the harmonium arrived, Muslim rababis received support from princely states such as Nabha, Patiala and Kapurthala. Early 20th-century rababis at the Golden Temple included Bhai Chand, Bhai Taba and Bhai Lal.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Mardana was already married, with two sons and a daughter, when Guru Nanak's father sent him to Sultanpur to bring news of his son. He never went home to stay again.",
+      "kind": "story",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He was born Dana in a Mirasi family, a community of hereditary minstrels and genealogists, to Badre and Lakho.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Mardana died, Guru Nanak asked Mardana's son Shahzada and the family not to weep, saying he had gone home to his heavenly place.",
+      "kind": "history",
+      "source": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Music in Guru Nanak's time was shaped by dhrupad and dhamar, and Wikipedia says these classical styles influenced the earliest Sikh sacred music that Mardana played.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Once Guru Nanak settled at Kartarpur, the verses that went with his and Mardana's music were written down in pothis, handwritten volumes. The Guru Harsahai Pothi claims to be a surviving one.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rababi",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which instrument did Bhai Mardana play for Guru Nanak?",
+      "options": ["Tabla", "Rabab", "Flute", "Harmonium"],
+      "answer": 1,
+      "why": "Mardana is credited with starting the Sikh rababi tradition."
+    },
+    {
+      "q": "Where was Bhai Mardana born?",
+      "options": ["Talwandi", "Delhi", "Kabul", "Amritsar"],
+      "answer": 0,
+      "why": "He grew up in Talwandi, now Nankana Sahib, like Guru Nanak."
+    },
+    {
+      "q": "What happened to Mardana's body, according to the janamsakhi account?",
+      "options": [
+        "It was given to the river Ravi",
+        "It was buried in a tomb",
+        "It was cremated at Kartarpur",
+        "It was taken to Talwandi"
+      ],
+      "answer": 0,
+      "why": "Mardana declined a tomb, and his body was given to the river Ravi."
+    },
+    {
+      "q": "What was Mardana's role in janamsakhi stories?",
+      "options": ["A king", "A soldier", "A doubtful questioner and musician", "A trader"],
+      "answer": 2,
+      "why": "His questions let Guru Nanak explain lessons."
+    }
+  ],
+  "related": ["guru-nanak", "bebe-nanaki", "guru-angad", "guru-granth-sahib"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+    "encyclopaedia-of-sikhism": "https://eos.learnpunjabi.org/MARDANA%20BHAI%20(1459-1534).html",
+    "rababi": "https://en.wikipedia.org/wiki/Rababi",
+    "rubab": "https://en.wikipedia.org/wiki/Rubab_(instrument)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8d9b5",
+    "c2": "#b9d3cf"
+  },
+  "order": 1
+}

@@ -1,0 +1,260 @@
+{
+  "name": "Shuka",
+  "aka": ["Shukadeva", "Shuka Muni", "Suka", "Shukdev"],
+  "native": "शुक",
+  "role": "Sage and narrator of the Bhagavata Purana",
+  "summary": "Shuka, son of the sage Vyasa, is the sage who recites the Bhagavata Purana to King Parikshit in the last seven days of the king's life.",
+  "about": "Shuka is the son of Vyasa and, in the Bhagavata Purana, the narrator who tells its stories to King Parikshit on the bank of the Ganga. The Mahabharata says he was born from a fire stick after Vyasa's long austerity. The Devi Bhagavata Purana tells a version involving the apsara Ghritachi in parrot form, and the word shuka means parrot. Many Puranas say he left home right after birth and was freed from worldly attachment. In the Mahabharata he visits King Janaka to learn. At Shukteerth in Uttar Pradesh, local tradition says the recitation to Parikshit took place under a banyan tree.",
+  "kidSummary": "Shuka was a gentle young sage, the son of Vyasa. His name means parrot, and stories say he was born already wise and left home to wander free. He later told the stories of the Bhagavata Purana to King Parikshit over seven days.",
+  "story": [
+    {
+      "title": "A special birth",
+      "text": "Different texts tell different versions. In the Mahabharata, Shuka is born from a fire stick after Vyasa performs long austerity."
+    },
+    {
+      "title": "A wise child",
+      "text": "In one story, the unborn Shuka stays in the womb twelve years because he does not wish to be caught up in the world. Krishna assures him he will stay free of worldly attachment."
+    },
+    {
+      "title": "Off to wander",
+      "text": "As soon as he is born, Shuka leaves home and walks the world. Vyasa sends him to King Janaka, a person said to be free while living, to learn more."
+    },
+    {
+      "title": "A king with seven days",
+      "text": "King Parikshit is cursed to die in seven days. He sits on the bank of the Ganga and listens to Shuka tell stories of Vishnu and Krishna."
+    },
+    {
+      "title": "The story spreads",
+      "text": "Later, the sage Suta retells the same Bhagavata in the Naimisharanya forest. Shuka himself is remembered for a calm, free spirit."
+    }
+  ],
+  "teaches": [
+    "Stay free from worldly attachment",
+    "Listen with an open and quiet mind",
+    "Tell good stories carefully and kindly"
+  ],
+  "symbol": "feather",
+  "emblems": ["Parrot (his name)", "Banyan tree at Shukteerth"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Mother (Skanda Purana)",
+      "name": "Vatika (Pinjala)"
+    },
+    {
+      "relation": "Listener",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Janaka",
+      "slug": "janaka"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Mahabharata (Shanti Parva)",
+    "Devi Bhagavata Purana",
+    "Skanda Purana"
+  ],
+  "places": ["Shukteerth (Shukratal), Muzaffarnagar", "Shukachari"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Mahabharata says Shuka was born from a fire stick after Vyasa performed a hundred years of austerity.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The word shuka means parrot, and the Skanda Purana says he was named because he repeated everything he heard.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another account, a parrot overhears Shiva's secret teaching to Parvati while she sleeps, and escapes into Vyasa's wife's womb as she yawns.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In one account the unborn Shuka stays twelve years in the womb, refusing to be called Vyasa's son, until Krishna promises no one will harm him and he will stay free of worldly attachment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Shuka rises through the sky and passes through a mountain summit, which is left split in two, and Vyasa later finds the cleft.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-mahabharata-mohan/d/doc826292.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says that when Vyasa cries out for his son, Shuka, now present in all the elements, answers from everywhere with one syllable, and mountain slopes still echo sounds this way.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-mahabharata-mohan/d/doc826292.html",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Local tradition says Shuka disappeared into stones of a cave at Shukachari, a place named for the many parrots in its hills.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Shukteerth near Muzaffarnagar, tradition says Shukdev recited the Bhagavata to Parikshit about 5,000 years ago under a banyan called Akshayavat, which devotees believe never sheds its leaves.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shukteerth",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Vyasa sends Shuka to King Janaka, who first suggests the four life stages; Shuka scorns the householder stage and questions it, and Janaka, seeing his realisation, says he need not follow them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata, Shuka arrives wandering as a sixteen-year-old with women and children gathered around him, and the sages rise to honour him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/1/19/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Parikshit remarks that Shuka hardly stays in any home as long as it takes to milk a cow.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/1/19/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says it passed from Brahma to Narada, then to Vyasa, then to Shuka, who spoke it to Parikshit.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/12/13/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vyasa is also named as father of Dhritarashtra, Pandu and Vidura, which makes those three half-brothers of Shuka.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vyasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Vyasa wishes for an heir when the apsara Ghritachi flies before him as a parrot, and the son who results is named Shuka for that celestial parrot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Stories say Shuka surpassed his father: when Vyasa followed him, bathing nymphs did not cover themselves for Shuka, but they did when his father came into view.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shuka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, the serpent Takshaka flatters the healer-sage Kashyapa with gifts so he will not protect the king, then disguises himself as a Brahmin and bites Parikshit.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Shuka's teaching, Parikshit says he no longer fears Takshaka or death, then sits on darbha grass by the Ganga and meditates until he is still as a tree.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/12/6/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata is told in layers: Suta tells sages in the Naimisha forest what Shuka told Parikshit, and Shuka in turn passes on what Narada once told Yudhishthira.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhagavata_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana was the first Purana translated into a European language, in a French version of a Tamil translation that appeared in 1788.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhagavata_Purana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The oldest Bhagavata manuscript is dated to about 1124-25 and kept in Varanasi, and the scholar Al-Biruni mentioned the text by 1030.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhagavata_Purana",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the word shuka mean?",
+      "options": ["Parrot", "Peacock", "Swan", "Cuckoo"],
+      "answer": 0,
+      "why": "Shuka means parrot in Sanskrit."
+    },
+    {
+      "q": "Who is Shuka's father?",
+      "options": ["Narada", "Vyasa", "Vasishtha", "Valmiki"],
+      "answer": 1,
+      "why": "Shuka is the son of Vyasa."
+    },
+    {
+      "q": "Who hears the Bhagavata from Shuka?",
+      "options": ["King Parikshit", "King Janaka", "King Dasharatha", "King Bharata"],
+      "answer": 0,
+      "why": "Parikshit listens in his last seven days."
+    },
+    {
+      "q": "How long does Shuka stay in the womb in one story?",
+      "options": ["Twelve years", "Nine months", "One day", "One hundred years"],
+      "answer": 0,
+      "why": "One account says he stayed twelve years."
+    },
+    {
+      "q": "Where does tradition say Shuka recited the Bhagavata?",
+      "options": ["Shukteerth near Muzaffarnagar", "Kanyakumari", "Puri", "Madurai"],
+      "answer": 0,
+      "why": "Local tradition places it under the Akshayavat at Shukteerth."
+    }
+  ],
+  "related": ["vyasa", "parikshit", "janaka", "krishna", "brihaspati", "shiva", "parvati"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shuka",
+    "bhagavata": "https://en.wikipedia.org/wiki/Bhagavata_Purana",
+    "bhagavata144": "https://vedabase.io/en/library/sb/1/4/4/",
+    "shukteerth": "https://en.wikipedia.org/wiki/Shukteerth",
+    "birthStory": "https://www.hindu-blog.com/2017/07/story-of-birth-of-shuka.html",
+    "bhagavata126": "https://vedabase.io/en/library/sb/12/6/",
+    "vyasa": "https://en.wikipedia.org/wiki/Vyasa"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#dfe8c8",
+    "c2": "#f0dbbd"
+  },
+  "order": 800,
+  "slug": "shuka",
+  "tradition": "hindu",
+  "group": "rishi"
+}

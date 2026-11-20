@@ -1,0 +1,274 @@
+{
+  "slug": "patacara",
+  "name": "Patacara",
+  "aka": ["Patachara", "Paṭācārā"],
+  "native": "पटाचारा",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Nun foremost in keeping the monastic rules",
+  "summary": "Patacara was a nun in the Buddha's time. Pali texts say she lost her whole family in one terrible day, found peace through the Buddha, and became the nun best at remembering the monastic rules.",
+  "about": "Patacara is a woman disciple of the Buddha described in the Pali Canon and its commentaries, traditionally placed in the 6th-5th century BCE around Savatthi in the kingdom of Kosala. The commentary tradition says she was born to a rich merchant family, left home with a man of her household, and later lost her husband, her two sons and her family in a single day. Overwhelmed, she wandered the town until she reached the Buddha at Jetavana, who comforted her and taught her about impermanence. She became a nun and, according to the commentary, reached full awakening as an arahant. The Anguttara Nikaya names her foremost among nuns who keep the Vinaya, the monastic code. Some sources give a similar story to Kisa Gotami instead, and versions differ in details.",
+  "kidSummary": "Patacara was a kind and brave woman who lived long ago. After many sad losses, she met the Buddha, who spoke to her gently. She became a nun, learned to find calm even in sorrow, and later helped other women who were hurting.",
+  "story": [
+    {
+      "title": "A sudden storm",
+      "text": "The old stories say Patacara lost her husband one stormy night. Then, on a river crossing, she lost her two little boys. Her heart was broken."
+    },
+    {
+      "title": "Wandering in sorrow",
+      "text": "When she reached her home town she heard that her family had died too. Too sad to think clearly, she wandered the streets, and people began calling her Patacara."
+    },
+    {
+      "title": "The gentle teacher",
+      "text": "She wandered into the monastery where the Buddha was teaching. He looked at her with kindness and asked her to come back to her senses."
+    },
+    {
+      "title": "Peace comes",
+      "text": "She listened, calmed down, and learned that everything changes and no one can keep us safe from loss. She asked to become a nun."
+    },
+    {
+      "title": "The water at her feet",
+      "text": "One evening she poured water over her feet and watched it flow, one stream going near and another far. She understood life's changes and became an arahant."
+    },
+    {
+      "title": "Keeper of the rules",
+      "text": "Later the Buddha named her the nun best at remembering the monastic rules, and many women came to learn from her."
+    }
+  ],
+  "teaches": [
+    "Compassion can heal deep sorrow",
+    "Everything changes, even our worst days",
+    "A fresh start is always possible"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Lamp going out (image in her verses)", "Water poured over the feet"],
+  "family": [
+    {
+      "relation": "Teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Counterpart among the monks",
+      "name": "Upali",
+      "slug": "upali"
+    },
+    {
+      "relation": "Story also told of",
+      "name": "Kisa Gotami",
+      "slug": "kisa-gotami"
+    }
+  ],
+  "texts": [
+    "Anguttara Nikaya 1.5.4",
+    "Therigatha 5.10",
+    "Dhammapada 113 and 288-289 (commentary)",
+    "Dhammapada Commentary"
+  ],
+  "places": ["Savatthi, Kosala", "Jetavana monastery"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The commentary says her name means 'cloth-wanderer' because she roamed without a cloth, and it also offers a second reading: her conduct had 'fallen away' in her grief. One translator finds the first explanation odd.",
+      "kind": "language",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The commentary says her husband was a worker in her own rich family's household and gives no name for him. She ran off with him rather than marry the man her parents had picked.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the commentary, after the storm and the losses she walks toward Savatthi singing a sorrowful song of her own: both her sons are gone and her husband lies dead on the road.",
+      "kind": "text",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the commentary, her husband is bitten by a cobra near an anthill while cutting grass to roof a shelter against a storm, and dies on the spot.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The commentary says a hawk swooped on her baby while she crossed a river. Her elder son saw her wave to scare the bird, took it as a call, stepped into the water, and was swept away.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Therigatha 5.11 shows her as a teacher: thirty women she taught each reached the three knowledges in one night, remembering past lives, then the divine eye, then the end of ignorance, and they pledged to honour her.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.05.11.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary says her grief made her tear off the cloth that kind people kept giving her. The Buddha spoke to her gently and asked her to regain her mindfulness, and only then did a man in the crowd toss her an upper robe to put on.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The commentary says she mastered the whole Vinaya Pitaka, the monastic code, and that the Buddha later named her foremost among nuns who hold the Discipline in mind.",
+      "kind": "teaching",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One evening, the commentary says, she washed her feet and noticed three pours of water: the first soaked in nearby, the second went farther, the third farthest. She likened them to dying young, middle-aged or old.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her verses open with a puzzle: ploughing farmers and young men grow rich, so she asks why she, who is virtuous, hard-working and not proud, has not yet reached nirvana.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.05.10.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her verses end with a lamp going out: she says she took a needle and pulled out the wick, and her mind was freed just as the flame went out.",
+      "kind": "art",
+      "source": "https://daily.readingfaithfully.org/thig-5-10-patacaratherigatha-verses-of-the-elder-patacara/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The commentary says the Buddha, sitting in his Perfumed Cottage, seemed to stand right in front of her as he spoke, as if teaching her face to face.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary says that when she reached Savatthi she was told her parents' house had collapsed in the wind, killing everyone, and she was shown the smoke of the single pyre where the family was burning.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a past life under Kassapa Buddha, the commentary says, she was one of King Kiki's seven daughters, lived celibate for 20,000 years, and had a residence built for the community of monks.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In her verses the settled mind is compared to a fine, well-trained thoroughbred horse, an image she uses after watching the water run from high ground to low while she washed her feet.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.05.10.than.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Pali verses themselves, the lines about a husband dead on the road and a family on one pyre belong to Kisa Gotami (Thig 10.1). Only the later commentary gives that tragedy to Patacara.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.10.01.than.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her story has travelled far beyond India: Wikipedia lists a painted scene of her tale at Shwezigon pagoda in Bagan, Myanmar, alongside Nepali and Sri Lankan novels, films and poems.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Patacara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The commentary follows her across three Buddhas: a first wish under Padumuttara to be foremost in the Vinaya, a life as a king's daughter under Kassapa, and her last birth under Gotama, when the wish finally came true.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Therigatha 6.1 she says grief is like a hidden arrow lodged in the heart. Once the arrow is pulled out she is free of sorrow, and she ends by taking refuge in the Buddha, the Dhamma and the Sangha.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.01.than.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Therigatha 6.1 is named for her five hundred students. In it she repeats a teaching she heard: nobody knows where a being comes from or goes, so weeping for a lost son is pointless, since he came uninvited and left.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.06.01.than.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the foot-washing story, what did the three pours of water stand for?",
+      "options": [
+        "Three rivers she had crossed",
+        "Dying young, in middle age, or in old age",
+        "The three jewels",
+        "Her three lost teachers"
+      ],
+      "answer": 1,
+      "why": "Each pour travelled farther, and she compared them to people dying young, middle-aged or old."
+    },
+    {
+      "q": "Which title did the Buddha give Patacara among the nuns?",
+      "options": [
+        "Foremost keeper of the monastic rules",
+        "Foremost in meditation",
+        "Foremost in wisdom",
+        "Foremost in teaching"
+      ],
+      "answer": 0,
+      "why": "The Anguttara Nikaya calls her foremost among nuns who bear the Vinaya in mind."
+    },
+    {
+      "q": "Where did Patacara first meet the Buddha, according to the commentary tradition?",
+      "options": [
+        "At Jetavana monastery",
+        "At the royal palace",
+        "In the city market",
+        "At a river ford"
+      ],
+      "answer": 0,
+      "why": "The Anguttara commentary only says she came to the monastery where the Buddha was teaching; the Dhammapada commentary names it as Jetavana."
+    },
+    {
+      "q": "Which image closes her verses in the Therigatha?",
+      "options": ["A lamp going out", "A rising sun", "A flowing river", "A falling leaf"],
+      "answer": 0,
+      "why": "Her release is compared to a lamp being snuffed out."
+    }
+  ],
+  "related": [
+    "gautama-buddha",
+    "upali",
+    "kisa-gotami",
+    "khema",
+    "dhammadinna",
+    "mahapajapati-gotami"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Patacara",
+    "ancientBuddhistTexts": "https://ancient-buddhist-texts.net/Texts-and-Translations/Aggatherivatthu/04-Patacara.htm",
+    "therigatha": "https://daily.readingfaithfully.org/thig-5-10-patacaratherigatha-verses-of-the-elder-patacara/",
+    "accessToInsight": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.05.12.than.html"
+  },
+  "palette": {
+    "c1": "#e8dcc8",
+    "c2": "#b9c9d8"
+  },
+  "years": "6th-5th century BCE (traditional)",
+  "order": 26,
+  "depth": "full"
+}

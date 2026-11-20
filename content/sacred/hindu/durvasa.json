@@ -1,0 +1,287 @@
+{
+  "name": "Durvasa",
+  "aka": ["Durvasas", "Krodhabhattaraka"],
+  "native": "दुर्वासा",
+  "role": "Short-tempered sage, son of Atri and Anasuya",
+  "summary": "Durvasa is a sage famous for his quick temper and powerful words, and for blessings given to those who served him well. Some Puranas call him a partial form of Shiva.",
+  "about": "Durvasa is a rishi of the epics and Puranas, known as the son of Atri and Anasuya, and as the brother of Dattatreya and Chandra. His name is often explained as 'hard to live with'. The Brahmanda Purana says he was born from a portion of Shiva's anger, and many Puranas call him a part of Shiva. Stories show him giving curses, such as the one on Indra that led to the churning of the ocean, and the one on Shakuntala. Other stories show him giving gifts to people who cared for him: Kunti received mantras, Draupadi a blessing for clothing, and Krishna a protective boon. Differences exist between texts, and some tales, such as the Swaminarayan one, belong to a single tradition.",
+  "kidSummary": "Durvasa is a famous sage who got angry very easily, but he also gave wonderful gifts to people who looked after him kindly. His stories remind us to be polite to guests and to stay calm.",
+  "story": [
+    {
+      "title": "A garland for Indra",
+      "text": "In the Vishnu Purana, Durvasa receives a fragrant flower garland and offers it to Indra, who is riding the elephant Airavata."
+    },
+    {
+      "title": "A dropped gift",
+      "text": "Airavata drops the garland. Durvasa feels insulted and says that Indra will lose his power over the three worlds."
+    },
+    {
+      "title": "The gods grow weak",
+      "text": "Indra begs him to forgive him, but the words stand. The gods lose strength, and they ask Vishnu for help."
+    },
+    {
+      "title": "Churning the ocean",
+      "text": "Vishnu advises the gods and asuras to churn the ocean of milk together, so that the nectar of immortality may appear."
+    },
+    {
+      "title": "A lesson in courtesy",
+      "text": "The story shows how much a guest's welcome mattered, and how easily pride can make a gift fall to the ground."
+    }
+  ],
+  "teaches": [
+    "Welcome guests with respect and patience",
+    "Anger can cause great trouble",
+    "Kind service is rewarded"
+  ],
+  "symbol": "flame",
+  "emblems": ["Garland of flowers", "Staff and water pot"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Atri",
+      "slug": "atri"
+    },
+    {
+      "relation": "Mother",
+      "name": "Anasuya",
+      "slug": "anasuya"
+    },
+    {
+      "relation": "Brother",
+      "name": "Dattatreya",
+      "slug": "dattatreya"
+    },
+    {
+      "relation": "Brother",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Wife",
+      "name": "Kandali"
+    }
+  ],
+  "texts": [
+    "Brahmanda Purana",
+    "Vishnu Purana",
+    "Mahabharata",
+    "Valmiki Ramayana (Uttara Kanda)",
+    "Bhagavata Purana"
+  ],
+  "places": ["Durvasa Rishi Ashram, Azamgarh"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name means 'hard to live with'. The Brahmanda Purana says Shiva, furious after a quarrel with Brahma, placed that anger in Anasuya, and Durvasa was born from this portion.",
+      "kind": "language",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": true
+    },
+    {
+      "text": "In the Vishnu Purana, an air nymph gave Durvasa a flower garland; he wore it, then threw it to Indra, whose elephant Airavata flung it down. Durvasa cursed Indra to lose his rule over the three worlds.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": true
+    },
+    {
+      "text": "Weakened, the gods were attacked by Bali's asuras, and Vishnu advised a truce and the churning of the ocean. Only some Puranas (Vishnu, Vayu, Padma) tie this to Durvasa; the Ramayana, Mahabharata and Matsya Purana do not mention him there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Durvasa threatens to curse all of Ayodhya if kept waiting, so Lakshmana interrupts Rama's private talk with Yama, knowing the cost; on Vasishtha's advice Rama then sends his brother away.",
+      "kind": "story",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": true
+    },
+    {
+      "text": "Young Kunti served Durvasa through his odd demands. He taught her mantras to call a god; she tried one on Surya and Karna was born. Later she used them for the three eldest Pandavas, and her co-wife Madri for the youngest two.",
+      "kind": "story",
+      "interest": 9,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": true
+    },
+    {
+      "text": "In a Shiva Purana tale, Durvasa's cloth was swept away while bathing and Draupadi gave him hers. His blessing is linked to her never being without clothes.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": false
+    },
+    {
+      "text": "King Ambarisha's vow said to end his fast at the start of Dvadashi. With Durvasa still bathing, he took a sip of water on his priests' advice. Durvasa felt the guest came second and made a creature of his hair to attack the king.",
+      "kind": "story",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Ambarisha",
+      "kid": true
+    },
+    {
+      "text": "The Sudarshana Chakra destroyed the creature and chased Durvasa. Brahma and Shiva said they could not help, and Vishnu said he was bound by Ambarisha's devotion, so the sage begged the king's forgiveness.",
+      "kind": "story",
+      "interest": 9,
+      "source": "https://en.wikipedia.org/wiki/Ambarisha",
+      "kid": true
+    },
+    {
+      "text": "In Kalidasa's Shakuntala story, Durvasa cursed her so that Dushyanta would forget her, then softened it: the ring Dushyanta had given her would restore his memory.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, Durvasa made Krishna and Rukmini pull his chariot toward Dvaraka. When Rukmini grew thirsty and drank from a spring without asking, he cursed her to be parted from Krishna.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-skanda-purana/d/doc627241.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Another tale says the goddess Saraswati laughed at a mistake in Durvasa's chanting of the Vedas, and he cursed her to take birth among humans.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": false
+    },
+    {
+      "text": "Krishna smeared his own body with payasam left from Durvasa's meal, and Durvasa blessed every covered part but noted the soles were left bare. Krishna later died from a hunter's arrow in the foot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Duryodhana, having pleased Durvasa, asked him to visit the Pandavas after Draupadi had eaten, when their Akshaya Patra bowl was empty. Krishna ate one grain and a scrap of vegetable stuck to it, and Durvasa and his pupils felt full and left.",
+      "kind": "story",
+      "interest": 9,
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "kid": true
+    },
+    {
+      "text": "Versions differ on his birth to Anasuya. A Markandeya Purana tale has the Trimurti grant her a boon of sons: Chandra, Dattatreya and Durvasa. A folk legend outside the main Puranas has them disguised as guests she turned into infants.",
+      "kind": "family",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "kid": true
+    },
+    {
+      "text": "Swaminarayan tradition says that at Badrinath Durvasa felt snubbed when no one rose to greet him and cursed the assembly to be born as humans. The curse was eased, and Narayana was promised birth as Dharma and Bhakti's son. No other scripture tells this tale.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata's version of Shakuntala has no curse: Dushyanta denies knowing her until a heavenly voice confirms her claim. The curse and the ring appear in Kalidasa's play.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's play Shakuntala loses the ring when it slips into a river, a fisherman finds it inside a fish and brings it to the king, and one look at it restores Dushyanta's memory.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shakuntala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bhanumati, daughter of Banu, was cursed after she provoked Durvasa while playing in a garden. He later said she would come to no lasting harm and would marry Sahadeva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ambarisha, said to have conquered the whole world in a week, was an Ikshvaku king of the solar line in which Rama appeared. Vishnu gave him the Sudarshana Chakra, which he worshipped with great devotion.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ambarisha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Durvasa's mother Anasuya counsels Sita during her exile in the Ramayana, and her austerities are said to bring the Mandakini river down to end a drought at Chitrakoot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Durvasa's name often mean?",
+      "options": ["Hard to live with", "Gentle teacher", "Bright as the moon", "Born of water"],
+      "answer": 0,
+      "why": "The name is explained as 'hard to live with'."
+    },
+    {
+      "q": "Who were Durvasa's parents?",
+      "options": [
+        "Kashyapa and Aditi",
+        "Atri and Anasuya",
+        "Vasishtha and Arundhati",
+        "Jamadagni and Renuka"
+      ],
+      "answer": 1,
+      "why": "He is the son of Atri and Anasuya."
+    },
+    {
+      "q": "What did Durvasa teach young Kunti?",
+      "options": [
+        "How to cook",
+        "Mantras to call a god",
+        "How to ride a chariot",
+        "A way to stop rain"
+      ],
+      "answer": 1,
+      "why": "He taught mantras that let her call a god."
+    },
+    {
+      "q": "Why did Durvasa and his pupils suddenly feel full in the Akshaya Patra story?",
+      "options": [
+        "Krishna ate a single grain stuck to the vessel",
+        "They had eaten at the river",
+        "Rain cooled the forest",
+        "Draupadi served a huge feast"
+      ],
+      "answer": 0,
+      "why": "Krishna ate one grain, with a scrap of vegetable, from the bowl, and the sage and his pupils felt full."
+    },
+    {
+      "q": "Whose chakra chased Durvasa in the Ambarisha story?",
+      "options": ["Vishnu's Sudarshana", "Shiva's trident", "Indra's thunderbolt", "Rama's bow"],
+      "answer": 0,
+      "why": "Vishnu's Sudarshana Chakra pursued him."
+    }
+  ],
+  "related": [
+    "atri",
+    "anasuya",
+    "dattatreya",
+    "chandra",
+    "indra",
+    "kunti",
+    "draupadi",
+    "krishna",
+    "shakuntala",
+    "ambarisha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Durvasa",
+    "ambarisha": "https://en.wikipedia.org/wiki/Ambarisha"
+  },
+  "palette": {
+    "c1": "#e8b89a",
+    "c2": "#f0dca8"
+  },
+  "order": 710,
+  "slug": "durvasa",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

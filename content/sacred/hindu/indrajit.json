@@ -1,0 +1,268 @@
+{
+  "slug": "indrajit",
+  "name": "Indrajit",
+  "aka": ["Meghanada", "Ravani", "Shakrajita", "Vasavajita"],
+  "native": "इन्द्रजित्",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Crown prince of Lanka, an asura in the Ramayana",
+  "summary": "Indrajit, also called Meghanada, is Ravana's eldest son in the Ramayana. He is remembered as a master of weapons and magic who defeated Indra, and he falls to Lakshmana in the war for Lanka.",
+  "about": "Indrajit, born Meghanada, is the eldest son of Ravana and Mandodari. The name Meghanada means roar of the clouds, said to describe his thunderous cry at birth, and Indrajit means conqueror of Indra. The Valmiki Ramayana and later retellings describe him as a master of divine weapons and of magic. He is said to have captured Indra, and Brahma persuaded him to release the king of the gods. In the war for Lanka he binds Rama and Lakshmana with serpent arrows and wounds Lakshmana severely. Vibhishana tells Rama about a fire rite that would make Indrajit very hard to defeat, and Lakshmana kills him before it is finished. Later poets such as Michael Madhusudan Dutt make him the hero of their tellings.",
+  "kidSummary": "Indrajit is the brave son of Ravana in the Ramayana. His birth cry sounded like thunder, so he was named Meghanada. He could use amazing magic and weapons, and he even defeated Indra, the king of the gods. His story is about loyalty to family, and the cost of war.",
+  "story": [
+    {
+      "title": "A thunder-cry",
+      "text": "Ravana's first son is born with a cry like thunder, so he is named Meghanada, meaning cloud-roar."
+    },
+    {
+      "title": "He defeats Indra",
+      "text": "As a young prince, Meghanada captures Indra, king of the gods. Brahma asks him to free Indra and gives him the name Indrajit, meaning victor over Indra."
+    },
+    {
+      "title": "A fire rite for power",
+      "text": "In the war for Lanka, Indrajit is said to prepare a sacred fire ritual at Nikumbhila. Brahma's boon says whoever stops it will be the one who defeats him."
+    },
+    {
+      "title": "Serpent arrows",
+      "text": "In the battle, Indrajit binds Rama and Lakshmana with serpent arrows. Garuda arrives and frees them, and the army is relieved."
+    },
+    {
+      "title": "The final fight",
+      "text": "Vibhishana tells Lakshmana where Indrajit is. In a long duel, Lakshmana prays for victory and strikes with a divine arrow, and Indrajit falls."
+    }
+  ],
+  "teaches": [
+    "Skill is strongest when joined with fairness",
+    "Remember that every warrior is somebody's child",
+    "Think about the cost of war"
+  ],
+  "symbol": "bow",
+  "emblems": ["Divine arrows", "Chariot", "Serpent arrows (Nagapasha)", "Nikumbhila fire rite"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Mother",
+      "name": "Mandodari",
+      "slug": "mandodari"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Opponent in battle",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Meghnad Badh Kavya", "Thai Ramakien", "Krittivasi Ramayan"],
+  "places": ["Lanka", "Nikumbhila"],
+  "festivals": ["Dussehra", "Ramlila"],
+  "facts": [
+    {
+      "text": "In the Valmiki council, Indrajit brags that he once hurled Indra to the ground and tore out the tusks of the elephant Airavata, so two human princes should be easy to beat (Yuddha 15).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga15/yuddhaitrans15.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Later lore says Shani (Saturn) disobeyed Ravana's order at the child's birth and stood in the twelfth house of his horoscope. Ravana blamed Shani for the boy's fate.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is said to have captured Indra and held him in Lanka for years, until Brahma asked for his release and, in return, named him Indrajit, victor over Indra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Brahma refused Indrajit immortality. He promised instead a celestial chariot and near invincibility if he finished the Nikumbhila fire rite, warning that whoever disrupted it would be his killer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Popular retellings say only a man who had not slept for fourteen years could kill him, and Lakshmana is the one said to have managed that.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His Nagapasha is described as a noose of a million serpents. It bound Rama and Lakshmana until Garuda came to free them, in some tellings called by Hanuman. In Valmiki Garuda arrives on his own.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In many retellings, Indrajit's Shakti weapon wounded Lakshmana so badly that Hanuman had to fly to the Himalayas to fetch the healing herb Sanjivani.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On the first day of the war, one retelling says Angada leapt onto Indrajit's chariot and smashed it, killing his horses and charioteer. Indrajit then vanished into the clouds and attacked from there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before releasing it, Lakshmana prayed that if Rama was truly righteous and truthful, the arrow should end Indrajit's life. The head fell to the ground still wearing its golden earrings.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhaitrans90.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki Yuddha 89 and 90, Lakshmana and the vanaras wreck Indrajit's chariot and horses. He rushes back into Lanka and returns with a second chariot to keep fighting.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhaitrans90.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Later versions give him a wife, Sulochana, said to be Shesha's daughter and absent from Valmiki. Some say Shesha cursed him over a hasty marriage, tying it to Shesha's incarnation Lakshmana slaying him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Dutt's Bengali epic Meghnad Badh Kavya (1861) has nine cantos on his fall and treats him with sympathy. Critics compared him to Milton's Satan; Bankim Chandra praised the poem highly.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meghnad_Badh_Kavya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien he is Intharachit, a name meaning winner of Indra, and tradition says he is fated to die in the air rather than on land.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramakien",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki Yuddha 81, Indrajit makes an illusory Sita, rides with her in his chariot and strikes her down before Hanuman's eyes, hoping to crush the vanaras' spirit.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga81/yuddhaitrans81.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Indrajit makes offerings to a sacred fire before battle to gain the power of fighting unseen, then rains arrows on Rama and Lakshmana while invisible in the sky.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga80/yuddhaitrans80.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Yuddha 74, Indrajit's Brahma weapon knocks out Rama, Lakshmana and about sixty-seven crore vanaras. Hanuman fetches healing herbs from the Himalayas and all of them revive.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhaitrans74.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In one retelling, Lakshmana was about to use the Brahmastra on the hidden Indrajit, but Rama held him back, saying it was against the rules of war to strike an unseen foe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In some retellings, after his divine weapons turn back before Lakshmana, Indrajit urges Ravana to make peace with Rama, but Ravana calls him a coward. This is not in Valmiki's text.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki Sundara Kanda 48, Indrajit binds Hanuman with the Brahma weapon. Hanuman, who could have shaken it off, lets himself be dragged to Ravana's court, eager to meet him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga48/sundaraitrans48.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before that duel Hanuman had defeated Ravana's younger son Aksha (Akshayakumara), Indrajit's brother, in Sundara Kanda 47. Indrajit then went out to face Hanuman himself.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/sundara/sarga47/sundaraitrans47.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Meghanada mean?",
+      "options": ["Roar of the clouds", "Golden arrow", "River of light", "Strong as a mountain"],
+      "answer": 0,
+      "why": "Megha means cloud and nada means roar."
+    },
+    {
+      "q": "Which king of the gods did Indrajit defeat?",
+      "options": ["Yama", "Varuna", "Indra", "Kubera"],
+      "answer": 2,
+      "why": "Indrajit means victor over Indra."
+    },
+    {
+      "q": "Who rescued Rama and Lakshmana from the serpent arrows?",
+      "options": ["Hanuman", "Garuda", "Nandi", "Jatayu"],
+      "answer": 1,
+      "why": "Garuda, the eagle, frees them from the Nagapasha."
+    },
+    {
+      "q": "Which poet wrote Meghnad Badh Kavya?",
+      "options": ["Tulsidas", "Kamban", "Valmiki", "Michael Madhusudan Dutt"],
+      "answer": 3,
+      "why": "He published it in Bengali in 1861."
+    },
+    {
+      "q": "Who defeats Indrajit in the Ramayana?",
+      "options": ["Lakshmana", "Hanuman", "Sugriva", "Angada"],
+      "answer": 0,
+      "why": "Lakshmana strikes with a divine arrow."
+    }
+  ],
+  "related": [
+    "ravana",
+    "mandodari",
+    "lakshmana",
+    "rama",
+    "vibhishana",
+    "hanuman",
+    "indra",
+    "brahma",
+    "garuda",
+    "shesha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Indrajit",
+    "valmiki-90": "https://www.valmikiramayan.net/utf8/yuddha/sarga90/yuddhaitrans90.htm",
+    "meghnad": "https://en.wikipedia.org/wiki/Meghnad_Badh_Kavya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#A9B8CC",
+    "c2": "#E3D7C0"
+  },
+  "order": 30
+}

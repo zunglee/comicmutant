@@ -1,0 +1,281 @@
+{
+  "name": "Ashtavakra",
+  "aka": ["Ashtavakra Muni", "Astavakra"],
+  "native": "अष्टावक्र",
+  "role": "Child sage who won the debate at Janaka's court",
+  "summary": "Ashtavakra is a sage said to be born bent in eight places. As a boy, he defeated the scholar Vandin at King Janaka's court, and the Ashtavakra Gita is credited to him.",
+  "about": "In the Mahabharata, the sage Lomasa tells Ashtavakra's story to the Pandavas. The Mahabharata says his father Kahoda was cursed to have a crooked-bodied child after the unborn boy corrected his recitation, and that Kahoda was later drowned after losing a debate to Vandin. As a boy (the gatekeeper calls him ten years old), Ashtavakra went to King Janaka's court, won the debate, and his father returned. He bathed in the Samanga river and his body became straight. The Ashtavakra Gita, a teaching in dialogue with Janaka, is credited to him, though scholars debate when it was written. Other texts such as the Ramayana and the Adhyatma Ramayana mention him.",
+  "kidSummary": "Ashtavakra was a wise boy whose body was bent in eight places. Even as a child, he walked into King Janaka's court and out-debated a famous scholar. The story reminds us that wisdom matters more than age or looks.",
+  "story": [
+    {
+      "title": "A voice from the womb",
+      "text": "Before he is born, Ashtavakra hears his father Kahoda chanting the Vedas and gently points out a mistake. Kahoda is upset and says the child will be born bent in eight places."
+    },
+    {
+      "title": "A father lost",
+      "text": "Kahoda goes to King Janaka's court and loses a debate with the scholar Vandin. Uddalaka and Sujata keep this a secret from Ashtavakra for years."
+    },
+    {
+      "title": "The truth",
+      "text": "In his twelfth year, Ashtavakra's uncle Shvetaketu teases him about his father. Hurt, he asks his mother and learns the truth, and he decides to go to Janaka's court."
+    },
+    {
+      "title": "Not too young",
+      "text": "The gatekeeper says only learned elders may enter and calls him a boy. Ashtavakra replies that age and size do not show wisdom, and he is let in."
+    },
+    {
+      "title": "A number contest",
+      "text": "He and Vandin take turns reciting verses about numbers from one to thirteen. Vandin runs out at thirteen, and Ashtavakra finishes the verse. His father returns, and the river Samanga makes his body straight."
+    }
+  ],
+  "teaches": [
+    "Wisdom matters more than age or looks",
+    "Be brave and speak up respectfully",
+    "Honour your parents"
+  ],
+  "symbol": "wave",
+  "emblems": ["Ashtavakra Gita", "Samanga river"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Kahoda"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sujata"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Uddalaka Aruni"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Shvetaketu"
+    },
+    {
+      "relation": "Royal host",
+      "name": "Janaka",
+      "slug": "janaka"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Vana Parva 132–134)",
+    "Ashtavakra Gita",
+    "Ramayana (Yuddha Kanda)",
+    "Adhyatma Ramayana",
+    "Uttara-Ramacharitam"
+  ],
+  "places": ["Mithila", "Samanga river"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name roughly means eight bends, pointing to the eight places where his body was said to be bent from birth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says the unborn Ashtavakra pointed out a mistake in his father's recitation, and Kahoda angrily cursed him to be bent in eight places.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03132.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Kahoda lost a debate to the scholar Vandin at King Janaka's court and was drowned; Uddalaka told Sujata to hide this from her son.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03132.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Ashtavakra is in his twelfth year when his uncle Shvetaketu pulls him off Uddalaka's lap and says it is not his father's lap, which makes him ask about his father.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03132.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the gatekeeper says only old Brahmins may enter and calls him a boy in his tenth year (another passage says twelfth); Ashtavakra answers that learning, not age, makes a person worthy.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the gate Ashtavakra says true growth cannot be read from the body, just as the knots of a silk-cotton tree do not show its age; a slender tree that bears fruit is called fully grown.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ashtavakra tells the gatekeeper that even boys should not be slighted, because a small fire still burns when touched.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ashtavakra says Vandin roars like a lion only because he has never met a match, warns him not to wake a sleeping tiger, and calls himself a blazing fire.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Janaka tests him with riddles: what never closes its eyes in sleep, what does not move when born, what has no heart, and what grows by its own speed? The answers are fish, egg, stone and river.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Vandin and Ashtavakra trade verses on numbers from one to thirteen. When Vandin runs out of words at thirteen, Ashtavakra completes the verse.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03134.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Vandin reveals he is Varuna's son and the Brahmins he sent away are returning from Varuna's twelve-year sacrifice. Kahoda appears and praises his son, and Vandin enters the sea.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03134.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Kahoda told his son to bathe in the Samanga river, and his crooked limbs were straightened; the river became a place of purification.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03134.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vadanya promises him his daughter Suprabha if he first journeys to the north, where Kuvera hosts him with music and dance and he does not notice a celestial year pass.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m13/m13a019.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Adhyatma Ramayana, he curses a Gandharva who laughs at his looks, and says Rama will free him in the Treta Yuga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A popular tradition says that when Janaka asked about his crooked body, Ashtavakra answered that a temple's shape does not change the space inside it, and his body's shape does not touch his true Self.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra_Gita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Janaka asks about a wheel with twelve parts, 24 joints and 360 spokes; Ashtavakra answers, and the translator's note reads it as the wheel of Time, the year.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03133.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Dasharatha tells Rama from heaven that he has been rescued by his son, just as the Brahmin Kahoda was rescued by his son Ashtavakra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 571st Amar Chitra Katha comic, first published in 1976 and titled Dhruva and Ashtavakra, retells his story in its second half.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ashtavakra appears in the first act of Bhavabhuti's 8th-century Sanskrit play Uttararamacharita.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars disagree on when the Ashtavakra Gita was written: one dates it to about 500-400 BCE, while another thinks the 8th or 14th century CE, a gap of well over a thousand years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra_Gita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the sage Lomasha tells Ashtavakra's story to the Pandavas on their pilgrimage during exile, spread over three chapters of the Vana Parva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ashtavakra's mother Sujata is the daughter of Aruni, the teacher also named in the Chandogya Upanishad, and in the Mahabharata Shvetaketu is his uncle.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A puppet play on Ashtavakra was staged by the Dhaatu Artist group at Ranga Shankara in Bangalore in 2010.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ashtavakra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ashtavakra roughly mean?",
+      "options": ["Eight bends", "Eight rivers", "Eight horses", "Eight teachers"],
+      "answer": 0,
+      "why": "Ashta means eight and vakra means bent."
+    },
+    {
+      "q": "Who did Ashtavakra defeat in debate?",
+      "options": ["Vandin", "Kahoda", "Uddalaka", "Shvetaketu"],
+      "answer": 0,
+      "why": "He out-debated Vandin at Janaka's court."
+    },
+    {
+      "q": "Which river is said to have straightened his body?",
+      "options": ["Yamuna", "Ganga", "Samanga", "Godavari"],
+      "answer": 2,
+      "why": "Kahoda told him to bathe in the Samanga."
+    },
+    {
+      "q": "In Janaka's riddle, what never closes its eyes even while sleeping?",
+      "options": ["A fish", "An egg", "A stone", "A river"],
+      "answer": 0,
+      "why": "The riddle's answers are a fish, an egg that does not move when born, a stone with no heart, and a river that grows by its own speed."
+    },
+    {
+      "q": "Who is credited with the Ashtavakra Gita?",
+      "options": ["Ashtavakra", "Vyasa", "Valmiki", "Kapila"],
+      "answer": 0,
+      "why": "It is credited to Ashtavakra in dialogue with Janaka."
+    }
+  ],
+  "related": ["janaka", "varuna", "yama", "dasharatha", "rama", "yudhishthira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashtavakra",
+    "ashtavakraGita": "https://en.wikipedia.org/wiki/Ashtavakra_Gita",
+    "mahabharata132": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03132.htm",
+    "mahabharata134": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03134.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e9dcc4",
+    "c2": "#c0d6dc"
+  },
+  "order": 790,
+  "slug": "ashtavakra",
+  "tradition": "hindu",
+  "group": "rishi"
+}

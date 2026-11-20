@@ -1,0 +1,293 @@
+{
+  "slug": "aditi",
+  "name": "Aditi",
+  "aka": ["Mother of the Adityas", "Devamata"],
+  "native": "अदिति",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Vedic goddess of boundless space, mother of the gods",
+  "summary": "Aditi is an ancient Vedic goddess whose name is often explained as boundless or limitless. In Hindu texts she is the mother of the Adityas, a daughter of Daksha, and later the mother of Indra and Vamana.",
+  "about": "Aditi is one of the oldest goddesses in the Vedic tradition, mentioned more than 250 times in the Rigveda, though no hymn is dedicated to her alone. Her name is commonly explained as boundless or free. The Rigveda calls her the mother of the Adityas, a group of gods tied to cosmic order, including Varuna and Mitra. Later texts say she and the sage Kashyapa had many divine children, among them Indra and, in the Puranas, Vishnu's Vamana avatar. The Shatapatha Brahmana links her to the Earth, and hymns ask her to free people from harm. In the Bhagavata Purana, the asura Narakasura stole her earrings and Krishna recovered them.",
+  "kidSummary": "Aditi is an ancient goddess whose name is often explained as boundless, like the open sky. Hindu texts call her the mother of many gods, including the Adityas who are linked to the sun and the twelve months. In a story about Vishnu, she is also the mother of Vamana, who took three giant steps.",
+  "story": [
+    {
+      "title": "A boundless mother",
+      "text": "In the Rigveda, Aditi is a goddess of limitless space and freedom. Her children are the Adityas, gods linked with light and cosmic order."
+    },
+    {
+      "title": "Wife of Kashyapa",
+      "text": "Later texts say she was a daughter of Daksha, married to the sage Kashyapa along with her sister Diti. Aditi and Kashyapa are said to be the parents of many gods."
+    },
+    {
+      "title": "A wish for a great son",
+      "text": "One tradition says Kashyapa offered Aditi a wish, and she asked for one very good son. Indra was born."
+    },
+    {
+      "title": "Vamana is born",
+      "text": "In the Puranas, Vishnu was born to Aditi and Kashyapa as Vamana, a small boy. He later took three great steps to win back the worlds from King Mahabali."
+    },
+    {
+      "title": "The lost earrings",
+      "text": "The Bhagavata Purana says that Narakasura took Aditi's earrings. Krishna, with Satyabhama, defeated him and brought them back."
+    }
+  ],
+  "teaches": [
+    "Freedom and kindness go together",
+    "A mother's care reaches everyone",
+    "Cosmic order matters for everything alive"
+  ],
+  "symbol": "star",
+  "emblems": ["Open sky", "Earrings (in the Narakasura story)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Daksha"
+    },
+    {
+      "relation": "Sister",
+      "name": "Diti (mother of the daityas)"
+    },
+    {
+      "relation": "Husband",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Son",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Son",
+      "name": "Varuna",
+      "slug": "varuna"
+    },
+    {
+      "relation": "Son",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Son, as Vamana",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Rigveda", "Shatapatha Brahmana", "Mahabharata", "Puranas", "Bhagavata Purana"],
+  "places": [],
+  "festivals": ["Naraka Chaturdashi (the Narakasura story)"],
+  "facts": [
+    {
+      "text": "The Rigveda mentions Aditi more than 250 times, yet no hymn in it is addressed to her alone.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Aditi's name joins a, meaning not, with a root for binding, so it reads as the unbound one. Hymns ask her to untie people from trouble, even one tied up like a captured thief (Rigveda 8.67.14).",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vamana's other name, Trivikrama, means three steps. The Rigveda has Vishnu stride three times without calling him a dwarf, and the dwarf story came later; he is counted the youngest of the Adityas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The twelve Adityas are linked with the twelve months, and a different Aditya is said to shine in each month.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Adityas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her sister Diti, also married to Kashyapa, is the mother of the daityas, so in the Puranas the devas and daityas share a father and are half-brothers.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Diti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Aditi and Kashyapa are said to have had 33 sons, of whom twelve are Adityas, eleven are Rudras and eight are Vasus.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Aditi keeps the payovrata, a twelve-day vow of living on milk alone, and Vishnu is born to her as Vamana.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Payovrata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One Rigveda verse says Daksha sprang from Aditi and Aditi from Daksha, a riddle of two beings each producing the other.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The word Aditya literally means of Aditi, and when it is used in the singular it usually points to the sun god Surya, one of her sons.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Adityas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Adityas did not always number twelve: the oldest hymns of the Rigveda count seven or eight, and the later Brahmanas and Puranas settle on twelve.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adityas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Popular tradition says Aditi was reborn as Devaki, the mother of Krishna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Devaki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Harivamsa account, Vishnu is born to Aditi as the dwarf Vamana after she carries him for a thousand years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Aditi was one of thirteen daughters of Daksha, whom the Puranas say he gave in marriage to the sage Kashyapa, so she shares a husband with her sister Diti.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Diti wanted a son to defeat Indra, Indra split the child in her womb with his thunderbolt, and the pieces became the Maruts, the storm gods.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Diti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says Kashyapa warned Diti that her twin sons would trouble the worlds, yet her grandson Prahlada would be a devotee of Vishnu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Diti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Aditi is linked with space (akasha) and with mystic speech, Vac. Some readers see her as a feminine form of Brahma, and in Vedanta she is linked with the primal substance, mulaprakriti.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A well-known old temple of Aditi is recorded near the rock-cut cave at Vizhinjam in Kerala, a rare shrine for a goddess who is mostly known from Vedic hymns.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some modern descriptions give Aditi a phoenix as her mount, flying across the boundless sky. The phoenix is said to stand for strength and her nature of endless rebirth and creation.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Shatapatha Brahmana ties Aditi to the Earth: priests say 'in the lap of Aditi' as they set an offering down, since people say they carry something 'in the lap' when they guard it very carefully.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Aditi first appears in the Rigveda, which mainstream scholars date to between 1800 and 1200 BCE, making her one of the oldest goddesses in the Hindu tradition.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Aditi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In some traditions Narakasura asked that his death be celebrated with colourful lights, which is why Naraka Chaturdashi, the start of Diwali, is also kept in honour of Aditi, whose earrings Krishna recovered.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Aditi often mean?",
+      "options": ["Golden", "Victorious", "Boundless", "River"],
+      "answer": 2,
+      "why": "Aditi is commonly explained as boundless or limitless."
+    },
+    {
+      "q": "Who are the Adityas?",
+      "options": [
+        "Children of Aditi",
+        "Sages of the forest",
+        "Rivers of heaven",
+        "Elephants of directions"
+      ],
+      "answer": 0,
+      "why": "The Adityas are a group of gods said to be her children."
+    },
+    {
+      "q": "Which avatar of Vishnu is Aditi's son in the Puranas?",
+      "options": ["Matsya", "Kurma", "Varaha", "Vamana"],
+      "answer": 3,
+      "why": "Vamana is said to be born to Aditi and Kashyapa."
+    },
+    {
+      "q": "How many Adityas link to the months of the year?",
+      "options": ["Nine", "Twelve", "Seven", "Four"],
+      "answer": 1,
+      "why": "The twelve Adityas are linked with the twelve months."
+    },
+    {
+      "q": "Who was Aditi's sister, mother of the daityas?",
+      "options": ["Ratri", "Sita", "Diti", "Ushas"],
+      "answer": 2,
+      "why": "The Puranas say Diti was also married to Kashyapa and was the mother of the daityas."
+    }
+  ],
+  "related": [
+    "kashyapa",
+    "indra",
+    "varuna",
+    "surya",
+    "vishnu",
+    "vamana",
+    "narakasura",
+    "krishna",
+    "satyabhama",
+    "bhumi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aditi",
+    "adityas": "https://en.wikipedia.org/wiki/Adityas",
+    "vamana": "https://en.wikipedia.org/wiki/Vamana",
+    "naraka-chaturdashi": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+    "diti": "https://en.wikipedia.org/wiki/Diti",
+    "payovrata": "https://en.wikipedia.org/wiki/Payovrata",
+    "devaki": "https://en.wikipedia.org/wiki/Devaki",
+    "narakasura": "https://en.wikipedia.org/wiki/Narakasura"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9e0f0",
+    "c2": "#f4ead6"
+  },
+  "order": 10
+}

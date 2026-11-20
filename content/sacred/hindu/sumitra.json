@@ -1,0 +1,189 @@
+{
+  "slug": "sumitra",
+  "name": "Sumitra",
+  "aka": ["Sumitra Devi"],
+  "native": "सुमित्रा",
+  "role": "Second queen of Dasharatha, mother of Lakshmana and Shatrughna",
+  "summary": "Sumitra is the second queen of Dasharatha in the Ramayana and the mother of the twins Lakshmana and Shatrughna. She is known for wise, steady advice.",
+  "about": "In the Valmiki Ramayana, Sumitra is the second of Dasharatha's three chief queens and the mother of the twins Lakshmana and Shatrughna. Her name is formed from su, good, and mitra, friend. The text does not name her parents, but later works describe her as a princess of Kashi or Magadha. When Lakshmana chose to follow Rama into the forest, tradition remembers her advice as simple and generous: to serve his elder brother as he would a parent. Many readers see her as the wisest of the three queens, calm where others were swept up in jealousy or grief. She comforts Kaushalya during Rama's absence and speaks with confidence that he will return.",
+  "kidSummary": "Sumitra is a queen of Ayodhya and the mother of the twins Lakshmana and Shatrughna. When her son decided to go with Rama to the forest, she blessed him instead of holding him back. Her name means good friend, and she is remembered as calm and wise.",
+  "story": [
+    {
+      "title": "A queen with a kind name",
+      "text": "Sumitra became the second queen of Dasharatha. Her name means a good friend, and stories remember her as gentle and wise."
+    },
+    {
+      "title": "The payasam share",
+      "text": "During the great sacrifice for sons, the king shared a sacred pudding among his queens. Sumitra received a quarter, and later an extra eighth, so she had two portions."
+    },
+    {
+      "title": "Twin sons",
+      "text": "She became the mother of twins, Lakshmana and Shatrughna. Lakshmana grew very close to Rama."
+    },
+    {
+      "title": "A hard goodbye",
+      "text": "When Rama was sent to the forest, Lakshmana asked to go too. Sumitra blessed him and told him to care for Rama and Sita as he would for his parents."
+    },
+    {
+      "title": "Comfort for Kaushalya",
+      "text": "Sumitra stayed to support Kaushalya in her sadness, telling her that Rama would one day come home."
+    }
+  ],
+  "teaches": [
+    "Support the people you love, even when it is hard",
+    "Serve family with loyalty",
+    "Stay calm in a crisis"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Sacred pudding (payasam)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Son",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Son",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Kaushalya",
+      "slug": "kaushalya"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Kaikeyi",
+      "slug": "kaikeyi"
+    },
+    {
+      "relation": "Daughter-in-law",
+      "name": "Urmila",
+      "slug": "urmila"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Padma Purana", "Raghuvamsha"],
+  "places": ["Ayodhya"],
+  "festivals": ["Ram Navami"],
+  "quiz": [
+    {
+      "q": "What does the name Sumitra mean?",
+      "options": ["Good friend", "Bright moon", "River of gold", "Strong queen"],
+      "answer": 0,
+      "why": "It joins su, good, with mitra, friend."
+    },
+    {
+      "q": "Who are Sumitra's twin sons?",
+      "options": ["Rama and Bharata", "Lakshmana and Shatrughna", "Luv and Kush", "Nala and Nila"],
+      "answer": 1,
+      "why": "Lakshmana and Shatrughna are the twins."
+    },
+    {
+      "q": "What did Sumitra tell Lakshmana to treat the forest as?",
+      "options": ["A prison", "A holiday", "Home, like Ayodhya", "A school"],
+      "answer": 2,
+      "why": "She said to treat the forest like Ayodhya."
+    },
+    {
+      "q": "How much of the payasam did Sumitra receive first?",
+      "options": ["A quarter", "Half", "A tenth", "None"],
+      "answer": 0,
+      "why": "She got a quarter, and later an extra eighth."
+    },
+    {
+      "q": "In Tulsidas's Ramcharitmanas, Sumitra says Ayodhya is wherever which person lives?",
+      "options": ["Rama", "Bharata", "Dasharatha", "Hanuman"],
+      "answer": 0,
+      "why": "She tells Lakshmana that Ayodhya is wherever Rama lives, so the forest with Rama is home."
+    }
+  ],
+  "related": ["dasharatha", "lakshmana", "shatrughna", "kaushalya", "kaikeyi", "rama", "urmila"],
+  "palette": {
+    "c1": "#EEDDB8",
+    "c2": "#E8C9A0"
+  },
+  "facts": [
+    {
+      "text": "In Valmiki's text she tells Lakshmana to see Rama as Dasharatha, Sita as herself and the forest as Ayodhya.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423987.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sumitra received two portions of the divine pudding, a quarter first and then an extra eighth when Dasharatha reflected, which is why she became the mother of twins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sumitra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramcharitmanas, Sumitra tells Lakshmana that Ayodhya is wherever Rama lives, as daylight is wherever the sun shines, and that he should now treat Sita as his mother and Rama as his father.",
+      "kind": "story",
+      "source": "https://ramcharitmanas.info/collection/dialogues-between-shri-lakshman-and-mother-sumitra/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Later texts give different mothers for Shanta, Sumitra among them, but Valmiki's Bala Kanda calls her only the daughter of Romapada, king of Anga, and never names her mother.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sumitra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sumitra reminded Lakshmana of the family tradition of giving gifts, performing sacrifices, courage in battle and respect for elders, and told him she had borne him to serve Rama.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423987",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Comforting Kaushalya after Rama left, Sumitra said he was safe with Lakshmana going ahead, bow and sword in hand, and that Kaushalya would soon see him bow at her feet, bright as the rising moon.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423991",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the morning of Rama's planned coronation, Sumitra was already at Kaushalya's side with Lakshmana and Sita when Rama arrived, while Kaushalya prayed in silence for his welfare.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423951",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki names no parents for Sumitra; later texts call her a princess of Kashi or Magadha, or of the Haiheya clan, and Kalidasa's Raghuvamsha calls her the daughter of Magadha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sumitra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's Ayodhya 12, Dasharatha, torn about exiling Rama, says the terrified Sumitra will never trust him again.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423959",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "order": 500,
+  "depth": "compact",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumitra",
+    "ayodhya40": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423987",
+    "das": "https://en.wikipedia.org/wiki/Dasharatha",
+    "ayodhya44": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423991",
+    "ayodhya4": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423951",
+    "ayodhya12": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423959",
+    "manas": "https://ramcharitmanas.info/collection/dialogues-between-shri-lakshman-and-mother-sumitra/"
+  }
+}

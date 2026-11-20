@@ -1,0 +1,253 @@
+{
+  "slug": "nala-ramayana",
+  "name": "Nala",
+  "aka": ["Nala Setu builder", "Vanara engineer"],
+  "native": "नल",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Vanara engineer who builds the bridge to Lanka",
+  "summary": "Nala is the vanara builder of the Ramayana, a son of the divine craftsman Vishvakarma. He plans and builds the great bridge that lets Rama's army cross the sea to Lanka.",
+  "about": "In the Valmiki Ramayana, Nala is a vanara, a forest-dwelling monkey being, and the son of Vishvakarma, the divine architect, who gave him his skill. When Rama's army reaches the shore of the southern sea, the ocean tells Rama that Nala is able to build a bridge, and Nala steps forward to do it. According to Valmiki, the bridge is finished in five days. Later versions add details: Tulsidas's Ramcharitmanas names Nala together with his twin Nila, and some regional tales say stones floated at Nala's touch. Many hold that the bridge is the Ram Setu, a chain of limestone shoals between Rameswaram and Mannar. The Kamba Ramayana credits Nala alone as the builder, and Jain texts say he later took Jain initiation. Sanskrit dictionaries give nala first as a tall reed, with lotus blossom as a separate sense found in lexicons.",
+  "kidSummary": "Nala is the clever monkey engineer of the Ramayana. When Rama's army reached the sea and needed a way to cross, Nala said he could build a bridge. Everyone worked together, carrying stones and trees, and in five days the bridge was ready. Nala shows that teamwork and good planning can solve very big problems.",
+  "story": [
+    {
+      "title": "The sea in the way",
+      "text": "Rama's army reached the southern shore. Ahead lay the wide sea, and beyond it the island of Lanka, where Sita was kept."
+    },
+    {
+      "title": "An engineer steps forward",
+      "text": "In Valmiki's telling, the ocean told Rama that Nala, son of the divine craftsman Vishvakarma, could build a bridge. Nala was confident because he had his father's skill."
+    },
+    {
+      "title": "Everyone helps",
+      "text": "Thousands of vanaras carried trees, rocks and boulders to the water's edge. Nala guided the building, laying out the bridge row by row."
+    },
+    {
+      "title": "Five days of work",
+      "text": "The Valmiki text says they built a little more each day: 14, then 20, 21, 22 and 23 yojanas, until the long bridge reached all the way across."
+    },
+    {
+      "title": "The bridge is ready",
+      "text": "The army crossed to Lanka, and Nala's bridge became so famous it is still called Nala Setu, the bridge of Nala."
+    }
+  ],
+  "teaches": [
+    "Teamwork and shared effort",
+    "Skill and planning solve big problems",
+    "Humility in great work"
+  ],
+  "symbol": "wave",
+  "emblems": ["Bridge over the sea", "Floating stones (in later tales)", "Reed (his name)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vishvakarma",
+      "slug": "vishvakarma"
+    },
+    {
+      "relation": "Twin (many tellings)",
+      "name": "Nila"
+    },
+    {
+      "relation": "Lord he serves",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Yuddha Kanda)",
+    "Kamba Ramayanam",
+    "Ramcharitmanas",
+    "Ananda Ramayana",
+    "Javanese wayang tellings"
+  ],
+  "places": ["Rameswaram", "Dhanushkodi", "Ram Setu (Adam's Bridge)"],
+  "festivals": ["Rama Navami"],
+  "facts": [
+    {
+      "text": "The Valmiki Ramayana says the bridge was 100 yojanas long and 10 wide and was finished in five days, growing by 14 yojanas on day one, then 20, 21, 22 and 23.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The chain of limestone shoals called Ram Setu or Adam's Bridge runs about 48 km from Pamban Island to Mannar Island. Some parts are dry, and the sea there rarely exceeds 1 metre in depth, so boats struggle to pass.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A work from around 850 CE by Ibn Khordadbeh calls the chain Set Bandhai, meaning bridge of the sea, and the name Adam's Bridge appears around 1030 CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the last Ice Age, sea levels fell so far that the whole Palk Strait was dry land joining India and Sri Lanka. The strait was flooded by about 7,000 years ago, and the shoals began to re-emerge about 5,000 years ago.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some regional tales Nala's touch made stones float. One says Nala and his twin Nila threw the sages' sacred images into water as boys, so the sages ruled that any stone they tossed would never sink.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nila_(Ramayana)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Another tale says the floating stones kept drifting apart until Hanuman suggested writing Rama's name on them, which held them together.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Telugu, Bengali and Javanese shadow-play versions tell of Hanuman objecting that Nala took stones with his left hand and placed them with his right; Rama explains that workers take with the left and place with the right.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kamba Ramayana describes Nala building golden, jewel-studded tent cities for the whole army in Lanka, while he himself lived in a simple bamboo hut.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jain texts say Nala later took Jain initiation and attained liberation at Mangi-Tungi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki, Nila is the son of Agni and commander-in-chief of the vanara army under Sugriva. Later tellings, such as Tulsidas's Ramcharitmanas, name Nala and his twin Nila together as the bridge builders.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nila_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "While the vanaras built, some held measuring poles and others stretched cords as long as 100 yojanas to keep the stones in a straight line, and still others gathered reeds and logs to bind the structure.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the great battle, arrows from Ravana's son Indrajit badly wound Nala, and he kills a rakshasa named Tapana. The Mahabharata has him fight a giant called Tundaka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rama first vowed to dry up the ocean with arrows. The sea god Sagara rose, asked him to aim at a distant northern land instead, which Valmiki says became the Maru desert, and then pointed to Nala as the bridge builder.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The monkeys uprooted sala, palm, arjuna, bilva and mango trees and hauled rocks as big as elephants, using machines for the heaviest, while falling mountains made the sea spout up and sink back with a roar.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki compares the finished bridge to the Milky Way across the sky and to a straight parting line through the sea, while gods, gandharvas, siddhas and sages watched from the heavens.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "NASA said that websites misread its satellite photos of Adam's Bridge as proof of a human-made origin. Images from orbit, it said, cannot show how or when a chain of islands formed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ananda Ramayana, before the bridge begins, Rama worships nine stones that Nala has installed as the Navagraha, the nine planetary deities.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Rama's threat to dry up the sea, Nala remarks that the ocean's pride gave way to the threat only after gentler means had failed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Commentators differ on the work. Some say the other vanaras only gathered materials while Nala himself built the bridge, and others say they built it under his direction.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Commentaries describe Nala as born from the divine architect Vishvakarma's union with a vanara mother, which explains his builder's skill.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Nala build in the Ramayana?",
+      "options": ["A palace", "A bridge across the sea", "A chariot", "A temple tower"],
+      "answer": 1,
+      "why": "Nala built the bridge Rama's army used to reach Lanka."
+    },
+    {
+      "q": "Who is Nala's father in the story?",
+      "options": ["Indra", "Vishvakarma", "Varuna", "Vayu"],
+      "answer": 1,
+      "why": "Nala is the son of Vishvakarma, the divine craftsman."
+    },
+    {
+      "q": "In Valmiki's telling, how many days did the bridge take?",
+      "options": ["One", "Five", "Fifty", "A year"],
+      "answer": 1,
+      "why": "The Valmiki text says the bridge was finished in five days."
+    },
+    {
+      "q": "In one tale, what did Hanuman suggest writing on the floating stones?",
+      "options": ["A flower", "Rama's name", "A number", "A map"],
+      "answer": 1,
+      "why": "Writing Rama's name was said to keep the stones together."
+    },
+    {
+      "q": "What plant does the Sanskrit word nala first name in Monier-Williams' dictionary?",
+      "options": ["A tall reed", "A mango tree", "A thorn bush", "A banyan"],
+      "answer": 0,
+      "why": "The dictionary lists nala first as a species of tall reed; lotus blossom is a separate sense known from lexicons."
+    }
+  ],
+  "related": ["rama", "hanuman", "sugriva", "vishvakarma", "indrajit", "jambavan"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nala_(Ramayana)",
+    "valmiki": "https://www.valmikiramayan.net/utf8/yuddha/sarga22/yuddhasans22.htm",
+    "bridge": "https://en.wikipedia.org/wiki/Adam%27s_Bridge",
+    "dictionary": "https://sanskrit.uohyd.ac.in/SKT/MW/134.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#CFE6EA",
+    "c2": "#F2E6CC"
+  },
+  "order": 500
+}

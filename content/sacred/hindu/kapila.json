@@ -1,0 +1,269 @@
+{
+  "slug": "kapila",
+  "name": "Kapila",
+  "aka": ["Kapila Muni", "Kapil Muni", "Chakradhanus"],
+  "native": "कपिल",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage credited as founder of Samkhya philosophy",
+  "summary": "Kapila is the sage traditionally credited with founding Samkhya, a philosophy that separates matter from spirit. The Bhagavata Purana makes him Vishnu's avatar, and Gangasagar is tied to him.",
+  "about": "Tradition credits Kapila with founding Samkhya, a dualistic philosophy that tells matter (prakriti) from spirit (purusha). Dates are uncertain: some sources say the 6th or 7th century BCE, and some scholars think the name covers several different people. The Bhagavata Purana calls him an avatar and the son of Kardama and Devahuti, and says he taught Samkhya to his mother. The Brahma Purana tells how King Sagara's 60,000 sons disturbed Vishnu in Kapila's form and were burned, and the pilgrimage of Gangasagar is tied to that story. Jain and Buddhist texts also mention a Kapila.",
+  "kidSummary": "Kapila was a thoughtful sage who taught that what we see and the one who sees are different. Old books say he taught his own mother, Devahuti. A famous story says the Ganga came to earth to touch the ashes of King Sagara's sons near his ashram, which is why pilgrims go to Gangasagar every January.",
+  "story": [
+    {
+      "title": "A sage's quiet teaching",
+      "text": "The Bhagavata Purana says Kapila was born to Kardama and Devahuti. When he grew up, his mother asked him how to be free of worry, and he taught her the Samkhya way of knowing."
+    },
+    {
+      "title": "Matter and spirit",
+      "text": "In the Samkhya teaching, there is prakriti, the world of matter, and purusha, the watching spirit. Kapila taught that understanding the difference brings peace."
+    },
+    {
+      "title": "The wandering horse",
+      "text": "The Puranas say King Sagara's horse for a great ritual went missing and was found near Kapila's ashram. Sagara's 60,000 sons accused the meditating sage and disturbed him."
+    },
+    {
+      "title": "The ashes by the sea",
+      "text": "In the Ramayana and the Puranas, the ashes of Sagara's sons lay waiting for many ages. Then the king Bhagiratha prayed until the Ganga came down, so her waters could cleanse them."
+    },
+    {
+      "title": "A pilgrimage today",
+      "text": "Pilgrims still go to Gangasagar near the Bay of Bengal on Makar Sankranti. There they bathe and worship Kapil Muni and the sun."
+    }
+  ],
+  "teaches": [
+    "Learn to tell what changes from what watches",
+    "Peaceful questions bring freedom from worry",
+    "Non-violence is a high value"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Deerskin seat", "Water pot (kamandalu)", "Meditation pose (padmasana)"],
+  "family": [
+    {
+      "relation": "Father (Bhagavata)",
+      "name": "Kardama"
+    },
+    {
+      "relation": "Mother (Bhagavata)",
+      "name": "Devahuti"
+    },
+    {
+      "relation": "Student",
+      "name": "Asuri"
+    },
+    {
+      "relation": "Father (Matsya Purana)",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Linked to",
+      "name": "Bhagiratha",
+      "slug": "bhagiratha"
+    },
+    {
+      "relation": "Linked to",
+      "name": "Ganga",
+      "slug": "ganga"
+    }
+  ],
+  "texts": [
+    "Samkhya-sutra",
+    "Bhagavata Purana",
+    "Brahma Purana",
+    "Mahabharata",
+    "Uttaradhyayana (Jain)"
+  ],
+  "places": [
+    "Gangasagar, Sagar Island",
+    "Kapil Sankhya Ashram, Varanasi",
+    "Kapileshwar Temple, Bihar"
+  ],
+  "festivals": ["Gangasagar Mela (Makar Sankranti)"],
+  "facts": [
+    {
+      "text": "In the Mahabharata, the sage Panchasikha is called Kapileya because a Brahmin woman named Kapila is said to have nursed him; one scholar reads this as a hint that Samkhya had a woman teacher early on.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Temple texts describe a bearded Kapila in meditation with deerskin and a water pot, but one Agama text gives him eight arms, carrying a discus, sword, plough, conch, noose and staff.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Brahma Purana, Sagara's 60,000 sons hunt for their ritual horse, disturb Vishnu sleeping in Kapila's form, and the glow of his eyes burns all but four of them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the legend of Bhagiratha, Indra steals King Sagara's sacrificial horse and hides it in Patala, right where the sage Kapila sits in meditation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "To free the ashes of Sagara's sons, Bhagiratha does penance for the Ganga to descend; she first falls onto Shiva's matted hair, and the head stream is still called Bhagirathi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhagiratha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavad Gita, Krishna says that among perfected beings he is the sage Kapila.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/bg/10/26/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Jain text Jnatadharmakatha calls Kapila a contemporary of Krishna, and says the two blew their conch shells together.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jataka tales say the Buddha was Kapila in an earlier life, and Buddhist sources say the city of Kapilavastu was built in his honour.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Kapila argues against animal sacrifice: if a sacrifice helped the animal, the family offering it would gain from the same fate.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "An early commentary on Patanjali's Yoga Sutras, the Yoga-bhashya, calls Kapila the adi-vidvan, the first wise one.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kapila",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Medieval pilgrims faced tigers, gharials, pirates and disease on the way to Gangasagar.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gangasagar_Mela",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Classical Samkhya counts 25 principles, called tattvas, from the watching spirit (purusha) through matter, ego and mind to the elements; the school's name is linked to this counting.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Samkhya says nature has three strands, or gunas: sattva (lightness and joy), rajas (energy and restlessness) and tamas (heaviness and inertia). The world appears when their balance is disturbed.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The commentator Vijnana Bhikshu wrote that only a sixteenth part of the original Samkhya treatise was still known, and the rest had been lost to time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The oldest surviving Samkhya book, the Samkhya Karika, mentions an older work called the Shashtitantra, 'science of sixty topics', which is now lost.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda the word kapila appears but seems to mean reddish-brown, not the sage; Kapila as a seer first shows up with the word Samkhya in the Shvetashvatara Upanishad, around 300 BCE.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The commentator Vachaspati compared the watching self to a king: the king gets credit for a victory or defeat, but it is really the soldiers who live through it.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Samkhya Karika was translated into Chinese around the middle of the 6th century CE, and Al-Biruni's records from the early 11th century suggest it was a standard text in India.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Samkhya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Bengali newspaper in 1837 said the one temple on Sagar Island had been known for 1400 years and held a Siddhapurusha named Kapil Muni; a 16th-century Bengali text also names the temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gangasagar_Mela",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The poet Kalidasa's Raghuvamsha, from around the 5th century, mentions the Gangasagar pilgrimage, though scholars disagree on how old Kapil Muni's ashram itself is.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gangasagar_Mela",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What philosophy is Kapila credited with founding?",
+      "options": ["Vedanta", "Samkhya", "Nyaya", "Mimamsa"],
+      "answer": 1,
+      "why": "He is the traditional founder of Samkhya."
+    },
+    {
+      "q": "Whom does Kapila teach in the Bhagavata Purana?",
+      "options": ["His brother", "His mother Devahuti", "King Sagara", "His father Kardama"],
+      "answer": 1,
+      "why": "He taught Samkhya to his mother."
+    },
+    {
+      "q": "Which pilgrimage is tied to Kapila's story?",
+      "options": ["Gangasagar", "Kedarnath", "Puri", "Rameswaram"],
+      "answer": 0,
+      "why": "Gangasagar is tied to Sagara's sons."
+    },
+    {
+      "q": "Who brought the Ganga down for Sagara's sons?",
+      "options": ["Hanuman", "Bhima", "Krishna", "Bhagiratha"],
+      "answer": 3,
+      "why": "Bhagiratha brought the Ganga."
+    },
+    {
+      "q": "In Jataka tales, Kapila was an earlier life of whom?",
+      "options": ["A king of Ayodhya", "The Buddha", "A sage of Mithila", "A Jain teacher"],
+      "answer": 1,
+      "why": "Jataka tales say the Buddha was once Kapila."
+    }
+  ],
+  "related": ["bhagiratha", "ganga", "kashyapa", "prahlada", "vishnu", "atri", "vasishtha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kapila",
+    "gangasagar_mela": "https://en.wikipedia.org/wiki/Gangasagar_Mela",
+    "samkhya": "https://en.wikipedia.org/wiki/Samkhya"
+  },
+  "depth": "full",
+  "years": "c. 6th century BCE (tradition)",
+  "palette": {
+    "c1": "#d6e6ee",
+    "c2": "#b6c9d8"
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "slug": "hemachandra",
+  "name": "Hemachandra",
+  "aka": ["Hemachandracharya", "Hemachandra Suri", "Changadeva", "Somachandra"],
+  "native": "हेमचन्द्र",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Svetambara Jain monk, scholar and poet of Gujarat",
+  "summary": "Hemachandra was a 12th-century Jain monk and scholar of Gujarat who wrote grammars, poems and dictionaries, and advised kings.",
+  "about": "Hemachandra was a Svetambara Jain monk and polymath of 12th-century Gujarat, born Changadeva around 1088. He was ordained young, made an acharya at 21, and became an adviser to the Chaulukya kings Siddharaja Jayasimha and Kumarapala. He wrote grammars of Sanskrit and Prakrit, lexicons, poems, the Lives of the 63 Great Men, an epic that includes the 24 Tirthankaras, and the Yogashastra on Jain practice. He described the number rule now called Fibonacci around 1150. Jain chronicles say he influenced Kumarapala to protect animals, though this is not confirmed by royal inscriptions. He is called the father of Gujarati, and tradition says he fasted at the end of his life.",
+  "kidSummary": "Hemachandra was a Jain monk in Gujarat about 900 years ago. He wrote grammar books, dictionaries and poems, and helped kings rule kindly. He also wrote about a famous number pattern, where each number is the sum of the two before it. Like some earlier Indian poets, he noticed it about fifty years before Fibonacci.",
+  "story": [
+    {
+      "title": "A boy named Changadeva",
+      "text": "Hemachandra was born as Changadeva in Gujarat. A visiting Jain monk saw how bright he was and took him as a student."
+    },
+    {
+      "title": "Becoming a monk",
+      "text": "He became a monk with the name Somachandra. At 21 he was made an acharya, a head teacher, and renamed Hemachandra."
+    },
+    {
+      "title": "The king asks for a grammar",
+      "text": "King Siddharaja wanted a clear grammar book. Hemachandra asked for eight grammar books from Kashmir, studied them and wrote his own."
+    },
+    {
+      "title": "A parade on an elephant",
+      "text": "The king was so pleased that, according to the story, the grammar was carried through the streets on an elephant."
+    },
+    {
+      "title": "Counting rhythms",
+      "text": "In his book on poetry rhythms he described a pattern in which each number is the sum of the two before it: 1, 2, 3, 5, 8."
+    },
+    {
+      "title": "Teacher of a king",
+      "text": "Later he advised King Kumarapala. Jain accounts say the king became kind to animals, and Hemachandra ended his life calmly with a Jain fast."
+    }
+  ],
+  "teaches": [
+    "Learning is a gift worth sharing",
+    "Kindness to all living beings",
+    "Respect for many paths"
+  ],
+  "symbol": "book",
+  "emblems": ["Palm-leaf manuscript", "Grammar (Siddha-Hema)"],
+  "family": [
+    {
+      "relation": "Royal patron",
+      "name": "Kumarapala of Gujarat"
+    },
+    {
+      "relation": "Royal patron",
+      "name": "Siddharaja Jayasimha"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Devachandra Suri"
+    }
+  ],
+  "texts": [
+    "Siddha-Hema-Shabdanushasana",
+    "Dvyashraya Kavya",
+    "Yogashastra",
+    "Trishashti Shalaka Purusha Charitra",
+    "Parishishtaparvan",
+    "Arhanniti"
+  ],
+  "places": ["Patan (Anahilapataka)", "Taranga", "Nagaur"],
+  "festivals": ["Jnana Panchami"],
+  "years": "c. 1088–c. 1173",
+  "quiz": [
+    {
+      "q": "Which pattern did Hemachandra describe about 50 years before Fibonacci?",
+      "options": [
+        "Each number is double the last",
+        "Each number is the sum of the two before it",
+        "Numbers go up by 10",
+        "Every number is odd"
+      ],
+      "answer": 1,
+      "why": "He described the recurrence now known as Fibonacci numbers, in his work on poetic rhythm."
+    },
+    {
+      "q": "What is said to have been paraded through the streets on an elephant?",
+      "options": ["A dictionary", "A king's crown", "His grammar book", "A Tirthankara statue"],
+      "answer": 2,
+      "why": "King Siddharaja honoured the new grammar this way."
+    },
+    {
+      "q": "Which king did Hemachandra advise after Siddharaja?",
+      "options": ["Ashoka", "Kumarapala", "Harsha", "Bimbisara"],
+      "answer": 1,
+      "why": "He is closely linked with the Chaulukya king Kumarapala."
+    },
+    {
+      "q": "Which language is he called a father of?",
+      "options": ["Tamil", "Bengali", "Marathi", "Gujarati"],
+      "answer": 3,
+      "why": "His grammar of Apabhramsha helped shape the ancestor of Gujarati."
+    }
+  ],
+  "related": ["kundakunda", "bhadrabahu", "sthulabhadra", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hemachandra",
+    "fibonacci": "https://en.wikipedia.org/wiki/Fibonacci_sequence",
+    "kumarapala": "https://en.wikipedia.org/wiki/Kumarapala_(Chaulukya_dynasty)",
+    "sthulabhadra": "https://en.wikipedia.org/wiki/Sthulabhadra"
+  },
+  "palette": {
+    "c1": "#f2e6c9",
+    "c2": "#dbe8e0"
+  },
+  "order": 500,
+  "facts": [
+    {
+      "text": "He earned the title Kalikalasarvajna, meaning the all-knowing one of the Kali age, and is regarded as a father of the Gujarati language.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He named his grammar Siddha-Hema, joining the names of King Siddharaja and himself, so the title is a shared signature of a scholar and his royal patron.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Around 1125 he was introduced to King Jayasimha Siddharaja, reportedly after the king heard an impromptu verse the young monk recited in the street.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The grammar began with a book taken as war booty. After conquering Malwa, Siddharaja brought home King Bhoja's manuscripts, admired Bhoja's grammar, and asked his scholars for one as clear.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The king is said to have had Hemachandra's grammar paraded through the streets on an elephant.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A public exam on the grammar was held every year on Jnana Panchami, a Jain day of honouring knowledge, and copies were made for students. The Indologist Kielhorn judged it the best grammar of India's Middle Ages.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Dvyashraya Kavya is a poem with two jobs: it tells the history of the Chaulukya dynasty and also shows examples of the grammar's rules.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Around 1150 he wrote down a number pattern in which each term is the sum of the two before it, about 50 years before Fibonacci's book of 1202.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "His Yogashastra is a long guide to Svetambara Jain practice, and one 12th-century manuscript is written in tiny letters about one millimetre tall.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A legend says Hemachandra hid the young prince Kumarapala under a pile of manuscripts to protect him from the king. Historians consider this a folk motif, unlikely to be literal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At the Somanatha temple, which Kumarapala had rebuilt, Hemachandra bowed to the lingam and said he honours whoever has overcome passion, whether called Brahma, Vishnu, Shiva or Jina.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Hemachandra announced his own death six months in advance and ended his life with sallekhana, a Jain fast, at Anahilapataka Patan around 1173.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gujarat is still largely vegetarian despite its long coastline, a habit often traced to Jain influence in Hemachandra's age, though no royal inscription confirms a state ban on killing animals.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Merutunga's later chronicle says Hemachandra made Shiva appear before Kumarapala at Somanatha. Earlier Somaprabha says only that a minister told the king about the monk. Historians treat the later tale as legend.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumarapala_(Chaulukya_dynasty)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "More chronicles were written about Kumarapala than about any other Indian king, among them Hemachandra's Dvyashraya and Mahaviracharita, and they disagree about many details of his life.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kumarapala_(Chaulukya_dynasty)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In his Jain retelling of the 63 Great Men, Hemachandra accepts Draupadi's marriage to five brothers. He says that in an earlier birth she was Nagashri, who harmed a monk, and that she later became a Jain nun before her birth as Draupadi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Picture rhythms built from short beats worth one and long beats worth two. Length five can be made in eight ways and length six in thirteen, because each total adds the two before it: a short beat on a rhythm one shorter, or a long beat on one two shorter.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His Trishashti-shalaka-purusha-charita, the Lives of the 63 Great Men, is a Sanskrit epic on the 24 Tirthankaras and other key Jain figures. It remains the standard collection of early Jain history, and its appendix traces the teachers from Jambuswami.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra also compiled dictionaries: the Abhidhanachintamani, a Sanskrit lexicon, the Anekarthakosha of words with many meanings, the Deshinamamala of local, non-Sanskrit words, and a botanical word list called the Nighantu Shesha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra described the Fibonacci pattern following an earlier writer, Gopala, so Indian poets who studied rhythm knew the idea well before Fibonacci's book of 1202.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain monks wander for eight months of the year and stay in one place during the four monsoon months of Chaturmas. Hemachandra spent those months in Patan, the Chaulukya capital, and wrote most of his works there.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hemachandra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "full"
+}

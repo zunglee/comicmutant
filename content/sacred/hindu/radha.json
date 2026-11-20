@@ -1,0 +1,282 @@
+{
+  "slug": "radha",
+  "name": "Radha",
+  "aka": ["Radhika", "Gaurangi", "Radha Rani", "Shreeji"],
+  "native": "राधा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of devotion and love, beloved of Krishna",
+  "summary": "In Vaishnava tradition, Radha is Krishna's closest devotee and divine partner, a symbol of loving devotion. Her stories grew through poetry, song and painting in Braj, Bengal and Odisha.",
+  "about": "Radha is worshipped across many Vaishnava traditions as Krishna's beloved and, in some, as the Supreme Goddess. Some texts say she is an avatar of Lakshmi, while others call her Krishna's own inner joy-giving power. She is named in Prakrit verses dated around the 1st to 2nd century, and her first major literary appearance is Jayadeva's Gita Govinda in the 12th century. Different traditions picture her differently: the Nimbarka school sees her as Krishna's eternal wife, Gaudiya Vaishnavas as his divine beloved, and the Radha Vallabha tradition worships her above all. She is said to have been born at Rawal near Gokul and to have grown up at Barsana in Braj; her birthday is Radhashtami.",
+  "kidSummary": "Radha is the friend and loving devotee of Krishna in many Hindu stories. Her name is often linked with success and perfection. People remember her in songs, paintings and dances, and at Barsana, where she is said to have grown up, the town celebrates her birthday and the playful stick-Holi of Lathmar.",
+  "story": [
+    {
+      "title": "A village in Braj",
+      "text": "Tradition says Radha was born in Rawal, a small town near Gokul, and grew up in Barsana in the Braj region. Her father was Vrishabhanu and her mother was Kirtida."
+    },
+    {
+      "title": "Meeting Krishna",
+      "text": "In Vaishnava stories, she meets Krishna among the gopis of Vrindavan, where they share music, dance and deep friendship."
+    },
+    {
+      "title": "The dance of the rasa lila",
+      "text": "Poets describe the rasa lila, a circle dance in the forest. Dancers and painters have made this scene one of India's best loved art subjects."
+    },
+    {
+      "title": "Poems and songs",
+      "text": "In the 12th century, Jayadeva wrote the Gita Govinda, a Sanskrit poem about Krishna and Radha that is still sung in Puri today."
+    },
+    {
+      "title": "Playful Holi at Barsana",
+      "text": "Another story says that when Krishna came to Barsana to colour Radha and her friends at Holi, they chased him away with sticks. The town still plays Lathmar Holi in memory."
+    }
+  ],
+  "teaches": [
+    "Devotion given with a pure heart",
+    "Friendship and love have many shapes",
+    "Music and art can carry deep feelings"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Golden lotus", "Flute (shared with Krishna)"],
+  "family": [
+    {
+      "relation": "Beloved",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Seen as an avatar of",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Father",
+      "name": "Vrishabhanu"
+    },
+    {
+      "relation": "Mother",
+      "name": "Kirtida"
+    }
+  ],
+  "texts": [
+    "Gita Govinda",
+    "Gatha Saptasati",
+    "Brahma Vaivarta Purana",
+    "Narada Pancharatra",
+    "Garga Samhita"
+  ],
+  "places": [
+    "Barsana",
+    "Rawal (near Gokul)",
+    "Vrindavan",
+    "Nandgaon",
+    "Goloka (in tradition)",
+    "Radha Kund (near Govardhan)"
+  ],
+  "festivals": ["Radhashtami", "Lathmar Holi", "Jhulan Purnima"],
+  "facts": [
+    {
+      "text": "The Narada Pancharatra gives Radha 1,008 names, and the Garga Samhita reads her name letter by letter: R for Lakshmi, a for the gopis, dh for Bhudevi, and the last a for the river Viraja, also called Yamuna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Radha is named in the Gatha Saptasati, a Prakrit anthology of 700 verses attributed to King Hala, dated to around the 1st or 2nd century.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Gita Govinda is sung every night at the Jagannatha temple in Puri in Odissi ragas during the Badasinghara, the temple's last ritual of the day, and this tradition is said to be unbroken since Jayadeva's time.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gita_Govinda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some of Jayadeva's hymns are also included in the Guru Granth Sahib, the scripture of Sikhism.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Gita_Govinda",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Radhatantram presents Radha as an independent goddess and Krishna as her disciple, a very different picture from many other texts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some Puranas and sculptures from Maharashtra show a half-Radha, half-Krishna image. Texts sometimes name it Ardharadhavenudhara murti, and it stands for their complete union and inseparability.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Devotees say Radhashtami is the only day of the year when people may see Radha's feet in darshan; on all other days they stay covered.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Radhashtami",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Lathmar Holi, women of Barsana playfully chase visiting men of Nandgaon with sticks, remembering how Radha and her friends welcomed Krishna, and the visitors are treated as Barsana's sons-in-law.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Lath_mar_Holi",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In the Bani Thani painting of about 1750, attributed to Nihal Chand, Radha is assumed to be modelled on the singer-poet Bani Thani, whose name means the decked out lady. A 1973 Indian stamp shows her portrait.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bani_Thani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In popular legend, her father Vrishabhanu found baby Radha on a shining thousand-petalled lotus floating in the Yamuna river.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Radha was nine months older than Krishna and kept her eyes closed until baby Krishna appeared in front of her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Chaitanya Charitamrita, the sage Durvasa gives Radha a boon in her childhood that whatever she cooks will taste better than nectar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mor Kutir lila, Krishna dresses up as a peacock and dances to please Radha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A German version of the Gita Govinda was read by the poet Goethe, and the poem has since been translated into most modern Indian languages.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Gita_Govinda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bengali poet Chandidas, in his Shri Krishna Kirtana, pictured Radha and Krishna as divine yet loving each other in a very human way, showing how poets gave her feelings that readers could share.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana, the main Krishna text, never names Radha; the later commentator Visvanatha Chakravarti read one unnamed favourite gopi in it as her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Radha Kund, near Govardhan, is a pond named for her. A popular legend says Krishna stamped the ground to call up all the river goddesses and bathe, and Radha and her friends dug a second pond that he filled with that water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha_Kund",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Many Vaishnavas, following the 16th-century saint Rupa Goswami, call Radha Kund the supreme of all holy places, and pilgrims bathe there at midnight, said to be the only pilgrimage where this is done.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Radha_Kund",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "According to the Garga Samhita and the Brahma Vaivarta Purana, Radha was cursed in Goloka to bear a hundred years of separation from Krishna on earth; after it ended they met again in Braj and returned together to Goloka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Lilahava lila, Radha and Krishna put on each other's clothes, one of many playful pastimes told about the pair alongside the rasa lila and Lathmar Holi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Gopadevi lila, Krishna takes the form of a girl so that he can meet Radha, one of the playful pastimes that devotees tell about the pair.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Radha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which town is Radha said to have grown up?",
+      "options": ["Mathura", "Dwarka", "Barsana", "Ujjain"],
+      "answer": 2,
+      "why": "Her birthplace is Rawal near Gokul, but tradition says she grew up at Barsana in Braj."
+    },
+    {
+      "q": "What is played in Barsana in memory of Radha and Krishna's Holi?",
+      "options": ["Lathmar Holi", "Kite Holi", "Boat Holi", "Drum Holi"],
+      "answer": 0,
+      "why": "Lathmar means stick, and the town's women playfully chase visiting men with sticks."
+    },
+    {
+      "q": "Who wrote the 12th-century poem Gita Govinda?",
+      "options": ["Tulsidas", "Kalidasa", "Valmiki", "Jayadeva"],
+      "answer": 3,
+      "why": "Jayadeva composed it in Sanskrit about Krishna and Radha."
+    },
+    {
+      "q": "What is the name of Radha's birthday festival?",
+      "options": ["Navratri", "Radhashtami", "Ram Navami", "Makar Sankranti"],
+      "answer": 1,
+      "why": "Radhashtami falls on the eighth day of the bright half of Bhadrapada."
+    },
+    {
+      "q": "Who found baby Radha on a lotus in the Yamuna, in popular legend?",
+      "options": ["Nanda", "Vrishabhanu", "Vasudeva", "Akrura"],
+      "answer": 1,
+      "why": "Legend says her father Vrishabhanu found her on a shining lotus floating in the Yamuna."
+    }
+  ],
+  "related": [
+    "krishna",
+    "lakshmi",
+    "yashoda",
+    "jagannath",
+    "meera-bai",
+    "chaitanya-mahaprabhu",
+    "yamuna",
+    "durga"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Radha",
+    "gita-govinda": "https://en.wikipedia.org/wiki/Gita_Govinda",
+    "radhashtami": "https://en.wikipedia.org/wiki/Radhashtami",
+    "lathmar-holi": "https://en.wikipedia.org/wiki/Lath_mar_Holi",
+    "bani-thani": "https://en.wikipedia.org/wiki/Bani_Thani",
+    "radha-kund": "https://en.wikipedia.org/wiki/Radha_Kund"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2d4dc",
+    "c2": "#f6ecd2"
+  },
+  "order": 9
+}

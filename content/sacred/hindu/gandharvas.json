@@ -1,0 +1,293 @@
+{
+  "slug": "gandharvas",
+  "name": "Gandharvas",
+  "aka": ["Gandharva", "Gandhabba", "Gandharvis (female)"],
+  "native": "गन्धर्व",
+  "role": "Celestial musicians of the gods",
+  "summary": "Gandharvas are heavenly musicians and singers in Hindu, Buddhist and Jain tradition. Hindu texts place them in the court of Indra, usually as partners of the apsaras.",
+  "about": "In Hindu texts gandharvas are minor deities who sing and play for the gods and are known for their musical skill. The Rigveda speaks of a single Gandharva who guards the soma, while later texts describe a whole host of them. Many texts call them the partners of the apsaras and say they live in Svarga or in their own realm, Gandharvaloka. Some are described as partly bird or horse. The tradition also uses the word for skilled classical singers and names the consent-based gandharva marriage after them. In Buddhism gandharvas are low-ranking devas, and in Jainism they are one of the vyantara groups. In Kerala some temples still honour them.",
+  "kidSummary": "Gandharvas are heavenly singers and musicians in Hindu stories. They play music for the gods while apsaras dance. Buddhist and Jain stories mention them too, and you can still see gandharvas carved on old temple walls.",
+  "story": [
+    {
+      "title": "Music in the sky",
+      "text": "Hindu texts say gandharvas sing and play for the gods in the court of Indra, while apsaras dance to their music."
+    },
+    {
+      "title": "Guardian of soma",
+      "text": "The Rigveda describes a single Gandharva, Vishvavasu, who guards the place of the sacred soma drink and watches over it from the arch of heaven."
+    },
+    {
+      "title": "Narada learns humility",
+      "text": "In the Adbhuta Ramayana, the sage Narada grows jealous of Tumburu's singing. He studies music with an owl, but when he visits Tumburu he finds the ragas and raginis wounded by his poor singing. Humbled, he learns the seven svaras from Krishna's wives and later outdoes Tumburu."
+    },
+    {
+      "title": "A flute for love",
+      "text": "In a Buddhist text, the gandharva Pancasikha plays his flute and sings to win the love of Suriyavacchasa, the daughter of the gandharva chief Timbaru."
+    },
+    {
+      "title": "Spirits of the trees",
+      "text": "Buddhist texts link gandharvas with trees, flowers and their scents. In Kerala, some temples still honour gandharvas with special songs."
+    }
+  ],
+  "teaches": ["Music can bring joy to others", "Skill grows through practice and humility"],
+  "symbol": "flute",
+  "emblems": ["Veena", "Flute", "Fragrance", "Tumbaru tree (Jain)"],
+  "family": [
+    {
+      "relation": "Partners, in many texts",
+      "name": "Apsaras",
+      "slug": "apsaras"
+    },
+    {
+      "relation": "Court of",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Rival of Tumburu",
+      "name": "Narada",
+      "slug": "narada"
+    },
+    {
+      "relation": "Famous gandharva marriage",
+      "name": "Shakuntala",
+      "slug": "shakuntala"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Atharvaveda",
+    "Mahabharata",
+    "Bhagavata Purana",
+    "Adbhuta Ramayana",
+    "Janavasabha Sutta",
+    "Tiloyapannatti"
+  ],
+  "places": [
+    "Svarga",
+    "Gandharvaloka",
+    "Hoysaleswara Temple (Halebidu)",
+    "Kerala gandharva temples"
+  ],
+  "festivals": ["Gandharvanpattu (Kerala)"],
+  "quiz": [
+    {
+      "q": "What do gandharvas do for the gods, in Hindu texts?",
+      "options": ["Guard gates", "Sing and play music", "Bring rain", "Forge weapons"],
+      "answer": 1,
+      "why": "They are celestial musicians and singers."
+    },
+    {
+      "q": "Which gandharva is shown with a horse's face in South India?",
+      "options": ["Tumburu", "Chitrasena", "Vishvavasu", "Drumila"],
+      "answer": 0,
+      "why": "Tumburu is shown horse-faced, holding a veena and wooden cymbals."
+    },
+    {
+      "q": "What does a gandharva marriage mean in Hindu law?",
+      "options": [
+        "A marriage in heaven",
+        "A marriage by mutual consent without rituals",
+        "A marriage arranged by priests",
+        "A marriage of musicians"
+      ],
+      "answer": 1,
+      "why": "It is a union of two people who agree, without formal rites."
+    },
+    {
+      "q": "Who are gandharvas often paired with?",
+      "options": ["Asuras", "Nagas", "Apsaras", "Rishis"],
+      "answer": 2,
+      "why": "Apsaras are usually described as their wives."
+    }
+  ],
+  "related": [
+    "apsaras",
+    "indra",
+    "narada",
+    "shakuntala",
+    "dushyanta",
+    "kubera",
+    "urvashi",
+    "pururavas"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gandharva",
+    "tumburu": "https://en.wikipedia.org/wiki/Tumburu",
+    "marriage": "https://en.wikipedia.org/wiki/Gandharva_marriage",
+    "vishvavasu": "https://en.wikipedia.org/wiki/Vishvavasu",
+    "chitraratha": "https://en.wikipedia.org/wiki/Chitraratha",
+    "chitrasena": "https://en.wikipedia.org/wiki/Chitrasena_(gandharva)"
+  },
+  "palette": {
+    "c1": "#ece6f3",
+    "c2": "#f4e2c6"
+  },
+  "order": 30,
+  "facts": [
+    {
+      "text": "In the Rigveda there is only one Gandharva, called Vishvavasu, who guards the place of soma, the sacred drink, and is shown standing on the arch of heaven watching over its every form.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishvavasu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Atharvaveda mentions 6,333 gandharvas, a very exact number for a heavenly choir.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some gandharvas are said to be part animal, usually part bird or part horse, rather than fully human.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tumburu is shown horse-faced in South India with a veena and wooden cymbals, and some scholars think the tambura, the drone instrument of Indian music, is related to or named after him.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tumburu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Adbhuta Ramayana, jealous Narada learns from an owl, Ganabandhu, then finds the ragas and raginis wounded by his poor singing at Tumburu's home. Humbled, he learns the svaras from Krishna's wives and later surpasses Tumburu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tumburu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The best known gandharva marriage is that of Shakuntala and Dushyanta, whose son Bharata gave his name to a famous dynasty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandharva_marriage",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says gandharvas came from Brahma's laughter during creation, while other texts name Prajapati, Kashyapa, Pradha or Vac as their parent.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kerala, gandharvas are honoured in temples, sometimes beside yakshis. People pray to them for fertility, and angering them is said to bring Gandharva dosha.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "During the Pandavas' exile, Arjuna was invited to Indra's heaven, where the gandharva Chitrasena taught him music and dance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitrasena_(gandharva)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chitraratha, once called Angaraparna, blocked the Pandavas at a river by night. Arjuna beat him with a fire weapon, his wife pleaded for him, and he became their friend, gave Arjuna a gift of sight called Chakshushi and dropped the old name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitraratha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Rigveda wedding hymn tells the Gandharva Vishvavasu to leave the bride alone and find another girl, so that she can start her life with her human husband.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishvavasu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, Kubera cursed Tumburu to be born as the rakshasa Viradha for failing to bring the apsara Rambha on time. The curse ended when Rama killed him, and Tumburu returned to the gandharvas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tumburu",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The gandharva Vishvavasu played the veena so delicately, the Mahabharata says, that every one of thousands of guests at King Dilipa's sacrifice felt he was playing just for them.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vishvavasu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Buddhist cosmology a gandharva is a low-ranking deva who can fly, serves under Dhritarashtra, the Great King guarding the east, and is reborn there through simple, basic goodness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a Puranic tale, the gandharva Chitrasena accidentally spat on the sage Galava, and Krishna vowed to punish him. Arjuna promised to protect Chitrasena, so the two heroes faced each other in a fierce battle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitrasena_(gandharva)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The gandharva Vishvavasu is said to lead a troupe of 42,000 dancing gandharvas, described as seven times six thousand.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vishvavasu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Indian tradition lists Gandharvaveda, the science of music and sacred dance, as an upaveda, a supplementary Veda, linked with the Samaveda. The gandharvas gave their name to a whole field of knowledge.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Upaveda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Early Indian musical thought split music into two kinds: gandharva, formal and ceremonial, and gana, free and entertaining. The first kind carried heavenly associations, as its name suggests.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Natya_Shastra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Urvashi was living on earth as the wife of King Pururavas when a group of gandharvas led by Vishvavasu stole the two pet lambs tied beside her bed, and then lit the room with lightning, which exposed Pururavas and broke his promise to her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a Buddhist sutta a gandhabba is named as one of three conditions for conception. Its commentary says the word there means a being between lives, not a heavenly musician.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda the single Gandharva acts as an escort from the world beyond. He brings the soma from the Sun's daughter, and also the horse and even humans, making them safe for this world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jain texts count gandharvas among the eight vyantara devas. Digambara tradition gives them a golden complexion, while Shvetambara tradition calls them dark, and their sacred tree is the tumbaru.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Some texts name the gandharva Drumila as the biological father of Kamsa, the king of Mathura in Krishna's story.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Gandharva",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

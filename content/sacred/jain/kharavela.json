@@ -1,0 +1,259 @@
+{
+  "slug": "kharavela",
+  "name": "Kharavela",
+  "aka": ["Aira Kharavela", "King of Kalinga"],
+  "native": "खारवेल",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Jain king of Kalinga known from the Hathigumpha inscription",
+  "summary": "Kharavela was a king of Kalinga (Odisha) in ancient times. His life is known from a rock inscription in the Udayagiri hills, which also opens with a salute to Jain Arhats and Siddhas.",
+  "about": "Kharavela ruled Kalinga, today's Odisha, in the last centuries before the common era, though scholars still argue about exact dates. Nearly everything we know comes from the Hathigumpha inscription, a 17-line text carved in Brahmi script on a cave roof in the Udayagiri hills near Bhubaneswar. It lists his reign year by year: festivals, canals, campaigns and gifts. The text begins with a salute to the Arhats and all Siddhas, so he is generally called a Jain king, though the inscription also says he honoured many gods. The nearby Udayagiri and Khandagiri caves, many carved as dwellings for Jain monks, are linked with his reign and those of his successors.",
+  "kidSummary": "Kharavela was a king of Kalinga, the land now called Odisha, which Ashoka had invaded long before. More than 2,000 years ago he had a list of his deeds carved into a cave near Bhubaneswar. His inscription begins by saluting the Jain Arhats and Siddhas.",
+  "story": [
+    {
+      "title": "A prince in school",
+      "text": "Young Kharavela is said to have studied writing, coins, accounts and law. By sixteen he was the crown prince, and at twenty-four he became king of Kalinga."
+    },
+    {
+      "title": "Joy for the people",
+      "text": "In his third year as king he held festivals with music, singing and dance. His inscription lists such feasts alongside his battles."
+    },
+    {
+      "title": "Canals and marches",
+      "text": "He extended a water canal and sent armies west, north and south, naming places and rulers he met on the way."
+    },
+    {
+      "title": "Bringing home an image",
+      "text": "The inscription says he set up again the Jina image of Kalinga that an earlier Nanda king had carried away."
+    },
+    {
+      "title": "A message in stone",
+      "text": "He had the story of his reign carved in the Hathigumpha cave, and monks lived in caves cut into the nearby hills."
+    }
+  ],
+  "teaches": [
+    "Learning and good education matter for leaders",
+    "Looking after water and the people's festivals",
+    "Respect for monks and holy places"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Hathigumpha (Elephant Cave) inscription", "Udayagiri and Khandagiri caves"],
+  "family": [
+    {
+      "relation": "Successor (named in the caves)",
+      "name": "Kudepasiri"
+    },
+    {
+      "relation": "Chief queen (named in the caves)",
+      "name": "Queen of Kharavela"
+    }
+  ],
+  "texts": ["Hathigumpha inscription", "Minor inscriptions of Udayagiri and Khandagiri"],
+  "places": [
+    "Udayagiri hill, Bhubaneswar",
+    "Khandagiri hill, Bhubaneswar",
+    "Hathigumpha (Cave 14)",
+    "Kalinga (Odisha)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Ashoka invaded Kalinga around 262-261 BCE. The inscription suggests Kalinga became free again after his death, so Kharavela was born in an independent kingdom that had once been conquered.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Line 12 says he reinstalled the 'Jina of Kalinga' taken away by a Nanda king. Scholars disagree on whether this means a statue or a seat.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is said to have ploughed the city of Pithuda with donkey-drawn ploughs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hornets, dripping water and dust have worn away letters in the middle lines of the Hathigumpha inscription, and three different scribes seem to have helped carve it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vyaghra Gumpha, the Tiger Cave, has an entrance carved like a tiger's open mouth and is one of the most photographed sites in Udayagiri.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The carvings in Ganesha Gumpha on Udayagiri tell the story of Princess Vasavadatta of Ujjain eloping with King Udayana of Kausambi.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His inscription says he worshipped all gods and repaired the temples of every deity. Paul Dundas notes Ashoka made similar claims, to show a universal ruler, while Jain author Hampa Nagarajaiah reads it as the Jain idea of anekanta, many-sidedness.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars did not know the Hathigumpha inscription until A. Stirling rediscovered it and published a report on it in 1825. Bhagwan Lal Indraji was first to read the king's name as Kharavela, in 1884.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In his third year, the inscription says, he treated the capital to festivals of singing, dancing and instrumental music, since he was well versed in the music of the Gandharvas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A damaged passage describes a Yavana, a Greek, king fleeing in fear to Mathura after the king's campaign in his eighth year. The name read as Dimita is uncertain.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hathigumpha means Elephant Cave. It is cave number 14 on Udayagiri hill near Bhubaneswar, and Kharavela's 17-line inscription is carved on its overhanging brow and roof.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Only four of the 17 lines of the inscription can be read completely. The rest are damaged and scholars read them in different ways, so much of what we know about Kharavela is still debated.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Hathigumpha inscription is written in Prakrit in Brahmi script and covers a patch of rock about 15 feet by 5.5 feet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ranigumpha, the Queen's Cave, is the largest cave on Udayagiri. It is a double-storeyed monastery, and carvings on its upper floor show a king's victory march.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Udayagiri means Sunrise Hill and has 18 caves, while neighbouring Khandagiri has 15. Most are believed to have been carved as homes for Jain monks in Kharavela's reign.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The small Chota Hathi Gumpha on Udayagiri has six little elephants carved on its front, and the Ananta Cave shows women, elephants, athletes and geese carrying flowers.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "For years, early scholars James Prinsep and R. L. Mitra took the word Aira in the inscription to be the king's own name. Bhagwan Lal Indraji later showed the king was Kharavela and that Aira meant something else.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The inscription says Kharavela gave silks and white cloth to Jain monks, as well as royal support, and that he built temples.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Its opening salute to Arhats and Siddhas echoes the Jain Namokar mantra, which invokes three more groups in addition to these two.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In his eighth year, the inscription says, Kharavela's army broke the hill fort of Gorathagiri near Rajagriha and laid siege to the city. The news is said to have sent a Yavana king fleeing to Mathura.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the south, the Pandya king, leader of a league of Tamil states, is said to have given in to Kharavela and sent pearls, jewels and precious stones to his capital Kalinganagara.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kharavela's successors left few big inscriptions. Two later kings, Vakradeva and Vadukha, are known only from small records at Udayagiri, and historians think his empire probably faded soon after his death.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kharavela",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where is Kharavela's famous inscription carved?",
+      "options": ["On a temple door", "In the Hathigumpha cave", "On a river boat", "On a coin"],
+      "answer": 1,
+      "why": "The 17-line Hathigumpha inscription is carved in a cave on Udayagiri hill."
+    },
+    {
+      "q": "What is the ancient land of Kalinga called today?",
+      "options": ["Odisha", "Bihar", "Gujarat", "Kerala"],
+      "answer": 0,
+      "why": "Kalinga is the ancient name for much of today's Odisha."
+    },
+    {
+      "q": "How old was Kharavela when he became king?",
+      "options": ["16", "18", "24", "40"],
+      "answer": 2,
+      "why": "He was crown prince at 16 and king at 24."
+    },
+    {
+      "q": "Which sacred image did Kharavela bring back to Kalinga from Magadha?",
+      "options": ["A Buddha statue", "The Jina of Kalinga", "Ashoka's pillar", "A Nanda crown"],
+      "answer": 1,
+      "why": "His inscription says he set up again the Jina of Kalinga that a Nanda king had taken away."
+    },
+    {
+      "q": "The inscription starts with a salute to whom?",
+      "options": ["Arhats and Siddhas", "Buddhas", "Nanda kings", "Ashoka's ministers"],
+      "answer": 0,
+      "why": "It begins with a salute to Arhats and Siddhas, like the Jain Namokar mantra."
+    }
+  ],
+  "related": ["mahavira", "parshvanatha", "chandragupta-maurya", "bimbisara", "bhadrabahu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kharavela",
+    "hathigumpha": "https://en.wikipedia.org/wiki/Hathigumpha_inscription",
+    "udayagiri_khandagiri": "https://en.wikipedia.org/wiki/Udayagiri_and_Khandagiri_Caves"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#ead9b8",
+    "c2": "#cfdfe8"
+  },
+  "years": "c. 2nd-1st century BCE (disputed)"
+}

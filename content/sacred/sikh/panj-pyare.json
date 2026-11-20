@@ -1,0 +1,247 @@
+{
+  "slug": "panj-pyare",
+  "name": "Panj Pyare",
+  "aka": ["Five Beloved Ones", "Panj Piare", "The Five Beloved"],
+  "native": "ਪੰਜ ਪਿਆਰੇ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "The first five Sikhs of the Khalsa, called by Guru Gobind Singh in 1699",
+  "years": "1699 (Khalsa founded)",
+  "order": 520,
+  "summary": "The Panj Pyare, or Five Beloved Ones, were the five Sikhs who answered Guru Gobind Singh's call on Vaisakhi 1699 and became the first members of the Khalsa. Five baptised Sikhs still lead Sikh ceremonies today.",
+  "about": "According to Sikh tradition, Guru Gobind Singh gathered Sikhs at Anandpur Sahib on Vaisakhi in 1699 and asked for volunteers willing to give their heads. Five men came forward one by one: Daya Singh, Dharam Singh, Himmat Singh, Mohkam Singh and Sahib Singh. They came from different regions and different social backgrounds. The Guru baptised them with amrit, called them the Panj Pyare, and then asked them to baptise him in turn. All took the name Singh, and this began the Khalsa. Sources differ on details such as their birthplaces and the exact calendar date of the event. Today the Panj Pyare name is also used for five baptised Sikhs chosen to lead ceremonies such as Amrit Sanchar and Nagar Kirtan processions.",
+  "kidSummary": "On Vaisakhi in 1699, Guru Gobind Singh asked who would offer their life for a good cause. Five brave Sikhs stepped forward one by one. They came from different places and backgrounds, and they became the first members of the Khalsa. They are called the Panj Pyare, the Five Beloved Ones.",
+  "story": [
+    {
+      "title": "A great gathering",
+      "text": "On Vaisakhi in 1699, a huge crowd gathered at Anandpur Sahib. Guru Gobind Singh stood before them with his sword."
+    },
+    {
+      "title": "A call for courage",
+      "text": "The Guru asked if anyone was ready to give their head for the faith. The crowd was silent, then one man stepped forward and went with the Guru into a tent."
+    },
+    {
+      "title": "Five came",
+      "text": "The call was repeated and four more Sikhs came, one at a time. Each one was taken into the tent in turn."
+    },
+    {
+      "title": "The surprise",
+      "text": "The Guru came out with all five alive, dressed in fresh clothes. He gave them amrit and named them the Panj Pyare, the Five Beloved Ones."
+    },
+    {
+      "title": "A new family",
+      "text": "The five took the name Singh, and then the Guru asked them to give amrit to him as well. This began the Khalsa, a community where all are equal."
+    }
+  ],
+  "teaches": [
+    "Courage and trust",
+    "Equality of all people",
+    "Service to the community",
+    "Humility"
+  ],
+  "symbol": "flame",
+  "emblems": ["Iron bowl of amrit", "Five Ks"],
+  "family": [
+    {
+      "relation": "called by",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    }
+  ],
+  "texts": ["Sikh Rehat Maryada (code of conduct)", "Early Sikh histories of 1699"],
+  "places": [
+    "Anandpur Sahib",
+    "Takht Sri Keshgarh Sahib",
+    "Lahore, Hastinapur, Puri, Dwarka and Bidar (the five's reported homes)"
+  ],
+  "festivals": ["Vaisakhi", "Amrit Sanchar", "Nagar Kirtan"],
+  "facts": [
+    {
+      "text": "Five men came forward one at a time, and each was led into a tent. The Guru finally brought out all five dressed in saffron with blue turbans.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After baptising the five, the Guru asked them to baptise him too, making the first Khalsa Sikhs his equals in the ceremony.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Traditional lists place their homes far apart: Daya Singh in Lahore, Dharam Singh in Hastinapur, Himmat Singh in Puri, Mohkam Singh in Dwarka and Sahib Singh in Bidar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The five came from different castes, including a shopkeeper, a farmer, a tailor, a water-carrier and a barber, showing that the Khalsa was open to all.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sikh tradition says the Guru called the Panj Pyare his own presence; the Wikipedia article quotes him saying he is present wherever the Panj Pyare are.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Reports say thousands more men were baptised soon after 1699; one source reports about 20,000 ready in the first days, while others claim up to 80,000.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Chamkaur, the last five Sikhs formed a council, a panj pyare, and urged Guru Gobind Singh to leave so the community would survive; he followed their decision.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Each time the Guru returned from the tent his sword was dripping with blood, and some in the crowd, thinking he had lost his senses, began to leave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Months before Vaisakhi in 1699, the Guru sent letters asking Sikhs to come to Anandpur with their hair uncut, and the men with full beards.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the ceremony the five were called Daya Ram, Dharam Das, Himmat Rai, Mohkam Chand and Sahib Chand. Each took the name Singh, meaning lion, in place of a caste surname.",
+      "kind": "language",
+      "source": "https://www.newworldencyclopedia.org/entry/Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the sugar went into the amrit as the Guru stirred it with a double-edged sword. Some credit Mata Jito, others, following the Mahan Kosh, credit Mata Sahib Devan.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mata_Jito",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Five Ks given to the Khalsa are kesh (uncut hair), kangha (a wooden comb), kara (an iron bracelet), kirpan (a sword for defending others) and kachera (shorts for easy movement).",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Three of the five, Mohkam Singh, Himmat Singh and Sahib Singh, are listed among the Sikhs who fell at the Second Battle of Chamkaur in 1705.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Daya Singh was one of three Sikhs who followed the Guru out of Chamkaur. He and Dharam Singh later carried the Zafarnama to Aurangzeb, and Daya Singh made a copy that survives.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Daya_Singh",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Daya Singh, born in Lahore in 1661, was with the Guru when he died at Nanded in October 1708 and died shortly afterwards, also at Nanded.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Daya_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A list on this page names Mati Das, Dayala, Jaita, Udai and Gurdita as Guru Tegh Bahadur's own five beloved ones, and Mardana, Bala, Ajita, Lalo and Lehna as Guru Nanak's.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Guru is said to have asked Banda Singh Bahadur to follow the advice of five Sikhs sent with him. Since later accounts of Banda rarely mention them, he may not have heeded them fully.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Using Kaur as a surname for Sikh women became a custom only in the early twentieth century; early texts suggest Devi, as in the letters of Mata Sahib Devan.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Today any five baptised Sikhs can act as Panj Pyare. They lead Nagar Kirtan processions, give amrit at Amrit Sanchar and lay the cornerstones of new gurdwaras.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Panj_Pyare",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dharam Singh, born Dharam Das near Hastinapur in 1666 into a Jat family, also died at Nanded in 1708, so two of the five stayed close to the Guru to the end.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Dharam_Singh",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Panj Pyare mean in Punjabi?",
+      "options": ["Five Beloved Ones", "Five Soldiers", "Five Teachers", "Five Rivers"],
+      "answer": 0,
+      "why": "Panj means five and pyare means beloved ones."
+    },
+    {
+      "q": "What name did all the Panj Pyare take, meaning lion?",
+      "options": ["Kaur", "Shah", "Das", "Singh"],
+      "answer": 3,
+      "why": "Singh means lion, and it replaced caste surnames in the Khalsa."
+    },
+    {
+      "q": "What did Guru Gobind Singh ask the five to do after baptising them?",
+      "options": ["Leave Anandpur", "Baptise him", "Build a fort", "Write a book"],
+      "answer": 1,
+      "why": "He asked them to give amrit to him in turn."
+    },
+    {
+      "q": "In which year did the Panj Pyare first come forward at Anandpur?",
+      "options": ["1469", "1604", "1699", "1708"],
+      "answer": 2,
+      "why": "The Khalsa was founded on Vaisakhi in 1699."
+    }
+  ],
+  "related": [
+    "guru-gobind-singh",
+    "sahibzade",
+    "banda-singh-bahadur",
+    "guru-granth-sahib",
+    "bhai-mani-singh"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Panj_Pyare",
+    "khalsa": "https://www.newworldencyclopedia.org/entry/Khalsa",
+    "chamkaur": "https://en.wikipedia.org/wiki/Second_Battle_of_Chamkaur",
+    "mata-jito": "https://en.wikipedia.org/wiki/Mata_Jito",
+    "daya-singh": "https://en.wikipedia.org/wiki/Bhai_Daya_Singh",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/panj-piare",
+    "khalsa-wikipedia": "https://en.wikipedia.org/wiki/Khalsa"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f6dcc0",
+    "c2": "#c6d8e6"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "slug": "bharadvaja",
+  "name": "Bharadvaja",
+  "aka": ["Bharadwaja", "Bharadvaja Barhaspatya", "Bhardwaj"],
+  "native": "भरद्वाज",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Vedic sage of the Rigveda, teacher of Drona",
+  "summary": "Bharadvaja is a Vedic sage whose family composed much of Rigveda Mandala 6. Tradition makes him a teacher of Drona and a student of Indra in medicine.",
+  "about": "In the Rigveda, Bharadvaja Barhaspatya is the seer behind much of Mandala 6, and his family is credited with about sixteen seers. Texts name Brihaspati as his father and Mamata as his mother, though some Puranas give him other parents. The Vishnu Purana says he was the father of Drona, while the Mahabharata tells of Drona's pot-birth. In the Ramayana, Rama, Sita and Lakshmana visit his hermitage at the start of their exile. The Charaka Samhita says he learned medicine from Indra, and many later texts such as a Dhanurveda are credited to him. He is counted among the seven sages in several lists and is the source of the Bharadvaja gotra.",
+  "kidSummary": "Bharadvaja was a sage whose name means 'bringing nourishment'. His family wrote many hymns of the Rigveda, and in the Ramayana Rama, Sita and Lakshmana stayed at his hermitage. Stories say he even learned medicine from the king of the gods and taught the archer Drona.",
+  "story": [
+    {
+      "title": "A sage with a famous family",
+      "text": "In the Vedas, Bharadvaja belongs to a family of poets. His father is said to be the sage Brihaspati, and his family composed many hymns, including the earliest hymn praising the cow."
+    },
+    {
+      "title": "Asking Indra for health",
+      "text": "In the Charaka Samhita, the sages found that poor health was hurting their studies. Bharadvaja went to Indra and learned the science of medicine to share with the others."
+    },
+    {
+      "title": "A teacher of heroes",
+      "text": "Tradition says Bharadvaja taught Agnivesa and King Drupada, and Puranic stories name his son Drona. Drona later taught the Kuru princes in the Mahabharata."
+    },
+    {
+      "title": "A forest welcome",
+      "text": "In the Ramayana, Rama, Sita and Lakshmana visit Bharadvaja's ashram early in their exile. He offers them a place to stay, then sends them to Chitrakuta."
+    },
+    {
+      "title": "Bharata's visit",
+      "text": "Later, Bharata comes to Bharadvaja's hermitage while searching for Rama, and the sage welcomes him as well."
+    }
+  ],
+  "teaches": [
+    "Learn from the wise and share what you learn",
+    "Health supports a good life",
+    "Welcome travellers kindly"
+  ],
+  "symbol": "book",
+  "emblems": ["Bharadvajasana pose", "Mountain of the Vedas"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    },
+    {
+      "relation": "Mother",
+      "name": "Mamata"
+    },
+    {
+      "relation": "Son",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Katyayani"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Yajnavalkya",
+      "slug": "yajnavalkya"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Indra",
+      "slug": "indra"
+    }
+  ],
+  "texts": [
+    "Rigveda (Mandala 6)",
+    "Charaka Samhita",
+    "Ramayana",
+    "Mahabharata",
+    "Mundaka Upanishad",
+    "Bharadvaja Samhita"
+  ],
+  "places": ["Bharadvaja Ashram, Prayaga (Prayagraj)", "Chitrakuta (his directions)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In one Mahabharata legend, King Bharata adopts him after the Maruts bring him, making him a brahmana by birth and a king's son by adoption.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vishnu Purana says Drona's mother was the apsara Ghritachi, while the Mahabharata says Drona was born from a pot, so the versions differ.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Charaka Samhita says Bharadvaja went to Indra to learn medicine after sickness got in the way of study.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a Brahmana story, Bharadvaja studied the Vedas through three lifetimes. Indra then showed him a mountain, took three handfuls from it, and said that was all he had learned. The Vedas, Indra said, are endless.",
+      "kind": "story",
+      "source": "https://devdutt.com/mountain-of-vedas/",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "When Bharata arrived with his army, Bharadvaja called on the divine builder Vishvakarma and the guardian gods to prepare a grand welcome and a feast for the whole army, says the Valmiki Ramayana.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhya_91_prose.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Charaka Samhita, Bharadvaja argues that a baby grows from natural causes and not from wishes, prayers or mystical forces.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Bharadvaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A text on flying machines, the Vaimanika Shastra, is credited to Bharadvaja, but Pandit Subbaraya Shastry dictated it around 1918 to 1923, saying he got it psychically. Scholars treat it as a modern work.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vaimanika_Shastra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The early Bharadvajas worshipped Pushan, a god of herders, and served as priests to herding tribes. Their hymn VI.28, the earliest Rigvedic hymn praising the cow, is credited to the family.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Buddha, talking with Vedic scholars in the Tevijja Sutta, calls Bharadvaja one of ten 'early sages' whose ancient verses were still chanted in his own time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In priestly lineage chants his name comes third, after Angirasa and Barhaspatya, and he is the first of the Bharadvaja gotras, the family line many Brahmin and Khatri families trace to him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition names two of his pupils: Agnivesa, who taught Drona the fire weapon Agneya, and Drupada, who became king of Panchala.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Dhanurveda, a treatise on archery, is credited to Bharadvaja in the Mahabharata (12.203). His son Drona is the archery teacher of the Kuru princes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bharadvaja and his family were the traditional poets of King Marutta in the Vedic era, according to Hindu texts.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In some legends his daughter Ilavida married the sage Vishrava and became the mother of Kubera, god of wealth, which would make Bharadvaja Kubera's grandfather.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vishrava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, Bharadvaja's welcome for Bharata's army is magical: streams of rice-milk flow instead of mud, and trees in the grove take the forms of drummers and dancers.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhya_91_prose.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The feast delights Bharata's soldiers so much that they cry out they need not go to Ayodhya or the Dandaka forest, and shout that the place is heaven itself.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhya_91_prose.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bharata left his army far off and came alone, so the horses and elephants would not trample the hermitage. Bharadvaja gently asked why, and told him to bring everyone.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhya_91_prose.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Bharadvaja invited Rama to stay at Prayaga, Rama declined, saying townspeople would soon come to see them there. The sage then sent them on to Chitrakuta.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhya_54_prose.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar James Lochtefeld notes that the Bharadvaja of the Ramayana is not the same person as the Vedic sage mentioned in Panini's grammar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bharadwaja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mundaka Upanishad names Satyavaha Bharadvaja in its chain of teachers: Brahma taught Atharva, Atharva taught Angira, and Angira taught Satyavaha Bharadvaja, who passed the knowledge on to Angiras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Bharadvaja's father according to Vedic names?",
+      "options": ["Brihaspati", "Vayu", "Kubera", "Agni"],
+      "answer": 0,
+      "why": "The name Barhaspatya marks Brihaspati as father."
+    },
+    {
+      "q": "Which god taught him medicine, says the Charaka Samhita?",
+      "options": ["Surya", "Indra", "Yama", "Varuna"],
+      "answer": 1,
+      "why": "He went to Indra to learn it."
+    },
+    {
+      "q": "Whose hermitage did Rama, Sita and Lakshmana visit?",
+      "options": ["Agastya's", "Valmiki's", "Bharadvaja's", "Atri's"],
+      "answer": 2,
+      "why": "The Ramayana says they visited his ashrama."
+    },
+    {
+      "q": "Which famous teacher is Bharadvaja's son in tradition?",
+      "options": ["Kripa", "Drona", "Sandipani", "Vyasa"],
+      "answer": 1,
+      "why": "Drona is named his son."
+    },
+    {
+      "q": "Which animal does his family's earliest hymn praise?",
+      "options": ["Cow", "Horse", "Elephant", "Peacock"],
+      "answer": 0,
+      "why": "Hymn VI.28 praises the cow."
+    }
+  ],
+  "related": [
+    "brihaspati",
+    "drona",
+    "angiras",
+    "indra",
+    "atri",
+    "yajnavalkya",
+    "jamadagni",
+    "kashyapa",
+    "vasishtha",
+    "vishvamitra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bharadwaja",
+    "saptarishi": "https://en.wikipedia.org/wiki/Saptarishi",
+    "prayaga": "https://www.valmikiramayan.net/utf8/ayodhya/sarga54/ayodhya_54_prose.htm",
+    "feast": "https://www.valmikiramayan.net/utf8/ayodhya/sarga91/ayodhya_91_prose.htm",
+    "mountains": "https://devdutt.com/mountain-of-vedas/",
+    "vaimanika": "https://en.wikipedia.org/wiki/Vaimanika_Shastra",
+    "mundaka": "https://en.wikipedia.org/wiki/Mundaka_Upanishad",
+    "vishrava": "https://en.wikipedia.org/wiki/Vishrava"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8e0c8",
+    "c2": "#b9c9a3"
+  }
+}

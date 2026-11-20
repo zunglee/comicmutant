@@ -1,0 +1,261 @@
+{
+  "slug": "janamejaya",
+  "name": "Janamejaya",
+  "aka": ["Parikshita"],
+  "native": "जनमेजय",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Kuru king who heard the Mahabharata and held the snake sacrifice",
+  "summary": "Janamejaya is the Kuru king, son of Parikshit, to whom the Mahabharata is first recited, and who holds the great snake sacrifice that the sage Astika halts.",
+  "about": "In the Mahabharata, Janamejaya is the son of Parikshit and Madravati, grandson of Abhimanyu and great-grandson of Arjuna. The epic says he succeeded his father on the Kuru throne. The text frames its own telling around him: Vaishampayana, a pupil of Vyasa, recites the story to him. After the Naga king Takshaka caused Parikshit's death, the epic says Janamejaya held a sarpa satra, a sacrifice meant to destroy the serpents, until the young sage Astika persuaded him to stop. Earlier Vedic works such as the Aitareya and Shatapatha Brahmanas also mention a king of this name as a conqueror who performed a horse sacrifice. Historians debate how these Vedic and epic figures relate.",
+  "kidSummary": "Janamejaya is a king in the Mahabharata who is the very first to hear its whole story. When his father is lost to a snake, he starts a huge sacrifice to stop the serpents, but a wise boy named Astika asks him to stop, and he listens.",
+  "story": [
+    {
+      "title": "A royal family",
+      "text": "Janamejaya is the son of King Parikshit, and the great-grandson of Arjuna. When his father passes away, he becomes the king of the Kurus."
+    },
+    {
+      "title": "The sad news",
+      "text": "He learns that his father died because of a snake, Takshaka, the Naga king. Janamejaya is full of grief and starts planning something big."
+    },
+    {
+      "title": "The snake sacrifice",
+      "text": "He begins a sarpa satra, a great sacrifice that pulls snakes toward the fire. Many snakes come to it, and Takshaka also is in danger."
+    },
+    {
+      "title": "A boy speaks up",
+      "text": "A young sage named Astika, whose mother belongs to the snake family, asks the king for a favour. Janamejaya listens and ends the sacrifice."
+    },
+    {
+      "title": "The great story",
+      "text": "The story of his ancestors, the Mahabharata, is told to him by Vaishampayana, a pupil of Vyasa."
+    }
+  ],
+  "teaches": ["Listening can turn anger into kindness", "Wisdom can come from the young"],
+  "symbol": "flame",
+  "emblems": ["Sacrificial fire"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    },
+    {
+      "relation": "Great-grandfather",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Grandmother",
+      "name": "Uttara",
+      "slug": "uttara"
+    },
+    {
+      "relation": "Great-grandmother",
+      "name": "Subhadra",
+      "slug": "subhadra"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva)",
+    "Aitareya Brahmana",
+    "Shatapatha Brahmana",
+    "Devi Bhagavata Purana"
+  ],
+  "places": ["Hastinapura", "Takshashila (Taxila)", "Parikshitgarh (Parham)"],
+  "festivals": ["Naga Panchami"],
+  "quiz": [
+    {
+      "q": "Who is Janamejaya's father?",
+      "options": ["Abhimanyu", "Parikshit", "Arjuna", "Pandu"],
+      "answer": 1,
+      "why": "He is the son of Parikshit."
+    },
+    {
+      "q": "Which sage persuaded him to stop the snake sacrifice?",
+      "options": ["Astika", "Uttanka", "Vyasa", "Narada"],
+      "answer": 0,
+      "why": "The young Astika asked him to stop."
+    },
+    {
+      "q": "Who was the Naga king connected to his father's death?",
+      "options": ["Vasuki", "Shesha", "Takshaka", "Karkotaka"],
+      "answer": 2,
+      "why": "Takshaka carried out the curse in the epic."
+    },
+    {
+      "q": "Which festival is linked to the end of the snake sacrifice?",
+      "options": ["Holi", "Naga Panchami", "Pongal", "Onam"],
+      "answer": 1,
+      "why": "Tradition links Naga Panchami to the day Astika saved the snakes."
+    },
+    {
+      "q": "Who first recited the Mahabharata to him?",
+      "options": ["Sauti", "Vaishampayana", "Valmiki", "Sanjaya"],
+      "answer": 1,
+      "why": "Vaishampayana, a pupil of Vyasa."
+    }
+  ],
+  "related": ["parikshit", "abhimanyu", "arjuna", "uttanka", "vyasa", "vasuki", "shesha", "uttara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Janamejaya",
+    "parikshit": "https://en.wikipedia.org/wiki/Parikshit",
+    "takshaka": "https://en.wikipedia.org/wiki/Takshaka",
+    "nagapanchami": "https://en.wikipedia.org/wiki/Naga_Panchami",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#e9c9a0",
+    "c2": "#efe6d2"
+  },
+  "order": 42,
+  "facts": [
+    {
+      "text": "The Mahabharata names Vaishampayana, Vyasa's pupil, as the first to recite the epic, and Janamejaya as the listener.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Takshaka, in the epic, reached Parikshit by hiding as a worm in a fruit. Parikshit had been sheltered in a guarded mansion on one pillar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parikshit",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Naga Panchami, on the fifth lunar day of Shravana, is linked by tradition to Astika's saving of the snakes.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A pond called Parikshit Kund in Mainpuri district is said to mark the sacrifice pit. A local legend says snakes there stay harmless.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Four copper-plate land grants once claimed to be from his reign were shown by scholars to be forgeries.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At a long sacrifice at Kurukshetra, Janamejaya's brothers beat the dog son of Sarama. When they stayed silent, she cursed that misfortune would strike him when he least expected it.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-mahabharata-first-book/d/doc3864.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vayu and Matsya Puranas speak of a quarrel with Vaishampayana, after which he may have given up the throne to his son Shatanika. Another list names his grandson Ashvamedhadatha as his successor.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Historians credit Janamejaya and his father Parikshit with making the Kuru realm the leading power of northern India, collecting Vedic hymns and shaping the srauta rituals.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The sage Uttanka came to Janamejaya, who had just returned victorious from Takshashila, and told him that Takshaka had killed his father. He urged the king to hold a snake sacrifice in revenge.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uttanka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At the snake sacrifice, Takshaka hid with Indra, coiled round his seat. The priests chanted harder, and the pull dragged Indra himself, with his throne, toward the sacrificial fire.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The young sage Astika who halted the sacrifice was the son of a Brahmin, Jaratkaru, and of Manasa, a Naga woman. That is why he could plead for the snakes.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Astika was offered a boon, and the king never refused a boon to a Brahmin. So Janamejaya stopped the sacrifice, even though the priests protested.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Naga Panchami telling, the frightened gods asked the snake goddess Manasa for help. She sent her son Astika, and afterwards Indra himself worshipped her.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Panchavimsha Brahmana names a Janamejaya as a priest at a snake sacrifice, but scholars Macdonell and Keith thought he was a different man from the Kuru king.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Aitareya Brahmana says that at one sacrifice he did not use the Kashyapas as priests but the Bhutaviras. He later brought the Asitamriga family of Kashyapas back.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Shatapatha Brahmana says he and three brothers performed a horse sacrifice to cleanse themselves of sin, led by the priest Indrota Daivapa Shaunaka.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Historian H. C. Raychaudhuri dates his father Parikshit to about the ninth century BCE. Michael Witzel links the Pariksit dynasty to Black and Red Ware pottery dated about 1180 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Versions differ on Takshaka's fate: one telling has him dragged toward the fire with Indra, while the Takshaka article says Janamejaya's men traced him and brought him as a prisoner.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Takshaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The epic names his mother as Madravati and gives him three brothers, Shrutasena, Ugrasena and Bhimasena.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Gopatha Brahmana tells an anecdote about Janamejaya and two ganders, which the Wikipedia article calls absurd.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "full",
+  "years": "c. 12th–9th century BCE (debated)"
+}

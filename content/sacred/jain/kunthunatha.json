@@ -1,0 +1,171 @@
+{
+  "slug": "kunthunatha",
+  "name": "Kunthunatha",
+  "aka": ["Kunthunath", "Kunthu", "Lord Kunthu"],
+  "native": "कुन्थुनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "17th Tirthankara of the present age",
+  "summary": "Jains revere Kunthunatha as the 17th Tirthankara of this age, born in Hastinapur and counted as a world-emperor. His emblem is a goat and his name recalls a heap of jewels.",
+  "about": "According to Jain tradition, Kunthunatha was born in Hastinapur to King Sura and Queen Shri of the Ikshvaku line. Svetambara texts say his name came from a dream in which his mother saw a heap of jewels, called kunthu. Jain tradition also counts him as the sixth chakravartin, a ruler of the whole earth, and the twelfth kamadeva. After a long reign he renounced his empire, wandered as an ascetic for sixteen years, reached omniscience and taught a large community. Jains believe he attained liberation on Mount Shikharji. Svetambara and Digambara sources differ in his parents' names and in several figures. His temples range from Hampi to Jaisalmer.",
+  "kidSummary": "Kunthunatha is remembered by Jains as the 17th Tirthankara. His name is linked to a dream of a shining heap of jewels, and his sign is a goat. The stories say he ruled the whole earth and then gave it up to seek peace.",
+  "story": [
+    {
+      "title": "A dream of jewels",
+      "text": "Svetambara texts say his mother dreamed of a glittering heap of gems called kunthu. The baby was named after that dream."
+    },
+    {
+      "title": "Ruler of the earth",
+      "text": "He grew up in Hastinapur and became king. Jain accounts say a divine wheel appeared in his armoury and the kings of the land accepted his rule without a battle."
+    },
+    {
+      "title": "Names on the mountain",
+      "text": "Among the stories told of Jain world-emperors, he saw the names of earlier emperors carved at a mountain foot. That helped him realise that even great power is only temporary."
+    },
+    {
+      "title": "A long, quiet search",
+      "text": "He gave up his throne and joined a thousand kings as an ascetic. Jain texts say he meditated for sixteen years before he gained perfect knowledge under a tilaka tree."
+    },
+    {
+      "title": "The final fast",
+      "text": "He taught about purity of the mind. At the end, Jains believe, he fasted for a month on Mount Shikharji and reached liberation."
+    }
+  ],
+  "teaches": ["Power is temporary", "Inner purity matters most", "Patience in long effort"],
+  "symbol": "lamp",
+  "emblems": ["Goat (lanchana)", "Golden complexion", "Tilaka tree (omniscience)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Sura"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Shri"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Shantinatha",
+      "slug": "shantinatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Aranatha",
+      "slug": "aranatha"
+    }
+  ],
+  "texts": [
+    "Avashyaka-niryukti",
+    "Trishashtishalakapurusha Charitra (Hemachandra)",
+    "Jain Puranas"
+  ],
+  "places": [
+    "Hastinapur, Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Ganigitti Jain Temple, Hampi",
+    "Jaisalmer Fort, Rajasthan"
+  ],
+  "festivals": ["Kunthunatha Janma Kalyanak"],
+  "facts": [
+    {
+      "text": "Jainpedia says the name Kunthu is unclear and may not even be Sanskrit. Svetambara texts tie it to a heap of jewels in his mother's dream, while one commentary reads it as 'staying on the earth'.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/people/jina/kunthu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A divine disc appeared in his armoury, and Jainworld says he won the world without a battle, since every king accepted his rule.",
+      "kind": "story",
+      "source": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/kunthunath-bhagavan-17/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia retells a legend, told of every chakravartin, that he went to carve his name on a mountain foot, found earlier emperors' names already there, felt his ambition shrink and renounced.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunthunatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jainworld says he took initiation together with 1,000 kings and at once gained manahparyaya, the knowledge of other minds' thoughts.",
+      "kind": "story",
+      "source": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/kunthunath-bhagavan-17/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A hoard of 11th-century Digambara bronzes found at Aluara near Dhanbad, Jharkhand, includes rare idols of Kunthunatha seated in lotus posture. They are now kept at the Patna Museum.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kunthunatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Karanthai in Tamil Nadu, also called Munigiri, has a 9th-century Pallava-era inscription. Under the Cholas its Kunthunatha temple carried a king's name, Virarajendrapperumpalli.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Karanthai_Jain_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Ganigitti Jain temple at Hampi was built in 1385 under the Vijayanagara Empire by the commander Iruguppa. An inscription dedicates its main shrine to Kunthunatha.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kunthunatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts give him 95,000 years of life and a height of 35 bows. At about three metres a bow, the usual conversion, that is roughly 105 metres tall.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kunthunatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Svetambara tradition say inspired the name Kunthu?",
+      "options": ["A white elephant", "A golden wheel", "A heap of jewels", "A lotus"],
+      "answer": 2,
+      "why": "His mother dreamed of a heap of jewels called kunthu."
+    },
+    {
+      "q": "Which animal is Kunthunatha's emblem?",
+      "options": ["Goat", "Boar", "Deer", "Bear"],
+      "answer": 0,
+      "why": "A goat is carved on the base of his images."
+    },
+    {
+      "q": "Besides being a Tirthankara, what do Jain texts call him?",
+      "options": ["A chakravartin", "A merchant", "A poet", "A guru of Rama"],
+      "answer": 0,
+      "why": "Jain tradition counts him as the sixth chakravartin, a world-emperor."
+    },
+    {
+      "q": "Where is his birthplace in Jain tradition?",
+      "options": ["Ayodhya", "Hastinapur", "Kampilya", "Ratnapuri"],
+      "answer": 1,
+      "why": "Jain tradition places his birth at Hastinapur, near Meerut."
+    },
+    {
+      "q": "How many years did he wander before omniscience?",
+      "options": ["3", "12", "16", "21"],
+      "answer": 2,
+      "why": "Jain texts say he wandered as an ascetic for 16 years."
+    }
+  ],
+  "related": ["shantinatha", "aranatha", "mahavira", "mallinatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kunthunatha",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/kunthu",
+    "jainworld": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/kunthunath-bhagavan-17/"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#e8e0f0",
+    "c2": "#f4ead0"
+  },
+  "order": 17
+}

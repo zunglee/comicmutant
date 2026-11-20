@@ -1,0 +1,253 @@
+{
+  "slug": "vasuki",
+  "name": "Vasuki",
+  "aka": ["Vasuka", "Basuki", "Nagaraja"],
+  "native": "वासुकि",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "King of the nagas and rope of the churning of the ocean",
+  "summary": "Vasuki is the king of the nagas, the serpent who coils around Shiva's neck. In the churning of the ocean of milk he served as the rope that gods and asuras pulled.",
+  "about": "Vasuki is the naga king of Hindu tradition, a son of the sage Kashyapa and Kadru, and a brother of Shesha and the goddess Manasa. He is said to wear a jewel called Nagamani, and is shown coiled around Shiva's neck as an ornament. The best known story, told in the Mahabharata and Puranas, says he agreed to be the rope for the churning of the ocean of milk, wound around Mount Mandara. In the Mahabharata, he is also central to the tale of Astika, a sage who stopped a king's snake sacrifice. Buddhist texts mention naga kings listening to the Buddha, and Chinese and Japanese traditions count him among eight Dragon Kings. Temples to him and to the nagas are found mainly in Kerala, Karnataka and Andhra Pradesh.",
+  "kidSummary": "Vasuki is the king of the serpents in Hindu stories. When the gods and asuras wanted a magic drink from the ocean, they used him as a giant rope to spin a mountain. Today he is shown resting around Shiva's neck like a necklace.",
+  "story": [
+    {
+      "title": "A rope for the ocean",
+      "text": "The devas and asuras wanted to churn the Ocean of Milk to find amrita, the drink of immortality. They needed a very long rope, and Vasuki, the king of the nagas, agreed to be that rope."
+    },
+    {
+      "title": "The mountain as a churning stick",
+      "text": "They used Mount Mandara as the churning stick. It began to sink, and Vishnu in his tortoise form, Kurma, held it up on his shell."
+    },
+    {
+      "title": "Pulling together",
+      "text": "The gods pulled one end of Vasuki and the asuras the other, again and again. Many wonderful things rose from the ocean, and a deadly poison too, which Shiva drank to protect the worlds."
+    },
+    {
+      "title": "Around Shiva's neck",
+      "text": "Many stories show Vasuki resting around Shiva's neck. Shiva is said to have blessed him and worn him as an ornament."
+    },
+    {
+      "title": "A kind rescue",
+      "text": "In another episode of the Mahabharata, young Bhima was poisoned and thrown into the Ganges. Nagas in the underworld cured him, and Vasuki rewarded him with a drink that gave great strength."
+    }
+  ],
+  "teaches": [
+    "Cooperation: even rivals can work together",
+    "Loyalty and care for one's family",
+    "Patience through a long task"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Naga king", "Nagamani jewel", "Churning rope", "Ornament of Shiva"],
+  "family": [
+    { "relation": "Father", "name": "Kashyapa", "slug": "kashyapa" },
+    { "relation": "Brother", "name": "Shesha", "slug": "shesha" },
+    { "relation": "Half-brother", "name": "Garuda", "slug": "garuda" },
+    { "relation": "Sister", "name": "Manasa" },
+    { "relation": "Lord he adorns", "name": "Shiva", "slug": "shiva" }
+  ],
+  "texts": ["Mahabharata", "Vishnu Purana", "Garuda Purana"],
+  "places": [
+    "Kailasa (abode)",
+    "Kukke Subramanya Temple, Karnataka",
+    "Nagvasuki Temple, Prayagraj"
+  ],
+  "festivals": ["Naga Panchami"],
+  "facts": [
+    {
+      "text": "Fossil bones of a giant snake were found in 2005 in a coal mine in Kutch, Gujarat, and named Vasuki indicus only in 2024. Its upper length estimate beats the 12.8 m estimated for Titanoboa.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasuki_indicus",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Kadru cursed Vasuki after he refused to help her cheat in a wager over the colour of a divine horse's tail.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vasuki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Doomed to die in King Janamejaya's snake sacrifice, Vasuki learned from his brother Elapatra of a prophecy by Brahma and arranged his sister's marriage to a sage named Jaratkaru. Their son Astika later saved the nagas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vasuki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata itself was told at that snake sacrifice: the sage Vaishampayana recited it to Janamejaya, having learned it from Vyasa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janamejaya",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the Kauravas poison Bhima and throw him into the Ganges. Nagas heal him below, and Vasuki gives him a drink said to grant the strength of a thousand elephants.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vasuki",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Chinese and Japanese traditions count Vasuki among the eight Great Dragon Kings.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vasuki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Texts describe Vasuki wearing a gem called Nagamani on his head, and the Vasuki page lists that jewel as his symbol.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vasuki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says the sage Jaratkaru, who had sworn off marriage, met his ancestors hanging upside down from a tree. They begged him to marry and have a son, so Vasuki offered his sister.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Puranic telling of the churning, Vishnu advised the devas to take Vasuki's head and the asuras his tail, but the asuras thought the tail unlucky and refused, so the devas held the tail.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some tellings the deadly halahala poison escaped from Vasuki's mouth as the two sides pulled, and his fumes poisoned the asuras before Shiva drank the poison.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 2024 scientists named a giant fossil snake Vasuki indicus after Vasuki. Found in Gujarat's Kutch, it lived in the Middle Eocene and may have reached 11 to 15 m, among the longest snakes ever found.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasuki_indicus",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "After the churning, tradition says Vasuki rested at Prayag at Vishnu's request, where the Triveni Sangam healed his rope wounds. He stayed on two conditions: devotees visit him after bathing at the Sangam, and he is worshipped on Nag Panchami.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nagvasuki_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A traditional Naga Panchami verse names nine principal serpent deities: Ananta, Vasuki, Shesha, Padmanabha, Kambala, Shankhapala, Dhritarashtra, Takshaka and Kaliya. Reciting it is said to guard against fear of snakes.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Shiva destroyed the three flying cities of the asuras, a Puranic account makes the serpent Vasuki the bowstring, with Mount Meru as the bow and Vishnu as the arrow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Vasuki's nephew Astika, son of his sister Jaratkaru, got his name meaning 'there is' because his father said those words while Astika was still in the womb. He grew up in Vasuki's house.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sarpa_Satra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Manasa Vijaya says Manasa was born from a statue of a girl made by Vasuki's mother, through Shiva's power. Vasuki accepted her as his sister and gave her charge of the poison that appeared when King Prithu milked the Earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manasa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Naga Panchami digging the earth is taboo, since it could harm snakes living underground. People fast, and in many places real snakes are worshipped and fairs are held.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During the snake sacrifice, Vasuki feared his family was dwindling and that he too might be drawn into the fire. He asked his sister to send her son Astika for help, and Astika promised to help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sarpa_Satra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "During the snake sacrifice, Takshaka hid in Indra's garment. Janamejaya ordered Indra pulled in too, so Indra fled and left Takshaka hanging in mid-air, until Astika spoke up.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sarpa_Satra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 2025 the same scientists described another vertebra from the same Kutch mine. It shares features with Vasuki but differs enough that it may be a second species.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vasuki_indicus",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the churning of the ocean, what was Vasuki used as?",
+      "options": ["The stick", "The rope", "The boat", "The pot"],
+      "answer": 1,
+      "why": "He was the rope wound around Mount Mandara."
+    },
+    {
+      "q": "Who is Vasuki's brother, the serpent who carries Vishnu?",
+      "options": ["Takshaka", "Garuda", "Shesha", "Kaliya"],
+      "answer": 2,
+      "why": "Shesha (Ananta) is Vasuki's elder brother."
+    },
+    {
+      "q": "Which god is often shown with Vasuki around his neck?",
+      "options": ["Brahma", "Indra", "Hanuman", "Shiva"],
+      "answer": 3,
+      "why": "Vasuki coils around Shiva's neck as an ornament."
+    },
+    {
+      "q": "Which Pandava was healed by nagas after being poisoned?",
+      "options": ["Bhima", "Arjuna", "Nakula", "Sahadeva"],
+      "answer": 0,
+      "why": "In the Mahabharata nagas cured Bhima and gave him a strength-giving drink."
+    },
+    {
+      "q": "What festival honours snakes on the fifth bright day of Shravana?",
+      "options": ["Holi", "Naga Panchami", "Pongal", "Onam"],
+      "answer": 1,
+      "why": "Naga Panchami is the festival of serpents."
+    }
+  ],
+  "related": [
+    "shiva",
+    "shesha",
+    "garuda",
+    "kashyapa",
+    "vishnu",
+    "kartikeya",
+    "bhima",
+    "janamejaya",
+    "kurma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vasuki",
+    "churning": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+    "janamejaya": "https://en.wikipedia.org/wiki/Janamejaya",
+    "vasukiIndicus": "https://en.wikipedia.org/wiki/Vasuki_indicus",
+    "nagvasuki": "https://en.wikipedia.org/wiki/Nagvasuki_Temple",
+    "tripurantaka": "https://en.wikipedia.org/wiki/Tripurantaka",
+    "sarpaSatra": "https://en.wikipedia.org/wiki/Sarpa_Satra",
+    "manasa": "https://en.wikipedia.org/wiki/Manasa"
+  },
+  "depth": "full",
+  "palette": { "c1": "#D4E6D0", "c2": "#E9DEC4" },
+  "order": 500
+}

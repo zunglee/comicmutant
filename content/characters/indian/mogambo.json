@@ -6,7 +6,7 @@
   "medium": "film",
   "publisher": "Narsimha Enterprises",
   "summary": "Mr. India's theatrical tyrant: a megalomaniac with a high-tech island lair who wants to conquer India. Amrish Puri's career-defining role (1987).",
-  "origin": "Mogambo is pictured as an eccentric retired army general turned would-be dictator. From a secret island fortress with missiles and acid tanks, he sponsors crime and terror to destabilise India, and he wants the invisibility device built by Arun Verma's father, a man whose death he caused. His army salutes him constantly, and his staff breathe easier when he announces he is pleased. Writers Salim–Javed borrowed his name from the 1953 Hollywood film Mogambo and built him as a larger-than-life, comic-book villain.",
+  "origin": "A rogue former army officer, Mogambo rules a hidden island base packed with missiles and a den of acid tanks. He bankrolls crime and terror to shake India apart, and he craves the invisibility device invented by a man he had killed, Arun Verma's father. His soldiers cheer him constantly, and his staff relax when he declares himself pleased. Salim–Javed took his name from a 1953 Hollywood film and made him a larger-than-life, comic-book villain.",
   "creators": ["Salim–Javed (writers)", "Shekhar Kapur (director)"],
   "firstAppearance": {
     "title": "Mr. India",
@@ -60,7 +60,7 @@
     },
     {
       "type": "gossip",
-      "text": "Anupam Kher was first in line for Mogambo, but it didn't work out, and Amrish Puri came in late in production.",
+      "text": "Anupam Kher was first in line for Mogambo. One account says he turned it down, another says his screen test looked more funny than ferocious, and Amrish Puri came in late in production.",
       "spice": 3
     },
     {
@@ -84,7 +84,7 @@
       "q": "Who played Mogambo?",
       "options": ["Amjad Khan", "Amrish Puri", "Prem Chopra", "Anupam Kher"],
       "answer": 1,
-      "why": "Amrish Puri got the role after Anupam Kher's casting fell through."
+      "why": "Amrish Puri got the role after Anupam Kher, first considered, did not take it; accounts differ on why."
     },
     {
       "q": "Where did Mogambo's name come from?",
@@ -102,6 +102,18 @@
       "options": ["Hungry", "Angry", "Pleased", "Sleepy"],
       "answer": 2,
       "why": "Khush means happy or pleased. His staff dread the moments when he isn't."
+    },
+    {
+      "q": "What do Mogambo's soldiers shout to greet him?",
+      "options": ["Hail Mogambo", "Jai Hind", "Long live Gabbar", "Salaam Sahib"],
+      "answer": 0,
+      "why": "His army acknowledges him with the phrase Hail Mogambo."
+    },
+    {
+      "q": "What does Mogambo most want to get his hands on?",
+      "options": ["A gold idol", "An invisibility device", "A cricket stadium", "A spaceship"],
+      "answer": 1,
+      "why": "He believes the cloaking device will help him conquer India and the world."
     }
   ],
   "rivals": ["mr-india"],
@@ -118,7 +130,8 @@
   },
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Mogambo_(character)",
-    "film": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)"
+    "film": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+    "amrishpuri": "https://en.wikipedia.org/wiki/Amrish_Puri"
   },
   "timeline": [
     {
@@ -142,17 +155,174 @@
       "note": "Tamil and Kannada remakes of Mr. India rebuild his role for new audiences."
     },
     {
-      "year": 2005,
+      "year": 2011,
       "kind": "legacy",
-      "title": "Amrish Puri dies",
-      "note": "The actor who made Mogambo famous dies in Mumbai in January 2005, aged 72."
+      "title": "Mr. India 2 announced",
+      "note": "A 3D sequel is announced with Salman Khan cast as Mogambo, though it has not entered production."
     },
     {
-      "year": 2019,
+      "year": 2013,
       "kind": "legacy",
-      "title": "Google Doodle",
-      "note": "Google marks what would have been Amrish Puri's 87th birthday with a Doodle in June 2019."
+      "title": "Filmfare's iconic villains",
+      "note": "Filmfare ranks Mogambo the second most iconic villain in Indian cinema history."
+    },
+    {
+      "year": 2018,
+      "kind": "legacy",
+      "title": "Riz Ahmed's Mogambo",
+      "note": "British actor and rapper Riz Ahmed releases a single named Mogambo after the character."
     }
   ],
-  "heat": 70
+  "heat": 70,
+  "facts": [
+    {
+      "text": "The makers wanted a villain as iconic as Sholay's Gabbar Singh or Shaan's Shakaal, auditioned actors for nearly two months, and with over 60 percent shot still agreed only Amrish Puri could play him.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+      "interest": 8
+    },
+    {
+      "text": "Kapur told Puri to play Mogambo as a Shakespearean character performing for a nine-year-old child.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Sunny Deol's role in The Hero (2003) was modelled on the character, and Riz Ahmed's 2018 single Mogambo is named after him.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "The Times of India's 2005 list recalled Puri's bulbous glare, blond wig and silver knee-high boots, and called his line possibly the most repeated in Hindi cinema after the 1980s.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Puri shaved his head to play Mola Ram in Indiana Jones and the Temple of Doom (1984) and stayed shaved afterwards, wearing wigs in later films.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 9
+    },
+    {
+      "text": "Steven Spielberg reportedly called Puri his favourite villain after Temple of Doom.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 8
+    },
+    {
+      "text": "Reportedly Puri was paid 1 crore rupees for Mogambo, which the Mogambo and Amrish Puri pages describe as making him the highest-paid villain actor of his time.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 7
+    },
+    {
+      "text": "His Wikipedia profile calls Mogambo's ultimate goal illogical: it hinges on evicting orphans from a Mumbai orphanage, tying his grand schemes to the film's heroes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In 2003 the Encyclopaedia of Hindi Cinema said Mr. India is best remembered for Mogambo's outrageous villainy, which seems inspired by the combined eccentricities of James Bond villains.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Amrish Puri failed his first screen test, took a government insurance job and acted on stage. He reached films around age 40 in the early 1970s, and won a Sangeet Natak Akademi Award in 1979.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 8
+    },
+    {
+      "text": "Puri had a detailed sketch made of Mogambo's wig, costume and accessories. Producer Boney Kapoor promised tailor Madhav double his usual 10,000 rupees if he matched it, so he was paid 20,000.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mogambo_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Kapur asked the editors to cut several repeats of Mogambo khush hua because it appeared too often. Javed Akhtar argued the line would be popular, and it stayed.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mr. India was Salim-Javed's last film together. They reportedly split after a Holi-festival row, when Amitabh Bachchan, offered the hero, said the real hero would be an invisible man.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "A flashback reveals that Mogambo was responsible for the death of Arun's father, the scientist who built the invisibility device that Mogambo later hunts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mogambo is pleased, not angry, when he learns of an invisible Mr. India, because he thinks it finally gives him a way to reach the device. He plants bombs across the country as bait.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Mogambo readies four missiles to strike India, but warns they are fuelled and will blow up the island if stopped. Arun cancels the launch anyway, the missiles explode on the pad and the fortress falls.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 8
+    },
+    {
+      "text": "Amrish Puri was the first cousin of singer and actor K. L. Saigal, and his elder brothers Chaman and Madan were both actors who moved to Mumbai in the 1950s.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 7
+    },
+    {
+      "text": "Puri acted in more than 450 films between 1967 and 2005 and holds the most Filmfare Best Villain nominations.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Amrish_Puri",
+      "interest": 7
+    },
+    {
+      "text": "Mr. India 2 was announced in 2011 with a 1.5 billion rupee budget and Salman Khan as Mogambo. In 2018 Anil Kapoor said Sridevi's death and Puri's absence affected the plan.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Filming began on 6 July 1985 and took 350 days. Kapur recalled it had to be shot slowly because of all the trick photography and technical innovation the film needed.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    },
+    {
+      "text": "Filmfare in 2013 named Mogambo the second-most iconic villain in the history of Indian cinema.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Mr._India_(1987_film)",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Mogambo is the big, theatrical villain of the 1987 Hindi film Mr. India: a retired army general in a blond wig and silver boots who rules a hidden island base and wants to conquer India. His catchphrase means Mogambo is pleased. The film has bombs and scary moments, so ask a grown-up first.",
+  "story": [
+    {
+      "title": "The island lair",
+      "text": "Mogambo rules from a secret island base full of missiles and a den with acid tanks."
+    },
+    {
+      "title": "The prize",
+      "text": "He wants an invisibility device made by a scientist, and he sends henchmen to run crimes across India."
+    },
+    {
+      "title": "Bait for an invisible hero",
+      "text": "When Mogambo hears of an invisible man, he plants bombs around the country to draw Mr. India out."
+    },
+    {
+      "title": "Missiles ready",
+      "text": "He readies missiles to strike India, with soldiers cheering him on."
+    },
+    {
+      "title": "Mogambo khush nahin",
+      "text": "Mr. India stops the launch, the fuelled missiles explode on the pad, and Mogambo's fortress is destroyed."
+    }
+  ]
 }

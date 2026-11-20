@@ -3,7 +3,7 @@
  * time with no flash), keep downloaded packs in a local "locker", and manage the top-5 dock.
  * Every storage access is guarded: private windows and blocked storage just lose the cache.
  */
-import type { ThemePack } from './compute';
+import { layerPackVars, type PackLayer, type ThemePack } from './compute';
 
 const LOCKER_KEY = 'cm_locker';
 const PACK_KEY = (slug: string) => `cm_pack:${slug}`;
@@ -22,23 +22,53 @@ function store(): Storage | null {
   }
 }
 
-export function applyPack(pack: ThemePack, from?: { x: number; y: number }) {
+/**
+ * How much of an equipped pack the active skin lets onto <html> (app/skins/compute.ts packLayerFor).
+ * The skin provider keeps this in step with the skin on screen; before it mounts, packs apply whole.
+ */
+let packLayer: PackLayer = { mode: 'all' };
+
+export function setPackLayer(layer: PackLayer) {
+  packLayer = layer;
+}
+
+export type WipeFlavour = 'halftone' | 'dusk' | 'glitch' | 'saffron';
+
+/**
+ * The circle wipe from a click point. `halftone` is the comic dot wipe (dots `c` on `bg`); any other
+ * flavour is a flat colour wipe in `bg` (data-wipe lets CSS restyle it). Skipped for reduced motion
+ * and Lite FX.
+ */
+export function playWipe(
+  from: { x: number; y: number } | undefined,
+  colors: { bg: string; c: string },
+  flavour: WipeFlavour = 'halftone',
+) {
   const root = document.documentElement;
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
-  if (from && !reduce && root.dataset.fx !== 'lite') {
-    const wipe = document.createElement('div');
-    wipe.className = 'theme-wipe';
-    wipe.style.setProperty('--wipe-x', `${from.x}px`);
-    wipe.style.setProperty('--wipe-y', `${from.y}px`);
-    wipe.style.setProperty('--wipe-bg', pack.vars['--c1'] ?? '#000');
-    wipe.style.setProperty('--wipe-c', pack.vars['--c3'] ?? '#fff');
-    document.body.appendChild(wipe);
-    setTimeout(() => wipe.remove(), 700);
-  }
-  for (const [k, v] of Object.entries(pack.vars)) root.style.setProperty(k, v);
+  if (!from || reduce || root.dataset.fx === 'lite') return;
+  const wipe = document.createElement('div');
+  wipe.className = 'theme-wipe';
+  wipe.dataset.wipe = flavour;
+  wipe.style.setProperty('--wipe-x', `${from.x}px`);
+  wipe.style.setProperty('--wipe-y', `${from.y}px`);
+  wipe.style.setProperty('--wipe-bg', colors.bg);
+  wipe.style.setProperty('--wipe-c', flavour === 'halftone' ? colors.c : colors.bg);
+  document.body.appendChild(wipe);
+  setTimeout(() => wipe.remove(), 700);
+}
+
+export function applyPack(pack: ThemePack, from?: { x: number; y: number }) {
+  const root = document.documentElement;
+  const vars = layerPackVars(pack.vars, packLayer, pack.slug);
+  // Under a lock skin nothing on screen changes, so there is nothing to wipe over.
+  if (packLayer.mode !== 'none')
+    playWipe(from, { bg: pack.vars['--c1'] ?? '#000', c: pack.vars['--c3'] ?? '#fff' });
+  for (const [k, v] of Object.entries(vars)) root.style.setProperty(k, v);
   root.dataset.theme = pack.slug;
   root.dataset.motif = pack.motif;
-  root.style.colorScheme = pack.mood;
+  // The pack's mood only applies where it owns the surfaces; a skin keeps its own color-scheme.
+  if (packLayer.mode === 'all') root.style.colorScheme = pack.mood;
   setCookie('cm_theme', pack.slug);
   window.dispatchEvent(new CustomEvent<ThemePack>('cm:theme', { detail: pack }));
 }

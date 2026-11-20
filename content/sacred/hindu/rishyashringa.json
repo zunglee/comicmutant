@@ -1,0 +1,286 @@
+{
+  "slug": "rishyashringa",
+  "name": "Rishyashringa",
+  "aka": [
+    "Rishyasringa",
+    "Shringi Rishi",
+    "Shringa Rishi",
+    "Isisinga (Pali)",
+    "Ekashringa (Mahavastu)"
+  ],
+  "native": "ऋष्यशृङ्ग",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage who brought rain and led Dasharatha's sacrifice",
+  "summary": "Rishyashringa is a young sage born with deer horns who, in the Ramayana and Mahabharata, ends a drought in Anga and later performs the sacrifice that leads to Rama's birth.",
+  "about": "The Valmiki Ramayana tells his story through the minister Sumantra, who says the sage Sanatkumara had foretold it, and the Mahabharata gives a longer version. Rishyashringa is the son of the sage Vibhandaka and grows up in a forest hermitage without ever seeing a woman. When the kingdom of Anga suffers a drought, its king Romapada brings him there, rain falls and he marries Shanta. Rishyashringa then performs the sacrifice for King Dasharatha, after which Rama and his brothers are born. Buddhist Jatakas and the Mahavastu tell variants of the same tale. Temples in Karnataka and Himachal Pradesh honour him.",
+  "kidSummary": "Rishyashringa is a gentle young sage who grew up deep in the forest and had never met anyone but his father. When a kingdom ran out of rain, he was invited to visit. Stories say the rain came back, and later he helped King Dasharatha pray for sons.",
+  "story": [
+    {
+      "title": "A boy of the forest",
+      "text": "Rishyashringa is born with small deer horns. His father, the sage Vibhandaka, raises him in a forest hermitage where he meets nobody else."
+    },
+    {
+      "title": "A kingdom without rain",
+      "text": "In the kingdom of Anga, rain stops and crops fail. Wise people tell King Romapada that the rain will return if Rishyashringa visits."
+    },
+    {
+      "title": "Welcoming guests",
+      "text": "The king's people camp near the hermitage. The innocent young sage welcomes them with water and fruit, and thinks sweets are a new kind of fruit."
+    },
+    {
+      "title": "Rain at last",
+      "text": "Rishyashringa goes to Anga and heavy rain falls. The king gives him his daughter Shanta in marriage."
+    },
+    {
+      "title": "A sacrifice for sons",
+      "text": "King Dasharatha of Ayodhya invites him to lead a fire sacrifice for sons. In the Ramayana, Rama, Bharata, Lakshmana and Shatrughna are born afterwards."
+    }
+  ],
+  "teaches": [
+    "Welcome every guest with kindness",
+    "Innocence and self-control are strengths",
+    "Good deeds by the wise can heal a whole land"
+  ],
+  "symbol": "tree",
+  "emblems": ["Deer horn", "Rain", "Fire sacrifice (yajna)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vibhandaka"
+    },
+    {
+      "relation": "Wife",
+      "name": "Shanta"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Father-in-law (in northern versions)",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Mahabharata",
+    "Tungabhadra Mahatmya",
+    "Naḷinikā Jātaka (Buddhist)",
+    "Mahavastu (Buddhist)"
+  ],
+  "places": [
+    "Kigga, near Sringeri, Karnataka",
+    "Chehni, Banjar valley, Himachal Pradesh",
+    "Anga (ancient kingdom)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name joins rishi, a sage, with shringa, a horn. The Mahabharata says he was born with the horns of a deer.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata he is born to a doe who was a cursed celestial being, an apsara. Once he is born she is freed from the curse and returns to heaven.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata he grows up in the forest without ever meeting a woman. When visitors arrive he thinks they are fellow hermits and invites them to meditate with him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Valmiki Ramayana, the minister Sumantra says the sage Sanatkumara had foreseen the whole story long ago, including that Rishyasringa would one day help Dasharatha obtain sons.",
+      "kind": "story",
+      "source": "https://ramayana-dfo.pages.dev/story/bala/9/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, King Romapada offends a brahmin, so no priest will perform his sacrifices. Indra is angered and holds back the rain, and Anga falls into drought and famine.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki says the young sage welcomed his guests like honoured deities, offering water for their hands and feet and roots and fruits, because he knew no other way to treat visitors.",
+      "kind": "story",
+      "source": "https://ramayana-dfo.pages.dev/story/bala/10/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the visitors gave him sweets, Valmiki says Rishyasringa took them for a new kind of fruit. He had never tasted anything sweet in the forest.",
+      "kind": "story",
+      "source": "https://ramayana-dfo.pages.dev/story/bala/10/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Buddhist Jataka (no. 526) tells the tale with the boy called Isisinga, whose father is the Buddha-to-be in an earlier life. In Jataka 523 the god Sakka sends a heavenly nymph.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahavastu, a Buddhist text, the hero is Ekashringa. He is led away, becomes a king, fathers thirty-two children, and later returns to the forest to regain his powers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Himachal Pradesh's Banjar valley, people call him Shringa Rishi and honour him as the valley's presiding deity. His temple at Chehni, about 50 km from Kullu, holds an idol of him with Shanta.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Kigga temple tradition, the sage Narada tells King Romapada that Rishyashringa is an avatar of the rain god, so the famine will end once he sets foot in Anga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kigga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki's telling, rain starts to pour while Rishyasringa is still being brought toward Anga. King Romapada greets him by bowing fully to the ground, then gives him Shanta in marriage.",
+      "kind": "story",
+      "source": "https://ramayana-dfo.pages.dev/story/bala/10/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kigga's tradition says that when Shiva offered a boon, Rishyashringa asked for Shiva to dwell within him. The village was once called Kagga, and the name Kigga is said to come from that episode.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kigga",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Buddhist Mahavastu version, the girl who wins Ekashringa is a past life of Yashodhara, the Buddha's wife.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The 1988 Malayalam film Vaishali, directed by Bharathan from a script by M. T. Vasudevan Nair, retells Rishyashringa's tale. Its song Indhupushpam won National Film Awards for singer K. S. Chithra and lyricist O. N. V. Kurup.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vaishali_(film)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In northern versions of the Ramayana, Shanta is Dasharatha's own daughter who was adopted by King Romapada of Anga. That would make Rishyashringa the brother-in-law of Rama.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shanta_(Ramayana)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Tungabhadra Mahatmya places his birth near Sringeri in Karnataka. Sringeri is also called Shringagiri, which means the hills where Rishyashringa lived.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Buddhist Jataka 526, the god Sakka is disturbed by the boy's growing ascetic power. He sends a drought to the land and blames it on the boy.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A carved stone relief of the Rishi Sringa story from Bhuteshwar, dated to about the 2nd century CE, is kept in the Government Museum in Mathura. So the tale was already being carved about 1,800 years ago.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "An illustrated Ramayana known as the Freer Ramayana, painted about 1597 to 1605, has a page showing Dasharatha setting out toward Anga to invite Rishyasringa to his home.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rishyasringa",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was unusual about Rishyashringa when he was born?",
+      "options": [
+        "He had deer horns",
+        "He was born holding a lotus",
+        "He was born speaking the Vedas",
+        "He had two shadows"
+      ],
+      "answer": 0,
+      "why": "His name means 'sage with a horn'."
+    },
+    {
+      "q": "Which kingdom had a drought until he arrived?",
+      "options": ["Anga", "Kosala", "Magadha", "Kashi"],
+      "answer": 0,
+      "why": "The Mahabharata and Ramayana both say the rains returned in Anga."
+    },
+    {
+      "q": "Whose fire sacrifice did he lead in the Ramayana?",
+      "options": ["Janaka's", "Dasharatha's", "Ravana's", "Bharata's"],
+      "answer": 1,
+      "why": "Dasharatha's sacrifice for sons came before the birth of Rama and his brothers."
+    },
+    {
+      "q": "Who tells his story to Dasharatha in the Valmiki Ramayana?",
+      "options": ["Hanuman", "Sumantra", "Vibhishana", "Jatayu"],
+      "answer": 1,
+      "why": "Sumantra, Dasharatha's minister, retells what Sanatkumara had said."
+    },
+    {
+      "q": "What did young Rishyashringa take the sweets for, when his guests offered them?",
+      "options": ["A new kind of fruit", "A kind of medicine", "Little clay toys", "Flower petals"],
+      "answer": 0,
+      "why": "Having only ever eaten forest roots and fruit, he thought the sweets were a new fruit."
+    }
+  ],
+  "related": [
+    "dasharatha",
+    "rama",
+    "lakshmana",
+    "bharata-ramayana",
+    "shatrughna",
+    "kaushalya",
+    "kashyapa",
+    "sanat-kumaras"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rishyasringa",
+    "valmiki-bala-9": "https://www.valmikiramayan.net/utf8/baala/sarga9/bala_9_prose.htm",
+    "valmiki-bala-10": "https://www.valmikiramayan.net/utf8/baala/sarga10/bala_10_prose.htm",
+    "shanta": "https://en.wikipedia.org/wiki/Shanta_(Ramayana)",
+    "kigga": "https://en.wikipedia.org/wiki/Kigga",
+    "banjar": "https://en.wikipedia.org/wiki/Banjar,_Himachal_Pradesh",
+    "vaishali": "https://en.wikipedia.org/wiki/Vaishali_(film)",
+    "valmiki-bala-9-alt": "https://ramayana-dfo.pages.dev/story/bala/9/",
+    "valmiki-bala-10-alt": "https://ramayana-dfo.pages.dev/story/bala/10/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d7e8c9",
+    "c2": "#cfe0ee"
+  },
+  "order": 762
+}

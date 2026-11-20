@@ -21,7 +21,13 @@
     "Expert combatant",
     "His blood gave his father the base for an antidote to Kaal's virus"
   ],
-  "affiliations": ["Mehra family"],
+  "affiliations": [
+    "Mehra family",
+    "Priya Mehra (wife)",
+    "Dr. Rohit Mehra (father)",
+    "Jadoo (father's alien friend)",
+    "Kristian Li (Singapore friend)"
+  ],
   "storyline": [
     {
       "era": "Prequel",
@@ -122,6 +128,23 @@
       ],
       "answer": 3,
       "why": "He threw it together on the spot to save children at a burning circus."
+    },
+    {
+      "q": "What does the alien's name Jadoo mean?",
+      "options": ["Magic", "Friend", "Star", "Light"],
+      "answer": 0,
+      "why": "In the franchise, Jadoo is a Hindi word for magic."
+    },
+    {
+      "q": "Where does the name Krrish come from?",
+      "options": [
+        "A cut-off Krishna",
+        "A cricketer's nickname",
+        "A Chinese word",
+        "A comic book hero"
+      ],
+      "answer": 0,
+      "why": "Krishna stops partway through saying his name, and the fragment sticks."
     }
   ],
   "rivals": ["kaal", "siddhant-arya"],
@@ -139,7 +162,9 @@
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Krrish",
     "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
-    "krrish3": "https://en.wikipedia.org/wiki/Krrish_3"
+    "krrish3": "https://en.wikipedia.org/wiki/Krrish_3",
+    "krrish4_pinkvilla": "https://www.pinkvilla.com/cinema/rakesh-roshan-shares-major-update-on-hrithik-roshan-starrer-krrish-4-we-plan-to-releaser-it-in-1396566",
+    "krrish4_hungama": "https://www.bollywoodhungama.com/news/bollywood/exclusive-rakesh-roshan-drops-major-update-hrithik-roshans-krrish-4-film-release-2027"
   },
   "timeline": [
     {
@@ -171,8 +196,189 @@
       "year": 2025,
       "kind": "turn",
       "title": "Hrithik takes the director's chair",
-      "note": "Rakesh Roshan hands directing duties to his son, with Yash Raj Films producing Krrish 4."
+      "note": "Rakesh Roshan announces that his son Hrithik will make his directing debut with Krrish 4."
+    },
+    {
+      "year": 2025,
+      "kind": "turn",
+      "title": "Krrish 4 gets a plan",
+      "note": "In September 2025 Rakesh Roshan says the story and budget are locked, with filming planned from mid-2026 for a 2027 release."
+    },
+    {
+      "year": 2026,
+      "kind": "turn",
+      "title": "Filming slips to late 2026",
+      "note": "The Krrish franchise page records Rakesh Roshan saying in June 2026 that filming of Krrish 4 will most likely start at the end of 2026."
     }
   ],
-  "heat": 75
+  "heat": 75,
+  "facts": [
+    {
+      "text": "The first Krrish needed over 1,200 visual-effects shots, covering about 90 minutes of screen time, made by a team of more than 100 specialists in India with two Hollywood experts.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Offered a reward after saving children from a circus fire, Krishna asks his friend Kristian Li to pose as Krrish so that Kristian can pay for his sister's operation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "Rohit's powers came from sunlight, which is why the solar device he builds in Krrish 3 can bring Krishna back to life.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "In Krrish 3, Krishna keeps getting fired from regular jobs because he is busy moonlighting as a superhero.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "Krishna's blood becomes the antidote to Kaal's virus, and he spreads it across Mumbai, so the hero's own body saves the city.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "During a flying stunt on Krrish, a wire snapped and Hrithik Roshan fell about 50 feet onto a shop canopy and survived. He called it a freak accident and said the only word for it was jadoo.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "Krishna and Priya name their newborn son Rohit Mehra, and the baby seems to show superpowers at the end of Krrish 3.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "In Krrish 3, Hrithik reportedly wore wax masks that melted in the Indian heat, up to 44 degrees, and went through about 500 of them.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 8
+    },
+    {
+      "text": "A week after Krrish opened, Superman Returns arrived in India, and Krrish still did better at the Indian box office.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Hrithik Roshan got hurt a lot making Krrish: he tore a hamstring in the circus scene, singed his hair running through fire, and broke a thumb and a toe training for the wirework.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Krrish 3 is the highest-grossing Indian superhero film, at about 393 crore rupees worldwide on a budget of around 100 crore, according to its Wikipedia page.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish_3",
+      "interest": 7
+    },
+    {
+      "text": "At the end of Krrish (2006), Rohit uses the supercomputer to send signals to space, hoping to reach Jadoo, and the family sees a spaceship in the night sky.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "In September 2016 Rakesh Roshan said a tweet showing Lord Ganesha as Krrish inspired him to announce a fourth film.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 8
+    },
+    {
+      "text": "The name Krrish began as a slip. While rescuing a circus boy, Krishna starts to give his name, remembers his promise to keep his powers secret and stops short, and the boy repeats the fragment to everyone.",
+      "kind": "origin",
+      "source": "https://www.pinkvilla.com/entertainment/exclusives/exclusive-hrithik-roshan-decided-title-for-krrish-know-the-process-behind-naming-koi-mil-gayas-sequel-1234460",
+      "interest": 9
+    },
+    {
+      "text": "Hrithik Roshan chose the title. He wanted a superhero name that was easy to say, sounded fantastical and could carry over into later films, and he built it from Krishna.",
+      "kind": "creator",
+      "source": "https://www.pinkvilla.com/entertainment/exclusives/exclusive-hrithik-roshan-decided-title-for-krrish-know-the-process-behind-naming-koi-mil-gayas-sequel-1234460",
+      "interest": 7
+    },
+    {
+      "text": "Krrish was screened in the Informative Screening category of the 2014 Pyongyang International Film Festival in North Korea.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "Krrish: Menace of the Monkey Men, a 2013 comic by Tom DeFalco and Sal Buscema, also became an animated mobile comic released in weekly chapters through a Krrish Comics app.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "J Bole Toh Jadoo, a 2004 Nickelodeon India spin-off about the alien Jadoo and two kids, was among the first 3D live-action and animation shows made in India.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Dr. Siddhant Arya's supercomputer shows the future, but it only works with Rohit's heartbeat and retina scans, so Arya keeps Rohit in a coma while he rebuilds it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "Arya checks the machine and sees a vision of Krrish killing him. He consults it again later and the predicted future has not changed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Krrish is considered Indian cinema's first superhero film series, running over three films from 2003 to 2013.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 8
+    },
+    {
+      "text": "The mask comes from a black clown's mask Krishna wears at the circus fire, paired with an inside-out jacket, and that disguise makes him the mysterious hero Krrish.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Kid Krrish, the animated film series made for ages 8 to 12, first aired on 2 October 2013 on Cartoon Network India in Hindi, English, Tamil and Telugu.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Krrish was one of the first Indian productions to use large-scale CGI and wire stunts at an international standard, and it was the highest-grossing Indian superhero film when it came out.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Krishna Mehra is a kind young man with super speed, strength and a brilliant mind, powers his father got from the alien Jadoo. He keeps them secret until a circus fire forces him to act, and the masked hero is soon known as Krrish.",
+  "story": [
+    {
+      "title": "A father's gift",
+      "text": "An alien called Jadoo gives Krishna's father special powers, and Krishna is born with them too."
+    },
+    {
+      "title": "A promise to Grandma",
+      "text": "Krishna grows up in the hills and promises his grandmother to keep his powers secret."
+    },
+    {
+      "title": "The circus rescue",
+      "text": "When a circus tent catches fire in Singapore, he puts on a black mask and jacket to save the children."
+    },
+    {
+      "title": "Saving his father",
+      "text": "Krishna finds out his father is alive and rescues him from the villain Dr. Arya."
+    },
+    {
+      "title": "Brother against brother",
+      "text": "In Krrish 3 he faces Kaal, and learns that the villain is his father's other son."
+    }
+  ]
 }

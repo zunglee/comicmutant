@@ -1,0 +1,285 @@
+{
+  "slug": "devayani",
+  "name": "Devayani",
+  "aka": ["Devayānī", "Devyani"],
+  "native": "देवयानी",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Daughter of the teacher Shukra, first wife of King Yayati",
+  "summary": "Devayani is the daughter of Shukra, the teacher of the asuras. In the Mahabharata she is part of two famous tales: her friendship with the student Kacha, and her marriage to King Yayati.",
+  "about": "In the Mahabharata and some Puranas, Devayani is the daughter of Shukracharya, the wise teacher of the asuras, and his wife Jayanti. Her story begins in her father's hermitage, where the student Kacha, son of the gods' teacher Brihaspati, comes to learn a secret that can bring the dead back to life. After he completes his study, Devayani asks him to marry her, he declines, and the two part with curses. In the second part of her story, a quarrel with her friend Sharmishtha, daughter of the daitya king Vrishaparvan, ends with Devayani in a dry well. King Yayati lifts her out, and they marry. She becomes the mother of Yadu and Turvasu. Many tellings place the family of Yadu as the line that leads to Krishna. Modern writers have returned to her story often, most famously in V. S. Khandekar's Marathi novel Yayati, where she is one of the three narrators.",
+  "kidSummary": "Devayani was the daughter of Shukra, a very wise teacher. In the Mahabharata she meets a young student named Kacha, falls out with her friend Sharmishtha at a forest pool, and is rescued by King Yayati, whom she marries. Her story is full of friendship, quarrels and hard choices.",
+  "story": [
+    {
+      "title": "A student arrives",
+      "text": "A young man named Kacha came to Shukra's hermitage to study. Devayani liked him, and he served her father faithfully for a very long time."
+    },
+    {
+      "title": "Rescued again and again",
+      "text": "The asuras were afraid Kacha would learn her father's life-giving secret. They harmed him three times, but each time Devayani begged her father, and Shukra brought Kacha back."
+    },
+    {
+      "title": "The pool and the swapped clothes",
+      "text": "Later Devayani and her friend Sharmishtha bathed in a forest pool. A gust of wind mixed up their clothes, and the two friends began to argue."
+    },
+    {
+      "title": "The well",
+      "text": "The quarrel ended with Devayani left in a dry well. King Yayati was hunting nearby, heard her, and helped her out. Shukra then agreed that they could marry."
+    },
+    {
+      "title": "A family begins",
+      "text": "Devayani and Yayati had two sons, Yadu and Turvasu. In many tellings the family of Yadu is the one Krishna is born into."
+    }
+  ],
+  "teaches": [
+    "Friends can hurt each other; wise people try to mend things",
+    "Honesty, even when it is hard",
+    "Actions have consequences"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Hermitage of Shukra", "The dry well", "Mritasanjivani (the life-giving knowledge)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shukracharya",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Jayanti"
+    },
+    {
+      "relation": "Husband",
+      "name": "Yayati",
+      "slug": "yayati"
+    },
+    {
+      "relation": "Friend, later her servant",
+      "name": "Sharmishtha",
+      "slug": "sharmishtha"
+    },
+    {
+      "relation": "Sons",
+      "name": "Yadu and Turvasu"
+    },
+    {
+      "relation": "Student of her father",
+      "name": "Kacha"
+    },
+    {
+      "relation": "Kacha's father",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Matsya Purana", "Agni Purana"],
+  "places": ["Shukra's hermitage", "A forest pool and well near the capital of Vrishaparvan"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Mahabharata says the asuras killed Kacha three times: first by feeding him to wolves, then by crushing him into a paste mixed with seawater, and finally by burning him and mixing the ashes in wine.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "On the third time, Kacha was inside Shukra's body, so reviving him would harm his teacher. Shukra taught him the secret, Kacha came out, and then used it to bring Shukra back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 10,
+      "kid": false
+    },
+    {
+      "text": "Brihaspati could not revive the gods slain in battle, so the gods sent his son Kacha to Shukra. They told him to win over both the teacher and Devayani, the daughter, with kindness.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01077.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kacha vowed to study under Shukra for a thousand years. He won Devayani's goodwill with songs, dance, music, flowers and fruit, and five hundred years passed before the asuras learned his purpose.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01077.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before Devayani even explained what had happened, Shukra hugged her and said people's joys and sorrows come from their own faults, hinting that she too might have erred.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01079.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Stuck inside Shukra, Kacha was safe only if his teacher died. Devayani told her father that either loss would burn her like fire, so Shukra taught Kacha the science and let him come out.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01077.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Devayani opened the quarrel by calling Sharmishtha her disciple, since the asuras were her father's pupils. That stung, and Sharmishtha answered with an insult about Shukra.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01079.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the episode with the wine, the story says Shukra declared that he would never drink intoxicating drinks again and warned his Brahmin students to avoid them too.",
+      "kind": "teaching",
+      "source": "https://www.mahabharataonline.com/stories/mahabharata_story.php?id=14",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Devayani asked Kacha to marry her, he said that since he had come out of her father's body he counted her as a sister. His parting curse was that no sage's son would ever marry her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Devayani's curse was that Kacha could never use the revival knowledge himself. Kacha replied that he would still teach it to others, so it would not be wasted.",
+      "kind": "story",
+      "source": "https://www.mahabharataonline.com/stories/mahabharata_story.php?id=14",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the asuras killed Kacha again and again, Devayani told her father she would starve herself to follow him rather than live without him, and that pushed Shukra to try once more to revive Kacha.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01077.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kacha thanked his teacher with a lesson of his own: whoever pours knowledge into your ears is like both mother and father, and no one should harm him.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01077.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Khandekar's novel Devayani loves Kacha and is refused, then sets out to win Yayati to take revenge. Critics read her as a figure of pride and a hunger for power.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yayati_(novel)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata text it is Devayani herself, not her father, who names the price for peace: she wants Sharmishtha, with a thousand maids, to serve her and to follow her after marriage.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01081.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Shukra threatened to leave, Vrishaparvan said the asuras would then plunge into the ocean. Shukra replied he could not bear his daughter's grief, since his life depended on her.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01081.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At their second meeting Devayani herself asked Yayati to marry her, saying no other man had held her hand. He said he could wed her only if her father gave her.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shukra told Devayani that someone who holds back rising anger, like a driver holding reins, is the true winner, better than one who makes monthly sacrifices for a hundred years. She replied that rudeness should not be forgiven.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01080.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Yayati found Devayani again he first hesitated, since a king and a Brahmin's daughter belong to different orders. She replied that Brahmins and Kshatriyas had married before and asked him to marry her.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, she tells Yayati that falling in the well was fate. Because of Kacha's curse she could not marry a Brahmin, so she asked him instead.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/18/22/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, hearing what happened, Shukra spoke against a priest's dependent life, praised gleaning grain from fields, and left home with his daughter.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/9/18/25/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On a forest outing before the marriage, Devayani lounged and drank flower honey while Sharmishtha gently pressed her feet. The king who wandered by was Yayati.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Kacha come to Shukra's hermitage to learn?",
+      "options": [
+        "How to fly",
+        "A mantra that brings the dead back to life",
+        "How to speak with animals",
+        "How to build a palace"
+      ],
+      "answer": 1,
+      "why": "The mantra called Mritasanjivani revives the dead, and Shukra knew it."
+    },
+    {
+      "q": "Who pulled Devayani out of the dry well?",
+      "options": ["Indra", "Kacha", "King Yayati", "Her father Shukra"],
+      "answer": 2,
+      "why": "Yayati was hunting nearby, found her and helped her out."
+    },
+    {
+      "q": "What are the names of Devayani's two sons?",
+      "options": ["Puru and Anu", "Yadu and Turvasu", "Bharata and Ayus", "Druhyu and Anu"],
+      "answer": 1,
+      "why": "Yadu and Turvasu were her sons; Puru was the son of Sharmishtha."
+    },
+    {
+      "q": "What curse did Kacha give Devayani when she asked him to marry her?",
+      "options": [
+        "She would lose her voice",
+        "No sage's son would marry her",
+        "She would forget every mantra",
+        "She would never see her father"
+      ],
+      "answer": 1,
+      "why": "Kacha said no son of a sage would wed her. She later married King Yayati."
+    },
+    {
+      "q": "Into what drink did the asuras mix Kacha's ashes the last time?",
+      "options": ["Wine", "Milk", "Honey water", "River water"],
+      "answer": 0,
+      "why": "They hid his ashes in Shukra's wine, which is how Kacha ended up inside his teacher."
+    }
+  ],
+  "related": ["shukracharya", "yayati", "sharmishtha", "brihaspati", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Devayani",
+    "mahabharata": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01079.htm",
+    "kacha": "https://www.mahabharataonline.com/stories/mahabharata_story.php?id=14",
+    "adi_77": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01078.htm",
+    "adi_79": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01080.htm",
+    "adi_80": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01081.htm",
+    "adi_81": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01082.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E9CFC9",
+    "c2": "#C9D8D0"
+  },
+  "order": 500
+}

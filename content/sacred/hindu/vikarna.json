@@ -1,0 +1,270 @@
+{
+  "slug": "vikarna",
+  "name": "Vikarna",
+  "aka": ["Dhartarashtra"],
+  "native": "विकर्ण",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Kaurava prince who spoke up for Draupadi",
+  "summary": "Vikarna is one of the hundred Kaurava brothers in the Mahabharata, remembered for speaking up for Draupadi in the dice hall and for staying loyal to Duryodhana to the end.",
+  "about": "In the Mahabharata, Vikarna is a son of Dhritarashtra and Gandhari, among the best-known of the Kaurava brothers after Duryodhana and Duhshasana. Accounts say he trained under Drona and was a skilled archer. His most remembered moment is in the dice hall: when Draupadi was brought in and insulted, he spoke up against it and asked the elders to answer her question, while they stayed silent. In some versions Karna answered him angrily. Though Vikarna doubted the Kaurava cause, he still fought for Duryodhana and was killed by Bhima on the 14th day. Retellers often compare him with Kumbhakarna of the Ramayana, and contrast him with his half-brother Yuyutsu, who changed sides.",
+  "kidSummary": "Vikarna is one of the Kaurava brothers in the Mahabharata. When others stayed quiet, he spoke up to say that Draupadi was being treated unfairly. He stayed loyal to his brother in the war, and even Bhima mourned him afterwards.",
+  "story": [
+    {
+      "title": "One of a hundred",
+      "text": "Vikarna is one of the Kaurava brothers, the sons of Dhritarashtra and Gandhari. He learns archery from Drona and becomes a fine warrior."
+    },
+    {
+      "title": "In the dice hall",
+      "text": "When Draupadi is insulted in the great hall, Vikarna stands up and says this is wrong. He asks the elders to answer her question."
+    },
+    {
+      "title": "A lonely voice",
+      "text": "Bhishma and Drona stay silent. In some versions Karna tells Vikarna off. Vikarna replies that this insult shames the whole family."
+    },
+    {
+      "title": "The war",
+      "text": "When the war comes, Vikarna fights on his brother's side, even though he believes they will lose. He tells Bhima he will not leave Duryodhana."
+    },
+    {
+      "title": "Bhima mourns",
+      "text": "Bhima has sworn to defeat the sons of Dhritarashtra. He defeats Vikarna quickly, and then is sad that such a righteous man had to fall."
+    }
+  ],
+  "teaches": [
+    "Speak up for what is fair",
+    "Loyalty and conscience can pull in different directions"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Mother",
+      "name": "Gandhari",
+      "slug": "gandhari"
+    },
+    {
+      "relation": "Eldest brother",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Dushasana",
+      "slug": "dushasana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Yuyutsu",
+      "slug": "yuyutsu"
+    },
+    {
+      "relation": "Maternal uncle",
+      "name": "Shakuni",
+      "slug": "shakuni"
+    }
+  ],
+  "texts": ["Mahabharata (Sabha Parva, Drona Parva)"],
+  "places": ["Hastinapura", "Kurukshetra"],
+  "quiz": [
+    {
+      "q": "Whom did Vikarna defend in the dice hall?",
+      "options": ["Kunti", "Draupadi", "Gandhari", "Subhadra"],
+      "answer": 1,
+      "why": "He spoke up for Draupadi."
+    },
+    {
+      "q": "Who killed Vikarna in the war?",
+      "options": ["Arjuna", "Bhima", "Satyaki", "Abhimanyu"],
+      "answer": 1,
+      "why": "Bhima killed him on the 14th day."
+    },
+    {
+      "q": "Which brother of his changed sides to join the Pandavas?",
+      "options": ["Yuyutsu", "Dushasana", "Chitrasena", "Durmukha"],
+      "answer": 0,
+      "why": "Yuyutsu crossed over before the war."
+    },
+    {
+      "q": "Who taught Vikarna archery?",
+      "options": ["Kripa", "Drona", "Parashurama", "Vyasa"],
+      "answer": 1,
+      "why": "He trained under Drona."
+    },
+    {
+      "q": "Who in the Ramayana is Vikarna often compared to?",
+      "options": ["Vibhishana", "Kumbhakarna", "Hanuman", "Jatayu"],
+      "answer": 1,
+      "why": "Both stayed loyal to an elder brother despite doubts."
+    }
+  ],
+  "related": [
+    "duryodhana",
+    "dushasana",
+    "yuyutsu",
+    "draupadi",
+    "bhima",
+    "karna",
+    "bhishma",
+    "drona",
+    "dhritarashtra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vikarna",
+    "kauravas": "https://en.wikipedia.org/wiki/Kauravas",
+    "yuyutsu": "https://en.wikipedia.org/wiki/Yuyutsu"
+  },
+  "palette": {
+    "c1": "#c8d6c0",
+    "c2": "#ecdfc8"
+  },
+  "order": 43,
+  "facts": [
+    {
+      "text": "His name is read as 'earless' or 'large-eared'. One reading is that he refused to listen to wrongdoing, another that he listened closely to wise people.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the dice hall he spoke against the whole game and against Draupadi's treatment, and repeated her questions to the elders.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madhvacharya's commentary reads his protest as a show of virtue, while other retellings see it as sincere.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhima had sworn to kill Dhritarashtra's sons and asked Vikarna to step aside. Vikarna replied that he knew the Kauravas would lose, but he would not leave Duryodhana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After killing him, Bhima grieved aloud that such a righteous man had fallen in a war that was a curse on them all.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The name Vikarna can also be read as the opposite of Karna, which fits, since Karna cheered on the insult to Draupadi while Vikarna spoke against it.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Bhima reminded him of his stand in the dice hall, Vikarna answered that the duty that moved him then was the same duty that bound him to fight now.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sanskrit dictionaries cite the Bhagavad Gita's first chapter (verse 1.8) as a place where Vikarna is named, so he turns up even in the Gita.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/vikarna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata he says gambling and hunting are royal vices, and that Yudhishthira was tricked into staking Draupadi after he had already lost himself, so she was not fairly won.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02066.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Vikarna spoke, the hall rose in uproar and the kings applauded him and criticised Shakuni. Karna then called him a boy talking as if he were old.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02066.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When no king answered Draupadi's question, Vikarna repeated his appeal, then rubbed his hands and sighed like a snake before giving his own judgement anyway.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02066.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He warned the assembly that if nobody judged the question put to them, every one of them would be guilty. Elders and kings stayed silent, so he spoke alone.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02066.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before the second dice game, Vikarna was among those who begged Dhritarashtra to stop it, alongside Bhishma, Drona, Vidura and Yuyutsu. Dhritarashtra ignored them all.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02072.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Drona finished training the Kauravas, Vikarna joined the attack on Panchala to capture Drupada as the teacher's fee. The Panchalas drove them off and the brothers fled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On day thirteen, depending on the version, Vikarna stands by silently while Abhimanyu is killed. On day fourteen Duryodhana sends him to check Bhima's advance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On day seven he covered his brothers' retreat from Bhima, then stopped Drupada and Shikhandi and wounded them badly enough to make them fall back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On day four he tried to check Abhimanyu and was driven back. On day five he failed to break the defence of the King of Mahishmati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On day ten he tried to stop Arjuna and Shikhandi from reaching Bhishma, but Drupada blocked him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is called the third most prominent of the hundred Kaurava brothers, after Duryodhana and Duhshasana, and the most respected of them.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vikarna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Adi Parva list of Kaurava names, he is 18th in the birth order of the brothers.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kauravas",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "depth": "full"
+}

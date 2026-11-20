@@ -542,7 +542,7 @@ export default function QuizGame(p: QuizGameProps) {
                 <span
                   // biome-ignore lint/suspicious/noArrayIndexKey: fixed-length progress strip.
                   key={i}
-                  className="h-2.5 flex-1 rounded-sm border-2 border-line"
+                  className="h-2.5 flex-1 rounded-skin-s border-2 border-line"
                   style={{
                     background: r
                       ? r === 'ok'
@@ -696,7 +696,7 @@ function Sending({ err, onRetry }: { err: string; onRetry: () => void }) {
   }
   return (
     <p role="status" className="mt-4 flex items-center gap-2 font-head text-sm">
-      <span aria-hidden className="size-3 animate-pulse rounded-full bg-c3" />
+      <span aria-hidden className="size-3 animate-pulse round bg-c3" />
       Sending your answer…
       {slow && <span className="font-body text-muted"> slow connection, hang on</span>}
     </p>
@@ -857,7 +857,7 @@ function NextBar({
       )}
       {fetching && (
         <p role="status" className="flex items-center gap-2 font-head text-sm">
-          <span aria-hidden className="size-3 animate-pulse rounded-full bg-c3" />
+          <span aria-hidden className="size-3 animate-pulse round bg-c3" />
           Fetching your next question…
         </p>
       )}

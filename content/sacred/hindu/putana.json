@@ -1,0 +1,243 @@
+{
+  "slug": "putana",
+  "name": "Putana",
+  "aka": ["Pūtanā", "Putana Rakshasi"],
+  "native": "पूतना",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Rakshasi sent by Kamsa in the story of baby Krishna",
+  "summary": "Putana is a rakshasi in the Bhagavata Purana and other texts. Kamsa sends her to harm baby Krishna in Gokula, and in the Bhagavata Purana Krishna grants her a mother's place.",
+  "about": "In the Bhagavata Purana, Vishnu Purana and Harivamsa, Putana is a rakshasi sent by King Kamsa to harm infants in the region of Gokula. She takes the form of a beautiful woman, enters the home of Nanda and Yashoda and takes baby Krishna on her lap. The texts tell that she uses poison on her breast, but Krishna drinks her life force. She falls in her giant true form. Several Puranas give her a past life as Ratnamala, a daughter of Bali. Other old medical and tantric books treat Putana as a spirit linked to children's illnesses, and the Bhagavata Purana records the protective prayers that the women said for the baby afterward.",
+  "kidSummary": "Putana is a rakshasi in the story of baby Krishna. She comes disguised as a kind lady, but baby Krishna is not harmed. After she falls, villagers wonder at her huge shape, and in the Bhagavata Purana she is said to reach a peaceful place.",
+  "story": [
+    {
+      "title": "A lovely guest",
+      "text": "King Kamsa sends Putana to Gokula. She looks like a beautiful lady with flowers in her hair, and the village women think she looks like the goddess Lakshmi."
+    },
+    {
+      "title": "A cradle visit",
+      "text": "She walks into the house of Nanda and Yashoda. She picks up baby Krishna as if he were her own child, though she has hidden poison with her."
+    },
+    {
+      "title": "Krishna is unharmed",
+      "text": "Baby Krishna takes her milk and draws out her life too. She cries out and falls in her giant true form, and trees crash down around her."
+    },
+    {
+      "title": "Safe and sound",
+      "text": "The villagers rush in and find the baby playing happily on her chest. Yashoda and the older women protect him with cow dust and a cow's tail."
+    },
+    {
+      "title": "A fragrant goodbye",
+      "text": "The villagers cut and burn her great body. In the Bhagavata Purana, the smoke smells sweet like incense, and she is said to reach a mother's place in the spiritual world."
+    }
+  ],
+  "teaches": [
+    "Protect little ones with care and prayer",
+    "Looks can hide intentions",
+    "God's grace reaches even the one who comes to harm"
+  ],
+  "symbol": "flame",
+  "emblems": [
+    "Disguise as a beautiful woman",
+    "Cow dust and a cow's tail used for protection",
+    "Bird form in early art"
+  ],
+  "family": [
+    {
+      "relation": "Sent by",
+      "name": "Kamsa",
+      "slug": "kamsa"
+    },
+    {
+      "relation": "Father in a past life (as Ratnamala)",
+      "name": "Bali",
+      "slug": "mahabali"
+    },
+    {
+      "relation": "Baby she meets",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Harivamsa",
+    "Vishnu Purana",
+    "Garga Samhita",
+    "Brahmavaivarta Purana"
+  ],
+  "places": ["Gokul (Vraj), near Mathura"],
+  "festivals": ["Janmashtami"],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana says her giant body crushed trees across twelve miles when it fell.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Purana describes her true form with teeth like plough tips, nostrils like mountain caves and eye sockets like deep wells.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 8
+    },
+    {
+      "text": "When her body was burned, the smoke smelled as sweet as aguru incense, and people from far away came to find the source of the scent.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Garga Samhita and Brahmavaivarta Purana say she was once Ratnamala, a daughter of Bali, who first wished to nurse the dwarf Vamana as her son and then changed her mind.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 9
+    },
+    {
+      "text": "Yashoda and the elders protected Krishna by waving a cow's tail over him, washing him with cow urine and rubbing cow dust and dung on twelve body parts.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 7
+    },
+    {
+      "text": "The Balatantra uses Putana as a shared name for sixteen sisters of Ravana who are said to harm infants.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    },
+    {
+      "text": "Kushan-era sculptures from Mathura, Deogarh and Mandor show Putana as a bird, not as a woman.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa shows her as a female bird who is Kamsa's nurse, and some texts call her a crane, a bird linked with false piety.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 8
+    },
+    {
+      "text": "When Putana lifted baby Krishna, the Bhagavata Purana says he closed his eyes as if he were afraid, and she held him like someone who unknowingly cradles a sleeping snake.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As she was dying she ran out of the village, begging to be let go, while Krishna kept clinging to her until she fell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says that because she nursed baby Krishna, even with bad intent, she reached a mother's place in the spiritual world.",
+      "kind": "teaching",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 7
+    },
+    {
+      "text": "The women's protective prayer gives each moment its own guardian name of Vishnu: Govinda while he plays, Madhava while he sleeps, Vaikuntha while he walks and Narayana while he sits.",
+      "kind": "story",
+      "source": "https://www.vedabase.io/en/library/sb/10/6/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ancient Ayurvedic texts told families to worship Putana and chant hymns asking her to protect a baby, treating her as a spirit who could harm or guard children.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 8
+    },
+    {
+      "text": "The Bhagavata chapter is titled the Deliverance of Putana, not her killing, and a gopi's protective hymn still names her among spirits, so some readers see her as a spirit who lives on.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    },
+    {
+      "text": "In the Ayurvedic Kumaratantra, any childhood illness that fell on a child's third day, third month or third year was blamed on Putana, whatever the symptoms.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 8
+    },
+    {
+      "text": "Putana is also the name of a weapon or form of the smallpox goddess Sitala, and one scholar ties her name to the pus-filled sores of chickenpox.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    },
+    {
+      "text": "The Vishnu Purana describes her earrings as quivering rather than radiant, which readers take as a sign of an unsteady nature.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Putana is listed with the Matrikas and the war-god Skanda as a protective rakshasi, a Grahini, and the Harivamsa ends with a prayer asking her to protect a child.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    },
+    {
+      "text": "In K. M. Munshi's Krishnavatara novels, Putana comes with evil intent but is delighted to see baby Krishna, and her motherly feeling rises as she takes him to her breast.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    },
+    {
+      "text": "The Brahmanda Purana and the Harita Samhita describe Putanas as a sub-group of the Matrikas and Grahinis, with individual names such as Kali and Dakini.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Putana",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who sends Putana to Gokula?",
+      "options": ["Indra", "Kamsa", "Ravana", "Jarasandha"],
+      "answer": 1,
+      "why": "King Kamsa sends her, according to the Bhagavata Purana."
+    },
+    {
+      "q": "Which goddess do the villagers think Putana looks like?",
+      "options": ["Durga", "Saraswati", "Lakshmi", "Ganga"],
+      "answer": 2,
+      "why": "She is so lovely that the women think she is Lakshmi with a lotus."
+    },
+    {
+      "q": "What does her burning body smell like?",
+      "options": ["Smoke and ash", "Incense", "Roses and rain", "Sea salt"],
+      "answer": 1,
+      "why": "The Bhagavata Purana says the smoke smells like aguru incense."
+    },
+    {
+      "q": "What did Yashoda wave over baby Krishna to protect him?",
+      "options": ["A cow's tail", "A peacock fan", "A silk scarf", "A bell"],
+      "answer": 0,
+      "why": "A cow's tail, cow dust and prayers were used as protection."
+    },
+    {
+      "q": "In old Kushan-era sculptures from Mathura, what shape is Putana shown in?",
+      "options": ["A fish", "A bird", "A lion", "A snake"],
+      "answer": 1,
+      "why": "Sculptures at Mathura, Deogarh and Mandor show her as a bird."
+    }
+  ],
+  "related": ["krishna", "kamsa", "yashoda", "nanda", "mahabali", "vamana", "lakshmi", "ravana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Putana",
+    "bhagavata": "https://www.vedabase.io/en/library/sb/10/6/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e3cfc2",
+    "c2": "#c9bfd8"
+  },
+  "order": 500
+}

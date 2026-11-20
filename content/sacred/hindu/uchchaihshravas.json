@@ -1,0 +1,160 @@
+{
+  "slug": "uchchaihshravas",
+  "name": "Uchchaihshravas",
+  "aka": ["Uccaihsravas", "Uchchaisravas", "Ucchaihshrava"],
+  "native": "उच्चैःश्रवा",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "Seven-headed divine horse from the churning of the ocean",
+  "summary": "In Hindu texts Uchchaihshravas is a snowy-white, seven-headed flying horse that rose from the Ocean of Milk. It is called the prototype and king of horses and is linked to Indra and to Bali.",
+  "about": "Uchchaihshravas is a divine horse of Hindu tradition. Many Puranas, the Mahabharata and the Ramayana say it rose from the Ocean of Milk during the Samudra Manthana, along with Lakshmi, the nectar of immortality and other treasures. It is described as white, seven-headed and able to fly, and the texts call it the king of horses. Most accounts say Indra took it as his mount, while others say it belonged to the asura king Bali. The Mahabharata also uses its tail in the tale of the wager between Kadru and Vinata. In the Bhagavad Gita (10.27) Krishna names it as the best of horses. Its name is explained as long-eared or loud-neighing.",
+  "kidSummary": "Uchchaihshravas is a magical white horse with seven heads that can fly. In Hindu stories it came out of the Ocean of Milk when gods and asuras stirred it together. It became the king of all horses and a mount of Indra.",
+  "story": [
+    {
+      "title": "Stirring the ocean",
+      "text": "Gods and asuras used Mount Mandara as a churning stick and the serpent Vasuki as a rope to stir the Ocean of Milk, hoping to find the nectar of immortality."
+    },
+    {
+      "title": "Treasures rise",
+      "text": "As they churned, wonderful things floated up one by one: Lakshmi, a wish-granting cow, a great elephant, and a shining white horse with seven heads."
+    },
+    {
+      "title": "A horse for Indra",
+      "text": "Many accounts say Indra took the horse as his own mount. Other texts say the asura king Bali rode it instead."
+    },
+    {
+      "title": "The tail wager",
+      "text": "In the Mahabharata, two sisters, Kadru and Vinata, argue about the colour of the horse's tail. Vinata says white, Kadru says black, and the loser must serve the winner."
+    },
+    {
+      "title": "A clever trick",
+      "text": "Kadru asks her snake sons to wrap around the tail so it looks dark. Vinata loses the bet and becomes a servant until her son Garuda frees her."
+    }
+  ],
+  "teaches": [
+    "Fairness matters more than winning a bet",
+    "Beautiful gifts can come from working together",
+    "Winning by trickery is a hollow victory"
+  ],
+  "symbol": "star",
+  "emblems": ["Seven heads", "White coat", "Wings (in some descriptions)"],
+  "family": [
+    { "relation": "Rider (in many texts)", "name": "Indra", "slug": "indra" },
+    { "relation": "Rider (in some texts)", "name": "Mahabali", "slug": "mahabali" },
+    { "relation": "Rose from the ocean with", "name": "Lakshmi", "slug": "lakshmi" },
+    { "relation": "Rose from the ocean with", "name": "Airavata", "slug": "airavata" }
+  ],
+  "texts": [
+    "Mahabharata",
+    "Ramayana",
+    "Vishnu Purana",
+    "Matsya Purana",
+    "Vayu Purana",
+    "Bhagavad Gita",
+    "Kumarasambhava"
+  ],
+  "places": ["Svarga (heaven)", "Ocean of Milk"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Uchchaihshravas is a snowy-white, seven-headed flying horse whose name means long-eared or loud-neighing. Hindu texts call it the prototype and king of all horses.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, sisters Kadru and Vinata bet on the colour of the horse's tail. Vinata said white, Kadru said black, and the loser would serve the winner.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kadru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "To win, Kadru asked her serpent sons to coil around the tail so it looked black. Some sons refused, and she is said to have cursed them to die at Janamejaya's snake sacrifice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kadru",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 12th-century Hariharacaturanga, a sacrifice by Brahma produces a winged white horse called Uchchaihshravas. It rises again from the Ocean of Milk, and the asura king Bali uses it to attain many impossible things.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the tail bet, Kadru's sons who refused to coil around the horse's tail were cursed. Brahma told Kashyapa the curse was needed because serpents had grown dangerous, and gave him an antidote for snake poison.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kadru",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kalidasa's Kumarasambhava calls the horse a sign of Indra's glory and tells how the asura Tarakasura stole it from heaven.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When George Harrison started Dark Horse Records in 1974, its logo showed a seven-headed horse named Uchchaisravas, inspired by a tin label he found in India.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Dark_Horse_Records",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Uchchaihshravas appears in the video game Kingdom Come: Deliverance, where it is one of the Tier-3 horses players can buy in the village of Merhojed.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where did Uchchaihshravas come from, in Hindu stories?",
+      "options": ["A forest", "The Ocean of Milk", "A mountain cave", "A river bank"],
+      "answer": 1,
+      "why": "It rose when gods and asuras churned the Ocean of Milk."
+    },
+    {
+      "q": "How many heads does Uchchaihshravas have?",
+      "options": ["One", "Three", "Seven", "Ten"],
+      "answer": 2,
+      "why": "It is described as a seven-headed horse."
+    },
+    {
+      "q": "What colour did Vinata say the horse's tail was?",
+      "options": ["Black", "White", "Golden", "Red"],
+      "answer": 1,
+      "why": "Vinata said white, Kadru said black."
+    },
+    {
+      "q": "Which god often rides Uchchaihshravas?",
+      "options": ["Yama", "Kubera", "Indra", "Agni"],
+      "answer": 2,
+      "why": "Most accounts say Indra took the horse as his vahana."
+    },
+    {
+      "q": "Whose record label, started in 1974, has a seven-headed horse in its logo?",
+      "options": ["Elvis Presley", "George Harrison", "Ravi Shankar", "Freddie Mercury"],
+      "answer": 1,
+      "why": "George Harrison's Dark Horse Records logo centres the seven-headed horse Uchchaisravas."
+    }
+  ],
+  "related": ["indra", "mahabali", "garuda", "airavata", "kamadhenu", "vahanas", "lakshmi"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+    "churning": "https://en.wikipedia.org/wiki/Churning_of_the_ocean_of_milk",
+    "kadru": "https://en.wikipedia.org/wiki/Kadru",
+    "darkHorse": "https://en.wikipedia.org/wiki/Dark_Horse_Records",
+    "airavata": "https://en.wikipedia.org/wiki/Airavata",
+    "samudra": "https://en.wikipedia.org/wiki/Samudra_Manthana"
+  },
+  "depth": "compact",
+  "palette": { "c1": "#f2ead8", "c2": "#b9c9e0" },
+  "order": 500
+}

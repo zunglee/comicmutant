@@ -1,0 +1,267 @@
+{
+  "slug": "shantinatha",
+  "name": "Shantinatha",
+  "aka": ["Shantinath", "Shanti", "Lord of Peace"],
+  "native": "शान्तिनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "16th Tirthankara of the present age",
+  "summary": "Jains revere Shantinatha as the 16th Tirthankara of this age, remembered as the lord of peace. Jain tradition also counts him as a world-emperor, and his temples are sought for calm.",
+  "about": "According to Jain tradition, Shantinatha was born in Hastinapur to King Vishvasena and Queen Achira of the Ikshvaku line. Jain texts say that a storm and an epidemic troubled the land while he was in the womb, and that peace returned because of him, in one telling after Indra advised the queen to look out over the kingdom from the roof, which is why he was named Shanti. Jains believe he was a Tirthankara and also a chakravartin, a ruler of the whole earth. After a long reign he renounced his empire, meditated, reached omniscience and taught. Jains believe he attained liberation on Mount Shikharji. His earlier life as King Megharatha, who protected a pigeon, is a favourite theme in Jain art and storytelling. Svetambara and Digambara texts differ in a few names and dates.",
+  "kidSummary": "Shantinatha is remembered by Jains as the 16th Tirthankara. His name means peace, and the stories say that calm returned to his kingdom when he was born. A famous tale from an earlier life shows him protecting a small pigeon with great courage and kindness.",
+  "story": [
+    {
+      "title": "Peace returns",
+      "text": "Jain texts say that while he was in the womb, a storm and a sickness troubled the city of Hastinapur. When he was born, calm returned, so he was named Shanti, meaning peace."
+    },
+    {
+      "title": "The king and the pigeon",
+      "text": "In an earlier life as King Megharatha, a frightened pigeon flew to him for safety. A hungry falcon asked for it, but the king would not give the bird up."
+    },
+    {
+      "title": "A fair trade",
+      "text": "The king offered the falcon his own flesh, weighing it against the pigeon. In the story it was a god testing his promise, who then praised the king's kindness."
+    },
+    {
+      "title": "Emperor of the earth",
+      "text": "Later, as Shantinatha, he became a world-ruler. Jain texts say a divine wheel led him on a peaceful conquest of the lands."
+    },
+    {
+      "title": "Letting go",
+      "text": "He gave up his empire and meditated. In one account he spent about a year as a wandering monk before, Jains believe, reaching perfect knowledge. After teaching, he fasted on Mount Shikharji and reached liberation."
+    }
+  ],
+  "teaches": ["Peace begins with compassion", "Protecting the helpless", "Letting go of power"],
+  "symbol": "mountain",
+  "emblems": [
+    "Deer (lanchana)",
+    "Golden complexion",
+    "Nandi tree (omniscience)",
+    "Divine wheel (as a chakravartin)"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Vishvasena"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Achira"
+    },
+    {
+      "relation": "Wife",
+      "name": "Yashomati"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Dharmanatha",
+      "slug": "dharmanatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Kunthunatha",
+      "slug": "kunthunatha"
+    }
+  ],
+  "texts": [
+    "Shantinatha Charitra (Ajitaprabhasuri)",
+    "Shantipurana (Ponna)",
+    "Trishashtishalakapurusha Charitra (Hemachandra)"
+  ],
+  "places": [
+    "Hastinapur, Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Kanch Mandir, Indore",
+    "Shantinatha temple, Khajuraho"
+  ],
+  "festivals": ["Shanti Snatra Puja", "Shantinatha Janma Kalyanak"],
+  "facts": [
+    {
+      "text": "In Jainworld's account, Indra told King Vishvasena that the queen should go up on the roof and look out over the land; her calming glance was said to end the suffering wherever it reached.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10593",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition counts him as a Tirthankara, the fifth chakravartin (world-emperor) and a kamadeva, a prince of great beauty: three honours in one lifetime. Only Shanti, Kunthu and Ara are said to be both Jina and emperor.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In an earlier life as King Megharatha, Jain tradition says he saved a pigeon from a hungry falcon by offering flesh equal to the bird's weight. Wikipedia names the falcon as a god, Sarupa, testing his vow to protect anyone who sought refuge.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10593",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After the worship rituals for the divine disc weapon in his armoury, the disc began moving east on its own. He followed it with his army, most kings surrendered, and he became a chakravartin.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10593",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kanch Mandir in Indore, built in the early 20th century by Seth Hukumchand, is covered in glass and mirrors, and in its sanctum mirrors make the images seem to repeat endlessly.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kanch_Mandir",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Khajuraho, a UNESCO World Heritage site, the Shantinatha temple is the main centre of Jain worship; a tall image there carries an inscription from 1027-28 CE, now covered by plaster.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha_temple,_Khajuraho",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hastinapur is traditionally the birthplace of three Tirthankaras in a row, Shantinatha, Kunthunatha and Aranatha, and Jains also say Rishabhanatha ended his 400-day fast there with sugarcane juice.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hastinapur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At his initiation, says Hemachandra, the palanquin Sarvartha was carried first by men, then by gods to the east, asuras to the south, Suparnas to the west and Nagas to the north.",
+      "kind": "art",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213796.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jinaprabha Suri says temples dedicated to Shantinatha stood in Kishkindha, Lanka and Trikuta, names that readers of the Ramayana will know.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A version recorded in the Jaina Iconography says his name arose because his mother halted a raging pestilence before his birth by sprinkling the sick with Shanti water.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/shantinatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hindu texts tell of King Shibi, who protects a dove from a kite by offering his own flesh in equal weight. It closely echoes the Jain pigeon story of Megharatha, which shows a shared story world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A hymn that Wikipedia dates to the 7th century and describes as having tantric elements addresses him as Shiva, the lord of peace.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jain texts say he ruled for 25,000 years, then spent sixteen years as an ascetic. He meditated beneath a nandi tree before gaining omniscience, according to Wikipedia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After omniscience he visited Somanasapur, where King Dharma Mitra and his wife are said to have offered him his first food.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His mother's auspicious dreams, which foretell a Tirthankara, number fourteen in Svetambara tradition and sixteen in Digambara tradition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a chakravartin he is said to have owned the fourteen jewels and nine treasures that mark a world-emperor.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ponna's Kannada Shantipurana, around the 10th century, has twelve sections: nine on Shantinatha's earlier births and three on his last life. The Rashtrakuta emperor Krishna III honoured Ponna as emperor among poets.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ponna_(poet)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Shantinath temple in the Deogarh fort complex, built before 862 CE, is the best-known of the Jain temples there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Deogarh,_Uttar_Pradesh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In an earlier birth as Vajrayudha, Hemachandra says his father Kshemankara became an Arihant. His mother dreamed of a thunderbolt, hence the name, and Vajrayudha later renounced the throne.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shantinatha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Shanti mean?",
+      "options": ["Truth", "Peace", "Victory", "Beauty"],
+      "answer": 1,
+      "why": "Shanti means peace, from the calm said to return to his kingdom when he was born."
+    },
+    {
+      "q": "Which animal is Shantinatha's emblem?",
+      "options": ["Goat", "Boar", "Fish", "Deer"],
+      "answer": 3,
+      "why": "A deer is carved on the base of his images."
+    },
+    {
+      "q": "In the earlier-life story, what did King Megharatha protect?",
+      "options": ["A pigeon", "A snake", "A fawn", "A cow"],
+      "answer": 0,
+      "why": "He gave his own flesh to protect a pigeon from a hungry falcon."
+    },
+    {
+      "q": "In the pigeon story, who was the falcon really?",
+      "options": [
+        "A god testing the king's promise",
+        "A hungry hunter",
+        "A king in disguise",
+        "A magician"
+      ],
+      "answer": 0,
+      "why": "After the test, the god praised King Megharatha's courage."
+    },
+    {
+      "q": "Besides being a Tirthankara, what else do Jain texts call him?",
+      "options": ["A chakravartin", "A baladeva", "A vasudeva", "A ganadhara"],
+      "answer": 0,
+      "why": "Jain tradition counts him as a chakravartin, a ruler of the whole earth."
+    }
+  ],
+  "related": ["dharmanatha", "kunthunatha", "aranatha", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shantinatha",
+    "jainworld": "https://jainworld.com/?p=10593",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/santi",
+    "khajuraho": "https://en.wikipedia.org/wiki/Shantinatha_temple,_Khajuraho",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213370.html",
+    "hastinapur": "https://en.wikipedia.org/wiki/Hastinapur",
+    "wisdomlib": "https://www.wisdomlib.org/definition/shantinatha",
+    "kanch-mandir": "https://en.wikipedia.org/wiki/Kanch_Mandir"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#dcebf0",
+    "c2": "#f1e8c9"
+  },
+  "order": 16
+}

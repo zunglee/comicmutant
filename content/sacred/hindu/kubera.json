@@ -1,0 +1,307 @@
+{
+  "slug": "kubera",
+  "name": "Kubera",
+  "aka": ["Dhanada", "Vaishravana", "Dhanadhipati", "Nara-vahana", "Ekaksipingala"],
+  "native": "कुबेर",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "God of wealth and king of the yakshas, guardian of the north",
+  "summary": "Kubera is the Hindu god of wealth and the king of the yakshas, spirits who guard hidden treasure. He rules from Alaka in the Himalayas and guards the northern direction.",
+  "about": "Kubera first appears in the Atharvaveda, and early texts describe him as lord of spirits and hidden things. Later texts, including the Manusmriti, the epics and the Puranas, make him a respectable lokapala, a world guardian who is patron of merchants and guardian of the north. In the Ramayana, Brahma gave him the Pushpaka Vimana and the treasures called nidhis, and his half-brother Ravana took Lanka and the flying chariot from him. He then lived in Alaka in the Himalayas. He is usually shown as a stocky figure with a big belly, carrying a mace or money bag. A temple tradition says he lent money to Venkateswara at Tirupati. Buddhists know him as Vaishravana, one of the Four Heavenly Kings, called Bishamonten in Japan, and Jains name a yaksha of Mallinatha after him.",
+  "kidSummary": "Kubera is the god of wealth, who keeps hidden treasures safe. Stories say he once owned a golden flying chariot called Pushpaka Vimana. At Tirupati people say he lent money to Lord Venkateswara, so visitors give gifts to help repay it.",
+  "story": [
+    {
+      "title": "The golden city",
+      "text": "In the Ramayana, Kubera is the king of the yakshas and lord of wealth. Brahma gave him the right to guard treasures and also gave him a flying chariot called Pushpaka Vimana."
+    },
+    {
+      "title": "The flying chariot",
+      "text": "Pushpaka was a wonderful flying vehicle. Texts say it was made by the divine builder Vishvakarma and could carry its owner across the sky."
+    },
+    {
+      "title": "Ravana takes Lanka",
+      "text": "Kubera's half-brother Ravana took Lanka and the chariot. Kubera then moved to Alaka, a city among the Himalayas, and ruled from there."
+    },
+    {
+      "title": "The chariot comes back",
+      "text": "After the war in Lanka, Rama is said to have returned the Pushpaka to Kubera, so the chariot went back to its first owner."
+    },
+    {
+      "title": "A loan for a wedding",
+      "text": "A Tirupati tradition says Kubera lent wealth to Venkateswara for his marriage. Devotees give offerings there to help repay the loan."
+    }
+  ],
+  "teaches": [
+    "Wealth should be guarded and used with care",
+    "Sharing and giving matter more than owning",
+    "Honest effort and gratitude go together with prosperity"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Mace",
+    "Money bag",
+    "Pomegranate",
+    "Mongoose (in Tibetan images)",
+    "Nara (man or water spirit) as mount"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vishrava"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Wife",
+      "name": "Bhadra or Riddhi"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Minakshi"
+    },
+    {
+      "relation": "Maker of his flying chariot",
+      "name": "Vishvakarma",
+      "slug": "vishvakarma"
+    },
+    {
+      "relation": "Lender in a Tirupati tradition",
+      "name": "Venkateswara",
+      "slug": "venkateswara"
+    }
+  ],
+  "texts": [
+    "Atharvaveda",
+    "Ramayana",
+    "Mahabharata",
+    "Manusmriti",
+    "Padma Purana",
+    "Vishnudharmottara Purana"
+  ],
+  "places": ["Alaka (in the Himalayas)", "Lanka (in some tellings)", "Tirumala, Tirupati"],
+  "festivals": ["Diwali (Lakshmi-Kubera worship)", "Dhanteras"],
+  "facts": [
+    {
+      "text": "The name of the Chinese god Nezha is a shortened form of Nalakuvara, the name of one of Kubera's sons in Indian texts.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Nalakubara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Shatapatha Brahmana calls him lord of thieves, but the Manusmriti recasts him as a respectable world guardian and patron of merchants.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Puranic descriptions show Kubera as a stocky dwarf with a big belly, and some texts give him three legs, eight teeth and one eye.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tibet, a mongoose in Kubera's hand stands for victory over the nagas, the guardians of treasure, and Buddhist images of him usually include one.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He is called Ekaksipingala, meaning one yellow eye, after a story in which he looked jealously at Shiva and Parvati and lost an eye.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kalidasa's poem Meghaduta, a yaksha who serves King Kubera is exiled for a year for neglecting his duties and asks a passing cloud to carry a message to his wife in Alaka.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meghad%C5%ABta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki says the Pushpaka Vimana was built by Vishvakarma for Brahma, who gave it to Kubera; Ravana later seized it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pushpaka_Vimana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Kubera's sons Nalakuvara and Manigriva are cursed by the sage Narada to stand as twin arjuna trees until the child Krishna frees them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nalakubara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Tirupati tradition says Kubera lent Venkateswara money for his marriage to Padmavati, so devotees fill the temple's donation pot to help repay it; the story also links Kubera with Lakshmi as Kubera Lakshmi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Buddhism he is Vaishravana, one of the Four Heavenly Kings, guarding the north, and in Japan he is Bishamonten of the Seven Lucky Gods.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vaiśravaṇa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Puranas make Kubera a son of Vishrava, so Ravana, Kumbhakarna, Vibhishana and Shurpanakha are his half-siblings, while the Mahabharata calls Vishrava his brother, making Ravana his nephew.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kubera is called Nara-vahana, one whose mount is a man; the Vishnudharmottara Purana says this rider-mount is the state itself, dressed in gold.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the epics, as a world guardian Kubera rides the elephant Sarvabhauma, and in his garden Chaitraratha the leaves are said to be jewels, with a lovely lake called Nalini inside it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vishnudharmottara Purana, the treasures Padma and Shankha stand beside Kubera in human form, with their heads rising from a lotus and a conch.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jains honour Kubera as Sarvanubhuti, the attendant yaksha of the 19th Tirthankara, Mallinatha, and picture him with features such as four faces, rainbow colours and eight arms.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Purana tale says vain Kubera invited Shiva to a feast to show off his wealth; Shiva sent little Ganesha, who ate everything, and only a handful of roasted rice offered with love satisfied him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mythological_anecdotes_of_Ganesha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana, Brahma rewarded Kubera's severe penance with the post of world guardian, the world's riches called nidhis, equality with the gods and the Pushpaka Vimana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kubera's city Alaka means curl-city, and it also goes by Prabha, splendour, Vasudhara, bejewelled, and Vasusthali, abode of treasures.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Puranas say Kubera's wife Bhadra, also called Riddhi, bore three sons, Nalakubara, Manigriva and Mayuraja, and a daughter named Minakshi, meaning fish-eyed.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Buddhist legends Kubera is equated with Pancika, whose wife Hariti is a symbol of abundance, and their images are so alike that it can be very hard to tell them apart.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kubera is called the guardian of travellers as well as the treasurer of the gods, and the yakshas who serve him guard the jewels of the earth.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Padma Purana says Kubera prayed to Shiva for many years and was granted kingship of the yakshas, and the epics often call him Shiva's friend.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kubera",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Brahma give Kubera in the Ramayana?",
+      "options": ["A magic ring", "Pushpaka Vimana", "A white elephant", "Indra's thunderbolt"],
+      "answer": 1,
+      "why": "Brahma gave him the flying chariot Pushpaka and other gifts."
+    },
+    {
+      "q": "Which half-brother took Lanka from Kubera?",
+      "options": ["Hanuman", "Rama", "Ravana", "Bharata"],
+      "answer": 2,
+      "why": "The Ramayana says his half-brother Ravana took Lanka."
+    },
+    {
+      "q": "Which direction does Kubera guard?",
+      "options": ["North", "South", "East", "West"],
+      "answer": 0,
+      "why": "Kubera is the guardian of the north."
+    },
+    {
+      "q": "Who did Kubera lend money to, in a Tirupati tradition?",
+      "options": ["Venkateswara", "Ganesha", "Hanuman", "Indra"],
+      "answer": 0,
+      "why": "The tradition says he lent money to Venkateswara for his marriage."
+    },
+    {
+      "q": "What is Kubera called in Japan?",
+      "options": ["Enma", "Bishamonten", "Suiten", "Nit-ten"],
+      "answer": 1,
+      "why": "Japanese Buddhism knows him as Bishamonten."
+    }
+  ],
+  "related": [
+    "ravana",
+    "vibhishana",
+    "kumbhakarna",
+    "vishvakarma",
+    "venkateswara",
+    "shiva",
+    "ganesha",
+    "lakshmi",
+    "brahma",
+    "yama"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kubera",
+    "pushpaka": "https://en.wikipedia.org/wiki/Pushpaka_Vimana",
+    "vaishravana": "https://en.wikipedia.org/wiki/Vaiśravaṇa"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#efe0b0",
+    "c2": "#dbe8d2"
+  },
+  "order": 11
+}

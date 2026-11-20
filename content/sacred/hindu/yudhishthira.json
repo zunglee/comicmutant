@@ -1,0 +1,245 @@
+{
+  "slug": "yudhishthira",
+  "name": "Yudhishthira",
+  "aka": ["Dharmaraja", "Dharmaputra", "Ajatashatru", "Kanka", "Pandavagraja"],
+  "native": "युधिष्ठिर",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Eldest Pandava, the king known for truth and dharma",
+  "summary": "Yudhishthira is the eldest of the five Pandavas in the Mahabharata. The epic remembers him as a king devoted to truth and dharma, even when it costs him dearly.",
+  "about": "In the Mahabharata, Yudhishthira is the first son of Kunti, and the text says his divine father was Dharma, who is also named as Yama. He is called Dharmaraja, king of dharma, because of his steady commitment to truth and fairness. He founds the city of Indraprastha, performs the Rajasuya sacrifice, and loses his kingdom in the dice game with Shakuni, which sends the Pandavas into exile. In the forest he answers the Yaksha's questions to bring his brothers back to life, and he serves King Virata in disguise as Kanka. After the Kurukshetra war he rules for many years. Many tellings of the final journey say he alone reached heaven in his own body, accompanied by a dog that the epic reveals to be Dharma himself.",
+  "kidSummary": "Yudhishthira is the oldest of the Pandava brothers in the Mahabharata and is known as the king who loves truth. When a mysterious crane at a lake asks him very hard questions, his wise answers save his brothers. His story reminds us that honesty and kindness matter, even when life gets tricky.",
+  "story": [
+    {
+      "title": "A king for dharma",
+      "text": "Yudhishthira is the oldest Pandava. People trust him as a fair and truthful leader, and with his brothers he builds the city of Indraprastha."
+    },
+    {
+      "title": "The dice game",
+      "text": "Cousin Duryodhana plans a game of dice with Shakuni. Yudhishthira keeps playing and loses his wealth, his kingdom and more, and the Pandavas leave for twelve years in the forest."
+    },
+    {
+      "title": "The lake and the crane",
+      "text": "Near the end of exile, four brothers drink from a lake guarded by a Yaksha in the form of a crane and fall. Yudhishthira answers its many questions wisely instead of drinking."
+    },
+    {
+      "title": "Whom to bring back",
+      "text": "The Yaksha lets him choose one brother to revive. Yudhishthira picks Nakula so that both of his father's wives will each have a living son. The Yaksha is pleased and restores all four."
+    },
+    {
+      "title": "A dog at heaven's door",
+      "text": "At the end of life, Yudhishthira walks toward the Himalayas with a faithful dog. At the gate he refuses to enter without the dog, who is then revealed to be Dharma."
+    }
+  ],
+  "teaches": [
+    "Truthfulness and fairness",
+    "Be wise when answering hard questions",
+    "Be loyal to those who depend on you"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Golden moon banner",
+    "Javelin",
+    "Drums Nanda and Upananda",
+    "Dog (in the final journey)"
+  ],
+  "family": [
+    { "relation": "Father (by tradition)", "name": "Yama", "slug": "yama" },
+    { "relation": "Mother", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Wife", "name": "Draupadi", "slug": "draupadi" },
+    { "relation": "Brother", "name": "Bhima", "slug": "bhima" },
+    { "relation": "Brother", "name": "Arjuna", "slug": "arjuna" },
+    { "relation": "Brother", "name": "Nakula", "slug": "nakula" },
+    { "relation": "Brother", "name": "Sahadeva", "slug": "sahadeva" },
+    { "relation": "Grandnephew", "name": "Parikshit", "slug": "parikshit" }
+  ],
+  "texts": ["Mahabharata", "Yaksha Prashna (Vana Parva)"],
+  "places": [
+    "Indraprastha",
+    "Kurukshetra",
+    "Dharmaraya Swamy Temple, Bengaluru",
+    "Dharmaraja Ratha, Mahabalipuram"
+  ],
+  "festivals": ["Karaga, Bengaluru"],
+  "facts": [
+    {
+      "text": "In the epic, the sun god Surya gave Yudhishthira the Akshaya Patra, a pot that never runs out of food, after he prayed to Surya using 108 names.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Yaksha Prashna, a crane at a lake asks Yudhishthira about 125 questions on duty, nature and the gods after four brothers fall at its shore.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Asked what is faster than the wind, Yudhishthira says the mind, and asked what is heavier than the earth, he says a mother.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "To the question about the most wonderful thing in the world, he replies that people see others die each day yet act as if they will live forever.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+      "interest": 8
+    },
+    {
+      "text": "The Yaksha turned out to be Yama, Yudhishthira's father, who had also been the deer that ran off with a Brahmin's fire-sticks. Pleased, he restored all the brothers and blessed their year of hiding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+      "interest": 7
+    },
+    {
+      "text": "Before the war, Yudhishthira stepped down to ask Bhishma, Drona, Kripa and Shalya for blessings, then called out that anyone could switch sides. Yuyutsu, a son of Dhritarashtra, crossed over to the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the 15th day Yudhishthira told Drona that Ashwatthama was dead but left out that it was an elephant. The epic says his chariot, which had always floated a little above the ground, touched the earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 9
+    },
+    {
+      "text": "The epic says the Pandavas walked toward Mount Meru, and only Yudhishthira reached heaven in his own body, with a dog that turned out to be Yama. Narada called him the first mortal to do so.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A giant snake once seized Bhima in the forest. It turned out to be King Nahusha, an ancestor of the Pandavas under a curse, and Yudhishthira's answers to his questions set him free.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the last book, Yudhishthira is shown his brothers and Draupadi suffering in hell and chooses to stay with them. Indra then reveals the scene was an illusion, a final test of his loyalty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 9
+    },
+    {
+      "text": "In the forest, a sage told Yudhishthira the story of Nala and Damayanti and gave him a mantra that made him a master of dice, so the man who lost everything at dice learned to win.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8
+    },
+    {
+      "text": "On the last day of the war, Yudhishthira fought and killed Shalya, the Kaurava commander, with Bhima's help. His javelin is said to have once belonged to Ishana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In King Virata's court Yudhishthira was a Brahmin named Kanka who advised the king on dice. Among the brothers his secret code name was Jaya, meaning victory.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Yaksha offered him any other wish after reviving his brothers. Yudhishthira said that having all four back already gave him strength, wealth and power, so he needed nothing more.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 7
+    },
+    {
+      "text": "The epic names a second wife of Yudhishthira besides Draupadi: Devika, daughter of King Govasana of the Sivis, who chose him at her own svayamvara. Their son was Yaudheya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8
+    },
+    {
+      "text": "Yudhishthira later told Vidura that duty made him play the dice game, but admitted to Bhima that overconfidence tempted him to win Duryodhana's half of the kingdom. Shakuni's skill then made him angry enough to keep playing.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8
+    },
+    {
+      "text": "Narada brought Yudhishthira a wish of his late father Pandu, that he perform the Rajasuya. He then sent his brothers out in four directions: Arjuna north, Bhima east, Nakula west and Sahadeva south.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the war, Yudhishthira once told Arjuna to hand over the Gandiva if he could not slay Karna. Enraged, Arjuna drew his sword, and Krishna stopped him. The brothers later reconciled and embraced.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8
+    },
+    {
+      "text": "After Bhima won the mace duel and began insulting the fallen Duryodhana, Yudhishthira was displeased at the disrespect and ordered Bhima away. He then heard out Duryodhana's last lament.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the epic's last book Yama says Yudhishthira passed three tests: the Yaksha's questions, refusing to leave the dog, and the vision of hell. Indra says hell was shown for his half-truth to Drona.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Buddhist sources name the ruler of the later Kuru state as a chieftain called Koravya, of the Yuddhitthila clan, a name that closely echoes Yudhishthira's.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the Yaksha Prashna, what shape did the Yaksha take at the lake?",
+      "options": ["A crane", "A lion", "A snake", "A swan"],
+      "answer": 0,
+      "why": "The Yaksha spoke from the form of a crane."
+    },
+    {
+      "q": "Which brother did Yudhishthira ask to revive?",
+      "options": ["Bhima", "Arjuna", "Nakula", "Karna"],
+      "answer": 2,
+      "why": "He picked Nakula so that Madri also had a living son."
+    },
+    {
+      "q": "According to the Yaksha Prashna, what is faster than the wind?",
+      "options": ["Light", "The mind", "A horse", "Time"],
+      "answer": 1,
+      "why": "Yudhishthira answered the mind."
+    },
+    {
+      "q": "What name did he use at King Virata's court?",
+      "options": ["Kanka", "Vallava", "Brihannala", "Granthika"],
+      "answer": 0,
+      "why": "Kanka was his Brahmin-like court name."
+    },
+    {
+      "q": "Who walked with him on the last climb to heaven?",
+      "options": ["A cow", "A dog", "A horse", "An elephant"],
+      "answer": 1,
+      "why": "The faithful dog is revealed to be Dharma, or Yama."
+    }
+  ],
+  "related": ["arjuna", "bhima", "nakula", "sahadeva", "draupadi", "yama", "shakuni", "yuyutsu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yudhishthira",
+    "yaksha": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+    "karaga": "https://en.wikipedia.org/wiki/Bangalore_Karaga",
+    "pandavas": "https://en.wikipedia.org/wiki/Pandavas"
+  },
+  "depth": "full",
+  "palette": { "c1": "#c9d4a8", "c2": "#f3e8d0" },
+  "order": 3
+}

@@ -1,0 +1,203 @@
+{
+  "slug": "manthara",
+  "name": "Manthara",
+  "aka": ["Kubja"],
+  "native": "मन्थरा",
+  "role": "Nurse and maid of Queen Kaikeyi in the Ramayana",
+  "summary": "Manthara is Queen Kaikeyi's devoted maid in the Ramayana. Her advice about two old boons sets Rama's fourteen-year exile in motion.",
+  "about": "In the Valmiki Ramayana, Manthara is a servant who has looked after Kaikeyi since birth and followed her to Ayodhya; the text also calls her Kubja. When she hears that Rama is to be crowned, she tells Kaikeyi to use two boons that the king once offered. In Valmiki's telling she reasons that fourteen years would give Bharata time to win people's hearts. Later the text shows Shatrughna's anger at her, and Kaikeyi begging Bharata to save her. Versions vary: in Tulsidas's Ramcharitmanas the goddess Saraswati is said to turn her mind, and in the Telugu Ranganatha Ramayana a childhood prank from Rama is the hidden reason for her bitterness. The scene where Rama forgives her comes from later retellings and the 1987 TV serial, not from Valmiki.",
+  "kidSummary": "Manthara is the maid who raised Kaikeyi like a daughter. When she heard that Rama would be king, she worried about Bharata and suggested a plan. Later stories say she felt sorry. Her tale shows how a whisper of worry can grow very big.",
+  "story": [
+    {
+      "title": "Kaikeyi's nurse",
+      "text": "Manthara looked after Kaikeyi from childhood and came with her to Ayodhya when she married the king."
+    },
+    {
+      "title": "Worrying news",
+      "text": "When she heard that Rama would be crowned, Manthara felt Bharata would be overlooked. She hurried to tell Kaikeyi."
+    },
+    {
+      "title": "Two old promises",
+      "text": "She reminded Kaikeyi about two boons the king had promised long ago, and suggested using them for Bharata and for Rama's exile."
+    },
+    {
+      "title": "A hard result",
+      "text": "The plan changed everything in Ayodhya. Rama left for the forest, and the king was heartbroken."
+    },
+    {
+      "title": "Time to say sorry",
+      "text": "Later retellings and the 1987 TV serial say that after fourteen years Rama came back, and Manthara apologised to him. He forgave her."
+    }
+  ],
+  "teaches": ["Think before spreading worry", "Regret can lead to forgiveness", "Advice matters"],
+  "symbol": "footprint",
+  "emblems": ["The jewel she threw down in anger (as described in the text)"],
+  "family": [
+    {
+      "relation": "Mistress and ward",
+      "name": "Kaikeyi",
+      "slug": "kaikeyi"
+    },
+    {
+      "relation": "King she served",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Prince who forgives her (later tales)",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Prince who stopped",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Prince angry at her",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Ayodhya Kanda)",
+    "Sri Ranganatha Ramayanam (Telugu)",
+    "Ramcharitmanas"
+  ],
+  "places": ["Ayodhya"],
+  "festivals": [],
+  "quiz": [
+    {
+      "q": "Which prince stopped Shatrughna from punishing Manthara?",
+      "options": ["Rama", "Bharata", "Lakshmana", "Hanuman"],
+      "answer": 1,
+      "why": "Bharata said that women must not be killed, and Shatrughna let her go."
+    },
+    {
+      "q": "Whom did Manthara serve?",
+      "options": ["Sita", "Kaikeyi", "Mandodari", "Tara"],
+      "answer": 1,
+      "why": "She was Kaikeyi's maid since birth."
+    },
+    {
+      "q": "How long did she suggest Rama be sent away?",
+      "options": ["Four years", "Seven years", "Fourteen years", "Twenty years"],
+      "answer": 2,
+      "why": "The boon asked for fourteen years in the forest."
+    },
+    {
+      "q": "In the Telugu version, what did young Rama hit?",
+      "options": [
+        "Her knee with a stick",
+        "Her hand with a ball",
+        "Her foot with a stone",
+        "Her pot with an arrow"
+      ],
+      "answer": 0,
+      "why": "He struck her knee with a stick after she threw his ball away."
+    }
+  ],
+  "related": ["kaikeyi", "dasharatha", "rama", "bharata-ramayana", "shatrughna"],
+  "palette": {
+    "c1": "#D8C9B6",
+    "c2": "#B8C2D4"
+  },
+  "facts": [
+    {
+      "text": "Kaikeyi was so happy at the news of Rama's crowning that she gave Manthara a jewel, but Manthara angrily threw it down and began to warn her.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Manthara urged Kaikeyi to act at once, saying it is useless to build a dam after the water has already flowed away.",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas the gods grow uneasy as Rama's coronation is prepared and pray to Saraswati, who then turns Manthara's thinking, placing the cause of the plan beyond Manthara's own mind.",
+      "kind": "text",
+      "source": "https://vivekavani.com/rcm2/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some retellings say Manthara was a gandharva woman named Dundubhi in an earlier life, and that a curse sent her to be born on earth.",
+      "kind": "text",
+      "source": "https://www.hindu-blog.com/2013/07/manthara-in-ramayana-manthra-old-maid.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In later retellings and the 1987 TV serial Ramayan, Rama finds a sorry Manthara in a dark room after his return and forgives her; Valmiki has no such scene.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manthara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Telugu Ranganatha Ramayanam, a young Rama strikes Manthara's knee with a stick after she throws away his ball, and she resents him thereafter.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manthara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Manthara's retelling of the war against the asura Shambara, Kaikeyi saved the unconscious Dasharatha by carrying him off the battlefield, and saved him again when asuras struck him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki says Manthara climbed to a balcony of Kaikeyi's moon-white palace and saw Ayodhya ready for a festival, with the roads sprinkled with water, flowers strewn about and flags raised for Rama's crowning.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kubja, meaning hunch-backed, is the word Valmiki's text uses for her. Once won over, Kaikeyi promises to adorn her back with a golden garland as soon as Rama is gone and Bharata is crowned.",
+      "kind": "language",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kaikeyi praises her as the cleverest of the hunch-backed, likening her to a lotus bent by the wind and saying her long hump holds sharp thoughts, royal skills and magic.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Rama left, Shatrughna met Manthara in the fine jewels Kaikeyi had given her, seized her and dragged her away crying. Bharata stopped him, saying a woman must not be harmed and Rama would be unhappy.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her plan fixed the exile at fourteen years, which she argued was long enough for Bharata to win over the people and the nobles and make his rule secure before Rama could return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manthara",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "order": 500,
+  "depth": "compact",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manthara",
+    "v9": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+    "v7": "https://www.valmikiramayan.net/utf8/ayodhya/sarga7/ayodhyasans7.htm",
+    "v8": "https://www.valmikiramayan.net/utf8/ayodhya/sarga8/ayodhyasans8.htm",
+    "v78": "https://www.valmikiramayan.net/utf8/ayodhya/sarga78/ayodhyasans78.htm",
+    "rcm2": "https://vivekavani.com/rcm2/"
+  }
+}

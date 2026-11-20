@@ -1,0 +1,302 @@
+{
+  "slug": "guru-gobind-singh",
+  "name": "Guru Gobind Singh",
+  "aka": ["Tenth Nanak", "Gobind Rai", "Gobind Das"],
+  "native": "ਗੁਰੂ ਗੋਬਿੰਦ ਸਿੰਘ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Tenth Sikh Guru (1675-1708)",
+  "summary": "Guru Gobind Singh became Guru at nine, founded the Khalsa in 1699 with the five beloved ones, and wrote poetry and a famous Persian letter, the Zafarnama. He named the scripture as the Guru before his death in 1708.",
+  "about": "He was born Gobind Das, often called Gobind Rai, in Patna; 22 December 1666 is the commonly accepted date, though historian Louis Fenech believes 1661 and notes that most 18th-century sources give that year. At nine, in 1675, he became Guru after his father, Guru Tegh Bahadur, was executed in Delhi, and he was formally installed on Vaisakhi in 1676. He studied martial arts and languages including Persian, and his court at Anandpur is said to have hosted over a hundred poets. In 1699 he founded the Khalsa, a community of initiated Sikhs, beginning with the Panj Pyare, the five beloved ones. In the winter of 1704 he lost his four sons and, soon after, his mother, Mata Gujri. After these battles he wrote the Zafarnama, a Persian letter to Aurangzeb; accounts differ on exactly where and when. He was stabbed at Nanded in 1708 and died on 7 October 1708. Sikh tradition says he declared the Guru Granth Sahib as the eternal Guru.",
+  "kidSummary": "Guru Gobind Singh was the tenth Sikh Guru. He became Guru when he was only nine! He started the Khalsa, a family of brave and kind Sikhs who stand up for fairness. He loved poetry, music and learning, and he said the Guru Granth Sahib should be the Sikhs' Guru forever.",
+  "story": [
+    {
+      "title": "A young Guru",
+      "text": "Gobind Das, often called Gobind Rai, was born in Patna. When his father passed away in 1675, he became Guru at just nine years old and kept studying languages and martial arts."
+    },
+    {
+      "title": "The Vaisakhi gathering",
+      "text": "In 1699, thousands gathered at Anandpur Sahib. The Guru asked who was willing to give their life for their faith, and five men stepped forward one by one."
+    },
+    {
+      "title": "Amrit and the Khalsa",
+      "text": "The Guru stirred sugar and water in an iron bowl with a double-edged sword to make amrit. The five became the Panj Pyare, the first Khalsa, and they then gave amrit to him too."
+    },
+    {
+      "title": "Courage in hard times",
+      "text": "In 1704 the Guru left Anandpur, and in the following days he lost his four sons and his mother. Even in this sorrow, Sikh tradition says he kept his hope and his sense of justice."
+    },
+    {
+      "title": "A letter and a Guru for all time",
+      "text": "He wrote the Zafarnama in Persian to Emperor Aurangzeb. Before he died in 1708, Sikhs believe he said that the Guru Granth Sahib would be their Guru from then on."
+    }
+  ],
+  "teaches": [
+    "Courage and equality for everyone",
+    "Stand up for justice with honour",
+    "Keep hope after loss"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Double-edged sword used to stir amrit",
+    "Five Ks (kesh, kangha, kara, kirpan, kachera)"
+  ],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Guru Tegh Bahadur",
+      "slug": "guru-tegh-bahadur"
+    },
+    {
+      "relation": "mother",
+      "name": "Mata Gujri",
+      "slug": "mata-gujri"
+    },
+    {
+      "relation": "wife",
+      "name": "Mata Sundari",
+      "slug": "mata-sundari"
+    },
+    {
+      "relation": "wife",
+      "name": "Mata Sahib Kaur",
+      "slug": "mata-sahib-kaur"
+    },
+    {
+      "relation": "sons",
+      "name": "Sahibzade (Ajit, Jujhar, Zorawar, Fateh)",
+      "slug": "sahibzade"
+    },
+    {
+      "relation": "wife",
+      "name": "Mata Jito"
+    }
+  ],
+  "texts": [
+    "Dasam Granth (attributed works)",
+    "Zafarnama",
+    "Chandi di Var",
+    "Guru Granth Sahib (affirmed as Guru)"
+  ],
+  "places": ["Patna Sahib", "Anandpur Sahib", "Paonta Sahib", "Takht Sri Hazur Sahib, Nanded"],
+  "festivals": ["Vaisakhi", "Gurpurab of Guru Gobind Singh"],
+  "facts": [
+    {
+      "text": "His first battle, at Bhangani near Paonta Sahib, was fought against an alliance of hill rajas, and the Sufi saint Pir Buddhu Shah is said to have joined it with his sons and followers.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Bhangani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In his writings he used pen names including Shyam, Ram, Kaal, Nanak, Gobind Das, Gobind Singh and Shah Gobind.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He began martial arts training at six and learned Persian within about a year, when he was seven.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He married Mata Sahib Kaur on 15 April 1700 at Anandpur, and he proclaimed her the Mother of the Khalsa; their bond was described as spiritual rather than physical.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Bhai Kanhaiya carried a goatskin water bag through the 1704 fighting at Anandpur and gave water to wounded enemy soldiers too. He told the Guru he saw no Mughals or Sikhs on the battlefield, only people, and the Guru was satisfied.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Kanhaiya",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "He started Hola Mohalla at Anandpur as a martial companion to Holi, with mock battles, poetry contests and music; sources date the first procession to 1701.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Hola_Mohalla",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He led fourteen wars but, one scholar writes, never took captives and never damaged anyone's place of worship.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the Vaisakhi gathering of 1699 he drew his sword and asked for a volunteer willing to give his head; five men came forward one by one, each went into a tent with him, and all five came out safe to become the Panj Pyare.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "To make amrit, the initiation drink, he stirred water and sugar in an iron bowl with a double-edged sword while hymns were recited.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the five were initiated, they initiated him in turn, which made him the sixth Khalsa, and his name changed from Gobind Das to Gobind Singh.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Initiated men took the name Singh, meaning lion, while the name Kaur became the expected name for women only in the twentieth century.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He told the Khalsa not to follow the head-shaving ritual after a death, calling the Bhaddar custom an illusion; this also meant they would not pay the Bhaddar tax the Mughal authorities collected.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khalsa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "About 80,000 men are said to have been initiated into the Khalsa within a few days of 13 April 1699.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Nanded in 1708 the ascetic Madho Das became his disciple and was given the new name Gurbaksh Singh; the Guru gave him five arrows as a blessing for the battles ahead. The man is better known as Banda Singh Bahadur.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Chamkaur in December 1704, a council of five Sikhs asked him to leave the fort to keep leading the community, and he obeyed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Chamkaur",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Sangat Singh put on the Guru's clothing at Chamkaur and stayed behind while the Guru left the fort.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Chamkaur",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "His elder sons Ajit Singh, 17, and Jujhar Singh, 13, died fighting at Chamkaur in December 1704. The younger two, Zorawar, 9, and Fateh, 6, refused to change faith and were executed at Sirhind; their grandmother Mata Gujri died soon after.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sikh historians record that on hearing of his younger sons' execution he stayed calm and wrote, in the retelling of Khushwant Singh, a line asking what use it is to put out a few sparks when a mighty flame is being raised.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Zafarnama, a Persian letter to Aurangzeb with 111 verses, is said in one account to have been written at Dina, staying in Mai Desan's house, after his escape from Chamkaur; the figure of a million Mughal soldiers in it is treated as poetic.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Battle_of_Chamkaur",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bansavalinama of Kesar Singh Chibber (1769) records his last words as saying the Granth is the Guru and the Khalsa is the Guru, and urging Sikhs to love each other and follow the words of the Granth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Guru Granth Sahib page says that at Damdama Sahib, Guru Gobind Singh and Bhai Mani Singh added his father's hymns to complete the final edition of the scripture.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mai Bhago rallied the 40 Sikhs who had left the Guru at the siege of Anandpur and led them back to fight in 1705.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mai_Bhago",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How old was the young Gobind when he became Guru?",
+      "options": ["Nine", "Sixteen", "Twenty-five", "Forty"],
+      "answer": 0,
+      "why": "He became Guru in 1675, at about nine years old."
+    },
+    {
+      "q": "What did Guru Gobind Singh stir amrit with?",
+      "options": ["A wooden spoon", "A peacock feather", "A double-edged sword", "A silver ladle"],
+      "answer": 2,
+      "why": "He stirred sugar and water in an iron bowl with a double-edged sword."
+    },
+    {
+      "q": "What does the name Singh mean?",
+      "options": ["River", "Lion", "Sun", "Teacher"],
+      "answer": 1,
+      "why": "Singh means lion; initiated men took this name."
+    },
+    {
+      "q": "Which language was the Zafarnama written in?",
+      "options": ["Sanskrit", "Hindi", "Punjabi", "Persian"],
+      "answer": 3,
+      "why": "The Zafarnama was a Persian letter to Aurangzeb."
+    },
+    {
+      "q": "Where is Takht Sri Hazur Sahib?",
+      "options": ["Nanded", "Patna", "Delhi", "Amritsar"],
+      "answer": 0,
+      "why": "It stands in Nanded, by the Godavari River."
+    }
+  ],
+  "related": [
+    "guru-tegh-bahadur",
+    "guru-granth-sahib",
+    "mata-gujri",
+    "panj-pyare",
+    "sahibzade",
+    "mai-bhago",
+    "bhai-kanhaiya",
+    "mata-sundari",
+    "mata-sahib-kaur",
+    "guru-nanak"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Gobind_Singh",
+    "khalsa": "https://en.wikipedia.org/wiki/Khalsa",
+    "chamkaur": "https://en.wikipedia.org/wiki/Battle_of_Chamkaur",
+    "hazursahib": "https://en.wikipedia.org/wiki/Takht_Sri_Hazur_Sahib",
+    "holamohalla": "https://en.wikipedia.org/wiki/Hola_Mohalla",
+    "banda": "https://en.wikipedia.org/wiki/Banda_Singh_Bahadur",
+    "granth": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+    "bhangani": "https://en.wikipedia.org/wiki/Battle_of_Bhangani",
+    "kanhaiya": "https://en.wikipedia.org/wiki/Bhai_Kanhaiya",
+    "maibhago": "https://en.wikipedia.org/wiki/Mai_Bhago"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1dcb0",
+    "c2": "#cddcec"
+  },
+  "years": "1666-1708",
+  "order": 10
+}

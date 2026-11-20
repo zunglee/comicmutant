@@ -64,12 +64,12 @@
     },
     {
       "type": "fact",
-      "text": "Even after he died, his experiment produced the next film's villain, Kaal.",
+      "text": "Years after his death, Krrish 3 revealed that his old experiment had created the villain Kaal.",
       "spice": 3
     },
     {
-      "type": "gossip",
-      "text": "Krrish's action scenes came from Hong Kong choreographer Tony Ching, and the film won Filmfare's Best Special Effects award.",
+      "type": "fact",
+      "text": "Naseeruddin Shah's Arya earned a Best Villain nomination at the 52nd Filmfare Awards.",
       "spice": 1
     }
   ],
@@ -90,6 +90,23 @@
       "options": ["Amrish Puri", "Vivek Oberoi", "Naseeruddin Shah", "Rakesh Roshan"],
       "answer": 2,
       "why": "Naseeruddin Shah played the scientist in Krrish (2006)."
+    },
+    {
+      "q": "What does Arya's machine need to run?",
+      "options": [
+        "A secret crystal",
+        "Rohit's heartbeat and retina scans",
+        "Krrish's mask",
+        "A rocket engine"
+      ],
+      "answer": 1,
+      "why": "It is locked to Rohit, which is why Arya kept him alive."
+    },
+    {
+      "q": "Which later villain began as Arya's failed experiment?",
+      "options": ["Kaya", "Kaal", "Jadoo", "Ra.One"],
+      "answer": 1,
+      "why": "Krrish 3 reveals that Kaal grew from Arya's experiment."
     }
   ],
   "rivals": ["krrish"],
@@ -106,7 +123,9 @@
   },
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Krrish",
-    "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)"
+    "franchise": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+    "krrish3": "https://en.wikipedia.org/wiki/Krrish_3",
+    "shah": "https://en.wikipedia.org/wiki/Naseeruddin_Shah"
   },
   "timeline": [
     {
@@ -117,24 +136,169 @@
     },
     {
       "year": 2006,
-      "kind": "turn",
-      "title": "A death he can't dodge",
-      "note": "His machine shows Krrish killing him. He commits murder to change that future, but the forecast holds."
-    },
-    {
-      "year": 2006,
       "kind": "death",
       "title": "Island showdown",
-      "note": "Krrish storms Arya's island, frees the captive Rohit and fatally wounds the scientist.",
+      "note": "His machine shows Krrish killing him; he commits murder to change that, but Krrish storms his island and fatally wounds him.",
       "with": "krrish"
+    },
+    {
+      "year": 2007,
+      "kind": "legacy",
+      "title": "Filmfare villain nomination",
+      "note": "Naseeruddin Shah is nominated for Best Performance in a Negative Role for playing Arya."
     },
     {
       "year": 2013,
       "kind": "legacy",
       "title": "His lab made Kaal",
-      "note": "Krrish 3 reveals that Arya's experiments on the imprisoned Rohit created the villain Kaal.",
+      "note": "Shah returns in a special appearance in Krrish 3, which reveals that Arya's experiment produced the villain Kaal.",
       "with": "kaal"
     }
   ],
-  "heat": 30
+  "heat": 30,
+  "facts": [
+    {
+      "text": "Arya's rebuilt supercomputer only works with Rohit's heartbeat and retinal scans, so he kept Rohit in a coma while it was being rebuilt.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "On the night Krishna was born, Rohit said he was quitting the project; Arya held him at gunpoint, Rohit smashed the machine, and Arya shot him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "When Arya consults the rebuilt computer it shows Krrish killing him, so he goes to the stunt performer Kristian and shoots him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Arya asks the computer a second time, but the predicted future has not changed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 9
+    },
+    {
+      "text": "As he lies dying, Arya asks the masked hero who he is, and Krishna answers by revealing his identity.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "Krrish 3 reveals that Arya once tried to make a copy of Rohit but got a child born with a disability, whom he left at an orphanage; the boy was adopted and grew up to become the villain Kaal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 9
+    },
+    {
+      "text": "Kaal, a genius with telekinetic powers, founded Kaal Laboratory and created the Maanvars, mutants made by fusing human and animal serum, so Arya's old experiment fed a new set of monsters.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 7
+    },
+    {
+      "text": "The future-seeing supercomputer outlives Arya: at the end of Krrish, Rohit uses it to send signals into space, hoping to reach the alien Jadoo.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Shah also played Captain Nemo opposite Sean Connery in the Hollywood film The League of Extraordinary Gentlemen (2003).",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Naseeruddin_Shah",
+      "interest": 7
+    },
+    {
+      "text": "Arya's supercomputer was officially meant to predict future calamities, yet the franchise's character guide says he wanted a future-seeing computer in order to rule the world.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Krrish_(franchise)",
+      "interest": 8
+    },
+    {
+      "text": "Vikram Sinha, Arya's own senior security officer, was secretly Rohit's close friend and spent twenty years searching for Krishna and his grandmother Sonia.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 8
+    },
+    {
+      "text": "Sonia took five-year-old Krishna to a remote village in Himachal Pradesh to hide his abilities after his school suspected he had a very high IQ, and Sinha needed about twenty years to track them down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Krrish was released on 23 June 2006 on over 1000 prints with a budget of 40 crore rupees, both near-record figures for an Indian film at that time.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Krrish earned about 126 crore rupees worldwide, making it the second highest-grossing Indian film of 2006, behind Dhoom 2.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Krrish's action scenes were choreographed by Tony Ching, and its effects team was helped by Marc Kolbe and Craig Mumma, since the film aimed for Hollywood-level visual effects.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Krrish was among the first Indian productions to mix large-scale CGI with wire-work stunts, and it became the highest-grossing Indian superhero film of its day.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "The film got 8 nominations at the 52nd Filmfare Awards, including Best Film, and won 3, including Best Special Effects.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Krrish",
+      "interest": 7
+    },
+    {
+      "text": "Naseeruddin Shah has won the National Film Award for Best Actor twice, for Sparsh and Paar, and won Best Supporting Actor for Iqbal in 2006, the same year Krrish came out.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Naseeruddin_Shah",
+      "interest": 8
+    },
+    {
+      "text": "Shah was awarded the Padma Shri in 1987 and the Padma Bhushan in 2003, India's fourth and third highest civilian honours.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Naseeruddin_Shah",
+      "interest": 7
+    },
+    {
+      "text": "In 1988 Shah played the poet Mirza Ghalib in a television series of the same name, directed by Gulzar and shown on DD National.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Naseeruddin_Shah",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Dr. Siddhant Arya is the first villain of the Krrish movies. He is a scientist who wants a computer to see the future, and he does terrible things to stop a future where Krrish beats him.",
+  "story": [
+    {
+      "title": "A computer for the future",
+      "text": "Arya hires the clever scientist Rohit to help build a supercomputer that can predict what will happen."
+    },
+    {
+      "title": "A bad plan",
+      "text": "When Rohit sees that Arya has selfish plans, he breaks the machine. Arya keeps him as a prisoner because the rebuilt computer needs Rohit to work."
+    },
+    {
+      "title": "A scary vision",
+      "text": "The computer shows Krrish defeating him. Arya tries to change the future, but when he asks again the answer is the same."
+    },
+    {
+      "title": "The island",
+      "text": "Krrish comes to Arya's island, frees Rohit and Priya, and stops him."
+    },
+    {
+      "title": "A shadow in the next film",
+      "text": "Krrish 3 shows that Arya's old experiment led to the villain Kaal."
+    }
+  ]
 }

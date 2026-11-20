@@ -1,0 +1,250 @@
+{
+  "slug": "bhai-gurdas",
+  "name": "Bhai Gurdas",
+  "aka": ["Bhai Gurdas Bhalla"],
+  "native": "ਭਾਈ ਗੁਰਦਾਸ",
+  "role": "Scribe of the Adi Granth and poet-scholar",
+  "years": "c. 1551–1636",
+  "summary": "Bhai Gurdas (c. 1551–1636) was a relative of Guru Amar Das, the scribe who wrote out the first Adi Granth for Guru Arjan, and a poet whose Vars are sung in Sikh gatherings.",
+  "about": "Bhai Gurdas was born around 1551 into the Bhalla Khatri family; his father Ishar Das was a relative of Guru Amar Das (Wikipedia says younger brother, the Encyclopaedia of Sikhism says cousin). He lost his mother very young and, according to Sikh sources, was raised under Guru Amar Das's care after his father died. He studied Sanskrit, Braj, Persian and Punjabi, and later Hindu scriptures at Varanasi. Guru Arjan chose him as the scribe of the Adi Granth, completed in 1604. He also wrote Punjabi Vars and Braj Kabits which Sikhs call a key to understanding the scripture. He helped build the Akal Takht, and Wikipedia says Guru Hargobind named him its first Jathedar. He died at Goindwal in 1636, though sources disagree on the exact year.",
+  "kidSummary": "Bhai Gurdas was a gentle scholar who loved languages and poetry. When Guru Arjan put the Sikh holy book together, Bhai Gurdas wrote it all down by hand. He also wrote beautiful poems that explain Sikh ideas.",
+  "story": [
+    {
+      "title": "A young scholar",
+      "text": "Gurdas lost his parents early and grew up near Guru Amar Das, his relative. He learned several languages, including Sanskrit, Braj, Persian and Punjabi."
+    },
+    {
+      "title": "Travel and teaching",
+      "text": "He travelled to places such as Agra and Varanasi, sharing Sikh teachings and studying many scriptures along the way."
+    },
+    {
+      "title": "Writing the holy book",
+      "text": "When Guru Arjan gathered the hymns into the Adi Granth, he dictated it and Bhai Gurdas wrote the whole book by hand. It was finished in 1604."
+    },
+    {
+      "title": "A poet for the people",
+      "text": "Bhai Gurdas wrote Vars in Punjabi and Kabits in Braj that explain Sikh ideas. Sikhs still sing them in congregations."
+    },
+    {
+      "title": "Building with Baba Buddha",
+      "text": "After Guru Arjan's martyrdom, he and Baba Buddha helped build the Akal Takht for Guru Hargobind. They did much of the work with their own hands."
+    },
+    {
+      "title": "A last service",
+      "text": "He died at Goindwal in 1636, and Guru Hargobind took part in his last rites."
+    }
+  ],
+  "teaches": [
+    "Learn many languages and ideas, then use them to serve",
+    "Write and teach so that others understand",
+    "Humble service lasts longer than fame"
+  ],
+  "symbol": "book",
+  "emblems": ["Pen and manuscript", "Vars and Kabits"],
+  "family": [
+    {
+      "relation": "relative (kinship disputed)",
+      "name": "Guru Amar Das",
+      "slug": "guru-amar-das"
+    },
+    {
+      "relation": "teacher",
+      "name": "Guru Arjan",
+      "slug": "guru-arjan"
+    },
+    {
+      "relation": "companion",
+      "name": "Baba Buddha",
+      "slug": "baba-buddha"
+    }
+  ],
+  "texts": ["Vaaran Bhai Gurdas", "Kabits", "Adi Granth (as scribe)"],
+  "places": ["Goindwal", "Amritsar", "Varanasi", "Akal Takht"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "After Guru Ram Das initiated him in 1579, the Sikh Encyclopedia says he travelled widely, visiting Agra, Lucknow, Varanasi, Burhanpur, Rajasthan and the Jammu and Chamba hills to preach Guru Nanak's word.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He wrote the entire Adi Granth by hand for Guru Arjan, a task finished in 1604.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His handwritten Adi Granth is said to be kept by the Gurus' descendants at Kartarpur in Jalandhar district.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to tradition, rivals told Emperor Akbar that the Gurus' hymns were anti-Muslim. Gurdas read verses chosen at random, and Akbar was deeply impressed.",
+      "kind": "story",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is one of only two authors outside the Guru Granth Sahib whose writing is approved for recitation in Sikh worship. Wikipedia names the other as Nand Lal Goya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varan_Bhai_Gurdas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He is remembered as the teacher of the young Guru Tegh Bahadur, who learned ancient classics from him, according to the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Var 1 retells the life of Guru Nanak. A text of 1718 says Guru Arjan asked Gurdas for a true account of Nanak's life, and Bhai Mani Singh regarded it as the only trustworthy account of its kind, though scholars question some episodes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varan_Bhai_Gurdas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says the number 40 is auspicious in Sikhism because it matches the stanza counts of the Jap and Anand hymns, which may be why he wrote 40 Vars.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varan_Bhai_Gurdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Besides writing the Adi Granth himself, Wikipedia says he supervised four other scribes, Bhai Haria, Bhai Sant Das, Bhai Sukha and Bhai Manasa Ram, who wrote out other Sikh scriptures.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His Braj poems, the Kabits, were first thought to number 556. In 1939 Bhai Vir Singh found a manuscript holding 119 more, according to Wikipedia.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia lists his works as 40 Punjabi Vars with 912 pauris, 672 Kabits and 3 Savaiyas in Braj, and 6 Sanskrit chhands of eight verses each.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1577 he gave the labour of his own hands to digging the sacred pool at Amritsar, says the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sikh Encyclopedia says Guru Arjan called his poetry the key to the Holy Scripture.",
+      "kind": "text",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He was an only child. He lost his mother when he was barely three and his father when he was twelve, and he never married, says the Sikh Encyclopedia.",
+      "kind": "family",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He was present at the weddings of Guru Hargobind's sons, Baba Gurditta in April 1621 and Baba Suraj Mall on 23 April 1629, says the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says that on 31 December 1612, while Guru Hargobind was held at Gwalior Fort, Gurdas was named the first Jathedar of the Akal Takht, and Baba Buddha was given charge of services at Harmandir Sahib.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When the Guru was held at Gwalior, Gurdas led a batch of Sikhs there. The Sikh Encyclopedia says he also looked after the premises of the Akal Takht.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/gurdas-bhai/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia adds that he preached in Kabul, Kashmir, Rajputana and Varanasi, and even went as far as Sri Lanka.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He is also known as Bhagat Mal Gurdas, according to Wikipedia.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Bhai Gurdas died at Goindval in 1636, Wikipedia says Guru Hargobind personally performed the ceremonial service at his funeral.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What famous book did Bhai Gurdas write out by hand?",
+      "options": ["The Adi Granth", "The Ramayana", "The Dasam Granth", "The Vedas"],
+      "answer": 0,
+      "why": "He was scribe of the first Adi Granth in 1604."
+    },
+    {
+      "q": "How many Punjabi Vars did Bhai Gurdas write?",
+      "options": ["12", "28", "40", "108"],
+      "answer": 2,
+      "why": "Wikipedia counts 40 Vars with 912 pauris."
+    },
+    {
+      "q": "Which languages did he write poems in?",
+      "options": [
+        "Only Persian",
+        "Punjabi only",
+        "Punjabi, Braj and Sanskrit",
+        "Persian and Arabic"
+      ],
+      "answer": 2,
+      "why": "He wrote in Punjabi, Braj Bhasha and Sanskrit."
+    },
+    {
+      "q": "Which building did he help build with Baba Buddha?",
+      "options": ["Red Fort", "Akal Takht", "Golden Temple tower", "Sis Ganj"],
+      "answer": 1,
+      "why": "They helped raise the Akal Takht platform."
+    }
+  ],
+  "related": ["guru-arjan", "guru-amar-das", "guru-hargobind", "baba-buddha", "guru-granth-sahib"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhai_Gurdas",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/gurdas-bhai/"
+  },
+  "palette": {
+    "c1": "#e6dcc3",
+    "c2": "#c3d3dc"
+  },
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "depth": "full",
+  "order": 8
+}

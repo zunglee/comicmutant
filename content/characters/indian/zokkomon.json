@@ -1,0 +1,289 @@
+{
+  "slug": "zokkomon",
+  "name": "Zokkomon",
+  "realName": "Kunal Kumar",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Walt Disney Company India",
+  "summary": "The masked boy hero of Zokkomon (2011), Disney India's kid superhero film: an orphan named Kunal who uses a scientist's inventions to fight fear and superstition.",
+  "origin": "Kunal Kumar is an orphan sent to his uncle Deshraj's village, where the uncle runs a failing school and cheats on its funds. After the uncle abandons him in Mumbai and spreads word of his death, Kunal returns and hides in an abandoned palace. There he meets Dr. Vivek Rai, a scientist exiled for teaching reason. Together they invent Zokkomon, a masked figure who uses gadgets and clever tricks to expose the greedy uncle and break the village's fear of a fake godman.",
+  "creators": [
+    "Satyajit Bhatkal (writer, director)",
+    "Lancy Fernandes and Svati Chakravarty Bhatkal (screenplay)",
+    "The Walt Disney Company India (producer)"
+  ],
+  "firstAppearance": {
+    "title": "Zokkomon",
+    "year": 2011
+  },
+  "powers": [
+    "Gadgets and inventions from a scientist mentor",
+    "Staged ghost-like appearances that scare cruel adults",
+    "Paintball splatter surprise",
+    "Courage that inspires village children to stand up"
+  ],
+  "affiliations": ["Village children of Jhunjhun Nagri"],
+  "storyline": [
+    {
+      "era": "Setup",
+      "years": "2011",
+      "title": "The abandoned orphan",
+      "beat": "Kunal is called to his uncle's village, mistreated at the school there, then left alone in Mumbai while his uncle claims he has died."
+    },
+    {
+      "era": "Friendship",
+      "years": "2011",
+      "title": "Kittu and the theatre",
+      "beat": "A kind homeless woman named Kittu shelters Kunal backstage at a theatre until the police separate them and he heads back alone."
+    },
+    {
+      "era": "Birth of a hero",
+      "years": "2011",
+      "title": "The palace scientist",
+      "beat": "Hiding in a ruined palace, Kunal meets Dr. Vivek Rai, and the two build the masked persona Zokkomon from science and showmanship."
+    },
+    {
+      "era": "Climax",
+      "years": "2011",
+      "title": "Children as Zokkomon",
+      "beat": "Village children dress as Zokkomon and corner the uncle until he confesses, and the palace becomes a science school."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Anupam Kher plays two roles: the greedy uncle Deshraj and the kindly exiled scientist, Dr. Vivek Rai.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Zokkomon has real superpowers.",
+      "truth": "Reactor says his feats come from science and gadgets, not superpowers.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The Tribune reporter, not Bhatkal, says the shoot had no late-arriving stars or tantrums; Bhatkal himself says Darsheel was full of energy between takes and focused once cameras rolled.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "ScreenAnarchy's reviewer suspected Zokkomon was partly propaganda for maths and science education, then forgave it for being fun.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Darsheel kept up his schooling with a tuition teacher who visited the set and went through his lessons when he was free, Tribune reported.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Zokkomon was Disney's first film in India.",
+      "truth": "Wikipedia counts it as Disney's fourth Indian production; The Hollywood Reporter called it Disney Studios India's first live-action film.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which child actor plays Kunal in Zokkomon?",
+      "options": ["Darsheel Safary", "Ayushmann Khurrana", "Ranbir Kapoor", "Aryan Khan"],
+      "answer": 0,
+      "why": "Darsheel Safary, famous from Taare Zameen Par, plays Kunal."
+    },
+    {
+      "q": "Which actor plays both the greedy uncle and the scientist?",
+      "options": ["Boman Irani", "Anupam Kher", "Paresh Rawal", "Pankaj Tripathi"],
+      "answer": 1,
+      "why": "Anupam Kher has a double role as Deshraj and Dr. Vivek Rai."
+    },
+    {
+      "q": "How does the village finally force the uncle to confess?",
+      "options": ["A court order", "Police raid", "Children dress as Zokkomon", "A flood"],
+      "answer": 2,
+      "why": "The schoolchildren, dressed as Zokkomon, corner Deshraj until he admits his crimes."
+    },
+    {
+      "q": "What does the abandoned palace become at the end?",
+      "options": ["A science school", "A cinema", "A temple", "A bank"],
+      "answer": 0,
+      "why": "Dr. Vivek turns the palace into a school for science."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#1e88e5",
+      "c2": "#0d1b3d",
+      "c3": "#ffd54f"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "A boy, a mask and a lot of science."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Zokkomon",
+    "rediff": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+    "tribune": "https://www.tribuneindia.com/2011/20110420/ttlife1.htm",
+    "reactor": "https://reactormag.com/hey-teacher-leave-those-kids-alone-zokkomon/",
+    "screenanarchy": "https://screenanarchy.com/amp/2011/09/zokkomon-review.html",
+    "d23": "https://d23.com/a-to-z/zokkomon-film/",
+    "darsheel": "https://en.wikipedia.org/wiki/Darsheel_Safary"
+  },
+  "timeline": [
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Soundtrack album",
+      "note": "Shankar-Ehsaan-Loy's soundtrack comes out on 25 March 2011."
+    },
+    {
+      "year": 2011,
+      "kind": "debut",
+      "title": "World premiere",
+      "note": "It premieres at the Indian Film Festival of Los Angeles on 17 April 2011."
+    },
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "India release",
+      "note": "Zokkomon opens in Indian cinemas on 22 April 2011, distributed by UTV Motion Pictures."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Home video",
+      "note": "Buena Vista Home Entertainment issues it on DVD and digital download on 26 July 2011."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Darsheel was 13 when he played Zokkomon, billed as the youngest superhero in the world; he had expected to wait until about 25 for a superhero role.",
+      "kind": "screen",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 8
+    },
+    {
+      "text": "Darsheel trained for two months with William Ong, a trainer of Jackie Chan, learning harness work, stunts and safety for his flying scenes.",
+      "kind": "screen",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 9
+    },
+    {
+      "text": "Darsheel says the name was chosen for its sound, not from cartoons, though at first he feared it resembled Pokemon, Doraemon or Digimon.",
+      "kind": "origin",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 8
+    },
+    {
+      "text": "At a village meeting Zokkomon splatters the uncle and the fake godman with paintballs and says he will leave only when villagers stop trusting blind faith.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "In the climax the village children dress as Zokkomon, corner the uncle and force a confession, so the hero is not one boy but a whole village of kids.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "When Kunal returns, villagers take him for a ghost. As Zokkomon he uses the scientist's gadgets to scare cruel teachers, who think his ghost is back for revenge and run to complain to Deshraj.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "Uncle Deshraj is a double thief: he embezzled Rs 60 lakh meant for a school library, and he fakes Kunal's death to claim a Rs 75 lakh insurance policy left in the boy's name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "During the monsoon shoot, a thunderstorm paused filming for two hours. Darsheel played Michael Jackson's Thriller on his laptop and started dancing, and the crew joined in, with Anupam Kher too.",
+      "kind": "screen",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 8
+    },
+    {
+      "text": "Darsheel says wearing the Zokkomon costume made him feel as if he really had powers, and he kept it on even after shooting wrapped. In the film he flies over buildings to rescue people.",
+      "kind": "screen",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 7
+    },
+    {
+      "text": "Darsheel says his Zokkomon mask is completely different from the one Hrithik Roshan wears in Krrish, and that his looks cooler.",
+      "kind": "screen",
+      "source": "https://www.rediff.com/movies/slide-show/slide-show-1-darsheel-safary-talks-about-zokkomon/20110420.htm",
+      "interest": 7
+    },
+    {
+      "text": "ScreenAnarchy called Zokkomon a superhero of reason who urges kids and parents to question gurus whose claims do not add up, and likened it to the first Spy Kids with more emotion and fewer silly antics.",
+      "kind": "culture",
+      "source": "https://screenanarchy.com/amp/2011/09/zokkomon-review.html",
+      "interest": 7
+    },
+    {
+      "text": "The Hollywood Reporter, as Wikipedia quotes it, calls Zokkomon the first live-action film from Disney Studios India, designed to give Indian kids their first superhero.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia counts Zokkomon as Disney's fourth involvement in an Indian production, after the animated Roadside Romeo, the Telugu film Anaganaga O Dheerudu and the Hindi film Do Dooni Chaar.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "Kittu, a kind homeless woman who secretly lives backstage at a Mumbai theatre, shelters Kunal. At the end she, Kunal and Dr. Vivek begin a new life together as a family.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "The title song 'Zokkomon' is sung by Shankar Mahadevan to music by Shankar-Ehsaan-Loy, and Javed Akhtar is among the lyricists on the soundtrack.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    },
+    {
+      "text": "The Hindu's critic wondered why Kunal is renamed Zokkomon in a village of chaste Hindi speakers, and joked that Disney might pitch him as a long-lost Indian cousin of Doraemon or Pokemon.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 8
+    },
+    {
+      "text": "ScreenAnarchy says Zokkomon has enough menace to hold interest but not enough to frighten anyone over eight, and that Deshraj runs a corrupt school and uses the local guru to keep people in line.",
+      "kind": "culture",
+      "source": "https://screenanarchy.com/amp/2011/09/zokkomon-review.html",
+      "interest": 7
+    },
+    {
+      "text": "ScreenAnarchy says Zokkomon did not exactly set the box office on fire and manages only something like a success, naming Mr. India and Krrish as the only truly successful Hindi superhero films.",
+      "kind": "record",
+      "source": "https://screenanarchy.com/amp/2011/09/zokkomon-review.html",
+      "interest": 7
+    },
+    {
+      "text": "Aamir Khan phoned Darsheel on his birthday, and Darsheel says he calls Khan for advice about his films and school, Tribune reported.",
+      "kind": "culture",
+      "source": "https://www.tribuneindia.com/2011/20110420/ttlife1.htm",
+      "interest": 7
+    },
+    {
+      "text": "Director Satyajit Bhatkal is a former lawyer who began his film career with the production team of Lagaan, Tribune reported.",
+      "kind": "creator",
+      "source": "https://www.tribuneindia.com/2011/20110420/ttlife1.htm",
+      "interest": 8
+    },
+    {
+      "text": "Dr. Vivek Rai was driven out of the village by Deshraj and the godman for promoting education and rational thought; at the end he turns the abandoned palace into a science school.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Zokkomon",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Kunal is an orphan whose greedy uncle abandons him and tells everyone he is dead. Hiding in an old palace, Kunal meets a kind scientist, and together they invent a masked hero called Zokkomon who uses science and clever tricks to show a village that fear and superstition are not true. Soon the village children become Zokkomon too."
+}

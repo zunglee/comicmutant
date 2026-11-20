@@ -1,0 +1,299 @@
+{
+  "slug": "trinary",
+  "name": "Trinary",
+  "realName": "Shilpa Khatri",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "A young Indian technopath who joined Jean Grey's X-Men team. She hacked India's top CEOs to pay the country's working women, and was jailed for it before her rescue.",
+  "origin": "Shilpa Khatri is a young mutant from India whose mind can control electronics. She hacked the accounts of top-earning CEOs and redistributed the money to Indian women, but her father reported her and the Indian Mutant Defense Force imprisoned her. Before her arrest she recorded a message asking Jean Grey for help, and Jean and other X-Men freed her.",
+  "creators": ["Tom Taylor (writer)", "Mahmud Asrar (artist)"],
+  "firstAppearance": {
+    "title": "X-Men Red",
+    "issue": "#1",
+    "year": 2018
+  },
+  "powers": [
+    "Technopathy: mentally controls computers, phones and digital signals",
+    "Computer hacking",
+    "Can take over a Sentinel robot",
+    "Control works only within a limited range (line of sight; the exact range is unknown)"
+  ],
+  "affiliations": ["X-Men (Red team)", "X-Corporation", "Krakoa"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "2018",
+      "title": "A silent cameo",
+      "beat": "She appears in one panel of X-Men Red #1 in a flash-forward of Jean Grey's team and is fully introduced in #2."
+    },
+    {
+      "era": "Rescue",
+      "years": "2018",
+      "title": "Freed from Delhi",
+      "beat": "Jean and her allies break Trinary out of prison, and she takes over a hostile Sentinel to help them escape to Wakanda; she later helps free Storm from Cassandra Nova's hold."
+    },
+    {
+      "era": "Krakoa",
+      "years": "2019-2020",
+      "title": "Systems for a nation",
+      "beat": "As a Krakoan citizen she handles secondary and external systems and aids Magik in locating the creators of an anti-mutant website."
+    },
+    {
+      "era": "X-Corp",
+      "years": "2021",
+      "title": "Board and technician",
+      "beat": "Recruited by M for the X-Corporation board, she links its floating headquarters to Krakoa's technology."
+    },
+    {
+      "era": "X-Corps",
+      "years": "2020s",
+      "title": "Island operations",
+      "beat": "Later recruited into X-Corps, she helps run its island base and keep it hidden from Orchis."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "X-Men Red launched on 7 February 2018 as part of Marvel's Fresh Start relaunch.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Trinary first appeared in X-Men Red #2.",
+      "truth": "CBR says she is one silent panel in a flash-forward in issue #1; issue #2 is her proper introduction.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Trinary can control any machine from anywhere.",
+      "truth": "Marvel Database says she must see the machine she controls, and her exact range is unknown.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "CBR ranked her 5th in a January 2020 list of X-Men Red members by power.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "She was teased for X of Swords in Free Comic Book Day 2020: X-Men #1 but cut. Editor Jordan White said the aim was to change the story, not the character.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which giant robot did Trinary take over to help the X-Men escape?",
+      "options": ["A Sentinel", "Ultron", "The Hulkbuster", "The Vision"],
+      "answer": 0,
+      "why": "She used her technopathy to take control of an IMDF Sentinel."
+    },
+    {
+      "q": "Who did Trinary ask for help in her recorded message?",
+      "options": ["Storm", "Cyclops", "Jean Grey", "Professor X"],
+      "answer": 2,
+      "why": "She recorded a backup message for Jean Grey."
+    },
+    {
+      "q": "What can Trinary mentally control?",
+      "options": ["Weather", "Technology", "Animals", "Fire"],
+      "answer": 1,
+      "why": "She is a technopath who controls computers and electronic devices."
+    },
+    {
+      "q": "Who reported Trinary to the authorities?",
+      "options": ["Her father", "Jean Grey", "Iron Man", "Storm"],
+      "answer": 0,
+      "why": "Her own father reported her hack, and the Indian Mutant Defense Force then imprisoned her."
+    },
+    {
+      "q": "Which hero offered to make Trinary his protege?",
+      "options": ["Iron Man", "Magneto", "Namor", "Cyclops"],
+      "answer": 0,
+      "why": "Iron Man made the offer, but she turned it down."
+    }
+  ],
+  "rivals": [],
+  "allies": ["jean-grey"],
+  "theme": {
+    "palette": {
+      "c1": "#00bcd4",
+      "c2": "#062a33",
+      "c3": "#b2ff59"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "Every screen is a doorway."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trinary_(character)",
+    "cbr": "https://www.cbr.com/x-men-red-trinary-explained/",
+    "marvelDatabase": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+    "xMenRed": "https://en.wikipedia.org/wiki/X-Men_Red",
+    "xMenRed2": "https://marvel.fandom.com/wiki/X-Men:_Red_Vol_1_2",
+    "xCorp1": "https://marvel.fandom.com/wiki/X-Corp_Vol_1_1",
+    "cbrRosters": "https://www.cbr.com/powerful-x-men-rosters-ranked/"
+  },
+  "timeline": [
+    {
+      "year": 2018,
+      "kind": "debut",
+      "title": "X-Men Red #1",
+      "note": "Tom Taylor and Mahmud Asrar introduce her in a flash-forward panel; the series launches on 7 February."
+    },
+    {
+      "year": 2018,
+      "kind": "comic",
+      "title": "Full introduction",
+      "note": "X-Men Red #2 shows her imprisoned in Delhi and rescued by Jean Grey's team."
+    },
+    {
+      "year": 2018,
+      "kind": "turn",
+      "title": "First X-Men Red series ends",
+      "note": "The first volume ends in December 2018 after eleven issues."
+    },
+    {
+      "year": 2019,
+      "kind": "comic",
+      "title": "Krakoan systems",
+      "note": "In House of X #4 she is on Krakoa's tech team, coordinating communications during the Mother Mold mission."
+    },
+    {
+      "year": 2020,
+      "kind": "turn",
+      "title": "X of Swords cut",
+      "note": "A teased role in the X of Swords crossover is removed before release."
+    },
+    {
+      "year": 2021,
+      "kind": "comic",
+      "title": "X-Corporation",
+      "note": "She joins X-Corporation's board as its technician in Reign of X."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Her hack drained India's top-paid CEOs and topped up the accounts of working women, raising their earnings by 25 percent, CBR says. It was still a crime against the state, and she was held in a secluded Delhi prison.",
+      "kind": "story",
+      "source": "https://www.cbr.com/x-men-red-trinary-explained/",
+      "interest": 9
+    },
+    {
+      "text": "Expecting to be caught, she set up an automated message asking Jean Grey for help. Jean's team then broke her out undercover, and a mutant-hunting Sentinel arrived to make the escape harder, CBR says.",
+      "kind": "story",
+      "source": "https://www.cbr.com/x-men-red-trinary-explained/",
+      "interest": 7
+    },
+    {
+      "text": "During her escape she took control of an IMDF Sentinel and used it to help Jean's team get out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trinary_(character)",
+      "interest": 9
+    },
+    {
+      "text": "Iron Man offered to make her his protege, but she turned the offer down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trinary_(character)",
+      "interest": 7
+    },
+    {
+      "text": "In Krakoa she, Cypher and Sage built 'Sleeping Giant', a watch for any Mother Mold. In House of X #4 she coordinated communications between the strike team and base; the team died but was later resurrected.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+      "interest": 8
+    },
+    {
+      "text": "She is the fifth Indian-origin character to join the X-Men or a stand-in team, after Thunderbird, Omega Sentinel, Kavita Rao and Indra.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Trinary_(character)",
+      "interest": 7
+    },
+    {
+      "text": "A 2020 Screen Rant piece argued that Days of Future Past would have ended quickly if Trinary had been there, since she could reprogram Sentinels.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Trinary_(character)",
+      "interest": 8
+    },
+    {
+      "text": "Before joining X-Corporation she went back to stealing from the rich. Monet St. Croix (M) then invited her onto its board, where she also works as the technician.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trinary_(character)",
+      "interest": 7
+    },
+    {
+      "text": "Later she helped Magik track down the creators of the anti-mutant site DOX. After the Mutant Massacre at the Hellfire Gala, Mirage recruited her to X-Corps, where she helps hide its island base from Orchis.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "CBR ranked Jean's X-Men Red 4th among the ten most powerful X-Men rosters of all time in 2019, crediting Trinary's ability to control technology as a main reason it placed so high.",
+      "kind": "culture",
+      "source": "https://www.cbr.com/powerful-x-men-rosters-ranked/",
+      "interest": 7
+    },
+    {
+      "text": "Her debut issue sold an estimated 98,468 copies to North American retailers. By issue #11, when the first series ended in December 2018, sales had dropped to about 30,415.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/X-Men_Red",
+      "interest": 7
+    },
+    {
+      "text": "She is one silent panel in X-Men Red #1 and gets her proper introduction in #2, but Wikipedia lists her as a main character of the series from issue #3 onward.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/X-Men_Red",
+      "interest": 7
+    },
+    {
+      "text": "In Trinary's first series, Cassandra Nova frames Jean Grey for a killing after Jean presses the UN for mutant rights, which makes Jean a fugitive while she builds her mutant nation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/X-Men_Red",
+      "interest": 7
+    },
+    {
+      "text": "When the reality-warping X-Man made his enemies vanish, Trinary vanished too, yet she was not sent to his alternate plane. Marvel Database says where she went is unknown.",
+      "kind": "story",
+      "source": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "CBR says her hack aimed to narrow the pay gap between women and men, and calls her a hacker with a political mission and a feminist conscience, a natural fit for Jean's politically minded team.",
+      "kind": "culture",
+      "source": "https://www.cbr.com/x-men-red-trinary-explained/",
+      "interest": 7
+    },
+    {
+      "text": "Reviews of X-Men Red #1 averaged 8.2 on Comic Book Roundup from 33 critics, and Newsarama's David Pepose praised the series for showing Jean as a leader, not just a symbol.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/X-Men_Red",
+      "interest": 7
+    },
+    {
+      "text": "Her full debut issue, X-Men Red #2, also introduces the Indian Mutant Defense Force, with a villain named Lakshay Singh, a Delhi headquarters, and Black Panther in a supporting role.",
+      "kind": "publishing",
+      "source": "https://marvel.fandom.com/wiki/X-Men:_Red_Vol_1_2",
+      "interest": 7
+    },
+    {
+      "text": "The solicitation for X-Corp #1 says Monet sets out to staff the company with some of the brightest and most deviant minds in mutantkind, a fair description of a hacker-technician.",
+      "kind": "publishing",
+      "source": "https://marvel.fandom.com/wiki/X-Corp_Vol_1_1",
+      "interest": 7
+    },
+    {
+      "text": "Marvel Database lists her citizenship as both Indian and Krakoan, and her past jobs as thief and prisoner before she became an X-Corp board member.",
+      "kind": "culture",
+      "source": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+      "interest": 7
+    },
+    {
+      "text": "Marvel Database says her technopathy works only on technology in her line of sight, and her true range is undetermined, so she cannot hack the world from a couch.",
+      "kind": "powers",
+      "source": "https://marvel.fandom.com/wiki/Shilpa_Khatri_(Earth-616)",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Shilpa Khatri is a young Indian mutant who can control computers and phones with her mind. She hacked the bank accounts of very rich bosses to give money to working women, but that was against the law, so she was locked up. She asked Jean Grey for help, and Jean's X-Men freed her."
+}

@@ -1,0 +1,292 @@
+{
+  "name": "Dattatreya",
+  "aka": ["Datta", "Guru Dattatreya", "Avadhuta", "Dattaguru"],
+  "native": "दत्तात्रेय",
+  "role": "Teacher-sage seen as combining Brahma, Vishnu and Shiva",
+  "summary": "Dattatreya is a wandering teacher honoured in many traditions as a sage with the qualities of Brahma, Vishnu and Shiva. His image shows three heads, four dogs and a cow.",
+  "about": "Dattatreya is worshipped as a sage and teacher who combines the qualities of Brahma, Vishnu and Shiva. Many Puranic stories name his parents as Atri and Anasuya, and the accounts of his birth differ. His common image has three heads and six arms, with four dogs and a cow beside him. He is known for learning from twenty-four teachers drawn from nature and everyday life. The Avadhuta Gita is credited to him, and Datta traditions flourish in Maharashtra, Karnataka and Gujarat, with the Gurucharitra as an important text. Narasimha Saraswati of Ganagapur is considered by followers to be a Datta avatar. Even Guru Gobind Singh wrote about him in the Rudra Avtar.",
+  "kidSummary": "Dattatreya is a wise teacher who is shown with three heads, standing with four dogs and a cow. Stories say he learned from twenty-four teachers, including a bee, a python and a moth. He teaches that we can learn from everything around us.",
+  "story": [
+    {
+      "title": "Atri and Anasuya",
+      "text": "In one well-known telling, the sage Atri and his wife Anasuya ask the three great gods for a child."
+    },
+    {
+      "title": "A gift of three",
+      "text": "Tradition says the child, Dattatreya, is born with the qualities of Brahma, Vishnu and Shiva together."
+    },
+    {
+      "title": "A wandering teacher",
+      "text": "He grows up and wanders as an avadhuta, a free wandering sage who does not follow ordinary routines."
+    },
+    {
+      "title": "Twenty-four teachers",
+      "text": "He says he learned from twenty-four teachers, from the earth and the python to a bee and a young girl."
+    },
+    {
+      "title": "A lesson from each",
+      "text": "The bee shows how to gather a little goodness from everywhere, and the python shows contentment with what comes."
+    },
+    {
+      "title": "A teacher for everyone",
+      "text": "In the Tripura Rahasya, his disciple Parashurama finds him meditating on a mountain near Rameswaram. The lesson is that wisdom is all around us, if we look and listen."
+    }
+  ],
+  "teaches": [
+    "We can learn from everything in the world",
+    "Contentment is a kind of wealth",
+    "Humility opens the door to wisdom"
+  ],
+  "symbol": "tree",
+  "emblems": [
+    "Three heads",
+    "Four dogs and a cow",
+    "Trident, discus, water pot and rosary",
+    "Audumbar tree"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Atri",
+      "slug": "atri"
+    },
+    {
+      "relation": "Mother",
+      "name": "Anasuya",
+      "slug": "anasuya"
+    },
+    {
+      "relation": "Disciple in the Tripura Rahasya",
+      "name": "Parashurama",
+      "slug": "parashurama"
+    },
+    {
+      "relation": "United with",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "United with",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "United with",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": [
+    "Avadhuta Gita",
+    "Gurucharitra",
+    "Jabala Upanishad",
+    "Tripura Rahasya",
+    "Bhagavata Purana"
+  ],
+  "places": [
+    "Ganagapur, Karnataka",
+    "Mahur, Maharashtra",
+    "Manik Nagar",
+    "Pithapuram, Andhra Pradesh"
+  ],
+  "festivals": ["Datta Jayanti", "Guru Purnima"],
+  "facts": [
+    {
+      "text": "In a legend that is not in the main Puranas, the three great gods visit Anasuya disguised as guests to test her, and she turns them into babies with a sprinkle of water; pleased, they grant her wish to be born as her children.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Dattatreya is famous in the texts as one who began with no human teacher and reached self-awareness by watching nature, treating 24 observations, such as the earth, wind, python and moth, as his teachers.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His teachers include a courtesan, a young girl and an arrowsmith lost in his work.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The bee is one of his teachers, showing how to take only the nectar from many sources, and the beekeeper shows that wealth never lasts; he himself is called a honeybee yogi who gathers from many kinds of yoga.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The moth and the deer show how the senses and fear can trick us, while the python teaches contentment.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Four dogs and a cow accompany him: the dogs stand for the Vedas and the cow for mother earth. Another reading takes the dogs as inner forces, desire, habit, hope and craving, that this guru has mastered.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kartavirya Arjuna, the thousand-armed king, is described as a devotee favoured by Dattatreya, and in the Puranic tellings he later clashes with Parashurama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartavirya_Arjuna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Guru Gobind Singh wrote about Dattatreya's life in the Sikh composition Rudra Avtar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Girnar in Gujarat, a Dattatreya shrine stands on the highest peak, which Jains call Neminath Shikhar, after a climb of about 10,000 steps. The two communities' claims to the site are still under court consideration.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Girnar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Datta Jayanti falls on the full moon of Margashirsha, with a special following in Maharashtra. The 19th-century saint Manik Prabhu, regarded by followers as a Datta avatar, was born on that day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Datta_Jayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another account, Anasuya helps a woman named Shilavati bring back the sunrise after her husband is cursed, and when the Trimurti offer a boon, Shilavati asks that they be born as her son, who is Dattatreya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Datta_Jayanti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Though he is a combined form of three gods, Dattatreya is especially counted as an avatar of Vishnu, while his brothers, the moon-god Chandra and the sage Durvasa, are seen as forms of Brahma and Shiva.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Datta_Jayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Stories place his birth in different spots: the hermitage at Mahur in Maharashtra, the western Deccan, or the jungles of Kashmir near Amarnath.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dattatreya is said to be accompanied by his consort Lakshmi in the form of Anagha Devi.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Several Upanishads are devoted to him, including the Dattatreya, Darshana and Avadhuta Upanishads, and his name also appears in the Mahabharata.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Gurucharitra, by the 15th to 16th century poet Saraswati Gangadhar, is told as a talk between a disciple named Siddha and Namdharak, an ordinary man searching for a guru.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gurucharitra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sripada Srivallabha, born in 1320 at Pithapuram, took sannyasa at 16 and entered jalasamadhi at 30. Followers see him as one of the first complete Kali Yuga avatars of Dattatreya, later followed by Narasimha Saraswati, Manik Prabhu and Sai Baba.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sripada_Srivallabha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Naths revere Dattatreya as their first guru, but scholar James Mallinson argues they adopted him only around the 18th century, as Vishnu and Shiva worship merged.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A few medieval temples, such as Mahur, show him with one head, and the Agni Purana advises one head and two hands for his image. The Mahanubhava community also worships him as the original Guru, one-headed and two-armed.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Early sculptures at Badami and Ajmer show a one-headed, four-armed Dattatreya with the swan, Garuda and Nandi, the mounts of Brahma, Vishnu and Shiva, carved beside him.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some scholars equate the older Hari Hara Pitamaha image, which joins Vishnu, Shiva and Brahma, with Dattatreya, while Rigopoulos suggests it was a forerunner of his image.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dattatreya",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many heads does Dattatreya usually have in images?",
+      "options": ["One", "Two", "Three", "Five"],
+      "answer": 2,
+      "why": "Three heads stand for Brahma, Vishnu and Shiva."
+    },
+    {
+      "q": "How many teachers did Dattatreya say he learned from?",
+      "options": ["Seven", "Twelve", "Twenty-four", "One hundred"],
+      "answer": 2,
+      "why": "He is said to have learned from twenty-four teachers."
+    },
+    {
+      "q": "Which animals stand beside Dattatreya?",
+      "options": ["Four dogs and a cow", "Two lions", "A mouse and a peacock", "Three horses"],
+      "answer": 0,
+      "why": "They are read as the Vedas and mother earth."
+    },
+    {
+      "q": "Who are Dattatreya's parents in the well-known story?",
+      "options": [
+        "Kashyapa and Aditi",
+        "Atri and Anasuya",
+        "Dasharatha and Kaushalya",
+        "Nanda and Yashoda"
+      ],
+      "answer": 1,
+      "why": "Atri and Anasuya asked the Trimurti for a child."
+    },
+    {
+      "q": "What is the Avadhuta Gita credited to?",
+      "options": ["Dattatreya", "Hanuman", "Kubera", "Vamana"],
+      "answer": 0,
+      "why": "The text is traditionally credited to Dattatreya."
+    }
+  ],
+  "related": ["atri", "anasuya", "parashurama", "vishnu", "shiva", "brahma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dattatreya"
+  },
+  "palette": {
+    "c1": "#b4cfa3",
+    "c2": "#e6cf9a"
+  },
+  "order": 110,
+  "slug": "dattatreya",
+  "tradition": "hindu",
+  "group": "deva",
+  "depth": "full"
+}

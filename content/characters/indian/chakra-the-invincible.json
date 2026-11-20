@@ -1,0 +1,333 @@
+{
+  "slug": "chakra-the-invincible",
+  "name": "Chakra",
+  "realName": "Raju Rai",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Graphic India",
+  "summary": "Stan Lee's Mumbai teen hero who powers a blue suit with the body's chakras. He was announced in 2011 and starred in a 2013 Cartoon Network India film.",
+  "origin": "Raju Rai is a Mumbai teenager with a gift for technology. As Scroll tells it, he switches on a blue suit by accident, and it wakes the energy centres called chakras in his body, giving him powers to guard the city. Stan Lee and Graphic India's Sharad Devarajan co-created the hero, announced in 2011, and Lee wrote a detailed story to lay the foundation.",
+  "creators": [
+    "Stan Lee (co-creator)",
+    "Sharad Devarajan (co-creator, director)",
+    "Gotham Chopra (co-creator)",
+    "Ashwin Pande (writer)",
+    "Scott Peterson (writer)"
+  ],
+  "firstAppearance": {
+    "title": "Chakra the Invincible (first issue and original graphic novel)",
+    "year": 2012
+  },
+  "powers": [
+    "Blue suit that unleashes the body's chakras (energy centres)",
+    "Special powers from the suit, used to protect Mumbai",
+    "Teenage tech-genius skills"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Comic debut",
+      "years": "2012",
+      "title": "A Mumbai teen suits up",
+      "beat": "The comic introduces Raju Rai, who by one account accidentally activates a suit that unlocks his chakras and turns him into a protector of Mumbai."
+    },
+    {
+      "era": "TV film",
+      "years": "2013",
+      "title": "Cartoon Network India premiere",
+      "beat": "A 65-minute animated film airs on 30 November 2013; Wikipedia lists Hindi and English, and Scroll adds Tamil and Telugu."
+    },
+    {
+      "era": "Sequels",
+      "years": "2016-2017",
+      "title": "Toonami follow-ups",
+      "beat": "Chakra: The Rise of Infinitus (2016) and The Revenge of Magnus Flux (2017) continue the story."
+    },
+    {
+      "era": "Film plans",
+      "years": "2016",
+      "title": "Phantom Films deal",
+      "beat": "A live-action film is announced with Vikramaditya Motwane to direct, but it has not reached cinemas."
+    },
+    {
+      "era": "Game",
+      "years": "By 2018",
+      "title": "World Siege",
+      "beat": "A mobile game pits Chakra against his nemesis Boss Yama to protect the seven wonders of the world."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Chakra's two sequels aired on Toonami in India instead of Cartoon Network, in September 2016 and February 2017.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "The English version gave Chakra an American accent, which surprised critics.",
+      "spice": 2
+    },
+    {
+      "type": "myth",
+      "text": "Chakra is a Marvel character.",
+      "truth": "Lee created him through Graphic India and POW!, outside Marvel's universe. HuffPost issued a correction on this.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Lee and Devarajan announced a live-action Chakra film with Phantom Films in 2016, but it never appeared.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The film's director Sharad Devarajan also helped create Spider-Man India (2004), whose Pavitr Prabhakar appears in Across the Spider-Verse.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who co-created Chakra the Invincible with Sharad Devarajan?",
+      "options": ["Jack Kirby", "Stan Lee", "Steve Ditko", "Frank Miller"],
+      "answer": 1,
+      "why": "Stan Lee co-created Chakra."
+    },
+    {
+      "q": "What does Raju Rai's suit unlock?",
+      "options": ["Time travel", "Chakras", "Invisibility", "Flight only"],
+      "answer": 1,
+      "why": "The suit weaponises the body's chakras."
+    },
+    {
+      "q": "In which city does Chakra protect people?",
+      "options": ["Delhi", "Chennai", "Mumbai", "Kolkata"],
+      "answer": 2,
+      "why": "Raju Rai lives in and defends Mumbai."
+    },
+    {
+      "q": "Who is Chakra's nemesis in the mobile game Chakra: World Siege?",
+      "options": ["Boss Yama", "Magnus Flux", "Infinitus", "Dr. Singh"],
+      "answer": 0,
+      "why": "Boss Yama is the villain named in World Siege."
+    },
+    {
+      "q": "Which company behind Angry Birds streamed a Chakra web series in 2014?",
+      "options": ["Rovio", "Pixar", "Nintendo", "Marvel"],
+      "answer": 0,
+      "why": "Tubefilter reported the series on Rovio's Toons.TV platform."
+    },
+    {
+      "q": "On which network did the first Chakra film premiere in 2013?",
+      "options": ["Cartoon Network India", "Doordarshan", "Sony Pix", "Hungama"],
+      "answer": 0,
+      "why": "It premiered on Cartoon Network India on 30 November 2013."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#0d6efd",
+      "c2": "#0b1d3a",
+      "c3": "#fbbf24"
+    },
+    "motif": "cosmic",
+    "mood": "dark",
+    "tagline": "Seven glowing centres, one blue suit."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chakra:_The_Invincible",
+    "scroll": "https://scroll.in/article/901973/not-just-spider-man-and-iron-man-stan-lee-also-created-an-indian-superhero-to-keep-mumbai-safe",
+    "theweek": "https://www.theweek.in/leisure/society/2018/11/13/when-stan-lee-brought-his-storytelling-india.html",
+    "huffpost": "https://www.huffpost.com/entry/stan-lee-indian-superhero-chakra-the-invincible_n_5beb1d61e4b0783e0a1d0792",
+    "sharad_devarajan": "https://en.wikipedia.org/wiki/Sharad_Devarajan",
+    "toonsutra_release": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+    "stan_lee_site": "https://therealstanlee.com/?p=782"
+  },
+  "timeline": [
+    {
+      "year": 2012,
+      "kind": "debut",
+      "title": "First Chakra comic",
+      "note": "ThePrint dates the first issue and graphic novel to 2012; Scroll and HuffPost say 2011, and Lee's plan was announced in December 2011."
+    },
+    {
+      "year": 2013,
+      "kind": "screen",
+      "title": "Cartoon Network India premiere",
+      "note": "A 65-minute animated film airs on 30 November in Hindi and English, with Tamil and Telugu added per Scroll."
+    },
+    {
+      "year": 2014,
+      "kind": "screen",
+      "title": "Toons.TV web series",
+      "note": "Tubefilter reports in March that Chakra has an animated web series on Rovio's Toons.TV platform."
+    },
+    {
+      "year": 2016,
+      "kind": "turn",
+      "title": "Live-action film announced",
+      "note": "Phantom Films and Vikramaditya Motwane are named for a movie that has not been made."
+    },
+    {
+      "year": 2017,
+      "kind": "screen",
+      "title": "Second sequel on Toonami",
+      "note": "The Revenge of Magnus Flux airs on 15 February."
+    },
+    {
+      "year": 2018,
+      "kind": "turn",
+      "title": "Phantom Films dissolved",
+      "note": "The company behind the planned live-action film is wound up, leaving the movie's future uncertain."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Free story for Lee's 100th",
+      "note": "A new Chakra story on Toonsutra has the hero meet Stan Lee in Mumbai, in four languages."
+    }
+  ],
+  "heat": 35,
+  "facts": [
+    {
+      "text": "Stan Lee is credited on the 2013 film as a creator, writer, executive producer and voice actor, while Sharad Devarajan directed it.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Chakra:_The_Invincible",
+      "interest": 7
+    },
+    {
+      "text": "Scroll says the story has a touch of Spider-Man and Iron Man with a desi twist: a teenager like Peter Parker with a tech suit like Tony Stark's, set in Mumbai.",
+      "kind": "culture",
+      "source": "https://scroll.in/article/901973/not-just-spider-man-and-iron-man-stan-lee-also-created-an-indian-superhero-to-keep-mumbai-safe",
+      "interest": 7
+    },
+    {
+      "text": "Chakra: World Siege is a mobile game from Graphic India in which Chakra fights his nemesis Boss Yama to protect the seven wonders of the world.",
+      "kind": "publishing",
+      "source": "https://scroll.in/article/901973/not-just-spider-man-and-iron-man-stan-lee-also-created-an-indian-superhero-to-keep-mumbai-safe",
+      "interest": 8
+    },
+    {
+      "text": "Devarajan wrote that Lee once called Brahma a personal favourite because of his role as the creator, and that Lee found Indian culture deeply philosophical.",
+      "kind": "creator",
+      "source": "https://therealstanlee.com/?p=782",
+      "interest": 8
+    },
+    {
+      "text": "A Rovio-era web series on Toons.TV, home of Angry Birds, named Chakra's foes as the Shattering Steelfist, Kildune, the Destroyer, Agni the Living Flame and Boss Yama.",
+      "kind": "story",
+      "source": "https://www.tubefilter.com/2014/03/14/stan-lee-chakra-the-invincible-rovio-toons-tv/",
+      "interest": 7
+    },
+    {
+      "text": "Lee told Reuters that India had no hero from his POW! studio and that an Indian one should have come long ago, since comics are read worldwide and should represent every nation.",
+      "kind": "creator",
+      "source": "https://www.huffpost.com/entry/stan-lee-indian-superhero-chakra-the-invincible_n_5beb1d61e4b0783e0a1d0792",
+      "interest": 7
+    },
+    {
+      "text": "In March 2014 Tubefilter reported that Chakra had an animated web series on Rovio's Toons.TV with six episodes out, and Lee joked that he could never beat Angry Birds.",
+      "kind": "screen",
+      "source": "https://www.tubefilter.com/2014/03/14/stan-lee-chakra-the-invincible-rovio-toons-tv/",
+      "interest": 8
+    },
+    {
+      "text": "For Lee's 100th birthday in December 2022, Toonsutra released a free new Chakra comic in English, Hindi, Tamil and Telugu in which Chakra meets Stan Lee in Mumbai.",
+      "kind": "publishing",
+      "source": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+      "interest": 9
+    },
+    {
+      "text": "Three accounts give three origins for the suit: Scroll says Raju turned it on by accident, HuffPost says he builds it, and Wikipedia says his mentor Dr. Singh builds it.",
+      "kind": "story",
+      "source": "https://www.huffpost.com/entry/stan-lee-indian-superhero-chakra-the-invincible_n_5beb1d61e4b0783e0a1d0792",
+      "interest": 7
+    },
+    {
+      "text": "The live-action film announced in 2016 was to be directed by Vikramaditya Motwane of Phantom Films, with Lee expected to cameo; Phantom was dissolved in 2018, Scroll calls the film's future uncertain, and it has not reached cinemas.",
+      "kind": "screen",
+      "source": "https://scroll.in/article/901973/not-just-spider-man-and-iron-man-stan-lee-also-created-an-indian-superhero-to-keep-mumbai-safe",
+      "interest": 7
+    },
+    {
+      "text": "Sources disagree on Chakra's debut: Scroll dates the comic to 2011, while ThePrint says the first issue and original graphic novel came out in 2012.",
+      "kind": "record",
+      "source": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+      "interest": 7
+    },
+    {
+      "text": "Both sequels to the 2013 film aired on Toonami in India, The Rise of Infinitus on 25 September 2016 and The Revenge of Magnus Flux on 15 February 2017.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Chakra:_The_Invincible",
+      "interest": 7
+    },
+    {
+      "text": "In the Toons.TV web series, the first episode features Stan Lee himself introducing the hero.",
+      "kind": "screen",
+      "source": "https://www.tubefilter.com/2014/03/14/stan-lee-chakra-the-invincible-rovio-toons-tv/",
+      "interest": 7
+    },
+    {
+      "text": "A 2022 press release claims Chakra stories have drawn over 100 million views worldwide, though that figure comes from the publisher and is not independently checked.",
+      "kind": "record",
+      "source": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+      "interest": 7
+    },
+    {
+      "text": "Toonsutra, the mobile webtoon startup behind Chakra's 2022 free story, was founded by Sharad Devarajan and aims at India's 650 million-plus mobile users.",
+      "kind": "publishing",
+      "source": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+      "interest": 7
+    },
+    {
+      "text": "Lee's video about Chakra and what makes a superhero first aired at the fourth TEDxGateway in Mumbai, where he called Chakra one of the most exciting stories he had made.",
+      "kind": "culture",
+      "source": "https://comicbook.com/blog/2013/12/30/stan-lee-talks-indian-superhero-chakra-the-invincible",
+      "interest": 7
+    },
+    {
+      "text": "Devarajan recalls that Lee opened his 1978 Silver Surfer book with a verse from the Rubaiyat of Omar Khayyam and, when asked, recited the verse from memory.",
+      "kind": "creator",
+      "source": "https://therealstanlee.com/?p=782",
+      "interest": 8
+    },
+    {
+      "text": "After Lee's death HuffPost reported that many South Asian fans valued having an Indian lead in a comics industry dominated by Western publishers.",
+      "kind": "culture",
+      "source": "https://www.huffpost.com/entry/stan-lee-indian-superhero-chakra-the-invincible_n_5beb1d61e4b0783e0a1d0792",
+      "interest": 7
+    },
+    {
+      "text": "ThePrint notes that Chakra's makers also created Spider-Man India in 2004, the Mumbai-set take that introduced Pavitr Prabhakar.",
+      "kind": "creator",
+      "source": "https://theprint.in/ani-press-releases/stan-lees-chakra-the-invincible-launches-free-new-story-on-toonsutra-in-hindi-tamil-and-telugu-to-celebrate-the-late-legends-100th-birthday/1285058/",
+      "interest": 8
+    },
+    {
+      "text": "POW!'s chief executive Gill Champion credited Chakra's early success, and events like TEDxGateway, with helping the company grow in India.",
+      "kind": "publishing",
+      "source": "https://comicbook.com/blog/2013/12/30/stan-lee-talks-indian-superhero-chakra-the-invincible",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Chakra is Raju Rai, a Mumbai teenager who loves technology. When a special blue suit switches on, it unlocks the energy centres called chakras and gives him powers to protect his city. Comic legend Stan Lee helped create him, and he starred in a cartoon film on Cartoon Network India.",
+  "story": [
+    {
+      "title": "A clever teen",
+      "text": "Raju Rai is a teenager in Mumbai who is great with technology."
+    },
+    {
+      "title": "The blue suit",
+      "text": "A blue suit switches on and wakes the energy centres called chakras in his body, which gives him special powers."
+    },
+    {
+      "title": "Guarding Mumbai",
+      "text": "Raju uses the powers to protect his city, and in the 2013 cartoon film he faces villains with the help of his mentor Dr. Singh."
+    },
+    {
+      "title": "More adventures",
+      "text": "Two more films followed on Toonami, a mobile game pitted him against Boss Yama, and a free story in 2022 had him meet Stan Lee."
+    }
+  ]
+}

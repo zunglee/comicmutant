@@ -1,0 +1,261 @@
+{
+  "slug": "chitrangada",
+  "name": "Chitrangada",
+  "aka": ["Chitrangada of Manipura", "Chitra"],
+  "native": "चित्रांगदा",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Princess of Manipura and wife of Arjuna",
+  "summary": "Chitrangada is the princess of Manipura in the Mahabharata who married Arjuna. Some retellings show her as a trained warrior, and she is the mother of Babruvahana.",
+  "about": "In the Mahabharata, Chitrangada is the daughter of King Chitravahana of Manipura and the only heir of her line. The epic says Arjuna meets her during his twelve-year pilgrimage and marries her on the condition that her son will inherit Manipura. Their son is Babruvahana. In the tradition, he later challenges Arjuna during the Ashvamedha horse journey and strikes Arjuna down, and Ulupi later revives him. Chitrangada then goes to Hastinapura, serves Gandhari and returns to Manipura at the start of the Kali Yuga. Rabindranath Tagore's play Chitra retells her story with the princess as a trained warrior, and his dance drama Chitrangada is still performed today.",
+  "kidSummary": "Chitrangada was a princess of Manipura and her father's only heir. In the Mahabharata she marries Arjuna, and their son Babruvahana becomes a king. In Tagore's retelling she is also a warrior. Her story has inspired plays, dance dramas and films.",
+  "story": [
+    {
+      "title": "A princess who leads",
+      "text": "King Chitravahana of Manipura has only a daughter, Chitrangada. He raises her as his heir, and some retellings add that he trained her in the skills of a warrior as well as a ruler."
+    },
+    {
+      "title": "A traveller arrives",
+      "text": "Arjuna visits Manipura on his pilgrimage and asks for her hand. Her father agrees if her son will rule Manipura. (In Tagore's play, Arjuna is drawn to her honesty and courage.)"
+    },
+    {
+      "title": "A new prince",
+      "text": "Arjuna stays for a while, and their son Babruvahana is born. Arjuna leaves, promising to return."
+    },
+    {
+      "title": "A hard day",
+      "text": "Years later, Babruvahana meets Arjuna in a duel on the Ashvamedha journey, and Arjuna falls. Chitrangada and her son are heartbroken and vow to fast."
+    },
+    {
+      "title": "Healing and a new home",
+      "text": "Ulupi brings a gem that revives Arjuna. Chitrangada goes to Hastinapura and helps Gandhari, and later returns to Manipura."
+    }
+  ],
+  "teaches": [
+    "Courage and responsibility",
+    "Keeping an agreement",
+    "Standing by your family in sorrow"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows", "Madhulika flower"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Chitravahana"
+    },
+    {
+      "relation": "Husband",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Son",
+      "name": "Babruvahana",
+      "slug": "babruvahana"
+    },
+    {
+      "relation": "Co-wife",
+      "name": "Ulupi",
+      "slug": "ulupi"
+    },
+    {
+      "relation": "Co-wife",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Tagore, Chitra (play)", "Jaiminiya Ashvamedha"],
+  "places": ["Manipura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Her ancestor Prabhanjana won a boon from Shiva that each of his descendants would have one child. Chitravahana had only a daughter, so he named her his heir as a putrika, and her son would inherit Manipura.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Chitrangada_(princess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the first book Chitravahana says he has always treated his daughter as his son. He tells Arjuna the son she bears will be the price for her hand, and Arjuna accepts.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01218.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Chitrangada set the sacrificial horse free herself, and she told the fallen Arjuna that he must rise and follow it. She grieved for her husband, not for her son.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Hastinapura Chitrangada served Gandhari, Arjuna's aunt, for years. When the Pandavas set out on their final journey, she went back to her home kingdom of Manipura.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitrangada_(princess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Tagore's play Chitra first sees Arjuna while hunting in the forest. She falls for him even though he has vowed twelve years of celibacy, and he turns her away.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tagore's Chitra, the princess falls for Arjuna and asks the god of love and the spirit of spring for a day of perfect beauty. They give her a whole year.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the play Arjuna starts to admire tales of the warrior Princess Chitra without knowing his beautiful companion is that same woman. She finally tells him herself.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rituparno Ghosh wrote, directed and starred in the 2012 Bengali film Chitrangada: The Crowning Wish, about a choreographer staging Tagore's dance drama. It won a Special Jury Award at the 60th National Film Awards.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitrangada:_The_Crowning_Wish",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 1977 Kannada film Babruvahana, Arjuna wins the princess's heart in Manipura by hunting a tiger using sound-guided archery. In the film her son learns from her that Arjuna is his father.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Babruvahana_(1977_film)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Where was Manipura? Some newer writers say present-day Manipur, a few Tamil translations say Madurai, and scholars place it in Kalinga from the epic's geography, calling the other claims unsupported.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 12th-century Jaiminiya retelling she is the daughter of a Gandharva king, not of Chitravahana. She leaves to join Yudhishthira, and Ulupi raises her son.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The epic does not say how they met. In its text Arjuna simply sees her in her father's palace, and the forest-hunt meeting comes from Tagore's play Chitra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Chitrangada_(princess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the horse-sacrifice book she rebukes Ulupi for causing Arjuna's fall and vows to fast to death unless he is revived. There the text calls her Chaitravahini, 'daughter of Chitravahana'.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the retelling that Wikipedia summarises, Arjuna realises before he falls unconscious that the young archer is Chitrangada's son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitrangada_(princess)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tagore's 1936 dance drama Chitrangada was told wholly in dance and song. It mixed Manipuri with traditional Japanese styles, led by Tagore's student Miki.",
+      "kind": "art",
+      "source": "https://indiaartreview.com/stories/rabindra-nritya-emotion-melodies-poetry/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tagore's play Chitra was first published in English in 1913 by the India Society of London. It is a single act, and it has been performed around the world.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 1914 New York Times article said Tagore touched on modern feminism in Chitra while drawing on a Hindu legend.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the play Arjuna tells her his love feels incomplete, because she has never shown him her true self. He only finds out she is the warrior princess at the very end.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tagore's play the gods of love and spring tell Chitra off for rejecting Arjuna's love: they had given her exactly the beauty she asked for.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chitra_(play)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to the Babhruvahana article, Arjuna stayed in Manipura for three months. When he came back, their son was already born, and he promised to take them with him later.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where did Chitrangada's father rule?",
+      "options": ["Hastinapura", "Manipura", "Kashi", "Dwarka"],
+      "answer": 1,
+      "why": "Her father Chitravahana was the king of Manipura."
+    },
+    {
+      "q": "What was Chitrangada's son's name?",
+      "options": ["Iravan", "Abhimanyu", "Babruvahana", "Ghatotkacha"],
+      "answer": 2,
+      "why": "Her son with Arjuna was Babruvahana."
+    },
+    {
+      "q": "Which writer retold her story in the play Chitra?",
+      "options": ["Kalidasa", "Rabindranath Tagore", "Valmiki", "Tulsidas"],
+      "answer": 1,
+      "why": "Tagore's play reimagined Chitrangada as a warrior."
+    },
+    {
+      "q": "Whom did Chitrangada serve in Hastinapura?",
+      "options": ["Kunti", "Draupadi", "Gandhari", "Satyavati"],
+      "answer": 2,
+      "why": "She served Gandhari for years in Hastinapura."
+    },
+    {
+      "q": "What was the condition of her marriage with Arjuna?",
+      "options": [
+        "Their son would inherit Manipura",
+        "Arjuna must give up his bow",
+        "They must live in the forest",
+        "Their son must be a warrior of Hastinapura"
+      ],
+      "answer": 0,
+      "why": "The Putrika custom meant her son would inherit Manipura."
+    }
+  ],
+  "related": ["arjuna", "babruvahana", "ulupi", "gandhari", "draupadi", "shantanu", "yudhishthira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chitrangada_(princess)",
+    "disambiguation": "https://en.wikipedia.org/wiki/Chitrangada",
+    "babhruvahana": "https://en.wikipedia.org/wiki/Babhruvahana",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#d9b8d4",
+    "c2": "#f2e8d8"
+  },
+  "depth": "full"
+}

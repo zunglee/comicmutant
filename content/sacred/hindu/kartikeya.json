@@ -1,0 +1,262 @@
+{
+  "slug": "kartikeya",
+  "name": "Kartikeya",
+  "aka": ["Skanda", "Murugan", "Subrahmanya", "Shanmukha", "Kumara"],
+  "native": "कार्तिकेय",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Divine commander of the gods' army",
+  "summary": "Kartikeya, also called Skanda and Murugan, is the son of Shiva and Parvati and the leader of the divine army. He is especially loved in Tamil lands, where hill temples honour him.",
+  "about": "Kartikeya is known by many names: Skanda in much of India, Murugan or Karthikeyan in the Tamil country, and Subrahmanya, Kumara and Shanmukha elsewhere. Texts such as the Skanda Purana and the Kanda Puranam say he was born to defeat the asura Tarakasura and his brothers, and then led the gods' army. He is shown with a spear called the vel, a peacock as his mount, and a rooster on his banner. The Kaumaram tradition honours him above all, and the Tamil Sangam poems already praise Murugan as the god of the hills. Historians think the northern Skanda and the southern Murugan were once separate and merged over time. His worship spread to Sri Lanka, Malaysia, Singapore and beyond, and he is also known in Buddhist lands as a protector of monasteries.",
+  "kidSummary": "Kartikeya, also called Murugan, is the brave young commander of the gods' army in Hindu stories. He carries a shining spear called the vel and rides a peacock. Many hill-top temples in southern India are named for him. Every year, people carry colourful offerings to honour him at a festival called Thaipusam.",
+  "story": [
+    {
+      "title": "A problem for the gods",
+      "text": "In the Puranas, an asura named Tarakasura was given a boon that only a son of Shiva could defeat him. But Shiva was deep in meditation, so the gods worried."
+    },
+    {
+      "title": "Six sparks",
+      "text": "In the Skanda Purana, six sparks of Shiva's light travelled through the winds and fire and finally came to rest in a lake of reeds, where they became six little boys."
+    },
+    {
+      "title": "Raised by the Krittikas",
+      "text": "Six star-mothers called the Krittikas looked after the boys. That is how he got the name Kartikeya. Later Parvati joined the six into one child with six faces."
+    },
+    {
+      "title": "Leader of the army",
+      "text": "The gods made the young Kartikeya their commander. In the Tamil Kanda Puranam he first sent messengers to the asura Surapadma, asking him to choose peace."
+    },
+    {
+      "title": "The mango tree",
+      "text": "When the talks failed, the asura changed his shape into a mango tree. Kartikeya split it with his vel, and the two halves became his peacock and his rooster."
+    }
+  ],
+  "teaches": [
+    "Try peace before fighting",
+    "Courage should come with kindness",
+    "Faith can lift even the heaviest load"
+  ],
+  "symbol": "star",
+  "emblems": ["Vel (spear)", "Peacock (vahana)", "Rooster banner", "Six faces"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Brother",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Fire god (Mahabharata birth tale)",
+      "name": "Agni",
+      "slug": "agni"
+    }
+  ],
+  "texts": [
+    "Skanda Purana",
+    "Kanda Puranam",
+    "Tirumurukarruppatai",
+    "Mahabharata",
+    "Kumarasambhava"
+  ],
+  "places": [
+    "Palani",
+    "Tiruchendur",
+    "Batu Caves, Malaysia",
+    "Kataragama, Sri Lanka",
+    "Nallur Kandaswamy temple, Jaffna"
+  ],
+  "festivals": [
+    "Thaipusam",
+    "Skanda Sashti (Surasamharam)",
+    "Panguni Uthiram",
+    "Vaikasi Visakam",
+    "Karthikai Deepam"
+  ],
+  "facts": [
+    {
+      "text": "Ancient coins carry his name as Kumara or Brahmanyadeva, and some Indo-Scythian coins even write Skanda, Kumara and Vishakha in Greek letters.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "Early art often shows an elephant as his mount. The peacock became the usual vehicle only after about the 6th century CE.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8
+    },
+    {
+      "text": "The Kanda Puranam says Shiva gave him an army of 30,000, with nine sub-commanders led by Virabahu, born from copies of the goddess's anklet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "After losing the fruit-of-knowledge contest, the Kanda Puranam says Kartikeya gave up his belongings, left Kailasha and settled in the Palani hills as a hermit. One scholar reads this as a boy deciding to grow up.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A vel kavadi, a portable altar carried at Thaipusam, can reach about 2 metres and 30 kg and is fixed to the body with hooks.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8
+    },
+    {
+      "text": "Batu Caves near Kuala Lumpur has a 42.7-metre golden statue of Murugan, one of the tallest of him in the world.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Kataragama in Sri Lanka, Hindus, Buddhists, Muslims and the Vedda people all revere the same site. The Vedda once called the deity Oya Vedda, river hunter.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kataragama",
+      "interest": 8
+    },
+    {
+      "text": "In Chinese Mahayana Buddhism, Skanda appears as Weituo, a guardian who protects monasteries and the Buddha's teaching.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8
+    },
+    {
+      "text": "At Surasamharam, crowds watch a re-enactment in which Kartikeya's vel defeats giant asura figures of hay and cloth, some 15 feet tall. A ceremonial wedding of Kartikeya and Devasena ends the event.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Surasamharam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The grammarian Panini, 5th century BCE, is among the first to name Skanda, and the Tamil Tolkappiyam, about the 2nd century BCE, names Murukan and Ceyon the red one as god of the hills, so he is old in both north and south.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "Tradition is not the same everywhere on his marriage. Tamil lands tell of two wives, Devayanai (Devasena) and Valli. Sanskrit texts name only Devasena, and parts of north and east India honour him as a bachelor.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "Murugan explains the meaning of Om to Shiva at Swamimalai, according to regional tradition. A temple scene there shows the young god as the teacher with Shiva as listener, and there he is called Swaminathan.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Swamimalai",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Tamil tale of Valli, Murugan meets a tribal chief's daughter disguised as an old man. When she refuses him, he asks his brother Ganesha to appear as a wild elephant. She runs to the old man for safety, and he reveals himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Valli",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the story of Idumban, the asura carries two hills for sage Agastya but cannot lift one of them again. A youth stands on top, and Idumban fights and loses. The youth is Kartikeya and the hill is said to be Palani.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Gupta emperors Kumaragupta I and Skandagupta were patrons of Kartikeya, and both bear his names. A pillar inscription at Bilsad mentions a temple to Mahasena, another of his names.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "Six great Murugan temples, the Six Abodes, are Thiruparankundram, Tiruchendur, Palani, Swamimalai, Tiruttani and Pazhamudircholai, and Tamil Sangam literature mentions them. An old saying says wherever there is a hill, there is a Murugan temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the Skanda Purana, six divine sparks came from Shiva and became six baby boys raised by the Krittikas. Parvati later joined them into one child with six heads, and the name Kartikeya means of the Krittikas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Kanda Puranam the asura Surapadma hides as a giant mango tree. Kartikeya splits it with his vel and the two halves become a peacock and a rooster, which he takes as his mount and his banner.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Coins of the Yaudheya and Kushan periods, from the 1st and 2nd centuries CE, show him with either one head or six. One-headed images are more common, and the six-headed look in sculpture comes mostly after the Gupta age.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7
+    },
+    {
+      "text": "The Skanda Purana, named for him, is the largest of the eighteen Mahapuranas and has over 81,000 verses.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the name of Kartikeya's divine spear?",
+      "options": ["Chakra", "Trishula", "Vel", "Gada"],
+      "answer": 2,
+      "why": "The vel is his spear, said to be a gift from Parvati."
+    },
+    {
+      "q": "Which bird is Kartikeya's mount in most pictures?",
+      "options": ["Owl", "Eagle", "Swan", "Peacock"],
+      "answer": 3,
+      "why": "The peacock became his usual vehicle after about the 6th century."
+    },
+    {
+      "q": "Which festival honours Murugan with kavadi carrying?",
+      "options": ["Thaipusam", "Holi", "Onam", "Baisakhi"],
+      "answer": 0,
+      "why": "Thaipusam is famous for kavadi offerings."
+    },
+    {
+      "q": "What does the name Kartikeya mean?",
+      "options": ["Born of the sea", "Of the Krittikas", "Son of the wind", "Lord of birds"],
+      "answer": 1,
+      "why": "The Krittikas were the star-mothers who raised him."
+    },
+    {
+      "q": "Where is a 42.7 metre statue of Murugan?",
+      "options": ["Batu Caves", "Kolkata", "Lumbini", "Hampi"],
+      "answer": 0,
+      "why": "Batu Caves near Kuala Lumpur holds the statue."
+    }
+  ],
+  "related": ["shiva", "parvati", "ganesha", "agni", "vayu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kartikeya",
+    "thaipusam": "https://en.wikipedia.org/wiki/Thaipusam",
+    "kataragama": "https://en.wikipedia.org/wiki/Kataragama",
+    "swamimalai": "https://en.wikipedia.org/wiki/Swamimalai",
+    "valli": "https://en.wikipedia.org/wiki/Valli"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#A8D5BA",
+    "c2": "#F2D49B"
+  },
+  "order": 20
+}

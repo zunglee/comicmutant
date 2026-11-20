@@ -1,0 +1,265 @@
+{
+  "slug": "ushas",
+  "name": "Ushas",
+  "aka": ["Usha", "Dawn goddess"],
+  "native": "उषस्",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Vedic goddess of the dawn",
+  "summary": "Ushas is the goddess of dawn in the Rigveda, praised in many hymns as a bright young woman who brings light to the world each morning.",
+  "about": "In the Rigveda, Ushas is the goddess of dawn, pictured as a radiant young woman driving a golden chariot pulled by red horses or cows. Many hymns are addressed to her, and some analysts count them among the most beautiful in the Vedas. The hymns call her the daughter of Dyaus, the sky father, and the sister of Ratri, night. She wakes every living being, chases away darkness and makes way for Surya, the sun, whom texts call her husband or her son. Her name is related to dawn goddesses of other Indo-European peoples, including the Greek Eos and the Roman Aurora. Scholar George Williams notes that the Gayatri mantra remains a daily reminder of her, and she is worshipped regionally during Chhath Puja in Bihar, Uttar Pradesh and Nepal.",
+  "kidSummary": "Ushas is the goddess of dawn in the oldest Hindu hymns, the Rigveda. Poets pictured her as a young woman in a golden chariot, bringing light every morning and waking everyone up. Her name is even related to dawn goddesses in Greece and Rome. Ancient singers thanked her for each new day.",
+  "story": [
+    {
+      "title": "Night hands over to dawn",
+      "text": "In the Rigveda, Night and Dawn are sisters. When night ends, Ushas arrives in the east and lights the sky with red and gold."
+    },
+    {
+      "title": "A golden chariot",
+      "text": "Poets imagine Ushas riding a bright chariot pulled by red horses or cows. Its glow spreads across the land as she passes."
+    },
+    {
+      "title": "She wakes the world",
+      "text": "As she arrives, people, birds and animals wake up. The hymns say she brings joy and sends darkness away."
+    },
+    {
+      "title": "Making way for the sun",
+      "text": "Ushas steps aside for Surya, the sun god, who rises behind her. Texts call him either her husband or her son."
+    },
+    {
+      "title": "She returns every day",
+      "text": "The poets see her return each morning as a gift and ask her for light and wealth. They also note that she never ages while human lives pass."
+    }
+  ],
+  "teaches": [
+    "Each new morning is a gift",
+    "Light and hope drive out fear",
+    "Rise early and begin with gratitude"
+  ],
+  "symbol": "sun",
+  "emblems": ["Golden chariot", "Red horses or cows", "Dawn light"],
+  "family": [
+    {
+      "relation": "Father (in the Rigveda)",
+      "name": "Dyaus Pita"
+    },
+    {
+      "relation": "Sister",
+      "name": "Ratri (night)"
+    },
+    {
+      "relation": "Husband or son, in the hymns",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Often paired with",
+      "name": "Agni",
+      "slug": "agni"
+    },
+    {
+      "relation": "Often linked with",
+      "name": "Varuna",
+      "slug": "varuna"
+    }
+  ],
+  "texts": ["Rigveda"],
+  "places": [],
+  "festivals": ["Chhath Puja (dawn offering)"],
+  "facts": [
+    {
+      "text": "Ushas is kin to the Greek Eos, the Roman Aurora and the Lithuanian Ausrine, and the word for east in several Indo-European languages comes from the same dawn root.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Scholars think the English festival name Easter probably comes from Eostre, an old goddess whose name also shares Ushas's root.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "One hymn, Rigveda 1.48, imagines her arriving in a hundred chariots, a bright picture of the sky filling with morning light.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ushas is called the most exalted goddess of the Rigveda, though Agni, Soma and Indra are mentioned in far more hymns; she has about forty hymns of her own.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Reconstructed Proto-Indo-European myth pictures the dawn goddess as a daughter of the sky father, never ageing or born again each morning, dressed in red or golden cloth and often shown dancing.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Rigveda hymn (4.30) alludes to an odd episode in which Indra crushes the cart of Dawn and she runs away; scholars call it puzzling, since only a few verses hint at it.",
+      "kind": "story",
+      "source": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/meta/articles/jamison_brereton/intro/05_The_Gods/D_Indra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rigveda 1.92.10 calls Ushas ancient yet born again and again in the same bright colours, while she wears away the life of mortals as a hunter's wife divides up birds.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829976.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ushas is not the Usha of the Puranas, a daughter of the asura Banasura who marries the prince Aniruddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Banasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In four branches of the Indo-European family, including the Indic, the dawn goddess is chased or beaten off for lingering too long, and she is often said to be born again each morning.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Japan, the Shinto goddess Ame-no-Uzume, who danced to coax the sun goddess Amaterasu out of a cave, is called the closest relative of Ushas by the scholar Michael Witzel, who suggests the stories may go back to about 2000 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ame-no-Uzume",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In most Indo-European traditions the Divine Twins rescue the Dawn from a watery peril; their Vedic counterparts, the Ashvins, are called sons of the sky-god Dyaus.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Slavic dawn guardian Zorya opens the gate of the Sun's palace each morning, so he can start his journey; her name is unrelated to Ushas, but she plays a very similar role.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Zorya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Many hymns to Ushas, such as RV 5.80, are in the trishtubh metre. A 2025 computational study by Dan Baciu finds this metre has the same rhythm as the Greek Sapphic stanza and a Ugaritic hymn from about 1400 BCE.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Greek myth, Eos asked the gods to make her lover Tithonus immortal but not ever young, so he aged for ever, a sad contrast with Ushas who is forever young while people grow old.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Eos",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ashvins, twin horsemen of the Rigveda, are invoked at dawn and called darkness slayers; Ushas is asked to wake them, and one verse says their chariot once arrives even before her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Rigvedic poets gave Ushas many titles: hymn 1.92 calls her the mother of cows because she gives for everyone's good, 1.113 the mother of the gods, 6.64 the goddess of the hearth, and 7.75 to 7.77 the eye of the gods.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sri Aurobindo read Ushas as the medium of awakening for the other gods and the first condition of Vedic realisation, whose growing light clears human nature until a person reaches truth.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Indic, Greek and Baltic traditions the dawn goddess is a daughter of heaven, and in the Rigveda's family books, such as 6.64.5, Ushas is the daughter of the Sky Father Dyaus Pita.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars describe Ushas, following Jones and Ryan, as the 'life of all life' and the 'breath of all breaths', the one who sets all living beings moving each day.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ushas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one model of the early Indo-European sky, the dawn and twilight belong to a 'liminal' heaven that forms a gate between the bright day sky and the dark night sky.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which English festival name probably comes from a goddess sharing Ushas's root?",
+      "options": ["Christmas", "Halloween", "Thanksgiving", "Easter"],
+      "answer": 3,
+      "why": "Easter probably comes from Eostre, a dawn goddess whose name shares Ushas's ancient root."
+    },
+    {
+      "q": "What pulls Ushas's chariot in the hymns?",
+      "options": ["Elephants", "Golden-red horses or cows", "Peacocks", "Swans"],
+      "answer": 1,
+      "why": "Rigvedic poets describe a golden chariot with red horses or cows."
+    },
+    {
+      "q": "Who is Ushas's sister in the Rigveda?",
+      "options": ["Ratri, night", "Ganga", "Saraswati", "Sita"],
+      "answer": 0,
+      "why": "The hymns pair Ushas with her sister Ratri, goddess of night."
+    },
+    {
+      "q": "At which festival in Bihar and Nepal is Ushas worshipped regionally?",
+      "options": ["Chhath Puja", "Onam", "Pongal", "Baisakhi"],
+      "answer": 0,
+      "why": "Ushas is worshipped regionally during Chhath, when devotees offer arghya to the rising and setting sun."
+    },
+    {
+      "q": "Who rises behind Ushas as she makes way for the day?",
+      "options": ["Surya, the sun", "Varuna, the waters", "Yama, lord of death", "Vayu, the wind"],
+      "answer": 0,
+      "why": "The hymns say Ushas steps aside for Surya, whom texts call her husband or her son."
+    }
+  ],
+  "related": ["surya", "agni", "varuna", "aditi", "ashvins", "indra", "banasura"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ushas",
+    "chhath": "https://en.wikipedia.org/wiki/Chhath",
+    "indra-vs-dawn": "https://vishvasa.github.io/vedAH_Rk/shAkalam/saMhitA/meta/articles/jamison_brereton/intro/05_The_Gods/D_Indra",
+    "rigveda-1-92-10": "https://www.wisdomlib.org/hinduism/book/rig-veda-english-translation/d/doc829976.html",
+    "ashvins": "https://en.wikipedia.org/wiki/Ashvins",
+    "banasura": "https://en.wikipedia.org/wiki/Banasura",
+    "pie-mythology": "https://en.wikipedia.org/wiki/Proto-Indo-European_mythology",
+    "ame-no-uzume": "https://en.wikipedia.org/wiki/Ame-no-Uzume",
+    "disani": "https://en.wikipedia.org/wiki/Disani",
+    "zorya": "https://en.wikipedia.org/wiki/Zorya",
+    "ausrine": "https://en.wikipedia.org/wiki/Au%C5%A1rin%C4%97",
+    "eos": "https://en.wikipedia.org/wiki/Eos",
+    "ratri": "https://en.wikipedia.org/wiki/Ratri"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f8dcc4",
+    "c2": "#f7ecc9"
+  },
+  "order": 11
+}

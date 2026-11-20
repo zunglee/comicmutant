@@ -1,0 +1,260 @@
+{
+  "name": "Bhairava",
+  "aka": ["Kala Bhairava", "Dandapani", "Kshetrapala", "Bhairon", "Bhairab"],
+  "native": "भैरव",
+  "role": "Fierce guardian form of Shiva",
+  "summary": "Bhairava is a fierce guardian form of Shiva, honoured as protector of towns, temples and travellers. Shaivas, Newar communities and Vajrayana Buddhists all know him.",
+  "about": "Bhairava is a form of Shiva whose name is traced to a word for fearsome, and it can also be read as one who removes fear. In Kashmir Shaivism he is understood as the Supreme Reality. A well-known legend says that when Brahma falsely claimed to have found the top of Shiva's pillar of light, Bhairava cut off one of Brahma's heads, and the skull clung to his hand until he reached Kashi. He is shown with a dog as his companion, and many traditions treat him as the guardian of cities and sacred places, including the Shakta pithas. In Nepal the Newar people have many Bhairava temples, and Vajrayana Buddhists honour a fierce form linked with Manjushri. He is worshipped at Ujjain, Kashi and many village shrines.",
+  "kidSummary": "Bhairava is a strong guardian form of Shiva who protects towns and travellers. A dog goes with him, and his scary look is meant to keep fear away. Many cities, like Ujjain, treat him as their watchful keeper.",
+  "story": [
+    {
+      "title": "A shining pillar",
+      "text": "A legend tells of a great pillar of light, with Shiva shining within it. Brahma and Vishnu were each asked to find its ends."
+    },
+    {
+      "title": "A false claim",
+      "text": "Vishnu admitted he could not find the end, but Brahma said he had found the top, which was not true."
+    },
+    {
+      "title": "Bhairava appears",
+      "text": "The Shiva Purana says Shiva took the form of Bhairava, who humbled Brahma's pride, because Brahma had not told the truth."
+    },
+    {
+      "title": "The skull",
+      "text": "Brahma's skull remained stuck to Bhairava's hand, and he wandered from place to place with a begging bowl, seeking release."
+    },
+    {
+      "title": "Arrival in Kashi",
+      "text": "When he reached Kashi, the city of the liberated, the skull fell away, and he was free."
+    },
+    {
+      "title": "Guardian of the city",
+      "text": "In many traditions Bhairava stays on as a protector of towns and temples, watching over them with his dog."
+    }
+  ],
+  "teaches": [
+    "Honesty matters more than pride",
+    "Fear can be faced and lifted",
+    "Guarding others is a kind of care"
+  ],
+  "symbol": "flame",
+  "emblems": ["Dog (vahana)", "Skull-cup (kapala)", "Rod (danda)", "Snake ornaments"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Consort",
+      "name": "Bhairavi"
+    },
+    {
+      "relation": "Teacher of",
+      "name": "Shani",
+      "slug": "shani"
+    },
+    {
+      "relation": "Brahma's head in the legend",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": ["Shiva Purana", "Vijnana Bhairava Tantra", "Skanda Purana (Avanti Khanda)"],
+  "places": [
+    "Kal Bhairav Temple, Ujjain",
+    "Kashi (Varanasi)",
+    "Kathmandu, Nepal",
+    "Adichunchanagiri, Karnataka"
+  ],
+  "festivals": ["Bhairava Ashtami", "Kalashtami", "Newar Bhairava jatras"],
+  "facts": [
+    {
+      "text": "In the Shiva Purana, Brahma falsely claims to have found the top of Shiva's light pillar, so Shiva produces Bhairava from between his brows, and Bhairava removes Brahma's fifth head; Vishnu then pleads for mercy.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shiva as Bhairava is said to guard each Shakta pitha, and each pitha has a Bhairava temple except Kamakhya.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vijnana Bhairava Tantra gives 112 methods of meditation, taught in a dialogue between Bhairava and Bhairavi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kala Bhairava is described as the teacher and lord of Shani, the planet Saturn.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kaal means both death and time, so the name Kaal Bhairav is said to mean the one who removes the fear of both.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kaal_Bhairav_Mandir,_Varanasi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Local tradition says that after the Maratha defeat at Panipat in 1761, Mahadji Shinde restored the temple, having offered his turban to the deity.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kal_Bhairav_Temple,_Ujjain",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At the Varanasi temple he is called Kshetrapala, guardian of the territory of creation, and tradition holds that no being, not even a god, may stay in his domain without his permission. He is also named Kotwal, the guard of the Sati pind.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kaal_Bhairav_Mandir,_Varanasi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Ujjain, devotees hand a bottle of liquor to the priest, who tilts a saucer to the deity's lips; priests say the deity drinks it, and a third of the bottle comes back as prasad.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kal_Bhairav_Temple,_Ujjain",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Raga Bhairav, a Hindustani raga traditionally sung in the morning and used to open concerts, is named for him. Some musicians say it was the first raga, born from Shiva's mouth.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhairav_(raga)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Batuka Bhairava is a fierce, youthful form shown with a dog. The Rupamandana prescribes eight arms holding a club, whip, spear, drum, skull-cup and snake, with a calming hand gesture.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Batuka_Bhairava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He is also called Dandapani, 'he who holds the rod', and Shvashva, 'he whose vehicle is a dog'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhairava is worshipped across India, Nepal, Indonesia, Sri Lanka and Japan, and in Tibetan Buddhism too, so one fierce guardian form has travelled very far.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tibetan Buddhism, Vajrabhairava is one of the three central highest yoga tantra practices of the Gelug school. Tradition says his tantras were revealed to Lalitavajra in Oddiyana in the tenth century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Every traditional Newar settlement in Nepal has at least one Bhairava temple, and Newar towns hold festivals and chariot processions for him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In another version of the story, Brahma, who also had five heads, believed himself equal to Shiva. Bhairava, formed from a lock of Shiva's hair, removed one head, and Brahma's ego dissolved.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shrines to Bhairava are found within or near most Jyotirlinga temples, the twelve great Shiva shrines, so a guardian often waits beside the main sanctum.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gorat Kashmiris worship Bhairava during Shivaratri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Skanda Purana's Avanti Khanda mentions the Ujjain Kal Bhairav temple, and an obscure king named Bhadrasen is believed to have built the original shrine.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kal_Bhairav_Temple,_Ujjain",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kashmiri Shaivism's Trika system, the Absolute Reality itself is named Bhairava, and the Vijnana Bhairava Tantra belongs to this tradition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhairava is the main deity worshipped by the Aghora sect.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhairava",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal goes with Bhairava?",
+      "options": ["Dog", "Cat", "Horse", "Elephant"],
+      "answer": 0,
+      "why": "Bhairava has a dog as his companion."
+    },
+    {
+      "q": "In the legend, where did the skull leave Bhairava's hand?",
+      "options": ["Kashi", "Delhi", "Puri", "Lanka"],
+      "answer": 0,
+      "why": "The skull fell away when he reached Kashi."
+    },
+    {
+      "q": "What does Bhairava's name connect with?",
+      "options": ["Rain", "Fear", "Wealth", "Music"],
+      "answer": 1,
+      "why": "The name is traced to a word for fearsome and one who removes fear."
+    },
+    {
+      "q": "Which Indian city treats Kal Bhairav as its guardian?",
+      "options": ["Mumbai", "Ujjain", "Chennai", "Shimla"],
+      "answer": 1,
+      "why": "Kal Bhairav is Ujjain's guardian deity."
+    },
+    {
+      "q": "Which planet's teacher and lord is Kala Bhairava said to be?",
+      "options": ["Mars", "Saturn", "Venus", "The Moon"],
+      "answer": 1,
+      "why": "He is described as the guru-natha of Shani, the planet Saturn."
+    }
+  ],
+  "related": ["shiva", "kali", "brahma", "shani", "khandoba"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhairava",
+    "ujjain": "https://en.wikipedia.org/wiki/Kal_Bhairav_Temple,_Ujjain",
+    "varanasi": "https://en.wikipedia.org/wiki/Kaal_Bhairav_Mandir,_Varanasi"
+  },
+  "palette": {
+    "c1": "#c8b4d8",
+    "c2": "#e6c89a"
+  },
+  "order": 100,
+  "slug": "bhairava",
+  "tradition": "hindu",
+  "group": "deva",
+  "depth": "full"
+}

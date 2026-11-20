@@ -1,0 +1,276 @@
+{
+  "slug": "shishupala",
+  "name": "Shishupala",
+  "aka": ["Śiśupāla", "Chaidya"],
+  "native": "शिशुपाल",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "King of Chedi and cousin of Krishna in the Mahabharata",
+  "summary": "Shishupala is the king of Chedi and a cousin of Krishna in the Mahabharata. Krishna promised his aunt to forgive a hundred of his offences, and the story of the hundred and first is among the best-known tales of the epic.",
+  "about": "In the Mahabharata and the Bhagavata Purana, Shishupala is a king of the Chedi realm and a cousin of Krishna through Krishna's aunt Shrutashrava. The epic says he was born with three eyes and four arms, and a heavenly voice told his parents that the one who would end his life was the person whose touch made the extra features vanish. When Krishna held him, they did. Shishupala disliked Krishna from then on, and his hostility grew when Rukmini chose Krishna. At Yudhishthira's Rajasuya sacrifice, Krishna was given the first honour and Shishupala spoke harshly against him. The Bhagavata Purana says a light rose from Shishupala and entered Krishna, and tells that he had been Krishna's opponent in three births. Magha's Sanskrit poem Shishupala Vadha retells the story.",
+  "kidSummary": "Shishupala was a king and a cousin of Krishna. Krishna had promised his aunt, Shishupala's mother, that he would forgive a hundred of his harsh words. At a great ceremony he went past that number, and the Mahabharata tells how the story ended.",
+  "story": [
+    {
+      "title": "A baby with extra arms",
+      "text": "In the Mahabharata, a baby is born in Chedi with three eyes and four arms. A voice from the sky tells his parents the extra limbs will vanish when the right person holds him."
+    },
+    {
+      "title": "Krishna holds the baby",
+      "text": "When baby Shishupala is placed in Krishna's arms, the extra eye and arms disappear. His mother, who is Krishna's aunt, asks him to forgive her son a hundred times."
+    },
+    {
+      "title": "A big ceremony",
+      "text": "Years later, King Yudhishthira holds the Rajasuya sacrifice, and Krishna is honoured first. Shishupala stands up and says unkind things about Krishna and about Bhishma."
+    },
+    {
+      "title": "Counting the words",
+      "text": "In the tradition, Krishna keeps his promise to his aunt and forgives a hundred insults. When the hundred and first comes, the promise has run out."
+    },
+    {
+      "title": "The discus",
+      "text": "Krishna lets his discus, the Sudarshana Chakra, fly. In the Bhagavata Purana, a light rises from Shishupala and goes into Krishna."
+    }
+  ],
+  "teaches": [
+    "Keep your promises, even to those who test you",
+    "Anger and jealousy can grow without being noticed",
+    "Respect others, especially at great gatherings"
+  ],
+  "symbol": "star",
+  "emblems": [
+    "Three eyes and four arms at birth (in the epic)",
+    "Sudarshana Chakra (Krishna's discus)"
+  ],
+  "family": [
+    {
+      "relation": "Cousin",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Shrutashrava"
+    },
+    {
+      "relation": "Rival suitor of",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    },
+    {
+      "relation": "Earlier birth as Vishnu's gatekeeper",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Sabha Parva)",
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Shishupala Vadha by Magha"
+  ],
+  "places": ["Chedi kingdom", "Indraprastha"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Mahabharata he is born with three eyes and four arms, and a voice from the sky says his parents should not abandon him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The voice adds that the extra eye and arms will vanish when the person fated to end his life holds him, and that is exactly what happens when baby Krishna holds him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 8
+    },
+    {
+      "text": "His mother, who was Krishna's aunt, asked Krishna to forgive a hundred of her son's offences.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He mocked Bhishma's lifelong vow of celibacy as cowardice. Bhishma grew furious and threatened him, but Krishna calmed Bhishma down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 7
+    },
+    {
+      "text": "The Bhagavata Purana says a bright light rose from Shishupala and merged into Krishna, like a meteor falling to earth.",
+      "kind": "text",
+      "source": "https://www.vedabase.io/en/library/sb/10/74/",
+      "interest": 8
+    },
+    {
+      "text": "Narada, in Magha's poem, reminds Krishna that Shishupala is the reborn Hiranyakashipu, whom Krishna killed earlier as Narasimha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 7
+    },
+    {
+      "text": "In the poem, one verse in canto 2 can be read as either grammar or politics, and a message in canto 16 can be read as an apology or a challenge.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 7
+    },
+    {
+      "text": "Canto 19 is a puzzle-box: one stanza uses a single consonant, d, one fits a drum shape, and the last forms a six-spoked wheel whose syllables spell out the poem's title and Magha's name.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Magha is nicknamed Ghanta-Magha, or Bell-Magha, for a line comparing the setting sun and rising moon to bells on an elephant.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As Jaya, Vishnu's gatekeeper, Shishupala was born earlier as Hiranyakashipu and as Ravana, while his fellow gatekeeper Vijaya returned as Dantavakra in this last life, born into Krishna's extended family.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jaya_Vijaya",
+      "interest": 8
+    },
+    {
+      "text": "In the Sabha Parva, Krishna lists Shishupala's earlier wrongs: he burned Dvaraka while Krishna was away, seized the horse released for Krishna's father's sacrifice, and attacked King Bhoja's attendants on the Raivataka hill.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02044.htm",
+      "interest": 8
+    },
+    {
+      "text": "Krishna also names him as the man who took Akrura's wife by force and who tricked Bhadra, a princess of Visala, by posing as her intended groom, then says the hundred pardons are used up.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02044.htm",
+      "interest": 7
+    },
+    {
+      "text": "People once claimed the poem contains every word in Sanskrit. That is untrue, but it shows how rich Magha's vocabulary is.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Sanskrit saying says that reading Magha and Kalidasa's Meghaduta can use up a whole lifetime, a joke about how demanding the poem is.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One stanza reads the same forwards, backwards, up and down. It has been called the most complex and exquisite kind of palindrome ever invented.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Rukmi wanted his sister Rukmini to marry Shishupala, but she chose to leave with Krishna before the ceremony, which deepened Shishupala's hostility to Krishna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Sabha Parva says Shishupala placed himself under the protection of Magadha's emperor Jarasandha and became the generalissimo of his forces.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02014.htm",
+      "interest": 8
+    },
+    {
+      "text": "His mother Shrutashrava was a sister of Kunti, so Shishupala was a cousin of the Pandavas as well as of Krishna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shishupala's friend Shalva, beaten by the Yadus at Rukmini's wedding, vowed to wipe them out and won a flying iron city from a boon, which he later used to attack Dvaraka.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/76/",
+      "interest": 8
+    },
+    {
+      "text": "In one telling, Shishupala's insult to Bhishma was his 100th offence, which Krishna pardoned, and his next insult to Krishna was the 101st, which ended the pardons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the Rajasuya, Shishupala called Krishna a mere cowherd, unworthy to be honoured like a king.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shishupala",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many arms and eyes did baby Shishupala have, according to the Mahabharata?",
+      "options": [
+        "Two arms, one eye",
+        "Four arms, three eyes",
+        "Six arms, two eyes",
+        "Ten arms, five eyes"
+      ],
+      "answer": 1,
+      "why": "He was born with four arms and three eyes."
+    },
+    {
+      "q": "What did Krishna promise Shishupala's mother?",
+      "options": [
+        "To make him king",
+        "To forgive a hundred offences",
+        "To teach him wrestling",
+        "To visit every year"
+      ],
+      "answer": 1,
+      "why": "His mother was Krishna's aunt and asked for a hundred forgiven offences."
+    },
+    {
+      "q": "At which ceremony does Shishupala insult Krishna?",
+      "options": ["Ashvamedha", "Rajasuya", "Swayamvara", "Naming ceremony"],
+      "answer": 1,
+      "why": "Yudhishthira's Rajasuya sacrifice."
+    },
+    {
+      "q": "Which weapon does Krishna use?",
+      "options": ["Gada", "Sudarshana Chakra", "Pashupata", "Bow of Vijaya"],
+      "answer": 1,
+      "why": "He uses his discus, the Sudarshana Chakra."
+    },
+    {
+      "q": "Who wrote the poem Shishupala Vadha?",
+      "options": ["Kalidasa", "Magha", "Valmiki", "Bhasa"],
+      "answer": 1,
+      "why": "Magha composed it in the 7th or 8th century."
+    }
+  ],
+  "related": [
+    "krishna",
+    "rukmini",
+    "yudhishthira",
+    "bhishma",
+    "bhima",
+    "vishnu",
+    "hiranyakashipu",
+    "narada"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shishupala",
+    "bhagavata": "https://www.vedabase.io/en/library/sb/10/74/",
+    "poem": "https://en.wikipedia.org/wiki/Shishupala_Vadha",
+    "sabha-parva-44": "https://www.ibiblio.org/sripedia/ebooks/mb/m02/m02044.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e6d2c0",
+    "c2": "#b9c7d9"
+  },
+  "order": 500
+}

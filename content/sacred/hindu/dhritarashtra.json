@@ -1,0 +1,295 @@
+{
+  "slug": "dhritarashtra",
+  "name": "Dhritarashtra",
+  "aka": ["Dhritrashtra", "Kuru king"],
+  "native": "धृतराष्ट्र",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Blind king of Hastinapura and father of the Kauravas",
+  "summary": "Dhritarashtra is the blind king of Hastinapura in the Mahabharata and the father of Duryodhana and the other Kauravas. The epic describes him as very strong and very fond of his sons.",
+  "about": "In the Mahabharata, Dhritarashtra is the eldest son of Ambika and the sage Vyasa, while King Vichitravirya is his legal father. The epic says he was born blind because his mother shut her eyes in fright, and because of this the throne first goes to his younger brother Pandu. He marries Gandhari, who blindfolds herself for life, and has a hundred sons and a daughter. After Pandu leaves for the forest, Dhritarashtra rules, and the text shows him torn between his love for his sons and his duty to the Pandavas. Offered divine sight to watch the great war, he lets his charioteer Sanjaya see it instead and listens to Sanjaya's account, which is how the Bhagavad Gita begins. After the war, he retires to the forest with Gandhari, Kunti and Vidura. The text says Vidura died before the end, and that the king, Gandhari and Kunti died in a forest fire.",
+  "kidSummary": "Dhritarashtra is the blind king of Hastinapura in the Mahabharata. He is very strong, but he finds it hard to say no to his sons, which leads to the great war. His wise advisor Sanjaya describes the battle to him, and that is how we hear the Bhagavad Gita.",
+  "story": [
+    {
+      "title": "A king who cannot see",
+      "text": "Dhritarashtra is born blind. Because of this, his younger brother Pandu is crowned first. Later, when Pandu goes to the forest, Dhritarashtra becomes king."
+    },
+    {
+      "title": "Gandhari and a hundred sons",
+      "text": "He marries Gandhari, who covers her own eyes so that she can share his world. They have a hundred sons, led by Duryodhana, and one daughter."
+    },
+    {
+      "title": "Listening to the war",
+      "text": "When the war begins, Dhritarashtra does not take the gift of divine sight. His charioteer Sanjaya sees the battlefield and tells him all that happens."
+    },
+    {
+      "title": "The iron statue",
+      "text": "After the war, he is so angry that he crushes a statue in his arms. Krishna had placed an iron statue instead of Bhima, so Bhima is safe. Dhritarashtra then weeps and embraces the Pandavas."
+    },
+    {
+      "title": "Into the forest",
+      "text": "Years later, the old king goes to the forest with Gandhari, Kunti and Vidura, to live a quiet life of prayer."
+    }
+  ],
+  "teaches": [
+    "Listen to wise advisers",
+    "Love must not blind you to fairness",
+    "Letting go of worldly attachments in old age"
+  ],
+  "symbol": "feather",
+  "emblems": ["The silk blindfold of his wife Gandhari", "The royal court of Hastinapura"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Gandhari",
+      "slug": "gandhari"
+    },
+    {
+      "relation": "Eldest son",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Son",
+      "name": "Dushasana",
+      "slug": "dushasana"
+    },
+    {
+      "relation": "Son by a maid",
+      "name": "Yuyutsu",
+      "slug": "yuyutsu"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Pandu",
+      "slug": "pandu"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Vidura",
+      "slug": "vidura"
+    },
+    {
+      "relation": "Biological father",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Adviser and charioteer",
+      "name": "Sanjaya",
+      "slug": "sanjaya"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva, Bhishma Parva, Ashramavasika Parva)",
+    "Bhagavad Gita (opening)",
+    "Kathaka Samhita (a king of the same name)"
+  ],
+  "places": ["Hastinapura", "Kurukshetra", "The Himalayan forest"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "A Kuru king named Dhritarashtra Vaicitravirya, a son of Vichitravirya, already appears in the Kathaka Samhita of the Yajurveda, dated to roughly 1200-900 BCE. Scholars stress that this Vedic mention does not confirm the epic's account of his reign.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8
+    },
+    {
+      "text": "In the Kathaka Samhita, this king refused to admit the vratya ascetics into his lands, and they used rituals to destroy his cattle. They were led by Vaka Dalbhi of Panchala.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 7
+    },
+    {
+      "text": "The epic says Vyasa gave him a boon of enormous strength, said to equal one hundred thousand elephants, so that he could crush iron with his bare hands.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Udyoga Parva, a restless Dhritarashtra calls on the wise Vidura for counsel. Their talk, the Vidura Niti (chapters 33 to 40), gives advice on ruling fairly and staying calm. The sub-book's name, Prajagara, refers to wakefulness.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Udyoga_Parva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Sanjaya described the war to the blind king, he also gave a long account of the earth, listing hundreds of kingdoms, tribes, cities, rivers, mountains and forests of ancient India, and explained the battle formations each side used every day.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the dice game Dhritarashtra and Vidura warned Duryodhana off. Duryodhana threatened to end his own life, and the king gave way and let the game go ahead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Duryodhana",
+      "interest": 7
+    },
+    {
+      "text": "Offered divine sight by Vyasa so he could watch the war, Dhritarashtra said no and chose to hear about it from Sanjaya instead, because he could not bear to watch his kin die.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Krishna showed his cosmic form to Arjuna, Dhritarashtra regretted that he did not have divine sight himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavad Gita opens with Dhritarashtra asking Sanjaya what happened on the battlefield, which is how the Gita is reported to us.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 7
+    },
+    {
+      "text": "Yuyutsu, his son by a maid, changed sides to the Pandavas before the battle began, and he is the only son of Dhritarashtra to survive the war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the war, Dhritarashtra crushed an iron statue of Bhima that Krishna had placed in Bhima's place, then wept and hugged the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Fifteen years after the war the grieving king went to the forest with Gandhari, Kunti and Vidura. Vidura died earlier; the others died in a forest fire. Many retellings say liberation, while the Svargarohana Parva names Kuberaloka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Duryodhana's birth ill omens appeared, and sages and priests advised Dhritarashtra and Gandhari to abandon the baby. They refused, raised him as a prince, and believed he would make a great heir.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yudhishthira was older than Duryodhana, so many saw him as the rightful heir. Dhritarashtra favoured his own son, but under pressure from the Brahmins, Vidura and Bhishma he reluctantly named Yudhishthira.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the lac house, Dhritarashtra named Duryodhana heir. When the Pandavas proved alive, he took Bhishma's advice and split the kingdom: Hastinapura for Duryodhana, Khandavaprastha for Yudhishthira.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the dice hall Dhritarashtra stepped in only after Gandhari advised him, when Draupadi was about to curse the Kuru line. The text notes that Vidura and Vikarna objected earlier, and that the king could have spoken sooner.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dhritarashtra felt sure Bhishma, Drona, Karna and other great warriors would bring his side victory, and he rejoiced whenever the tide turned against the Pandavas. The war's outcome then devastated him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhritarashtra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before the conches sounded, Yudhishthira announced that anyone could change sides. Yuyutsu, Dhritarashtra's son by a maid, crossed over to the Pandavas and became the only son of the king to live through the war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuyutsu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sanjaya was a disciple of Vyasa who served Dhritarashtra as adviser and charioteer. Before the war he also went to Yudhishthira as the Kauravas' envoy, to negotiate on their behalf.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Sanjaya article stresses that divine vision differs from inner sight. Sanjaya did not just picture events in his mind; he saw the battlefield as if present and heard its sounds with his own ears.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sanjaya",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Why was Dhritarashtra born blind, according to the epic?",
+      "options": [
+        "A curse by a sage",
+        "His mother closed her eyes in fright",
+        "He was hurt in a fall",
+        "A boon from Shiva"
+      ],
+      "answer": 1,
+      "why": "Ambika shut her eyes in fear when meeting Vyasa."
+    },
+    {
+      "q": "Who told Dhritarashtra what happened in the war?",
+      "options": ["Vidura", "Bhishma", "Sanjaya", "Drona"],
+      "answer": 2,
+      "why": "Sanjaya had divine sight and described the war."
+    },
+    {
+      "q": "What did Dhritarashtra crush in anger after the war?",
+      "options": ["A pillar", "A statue of Bhima", "A throne", "A bow"],
+      "answer": 1,
+      "why": "Krishna had swapped in an iron statue, so Bhima was safe."
+    },
+    {
+      "q": "Which of his sons joined the Pandavas?",
+      "options": ["Dushasana", "Vikarna", "Yuyutsu", "Duryodhana"],
+      "answer": 2,
+      "why": "Yuyutsu crossed over before the war began."
+    },
+    {
+      "q": "How does the Bhagavad Gita begin?",
+      "options": [
+        "Krishna speaks to Arjuna",
+        "Dhritarashtra asks Sanjaya a question",
+        "Vyasa greets the sages",
+        "Bhishma blows a conch"
+      ],
+      "answer": 1,
+      "why": "The first verse is the king's question about the battlefield."
+    }
+  ],
+  "related": [
+    "gandhari",
+    "duryodhana",
+    "dushasana",
+    "pandu",
+    "vidura",
+    "sanjaya",
+    "yuyutsu",
+    "vyasa",
+    "shakuni",
+    "bhishma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhritarashtra",
+    "sanjaya": "https://en.wikipedia.org/wiki/Sanjaya",
+    "yuyutsu": "https://en.wikipedia.org/wiki/Yuyutsu",
+    "kauravas": "https://en.wikipedia.org/wiki/Kauravas",
+    "gandhari": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#D9D6EA",
+    "c2": "#E8E0CC"
+  },
+  "order": 19
+}

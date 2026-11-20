@@ -1,0 +1,277 @@
+{
+  "slug": "balarama",
+  "name": "Balarama",
+  "aka": ["Baladeva", "Balabhadra", "Haladhara", "Halayudha", "Sankarshana"],
+  "native": "बलराम",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "Elder brother of Krishna, linked with the serpent Shesha",
+  "summary": "Balarama is the elder brother of Krishna, known for his plough and mace. Many Puranas describe him as an incarnation of the serpent Shesha, and some lists place him among Vishnu's ten avatars.",
+  "about": "Balarama is the strong, calm elder brother of Krishna in the Mahabharata, Harivamsa and Bhagavata Purana. He carries a plough, which gives him the names Haladhara and Halayudha, and a mace, and he is often shown with fair skin. Most Vaishnava texts call him an incarnation of Shesha, the serpent on whom Vishnu rests. In several lists of the ten avatars he is the eighth or ninth, though other lists leave him out and name the Buddha instead. He is also honoured as Balabhadra in the Jagannath triad of Puri, and farmers have long seen him as their patron. Jain tradition counts him as the ninth Baladeva. He first appears in history as Samkarshana, a Vrishni hero worshipped around Mathura.",
+  "kidSummary": "Balarama is Krishna's big brother in the Hindu stories. He is very strong and carries a plough, so farmers honour him. He teaches mace fighting, keeps out of the great war and loves his family. In Puri he is honoured with his brother and sister in the Rath Yatra.",
+  "story": [
+    {
+      "title": "A secret journey",
+      "text": "In the Puranas, the evil King Kamsa wants to harm Devaki's babies. Balarama's embryo is moved to Rohini's womb, so he is born safely in Gokula."
+    },
+    {
+      "title": "Brothers together",
+      "text": "He grows up beside Krishna among the cowherds. He is gentle at home but strong enough to defeat asuras such as Dhenuka and Pralamba, sent by Kamsa."
+    },
+    {
+      "title": "A plough for rivers",
+      "text": "In the Bhagavata Purana, Balarama uses his plough to pull the Yamuna river closer to Vrindavan when he wants to bathe."
+    },
+    {
+      "title": "School in Ujjain",
+      "text": "Balarama and Krishna study together under the sage Sandipani at Ujjain. Balarama also becomes a master of mace fighting."
+    },
+    {
+      "title": "Staying out of the war",
+      "text": "When the Kurukshetra war comes, he chooses neither side. He travels on a pilgrimage and returns only at the end, when he is angry at a foul blow struck in a duel."
+    }
+  ],
+  "teaches": [
+    "Strength should be used with care",
+    "Honest work on the land is honourable",
+    "Love and loyalty to family",
+    "Stay fair when sides are chosen"
+  ],
+  "symbol": "mace",
+  "emblems": ["Plough (hala)", "Mace", "Blue garments", "Palm-tree banner"],
+  "family": [
+    {
+      "relation": "Younger brother",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Rohini"
+    },
+    {
+      "relation": "Father",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Wife",
+      "name": "Revati"
+    },
+    {
+      "relation": "Sister",
+      "name": "Subhadra",
+      "slug": "subhadra"
+    }
+  ],
+  "texts": ["Mahabharata", "Harivamsa", "Bhagavata Purana", "Vishnu Purana", "Gita Govinda"],
+  "places": [
+    "Puri, Odisha (as Balabhadra)",
+    "Mathura and Vrindavan",
+    "Somnath, Gujarat",
+    "Hathras, Uttar Pradesh (Dauji temple)"
+  ],
+  "festivals": ["Rath Yatra", "Balarama Jayanti"],
+  "facts": [
+    {
+      "text": "Haladhara and Halayudha both mean plough-bearer, from hala, the plough. Baladeva and Balabhadra both mean strong, and Sankarshana means one who was drawn away.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu Purana names two sons of Balarama, Nishatha and Ulmuka, so the strong plough-bearer was a father as well as an elder brother.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "In some traditions Balarama is said to have been born on Shravana Purnima, a full moon day that coincides with Raksha Bandhan, the festival of brothers and sisters.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jayadeva's Gita Govinda, from around 1200, makes Balarama the ninth of Vishnu's ten avatars, while Sri Vaishnava lists such as the 17th-century Yatindramatadipika put him eighth, with Krishna ninth and the Buddha left out.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dashavatara",
+      "interest": 7
+    },
+    {
+      "text": "At the Puri Rath Yatra, Balabhadra rides the Taladhwaja, a 14-wheeled chariot whose flag carries a palm-tree emblem, the same palm banner linked with him in art.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ratha_Yatra_(Puri)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "About two thousand years ago, a temple near Mathura held stone images of five Vrishni heroes, a group that texts say included Samkarshana, the name for Balarama. A Mora well inscription dated to roughly 10 to 25 CE records it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "Kautilya's Arthashastra, written between the 4th and 2nd century BCE, mentions Balarama, and describes his followers as ascetics with shaved heads or braided hair.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "Coins of the Indo-Greek king Agathocles show Samkarshana with a Greek legend. His figure on a Chilas inscription is shown taller than Krishna's.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 8
+    },
+    {
+      "text": "In the Puranic tale, Revati's father Kakudmi waited at Brahma's court through a song, and the 28th age had arrived by the time they left. Balarama tapped the tall Revati with his plough and she shrank to normal height; Kushasthali had become Dvaraka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kakudmi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Images of Balarama have been found at Buddhist stupa sites near Sanchi in central India, at Andher, Mehgaon and Chandna, dated to around the start of the common era.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "The earliest known Southeast Asian art linked to Balarama comes from Phnom Da in Cambodia, and he appears as Baladewa in an 11th-century Javanese poem on the Mahabharata war.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "In the Bhagavata Purana he is said to have used his plough to drag the whole city of Hastinapura toward the Ganga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Harivamsa, a donkey-shaped asura named Dhenuka guards a palm grove by the Yamuna. Balarama grabs him by the legs and swings him against the trees, making the grove safe for the cowherds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhenuka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Balarama taught mace fighting to both Duryodhana and Bhima, so he owed duties to both sides and stayed neutral. One account says he threatened to kill Bhima for the foul thigh blow, until Krishna recalled Bhima's vow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 8
+    },
+    {
+      "text": "In a Bhagavata Purana tale, the Kalinga king and Rukmi cheated against Balarama in a dice game, and when a heavenly voice sided with him they still refused. Balarama struck Rukmi down with his club.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmi",
+      "interest": 8
+    },
+    {
+      "text": "Some scriptures say a white snake left Balarama's mouth when he departed, linking him with Shesha. People in Veraval, near Somnath, believe it entered a cave and returned to Patala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Jagannath triad at Puri, Balabhadra's image has a white face and almond-shaped eyes, Jagannath's is dark and Subhadra's yellow.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana version, Balarama picked Duryodhana as Subhadra's groom without asking her. Arjuna carried her off with Krishna as his charioteer, and Balarama later agreed and held the wedding at Dvaraka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Jain tradition, every age has a Vasudeva with an elder brother called a Baladeva. Balarama is the ninth Baladeva, the brother who upholds non-violence beside Krishna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Balarama",
+      "interest": 7
+    },
+    {
+      "text": "When the ape asura Dvivida seized Balarama's plough and mimicked him in a garden, Balarama crushed a thrown boulder with his club and struck Dvivida down with his fist.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dvivida",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which tool does Balarama carry that earned him the name Haladhara?",
+      "options": ["Bow", "Plough", "Flute", "Discus"],
+      "answer": 1,
+      "why": "Hala means plough, so Haladhara means plough-bearer."
+    },
+    {
+      "q": "Which serpent is Balarama said to be an incarnation of?",
+      "options": ["Vasuki", "Kaliya", "Shesha", "Takshaka"],
+      "answer": 2,
+      "why": "Many Vaishnava texts say he is an incarnation of Shesha."
+    },
+    {
+      "q": "Which festival features Balabhadra in a grand chariot procession?",
+      "options": [
+        "Rath Yatra at Puri",
+        "Kumbh Mela",
+        "Ganesh Chaturthi immersion",
+        "Thrissur Pooram"
+      ],
+      "answer": 0,
+      "why": "At Puri he travels with Jagannath and Subhadra in the Rath Yatra."
+    },
+    {
+      "q": "What did Balarama do during the Kurukshetra war?",
+      "options": [
+        "Fought for the Pandavas",
+        "Fought for the Kauravas",
+        "Stayed neutral and went on a pilgrimage",
+        "Led the army of Dwarka"
+      ],
+      "answer": 2,
+      "why": "He taught both sides and chose not to fight, returning only at the end."
+    },
+    {
+      "q": "What happened when Balarama tapped his bride Revati with his plough?",
+      "options": [
+        "She turned to stone",
+        "She shrank to the height of people of his age",
+        "She flew into the sky",
+        "She became a river"
+      ],
+      "answer": 1,
+      "why": "Revati came from an earlier, taller age, and the tap brought her down to normal height."
+    }
+  ],
+  "related": [
+    "krishna",
+    "vishnu",
+    "shesha",
+    "jagannath",
+    "bhima",
+    "duryodhana",
+    "subhadra",
+    "vasudeva",
+    "sandipani",
+    "kamsa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Balarama",
+    "dashavatara": "https://en.wikipedia.org/wiki/Dashavatara",
+    "jagannath": "https://en.wikipedia.org/wiki/Jagannath"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e4e0cc",
+    "c2": "#c5dbd0"
+  },
+  "order": 8
+}

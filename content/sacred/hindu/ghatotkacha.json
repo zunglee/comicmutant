@@ -1,0 +1,264 @@
+{
+  "slug": "ghatotkacha",
+  "name": "Ghatotkacha",
+  "aka": ["Ghatotkach", "Gatotkaca", "Gatotkoco"],
+  "native": "घटोत्कच",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Mighty son of Bhima and Hidimbi, a rakshasa warrior of the Pandava side",
+  "summary": "In the Mahabharata, Ghatotkacha is the son of Bhima and the rakshasi Hidimbi, a flying warrior who grows stronger at night and gives the Pandavas great help in the war.",
+  "about": "In the Mahabharata, Ghatotkacha is the son of Bhima and Hidimbi, born in the forest after the Pandavas escaped the house of lac. His mother is a rakshasi, and the epic says he grows to full strength almost at once. He promises Bhima that he will come whenever he is thought of. During the exile he flies Draupadi to Badrikashrama on his shoulders while his rakshasa companions carry the Pandava brothers, and in the war he leads an akshauhini of troops for them. He is said to be strongest at night and fights fiercely on the fourteenth day. Karna finally uses a single-use divine spear on him, one that he had saved for Arjuna. Folk traditions add a wife, Ahilawati, and a son Barbarika. In Java and Bali, he appears as Gatotkaca, a flying hero of the wayang shadow theatre, and a Himachal shrine near his mother's temple is dedicated to him.",
+  "kidSummary": "Ghatotkacha is Bhima's giant, flying son in the Mahabharata. He is loyal to his father and his uncles, and arrives whenever Bhima thinks of him. In Indonesia, he is a much-loved hero of shadow puppet plays, called Gatotkaca.",
+  "story": [
+    {
+      "title": "A son of the forest",
+      "text": "In the Mahabharata, Bhima marries the rakshasi Hidimbi in the forest. Their son Ghatotkacha is born, and he grows up almost at once to be big and strong."
+    },
+    {
+      "title": "Helping the family",
+      "text": "During the Pandavas' exile, Ghatotkacha flies Draupadi on his shoulders to Badrikashrama while his rakshasa companions carry her husbands. He tells Bhima to think of him whenever he is needed."
+    },
+    {
+      "title": "The night battle",
+      "text": "In the war, he leads a big army for the Pandavas. The epic says he and other rakshasas are strongest at night, so he fights hard on the fourteenth night."
+    },
+    {
+      "title": "Karna's single spear",
+      "text": "Karna uses a divine spear he had saved for Arjuna, and it can be used only once. It strikes Ghatotkacha, who grows huge as he falls and crushes part of the Kaurava army."
+    },
+    {
+      "title": "Gatotkaca in Java",
+      "text": "In Indonesian wayang plays, he is called Gatotkaca, a flying hero with iron bones and wire-like muscles who is loved by children and grown-ups alike."
+    }
+  ],
+  "teaches": ["Loyalty to family", "Using strength to help others", "Showing up when needed"],
+  "symbol": "mace",
+  "emblems": ["Mace", "Flight", "Kotang Antrakusuma armour (wayang)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Bhima",
+      "slug": "bhima"
+    },
+    {
+      "relation": "Mother",
+      "name": "Hidimbi",
+      "slug": "hidimbi"
+    },
+    {
+      "relation": "Cousin",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    },
+    {
+      "relation": "Son in some folklore",
+      "name": "Barbarika",
+      "slug": "barbarika"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Karna",
+      "slug": "karna"
+    },
+    {
+      "relation": "Uncle",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Mahabharata", "Kakawin Bharatayuddha", "Javanese wayang"],
+  "places": ["Badrikashrama", "Kurukshetra", "Champawat, Uttarakhand", "Dieng, Central Java"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name joins ghata, a pot, with utkacha, head, and is said to describe a bald head shaped like a pot.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Indra gave Ghatotkacha enough prowess to be a match for Karna. Karna later used Indra's single-use spear, the Vasavi Shakti, which he had saved for Arjuna, to bring him down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "During the exile, Ghatotkacha flew Draupadi to Badrikashrama on his own shoulders, while his rakshasa companions carried the Pandava brothers through the air.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the first day of the war, the Kauravas are said to have held off fighting for a while because they feared his attack.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "On day fourteen, after Ashwatthama killed his son Anjanaparva, Ghatotkacha unleashed illusions so fierce that even Drona, Duryodhana, Karna and Dushasana fled.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8
+    },
+    {
+      "text": "On day fourteen, Ashwatthama saw through Ghatotkacha's illusions and knocked him senseless, yet he rose and fought a long duel with magic and divine weapons before pulling back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "As he fell, he made his body huge and crushed a whole akshauhini of the Kaurava army beneath it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The epic says Krishna smiled at his death, because the spear Karna had spent could no longer be used against Arjuna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "A temple at Champawat in Uttarakhand is said by local tradition to mark the spot where his head fell.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8
+    },
+    {
+      "text": "A temple in the Dieng complex in Central Java, from around the seventh century, is named Candi Gatutkaca after him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "In Javanese wayang, he is Gatotkoco, nicknamed the warrior of wire muscles and iron bones.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Javanese version, his armour Kotang Antrakusuma glows brightly, so he is picked for a night attack to light up the Kaurava army.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In wayang he makes as many as a thousand copies of himself to confuse Karna.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "People in Java and Bali revere him as a deity, and a statue, the Satria Gatotkaca Park Statue, stands in Kuta, Bali.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "He is the hero of the 2022 Indonesian film Satria Dewa: Gatotkaca, the first film of a planned series of superheroes drawn from wayang tales of the Mahabharata.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Satria_Dewa_Universe",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The folktale Sasirekha Parinayam, in which Ghatotkacha helps Abhimanyu, has been filmed many times, from silent films by Baburao Painter in the 1920s to the Telugu classic Mayabazar in 1957.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "Near the Hidimba Devi Temple in Manali there is a shrine to Ghatotkacha, about seventy metres from his mother's temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Javanese Gatotkaca appears in the Indonesian comic series Garudayana, and as a playable character in the game Mobile Legends: Bang Bang.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "In the Javanese telling, Ghatotkacha accidentally killed his uncle Kalabendana with an angry blow. That uncle's spirit later returned to tell him his death was set for that night, and struck him with Karna's spear.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8
+    },
+    {
+      "text": "Javanese Bharatayuddha plays draw on the Kakawin Bharatayuddha, a poem written in 1157 in the Kediri Kingdom of East Java.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Besides Mayabazar, Indian cinema has made Veer Ghatotkacha (1949), the Tamil Veer Ghatotkajan (1959), the comedy Ghatotkachudu (1995) and two animated films in 2008.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who are Ghatotkacha's parents in the Mahabharata?",
+      "options": [
+        "Arjuna and Subhadra",
+        "Bhima and Hidimbi",
+        "Karna and Kunti",
+        "Yudhishthira and Draupadi"
+      ],
+      "answer": 1,
+      "why": "Bhima and the rakshasi Hidimbi are his parents."
+    },
+    {
+      "q": "How is Ghatotkacha said to have helped the Pandavas during their exile?",
+      "options": [
+        "He built them a palace",
+        "He cooked their food",
+        "He guarded their cows",
+        "He flew them through the air"
+      ],
+      "answer": 3,
+      "why": "He carried Draupadi and the brothers to Badrikashrama through the sky."
+    },
+    {
+      "q": "In Javanese wayang, what famous nickname does Gatotkoco have?",
+      "options": [
+        "Warrior of wire muscles and iron bones",
+        "Warrior of silk robes and glass bones",
+        "King of the golden bow",
+        "Lord of the river"
+      ],
+      "answer": 0,
+      "why": "He is called the warrior of wire muscles and iron bones."
+    },
+    {
+      "q": "Which weapon did Karna use on him that could be used only once?",
+      "options": ["Brahmastra", "Vasavi Shakti", "Sudarshana", "Pashupata"],
+      "answer": 1,
+      "why": "The Vasavi Shakti, which Karna had saved for Arjuna, was used on Ghatotkacha."
+    }
+  ],
+  "related": ["bhima", "hidimbi", "abhimanyu", "karna", "arjuna", "barbarika"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ghatotkacha",
+    "hidimbi": "https://en.wikipedia.org/wiki/Hidimbi",
+    "hidimba-temple": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+    "wayang": "https://en.wikipedia.org/wiki/Ghatotkacha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#a9c7d9",
+    "c2": "#d6c3a0"
+  },
+  "order": 24
+}

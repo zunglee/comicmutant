@@ -1,0 +1,311 @@
+{
+  "slug": "navagraha",
+  "name": "Navagraha",
+  "aka": ["Nine planets", "Nine grahas"],
+  "native": "नवग्रह",
+  "role": "The nine planetary deities of Hindu tradition",
+  "summary": "The Navagraha are nine heavenly bodies worshipped as deities in Hinduism: the Sun, Moon, Mars, Mercury, Jupiter, Venus, Saturn and the two lunar nodes Rahu and Ketu. Hindu astrology says they shape human life.",
+  "about": "Navagraha means nine grahas, a word often translated as planets or seizers. Hindu tradition counts the Sun, Moon, Mars, Mercury, Jupiter, Venus and Saturn, plus the shadow bodies Rahu and Ketu, which mark the Moon's nodes and are linked to eclipses. The Vedas speak of the Sun, Moon and stars, but the fixed group of nine, with images and weekday names, took shape in the early centuries CE with influence from Hellenistic astrology and Babylonian astronomy. Puranas tell stories about several of them. Most Hindu temples have a Navagraha shrine, and in Tamil Nadu a circuit of nine temples near Kumbakonam is famous. Jyotisha, Hindu astrology, uses the nine to read time and fortune.",
+  "kidSummary": "Navagraha are the nine heavenly bodies that Hindus honour: the Sun, the Moon, five planets and two shadow bodies, Rahu and Ketu. They give us the names of the days of the week. Many temples have a corner where all nine stand together.",
+  "story": [
+    {
+      "title": "Nine in a row",
+      "text": "In many South Indian temples, the nine grahas stand in a line facing the main shrine, and devotees walk around them offering a prayer for each. Other shrines place the Sun in the centre of a square with the eight others around him."
+    },
+    {
+      "title": "The sage who was cured",
+      "text": "A Tamil temple legend says the sage Kalava was cured of an illness after praying to the nine planets. Brahma cursed the planets for it, and Shiva then told them to bless devotees from Suryanar Kovil."
+    },
+    {
+      "title": "A sneaky sip",
+      "text": "In the churning of the ocean, the asura Svarbhanu hid among the devas and sipped the nectar. The Sun and Moon noticed, and Vishnu as Mohini cut him in two. In this story the head became Rahu and the body Ketu."
+    },
+    {
+      "title": "Nine temples, nine planets",
+      "text": "Near Kumbakonam in Tamil Nadu, nine old temples each honour one graha, in nine different villages. Pilgrims visit them one after another, so each planet gets its own visit."
+    },
+    {
+      "title": "Songs for the nine",
+      "text": "In the 1700s and 1800s the composer Muthuswami Dikshitar wrote nine songs, one for each graha, which musicians still perform."
+    }
+  ],
+  "teaches": [
+    "Time and the sky are woven into daily life",
+    "Be thoughtful and balanced when luck changes",
+    "Gratitude to the Sun and Moon, who give us light"
+  ],
+  "symbol": "star",
+  "emblems": [
+    "Nine gems",
+    "Seven-horse chariot (Surya)",
+    "Row of nine shrines",
+    "Mandapa with Surya at centre"
+  ],
+  "family": [
+    {
+      "relation": "Father of Shani",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "The Moon",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Linked to Jupiter",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    },
+    {
+      "relation": "Linked to Venus",
+      "name": "Shukracharya",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Saturn",
+      "name": "Shani",
+      "slug": "shani"
+    },
+    {
+      "relation": "The lunar nodes",
+      "name": "Rahu and Ketu",
+      "slug": "rahu-and-ketu"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Atharvaveda",
+    "Chandogya Upanishad",
+    "Mahabharata",
+    "Yavanajataka",
+    "Markandeya Purana",
+    "Vishnu Purana"
+  ],
+  "places": [
+    "Navagraha temples near Kumbakonam",
+    "Suryanar Kovil",
+    "Thirunallar",
+    "Navagraha mandapa in temples"
+  ],
+  "festivals": ["Graha Shanti rituals"],
+  "quiz": [
+    {
+      "q": "Which graha gives its name to Saturday?",
+      "options": ["Shani", "Surya", "Chandra", "Budha"],
+      "answer": 0,
+      "why": "Saturday belongs to Shani, Saturn."
+    },
+    {
+      "q": "Which two grahas are shadow bodies linked to eclipses?",
+      "options": ["Rahu and Ketu", "Mars and Venus", "Sun and Moon", "Jupiter and Saturn"],
+      "answer": 0,
+      "why": "Rahu and Ketu are the lunar nodes."
+    },
+    {
+      "q": "In a Navagraha mandapa, which graha stands at the centre?",
+      "options": ["The Moon", "Saturn", "The Sun", "Venus"],
+      "answer": 2,
+      "why": "Surya stands at the centre, and the other eight are set in the compass directions with no two facing each other."
+    },
+    {
+      "q": "Which gem goes with the Sun, in the Navagraha scheme?",
+      "options": ["Ruby", "Pearl", "Emerald", "Diamond"],
+      "answer": 0,
+      "why": "Ruby is the gem of Surya; pearl goes with the Moon."
+    }
+  ],
+  "related": ["surya", "chandra", "shani", "brihaspati", "shukracharya", "rahu-and-ketu", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Navagraha",
+    "temples": "https://en.wikipedia.org/wiki/Navagraha_temples",
+    "churning": "https://en.wikipedia.org/wiki/Churning_of_the_ocean_of_milk",
+    "surya": "https://en.wikipedia.org/wiki/Surya",
+    "shani": "https://en.wikipedia.org/wiki/Shani",
+    "vahana": "https://en.wikipedia.org/wiki/Vahana",
+    "budha": "https://en.wikipedia.org/wiki/Budha",
+    "brihaspati": "https://en.wikipedia.org/wiki/Brihaspati",
+    "shukra": "https://en.wikipedia.org/wiki/Shukra",
+    "mangala": "https://en.wikipedia.org/wiki/Mangala",
+    "chandra": "https://en.wikipedia.org/wiki/Chandra",
+    "rahu": "https://en.wikipedia.org/wiki/Rahu"
+  },
+  "palette": {
+    "c1": "#f5e8c8",
+    "c2": "#d3c9e8"
+  },
+  "order": 40,
+  "facts": [
+    {
+      "text": "The word navagraha joins nava, nine, with graha, which means seizing or grasping, so the nine are the seizers that influence life.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The seven weekdays match the seven classical planets, and most languages of the Indian subcontinent name days after them.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The seven-day week was adopted in India after the 3rd century CE. It came from Babylonian roots spread through the Hellenistic world.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hindu astrology says Rahu and Ketu always sit exactly opposite each other and circle in about 18 years, close to the 18.6-year turn of the Moon's real orbital nodes, the points where eclipses can happen.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Mohini story says Svarbhanu sipped nectar, Surya and Chandra noticed, and Mohini cut him with her discus. His head became Rahu and his body Ketu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Churning_of_the_ocean_of_milk",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vaishnava account, Mangala, the planet Mars, is the son of Vishnu and the Earth goddess Bhumi, born after Vishnu lifted her out of the cosmic waters as the boar Varaha. His names Kuja and Bhauma both mean son of the Earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mangala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Surya rides a chariot drawn by seven horses and is shown wearing northern-style boots and armour.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rahu is shown as a severed head on a chariot or lion, while Ketu is shown as a headless body with a serpent tail.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a Navagraha mandapa, Surya stands at the centre and the other eight are set in the compass directions, with no two facing each other.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Navagraha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Budha, Mercury, is the son of the Moon and Tara, whom the Moon carried off from her husband Brihaspati. This led to the Tarakamaya war, and Budha later married Ila and became the father of King Pururavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Budha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shukra, the guru of the asuras, is said to have won the Sanjivani knowledge from Shiva, a skill that could bring the dead back to life, which he used to revive fallen asuras until the devas also learned it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Vamana asked the asura king Mahabali for three steps of land, Shukra guessed who Vamana really was and blocked the water spout of the pouring pot. Vamana poked a stick through the spout and blinded Shukra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Brihaspati, Jupiter, is the guru of all the devas and gives Thursday its Sanskrit name, Brihaspativara. In the Rigveda he carries a bow whose string is rta, the order of the cosmos.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Moon, Chandra, is traditionally married to the 27 daughters of the sage Daksha, who stand for the 27 lunar mansions, the nakshatras, that the Moon passes through during a month.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shani is said to be a great devotee of Krishna. Once, while he was absorbed in worship, he ignored his wife, a daughter of the gandharva king Chitraratha, and she cursed him so that anyone he looks at suffers hardship.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Yavanajataka, whose name means nativity according to the Greeks, is an early Sanskrit astrology text. Scholar David Pingree dated its verse form to 269 CE, though the date remains disputed, with proposals from after 22 CE to the early 7th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yavanajataka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Surya Siddhanta, a Sanskrit astronomy text, was judged by the scholar Whitney to get the revolutions of Mercury, Venus and Mars right to within a few minutes, though Saturn was off by days.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Surya_Siddhanta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In a legend about the Moon's phases, Ganesha was thrown off his mount and the Moon laughed. Ganesha snapped off a tusk, hurled it, and cursed the Moon never to stay whole, so some people avoid looking at the Moon on Ganesh Chaturthi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Shaiva account, three drops of sweat fell from Shiva's forehead while he meditated on Kailash and became a red child with four arms. Mother Earth raised him and he was named Bhauma, the planet Mars.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mangala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shani is usually shown riding a large crow or vulture, but some texts give him a horse, snake or buffalo, and Buddhist texts from north-east India and Nepal show him riding a tortoise.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Near Kumbakonam in Tamil Nadu, nine Chola-era temples each honour one graha, so pilgrims can visit all nine planets in one circuit. Each lies in a different village.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Navagraha_temples",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Suryanar Kovil, built around the 11th or 12th century, is the only one of the nine Tamil temples with a graha as its main deity. The other eight are Shiva temples with a chapel for a planet.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Navagraha_temples",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In southern Tamil Nadu, the nine Nava Tirupati temples to Vishnu and the nine Nava Kailasam temples to Shiva are each linked with one graha, though the planets are not the main deities there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Navagraha_temples",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kilimarathukavu Navagraha temple in Kerala is built in an elliptical shape, said to be like a galaxy, unlike the usual square plan.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Navagraha_temples",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

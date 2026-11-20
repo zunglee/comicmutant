@@ -1,0 +1,271 @@
+{
+  "name": "Satyaki",
+  "aka": ["Yuyudhana"],
+  "native": "सात्यकि",
+  "role": "Vrishni warrior, friend of Krishna",
+  "summary": "Satyaki, also called Yuyudhana, is a brave Vrishni warrior in the Mahabharata. A devoted friend of Krishna, he fought for the Pandavas and was a pupil of Arjuna.",
+  "about": "In the Mahabharata, Satyaki belongs to the Vrishni clan of the Yadavas, as Krishna does, and is also called Yuyudhana. He trained under Arjuna and was devoted to Krishna. When Krishna offered Arjuna and Duryodhana a choice between himself and his army, the army went to Duryodhana, but Satyaki joined the Pandavas. He fought Drona on the 14th day, was dragged across the field by Bhurishravas and then beheaded him after Arjuna cut off the arm. The epic shows people on both sides criticising that act. Thirty-six years after the war, a quarrel among the Yadavas at Prabhasa, in which he killed Kritavarma, led to the destruction of the clan, in which Satyaki also died.",
+  "kidSummary": "Satyaki was a brave Yadava warrior and a close friend of Krishna. He learned archery from Arjuna and fought beside the Pandavas in the great war. He is remembered for protecting others and for staying loyal to his friends, even in very hard times.",
+  "story": [
+    {
+      "title": "A friend of Krishna",
+      "text": "Satyaki grows up in the Vrishni family, like Krishna. He studies archery under Arjuna and becomes one of the finest bowmen."
+    },
+    {
+      "title": "Choosing a side",
+      "text": "Before the war, Krishna's army goes to Duryodhana, and Satyaki joins the Pandavas with troops from the Vrishnis."
+    },
+    {
+      "title": "Protecting Yudhishthira",
+      "text": "On the 14th day, Arjuna is far away. Satyaki holds back the teacher Drona and uses Arjuna's lessons to defend the king."
+    },
+    {
+      "title": "A hard moment",
+      "text": "A warrior named Bhurishravas drags Satyaki, until Arjuna's arrow cuts off his arm. Satyaki then ends the fight in a way many people criticised."
+    },
+    {
+      "title": "The last quarrel",
+      "text": "Years later, the Yadavas gather at Prabhasa, and a quarrel breaks out. The Mausala Parva says it brought the end of Krishna's clan."
+    }
+  ],
+  "teaches": ["Loyalty to friends", "Courage on behalf of others", "Anger can lead to regret"],
+  "symbol": "bow",
+  "emblems": ["Bow", "Chariot"],
+  "family": [
+    {
+      "relation": "Friend and kinsman",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Fought",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Clan elder",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Fellow Yadava",
+      "name": "Pradyumna",
+      "slug": "pradyumna"
+    }
+  ],
+  "texts": ["Mahabharata (Drona Parva)", "Mahabharata (Mausala Parva)", "Puranas"],
+  "places": ["Kurukshetra", "Dvaraka", "Prabhasa"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Satyaki is also remembered in Ayurvedic writing. Later authors such as Dalhana and Chakrapani cite a Satyaki as an expert in surgery and in diseases of the eye, ear, nose and throat.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Satyaki led one akshauhini, a full division, of the Pandava army, and Bhishma is said to have rated him able to face twelve atirathis alone.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Prabhasa, Satyaki taunted Kritavarma for his part in the night raid on the sleeping Pandava camp. Kritavarma shot back that Satyaki had killed the unarmed Bhurishravas while he sat in prayer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mausala_Parva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His feud with the Kuru warrior Bhurishravas began a generation earlier. Satyaki's grandfather Sini carried off Devaki, Krishna's future mother, from her swayamvara for Vasudeva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Bhurishravas' father Somadatta challenged Sini and lost. He then did penance to Shiva for a son who would take revenge, and Bhurishravas was born.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sent to help Arjuna, he got past Drona's formation by reminding Drona that Arjuna had refused to fight his teacher earlier that day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhurishravas dragged the weaponless Satyaki across the field. Krishna warned Arjuna, who shot an arrow that cut off Bhurishravas's arm just before he could strike.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Satyaki then beheaded Bhurishravas, who had sat down to meditate after losing his arm. Warriors on both sides criticised the act, and the epic treats it as a hard question about dharma and anger.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mausala Parva says 36 years after the war, Yadavas gathered at the pilgrimage site Prabhasa. In a drunken quarrel over who behaved worse in the war, Satyaki killed Kritavarma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mausala_Parva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mausala Parva says that at Prabhasa others in the crowd struck down Satyaki and Pradyumna, who tried to protect him. Krishna then picked up eraka grass that turned into an iron rod, and the Yadavas copied him until nearly all had perished.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mausala_Parva",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Only eleven major warriors are said to survive the Kurukshetra War: the five Pandavas, Krishna, Satyaki, Ashwatthama, Kripa, Yuyutsu and Kritavarma. Satyaki is one of them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Raja Ravi Varma's painting 'Krishna as Envoy' shows Satyaki, in white beside Krishna, drawing his sword in answer to Duryodhana's insults in the Kaurava court.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sini-Somadatta feud passed down a generation. Sini once kicked Somadatta before all the kings, so Somadatta won a son from Shiva to take revenge, and Bhurishravas kicked Sini's grandson Satyaki in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Satyaki appears in Java as a character in wayang, the shadow-puppet theatre. Wikipedia's caption stresses that the puppet shape does not resemble the actual character.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Krishna's Narayani Sena counted Satyaki among its seven maharathis, yet that army fought for Duryodhana while Satyaki himself joined the Pandavas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On day 13, when Abhimanyu entered Drona's chakra formation, Jayadratha, helped by a boon from Shiva, held back Bhima and Satyaki and kept them from following the boy in.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one clash Karna beat Satyaki together with Shikhandi, Nakula, Sahadeva, Yudhishthira and Bhima, but spared all their lives, according to the Kurukshetra War summary.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On one day of the war Drona was getting the better of Satyaki until Bhima drove up and rescued him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Later Yaudheya tribes claimed descent from a son of Yudhishthira or, in another claim, from a son of Satyaki, says the Satyaki article, which cites the Matsya Purana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mausala Parva account of the Prabhasa quarrel, Satyaki clenches a handful of grass and is shocked to find it has turned into weapons, because of a sage's curse, before he strikes down Kritavarma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyaki",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "By the time of the war, Bhurishravas's article calls Satyaki a king of the Sivi (Siwa) lands and a Pandava commander, while Bhurishravas was one of the Kauravas' eleven commanders.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhurishravas",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which clan did Satyaki belong to?",
+      "options": ["Kuru", "Vrishni", "Panchala", "Matsya"],
+      "answer": 1,
+      "why": "The Vrishnis were Krishna's Yadava clan."
+    },
+    {
+      "q": "Who taught Satyaki archery?",
+      "options": ["Drona", "Arjuna", "Bhishma", "Karna"],
+      "answer": 1,
+      "why": "Satyaki trained under Arjuna."
+    },
+    {
+      "q": "Another name for Satyaki is...",
+      "options": ["Yuyudhana", "Vikarna", "Sahadeva", "Ghatotkacha"],
+      "answer": 0,
+      "why": "He is also called Yuyudhana."
+    },
+    {
+      "q": "Where did the Yadava quarrel take place after the war?",
+      "options": ["Hastinapura", "Prabhasa", "Lanka", "Ayodhya"],
+      "answer": 1,
+      "why": "The Mausala Parva places the fight at Prabhasa."
+    },
+    {
+      "q": "Whose arm did Arjuna cut off to save Satyaki?",
+      "options": ["Shalya", "Bhurishravas", "Shakuni", "Jayadratha"],
+      "answer": 1,
+      "why": "Arjuna's arrow cut off Bhurishravas's arm."
+    }
+  ],
+  "related": [
+    "krishna",
+    "arjuna",
+    "drona",
+    "sanjaya",
+    "yudhishthira",
+    "balarama",
+    "pradyumna",
+    "dhrishtadyumna"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satyaki",
+    "bhurishravas": "https://en.wikipedia.org/wiki/Bhurishravas",
+    "mausala": "https://en.wikipedia.org/wiki/Mausala_Parva",
+    "kurukshetra": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+    "sanjaya": "https://www.vyasaonline.com/encyclopedia/sanjaya/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#eed9b8",
+    "c2": "#a9c5c0"
+  },
+  "order": 560,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "slug": "satyaki"
+}

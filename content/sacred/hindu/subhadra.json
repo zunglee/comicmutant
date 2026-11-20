@@ -1,0 +1,292 @@
+{
+  "slug": "subhadra",
+  "name": "Subhadra",
+  "aka": ["Bhadra", "Chitra", "Sembadra (Java)", "Yogamaya (in Puri)", "Dhumda Mata (Bhadrajun)"],
+  "native": "सुभद्रा",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Sister of Krishna and Balarama, wife of Arjuna, goddess in Puri",
+  "summary": "In the Mahabharata, Subhadra is the Vrishni princess who marries Arjuna and becomes Abhimanyu's mother. Many Hindus also worship her at Puri with Jagannath and Balabhadra.",
+  "about": "In the Mahabharata, Subhadra is the daughter of Vasudeva and, in the epic, of Rohini, so she is Balarama's sister and Krishna's half-sister; the Bhagavata Purana says her mother was Devaki. She marries Arjuna, in versions that range from an elopement to a love story, and becomes the mother of Abhimanyu. In the Adi Parva she meets Draupadi dressed as a cowherd woman and wins her trust. She also speaks up for the Kuru line when Parikshit is about to be born. Many Hindus in Odisha and elsewhere worship Subhadra as a goddess, one of three deities at the Jagannath Temple in Puri, and she is linked with Ekanamsha and Yogamaya. Scholars differ on these links.",
+  "kidSummary": "Subhadra is Krishna's sister in the Mahabharata and the wife of Arjuna, and the mother of Abhimanyu. Stories tell how she charmed Draupadi by dressing as a cowherd girl. In Puri, she is worshipped with her brothers, and her very own chariot rolls in the Ratha Yatra every year.",
+  "story": [
+    {
+      "title": "A princess at Dvaraka",
+      "text": "In the Mahabharata, Subhadra is the sister of Krishna and Balarama. Arjuna visits Dvaraka and sees her at a festival."
+    },
+    {
+      "title": "A chariot and a choice",
+      "text": "In the epic, Arjuna takes Subhadra away in his chariot with Krishna's blessing. Her family is surprised, but after talking, they agree to the marriage."
+    },
+    {
+      "title": "The cowherd disguise",
+      "text": "In Indraprastha, Subhadra dresses as a simple cowherd woman and tells Draupadi she is her maid. Draupadi is moved and welcomes her warmly."
+    },
+    {
+      "title": "A mother's strength",
+      "text": "Her son Abhimanyu is born and grows up brave. Later, when a baby's life is in danger, Subhadra reminds Krishna of his promise."
+    },
+    {
+      "title": "The triad of Puri",
+      "text": "In Puri, Subhadra is worshipped with her brothers Jagannath and Balabhadra, and each year a chariot carries her on the great Ratha Yatra."
+    }
+  ],
+  "teaches": [
+    "Humility wins hearts",
+    "A mother's love gives courage",
+    "Families can grow through kindness"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Noose and elephant goad (Puri iconography)", "Chariot of the Ratha Yatra"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Vasudeva",
+      "slug": "vasudeva"
+    },
+    {
+      "relation": "Brother",
+      "name": "Balarama",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Brother (half, in the epic)",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Husband",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Son",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    },
+    {
+      "relation": "Daughter-in-law",
+      "name": "Uttara",
+      "slug": "uttara"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Parikshit",
+      "slug": "parikshit"
+    },
+    {
+      "relation": "Co-wife",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Adi Parva, Drona Parva)",
+    "Harivamsa",
+    "Bhagavata Purana",
+    "Brahma Purana"
+  ],
+  "places": ["Dvaraka", "Indraprastha", "Jagannath Temple, Puri", "Bhadrajun, Rajasthan"],
+  "festivals": ["Ratha Yatra", "Snana Yatra", "Anavasara"],
+  "facts": [
+    {
+      "text": "A southern version of the epic is a mutual love story: Arjuna dresses as an ascetic, Balarama invites him to Dvaraka, and Subhadra looks after the guest and recognises him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says Balarama had chosen Duryodhana as Subhadra's groom without asking her. Krishna therefore drove Arjuna's chariot, and Balarama later agreed to the marriage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her name joins su, 'good', and bhadra, 'fortune', and means auspicious. The Harivamsa gives her birth name as Chitra, and in the Mahabharata Arjuna first meets her as Bhadra.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata names Rohini as Subhadra's mother, but the Bhagavata Purana says Devaki, Krishna's own mother, which would make her Krishna's full sister.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    },
+    {
+      "text": "Before Arjuna arrived in a golden, bell-hung chariot drawn by the horses Saivya and Sugriva, Subhadra had worshipped the Raivataka hill and walked around it, according to the Adi Parva.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01223.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Arjuna came home to Indraprastha with Subhadra, she dressed as a simple cowherd woman and told Draupadi she was her maid. Draupadi was touched and welcomed her as a sister.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the Vrishni warriors were furious, Krishna argued that Arjuna had honoured the family: a bride is not to be sold or handed over like an animal. Arjuna was brought back to Dvaraka, where the wedding took place.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01224.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Krishna and the Vrishnis came to Indraprastha, he gave the Pandavas a thousand golden chariots with bells, ten thousand cows from Mathura, a thousand white mares and mules. Balarama gave Arjuna a thousand elephants.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01224.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A later folk tradition says Arjuna described the chakravyuha, a wheel-shaped military maze, while Abhimanyu was still in Subhadra's womb. The unborn boy heard how to enter it but not how to leave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Abhimanyu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Epic tellings have Arjuna drive her away, but a 20th-century lithograph shows Subhadra herself driving the chariot out of Dvaraka, with Arjuna and Krishna riding inside.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "While Uttara was in labour and the Kuru women gathered, the epic says Subhadra reminded Krishna of his earlier vow to restore the child, so that the Kuru line would not end.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    },
+    {
+      "text": "As the Pandavas left for heaven, Yudhishthira asked that Hastinapura, ruled by Parikshit, and Indraprastha, ruled by Krishna's great-grandson Vajranabha, be kept in harmony.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    },
+    {
+      "text": "Subhadra is one of three deities at Puri's Jagannath Temple, with Jagannath and Balabhadra (Balarama). Some communities in Odisha, West Bengal, Gujarat and Bangladesh also worship her.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Puri's tradition her image is a carved, decorated wooden form with large round eyes and a yellow face, while Jagannath is dark and Balabhadra white.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her Ratha Yatra chariot is called Darpadalana, and also Devadalana or Padmadhwaja. Its charioteer is said to be her husband Arjuna.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ratha_Yatra_(Puri)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Darpadalana is the smallest of Puri's three chariots: about 42 feet tall, with 12 wheels, 593 wooden pieces and a red and black canopy. Its guardian is Jayadurga.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ratha_Yatra_(Puri)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the Snana Yatra bath, the deities of Puri, including Subhadra, rest in a secluded room for about fifteen days. Tradition says they fall ill, so devotees cannot see them.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9
+    },
+    {
+      "text": "In some texts, such as the Brahma Purana and the Garga Samhita, Subhadra is called Shatarupa and Arjuna is Svayambhuva Manu, the first Manu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    },
+    {
+      "text": "Some sects worship Subhadra as Bhuvaneshvari, and some Vaishnava traditions link her with Lakshmi. Her Puri image is said to carry a lasso and an elephant goad, as Bhuvaneshvari does.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    },
+    {
+      "text": "At Bhadrajun in Rajasthan she is worshipped as Dhumda Mata, and local belief says Arjuna and Subhadra reached there after a three-day journey and were married.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Subhadra",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose sister is Subhadra in the Mahabharata?",
+      "options": [
+        "Krishna and Balarama",
+        "Bhima and Arjuna",
+        "Rama and Lakshmana",
+        "Drupada and Virata"
+      ],
+      "answer": 0,
+      "why": "She is Balarama's sister and Krishna's half-sister."
+    },
+    {
+      "q": "Who is Subhadra's son?",
+      "options": ["Ghatotkacha", "Abhimanyu", "Parikshit", "Babruvahana"],
+      "answer": 1,
+      "why": "Abhimanyu was born at Indraprastha."
+    },
+    {
+      "q": "How did Subhadra first appear before Draupadi?",
+      "options": ["As a cowherd woman", "As a queen", "As a warrior", "As a sage"],
+      "answer": 0,
+      "why": "She dressed simply and called herself Draupadi's maid."
+    },
+    {
+      "q": "At which temple is Subhadra worshipped with her brothers?",
+      "options": ["Jagannath Temple, Puri", "Meenakshi Temple", "Kedarnath", "Tirupati"],
+      "answer": 0,
+      "why": "The Puri temple has Jagannath, Balabhadra and Subhadra."
+    },
+    {
+      "q": "Which chariot at Puri's Ratha Yatra is Subhadra's?",
+      "options": ["Nandighosha", "Taladhwaja", "Darpadalana", "Garudadhwaja"],
+      "answer": 2,
+      "why": "Darpadalana, 'trampler of pride', is hers; Nandighosha is Jagannath's and Taladhwaja is Balabhadra's."
+    }
+  ],
+  "related": [
+    "krishna",
+    "balarama",
+    "arjuna",
+    "abhimanyu",
+    "draupadi",
+    "jagannath",
+    "uttara",
+    "vasudeva"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Subhadra",
+    "wisdomlib": "https://www.wisdomlib.org/definition/subhadra",
+    "puri": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+    "rathayatra": "https://en.wikipedia.org/wiki/Ratha_Yatra",
+    "ekanamsha": "https://en.wikipedia.org/wiki/Ekanamsha",
+    "shikhandi": "https://en.wikipedia.org/wiki/Shikhandi",
+    "ratha_yatra": "https://en.wikipedia.org/wiki/Ratha_Yatra",
+    "abhimanyu": "https://en.wikipedia.org/wiki/Abhimanyu",
+    "rathayatra_puri": "https://en.wikipedia.org/wiki/Ratha_Yatra_(Puri)",
+    "ganguli_adi222": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01223.htm",
+    "ganguli_adi223": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01224.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e6c4a8",
+    "c2": "#f1e5d0"
+  },
+  "order": 500
+}

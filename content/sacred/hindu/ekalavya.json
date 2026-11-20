@@ -1,0 +1,238 @@
+{
+  "slug": "ekalavya",
+  "name": "Ekalavya",
+  "aka": ["Eklavya", "Prince of the Nishadas"],
+  "native": "एकलव्य",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Nishada prince and self-taught archer in the Mahabharata",
+  "summary": "In the Mahabharata, Ekalavya is a Nishada prince who learns archery by himself before a clay image of Drona, and whose teacher later asks for his right thumb as a fee. His story is still discussed today.",
+  "about": "In the Mahabharata, Ekalavya is the son of the Nishada king Hiranyadhanus, and the Nishadas were forest and hill peoples. He asks the teacher Drona to train him, but Drona refuses, because of his Nishada birth, as the epic puts it, and because he might outdo the princes he teaches. Ekalavya makes a clay image of Drona and practises before it until he is superb. When he shoots seven arrows into a barking dog's mouth without hurting it, the Pandavas are amazed. Drona asks him for his right thumb as fee, and Ekalavya gives it. The Sabha Parva says he later became king of the Nishadas, and the Udyoga Parva says Krishna killed him, while some Puranas give him a different parentage. Modern readers see his story as a question about fairness and access to learning.",
+  "kidSummary": "Ekalavya is a young archer in the Mahabharata who learned to shoot by practising hard in front of a clay figure of his teacher. His skill was amazing, and his story shows both dedication and a hard question about fairness that people still talk about.",
+  "story": [
+    {
+      "title": "A boy who wanted to learn",
+      "text": "In the Mahabharata, Ekalavya is a prince of the forest-dwelling Nishadas. He goes to the teacher Drona to ask for lessons in archery, but Drona says no."
+    },
+    {
+      "title": "A clay teacher",
+      "text": "Ekalavya does not give up. He makes a clay figure of Drona in the forest and practises in front of it every day, treating it as his teacher."
+    },
+    {
+      "title": "The dog and the arrows",
+      "text": "One day, Pandava princes find a dog with seven arrows in its mouth, shot so neatly it was not hurt. They are amazed and trace the archer to Ekalavya."
+    },
+    {
+      "title": "The fee",
+      "text": "Drona had told Arjuna he would be the best archer in the world. He asks Ekalavya for his right thumb as his fee, and Ekalavya gives it, which weakens his bow skill."
+    },
+    {
+      "title": "A story still remembered",
+      "text": "People today remember Ekalavya in schools, awards and art. His story makes us think about fairness, honesty and the right to learn."
+    }
+  ],
+  "teaches": [
+    "Dedication and self-discipline",
+    "Everyone deserves a chance to learn",
+    "Respect for teachers, and fairness from them too"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows", "Clay image of Drona"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Hiranyadhanus"
+    },
+    {
+      "relation": "Teacher he honoured",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Rival archer",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Said to have fought him",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Harivamsa", "Vayu Purana"],
+  "places": ["Khandsa, Gurugram"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Arjuna, feeling threatened because Drona had called him his best student, complained about Ekalavya. Drona then asked for Ekalavya's right thumb as his fee, and out of respect Ekalavya cut it off, weakening his archery.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7
+    },
+    {
+      "text": "Without a human teacher, he practised in front of a clay statue of Drona that he made himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pandavas' hunting dog barked at Ekalavya, so he shot seven arrows into its open mouth without hurting it. The astonished dog went back to Arjuna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "According to a Madras Courier article, Bhil archers of western India follow a code that forbids drawing the bowstring with the thumb, a practice traced to Ekalavya, whom the Bhils regard as an ancestral figure.",
+      "kind": "history",
+      "source": "https://madrascourier.com/opinion/could-bhil-archers-be-indias-key-to-the-olympics/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Later retellings say that after losing his thumb, Ekalavya kept practising and trained himself to shoot using his index and middle fingers.",
+      "kind": "story",
+      "source": "https://mythlok.com/eklavya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ekalavya later became king of the Nishadas and was counted among the foremost kings at the Rajasuya, where he honoured Yudhishthira by offering him shoes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Udyoga Parva says Krishna killed Ekalavya. The Harivamsa, from about 450 CE, tells more about his later life and death than the main epic does.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7
+    },
+    {
+      "text": "Puranic accounts split. One keeps Ekalavya's low origins, while another says his father was Devshrava, a Yadava prince who abandoned him as a baby, and the Nishadas raised him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 8
+    },
+    {
+      "text": "The epic calls Drona's demand for the thumb terrible, which is a harsh word to use about a teacher it otherwise honours.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7
+    },
+    {
+      "text": "Writer Gurucharan Das reads the story as a sign of a caste order taking shape when the epic was composed. The Nishadas stood outside the four varnas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7
+    },
+    {
+      "text": "Today Ekalavya is a symbol of Dalit and tribal rights. Unlike the epic's Ekalavya, who accepts his fate, modern retellings show him fighting for dignity and equality.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7
+    },
+    {
+      "text": "India issued a postage stamp in 2013 showing Ekalavya offering his thumb.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "India's Eklavya Model Residential Schools, begun in 1997-98 and named in his honour, give schooling from Class VI to XII to Scheduled Tribe students.",
+      "kind": "history",
+      "source": "https://www.impriindia.com/insights/policy-update/eklavya-model-residential-schools-emrs-program-1997/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A temple at Khandsa in Gurugram is said by local folklore to be the only temple of Ekalavya, and the place where he offered his thumb.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 8
+    },
+    {
+      "text": "After the war, Arjuna rode to the Nishada kingdom on the horse-sacrifice campaign. Ekalavya's son met him in battle, and Arjuna defeated him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nishadas",
+      "interest": 7
+    },
+    {
+      "text": "A well-known painting by Nandalal Bose shows Ekalavya practising before the clay statue of Drona.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Mythlok says that in some passages Ekalavya's original name is given as Abhidhyumna. He is also called Nishada Kumara, and modern writers sometimes call him Adarsh Shishya, the ideal student.",
+      "kind": "language",
+      "source": "https://mythlok.com/eklavya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The word Eklavyaism is used today to mean learning on your own and mastering a skill without a teacher.",
+      "kind": "language",
+      "source": "https://mythlok.com/eklavya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The same Madras Courier article calls the Bhils India's largest tribal group and says their archers were among the country's best hopes for an Olympic archery medal.",
+      "kind": "history",
+      "source": "https://madrascourier.com/opinion/could-bhil-archers-be-indias-key-to-the-olympics/",
+      "interest": 7
+    },
+    {
+      "text": "One modern reading in that article says Drona acted on Krishna's advice, because Krishna foresaw that Ekalavya would fight against the Pandavas later. The article notes that the real motive, caste or politics, is still debated.",
+      "kind": "text",
+      "source": "https://madrascourier.com/opinion/could-bhil-archers-be-indias-key-to-the-olympics/",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Ekalavya practise in front of to learn archery?",
+      "options": ["A mirror", "A clay statue of Drona", "A waterfall", "A banyan tree"],
+      "answer": 1,
+      "why": "He made a clay image of Drona and treated it as his teacher."
+    },
+    {
+      "q": "How many arrows did he shoot into the dog's mouth?",
+      "options": ["Three", "Five", "Nine", "Seven"],
+      "answer": 3,
+      "why": "The epic says seven arrows filled the dog's mouth without hurting it."
+    },
+    {
+      "q": "What did Drona ask for as his fee?",
+      "options": ["His bow", "His right thumb", "A cow", "His horse"],
+      "answer": 1,
+      "why": "The fee was Ekalavya's right thumb, which weakened his archery."
+    },
+    {
+      "q": "What does the Eklavya Model Residential Schools scheme help?",
+      "options": ["Tribal students", "Sailors", "Chess players", "Temple priests"],
+      "answer": 0,
+      "why": "It provides residential education for Scheduled Tribe students in remote areas."
+    }
+  ],
+  "related": ["drona", "arjuna", "krishna", "yudhishthira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ekalavya",
+    "emrs": "https://www.impriindia.com/insights/policy-update/eklavya-model-residential-schools-emrs-program-1997/",
+    "bhil": "https://madrascourier.com/?p=7664",
+    "fingers": "https://mythlok.com/eklavya",
+    "nishadas": "https://en.wikipedia.org/wiki/Nishadas",
+    "award": "https://en.wikipedia.org/wiki/Ekalavya_Award"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d4c19c",
+    "c2": "#a9bfa5"
+  },
+  "order": 26
+}

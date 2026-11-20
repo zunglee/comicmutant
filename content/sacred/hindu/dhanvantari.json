@@ -1,0 +1,270 @@
+{
+  "slug": "dhanvantari",
+  "name": "Dhanvantari",
+  "aka": ["Abja", "Amrita-pani", "Dhanvantri"],
+  "native": "धन्वन्तरि",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Physician of the devas and god of Ayurveda",
+  "summary": "Dhanvantari is the Hindu god of healing who, in the Puranas, rose from the cosmic ocean holding amrita. He is honoured on Dhanteras, India's National Ayurveda Day.",
+  "about": "Dhanvantari is the divine physician of Hindu tradition, regarded by the Puranas as an avatar of Vishnu and as the god of Ayurveda. The Ramayana and the Bhagavata Purana say he rose from the churning of the Ocean of Milk with a pot of amrita. Puranic accounts say Vishnu promised he would be reborn to teach medicine, and in a later age he appears as a king's son in Kashi. His images show four arms with a conch, a discus and an amrita bowl, and sometimes a book of Ayurveda or a leech. He is worshipped on Dhanteras, which India marks as National Ayurveda Day, and his shrines range from Kerala and Tamil Nadu to Kathmandu.",
+  "kidSummary": "Dhanvantari is the god of healing. In the old stories, he rose from the ocean of milk holding a pot of amrita, the drink of life. Many people pray to him for health, especially on Dhanteras before Diwali.",
+  "story": [
+    {
+      "title": "The great churning",
+      "text": "The devas and asuras churned the Ocean of Milk, using a mountain as a stick and a snake as a rope. Many treasures came out of the waves."
+    },
+    {
+      "title": "A healer appears",
+      "text": "Dhanvantari rose from the water, holding a pot of amrita, the nectar of life. He is called the god of Ayurveda."
+    },
+    {
+      "title": "Winning back the amrita",
+      "text": "The asuras seized the pot. Vishnu took the beautiful form of Mohini and brought the amrita back to the devas."
+    },
+    {
+      "title": "Reborn as a king's son",
+      "text": "Puranic accounts say Vishnu promised Dhanvantari would be reborn to bring medicine back to the world. He was born in Kashi."
+    },
+    {
+      "title": "Thanks on Dhanteras",
+      "text": "Today people pray to Dhanvantari on Dhanteras for good health and light small lamps before Diwali."
+    }
+  ],
+  "teaches": [
+    "Health is a precious gift to look after",
+    "Knowledge of healing should be shared",
+    "Cooperation, like in the churning, brings great results"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Pot of amrita",
+    "Conch",
+    "Discus",
+    "Book of Ayurveda (some images)",
+    "Leech (some images)"
+  ],
+  "family": [
+    {
+      "relation": "Avatar of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Born from the churning with",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Bharadvaja",
+      "slug": "bharadvaja"
+    },
+    {
+      "relation": "Appears in the same churning as",
+      "name": "Kamadhenu",
+      "slug": "kamadhenu"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Ramayana (Bala Kanda)",
+    "Vishnu Purana",
+    "Brahma Vaivarta Purana",
+    "Brahmanda Purana",
+    "Dhanvantari Nighantu"
+  ],
+  "places": ["Srirangam, Tamil Nadu", "Thottuva, Kerala", "Vaitheeswaran Koil", "Kathmandu"],
+  "festivals": ["Dhanteras", "National Ayurveda Day"],
+  "facts": [
+    {
+      "text": "Printed editions of the Sushruta Samhita, a classic Ayurvedic surgery text, start each chapter by presenting the teaching as Dhanvantari's, though the earliest manuscripts credit King Divodasa of Varanasi instead.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sushruta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Brahmanda Purana says the newborn Dhanvantari appeared before the pot itself, ringed by a halo of glory, and Vishnu named him Abja, meaning water-born.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahmanda Purana, the newborn Dhanvantari asks for a share of the offerings. Vishnu says the Vedic shares are already divided, but promises that in a later birth he will be worshipped with mantras from all four Vedas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition holds that Sushruta, praised as a father of plastic surgery for his account of rebuilding noses, was a descendant of Dhanvantari or learned from him in Varanasi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sushruta_Samhita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "India's government decided to observe Dhanteras as National Ayurveda Day, first marked on 28 October 2016, so a festival of lamps is also a day for the old science of medicine.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanteras",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Dhanvantari is often shown holding a conch, a discus and amrita, and sometimes a book of Ayurveda or a leech, which recalls the old practice of bloodletting.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Vaivarta Purana, serpents make Dhanvantari's students faint after a disciple takes a gem from Takshaka's head. He revives them with a plant medicine, and when the snake goddess Manasa arrives, Shiva and Brahma bring peace.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Dhanvantari shrine in the Srirangam temple complex is said to be the oldest in Tamil Nadu, and visitors receive a herbal decoction as prasad.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vishnu Purana names Dhanvantari as the great-grandfather of Divodasa, the Kashi king remembered as the father of surgery in Ayurveda.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tradition lists a physician named Dhanvantari among the nine scholars, the Navaratnas, of King Vikramaditya's court. Historians say no early source mentions this group, and the lists were put together much later.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Navaratnas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the lists of churning treasures, Dhanvantari is the 'physician of the devas' who carries the amrita, and some lists count the physician and the amrita as two separate treasures. Texts name anywhere from 9 to 14 treasures.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Samudra_manthan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A popular legend says drops of amrita fell at Haridwar, Prayagraj, Nashik and Ujjain, the Kumbh Mela cities. The Puranas never mention this, and some scholars think the link to the Kumbh is fairly recent.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Samudra_manthan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Dhanvantari shrine stands inside the Sanjeevi Vinayakar temple on the JIPMER medical campus in Puducherry, so the god of healing is worshipped right beside a modern teaching hospital.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Two statues of Dhanvantari stand at the Delhi headquarters of the Central Council for Research in Ayurveda and Siddha, a government research body.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Srirangam, an engraved stone believed to be from the 12th century says a physician named Garuda Vahana Bhattar set up the Dhanvantari statue in the temple courtyard.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dhanvantari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Vishnu Purana, Dhanteras marks the day Dhanvantari emerged with his jar of amrita. India's Ayurveda ministry chose the same day for National Ayurveda Day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanteras",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tamil Nadu, families prepare a herbal mixture called marundu ('medicine') on Dhanatrayodashi and eat it before sunrise the next day, said to balance the three doshas of Ayurveda.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanteras",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Sushruta Samhita, whose teaching tradition ties back to Dhanvantari, describes 1,120 illnesses and 700 medicinal plants in its present form.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sushruta_Samhita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sushruta Samhita travelled abroad: it was translated into Arabic in Baghdad in the early 8th century, at the request of a member of the Barmakid family.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sushruta_Samhita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Among legendary accounts of how Ayurveda began, one says Dhanvantari, or in another version Divodasa, received it from Brahma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ayurveda",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Dhanvantari holding when he rose from the ocean?",
+      "options": ["A sword", "A pot of amrita", "A flute", "A lotus bud"],
+      "answer": 1,
+      "why": "He carried the pot of amrita, the nectar of life."
+    },
+    {
+      "q": "On which festival do people pray to Dhanvantari?",
+      "options": ["Holi", "Dhanteras", "Raksha Bandhan", "Navaratri"],
+      "answer": 1,
+      "why": "Dhanteras, the first day of Diwali, honours him."
+    },
+    {
+      "q": "Which form of Vishnu recovered the amrita from the asuras?",
+      "options": ["Mohini", "Narasimha", "Varaha", "Vamana"],
+      "answer": 0,
+      "why": "Vishnu took the form of Mohini to win it back."
+    },
+    {
+      "q": "What is Ayurveda?",
+      "options": [
+        "A kind of dance",
+        "India's traditional system of medicine",
+        "A sacred river",
+        "A holy mountain"
+      ],
+      "answer": 1,
+      "why": "Dhanvantari is regarded as the god of this healing system."
+    },
+    {
+      "q": "In a later birth, which city did Dhanvantari rule as king?",
+      "options": ["Kashi", "Mathura", "Puri", "Dwarka"],
+      "answer": 0,
+      "why": "The Puranas say that after the churning he was born again and reigned in Kashi, now Varanasi."
+    }
+  ],
+  "related": ["vishnu", "kurma", "vasuki", "lakshmi", "ashvins", "yama", "kamadhenu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dhanvantari",
+    "dhanteras": "https://en.wikipedia.org/wiki/Dhanteras",
+    "samudra-manthan": "https://en.wikipedia.org/wiki/Samudra_manthan"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d4e6d2",
+    "c2": "#f1e6c8"
+  },
+  "order": 504
+}

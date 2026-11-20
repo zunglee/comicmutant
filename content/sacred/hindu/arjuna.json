@@ -1,0 +1,256 @@
+{
+  "slug": "arjuna",
+  "name": "Arjuna",
+  "aka": [
+    "Partha",
+    "Dhananjaya",
+    "Gudakesha",
+    "Savyasachi",
+    "Kiriti",
+    "Phalguna",
+    "Shvetavahana",
+    "Bibhatsu"
+  ],
+  "native": "अर्जुन",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Third Pandava, great archer and Krishna's friend",
+  "summary": "Arjuna is the third of the five Pandava brothers in the Mahabharata, a peerless archer and the friend to whom Krishna speaks the Bhagavad Gita on the field of Kurukshetra.",
+  "about": "In the Mahabharata, Arjuna is the third son of Kunti. The epic says he was born through the god Indra, after a curse on King Pandu led Kunti to call on gods using a mantra from the sage Durvasa. He trains under the teacher Drona and becomes famed for his skill with the bow, winning Draupadi at her svayamvara and later receiving divine weapons from gods such as Shiva and Indra. Krishna is his cousin, brother-in-law and charioteer. On the eve of the great war at Kurukshetra, Arjuna is overcome with doubt and sets down his bow, and Krishna's teaching to him forms the Bhagavad Gita. Tradition also remembers his years of exile, his disguise as the dance teacher Brihannala at King Virata's court, and his several marriages. Arjuna appears in temples, shadow-puppet plays in Java, and in India's national sports honour, the Arjuna Award.",
+  "kidSummary": "Arjuna is one of the five Pandava brothers in the Mahabharata and a wonderful archer. He has a close friendship with Krishna, who drives his chariot. When Arjuna feels worried before a huge battle, Krishna talks to him about duty, courage and doing the right thing. That conversation became the Bhagavad Gita.",
+  "story": [
+    {
+      "title": "The bird's eye",
+      "text": "Young Arjuna trains with the teacher Drona. In a test, Drona asks the princes what they see in a toy bird in a tree. Arjuna says he sees only the bird's eye (some tellings say its head), and Drona is very pleased."
+    },
+    {
+      "title": "Winning Draupadi",
+      "text": "At a contest for Draupadi's hand, a fish spins high above. Dressed as a Brahmin, Arjuna looks at its reflection in water and strikes the fish's eye with an arrow."
+    },
+    {
+      "title": "A gift from the fire god",
+      "text": "Agni asks Arjuna and Krishna to help him in the Khandava forest. Varuna then gives Arjuna the bow Gandiva and two quivers that never run out of arrows."
+    },
+    {
+      "title": "A hidden year",
+      "text": "In the last year of exile, Arjuna lives in King Virata's palace as Brihannala and teaches the princess Uttara to dance and sing, until the Pandavas can be seen again."
+    },
+    {
+      "title": "The talk before the war",
+      "text": "At Kurukshetra, Arjuna sees his teachers and relatives on both sides and puts down his bow. Krishna talks with him about duty, and Arjuna rises, ready to act."
+    }
+  ],
+  "teaches": [
+    "Focus and practice make skill",
+    "Duty and doubt can both be faced with a wise friend",
+    "Humility even when you are gifted"
+  ],
+  "symbol": "bow",
+  "emblems": [
+    "Gandiva bow",
+    "Two endless quivers",
+    "Chariot with white horses",
+    "Monkey banner (Hanuman)"
+  ],
+  "family": [
+    { "relation": "Father (by tradition)", "name": "Indra", "slug": "indra" },
+    { "relation": "Mother", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Friend and charioteer", "name": "Krishna", "slug": "krishna" },
+    { "relation": "Wife", "name": "Draupadi", "slug": "draupadi" },
+    { "relation": "Wife", "name": "Subhadra", "slug": "subhadra" },
+    { "relation": "Wife", "name": "Ulupi", "slug": "ulupi" },
+    { "relation": "Wife", "name": "Chitrangada", "slug": "chitrangada" },
+    { "relation": "Son", "name": "Abhimanyu", "slug": "abhimanyu" },
+    { "relation": "Brother", "name": "Bhima", "slug": "bhima" }
+  ],
+  "texts": ["Mahabharata", "Bhagavad Gita", "Javanese wayang tales"],
+  "places": ["Kurukshetra", "Indrakeeladri Hill, Vijayawada", "Surawana Temple, Java"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Many of Arjuna's names carry a story: Phalguna points to the star he was born under, Gudakesha means conqueror of sleep, and Bibhatsu is explained as one who fights fairly and never does anything horrid in war.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Arjuna was so inspired by Bhima eating at night that he trained himself to shoot in complete darkness, and Drona promised him he would be the greatest archer on earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On the road to Panchala, Arjuna faced his first adult test against the gandharva Chitraratha, burning the gandharva's chariot with the fire weapon Agneyastra. The beaten gandharva gave the brothers gifts.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "Ulupi, a Naga princess, drew Arjuna down into the water while he bathed at the Ganga. Their son Iravan is remembered as a hero of the war.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "In the Mahabharata, Brahma made the Gandiva. It then spent a thousand years with Shiva, 503 with Brahma, 580 with Indra, 500 with Chandra and 100 with Varuna before reaching Arjuna.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Gandiva",
+      "interest": 7
+    },
+    {
+      "text": "In the Khandava episode, Arjuna even fought Indra, his own divine father, who tried to protect the forest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8
+    },
+    {
+      "text": "In the Mahabharata, Arjuna meets a hunter in the Himalayas after a quarrel over a boar. After hours of fighting he realises the hunter is Shiva, who gives him the Pashupatastra weapon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 9
+    },
+    {
+      "text": "In Indra's heaven the apsara Urvashi was drawn to Arjuna, but he called her mother, since she had once been the wife of Pururavas, an ancestor of the Kurus. Her curse, cut by Indra to one year, later helped him hide as Brihannala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8
+    },
+    {
+      "text": "In the Gita, Krishna shows Arjuna his Vishvarupa, a vision of the whole universe at once, which leaves Arjuna awestruck.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "During the Ashvamedha horse journey, Arjuna's own son Babhruvahana fought him and he fell. The epic says Ulupi revived him using a magic gem.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 9
+    },
+    {
+      "text": "In the Mahabharata, when Krishna left the world and Dwaraka sank, Agni asked Arjuna to return the Gandiva to Varuna, and Arjuna dropped it into the sea.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gandiva",
+      "interest": 8
+    },
+    {
+      "text": "After Krishna left the world, Arjuna led Dwaraka's remaining people toward Indraprastha. Bandits attacked them, and the archer who once beat whole armies chose not to fight, seeing the law of time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8
+    },
+    {
+      "text": "The seventeenth day of the war brought the duel everyone had waited for. Arjuna killed Karna, who was in fact his elder brother, using a weapon called Anjalika.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "When the Kauravas raided King Virata's cattle, Arjuna, still Brihannala, took his hidden Gandiva and, the epic says, beat an army that included Bhishma, Drona, Karna and Duryodhana on his own.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Princess Uttara learned dance and song from Arjuna as Brihannala. When his true identity was revealed at court, she was married to his son Abhimanyu rather than to Arjuna himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Arjuna once rescued Drona from a crocodile while his teacher bathed. Drona rewarded him with the mantras for the Brahmashirsha weapon and warned him never to use it on an ordinary mortal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "When Arjuna entered a pool on his pilgrimage south, a crocodile grabbed him. He dragged it ashore and it turned into an apsara cursed to be a crocodile. He then freed her four companions too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During his stay in Indra's heaven, Arjuna won a battle against the Daityas and also fought for Indra, his spiritual father, using the Gandiva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "Javanese shadow-puppet tales show Arjuna meditating as the Brahmin Ciptaning, whom the gods call on to defeat the giant king Niwatakawaca. Java's Arjunawiwaha poem also makes him its hero.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Java, older generations regarded wayang Arjuna as the ideal man: quiet, polite, brave and a protector of the weak, yet someone who also enjoyed worldly life, unlike Yudhishthira.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7
+    },
+    {
+      "text": "In Kerala, the temple ritual dance Mayilpeeli Thookkam is also called Arjuna Nrithyam, meaning Arjuna's dance, as a tribute to his skill as a dancer.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Arjuna say he saw when Drona tested the princes with a bird target?",
+      "options": ["The whole tree", "Only the bird's eye or head", "The sky", "Drona's face"],
+      "answer": 1,
+      "why": "He kept his focus on the target and saw nothing else."
+    },
+    {
+      "q": "Which bow did Varuna give Arjuna?",
+      "options": ["Pinaka", "Sharanga", "Gandiva", "Kodanda"],
+      "answer": 2,
+      "why": "Gandiva came with two quivers that never ran empty."
+    },
+    {
+      "q": "Who was Arjuna's charioteer and friend in the Kurukshetra war?",
+      "options": ["Krishna", "Drona", "Bhima", "Vidura"],
+      "answer": 0,
+      "why": "Krishna drove his chariot and spoke the Bhagavad Gita to him."
+    },
+    {
+      "q": "What name did Arjuna use during the hidden year at King Virata's court?",
+      "options": ["Kanka", "Brihannala", "Granthika", "Vallava"],
+      "answer": 1,
+      "why": "As Brihannala he taught dance and music to princess Uttara."
+    },
+    {
+      "q": "India's Arjuna Award honours which kind of achievement?",
+      "options": ["Music", "Poetry", "Sports", "Science"],
+      "answer": 2,
+      "why": "It is a national honour for outstanding sportspeople."
+    }
+  ],
+  "related": [
+    "krishna",
+    "draupadi",
+    "bhima",
+    "yudhishthira",
+    "abhimanyu",
+    "karna",
+    "drona",
+    "subhadra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Arjuna",
+    "gandiva": "https://en.wikipedia.org/wiki/Gandiva",
+    "award": "https://en.wikipedia.org/wiki/Arjuna_Award",
+    "pandavas": "https://en.wikipedia.org/wiki/Pandavas",
+    "drona": "https://en.wikipedia.org/wiki/Drona"
+  },
+  "depth": "full",
+  "palette": { "c1": "#8fb5d9", "c2": "#f2e6c9" },
+  "order": 1
+}

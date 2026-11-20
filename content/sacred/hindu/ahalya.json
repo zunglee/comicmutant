@@ -1,0 +1,271 @@
+{
+  "slug": "ahalya",
+  "name": "Ahalya",
+  "aka": ["Ahilya", "Ahalyā"],
+  "native": "अहल्या",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Sage Gautama's wife, restored when Rama visits",
+  "summary": "Ahalya is the wife of the sage Gautama in the Ramayana. Her story of a curse and a restoration is told in many different ways, and she is one of the five women of the daily Panchakanya prayer.",
+  "about": "In the Valmiki Ramayana, the sage Vishvamitra tells Rama and Lakshmana about Ahalya as they walk toward Mithila. Gautama's hermitage stands empty because Gautama had cursed Ahalya and Indra after Indra visited her in disguise. She is to remain there, unseen by anyone, until Rama comes. When he arrives, she appears again, shining from her long austerity, and welcomes the princes as guests. Later retellings, such as Kalidasa's Raghuvamsa, add that she was turned to stone and freed by Rama's touch. Tradition also gives her many origins: made by Brahma, born as a princess, or formed from ashes in tribal tellings. Poets and writers read her story in many ways, as a lesson, an allegory of land or light, or a story of a woman's own choices. She is remembered in the Panchakanya prayer.",
+  "kidSummary": "Ahalya was the wife of a wise sage who lived in a quiet forest hermitage. In the Ramayana, a curse from her husband kept her unseen and silent for a very long time. When Rama came to the hermitage, she was free again and welcomed him kindly. Her story is told in many ways, and the main lesson in many tellings is that patience and goodness are remembered.",
+  "story": [
+    {
+      "title": "A quiet hermitage",
+      "text": "Ahalya lived with her husband, the sage Gautama, in a peaceful hermitage near Mithila. Their home was full of prayer and calm."
+    },
+    {
+      "title": "A long silence",
+      "text": "After Indra tricked his way into the hermitage, the Ramayana says Gautama in anger cursed Ahalya to stay there for many years, unseen by anyone, living in quiet penance."
+    },
+    {
+      "title": "Rama arrives",
+      "text": "Years later the sage Vishvamitra led young Rama and Lakshmana to the empty-looking hermitage. The curse said it would end when Rama came."
+    },
+    {
+      "title": "She appears again",
+      "text": "In Valmiki's telling, when Rama entered, Ahalya became visible again, glowing from her long prayer. She remembered the words of the curse and welcomed the princes with water and kindness."
+    },
+    {
+      "title": "Reunited",
+      "text": "The gods showered flowers. Gautama returned, honoured Rama and went back to his prayers with Ahalya, and Rama continued on to Mithila."
+    }
+  ],
+  "teaches": [
+    "Patience and penance can bring renewal",
+    "A welcome for every guest",
+    "Stories can be read in more than one way"
+  ],
+  "symbol": "moon",
+  "emblems": ["Hermitage of Gautama", "Five-maiden prayer", "Gautami river"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Gautama",
+      "slug": "gautama-maharishi"
+    },
+    {
+      "relation": "Son (Ramayana tradition)",
+      "name": "Shatananda"
+    },
+    {
+      "relation": "Figure in the story",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Guest who ends the curse",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Bala Kanda)",
+    "Raghuvamsa",
+    "Adhyatma Ramayana",
+    "Ramcharitmanas",
+    "Brahma Purana",
+    "Mahabharata"
+  ],
+  "places": ["Ahalya Sthan, Darbhanga, Bihar", "Gautama's hermitage near Mithila"],
+  "festivals": ["Panchakanya prayer"],
+  "facts": [
+    {
+      "text": "Sanskrit dictionaries link Ahalya with the plough, and some read it as unploughed. In the Uttara Kanda, Brahma instead explains the name as one without ugliness, so it is read both as unploughed and as flawless.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rabindranath Tagore read Ahalya as stone-like, barren land that Rama made fertile again, turning her story into a poem about the earth waking up.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the tribal Bhil Ramayana, Ahalya stands for dry, scorched land that waits for rain, and the Saptarishi make her from sacrificial ashes before giving her to Gautama.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahalya is often called ayonijasambhava, one not born from a womb. In the Odissi Mahari dance tradition, Brahma shapes her from water to humble the apsara Urvashi.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Brahma Purana, the man who wins a race around the three worlds gets to marry Ahalya, and Gautama wins by circling the cow Surabhi while she gives birth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki text, Ahalya is cursed to live on air alone, rest in ashes and stay unseen by all beings. It never says she turned into stone.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga48/balasans48.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Scholar Gautam Patel credits the poet Kalidasa's Raghuvamsa with first introducing the stone motif, where Rama's feet restore her; many later retellings follow this image.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's telling, once Rama sees her Ahalya becomes visible, shining like a full moon seen through mist, as bright as sunlight on water and fire wrapped in smoke.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Brahma Purana tells a version without Rama: Ahalya is cursed to become a dried-up stream, and she is released when she joins the river Gautami, which is the Godavari. In that telling the story praises the river.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Venkata Krishnappa Nayaka's Telugu retelling, Indra takes the form of a rooster that crows early so Gautama leaves his hermitage to bathe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata tells that Gautama ordered his son Chirakari to act against Ahalya, but Chirakari hesitated, and Gautama later regretted his hasty judgment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata gives Ahalya's son Sharadvan, who was born holding arrows in his hand, and another son Chirakari, whose habit of thinking long before acting made him slow to obey his father.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahalya's name appears in a chant used by Vedic priests, the subrahmanya formula, in Brahmana texts of roughly the 9th to 6th centuries BCE. These are among the earliest texts to mention her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Gautama's hermitage lies in a forest near Mithila. The Brahma Purana places it by the Godavari, the Skanda Purana by the Narmada, and the Padma Purana near Pushkar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A 5th-century CE stone sculpture from Deogarh, now in the National Museum in New Delhi, shows Ahalya offering fruits and flowers to Rama.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Indian folk tales say the monkey brothers Vali and Sugriva were given to Ahalya to raise. In the Thai Ramakien they grow up as her children, with a sister named Anjani.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Brahma shapes Ahalya as the most beautiful woman and leaves her in Gautama's care until she grows up. Gautama returns her to Brahma, who admires his self-control and gives her to him in marriage.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahalya is named first in the Panchakanya verse, a morning prayer remembering five women: Ahalya, Draupadi, Sita, Tara and Mandodari. The names are believed to dispel sin when recited.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Panchakanya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ahalya Sthan, a temple at Kamtaul in Bihar's Darbhanga district, is said to stand where Gautama's hermitage was. Its present building dates to 1662-1682, under Maharajas Chhatra Singh and Rudra Singh.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ahalya_Sthan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ahalya's son Shatananda became the family priest and teacher of King Janaka of Mithila, Sita's father, according to the account Wikipedia summarises.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Purana, Indra is cursed to carry a thousand marks, which turn into eyes after he bathes in the Gautami river. The Brahma Vaivarta Purana has them become eyes when he worships the sun god Surya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Ahalya's husband?",
+      "options": ["Sage Gautama", "Sage Vasishtha", "King Janaka", "Lord Indra"],
+      "answer": 0,
+      "why": "Ahalya is the wife of the sage Gautama."
+    },
+    {
+      "q": "In Valmiki's telling, who ends Ahalya's long silence?",
+      "options": ["Hanuman", "Rama", "Bharata", "Ravana"],
+      "answer": 1,
+      "why": "The curse said it would end when Rama came to the hermitage."
+    },
+    {
+      "q": "Which prayer names Ahalya among five women?",
+      "options": ["Panchakanya", "Gayatri", "Hanuman Chalisa", "Shanti Path"],
+      "answer": 0,
+      "why": "The Panchakanya prayer names five revered women, including Ahalya."
+    },
+    {
+      "q": "In the Valmiki Ramayana's account of Ahalya, what does the text say about her being turned to stone?",
+      "options": [
+        "It never says she became stone",
+        "She turned to stone for one night",
+        "She was a stone from birth",
+        "Gautama carved her in stone"
+      ],
+      "answer": 0,
+      "why": "Valmiki describes a long unseen penance; the stone image comes from later works such as the Raghuvamsa."
+    },
+    {
+      "q": "What does the name Ahalya link to in Sanskrit dictionaries?",
+      "options": ["Ploughing", "Fishing", "Singing", "Sailing"],
+      "answer": 0,
+      "why": "Dictionaries link it with the plough, sometimes translated as unploughed."
+    }
+  ],
+  "related": ["gautama-maharishi", "indra", "rama", "vishvamitra", "lakshmana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ahalya",
+    "valmiki": "https://www.valmikiramayan.net/utf8/baala/sarga49/balasans49.htm",
+    "sthan": "https://en.wikipedia.org/wiki/Ahalya_Sthan",
+    "panchakanya": "https://en.wikipedia.org/wiki/Panchakanya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E6E0F0",
+    "c2": "#F3E6D4"
+  },
+  "order": 500
+}

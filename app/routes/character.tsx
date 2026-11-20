@@ -6,6 +6,14 @@ import { currentUser } from '~/.server/auth';
 import { listTakes } from '~/.server/community';
 import { gadgetsOf, getCharacter, toCard } from '~/.server/content';
 import { getSql } from '~/.server/db';
+import {
+  ensureGuest,
+  factReactions,
+  myFactReactions,
+  pollsFor,
+  pollView,
+  voterOf,
+} from '~/.server/polls';
 import { packFor } from '~/.server/themes';
 import { Atmosphere, useAtmosphere } from '~/components/atmosphere';
 import {
@@ -16,13 +24,18 @@ import {
   PhotoCredit,
   UniverseTag,
 } from '~/components/bits';
+import { FactSources } from '~/components/desi/facts-list';
 import { IconCheck, IconPin, IconVs } from '~/components/icons';
+import { FactDeck } from '~/components/learn/fact-deck';
+import { PollCard } from '~/components/learn/poll-card';
 import { TakeComposer, TakeList } from '~/components/takes';
 import { MilestoneStrip } from '~/components/timeline';
+import { usePackVars } from '~/components/ui/page-theme';
 import { CLIP_LABEL } from '~/lib/clips/manifest';
 import { photoSrc, photoSrcSet } from '~/lib/photos';
 import type { Gossip, QuizItem, StoryBeat } from '~/lib/schema';
 import { useTheme } from '~/lib/theme/context';
+import { useSkinMotion } from '~/skins/motion';
 import type { Route } from './+types/character';
 
 export async function loader({ params, request }: Route.LoaderArgs) {
@@ -37,15 +50,34 @@ export async function loader({ params, request }: Route.LoaderArgs) {
       .map(getCharacter)
       .filter((x) => x !== undefined)
       .map(toCard);
-  return {
-    c,
-    pack,
-    rivals: link(c.rivals),
-    allies: link(c.allies),
-    takes: await listTakes(sql, `c:${c.slug}`, user?.id ?? null),
-    gadgets: gadgetsOf(c.slug).map((g) => ({ slug: g.slug, name: g.name, year: g.firstSeen.year })),
-    signedIn: !!user,
-  };
+  const factTarget = `desi:${c.slug}`;
+  const hasDeck = c.universe === 'indian' && !!c.facts?.length;
+  const polls = (
+    await Promise.all(pollsFor(`character:${c.slug}`).map((p) => pollView(p.id, request, sql)))
+  ).filter((p) => p !== null);
+  const voter = hasDeck ? await voterOf(sql, request, 'comic') : null;
+  // Issues the voter cookies a poll vote or fact reaction needs (polls.ts S14).
+  const headers = new Headers();
+  await ensureGuest(request, headers);
+  return data(
+    {
+      c,
+      pack,
+      polls,
+      factCounts: hasDeck ? await factReactions(factTarget, sql, voter) : {},
+      myReactions: hasDeck ? await myFactReactions(factTarget, voter, sql) : {},
+      rivals: link(c.rivals),
+      allies: link(c.allies),
+      takes: await listTakes(sql, `c:${c.slug}`, user?.id ?? null),
+      gadgets: gadgetsOf(c.slug).map((g) => ({
+        slug: g.slug,
+        name: g.name,
+        year: g.firstSeen.year,
+      })),
+      signedIn: !!user,
+    },
+    { headers },
+  );
 }
 
 /** Reactions and reports update optimistically; don't refetch the whole page for them. */
@@ -67,6 +99,7 @@ export const meta: Route.MetaFunction = ({ loaderData }) =>
 
 export default function CharacterPage({ loaderData: d }: Route.ComponentProps) {
   const { c, pack } = d;
+  const pv = usePackVars(pack.vars);
   const params = {
     ...c.theme.palette,
     motif: c.theme.motif,
@@ -78,23 +111,23 @@ export default function CharacterPage({ loaderData: d }: Route.ComponentProps) {
     motif: c.theme.motif,
     c1: c.theme.palette.c1,
     c3: c.theme.palette.c3,
-    dark: pack.mood === 'dark',
+    dark: pv.dark ?? pack.mood === 'dark',
   };
   useAtmosphere(weather);
-  // The whole page wears the character's theme, whatever the site theme is.
+  // The page wears the character's full theme under comic; under a skin that owns its surfaces, accents only.
   return (
     <div
-      style={{ ...(pack.vars as React.CSSProperties), background: 'var(--bg)', color: 'var(--fg)' }}
+      style={{ ...pv.style, background: 'var(--bg)', color: 'var(--fg)' }}
       className="relative isolate"
-      data-mood={pack.mood}
+      data-mood={pv.dark === null ? pack.mood : pv.dark ? 'dark' : 'light'}
     >
       <Atmosphere weather={weather} />
       <div
         aria-hidden
         className="pointer-events-none absolute inset-0"
         style={{
-          backgroundImage: 'radial-gradient(var(--halftone) 1.4px, transparent 1.6px)',
-          backgroundSize: '14px 14px',
+          backgroundImage: 'var(--pattern-image)',
+          backgroundSize: 'var(--pattern-size, 14px 14px)',
         }}
       />
       <div className="relative z-[1]">
@@ -138,6 +171,41 @@ export default function CharacterPage({ loaderData: d }: Route.ComponentProps) {
           </section>
         )}
         <GossipWall items={c.gossip} name={c.name} />
+        {c.facts && c.facts.length > 0 && (
+          <section aria-labelledby="facts-h" data-testid="char-facts">
+            <p className="kicker">{c.facts.length} sourced facts</p>
+            <h2 id="facts-h" className="h-display ink-text mb-8 text-5xl text-c1-text sm:text-6xl">
+              Facts about {c.name}
+            </h2>
+            <FactDeck
+              facts={c.facts}
+              realm="comic"
+              target={`${c.universe === 'indian' ? 'desi' : 'char'}:${c.slug}`}
+              counts={d.factCounts}
+              mine={d.myReactions}
+            />
+            <div className="mt-6 space-y-1">
+              <h3 className="h-head text-xl">Sources</h3>
+              <FactSources facts={c.facts} />
+            </div>
+          </section>
+        )}
+        {d.polls.length > 0 && (
+          <section aria-labelledby="char-polls-h" data-testid="char-polls">
+            <p className="kicker">Your say</p>
+            <h2
+              id="char-polls-h"
+              className="h-display ink-text mb-6 text-5xl text-c1-text sm:text-6xl"
+            >
+              Vote on {c.name}
+            </h2>
+            <div className="grid items-start gap-5 md:grid-cols-2">
+              {d.polls.map((p) => (
+                <PollCard key={p.id} pollId={p.id} realm="comic" initial={p} />
+              ))}
+            </div>
+          </section>
+        )}
         <MiniQuiz items={c.quiz} name={c.name} />
         <ClipWall params={params} clips={pack.clips} />
         <Relations rivals={d.rivals} allies={d.allies} />
@@ -189,11 +257,14 @@ type Params = {
 };
 
 function Splash({ d, params }: { d: D; params: Params }) {
+  const mo = useSkinMotion();
   const { c, pack } = d;
   const { equip, pin, top5, current } = useTheme();
   const pinned = top5.some((p) => p.slug === c.slug);
   const wearing = current.slug === c.slug;
-  const letters = c.name.toUpperCase().split('');
+  const words = c.name.toUpperCase().split(/\s+/).filter(Boolean);
+  // Letter index across the whole name (colour rhythm and entrance delay run on it, spaces included).
+  const starts = words.map((_, k) => words.slice(0, k).reduce((n, w) => n + w.length + 1, 0));
   return (
     <section className="relative mx-auto grid max-w-7xl items-center gap-10 px-4 pt-10 pb-20 lg:grid-cols-[1.2fr_1fr]">
       <div className="relative z-10 space-y-5">
@@ -202,21 +273,37 @@ function Splash({ d, params }: { d: D; params: Params }) {
           <KindTag kind={c.kind} />
           <span className="chip pointer-events-none">Since {c.firstAppearance.year}</span>
         </div>
-        <h1 aria-label={c.name} className="h-display text-[clamp(3rem,9vw,7rem)] leading-[0.85]">
-          {letters.map((ch, i) => (
-            <m.span
-              // biome-ignore lint/suspicious/noArrayIndexKey: letters of a fixed name.
-              key={i}
-              aria-hidden
-              className={`ink-text inline-block ${i % 3 === 1 ? 'text-c3-text' : 'text-c1-text'}`}
-              initial={{ y: -60, rotate: (i % 2 ? 1 : -1) * 20 }}
-              animate={{ y: 0, rotate: (i % 2 ? 1 : -1) * 3 }}
-              transition={{ type: 'spring', stiffness: 500, damping: 14, delay: 0.03 * i }}
-            >
-              {ch === ' ' ? ' ' : ch}
-            </m.span>
-          ))}
-        </h1>
+        {/* Words never split: each is a nowrap span, and the size fits the longest word to the column. */}
+        <div style={{ containerType: 'inline-size' }}>
+          <h1
+            aria-label={c.name}
+            className="h-display flex flex-wrap gap-x-[0.3em] leading-[0.85]"
+            style={{
+              fontSize: `min(clamp(3rem, 9vw, 7rem), calc(100cqw / ${(Math.max(...words.map((w) => w.length)) * 0.8).toFixed(2)}))`,
+            }}
+          >
+            {words.map((w, wi) => (
+              // biome-ignore lint/suspicious/noArrayIndexKey: words of a fixed name.
+              <span key={wi} aria-hidden className="inline-block whitespace-nowrap">
+                {w.split('').map((ch, i) => (
+                  <m.span
+                    // biome-ignore lint/suspicious/noArrayIndexKey: letters of a fixed name.
+                    key={i}
+                    className={`ink-text inline-block ${((starts[wi] ?? 0) + i) % 3 === 1 ? 'text-c3-text' : 'text-c1-text'}`}
+                    initial={{ y: -60, rotate: (i % 2 ? 1 : -1) * 20 }}
+                    animate={{ y: 0, rotate: (i % 2 ? 1 : -1) * 3 }}
+                    transition={mo.spring(
+                      { stiffness: 500, damping: 14 },
+                      mo.delay((starts[wi] ?? 0) + i, 0.03),
+                    )}
+                  >
+                    {ch}
+                  </m.span>
+                ))}
+              </span>
+            ))}
+          </h1>
+        </div>
         {c.realName && (
           <p className="h-head text-xl">
             <span className="text-muted">aka</span> {c.realName}
@@ -248,7 +335,7 @@ function Splash({ d, params }: { d: D; params: Params }) {
       <m.div
         initial={{ rotate: -8, scale: 0.9 }}
         animate={{ rotate: -2, scale: 1 }}
-        transition={{ type: 'spring', stiffness: 140, damping: 12 }}
+        transition={mo.spring({ stiffness: 140, damping: 12 })}
         className="relative mx-auto w-full max-w-md"
       >
         <div className="panel overflow-hidden p-0 shadow-ink-lg">
@@ -277,6 +364,7 @@ function Splash({ d, params }: { d: D; params: Params }) {
 }
 
 function PowerFile({ c }: { c: D['c'] }) {
+  const mo = useSkinMotion();
   return (
     <section aria-labelledby="file-h" className="grid gap-6 lg:grid-cols-[1fr_1fr]">
       <div className="panel space-y-4 p-6">
@@ -320,8 +408,8 @@ function PowerFile({ c }: { c: D['c'] }) {
               initial={{ scale: 0.6, rotate: -6 }}
               whileInView={{ scale: 1, rotate: i % 2 ? 1.5 : -1.5 }}
               viewport={{ once: true }}
-              transition={{ type: 'spring', stiffness: 420, damping: 15, delay: i * 0.04 }}
-              className="rounded-md border-[3px] border-line bg-white px-3 py-1.5 font-semibold text-[#16120e] text-sm shadow-ink-sm"
+              transition={mo.spring({ stiffness: 420, damping: 15 }, mo.delay(i, 0.04))}
+              className="rounded-skin-s border-[3px] border-line bg-white px-3 py-1.5 font-semibold text-[#16120e] text-sm shadow-ink-sm"
             >
               {p}
             </m.li>
@@ -336,7 +424,8 @@ function PowerFile({ c }: { c: D['c'] }) {
 function Storyline({ beats, params }: { beats: StoryBeat[]; params: Params }) {
   const ref = useRef<HTMLOListElement>(null);
   const { scrollYProgress } = useScroll({ target: ref, offset: ['start 80%', 'end 60%'] });
-  const spine = useSpring(scrollYProgress, { stiffness: 120, damping: 24 });
+  const mo = useSkinMotion();
+  const spine = useSpring(scrollYProgress, mo.scaleSpring({ stiffness: 120, damping: 24 }));
   const shapes = ['splash', 'tilt-l', 'inset', 'tilt-r', 'wide'];
   const clips = ['speedlines', 'storm', 'portal', 'charge', 'spotlight', 'glitch', 'skyline-run'];
   return (
@@ -363,7 +452,7 @@ function Storyline({ beats, params }: { beats: StoryBeat[]; params: Params }) {
                 rotate: shape === 'tilt-l' ? -1.5 : shape === 'tilt-r' ? 1.5 : 0,
               }}
               viewport={{ once: true, margin: '-80px' }}
-              transition={{ type: 'spring', stiffness: 170, damping: 18 }}
+              transition={mo.spring({ stiffness: 170, damping: 18 })}
               className={`relative pl-14 md:w-[calc(50%-2.5rem)] md:pl-0 ${right ? 'md:ml-auto' : ''}`}
             >
               <span
@@ -393,7 +482,7 @@ function Storyline({ beats, params }: { beats: StoryBeat[]; params: Params }) {
                     <p className="leading-relaxed">{b.beat}</p>
                   </div>
                   {shape === 'inset' && (
-                    <div className="aspect-square self-start overflow-hidden rounded-full border-[3px] border-line">
+                    <div className="aspect-square self-start overflow-hidden round border-[3px] border-line">
                       <MotifClip params={params} kind="orbit" aspect={1} />
                     </div>
                   )}
@@ -430,6 +519,7 @@ function GossipWall({ items, name }: { items: Gossip[]; name: string }) {
 }
 
 function GossipCard({ g, i }: { g: Gossip; i: number }) {
+  const mo = useSkinMotion();
   const [open, setOpen] = useState(g.type !== 'myth');
   return (
     <m.li
@@ -437,7 +527,7 @@ function GossipCard({ g, i }: { g: Gossip; i: number }) {
       whileInView={{ y: 0, rotate: [-1.5, 1, -0.5, 1.5][i % 4] }}
       whileHover={{ rotate: 0, scale: 1.02 }}
       viewport={{ once: true }}
-      transition={{ type: 'spring', stiffness: 260, damping: 18 }}
+      transition={mo.spring({ stiffness: 260, damping: 18 })}
       className="panel relative space-y-3 p-5"
     >
       <span
@@ -535,9 +625,9 @@ function MiniQuiz({ items, name }: { items: QuizItem[]; name: string }) {
                   pick === null
                     ? ''
                     : k === q.answer
-                      ? 'bg-[#2fd36b]! text-[#0d0b10]!'
+                      ? 'bg-(--qz-ok)! text-(--print-ink)!'
                       : k === pick
-                        ? 'bg-[#ff4d4d]! text-[#0d0b10]!'
+                        ? 'bg-(--qz-bad)! text-(--print-ink)!'
                         : 'opacity-60';
                 return (
                   <button
@@ -581,6 +671,7 @@ function MiniQuiz({ items, name }: { items: QuizItem[]; name: string }) {
 }
 
 function ClipWall({ params, clips }: { params: Params; clips: string[] }) {
+  const mo = useSkinMotion();
   const [all, setAll] = useState(false);
   const shown = all ? clips : clips.slice(0, 8);
   return (
@@ -603,7 +694,7 @@ function ClipWall({ params, clips }: { params: Params; clips: string[] }) {
             initial={{ scale: 0.85 }}
             whileInView={{ scale: 1 }}
             viewport={{ once: true }}
-            transition={{ type: 'spring', stiffness: 300, damping: 20, delay: (i % 4) * 0.04 }}
+            transition={mo.spring({ stiffness: 300, damping: 20 }, mo.delay(i % 4, 0.04))}
             className="panel overflow-hidden p-0"
           >
             <MotifClip params={params} kind={id} aspect={1} save />

@@ -120,7 +120,7 @@ export default function GadgetPage({ loaderData: d }: Route.ComponentProps) {
                   className={`panel block w-full p-4 text-left transition-transform ${on ? '-translate-y-1 outline-4 outline-c3 outline-offset-2' : ''}`}
                 >
                   <span className="flex items-baseline gap-3">
-                    <span className="h-display grid size-10 shrink-0 place-items-center rounded-full border-[3px] border-line bg-c3 text-xl text-on-c3">
+                    <span className="h-display grid size-10 shrink-0 place-items-center round border-[3px] border-line bg-c3 text-xl text-on-c3">
                       {i + 1}
                     </span>
                     <span>

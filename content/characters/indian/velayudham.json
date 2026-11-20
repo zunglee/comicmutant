@@ -1,0 +1,286 @@
+{
+  "slug": "velayudham",
+  "name": "Velayudham",
+  "realName": "Velu (Velayudham), a milk vendor from Pavunoor",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Aascar Films",
+  "summary": "A 2011 Tamil film hero: a village milk vendor who keeps accidentally foiling attacks and is talked into wearing a mask as the people's symbol of hope. Played by Vijay.",
+  "origin": "In the 2011 Tamil film, a young journalist named Bharathi invents a masked avenger called Velayudham, named after a Murugan temple she sees, to give a frightened city hope. Soon she finds a real candidate: Velu, a milk seller from the village of Pavunoor who has unknowingly wrecked several terrorist plans. After a corrupt company steals his village's savings, Velu steps into the role and becomes a public symbol of resistance. The makers describe him as an ordinary man doing extraordinary things, not a being with supernatural powers.",
+  "creators": [
+    "M. Raja (director, co-writer)",
+    "R. T. Neason (co-writer)",
+    "Subha (dialogues)",
+    "V. Ravichandran (producer)",
+    "Vijay (lead actor)"
+  ],
+  "firstAppearance": {
+    "title": "Velayudham",
+    "year": 2011
+  },
+  "powers": [
+    "Street-fighting skill and stamina built on rural strength",
+    "Fearless courage that inspires crowds",
+    "A mask and costume identity that lets the public rally behind him",
+    "Pure luck that keeps thwarting terrorist plans",
+    "Quick instincts in chases and train-top fights"
+  ],
+  "affiliations": ["Bharathi (the journalist who created the Velayudham persona)"],
+  "storyline": [
+    {
+      "era": "Birth of a symbol",
+      "years": "2011",
+      "title": "A hero made up on paper",
+      "beat": "A journalist invents a masked crusader called Velayudham to inspire the city, but she has no one to play him until she hears of a milk vendor who keeps accidentally stopping attacks."
+    },
+    {
+      "era": "Reluctant hero",
+      "years": "2011",
+      "title": "Velu puts on the mask",
+      "beat": "After his village's money is stolen by a corrupt firm, Velu agrees to take up the identity and starts punishing wrongdoers, winning backing from both the public and the police."
+    },
+    {
+      "era": "Personal cost",
+      "years": "2011",
+      "title": "The terrorists follow him home",
+      "beat": "A terror leader whose plots Velu spoiled follows him to his village, and an attack on the wedding day hurts his family and turns the fight personal."
+    },
+    {
+      "era": "Finale",
+      "years": "2011",
+      "title": "Unmasking the real culprit",
+      "beat": "Velu learns a corrupt Home Minister had been profiting from the attacks, and the fight ends at a Chennai stadium with the crowd urged to stand up for themselves without needing a hero."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Critics split sharply: Sify gave the film four stars and called it good value, while Ananda Vikatan scored it only 42 out of 100.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Velayudham is a remake of the Telugu film Azad.",
+      "truth": "It was speculated to be one, and Raja bought Azad's rights, but he says he kept only the premise and wrote a new script.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "The release was first planned for summer 2011, then for August to clash with Mankatha, before Vijay moved it to Diwali on 26 October at an audio launch.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The film was formally launched on 15 July 2010 at Annamalai University in Chidambaram, with thousands of fans present.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Velu's day job before he becomes Velayudham?",
+      "options": ["Police inspector", "Milk vendor", "Journalist", "Train driver"],
+      "answer": 1,
+      "why": "Velu sells milk in the village of Pavunoor."
+    },
+    {
+      "q": "Who invents the Velayudham persona in the story?",
+      "options": [
+        "A journalist named Bharathi",
+        "A terror leader",
+        "Velu himself",
+        "The Home Minister"
+      ],
+      "answer": 0,
+      "why": "Bharathi, a young journalist, creates the masked symbol and then has to find a person to play it."
+    },
+    {
+      "q": "On which festival did the film release in 2011?",
+      "options": ["Pongal", "Holi", "Diwali", "Eid"],
+      "answer": 2,
+      "why": "It opened on 26 October 2011, the Diwali weekend."
+    },
+    {
+      "q": "Which star plays the hero?",
+      "options": ["Vikram", "Vijay", "Suriya", "Ajith"],
+      "answer": 1,
+      "why": "Vijay played the title role."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e65100",
+      "c2": "#3e1f0a",
+      "c3": "#ffd54f"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "An ordinary milkman, a borrowed mask, a city that believes."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Velayudham",
+    "director": "https://en.wikipedia.org/wiki/M._Raja",
+    "actor": "https://en.wikipedia.org/wiki/Vijay_(actor)",
+    "music": "https://en.wikipedia.org/wiki/Vijay_Antony",
+    "dna": "https://www.dnaindia.com/india/report-velayudhams-victory-over-7aam-arivu-surprises-all-1604999",
+    "rediffKerala": "https://www.rediff.com/movies/report/velayudham-wins-the-diwali-race-in-kerala/20111028.htm"
+  },
+  "timeline": [
+    {
+      "year": 2011,
+      "kind": "screen",
+      "title": "Diwali release",
+      "note": "The film opens on 26 October 2011 on about 800 screens worldwide, alongside Ra.One and 7 Aum Arivu."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "Kannada protest",
+      "note": "On 1 November, activists in Karnataka protest against its screening and theatres cancel the day's shows."
+    },
+    {
+      "year": 2011,
+      "kind": "turn",
+      "title": "100 more screens",
+      "note": "Strong word of mouth adds about 100 extra screens a week after release."
+    },
+    {
+      "year": 2011,
+      "kind": "legacy",
+      "title": "Diwali box-office winner",
+      "note": "Trade analysts call it a success, with roughly 60 crore rupees earned in its theatrical run."
+    },
+    {
+      "year": 2012,
+      "kind": "legacy",
+      "title": "Awards season",
+      "note": "Santhanam wins at the Ananda Vikatan awards on 5 January 2012 and Vijay takes two Edison Awards on 14 February."
+    }
+  ],
+  "heat": 45,
+  "facts": [
+    {
+      "text": "A teasing remark from Vijay, asking why director M. Raja gave hits only to his own brother Ravi, led Raja to pitch him a story. It was Raja's first Tamil film for another star made without his father, editor Mohan, or Ravi.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Velayudham's costume was reported to be borrowed from the Assassin's Creed games, resembling Altair and Ezio, and the resemblance sparked complaints that the film had copied it.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 9
+    },
+    {
+      "text": "While filming near Udumalaipettai, Vijay gave around 108 milch cows to poor families, a gift that fitted the milk-vendor hero.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 9
+    },
+    {
+      "text": "A risky running-train stunt, shot in Rayagada, Odisha, was planned with Hollywood stunt coordinator Tom Delmar, with Vijay and the villains aboard.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "In the film, the journalist Bharathi invents the masked crusader Velayudham after spotting a Murugan temple, hoping a made-up hero will help clean up a frightened Chennai.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Velu's first accidental save: at Chennai Egmore station he chases a thief on a parked motorbike, and moments after he steps off, it blows up. It was rigged for an attack on the station.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 8
+    },
+    {
+      "text": "At the Chennai stadium function, Minister Ulaganathan plans to pass the terrorist Ibrahim off as the real Velayudham, a frame-up. Velu instead confronts him and urges the crowd to stop idolising a superhero and speak up for themselves.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 8
+    },
+    {
+      "text": "Raja says Azad's director, Thirupathisamy, told him the story before pitching it to Nagarjuna. Raja bought the rights, then wrote a new script over ten months with R. T. Neason, keeping only the premise.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Genelia D'Souza plays Bharathi, the journalist who dreams up Velayudham; she had worked with Raja on Santosh Subramaniam. Both heroines mattered to the plot, and one voice artist, Savitha Radhakrishnan, dubbed them both.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "About 30 comedy actors, including Soori and Santhanam, were cast alongside 15 villains led by Abhimanyu Singh. Around 50 actors and 200 junior artists were on set throughout the shoot.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Critic Sudhish Kamath likened the film to the Pink Panther series for its chain of unintentional world-saving incidents, and The New Indian Express saw echoes of Main Azaad Hoon (1989) and Meet John Doe (1941).",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "The song 'Sonna Puriyadhu' used hundreds of local folk dancers plus performers from Mumbai and Russia and reportedly cost about 2 crore rupees; 'Molachu Moonu' was filmed in Kashmir.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Filming began in July 2010 and ran to September 2011, but took only 150 working days, across Pollachi, Udumalaipettai, Chennai, Hyderabad, Odisha, Kochi and Kashmir.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Vijay Antony's six-track album came out on 28 August 2011, and Wikipedia says more than one lakh audio CDs were sold on its first day.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Velayudham earned about Rs 40 crore worldwide in its first weekend, with Rs 19.5 crore of that from Tamil Nadu, and finished with about Rs 60 crore from its theatrical run.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Rediff reported that Velayudham won the Diwali race in Kerala, where hundreds of fans waited for hours in Kochi at a trailer launch; Malayali actress Saranya Mohan's role added local appeal.",
+      "kind": "record",
+      "source": "https://www.rediff.com/movies/report/velayudham-wins-the-diwali-race-in-kerala/20111028.htm",
+      "interest": 7
+    },
+    {
+      "text": "DNA called Velayudham Vijay's first superhero role. It beat the heavily promoted 7 Aum Arivu in its first week despite fewer theatres, and was sold as an out-and-out commercial entertainer.",
+      "kind": "record",
+      "source": "https://www.dnaindia.com/india/report-velayudhams-victory-over-7aam-arivu-surprises-all-1604999",
+      "interest": 8
+    },
+    {
+      "text": "Santhanam plays Kundusaamy, nicknamed Speedu, the petty thief whose bag-snatch at Egmore starts everything, and he won Best Comedian at the Ananda Vikatan awards on 5 January 2012.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    },
+    {
+      "text": "Though the story puts the finale in Chennai, the cricket-stadium sequence was shot in Kochi; climax filming began in May 2011 and that sequence was done by July 2011.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 8
+    },
+    {
+      "text": "The film has six action sequences under Anal Arasu, with two shot mainly at Chennai Port and at the Golconda fort in Hyderabad.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Velayudham",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Velu is a village milk seller who keeps stopping trouble by accident. A journalist named Bharathi invents a masked hero called Velayudham to give her city hope, and when a crooked company takes his village's savings, Velu puts on the mask. At the end he tells the crowd to stand up for themselves."
+}

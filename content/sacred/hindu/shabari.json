@@ -1,0 +1,257 @@
+{
+  "slug": "shabari",
+  "name": "Shabari",
+  "aka": ["Sabari", "Shabri", "Bhilni", "Shramana"],
+  "native": "शबरी",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Devoted ascetic who welcomes Rama in the Ramayana",
+  "summary": "Shabari is an elderly forest ascetic in the Ramayana who waits for years to welcome Rama. Hindus remember her as a model of patient, loving devotion, and later folk retellings add the famous tale of the tasted berries.",
+  "about": "In the Valmiki Ramayana, Shabari is an elderly woman of great spiritual attainment who lives in a hermitage near Lake Pampa, where her teachers, disciples of the sage Matanga, once lived. When Rama and Lakshmana arrive while searching for Sita, she welcomes them with water and forest fruits and shows them the sacred places of her teachers. Later folk and bhakti retellings, such as the Odia Dandi Ramayana of Balaram Das and Priyadas's Bhaktirasabodhini, deepen her story with the famous tale of fruit she tasted first so that Rama would receive only the sweetest, and of Rama accepting it with love. Her name points to the Shabara forest people, and many traditions call her Bhilni and link her with forest communities. Several places, in Karnataka, Gujarat and Kerala, are honoured as the setting of her meeting with Rama.",
+  "kidSummary": "Shabari lived in the forest and spent many years getting her little hut ready for a very special guest: Rama. When he finally came, she shared the best fruits she had gathered. In many tellings she tasted each berry first to be sure it was sweet. Rama saw only her kind heart. She shows us that love and patience can make a simple gift precious.",
+  "story": [
+    {
+      "title": "Learning in the forest",
+      "text": "Shabari lived near the Pampa lake and served her teachers, who were followers of the sage Matanga. They told her that Rama would one day come to her hermitage."
+    },
+    {
+      "title": "Years of waiting",
+      "text": "Day after day she kept the path swept and gathered fruits and roots from the shore of Pampa. She was old now, but she never stopped hoping and getting ready."
+    },
+    {
+      "title": "The guests arrive",
+      "text": "At last Rama and Lakshmana came walking through the woods looking for Sita. Shabari greeted them warmly, offered water so they could wash their feet, and gave them what she had gathered."
+    },
+    {
+      "title": "The sweet berries",
+      "text": "In later folk tellings, she tasted each berry so only the sweetest would reach Rama. Lakshmana was surprised, but Rama accepted the berries happily because they were given with love."
+    },
+    {
+      "title": "A kind guide",
+      "text": "Shabari showed them the places her teachers had made holy, and the tradition says she blessed their journey toward Sugriva. Then she joined her teachers, peaceful and full of joy."
+    }
+  ],
+  "teaches": [
+    "Patient hope and steady devotion",
+    "Love matters more than the size of the gift",
+    "Kindness to every guest, whoever they are"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Wild berries", "Leaf bowl", "Hermitage by Lake Pampa"],
+  "family": [
+    {
+      "relation": "Honoured guest",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Guest",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Teacher's circle",
+      "name": "Sage Matanga"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Aranya Kanda)",
+    "Ramcharitmanas",
+    "Dandi Ramayana (Balaram Das)",
+    "Bhaktirasabodhini (Priyadas)"
+  ],
+  "places": [
+    "Pampa Sarovar",
+    "Shabari Kolla, Karnataka",
+    "Shabari Dham, Dang, Gujarat",
+    "Sabarimala, Kerala"
+  ],
+  "festivals": ["Rama Navami"],
+  "facts": [
+    {
+      "text": "The name Shabari points to the Shabara people, a forest or hill community, and the word itself can simply mean a woman of that community. That is why her story is so often told as a lesson that the divine looks past birth and status.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/shabari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Valmiki says her teachers, the followers of Matanga, had already risen to heaven in shining flying chariots when Rama reached Chitrakuta, after telling her that he would one day come and that seeing him would open the way to the higher worlds.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The earliest known form of the 'tasted fruit' idea seems to be in Balaram Das's 15th-century Odia Dandi Ramayana, where Shabari hunts for sweet mangoes and Rama chooses only the ones with her tooth marks on them.",
+      "kind": "text",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Priyadas's Braj-language Bhaktirasabodhini, written roughly 300 years ago, the mangoes have become jujube berries, and the other ascetics at Lake Pampa treat Shabari as an outcast. This is the version that gave us the popular berry tale.",
+      "kind": "text",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The tasting is missing from Valmiki's chapter and from Tulsidas's Ramcharitmanas as well. In the Manas she simply offers Rama sweet roots and fruits. The berries she bites first are a later folk and bhakti addition.",
+      "kind": "text",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A tradition recounted in Wikipedia's article says Rama blessed the leaf cups Shabari had made, so that leaves would keep growing naturally in the shape of little bowls.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shabari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki lists the signs of holiness she showed Rama in her teachers' woodland: the western altar where they offered flowers, bark cloths that never dried and flower garlands that never wilted, even though the sages themselves had long gone.",
+      "kind": "place",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki's chapter says the lake Pampa became holy when the seven seas gathered there for sages too frail to travel to the ocean to bathe.",
+      "kind": "place",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Shabari tells Rama that seeing him has made her life complete and that she has mastered the six inner enemies. With his permission she enters the sacred fire and rises to heaven in shining ornaments.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a devotional retelling Wikipedia summarises from Sant Keshavadas, Rama names nine ways of devotion to Shabari: good company, hearing his tales, serving a teacher, group singing, repeating his name, self-control, seeing him everywhere, and surrender.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Shabari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kerala's Sabarimala hill is traditionally said to be named after Shabari, the name meaning the hill of Sabari, in honour of an elderly woman devotee who is thought to have lived there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sabarimala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Purana literature, according to Wisdomlib's entry, gives her an earlier life as Malini, a gandharva king's daughter who was cursed by her husband to be reborn as a hunter-woman, and she is freed by meeting Rama.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/shabari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's Aranya Kanda, Kabandha tells Rama about Lake Pampa and urges him to visit Shabari, who has been waiting a very long time for a glimpse of him. Rama follows the way he describes.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki, it is Kabandha who tells Rama that Sugriva lives with four vanaras in a cave closed by a boulder on a hill near Pampa. Later retellings give this pointer to Shabari instead.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga73/aranyasans73.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a retelling cited by Wikipedia, Matanga tells Shabari near the end of his life that Rama will one day come to her if she keeps serving. He then sits in the lotus posture and leaves his body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shabari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Gujarat's Dang district, Shabari Dham and Pampa Sarovar in the Subir area have a temple built where local belief places Rama's meeting with Shabari. The site is about 134 km from Surat.",
+      "kind": "place",
+      "source": "https://dangs.nic.in/tourist-place/shabridham/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the retelling Wikipedia summarises from Sant Keshavadas, Shabari was a village woman who left home to learn dharma. She found the sage Matanga at the foot of Mount Rishyamukha, near Kishkindha, and served him for many years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shabari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Valmiki never states Shabari's social standing. In the Adhyatma Ramayana and Tulsidas she speaks of her own humble birth, and in the Adhyatma telling Rama answers that station does not matter to him.",
+      "kind": "text",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Balaram Das's Odia Dandi Ramayana, Shabari and her husband, a Shabara, hear of Rama's coming from Indra, and the fruit is a maroon-blushed mango variety, not a berry.",
+      "kind": "text",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Devdutt Pattanaik notes that the tasted-berry version spread through the Gita Press magazine Kalyan last century, and that the 1980s Sagar Ramayan TV serial fixed it in public memory.",
+      "kind": "art",
+      "source": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where does Shabari wait for Rama in the Ramayana?",
+      "options": ["Near Lake Pampa", "In Ayodhya", "On Lanka", "In Mithila"],
+      "answer": 0,
+      "why": "In the Valmiki Ramayana her hermitage is near the lake Pampa."
+    },
+    {
+      "q": "In the famous berry story, what does Shabari do before she gives berries to Rama?",
+      "options": ["Washes them", "Tastes them", "Paints them", "Counts them"],
+      "answer": 1,
+      "why": "In later tellings she tastes each berry so only sweet ones are offered."
+    },
+    {
+      "q": "Who was Shabari's teacher in the tradition?",
+      "options": ["Sage Narada", "Sage Matanga", "Sage Atri", "Sage Agastya"],
+      "answer": 1,
+      "why": "Matanga is named as the guru whose followers she served."
+    },
+    {
+      "q": "Which Kerala hill is traditionally said to be named after her?",
+      "options": ["Nilgiri", "Sabarimala", "Arunachala", "Kailasa"],
+      "answer": 1,
+      "why": "Sabarimala means the hill of Sabari, by tradition."
+    },
+    {
+      "q": "In the Odia Dandi Ramayana, which fruit does Shabari go looking for?",
+      "options": ["Mangoes", "Coconuts", "Bananas", "Figs"],
+      "answer": 0,
+      "why": "Balaram Das's 15th-century Odia Dandi Ramayana has her hunt for sweet mangoes; the berries came later."
+    }
+  ],
+  "related": ["rama", "lakshmana", "sugriva", "hanuman", "sita"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shabari",
+    "valmiki": "https://www.valmikiramayan.net/utf8/aranya/sarga74/aranyasans74.htm",
+    "dang": "https://dangs.nic.in/tourist-place/shabridham/",
+    "devdutt": "https://devdutt.com/did-shabari-actually-feed-ram-tasted-berries/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F6E3D0",
+    "c2": "#D9E7C8"
+  },
+  "order": 500
+}

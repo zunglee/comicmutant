@@ -410,4 +410,43 @@ export const MIGRATIONS: string[] = [
    WHERE reasons LIKE '%median answer under%' OR reasons LIKE '%faster than reading%';
   CREATE INDEX quiz_games_pace_held ON quiz_games(day, user_id) WHERE pace_held = 1;
   `,
+  `
+  -- Sacred India + Desi heroes (sacred-design.md): poll votes and fact reactions. One row per voter
+  -- ('u:<id>' fan, 'g:<guest cookie>' guest); changing a vote or reaction rewrites the row. The ip
+  -- column is a keyed hash kept as a signal for mods only, never a block (carrier NAT).
+  CREATE TABLE poll_votes (
+    poll_id TEXT NOT NULL,
+    voter TEXT NOT NULL,
+    option TEXT NOT NULL,
+    ip TEXT,
+    at INTEGER NOT NULL,
+    PRIMARY KEY (poll_id, voter)
+  ) WITHOUT ROWID;
+  CREATE INDEX poll_votes_tally ON poll_votes(poll_id, option);
+  CREATE INDEX poll_votes_voter ON poll_votes(voter);
+  CREATE TABLE fact_reactions (
+    target TEXT NOT NULL,            -- 'sacred:<slug>' | 'desi:<slug>'
+    idx INTEGER NOT NULL,
+    voter TEXT NOT NULL,
+    reaction TEXT NOT NULL CHECK (reaction IN ('whoa', 'knew')),
+    ip TEXT,
+    at INTEGER NOT NULL,
+    PRIMARY KEY (target, idx, voter)
+  ) WITHOUT ROWID;
+  CREATE INDEX fact_reactions_tally ON fact_reactions(target, idx, reaction);
+  CREATE INDEX fact_reactions_voter ON fact_reactions(voter);
+  `,
+  `
+  -- S15: shared-IP cap on new voters. Rows from a voter who arrived after N other new voters from
+  -- the same keyed IP hash in the hour are kept (the voter still sees their own choice) but flagged
+  -- and left out of public counts. since = first vote time (at moves on a change).
+  ALTER TABLE poll_votes ADD COLUMN flagged INTEGER NOT NULL DEFAULT 0;
+  ALTER TABLE poll_votes ADD COLUMN since INTEGER;
+  UPDATE poll_votes SET since = at;
+  CREATE INDEX poll_votes_ip ON poll_votes(poll_id, ip, since) WHERE flagged = 0;
+  ALTER TABLE fact_reactions ADD COLUMN flagged INTEGER NOT NULL DEFAULT 0;
+  ALTER TABLE fact_reactions ADD COLUMN since INTEGER;
+  UPDATE fact_reactions SET since = at;
+  CREATE INDEX fact_reactions_ip ON fact_reactions(target, ip, since) WHERE flagged = 0;
+  `,
 ];

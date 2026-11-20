@@ -1,0 +1,251 @@
+{
+  "slug": "matsya",
+  "name": "Matsya",
+  "aka": ["Meenavatara", "Fish avatar"],
+  "native": "मत्स्य",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The fish avatar of Vishnu, first of the Dashavatara",
+  "summary": "Matsya is the fish form that Vishnu is said to take in many Hindu texts. In the best-known story he warns the first man, Manu, about a great flood and guides him to safety.",
+  "about": "In Hindu tradition Matsya is the first avatar in most Dashavatara lists. The oldest known telling is in the Shatapatha Brahmana, where a small fish asks Manu for protection and later saves him from a flood, without being named as a god. The Mahabharata says the fish is Brahma, while the Matsya Purana and the Bhagavata Purana say it is Vishnu. In those Puranas the fish grows bigger and bigger, tows Manu's boat to a mountain peak, and helps save seeds of life and the Vedas. The Matsya Purana is named after him. Different texts tell the story in different ways, and some leave the flood out altogether.",
+  "kidSummary": "Matsya is the fish form of Vishnu. In the story, a tiny fish asks a kind man named Manu to keep it safe. The fish grows huge and later helps Manu and many living things survive a giant flood.",
+  "story": [
+    {
+      "title": "A tiny fish",
+      "text": "In the Shatapatha Brahmana, Manu is washing his hands in water when a small fish speaks. It begs him to protect it from bigger fish."
+    },
+    {
+      "title": "The fish grows",
+      "text": "In later tellings such as the Mahabharata, Manu keeps it in a jar, then a tank, then the Ganga, until only the sea is big enough."
+    },
+    {
+      "title": "A warning",
+      "text": "The fish tells Manu that a great flood is coming. It tells him to build a boat and be ready."
+    },
+    {
+      "title": "The boat and the horn",
+      "text": "When the water rises, Manu boards the boat. In many Puranas the fish appears with a horn, and a serpent serves as rope to tow the boat."
+    },
+    {
+      "title": "A new beginning",
+      "text": "The boat is led to safety on a high mountain. Many tellings say Manu saves seeds and the Vedas, so life and learning can begin again."
+    }
+  ],
+  "teaches": [
+    "Kindness to the small can come back many times over",
+    "Be ready when wise advice warns you",
+    "Learning and life are worth protecting"
+  ],
+  "symbol": "wave",
+  "emblems": ["Fish", "Horned fish form (Vishnudharmottara)", "Boat of Manu"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Saved",
+      "name": "Manu",
+      "slug": "manu"
+    }
+  ],
+  "texts": ["Shatapatha Brahmana", "Mahabharata (Vana Parva)", "Matsya Purana", "Bhagavata Purana"],
+  "places": [
+    "Kakkur Matsya temple, Kerala",
+    "Chennakesava Temple, Somanathapura",
+    "Machhenarayan fair, Nepal"
+  ],
+  "festivals": ["Matsya Jayanti", "Meenesh Jayanti"],
+  "facts": [
+    {
+      "text": "The ancient scholar Yaska explained the name matsya by saying fish revel in eating one another, which matches the big-fish, small-fish worry that starts the flood story.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "An Atharvaveda prayer mentions a golden ship resting on a Himalayan peak. The scholar Maurice Bloomfield suggested it may be an echo of Manu's boat.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Matsya Purana opens with Manu giving up worldly life and doing austerities on the Malaya hills, which Wikipedia reads as Kerala. Brahma is pleased and grants his wish to rescue the world when it dissolves, and the boat here is called the ship of the Vedas.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In several Puranas the great serpent Shesha serves as the rope that ties Manu's boat to the fish's horn, though the Linga Purana mentions the tail instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata Purana says an asura named Hayagriva stole the Vedas when they slipped from the mouth of a yawning Brahma, and Matsya went after them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana the fish gives a seven-day warning, telling the king to gather every kind of animal, plant and seed, plus the seven sages, into a boat.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a Skanda Purana tale, Brahma asks for help against a demon named Damanaka who torments people from the waters. Vishnu, as Matsya, drags him out and crushes him on land, and the demon turns into a fragrant herb that Vishnu wears in his garland.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One Padma Purana tale has an asura named Makara hide the Vedas in the cosmic ocean. Matsya dives in, turns into a crocodile and defeats him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Matsya is shown in two ways: as a whole fish, often golden, or as Vishnu's upper body joined to the back half of a fish.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A relief at the Chennakesava Temple in Somanathapura shows Matsya with a fish's face on a human body, a rare way to carve him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kerala has three Matsya temples, and the main rite at Kakkur is minoottu, the feeding of fish.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Writers from Bhaktivinoda Thakur in the 1870s to J.B.S. Haldane later compared the avatars, fish first, to a story of evolution. Aurobindo called it a parable.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dashavatara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana the man who finds the little fish is Satyavrata, a king of the Dravida country in the south. He is making a water offering at the Kritamala river, which is identified with the Vaigai in Tamil Nadu.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One theory reads the story in the stars: Manu's boat is the Great Bear and the fish is the Little Bear, from the time when the star Thuban served as the Pole Star, around the 4th to 2nd millennium BCE.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Flood stories appear in many ancient cultures. In the Sumerian and Babylonian version the fish-god Ea warns the king in a dream and tells him to build a boat, which is why scholars compare it with Matsya's warning.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana's Karttika tale, the demon Shankha, a son of the ocean, steals the Vedas while Vishnu sleeps. The Vedas hide in the sea, and Vishnu wakes on Prabodhini Ekadashi, takes the form of a small saphari fish and destroys him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kerala's Theyyam ritual tradition, a performance called Palottu Theyyam represents the Matsya avatar, so the fish also lives on in a living temple art.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Matsya was not always number one. Some old lists do not put him first, and the Bhagavata and Garuda Puranas count him as the tenth of 22 avatars, describing him as the support of the earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some images the fish-man has four hands. Two hold Vishnu's discus and conch, and the front two hold a sword and a book that stands for the Vedas he rescued.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shatapatha Brahmana, Manu is the only survivor of the flood and restarts life with austerities and sacrifice. The goddess Ida appears from his offering, and together they begin the human race.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One reading of the Vedic tale, by Narayan Aiyangar, links Manu's ship to the ship of sacrifice named in the Rigveda and the Aitareya Brahmana. The fish then stands for Agni, the sacrificial fire, guiding people across a sea of troubles.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal form does Vishnu take as Matsya?",
+      "options": ["Tortoise", "Fish", "Boar", "Lion"],
+      "answer": 1,
+      "why": "Matsya means fish."
+    },
+    {
+      "q": "Who does Matsya warn about the great flood?",
+      "options": ["Manu", "Hanuman", "Indra", "Arjuna"],
+      "answer": 0,
+      "why": "In many tellings the first man Manu is warned and saved."
+    },
+    {
+      "q": "In the Shatapatha Brahmana, what does Manu tie his boat to?",
+      "options": ["The fish's horn", "A mountain tree", "A stone anchor", "A tall mast"],
+      "answer": 0,
+      "why": "The fish carries the boat by its horn."
+    },
+    {
+      "q": "Which Purana is named after Matsya?",
+      "options": ["Garuda Purana", "Matsya Purana", "Linga Purana", "Padma Purana"],
+      "answer": 1,
+      "why": "The Matsya Purana carries his name."
+    },
+    {
+      "q": "In the Bhagavata Purana, which asura steals the Vedas?",
+      "options": ["Hayagriva", "Hiranyaksha", "Ravana", "Kamsa"],
+      "answer": 0,
+      "why": "Hayagriva, the horse-necked asura, takes the Vedas, and Matsya goes after them."
+    }
+  ],
+  "related": ["vishnu", "manu", "brahma", "kurma", "varaha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Matsya",
+    "dashavatara": "https://en.wikipedia.org/wiki/Dashavatara"
+  },
+  "palette": {
+    "c1": "#b9dcec",
+    "c2": "#e8f3f6"
+  },
+  "order": 1
+}

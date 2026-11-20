@@ -1,0 +1,221 @@
+{
+  "slug": "guru-har-krishan",
+  "name": "Guru Har Krishan",
+  "aka": ["Bal Guru", "Eighth Nanak", "Bala Pritam"],
+  "native": "ਗੁਰੂ ਹਰਿ ਕ੍ਰਿਸ਼ਨ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Eighth Sikh Guru, the child Guru (1661–1664)",
+  "summary": "Guru Har Krishan became Guru at about five years old, the youngest in Sikh history. He is remembered for caring for the sick in Delhi before he died there in 1664.",
+  "about": "Har Krishan was the younger son of Guru Har Rai and was born at Kiratpur Sahib. Sources disagree about his exact birth year: some give 1656 and others 1652, and early biographies are scarce and inconsistent. After his father cut off the elder brother Ram Rai, he was named Guru in October 1661 while still a small child, making him the youngest Guru. The emperor Aurangzeb called him to Delhi, where he stayed at the home of Raja Jai Singh. Sikh tradition says he cared for ordinary people suffering from illness there and then caught smallpox himself. He died on 30 March 1664, aged about seven and a half, and Gurdwara Bangla Sahib now stands where he stayed. Sikhs read his last words as pointing to Baba Tegh Bahadur, in the village of Bakala, as the ninth Guru.",
+  "kidSummary": "Guru Har Krishan was the youngest Sikh Guru. He became Guru when he was only about five years old! He went to Delhi, where he looked after people who were sick, and he is remembered for his kindness and courage.",
+  "story": [
+    {
+      "title": "The youngest Guru",
+      "text": "When his father, Guru Har Rai, passed away in 1661, five-year-old Har Krishan became the eighth Guru. No other Sikh Guru has been younger."
+    },
+    {
+      "title": "A call to Delhi",
+      "text": "The emperor Aurangzeb asked the young Guru to come to Delhi. At Panjokhra near Ambala, tradition says a proud scholar doubted him, and a village water-carrier explained the Gita."
+    },
+    {
+      "title": "Helping the sick",
+      "text": "In Delhi, Sikh stories say, many people were ill with smallpox. The child Guru stayed with Raja Jai Singh and cared for the sick of every background."
+    },
+    {
+      "title": "The Guru falls ill",
+      "text": "Then Har Krishan himself became unwell with smallpox. He died on 30 March 1664, at about seven and a half years old."
+    },
+    {
+      "title": "A hint about what comes next",
+      "text": "Sikhs remember his last words as a clue that the next Guru lived in the village of Bakala. That Guru turned out to be his great-uncle, Tegh Bahadur."
+    }
+  ],
+  "teaches": [
+    "Be kind to people who are sick",
+    "Courage and wisdom do not depend on age",
+    "Serve everyone without asking who they are"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Water from the sarovar at Bangla Sahib"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Guru Har Rai",
+      "slug": "guru-har-rai"
+    },
+    {
+      "relation": "brother",
+      "name": "Ram Rai"
+    },
+    {
+      "relation": "successor and great-uncle",
+      "name": "Guru Tegh Bahadur",
+      "slug": "guru-tegh-bahadur"
+    },
+    {
+      "relation": "great-grandfather",
+      "name": "Guru Hargobind",
+      "slug": "guru-hargobind"
+    }
+  ],
+  "texts": ["Guru Granth Sahib", "Sikh sakhis (traditional tales)"],
+  "places": [
+    "Kiratpur Sahib",
+    "Gurdwara Bangla Sahib, Delhi",
+    "Gurdwara Panjokhra Sahib, Ambala",
+    "Gurdwara Bala Sahib, Delhi"
+  ],
+  "festivals": ["Gurpurab of Guru Har Krishan"],
+  "facts": [
+    {
+      "text": "He became Guru in October 1661 at about five years old, the youngest of all ten Gurus. His guruship lasted about two years, five months and 24 days, the shortest in Sikh history.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some Sikh sources say he refused to meet Aurangzeb in person because he expected the emperor to demand miracles, which Sikhism does not allow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sikh accounts say that when sickness spread through Delhi he helped the ill and then caught smallpox himself, perhaps while curing followers, so his planned meeting with the emperor never took place.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Raja Jai Singh built a small tank over a well at the site, and today many Sikhs carry its water home as amrit, believing it can heal.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bangla Sahib gets its name from 'bangla', the local pronunciation of the word bungalow, because the gurdwara stands where the Guru stayed at Raja Jai Singh's bungalow.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sikhs read his last words, 'Baba Bakale', as pointing to Tegh Bahadur, his great-uncle, who lived in the village of Bakala.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the vague clue, many men in Bakala claimed to be the ninth Guru. The trader Makhan Shah Labana, who had vowed 500 gold coins, offered two coins to each, and cried 'Guru ladho re' ('I found the Guru') when Tegh Bahadur asked for the rest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Tegh_Bahadur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kavi Santokh Singh says he told his followers that the seat of Guru Nanak would continue and the Granth Sahib was the true Guru, then asked for a coconut and five paise, which Sikhs read as passing on the succession.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Panjokhra near Ambala, tradition says the proud scholar Pandit Lal Chand doubted the child Guru, who had Chhajju, an unlettered water-carrier, explain the Gita. The scholar's pride was broken, and he later joined the Khalsa as Lal Singh.",
+      "kind": "story",
+      "source": "https://www.haryana.gov.in/places-centres/panjokhra-sahib-gurudwaraambala/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Delhi he told his treasurer, Diwan Dargah Mal, to spend all the daily offerings on the poor and sick.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Today the Bangla Sahib complex runs a hospital, and in 2021 it opened a diagnostic centre offering MRI scans for the poor at only 50 rupees, a service that echoes his care for the sick.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the Guru drew a boundary of sand on the ground at Panjokhra, and people who stood inside it and prayed were believed to have their wishes granted. A shrine now marks the spot.",
+      "kind": "story",
+      "source": "https://www.haryana.gov.in/places-centres/panjokhra-sahib-gurudwaraambala/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Sikh account says Chhajju's son later became Bhai Himmat Singh, one of the Panj Piare of 1699. This is one telling; other histories describe the five as men of different castes from distant regions, so it is not the only version.",
+      "kind": "history",
+      "source": "https://sikhri.org/guru_harikrishan_sahib_benevolent_wisdom_child",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Aurangzeb summoned him to Delhi through Raja Jai Singh, reportedly planning to replace the child Guru with his brother Ram Rai, but the choice of Tegh Bahadur later frustrated the emperor.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sources clash on his birth date. The page's opening gives 7 July 1656, while the biography section gives 20 July 1652, so even the age at which he became Guru depends on which is used.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How old was Guru Har Krishan when he became Guru?",
+      "options": ["About 5", "About 12", "About 25", "About 40"],
+      "answer": 0,
+      "why": "He became the eighth Guru at about five years old."
+    },
+    {
+      "q": "Which famous gurdwara in Delhi is linked to him?",
+      "options": ["Sis Ganj Sahib", "Bangla Sahib", "Hazur Sahib", "Golden Temple"],
+      "answer": 1,
+      "why": "Bangla Sahib stands where he stayed in Delhi."
+    },
+    {
+      "q": "Which nickname means the child Guru?",
+      "options": ["Bal Guru", "Chhota Sahib", "Raj Guru", "Hari Rai"],
+      "answer": 0,
+      "why": "Bal means child, so Bal Guru means child Guru."
+    },
+    {
+      "q": "Who became the ninth Guru after him?",
+      "options": ["Guru Arjan", "Guru Angad", "Guru Hargobind", "Guru Tegh Bahadur"],
+      "answer": 3,
+      "why": "His great-uncle Tegh Bahadur became the ninth Guru."
+    },
+    {
+      "q": "Which illness did he catch while caring for people in Delhi?",
+      "options": ["Smallpox", "Malaria", "Cholera", "Plague"],
+      "answer": 0,
+      "why": "Sikh accounts say he caught smallpox in 1664 while caring for the sick."
+    }
+  ],
+  "related": ["guru-har-rai", "guru-tegh-bahadur", "guru-hargobind", "guru-gobind-singh"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Har_Krishan",
+    "banglasahib": "https://en.wikipedia.org/wiki/Gurdwara_Bangla_Sahib"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f2d9c4",
+    "c2": "#cfe2ec"
+  },
+  "years": "1656–1664",
+  "order": 8
+}

@@ -1,0 +1,285 @@
+{
+  "name": "Jagannath",
+  "aka": ["Jagannatha", "Kalia", "Nilamadhava", "Purushottama", "Daru Brahma"],
+  "native": "जगन्नाथ",
+  "role": "Lord of the Universe, worshipped at Puri in Odisha",
+  "summary": "Jagannath is the much-loved deity of Puri, honoured with his brother Balabhadra and sister Subhadra. Most Vaishnavas see him as a form of Krishna, and his chariot festival draws huge crowds.",
+  "about": "Jagannath, whose name means lord of the universe, is worshipped at the great temple of Puri on the Odisha coast, together with Balabhadra and Subhadra. His image is carved from neem wood, which is unusual among Hindu temple images, and is renewed in a ceremony called Nabakalebara. Most Vaishnavas honour him as a regional form of Krishna, while some Shaiva and Shakta traditions see in him a form of Bhairava, so the tradition holds many views at once. The Skanda Purana tells how King Indradyumna searched for the sacred image and built the temple. Puri is counted among the four Char Dham pilgrimage sites. Each year the Rath Yatra carries the three deities on huge wooden chariots, and the English word juggernaut comes from early outside accounts of it.",
+  "kidSummary": "Jagannath is a much-loved form of God worshipped in Puri, a town by the sea in Odisha. He has big round eyes and is shown with his brother Balabhadra and sister Subhadra. Every year the three travel on giant wooden chariots pulled by thousands of happy people.",
+  "story": [
+    {
+      "title": "Lost under the sand",
+      "text": "In the Skanda Purana version, a storm buries the sacred image under sand, and King Indradyumna searches long and hard for it."
+    },
+    {
+      "title": "A temple is built",
+      "text": "With the help of divine guidance, the king raises a great temple for the image, and many offerings are made at its opening."
+    },
+    {
+      "title": "Three wooden forms",
+      "text": "The deities are carved from neem wood: Jagannath with his brother Balabhadra and his sister Subhadra, sitting side by side."
+    },
+    {
+      "title": "The yearly journey",
+      "text": "Each summer the three are placed on tall chariots and pulled along the Grand Road, so that everyone, not only temple visitors, can see them."
+    },
+    {
+      "title": "A visit to a garden temple",
+      "text": "They travel about three kilometres to the Gundicha temple, stay for a few days, and then return home again."
+    },
+    {
+      "title": "Home to Lakshmi",
+      "text": "Back at the temple, tradition says Jagannath brings a sweet gift for Lakshmi so she lets him in, and the festival ends with joy."
+    }
+  ],
+  "teaches": [
+    "God is for everyone, who can see him in the street procession",
+    "Brothers and sisters belong together",
+    "Sharing food is a way of sharing love"
+  ],
+  "symbol": "wave",
+  "emblems": [
+    "Neem-wood image",
+    "Round eyes (said to be sun and moon)",
+    "Nila Chakra on the temple top",
+    "Chariots at Rath Yatra"
+  ],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Balabhadra",
+      "slug": "balarama"
+    },
+    {
+      "relation": "Sister",
+      "name": "Subhadra",
+      "slug": "subhadra"
+    },
+    {
+      "relation": "Consort",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Seen by many as a form of",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Skanda Purana",
+    "Rigveda 10.155 (linked by Sayana)",
+    "Bhavishya Purana",
+    "Odia temple chronicles"
+  ],
+  "places": ["Jagannath Temple, Puri", "Gundicha Temple, Puri", "Dhamrai, Bangladesh"],
+  "festivals": ["Rath Yatra", "Snana Yatra", "Nabakalebara", "Niladri Bije"],
+  "facts": [
+    {
+      "text": "The English word juggernaut, for an unstoppable force, comes from early British accounts of the big Jagannath chariots.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The main image is a painted neem log with no neck, ears or limbs and a large round face. Most Hindu images are stone or metal.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The wide round eyes of the image are said by tradition to stand for the sun and the moon.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Every 8, 12 or 19 years the wooden images are replaced in Nabakalebara, meaning 'new body'. The old images are buried at Koili Vaikuntha in the temple compound, and the timing follows a lunar year with a second Asadha month.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one famous telling, Vishnu appears as a carpenter to carve the images behind a closed door, but the door is opened early and the figures are left unfinished, without hands.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Puri temple kitchen is called the second largest in the world. All 56 offered foods are vegetarian and made without onion or garlic.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Temple tradition says Lakshmi watches over the kitchen. If a dish is spoiled, a shadow dog appears and the batch is buried and recooked.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "A new flag is raised on the Nila Chakra every day, and the flag is treated as equal in sanctity to the deities inside.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Jagannath chariot is roughly 14 metres high and takes about two months to build. New chariots are made every year.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During the chariot festival the Gajapati king sweeps the road in front of the deities with a gold-handled broom.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Guru Nanak, on a journey to eastern India in 1506 or 1508, recited the aarti 'Gagan mein thaal' at Puri, sung without any platters or lamps.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "After the Snana Yatra bath, tradition says the deities fall ill and rest out of public view for about fifteen days, tended by special servitors called Daitapatis.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Niladri Bije, Jagannath is said to offer rasgulla to Lakshmi so that she lets him back into the sanctum.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A legend identifies Jagannath with Nilamadhava, a blue-stone image of Narayana worshipped by the Sabar and Bhil communities, and the Daitapati servitors claim descent from those tribes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Chaitanya Mahaprabhu, the founder of Gaudiya Vaishnavism, lived in Puri for 24 years and taught the chanting of the Hare Krishna mantra there.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "ISKCON spread the Rath Yatra abroad from 1968, and it is now held each year in over 108 cities.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Rath_Yatra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the legend recorded in the Madala Panji, King Indradyumna planned a monument for Jagannath meant to be the tallest in the world, about 457 metres, and invited Brahma himself to consecrate it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Italian friar Odoric of Pordenone, who travelled in India from 1316 to 1318, described people placing the deities on chariots and drawing them with song and music, one of the earliest Western reports of a Hindu festival.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The earliest known mention of Jagannath is in the Jnanasiddhi, a Vajrayana Buddhist tantric text by Indrabhuti, which opens with a greeting to him, though scholars debate whether this is the same deity.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tradition says Jagannath's food is not counted as mahaprasad until it has also been offered to Goddess Vimala, whose temple, a Shakta pitha, stands inside the same complex.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Kanchi legend, Jagannath rides a white horse and Balabhadra a black one. A milkmaid named Manika is paid for her curd with a gold ring, which later convinces a king that the gods are helping his campaign.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jagannath",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Nila Chakra, the blue disc on top of the temple, is made of eight metals, stands about 3.5 metres tall, and has eight Navagunjaras carved around its rim.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Jagannath mean?",
+      "options": [
+        "Lord of the mountain",
+        "Lord of the universe",
+        "Lord of the river",
+        "Lord of the sky birds"
+      ],
+      "answer": 1,
+      "why": "Jagat means universe and natha means master."
+    },
+    {
+      "q": "What wood are the main Jagannath images carved from?",
+      "options": ["Teak", "Sandalwood", "Neem", "Bamboo"],
+      "answer": 2,
+      "why": "The images are made of neem wood and renewed in Nabakalebara."
+    },
+    {
+      "q": "Which English word comes from the Jagannath chariots?",
+      "options": ["Bungalow", "Juggernaut", "Shampoo", "Pyjamas"],
+      "answer": 1,
+      "why": "Juggernaut comes from early outside accounts of the Rath Yatra."
+    },
+    {
+      "q": "Where do the chariots travel during the Rath Yatra?",
+      "options": ["To the Gundicha Temple", "To the sea only", "To Delhi", "To a mountain"],
+      "answer": 0,
+      "why": "They go about 3 km to Gundicha Temple and return."
+    },
+    {
+      "q": "What sweet does Jagannath offer Lakshmi on Niladri Bije?",
+      "options": ["Jalebi", "Rasgulla", "Laddu", "Kheer"],
+      "answer": 1,
+      "why": "Tradition says Jagannath gives rasgulla to Lakshmi so she lets him back into the sanctum."
+    }
+  ],
+  "related": ["krishna", "balarama", "subhadra", "vishnu", "lakshmi", "vamana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jagannath",
+    "temple": "https://en.wikipedia.org/wiki/Jagannath_Temple,_Puri",
+    "rath_yatra": "https://en.wikipedia.org/wiki/Rath_Yatra"
+  },
+  "palette": {
+    "c1": "#e6c27a",
+    "c2": "#7fa8c9"
+  },
+  "order": 60,
+  "slug": "jagannath",
+  "tradition": "hindu",
+  "group": "deva",
+  "depth": "full"
+}

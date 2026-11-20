@@ -1,0 +1,275 @@
+{
+  "slug": "shurpanakha",
+  "name": "Shurpanakha",
+  "aka": ["Surpanakha", "Chandranakha", "Sammanakha (Thai)"],
+  "native": "शूर्पणखा",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Rakshasi sister of Ravana in the Ramayana",
+  "summary": "Shurpanakha is the sister of Ravana in the Ramayana. Her meeting with Rama and Lakshmana in the Dandaka forest sets in motion the events that lead to Sita's abduction and the war in Lanka.",
+  "about": "In the Valmiki Ramayana Shurpanakha is the daughter of Vishrava and Kaikasi and the sister of Ravana, Kumbhakarna and Vibhishana. Texts say she lost her husband Vidyutjihva to Ravana's anger, then lived in the Dandaka forest near Khara and Dushana, whom Valmiki calls her brothers and some other accounts call her cousins. There she meets Rama, proposes marriage and is turned away. When she turns on Sita, Lakshmana wounds her to stop her, and her brothers' attack on Rama and Lakshmana fails. She then tells Ravana, setting in motion his plan to take Sita. Versions differ. The Tamil Kamba Ramayanam shows her as a lovelorn woman, Jain tellings make her Chandranakha mourning her son, and many modern writers see her story as a moving study of rejection.",
+  "kidSummary": "Shurpanakha is Ravana's sister in the Ramayana. She meets Rama in the forest and asks to marry him, but he is already married to Sita. Hurt and angry, she goes to her brothers, and that starts the chain of events that leads to the great war. Different tellings show her in very different ways.",
+  "story": [
+    {
+      "title": "A lonely life",
+      "text": "In the epic, Shurpanakha is the sister of Ravana. After her husband Vidyutjihva is killed in a quarrel with her brother, she makes her home in the Dandaka forest."
+    },
+    {
+      "title": "A meeting in the forest",
+      "text": "At Panchavati, she sees Rama and wants to marry him. Rama gently refuses because he is already married to Sita, and Lakshmana also declines her."
+    },
+    {
+      "title": "Anger and a wound",
+      "text": "Shurpanakha turns on Sita in anger, and Lakshmana wounds her to stop her. She goes to her brother Khara for help."
+    },
+    {
+      "title": "Khara's army",
+      "text": "Khara sends fourteen warriors and then a large army. Rama defeats them all, and only Akampana escapes to carry word to Lanka."
+    },
+    {
+      "title": "News reaches Ravana",
+      "text": "Shurpanakha goes to Ravana's court and speaks of Sita's beauty. This leads Ravana to plan Sita's abduction, though in traditional editions Maricha first tries to talk him out of it."
+    }
+  ],
+  "teaches": [
+    "Think before reacting to hurt",
+    "Being kind when saying no matters",
+    "Every story has more than one side"
+  ],
+  "symbol": "feather",
+  "emblems": ["Dandaka forest", "Panchavati", "Godavari river"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Kumbhakarna",
+      "slug": "kumbhakarna"
+    },
+    {
+      "relation": "Brother",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Sister-in-law",
+      "name": "Mandodari",
+      "slug": "mandodari"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Kamba Ramayanam",
+    "Ramcharitmanas",
+    "Paumacariyam (Jain)",
+    "Thai Ramakien"
+  ],
+  "places": ["Panchavati, Nashik", "Dandaka forest", "Godavari river"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Shurpanakha means 'she whose fingernails are like winnowing fans', the flat baskets used to sift grain.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shurpanakha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kamban's Tamil Ramayanam she is a beautiful, lovelorn woman whose actions come from loneliness, while Valmiki describes her as ill-favoured. The two poets give her very different faces.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shurpanakha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She secretly married the Danava prince Vidyutjihva. Ravana killed him in battle, but was stopped from harming her too when Mandodari, Kumbhakarna and Vibhishana pleaded for her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shurpanakha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "While Rama faced Khara's fourteen thousand rakshasas, he sent Sita away with Lakshmana to shelter in a mountain cave. The gods watched, wondering how one man could fight such an army (Valmiki Aranya 24).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga24/aranyaitrans24.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Trishira, a commander of Khara's army, hit Rama with arrows that Rama said felt no worse than a pat from flowers. Rama then killed him in battle (Valmiki Aranya 27).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga27/aranyaitrans27.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Aranya 33, Shurpanakha scolds Ravana in his court for neglecting his duties as king, and lists what a good king should do to guard his realm.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyaitrans33.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Nashik, on the Godavari, is traditionally named as the place where Lakshmana cut off her nose. Hindu tradition says it was earlier called Padmanagar, Trikantak and Janasthana.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Nashik",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Jain Paumacariya, she is Chandranakha. Her son Sambuka does penance for a magic sword, and Lakshmana kills him after finding it. In Valmiki the Sambuka who dies has no link to her.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Critical_Study_Of_Paumacariyam/022643/93",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In that Jain version she sees the two princes, her anger melts, and she becomes a weeping young girl. Sita comforts her, and she asks Rama to marry her before going home.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Critical_Study_Of_Paumacariyam/022643/93",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Kamban's version she appears as a lovely woman and asks Rama to ease the pain sent by Manmatha, the god of love, proposing a gandharva marriage, a union of mutual choice.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc72396.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Commentators pair her speech in Valmiki Aranya 33 with Kishkindha 33: both teach royal duty, but Sugriva had Tara to save him, while Ravana had nobody to answer her rebuke.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyaitrans33.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The one survivor of Khara's army, Akampana, was her own maternal uncle, a son of Sumali, and he fled to Lanka with the news.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shurpanakha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Vidyutjihva fell, Ravana, moved by her grief, told her to roam the three worlds and choose any husband. She set out with Khara, Dushana and Trishira.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241994.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Khara hurled a giant mace that scorched the plants around it, and Rama broke it to pieces while it was still flying through the air (Valmiki Aranya 29).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga29/aranyaitrans29.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's version she shows her fearsome form when Lakshmana mocks her. Sita is frightened, and Rama signals Lakshmana, who then wounds her.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Critical_Study_Of_Paumacariyam/022643/93",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien she is Sammanakha, who takes the form of a beautiful maiden to win the brothers. They punish her, and in revenge Thotsakan carries Sida off to Lanka.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ramakien",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Panchavati means the grove of five banyan trees. The Godavari bank at Nashik where the exiles lived has a Sita Cave, said to be where Sita stayed and was later carried off.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Panchavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Puranic Encyclopaedia says Vishrava and Kaikasi had Ravana, Kumbhakarna, Vibhishana and Shurpanakha at intervals of one yama, roughly three hours.",
+      "kind": "family",
+      "source": "https://www.wisdomlib.org/hinduism/compilation/puranic-encyclopaedia/d/doc241994.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Shurpanakha tells Ravana what happened, she says she could not even see Rama draw and loose his arrows. One man on foot, she says, killed fourteen thousand rakshasas in about an hour and a half (Valmiki Aranya 34).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga34/aranyaitrans34.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In traditional editions of the Aranya Kanda, the spy Akampana tells Ravana to steal Sita, since losing her would break Rama. Critical-edition scholars leave this chapter out.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyaitrans31.htm",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Shurpanakha's name describe?",
+      "options": [
+        "Fingernails like winnowing baskets",
+        "A golden crown",
+        "A thunder voice",
+        "Eyes like lotus"
+      ],
+      "answer": 0,
+      "why": "Her name refers to nails like winnowing fans."
+    },
+    {
+      "q": "Who is Shurpanakha's brother and the king of Lanka?",
+      "options": ["Rama", "Hanuman", "Ravana", "Sugriva"],
+      "answer": 2,
+      "why": "Ravana is her brother."
+    },
+    {
+      "q": "Which river flows beside Panchavati where the episode took place?",
+      "options": ["Ganga", "Godavari", "Yamuna", "Kaveri"],
+      "answer": 1,
+      "why": "Panchavati is on the Godavari."
+    },
+    {
+      "q": "Which Tamil Ramayana shows her as a lonely, lovelorn woman?",
+      "options": ["Kamba Ramayanam", "Ramcharitmanas", "Krittivasi Ramayan", "Kakawin Ramayana"],
+      "answer": 0,
+      "why": "Kamban's Tamil Ramayanam shows her as lovelorn, which humanises her."
+    },
+    {
+      "q": "Which of her brothers did she go to first for help after her wound?",
+      "options": ["Khara", "Vibhishana", "Kumbhakarna", "Indrajit"],
+      "answer": 0,
+      "why": "Khara sent fourteen rakshasas and later an army."
+    }
+  ],
+  "related": [
+    "ravana",
+    "rama",
+    "lakshmana",
+    "sita",
+    "mandodari",
+    "vibhishana",
+    "kumbhakarna",
+    "maricha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shurpanakha",
+    "valmiki-18": "https://www.valmikiramayan.net/utf8/aranya/sarga18/aranyaitrans18.htm",
+    "valmiki-33": "https://www.valmikiramayan.net/utf8/aranya/sarga33/aranyaitrans33.htm",
+    "jain-paumacariya": "https://jainqq.org/pagetext/Critical_Study_Of_Paumacariyam/022643/93",
+    "nashik": "https://en.wikipedia.org/wiki/Nashik",
+    "ravana": "https://en.wikipedia.org/wiki/Ravana"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#C4B5D6",
+    "c2": "#E8DCC4"
+  },
+  "order": 50
+}

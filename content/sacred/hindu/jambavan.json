@@ -1,0 +1,259 @@
+{
+  "slug": "jambavan",
+  "name": "Jambavan",
+  "aka": ["Jambuvan", "Jambavanta", "Jambuvant", "Riksharaja"],
+  "native": "जाम्बवान्",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Wise bear king in the Ramayana",
+  "summary": "Jambavan is the wise, ancient bear king who advises Rama's army in the Ramayana and reminds Hanuman of his strength. In the Puranas he later meets Krishna and gives him his daughter Jambavati.",
+  "about": "In the Valmiki Ramayana, Jambavan is an aged king of the bears who serves as an adviser and healer in Rama's army. When the vanaras stand helpless at the sea shore, he reminds Hanuman of his own strength and urges the great leap to Lanka. Puranic tradition says he was born from Brahma's yawn and has seen several ages, including the churning of the ocean and Vishnu's Vamana avatar. The Bhagavata and Vishnu Puranas tell how, in the Dvapara age, Krishna followed a trail to his cave while searching for the lost Syamantaka jewel. After a long fight Jambavan recognised Krishna as his old lord Rama, gave back the jewel and gave his daughter Jambavati in marriage.",
+  "kidSummary": "Jambavan is a very old and very wise bear king. In the Ramayana, he is the one who helps Hanuman remember how strong he is, so Hanuman can leap across the ocean. Later stories say Jambavan also meets Krishna and gives him a shining jewel and his daughter.",
+  "story": [
+    {
+      "title": "An ancient bear",
+      "text": "Jambavan is a very old bear king, wise and respected, and he travels with Rama's army in the search for Sita."
+    },
+    {
+      "title": "At the sea shore",
+      "text": "The vanaras reach the sea and nobody dares to cross. Jambavan tells them about great feats of his own youth, then looks at Hanuman."
+    },
+    {
+      "title": "Believing in Hanuman",
+      "text": "Jambavan reminds Hanuman that he can leap farther than anyone. Encouraged, Hanuman grows huge and jumps toward Lanka."
+    },
+    {
+      "title": "Krishna's cave",
+      "text": "In the Puranas, Krishna follows a missing jewel to Jambavan's cave. The two fight for many days, until Jambavan sees who Krishna really is."
+    },
+    {
+      "title": "A gift of thanks",
+      "text": "Jambavan gives the Syamantaka jewel back and offers his daughter Jambavati to Krishna in marriage."
+    }
+  ],
+  "teaches": [
+    "Encourage others to believe in themselves",
+    "Wisdom of age",
+    "Admit a mistake and make amends"
+  ],
+  "symbol": "tree",
+  "emblems": ["Bear form", "Syamantaka jewel (Puranic story)", "Cave"],
+  "family": [
+    {
+      "relation": "Daughter",
+      "name": "Jambavati",
+      "slug": "jambavati"
+    },
+    {
+      "relation": "Born from",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Lord he met",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Lord he served",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Bhagavata Purana", "Vishnu Purana", "Mahabharata"],
+  "places": ["Jambavan cave, Jamkhed", "Jambuvant Gufa, Ranavav"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Many Puranic accounts say Jambavan was born when Brahma yawned, while Brahma sat on a lotus that grew from Vishnu's navel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Kishkindha Kanda, Jambavan recalls that during Vishnu's Trivikrama stride across the worlds he circled the earth twenty-one times, moving around it with his right side toward it.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the same speech he recalls gathering herbs for the churning of the ocean of milk, at the gods' request, in his younger days.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Puranic tradition says Jambavan was already six manvantaras old by the time of the Ramayana. A manvantara is a vast age of the cosmos.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "With Parashurama and Hanuman, he is among the few said to have witnessed the births of both Rama and Krishna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At the sea each vanara named his longest leap, rising from ten to eighty yojanas; Jambavan said that even at his age he could still go ninety, but the ocean was a hundred.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jambavan reminded Hanuman that as a boy he had leapt at the rising sun, mistaking it for fruit, and Indra's thunderbolt had struck him down.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Indrajit's weapon left the army stunned, wounded Jambavan first asked whether Hanuman was alive, then sent him to the Himalayas for four healing herbs.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Syamantaka jewel, which Jambavan took from a lion, was said to give its owner eight bharas of gold every day, roughly 77 kilograms by one modern estimate.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "He also explains Hanuman's name: after Hanuman fell on a mountain, his left cheekbone, hanu, was broken, and that is how he came to be called Hanuman.",
+      "kind": "language",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Puranic tradition says Jambavan was already present when Vishnu fought the asuras Madhu and Kaitabha, which makes him one of the oldest beings in the stories.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Syamantaka story, Jambavan had given the jewel to his young son to play with, and Krishna found the child with it when he entered the cave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Syamantaka tale led to two of Krishna's marriages: to Jambavati, Jambavan's daughter, and to Satyabhama, whom her father Satrajit offered to make amends.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a later telling, Jambavan pierced Indrajit's chest with the trident Indrajit had hurled at him, and flung Indrajit back to Lanka after Indrajit had wounded Rama and Lakshmana with serpent arrows.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Puranas disagree on how long Krishna and Jambavan fought for the jewel: twenty-seven or twenty-eight days in the Bhagavata Purana, twenty-one in the Vishnu Purana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Krishna found the jewel by following clues: Prasena's body, a lion's teeth and claws, then tracks leading to Jambavan's cave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Syamantaka jewel glowed so brightly that when Satrajit wore it into Dvaraka, people mistook him for the sun god.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Rama's coronation Jambavan, Hanuman, Vegadarshi and Rishabha were among the vanaras who fetched jars of water from five hundred rivers for the anointing.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga128/yuddhasans128.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jambavati's son Samba got his name from Shiva's half-female, half-male form, in which Shiva appeared to Krishna after months of penance, as the Mahabharata and Devi Bhagavata tell it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jambavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana war he is described as a strategist and healer rather than a front-line fighter, though later tellings also show him fighting Ravana and Indrajit.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Jambavan",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What kind of being is Jambavan?",
+      "options": ["A lion", "A bear king", "A monkey prince", "A vulture"],
+      "answer": 1,
+      "why": "Jambavan is the wise bear king."
+    },
+    {
+      "q": "Whom did Jambavan encourage to leap to Lanka?",
+      "options": ["Angada", "Sugriva", "Hanuman", "Nala"],
+      "answer": 2,
+      "why": "He reminded Hanuman of his own strength."
+    },
+    {
+      "q": "What is the name of Jambavan's daughter who married Krishna?",
+      "options": ["Rukmini", "Jambavati", "Radha", "Subhadra"],
+      "answer": 1,
+      "why": "Jambavati means daughter of Jambavan."
+    },
+    {
+      "q": "How did Puranic tradition say Jambavan was born?",
+      "options": ["From a river", "From a flame", "From a seed", "From Brahma's yawn"],
+      "answer": 3,
+      "why": "Many Puranas say Brahma's yawn gave rise to him."
+    }
+  ],
+  "related": [
+    "hanuman",
+    "angada",
+    "krishna",
+    "jambavati",
+    "rama",
+    "brahma",
+    "vamana",
+    "indrajit",
+    "ravana"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Jambavan",
+    "jambavati": "https://en.wikipedia.org/wiki/Jambavati",
+    "kishkindha66": "https://www.valmikiramayan.net/utf8/kish/sarga66/kishkindhasans66.htm",
+    "k65": "https://www.valmikiramayan.net/utf8/kish/sarga65/kishkindhasans65.htm",
+    "y74": "https://www.valmikiramayan.net/utf8/yuddha/sarga74/yuddhasans74.htm",
+    "syamantaka": "https://en.wikipedia.org/wiki/Syamantaka"
+  },
+  "palette": {
+    "c1": "#C9A98B",
+    "c2": "#DCCDA6"
+  },
+  "order": 212,
+  "depth": "full"
+}

@@ -1,0 +1,252 @@
+{
+  "slug": "ambapali",
+  "name": "Ambapali",
+  "aka": ["Amrapali", "Ambapalika", "Amra"],
+  "native": "आम्रपाली",
+  "role": "Court dancer of Vaishali who became a Buddhist nun",
+  "summary": "In Buddhist tradition, Ambapali was a celebrated dancer of ancient Vaishali who invited the Buddha to a meal, gave him her mango grove, and later became an arhat.",
+  "about": "Ambapali, or Amrapali, lived in the republic of Vaishali in present-day Bihar around the 6th to 5th century BCE. Tradition says she was born miraculously at the foot of a mango tree, which is why her name means mango. She became the city's celebrated court dancer, known as a nagarvadhu. The Mahaparinibbana Sutta tells how she met the Buddha in her mango grove and invited him to eat with her, outdoing the Licchavi nobles who invited him later. She gave the grove to the Buddha's community of monks. Her son became a monk, and she herself later joined the order and became an arhat. Verses attributed to her are found in the Therigatha. Several films, novels and TV series retell her life.",
+  "kidSummary": "Ambapali was a famous dancer in the city of Vaishali whose name means mango. When the Buddha came to rest in her grove, she invited him to lunch, even before the princes could. Later she gave her whole grove to the Buddha's followers.",
+  "story": [
+    {
+      "title": "A baby by the mango tree",
+      "text": "One old story says a baby girl was born miraculously at the foot of a mango tree in the royal gardens of Vaishali, so she was named Ambapali, which means mango."
+    },
+    {
+      "title": "The famous dancer",
+      "text": "She grew up graceful and skilled in music and dance. In Vaishali she became the city's court dancer, and people came from near and far to see her."
+    },
+    {
+      "title": "A race to invite the Buddha",
+      "text": "The Buddha was resting in her mango grove. Ambapali drove out in a grand carriage to invite him to lunch, and he agreed by staying quiet."
+    },
+    {
+      "title": "Carriages collide",
+      "text": "On her way home, she bumped into the carriages of the Licchavi princes, who were also going to invite him. They offered coins to give up her turn, but she said no."
+    },
+    {
+      "title": "A gift of the grove",
+      "text": "The next morning she served the Buddha and his monks a lovely meal. Afterwards she gave her mango grove to the monks, and later she became a nun herself."
+    }
+  ],
+  "teaches": [
+    "Generosity opens the heart",
+    "Everything changes, even beauty",
+    "Worth is not measured by rank"
+  ],
+  "symbol": "tree",
+  "emblems": ["Mango tree", "Mango grove (Ambapali-vana)", "Carriage"],
+  "family": [
+    {
+      "relation": "Son",
+      "name": "Vimala Kondanna"
+    },
+    {
+      "relation": "Her guest and teacher",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "In one tradition, a royal visitor",
+      "name": "Bimbisara",
+      "slug": "bimbisara"
+    }
+  ],
+  "texts": [
+    "Mahaparinibbana Sutta (Digha Nikaya 16)",
+    "Therigatha 13.1",
+    "Gilgit Manuscripts",
+    "Chinese Tripitaka recensions"
+  ],
+  "places": ["Vaishali, Bihar", "Ambapali's mango grove", "Muzaffarpur (Ambara village)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Tradition says she was born unaided at the foot of a mango tree in the royal gardens of Vaishali. Her name comes from the Pali amba, mango; in Sanskrit it joins amra, mango, with pallava, young sprouts.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahaparinibbana Sutta she answers the offer of a hundred thousand by saying that she would not give up the meal even for Vesali with all its tributary lands.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One account says she charged fifty karshapanas to watch her perform for an evening, and that her treasury grew larger than some kings' treasuries.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She is described as skilled in music, dance, archery and horse handling, and a lover of classical song.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In her Therigatha poem (13.1) she sets youth against old age line by line: hair black as bees turns coarse like hemp, teeth like plantain buds turn broken and yellow, and the poem ends on a house whose fine plaster has fallen away.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.13.01.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a later legend, King Ajatashatru of Magadha was so moved by her beauty that he burned Vaishali, and when she saw her homeland ruined she gave up her love for him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her carriage bumped into those of young Licchavi nobles, who rode in groups by colour, in blue, yellow, red or white. When they heard her plan they offered a hundred thousand coins to give up the meal; she refused.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Licchavis snapped their fingers and said a mango-grove woman had outdone them, then went to the grove anyway, but the Buddha told them he had already accepted her invitation.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The nobles insulted her with the word ganika, but the Buddha did not share their prejudice, ate in her home and accepted her grove.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bimbisara legend, he took refuge in her house during a war on Vaishali; when she learned who he was, she asked him to stop the war and he did, which people thought cowardly.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her life inspired three films, in 1945, 1959 and 1966, with Vyjayanthimala playing her in the last. Hema Malini's TV series Women of India and a 2002 DD National serial also told her story.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her title nagarvadhu means 'bride of the city' and is glossed as royal courtesan. She also held the title rajnartaki, court dancer, so tellings of her life use both words.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When the Licchavi princes drove up in their carriages, the Buddha told his monks that anyone who had not seen the gods of the Thirty-three heavens could look at this crowd, for they looked much like them.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "She asked the Buddha and his monks to a meal the next day, and he accepted by staying silent. She had driven as far as her carriage could go and then walked the rest of the way on foot.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Each verse of her Therigatha poem sets a lost beauty against old age, such as a voice once sweet like a cuckoo's that now cracks, and ends with the same refrain: the Truth-speaker's words do not change.",
+      "kind": "text",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.13.01.than.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In her grove at Vesali the Buddha often taught the monks that concentration bears great fruit when built on good conduct, and that wisdom bears great fruit when built on concentration.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her son Vimala Kondanna became a respected elder. The commentary says she left lay life after hearing him teach, then studied the ageing of her own body to see that all things change.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/ambapali.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Dictionary of Pali Proper Names says a gardener found the baby at the foot of the mango tree and carried her to the city.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/ambapali.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says that after offering her grove she gave up her place at court, stayed an active supporter of the Buddha's order and gave her life to serving the poor and destitute.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amrapali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her meal and the gift of her grove came on the Buddha's last visit to Vesali, shortly before his death. After staying as long as he wished, he left for the village of Beluva.",
+      "kind": "history",
+      "source": "https://aimwell.org/DPPN/ambapali.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ambapali relate to?",
+      "options": ["Roses", "Rivers", "Mangoes", "Mountains"],
+      "answer": 2,
+      "why": "Amba means mango; the legend says she was found by a mango tree."
+    },
+    {
+      "q": "What did Ambapali give to the Buddha's order?",
+      "options": ["Her carriage", "Her jewels", "Her mango grove", "Her house in the city"],
+      "answer": 2,
+      "why": "She offered her mango grove after serving the meal."
+    },
+    {
+      "q": "Which city was Ambapali from?",
+      "options": ["Ujjain", "Shravasti", "Taxila", "Vaishali"],
+      "answer": 3,
+      "why": "Vaishali, capital of the Licchavis, in present-day Bihar."
+    },
+    {
+      "q": "What did the Licchavi nobles offer to get her turn?",
+      "options": ["A palace", "A hundred thousand coins", "A chariot", "A hundred mango trees"],
+      "answer": 1,
+      "why": "They offered a hundred thousand coins but she refused."
+    },
+    {
+      "q": "What did Ambapali's son become?",
+      "options": ["A monk and renowned elder", "A king of Magadha", "A merchant", "A soldier"],
+      "answer": 0,
+      "why": "Vimala Kondanna became a Buddhist monk and a renowned elder."
+    }
+  ],
+  "related": ["gautama-buddha", "bimbisara", "khema", "anathapindika"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amrapali",
+    "therigatha": "https://www.accesstoinsight.org/tipitaka/kn/thig/thig.13.01.than.html",
+    "mahaparinibbana": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.1-6.vaji.html"
+  },
+  "palette": {
+    "c1": "#dde9d2",
+    "c2": "#f1e6c9"
+  },
+  "years": "c. 6th–5th century BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "full"
+}

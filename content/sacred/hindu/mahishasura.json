@@ -1,0 +1,260 @@
+{
+  "slug": "mahishasura",
+  "name": "Mahishasura",
+  "aka": ["Mahisha", "Buffalo asura"],
+  "native": "महिषासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Buffalo-shaped asura in the Devi Mahatmya",
+  "summary": "Mahishasura is the shape-shifting asura of the Devi Mahatmya, whose story is retold each Navaratri. Some communities, such as the Asur people, honour him as an ancestor.",
+  "about": "In the Devi Mahatmya, part of the Markandeya Purana, Mahishasura is an asura whose name joins the Sanskrit words for buffalo and asura. The text opens with a hundred-year war in which he beats the gods and becomes lord of heaven; popular retellings add a boon that no man could end his life. The gods then pour their combined energy into a goddess, Durga, who rode a lion into battle against him. Other texts name other goddesses as the one who faced him, among them Lakshmi, Katyayani and Bhadrakali. His story is told in temples across South and Southeast Asia and is the heart of Navaratri, Durga Puja and the Mysuru Dasara. Not everyone reads it the same way: the Asur, some Munda groups and Namasudra communities remember him as a kind ancestor, and the Santal and Asur tell a version in which the figure of Durga is the outsider.",
+  "kidSummary": "Mahishasura is a buffalo-shaped asura who could change his form. In the Devi Mahatmya, the gods join their powers to make the goddess Durga, and she faces him. People remember this story every Navaratri with lights, music and big festivals. Some communities in eastern India tell the story differently and remember him with love.",
+  "story": [
+    {
+      "title": "Lord of heaven",
+      "text": "In the Devi Mahatmya, Mahishasura wins a hundred-year war against the gods and becomes lord of heaven. Popular retellings add a boon that no man could defeat him, and the gods have to leave their homes."
+    },
+    {
+      "title": "The gods join forces",
+      "text": "The gods gather and each gives a little of their own light and power. Together it takes shape as one radiant goddess, Durga."
+    },
+    {
+      "title": "Gifts for the goddess",
+      "text": "Every god gives her a gift, such as a trident, a discus or a conch. She is also given a lion to ride into the fight."
+    },
+    {
+      "title": "The long contest",
+      "text": "Mahishasura keeps changing his shape, from buffalo to lion to elephant, to try to outwit her. In the Devi Mahatmya the contest ends only when she presses him down. Navaratri remembers it over nine nights."
+    },
+    {
+      "title": "A day to remember",
+      "text": "The story ends with Durga's victory. People celebrate it as Navaratri and Vijayadashami, and tell the tale again every year."
+    }
+  ],
+  "teaches": [
+    "Many small strengths joined together can be very great",
+    "Pride and cleverness are not the same as wisdom"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Buffalo form", "Shape-shifting"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Rambha"
+    },
+    {
+      "relation": "Sister",
+      "name": "Mahishi"
+    },
+    {
+      "relation": "Son",
+      "name": "Gajasura"
+    },
+    {
+      "relation": "Slayer in the Devi Mahatmya",
+      "name": "Durga",
+      "slug": "durga"
+    }
+  ],
+  "texts": [
+    "Devi Mahatmya (Markandeya Purana)",
+    "Lakshmi Tantra",
+    "Narada Purana",
+    "Garuda Purana"
+  ],
+  "places": ["Chamundi Hills, Mysuru", "Mahabalipuram", "Ellora"],
+  "festivals": ["Navaratri", "Durga Puja", "Mysuru Dasara", "Vijayadashami"],
+  "facts": [
+    {
+      "text": "Texts disagree on who ends his story: the Lakshmi Tantra and Narada Purana name Lakshmi, the Garuda Purana names Venkateswara's consort, and others name Katyayani or Bhadrakali.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local tradition says the city of Mysuru took its name from Mahishooru, the place linked to this story on Chamundi Hills.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the hill by the Chamundeshwari temple stands a giant statue of Mahishasura, facing the city of Mysuru below.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya's closing moment, Mahishasura starts to climb out of his buffalo body through its mouth, but the goddess presses him down before he can get free.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Asur people, some Munda groups and Namasudras honour Mahishasura as a kind ancestor and mourn during Durga Puja.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one Puranic account, Rambha married a she-buffalo named Shyamala, and Mahishasura was born out of the flames of Rambha's funeral pyre.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rambha_(asura)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya's second chapter, a war between devas and asuras lasts a full hundred years, and Mahishasura's side wins, so he becomes lord of heaven.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Popular retellings, which go beyond the Devi Mahatmya's own verses, say Brahma refused him immortality, so he cleverly asked that only a woman could kill him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya, each god draws a new weapon out of his own: Shiva a trident from his trident, Indra a thunderbolt from his own and a bell from his elephant's.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A god of the wind, called Maruta in this translation, gives the goddess a bow and two quivers full of arrows, while Varuna gives a conch and a noose.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Mahatmya, every sigh the goddess heaves in battle turns at once into hundreds and thousands of her own soldiers, who beat drums, blow conches and fight.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Devi Mahatmya names Mahishasura's generals, among them Chikshura, Chamara, Udagra with sixty thousand chariots and Mahahanu with ten million.",
+      "kind": "story",
+      "source": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabalipuram relief the goddess has eight arms and rides a lion, with a parasol-bearer and an army of ganas, while Mahishasura with his club is shown in retreat.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mahishasuramardini_Mandapa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A stair of one thousand steps, built in 1659, climbs the 3,000-foot Chamundi Hill, and a giant granite Nandi sits by the path at the 700th step.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chamundeshwari_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mysuru's Jumboo Savari was first called Jumbi Savari, meaning going to the shami tree, because the procession ends at Bannimantap where the banni tree is worshipped.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Mysore_Dasara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Raja Wodeyar I began Mysuru's Dasara tradition in 1610 at Srirangapatna, carrying on the Mahanavami festivities of the Vijayanagara kings.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mysore_Dasara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Mahatmya, the sage Medha tells the story to a king named Suratha, and it is set in the second Manvantara, according to the Markandeya Purana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahishasura Mardini Stotra, a hymn attributed to Adi Shankara, was written to honour the goddess's victory in this story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one Puranic account, Rambha's wife Shyamala was a princess turned into a water buffalo by a sage's curse.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rambha_(asura)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Agni promised Rambha a son more radiant than Agni himself, as strong as Vayu and skilled with the bow, and that son was Mahishasura.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rambha_(asura)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kherwal Santal and Asur tell that Hudur Durga, an ancient king of Chaichampa, was killed by a woman sent to marry him; his men fled disguised as women and began the Dasai dance.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahishasura",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What shape is Mahishasura named after?",
+      "options": ["Lion", "Buffalo", "Elephant", "Snake"],
+      "answer": 1,
+      "why": "Mahisha means buffalo."
+    },
+    {
+      "q": "Which festival retells the Devi Mahatmya story?",
+      "options": ["Navaratri", "Raksha Bandhan", "Pongal", "Baisakhi"],
+      "answer": 0,
+      "why": "Navaratri, ending in Vijayadashami, remembers it."
+    },
+    {
+      "q": "Which Karnataka city's name is linked to him?",
+      "options": ["Hampi", "Mysuru", "Udupi", "Belagavi"],
+      "answer": 1,
+      "why": "Mysuru comes from Mahishooru."
+    },
+    {
+      "q": "Which animal does the goddess ride in the Devi Mahatmya?",
+      "options": ["Peacock", "Bull", "Lion", "Swan"],
+      "answer": 2,
+      "why": "The Devi Mahatmya says simha, a lion."
+    }
+  ],
+  "related": ["durga", "kartikeya", "andhaka"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahishasura",
+    "mahabalipuram": "https://en.wikipedia.org/wiki/Mahishasuramardini_Mandapa",
+    "chamundeshwari": "https://en.wikipedia.org/wiki/Chamundeshwari_Temple",
+    "dasara": "https://en.wikipedia.org/wiki/Mysore_Dasara",
+    "devimahatmya": "https://pressbooks.ccconline.org/worldmythology-cccs/?p=73",
+    "devi-mahatmya": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "raktabija": "https://en.wikipedia.org/wiki/Raktabija",
+    "rambha": "https://en.wikipedia.org/wiki/Rambha_(asura)",
+    "durga": "https://en.wikipedia.org/wiki/Durga"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e6c7a8",
+    "c2": "#b8a6cc"
+  },
+  "order": 500
+}

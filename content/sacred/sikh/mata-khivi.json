@@ -1,0 +1,201 @@
+{
+  "slug": "mata-khivi",
+  "name": "Mata Khivi",
+  "aka": ["Bibi Khivi", "Mata Khivi Ji"],
+  "native": "ਮਾਤਾ ਖੀਵੀ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Wife of Guru Angad, known for the langar",
+  "years": "c. 1506–c. 1582",
+  "summary": "Mata Khivi (c. 1506–1582) was the wife of Guru Angad. She ran the community kitchen at Khadur, and her kheer langar is remembered in the Guru Granth Sahib.",
+  "about": "Historians place Mata Khivi's birth around 1506 or 1507 in a Marwaha Khatri family at Sangar Kot, a village near Khadur Sahib in Punjab. She married Lehna, later Guru Angad, around 1519 (Wikipedia says she was 13, and the Sikh Encyclopedia gives 15 November 1519; the Guru Angad article on Wikipedia has January 1520). When he became Guru and made Khadur his seat in 1539, she took charge of the langar, the free kitchen open to all. Sikh tradition says it ran from morning to evening and served rice cooked in milk, so it was called Mata Khivi Ji da Langar. She is credited with shaping the custom of sitting together in rows, the pangat, and of volunteer service, sewa. A line by the court musician Balvand, in a Var he sang with Satta, names her in the Guru Granth Sahib. She outlived her husband by about thirty years and died around 1582, though one infobox gives 1586.",
+  "kidSummary": "Mata Khivi was the wife of Guru Angad. She looked after the langar, the free kitchen where everyone sits together and eats. People said her kitchen served sweet kheer to all, and a verse about her is written in the Guru Granth Sahib.",
+  "story": [
+    {
+      "title": "A bride from Sangar",
+      "text": "Khivi was born in Sangar Kot, a village near Khadur Sahib. In 1519, when she was about thirteen, she married a young man named Lehna."
+    },
+    {
+      "title": "Lehna becomes a Guru",
+      "text": "Lehna followed Guru Nanak and became Guru Angad. In 1539 he made Khadur his home, and Khivi became the lady of a house that welcomed many guests."
+    },
+    {
+      "title": "The open kitchen",
+      "text": "Khivi looked after the langar. Sikh tradition says it stayed open from morning to evening, and everybody ate the same food, whoever they were."
+    },
+    {
+      "title": "Sweet kheer",
+      "text": "The kitchen is remembered for kheer, rice cooked in milk with ghee. Guests said it tasted wonderful, and the kitchen took her name."
+    },
+    {
+      "title": "A tree that gives shade",
+      "text": "The court musician Balvand named her in a verse in the Guru Granth Sahib. He compared her to a tree that gives cool shade to travellers."
+    }
+  ],
+  "teaches": [
+    "Service without asking who someone is",
+    "Everyone eats together as equals",
+    "Generosity makes a home welcoming"
+  ],
+  "symbol": "tree",
+  "emblems": ["Langar kitchen", "Kheer", "Pangat (rows of people eating)"],
+  "family": [
+    {
+      "relation": "husband",
+      "name": "Guru Angad",
+      "slug": "guru-angad"
+    },
+    {
+      "relation": "son",
+      "name": "Dasu"
+    },
+    {
+      "relation": "son",
+      "name": "Datu"
+    },
+    {
+      "relation": "daughter",
+      "name": "Amro"
+    },
+    {
+      "relation": "daughter",
+      "name": "Anokhi"
+    },
+    {
+      "relation": "father",
+      "name": "Devi Chand"
+    },
+    {
+      "relation": "mother",
+      "name": "Karan Devi"
+    }
+  ],
+  "texts": ["Guru Granth Sahib, Ramkali ki Var (Ang 967)"],
+  "places": ["Sangar (near Khadur Sahib)", "Khadur Sahib"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The kitchen she ran at Khadur came to be called 'Mata Khivi Ji da Langar', so a woman's name became the name of that famous free kitchen.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Khivi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The langar was known for kheer, rice cooked in milk and ghee. The encyclopaedia says visitors compared its taste to ambrosia.",
+      "kind": "festival",
+      "source": "https://www.thesikhencyclopedia.com/khivi-mata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She is credited with building up the pangat custom, in which everyone sits in orderly rows on the floor and eats side by side.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Khivi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She is named in the Guru Granth Sahib on Ang 967. A profile on the Sikh Encyclopedia site calls her the only Guru's wife named there, and perhaps the only woman of any Guru's family.",
+      "kind": "text",
+      "source": "https://www.thesikhencyclopedia.com/khivi-mata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the wedding the couple first lived in her father's compound at Sangar. Wikipedia says Khivi later urged the family to move back to Khadur.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Khivi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Balvand was a descendant of Bhai Mardana, Guru Nanak's companion. So the family that played the rabab for Guru Nanak later praised Khivi in the scripture.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mardana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her daughter Bibi Amro sang a hymn that Amar Das heard in 1539, and it led him to Guru Angad, whom he later followed as the third Guru.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Their daughter Bibi Amro dug a well called Khooh Sahib, and it still stands in the compound of the main gurdwara at Khadur Sahib.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/khivi-mata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Guru Angad died in 1552, their son Datu claimed the Guruship. The Sikh Encyclopedia says Khivi persuaded him to repent after he suffered severe headaches, which she read as a sign of disapproval.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/khivi-mata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "She outlived Guru Angad by about thirty years, so she lived through the times of Guru Amar Das and Guru Ram Das. She died at Khadur around 1582.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/khivi-mata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says the marriage was arranged by Virai Devi, daughter of Chaudhary Takhtmal, and both families were devoted followers of Guru Nanak.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Khivi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Nobody recorded her birth year. Wikipedia says it is worked out from her husband's, because Khatri brides of that time were usually three to four years younger than the groom.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khivi",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Mata Khivi famous for looking after?",
+      "options": ["A school", "The langar", "A fort", "A library"],
+      "answer": 1,
+      "why": "She ran the free community kitchen at Khadur."
+    },
+    {
+      "q": "Which sweet dish was her langar known for?",
+      "options": ["Jalebi", "Laddoo", "Kheer", "Halwa"],
+      "answer": 2,
+      "why": "Rice cooked in milk and ghee, kheer, was her speciality."
+    },
+    {
+      "q": "Whom did Mata Khivi marry?",
+      "options": ["Guru Nanak", "Lehna, later Guru Angad", "Guru Amar Das", "Mardana"],
+      "answer": 1,
+      "why": "Lehna became the second Guru."
+    },
+    {
+      "q": "In the Guru Granth Sahib she is praised as being like what?",
+      "options": ["A river", "A mountain", "A lamp", "A tree giving shade"],
+      "answer": 3,
+      "why": "A line by Balvand compares her to a shade-giving tree."
+    }
+  ],
+  "related": ["guru-angad", "guru-nanak", "guru-amar-das", "bhai-mardana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khivi",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/khivi-mata",
+    "langar": "https://en.wikipedia.org/wiki/Langar_(Sikhism)",
+    "mardana": "https://en.wikipedia.org/wiki/Bhai_Mardana"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f2e2b8",
+    "c2": "#cfe3cd"
+  },
+  "order": 3
+}

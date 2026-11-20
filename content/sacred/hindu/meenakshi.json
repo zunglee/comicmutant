@@ -1,0 +1,271 @@
+{
+  "slug": "meenakshi",
+  "name": "Meenakshi",
+  "aka": ["Meenakshi Amman", "Angayarkanni", "Tadatakai"],
+  "native": "மீனாட்சி",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Tamil goddess and queen of Madurai",
+  "summary": "Meenakshi, the 'fish-eyed' goddess, is the guardian deity of Madurai. Hindus regard her as a form of Parvati, and her wedding to Sundareswarar is celebrated every year.",
+  "about": "Meenakshi is worshipped as the protecting goddess of Madurai in Tamil Nadu, and Hindus regard her as a form of Parvati. Her name comes from Sanskrit words for fish and eye. Tamil tradition presents her as a warrior queen of the Pandya kingdom who was later honoured as a goddess. In the Tamil Thiruvilaiyadal Puranam, she appears from a sacred fire as a young girl, rules Madurai, and recognises her true self when she meets Shiva as Sundareswarar. Their wedding, the Meenakshi Tirukalyanam, is celebrated in the Tamil month of Chithirai, and her brother Alagar, a form of Vishnu, sets out to give her away but arrives after the wedding. She is usually shown holding a lotus with a green parrot perched on it.",
+  "kidSummary": "Meenakshi is the goddess of the city of Madurai, and her name means 'fish-eyed', as if her eyes watch over everyone like a fish never closes its eyes. She carries a little green parrot, and every year people celebrate her wedding with a big festival.",
+  "story": [
+    {
+      "title": "A girl from the fire",
+      "text": "In the Tamil Thiruvilaiyadal Puranam, King Malayadhwaja Pandya and Queen Kanchanamalai perform a ritual to wish for a son. Instead a little girl appears from the sacred fire."
+    },
+    {
+      "title": "A voice from the sky",
+      "text": "A voice tells the parents not to worry about the girl's unusual appearance. It says she will become just as everyone expects once she meets her future husband."
+    },
+    {
+      "title": "A queen of Madurai",
+      "text": "The girl grows up as a brave princess named Meenakshi. She is crowned and rules the Pandya kingdom wisely."
+    },
+    {
+      "title": "The conquering queen",
+      "text": "After she is crowned, Meenakshi leads her armies across the world, and finally marches to Kailash, the home of Shiva. There she meets Shiva on the battlefield, and she recognises him as her destined husband."
+    },
+    {
+      "title": "The great wedding",
+      "text": "The two are married in Madurai in a wedding attended by gods and celestial beings. Her brother Alagar hurries from his hills to give her away but arrives late, leaves his gifts in the river and goes home. People still celebrate the day each spring."
+    }
+  ],
+  "teaches": [
+    "Leaders should protect those they serve",
+    "Watchful care, like a parent's",
+    "Marriage is a joyful partnership"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Green parrot", "Lotus in her raised hand", "Fish eyes"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Consort",
+      "name": "Sundareswarar (Shiva)",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Brother",
+      "name": "Alagar (Vishnu)",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Thiruvilaiyadal Puranam", "Meenakshi Pancharatnam", "Lalita Sahasranama (allusion)"],
+  "places": ["Meenakshi Amman Temple, Madurai"],
+  "festivals": ["Meenakshi Tirukalyanam", "Chithirai festival"],
+  "facts": [
+    {
+      "text": "Meenakshi comes from Sanskrit words for fish and eye, so her name means roughly 'fish-eyed'. Early Tamil texts use a name with the same meaning, Tadatakai, and some say it shows she, like a fish that never closes its eyes, always watches over devotees.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Another explanation says fish are believed to nourish their young just by looking at them, like the goddess feeding devotees with a glance.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She holds a lotus with a green parrot on it. The parrot is more usually linked with Andal in Vaishnavism, which makes it a distinctive feature of her images.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Madurai festival legend, the crowned queen goes to war with all the countries of the world and then marches on Kailash, the home of Shiva. Seeing him on the battlefield, she falls in love and marries him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Thiruvilaiyadal Puranam she appears from the sacred fire as a three-year-old girl with an unusual form, and a divine voice says it will change when she meets her future husband.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the popular telling, her brother Alagar sets out from the Alagar hills, disguised as a robber, but is delayed. On reaching the Vaigai river he learns the wedding is over, leaves his gifts in a mandapa in the river and returns home.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One version says Shiva himself took Alagar's form to hand the bride over at the wedding, to show that Vishnu and Shiva are one.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the festival's Pattabhishekam, Meenakshi is crowned queen and is said to rule Madurai for four months, after which Sundareshvara is crowned king for the other eight.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Meenakshi wedding festival in Masi and the Alagar festival in Chithirai were once held separately; the Nayak ruler Tirumala Nayaka merged them to unite Shaiva and Vaishnava communities and to boost Madurai's trade.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Madurai temple has 14 gopurams, four large and ten smaller; the tallest, the southern tower, is about 52 metres (170 feet) high and carries over 1,500 mythological figures in panels that tell Puranic legends.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to its designer R. Krishna Rao in 1949, the gopuram on Tamil Nadu's state emblem is based on the temple's west tower. It is the only Indian state emblem to show the national flag and a temple tower.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Emblem_of_Tamil_Nadu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Hall of a Thousand Pillars, the Ayiram Kaal Mandapam, really holds 985 carved pillars.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Musical pillars outside that hall give out a note when struck.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Temple tradition says the king Rajasekhara Pandya, worried that Shiva's standing leg must tire after so long, asked him to change legs, and so at Madurai the Nataraja dances with the right leg raised, in the Silver Hall, Velli Ambalam.",
+      "kind": "art",
+      "source": "https://livehistoryindia.com/story/living-culture/meenakshis-madurai-myths-miracles",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The temple tank is Porthamarai Kulam, the golden lotus pond, with a gilded lotus floating in its middle; tradition says Sangam poets once gathered at its edge to judge each other's work.",
+      "kind": "place",
+      "source": "https://www.outlooktraveller.com/destinations/india/sacred-spaces-of-madurai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On 8 July 1939, Dalit worshippers led by A. Vaidyanatha Iyer and Kakkan entered the temple, a step toward later anti-discrimination law.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Records say Malik Kafur looted the temple in 1311 and took its gold and jewels to Delhi; the idols were hidden during Sultanate rule and brought back when Kumara Kampana of Vijayanagara took Madurai in 1378.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Meenakshi, not Shiva, is the main deity of her temple: her shrine stands at the centre and on the right-hand side, and many devotees visit her first before going to Shiva.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kilikoondu mandapa near Meenakshi's shrine has a name meaning 'parrot cage' in Tamil, because parrots were once kept there, a nod to the parrot she carries.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Madurai grew around the temple like petals around a lotus, and its streets are named after Tamil months because the festival procession for each month starts from the matching spot.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A yali carved on a pillar in the Kilikoondu mandapa holds a stone ball in its mouth that can spin freely.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A sculpture in the Kambathadi mandapa shows Shiva and Kali in a dance competition, a scene from temple legend carved in stone.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "During Navaratri, in the Golu mandapa, Meenakshi is decorated in nine different forms, one on each of the nine days of the festival.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Meenakshi_Temple",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Meenakshi's name mean?",
+      "options": ["Fish-eyed", "Moon-faced", "Lotus-footed", "Sun-born"],
+      "answer": 0,
+      "why": "It comes from words for fish and eye."
+    },
+    {
+      "q": "Which bird sits on Meenakshi's hand?",
+      "options": ["Peacock", "Swan", "Parrot", "Owl"],
+      "answer": 2,
+      "why": "A green parrot perches on her lotus."
+    },
+    {
+      "q": "In which city is her famous temple?",
+      "options": ["Madurai", "Mysuru", "Pune", "Patna"],
+      "answer": 0,
+      "why": "Meenakshi Amman Temple is in Madurai, Tamil Nadu."
+    },
+    {
+      "q": "Whom does Meenakshi marry in the story?",
+      "options": ["Vishnu as Alagar", "Shiva as Sundareswarar", "Indra", "Brahma"],
+      "answer": 1,
+      "why": "She marries Shiva in his form as Sundareswarar."
+    },
+    {
+      "q": "How many pillars does the Hall of a Thousand Pillars really have?",
+      "options": ["1000", "108", "985", "64"],
+      "answer": 2,
+      "why": "It has 985 carved pillars."
+    }
+  ],
+  "related": ["parvati", "shiva", "vishnu", "durga"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Meenakshi",
+    "temple": "https://en.wikipedia.org/wiki/Meenakshi_Temple,_Madurai",
+    "tirukalyanam": "https://en.wikipedia.org/wiki/Meenakshi_Tirukalyanam",
+    "emblem": "https://en.wikipedia.org/wiki/Emblem_of_Tamil_Nadu",
+    "livehistory": "https://livehistoryindia.com/story/living-culture/meenakshis-madurai-myths-miracles",
+    "outlook": "https://www.outlooktraveller.com/destinations/india/sacred-spaces-of-madurai"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#bfe0d4",
+    "c2": "#f0d3a2"
+  },
+  "order": 160
+}

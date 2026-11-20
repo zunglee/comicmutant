@@ -1,0 +1,292 @@
+{
+  "slug": "shukracharya",
+  "name": "Shukracharya",
+  "aka": ["Shukra", "Ushanas", "Kavya", "Bhargava"],
+  "native": "शुक्राचार्य",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage, guru of the asuras and lord of Venus",
+  "summary": "Shukracharya is a sage of the Bhrigu line, teacher and priest of the asuras in the Puranas, and the Hindu name of the planet Venus. He is known for the revival art Sanjivani.",
+  "about": "In the Rigveda, Kavya Ushanas is a wise seer who helps Indra. The epics and Puranas later call the same figure Ushanas or Shukracharya, a descendant of Bhrigu. Earlier texts show him teaching both devas and asuras, but later Puranas make him the guru and priest of the asuras. Many Puranas say Shiva gave him the Sanjivani art of reviving the dead, and the tale of Kacha and Devayani tells how the devas sought it. The Puranas also tell how he warned King Mahabali about Vamana. Shukra is also the Hindu name of Venus and a member of the Navagrahas, with Friday as his day.",
+  "kidSummary": "Shukracharya is a very wise teacher who was the guru of the asuras. Stories say he knew a special skill for bringing the fallen back to life. His name, Shukra, also belongs to the bright planet Venus, and in many Indian languages Friday is Shukravara, his day.",
+  "story": [
+    {
+      "title": "A teacher of two sides",
+      "text": "Shukracharya is a great sage of the Bhrigu family. Early stories say he taught both devas and asuras, and later ones make him the guru of the asuras."
+    },
+    {
+      "title": "A secret skill",
+      "text": "The Puranas say that after long tapas, Shiva taught Shukra the Sanjivani vidya, a skill to bring the fallen back to life."
+    },
+    {
+      "title": "Kacha comes to learn",
+      "text": "The devas send Brihaspati's son Kacha to learn the skill. Shukra's daughter Devayani befriends him, and some asuras try to stop him."
+    },
+    {
+      "title": "Learning from within",
+      "text": "In the Mahabharata, the asuras mix Kacha's ashes into Shukra's drink. Kacha learns the art inside his teacher, then revives Shukra with it."
+    },
+    {
+      "title": "A warning to a king",
+      "text": "Many Puranas say Shukra recognised Vamana as Vishnu and warned King Mahabali. Mahabali kept his promise to give three steps of land anyway."
+    }
+  ],
+  "teaches": [
+    "Learn with patience and respect for your teacher",
+    "Keep your word, even when it is hard",
+    "Honour the women in your life"
+  ],
+  "symbol": "star",
+  "emblems": [
+    "Venus (Shukra graha)",
+    "White horse (iconography)",
+    "Kamandalu water pot",
+    "Diamond"
+  ],
+  "family": [
+    {
+      "relation": "Father or grandfather",
+      "name": "Bhrigu",
+      "slug": "bhrigu"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Devayani",
+      "slug": "devayani"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Yayati",
+      "slug": "yayati"
+    },
+    {
+      "relation": "Disciple",
+      "name": "Mahabali",
+      "slug": "mahabali"
+    }
+  ],
+  "texts": ["Rigveda", "Mahabharata", "Shiva Purana", "Vishnu Purana", "Bhagavata Purana"],
+  "places": ["Agniswarar Temple, Kanjanur, Tamil Nadu"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Rigveda, Kavya Ushanas is a wise poet-priest who helps Indra. Some hymns say he supplied or shaped Indra's thunderbolt, though Tvashta is also named as its maker.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholars match the Rigveda's wise seer Ushanas Kavya with Kay Kavus, a legendary king in Iran's Zoroastrian texts. So a name from an ancient Indian hymn seems to have a twin in ancient Iran.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Jaiminiya Brahmana says the war between devas and asuras stalled because their two priests, Brihaspati and Ushanas, had equal ritual power. It then tells how Ushanas was won over to the devas with gifts and honours.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Early texts show him teaching both devas and asuras. The Mahabharata says he divided himself into two halves, one a source of knowledge for each side. Later Puranas make him the priest of the asuras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He is most famous for the Mritasanjivani, a skill said to bring the dead back to life. Many Puranas say Shiva granted it after Shukra's long tapas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Kacha story, the asuras burn Kacha, mix his ashes into wine and give it to Shukra. Kacha learns the revival art from inside his teacher and then brings Shukra back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 10,
+      "kid": false
+    },
+    {
+      "text": "After finishing his studies, Kacha refused Devayani's wish to marry him. In anger she cursed him so he could never use the revival art himself, and he cursed her in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shukra's daughter Devayani married King Yayati. When Shukra learned Yayati had broken a promise to her, he cursed the king with early old age, and Yayati's son Puru swapped his youth for it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata's Shanti Parva, Ushanas enters Kubera by yogic power, so Shiva swallows him. Inside, Shukra wanders about praising Shiva until he is released radiant, and the name 'bright' is linked to this episode.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Shukra tells Bali to take back his promise to Vamana. When Bali refuses, Shukra scolds him for ignoring his guru and says he will soon lose all his riches. Bali still keeps his word.",
+      "kind": "story",
+      "source": "https://bvmlu.org/books/SB/08/20.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, Shiva swallows Shukra during the war with the asura Andhaka to stop him reviving the fallen army. Shukra comes out unharmed, and an amused Shiva blesses him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In a popular retelling, Shukra tried to block the spout of Mahabali's water pot to stop the gift. Vamana pierced the spout with a stick and blinded him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Shukra-Niti is credited with surprisingly modern advice. A king should not settle policy alone, should treat his people as the source of his power, and may appoint officials whatever their caste.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Shukra-Niti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavad Gita (10.37), Krishna lists Ushanas, the sage Shukra, among the great thinkers, or poets in some translations, as one of the forms of his own splendour.",
+      "kind": "text",
+      "source": "https://asitis.com/10/37.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A statecraft treatise, the Shukra-Niti, is credited to him. It mentions guns and cannons, so some historians date it as late as the 16th or even the 19th century, while others argue it is far older, even Vedic.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra-Niti",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Kautilya's Arthashastra opens with a salutation to Shukracharya, which some scholars use to argue that the Shukra-Niti tradition is older than the Arthashastra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra-Niti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the story of Devayani, the wind scatters her clothes and those of the princess Sharmishtha. They mix up their saris and quarrel, and Sharmishtha pushes Devayani into a well. King Yayati pulls her out.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The asuras killed Kacha twice, feeding him to wolves and then pounding him into seawater. Each time Devayani begged her father, and Shukra revived Kacha with the Sanjivani art.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devayani",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In many Indian languages Friday is Shukravara, Shukra's day. French vendredi and Spanish viernes come from Venus too, but English Friday comes from the Germanic goddess Frigg, whom people matched with Venus.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Friday",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Shukracharya is named as one of the teachers of the young Bhishma and is said to have taught him political science.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hindu astronomy texts such as the Surya Siddhanta worked out that Venus circles the Sun in about 224 days, 16 hours and 45 minutes. The modern figure is 224 days, 16 hours and 49 minutes, remarkably close.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One Rigveda hymn (9.87.3) credits Ushanas with discovering the 'secret name of the cows'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Taittiriya Samhita says Agni was the messenger of the devas while Ushanas served as the messenger of the asuras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet carries Shukra's name in Hindu astronomy?",
+      "options": ["Mars", "Venus", "Saturn", "Mercury"],
+      "answer": 1,
+      "why": "Shukra is the Hindu name of Venus, and in many Indian languages Friday is Shukravara."
+    },
+    {
+      "q": "What skill is Shukracharya most famous for?",
+      "options": ["Archery", "Bringing the fallen back to life", "Making rain", "Flying"],
+      "answer": 1,
+      "why": "The Sanjivani art is linked to him in many Puranas."
+    },
+    {
+      "q": "Who was sent to learn the art from Shukra?",
+      "options": ["Kacha", "Narada", "Prahlada", "Dhruva"],
+      "answer": 0,
+      "why": "The devas sent Kacha, Brihaspati's son."
+    },
+    {
+      "q": "Who is Shukra's daughter?",
+      "options": ["Sita", "Devayani", "Draupadi", "Gargi"],
+      "answer": 1,
+      "why": "Devayani later married King Yayati."
+    },
+    {
+      "q": "Whom did Shukracharya teach political science in his youth, according to the Mahabharata?",
+      "options": ["Bhishma", "Arjuna", "Karna", "Yudhishthira"],
+      "answer": 0,
+      "why": "The Mahabharata names him as one of Bhishma's early teachers."
+    }
+  ],
+  "related": [
+    "bhrigu",
+    "brihaspati",
+    "devayani",
+    "yayati",
+    "mahabali",
+    "vamana",
+    "shiva",
+    "bhishma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shukra",
+    "devayani": "https://en.wikipedia.org/wiki/Devayani",
+    "mahabali": "https://en.wikipedia.org/wiki/Mahabali",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "kumaras": "https://en.wikipedia.org/wiki/Four_Kumaras",
+    "friday": "https://en.wikipedia.org/wiki/Friday",
+    "shukra-niti": "https://en.wikipedia.org/wiki/Shukra-Niti",
+    "gita-10-37": "https://asitis.com/10/37.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e6e1f0",
+    "c2": "#f2e3c8"
+  },
+  "order": 761
+}

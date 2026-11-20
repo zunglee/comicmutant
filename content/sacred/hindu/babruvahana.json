@@ -1,0 +1,258 @@
+{
+  "slug": "babruvahana",
+  "name": "Babruvahana",
+  "aka": ["Babhruvahana", "Babruvahan"],
+  "native": "बभ्रुवाहन",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "King of Manalura (Manipura), son of Arjuna and Chitrangada",
+  "summary": "Babruvahana is a prince in the Mahabharata, son of Arjuna and Chitrangada, best remembered for the duel with his own father during the horse sacrifice.",
+  "about": "In the Mahabharata, Babruvahana is the son of Arjuna and Chitrangada, princess of Manalura (also called Manipura). Because of an agreement made before the marriage, he stayed in his mother's kingdom as heir. Scholars note he was not counted among the Pandava heirs, so he does not fight in the Kurukshetra war. He appears in the horse-sacrifice book, when Arjuna follows the sacrificial horse into Manalura and the two meet in battle. Ulupi, the Naga princess who is his stepmother, brings the Mritasanjivani gem to revive Arjuna afterwards and explains an old curse behind the duel. Later retellings, especially the Jaiminiya Ashvamedhika, add many adventures, and the tale has been staged in several Indian languages and in films.",
+  "kidSummary": "Babruvahana is a young prince in the Mahabharata who grows up with his mother Chitrangada. When his father Arjuna arrives with a sacred horse, the two end up in an unexpected duel. His stepmother Ulupi then helps put everything right with a healing jewel.",
+  "story": [
+    {
+      "title": "A prince of Manalura",
+      "text": "Babruvahana is born to Arjuna and the princess Chitrangada. Arjuna has to leave, promising to come back, and the boy grows up as the heir of his mother's kingdom."
+    },
+    {
+      "title": "The horse arrives",
+      "text": "Years later, Arjuna follows a sacred horse that is travelling for Yudhishthira's horse sacrifice. It enters Manalura, and Babruvahana comes out to welcome his father politely."
+    },
+    {
+      "title": "A hard challenge",
+      "text": "Arjuna says a warrior should fight and not just bow. Ulupi, Babruvahana's stepmother, also urges him to take up his bow, and the duel begins."
+    },
+    {
+      "title": "The fall and the faint",
+      "text": "In the duel Arjuna falls, and Babruvahana faints with grief. Chitrangada is heartbroken and decides to fast, and her son joins her."
+    },
+    {
+      "title": "The healing gem",
+      "text": "Ulupi brings the Mritasanjivani gem from the Naga world and places it on Arjuna's chest. Arjuna wakes up, and she explains that this was needed to undo an old curse."
+    }
+  ],
+  "teaches": ["Honour your elders, but do your duty too", "Grief can be healed by care and wisdom"],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Chitrangada",
+      "slug": "chitrangada"
+    },
+    {
+      "relation": "Stepmother",
+      "name": "Ulupi",
+      "slug": "ulupi"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Iravan",
+      "slug": "iravan"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    }
+  ],
+  "texts": ["Mahabharata (Ashvamedhika Parva)", "Jaiminiya Ashvamedhika"],
+  "places": ["Manalura (Manipura)", "Hastinapura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "When Babruvahana greeted Arjuna politely in the company of scholars, Arjuna scolded him for lacking a warrior's spirit and goaded him into fighting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Chitravahana gave away his daughter, he named the son she would bear as the price for her hand. That is why the boy stayed in Manalura as heir, was not counted among the Kuru heirs and missed the Kurukshetra war.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the horse-sacrifice book, Krishna later gave Babruvahana a costly chariot adorned with gold and yoked to excellent steeds, before the prince went home to rule Manipura.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14088.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 12th-century retelling, the Jaiminiya Ashvamedhika, gives him an army of mongooses to invade the Naga underworld, Patala.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Jaiminiya version he is raised by Ulupi after Chitrangada leaves for Yudhishthira's court, and Arjuna kicks him at their first meeting, which starts the fight.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Jaimini's version he beats Bhima, kills his cousin Vrishaketu and beheads Arjuna. The head is stolen, but Krishna recovers it and revives Arjuna with the jewel.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Jaiminiya account, the goddess Jvala urges Ganga to curse Arjuna and then becomes the arrow that does the deed.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A 16th-century Persian Mahabharata, the Razmnama, includes the Jaimini version of this story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ulupi says in the epic that she cast an illusion over his senses. Arjuna, she tells him, cannot be defeated by men or even by the gods, and he has not truly beaten his father.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "When Arjuna revived, flowers fell from the sky, drums sounded by themselves and a voice in the sky cried 'Excellent!' according to the horse-sacrifice book.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Arjuna fell, Chitrangada sat down to fast to death unless he was revived. Her son then woke from his faint and joined her vow, saying he saw no way to wash away his guilt.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Sanskrit dictionary retells it differently: Babhruvahana reads the writing on the horse's plate and offers his kingdom, Arjuna calls him a coward, and a crescent-shaped arrow then cuts Arjuna's head off.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/babhruvahana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Babruvahana (1977) the star Rajkumar played Arjuna and his son. He had played Iravan in Nagarjuna (1961), which makes him the only Indian actor to play Arjuna and both these sons.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Babruvahana_(1977_film)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Scholar Simon Brodbeck notes that Babruvahana lived by obeying his mother's side of the family, while his half-brother Iravan died serving his father's. Iravan fell in the war, but Babruvahana survived.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Arjuna taunted him for not acting like a warrior, Brodbeck reads it as a jab at the inheritance Babruvahana took from his mother Chitrangada.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Arjuna stayed in Manipura for about three months. When he returned, the baby Babruvahana had already been born, and Arjuna promised to come back for them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some Tamil translations call him Pandyan, treating Manipura as Madurai. A few newer works call him Meitei of Manipur, but scholars call both claims unproven and place his kingdom in Kalinga.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Jaimini version of his tale spread into Bengali, Kannada, Telugu, Assamese, Odia and Marathi. Films followed in Telugu in 1942 and 1964, in Hindi in 1951 and 1952 and in Kannada in 1977.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Babhruvahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Arjuna revived, he said he knew the fight had taken place at his own command, then asked why the field seemed full of both grief and joy.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In his grief Babruvahana said that killing a warrior can be cleansed by giving a hundred cows, but that his own deed was too great for such a gift.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m14/m14080.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who are Babruvahana's parents?",
+      "options": [
+        "Bhima and Hidimbi",
+        "Arjuna and Chitrangada",
+        "Yudhishthira and Draupadi",
+        "Nakula and Karenumati"
+      ],
+      "answer": 1,
+      "why": "He is the son of Arjuna and Chitrangada of Manalura."
+    },
+    {
+      "q": "Which gem revived Arjuna after the duel?",
+      "options": ["Kaustubha", "Syamantaka", "Mritasanjivani", "Chintamani"],
+      "answer": 2,
+      "why": "Ulupi brought the Mritasanjivani gem from the Naga world."
+    },
+    {
+      "q": "Who is Babruvahana's stepmother who urged him to fight?",
+      "options": ["Kunti", "Ulupi", "Subhadra", "Uttara"],
+      "answer": 1,
+      "why": "Ulupi, a Naga princess and Arjuna's wife, urged him on."
+    },
+    {
+      "q": "In the Jaiminiya retelling, which animals formed his army in Patala?",
+      "options": ["Mongooses", "Peacocks", "Elephants", "Tigers"],
+      "answer": 0,
+      "why": "That retelling gives him an army of mongooses."
+    },
+    {
+      "q": "During which ceremony did Arjuna and Babruvahana meet in battle?",
+      "options": ["A swayamvara", "The horse sacrifice", "The dice game", "A coronation"],
+      "answer": 1,
+      "why": "Arjuna was following the sacrificial horse of the Ashvamedha."
+    }
+  ],
+  "related": ["arjuna", "chitrangada", "ulupi", "iravan", "abhimanyu", "krishna", "bhishma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Babhruvahana",
+    "ulupi": "https://en.wikipedia.org/wiki/Ulupi",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#d8b889",
+    "c2": "#e8efe0"
+  },
+  "order": 40,
+  "depth": "full"
+}

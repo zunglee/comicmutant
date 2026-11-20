@@ -1,0 +1,268 @@
+{
+  "slug": "ilvala-and-vatapi",
+  "name": "Ilvala and Vatapi",
+  "aka": ["Ilwala", "Vatapi", "Vatapi and Ilvala"],
+  "native": "इल्वल और वातापि",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura brothers in the Mahabharata and Ramayana",
+  "summary": "Ilvala and Vatapi are asura brothers in the Mahabharata. One tale says Ilvala served his brother as a meal to guests. The sage Agastya ended the trick by digesting Vatapi.",
+  "about": "Ilvala and Vatapi are asura brothers who appear in the Mahabharata, where the sage Lomasha tells their story to Yudhishthira. In one telling, Ilvala was angry after a Brahmin refused to give him a son equal to Indra. He took revenge by changing Vatapi into a ram, cooking him and serving the meat, then calling the brother back so that he burst out of the guest. The Ramayana and Mahabharata both say Agastya broke the trick by eating Vatapi and letting him digest. The Ganguli translation of the Vana Parva places Ilvala as the richest being on earth, and says Agastya visited him with three kings seeking wealth. The Ramayana version says Ilvala then attacked and fell to the sage's glance, while the Bhagavata Purana mentions his son Balavala, slain by Balarama.",
+  "kidSummary": "Ilvala and Vatapi are two asura brothers from the Mahabharata. They had a cunning trick for guests at their feast, but the wise sage Agastya saw through it. After he finished the meal, Ilvala called his brother, but only Agastya answered: the brother had already been digested. The story is told to show that wisdom can beat even a clever trick.",
+  "story": [
+    {
+      "title": "Two brothers",
+      "text": "Ilvala and Vatapi were asura brothers. In the Mahabharata, Ilvala was said to be very rich, and he often welcomed visitors to a grand meal."
+    },
+    {
+      "title": "A hidden trick",
+      "text": "In one telling, Vatapi was turned into a ram and cooked. After the guest ate, Ilvala would call out his brother's name, and Vatapi would burst out of the guest alive."
+    },
+    {
+      "title": "Agastya arrives",
+      "text": "The sage Agastya came to Ilvala with three kings, hoping to get some wealth without harming anyone. Ilvala served them the same meal."
+    },
+    {
+      "title": "The trick fails",
+      "text": "Agastya ate the whole meal calmly. When Ilvala called Vatapi to come out, Agastya only laughed and said that the asura had already been digested."
+    },
+    {
+      "title": "A gift for the sage",
+      "text": "Ilvala asked what he could do for Agastya. In the Mahabharata he gave each king thousands of cows and gold, double to Agastya, plus a golden chariot and two swift horses."
+    }
+  ],
+  "teaches": [
+    "Cleverness used to harm others will fail",
+    "Calm wisdom can overcome a clever trick",
+    "Take wealth only in a way that harms no one"
+  ],
+  "symbol": "lamp",
+  "emblems": ["The feast", "Ram (Vatapi's disguise in the Mahabharata)"],
+  "family": [
+    {
+      "relation": "Brothers",
+      "name": "Ilvala and Vatapi"
+    },
+    {
+      "relation": "Son of Ilvala (Bhagavata Purana)",
+      "name": "Balavala"
+    },
+    {
+      "relation": "Sage who ended the trick",
+      "name": "Agastya",
+      "slug": "agastya"
+    },
+    {
+      "relation": "Wife of Agastya",
+      "name": "Lopamudra",
+      "slug": "lopamudra"
+    },
+    {
+      "relation": "Slayer of Balavala (Bhagavata)",
+      "name": "Balarama",
+      "slug": "balarama"
+    }
+  ],
+  "texts": ["Mahabharata (Vana Parva)", "Valmiki Ramayana", "Bhagavata Purana (Book 10)"],
+  "places": ["Badami, formerly Vatapi (Karnataka; local tradition)", "Agastya Tirtha lake, Badami"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Many retellings give Agastya's words as Vatapi jirno bhava, which means let Vatapi be digested, and the brother was gone at once.",
+      "kind": "language",
+      "source": "https://www.hindu-blog.com/2011/08/story-of-sage-agastya-killing-demons.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says Ilvala was the elder brother, and in one account his grudge began when a Brahmin refused to give him a son equal to Indra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The brothers' trick was that Ilvala cooked Vatapi in the form of a ram, served him to a guest, then called Vatapi out of the guest's body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A later oral tradition claims the revered Vatapi Ganapati idol was carried off as spoils when the Pallavas ransacked Badami in 642 CE; the idol is now celebrated in Carnatic music.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Badami",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Ilvala called Vatapi out, only a gust of air came from Agastya's stomach, with a sound like a rolling thundercloud, and the sage burst out laughing.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03099.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Ilvala added a golden chariot with two swift horses called Virava and Surava, which carried everyone and the wealth to Agastya's hermitage in an instant.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03099.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ganguli translation that son was in the womb for seven years and was born as Dridhasyu, also called Idhmavaha for carrying sacred firewood.",
+      "kind": "family",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03099.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana tells it differently: after Vatapi died, Ilvala attacked Agastya and was killed by the sage's glance, not by any weapon.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 7
+    },
+    {
+      "text": "Agastya told Ilvala exactly what he had meant to give, including a golden chariot, and when Ilvala checked he found that the chariot really was gold.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03099.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Agastya is also said in the Mahabharata to have drunk the ocean to expose hidden asuras, so he is the sage who swallowed both a sea and Vatapi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In East Godavari, Andhra Pradesh, local belief holds that Agastya ended the brothers at Arthamuru village, where people digging for houses and wells have reportedly found gold said to be hidden by the demons.",
+      "kind": "place",
+      "source": "https://www.hindu-blog.com/2011/08/story-of-sage-agastya-killing-demons.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In some retellings Vatapi could take any form, and Ilvala knew the Mritasanjivani mantra that calls the dead back to life, which is what made their trap work.",
+      "kind": "story",
+      "source": "https://www.hindu-blog.com/2011/08/story-of-sage-agastya-killing-demons.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ilvala played the trick on many Brahmins before Agastya, calling Vatapi out of each guest after the meal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana gives Ilvala a son, Balavala, who disturbed sages gathered in Naimisha forest and was slain by Balarama during his pilgrimage.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana, Rama praises Agastya as the sage who asked the Vindhya mountains to bow low so the sun, moon and living beings could pass, and who also ended Vatapi and Ilvala.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana the world tipped when everyone gathered in the Himalayas for Shiva's wedding, and Shiva sent Agastya south to restore the balance.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the account Wikipedia summarises, when Ilvala asked how he might serve him, Agastya requested ten thousand cows, pieces of gold and a golden chariot with two horses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Agastya is also called Kumbhaja or Kumbhayoni, pitcher-born, because northern legends say he was born from a mud pitcher.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits Agastya and his wife Lopamudra with Rigveda hymns 1.165 to 1.191, dated to around 1200 BCE, and hymn 1.179 is attributed to Lopamudra.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tamil tradition Agastya is the father of the Tamil language and the compiler of its first grammar, the Agattiyam, and is said to have learned Tamil from the god Murugan.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Agastya",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What trick did the brothers play on their guests in the Mahabharata?",
+      "options": [
+        "Hiding gold in the food",
+        "Serving Vatapi as meat and calling him out",
+        "Locking the doors",
+        "Giving them a poisoned drink"
+      ],
+      "answer": 1,
+      "why": "Ilvala called Vatapi back out of the guest after the meal."
+    },
+    {
+      "q": "Who ended the trick?",
+      "options": ["Narada", "Vishvamitra", "Agastya", "Durvasa"],
+      "answer": 2,
+      "why": "Agastya ate Vatapi and said he was already digested."
+    },
+    {
+      "q": "What were the names of the two swift horses?",
+      "options": [
+        "Virava and Surava",
+        "Uchchaihshravas and Airavata",
+        "Nila and Nala",
+        "Vega and Kesari"
+      ],
+      "answer": 0,
+      "why": "The Ganguli text names the horses Virava and Surava."
+    },
+    {
+      "q": "Which modern town was once called Vatapi?",
+      "options": ["Hampi", "Badami", "Madurai", "Mysuru"],
+      "answer": 1,
+      "why": "Badami in Karnataka was called Vatapi."
+    },
+    {
+      "q": "In the Bhagavata Purana, who slew Ilvala's son Balavala?",
+      "options": ["Bhima", "Hanuman", "Balarama", "Arjuna"],
+      "answer": 2,
+      "why": "Balarama slew him on a pilgrimage."
+    }
+  ],
+  "related": ["agastya", "lopamudra", "balarama", "indra", "yudhishthira", "krishna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ilvala_and_Vatapi",
+    "ganguli-vana-parva-98": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03098.htm",
+    "ganguli-vana-parva-99": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03099.htm",
+    "badami": "https://en.wikipedia.org/wiki/Badami",
+    "agastya": "https://en.wikipedia.org/wiki/Agastya",
+    "badami-legend": "https://www.thenewsminute.com/features/legend-vatapi-and-magnificent-rock-cut-shrines-badami-chalukyas-56704",
+    "hindu-blog": "https://www.hindu-blog.com/2011/08/story-of-sage-agastya-killing-demons.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#E8D9B0",
+    "c2": "#B8D4C8"
+  },
+  "order": 501
+}

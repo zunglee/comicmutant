@@ -1,0 +1,261 @@
+{
+  "slug": "draupadi",
+  "name": "Draupadi",
+  "aka": ["Panchali", "Krishnaa", "Yajnaseni", "Sairandhri", "Malini", "Parshati"],
+  "native": "द्रौपदी",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Queen of the Pandavas, born from the sacrificial fire",
+  "summary": "Draupadi is the shared wife of the five Pandavas in the Mahabharata, said to have risen from a sacred fire. She is remembered for courage, intelligence and her stand at the dice game.",
+  "about": "In the Mahabharata, Draupadi is the daughter of King Drupada of Panchala and the twin of Dhrishtadyumna. The epic says both rose from a fire sacrifice, she as a grown woman. Arjuna wins her at her svayamvara, and she becomes the wife of all five Pandavas, with the sage Vyasa approving the arrangement. At the dice game, she questions the court when Yudhishthira stakes her, and the epic says she is spared from humiliation. During exile and the hidden year she shows resourcefulness as Sairandhri, the queen's maid. After the war, she forgives Ashwatthama, who killed her five sons. In South India she is worshipped as Draupadi Amman in more than four hundred temples, and festivals such as Karaga in Bengaluru honour her.",
+  "kidSummary": "Draupadi is the clever and brave queen of the Pandava brothers in the Mahabharata. The story says she appeared from a holy fire. She speaks up for what is right even when everyone else is silent, and she stays strong through years of exile. People in South India honour her in temples and festivals.",
+  "story": [
+    {
+      "title": "From the fire",
+      "text": "King Drupada performs a fire ritual to ask for a child. Out of the sacred fire rises Draupadi, already grown up, together with her twin brother Dhrishtadyumna."
+    },
+    {
+      "title": "The fish and the bow",
+      "text": "At her svayamvara, suitors must string a huge bow and hit a fish's eye while looking at its reflection in water. Arjuna succeeds, dressed as a Brahmin."
+    },
+    {
+      "title": "Five husbands",
+      "text": "Kunti, not knowing what they brought home, tells the brothers to share. Yudhishthira says Draupadi will be the wife of all five, and Vyasa agrees."
+    },
+    {
+      "title": "Speaking up",
+      "text": "After the dice game, Draupadi is dragged into the hall. She asks whether Yudhishthira had the right to stake her, and Dhritarashtra grants her wishes and frees the Pandavas."
+    },
+    {
+      "title": "A hidden year",
+      "text": "In the final year of exile, Draupadi serves the queen of Matsya as a maid named Sairandhri, keeping the Pandavas' secret until the year is over."
+    }
+  ],
+  "teaches": [
+    "Courage to speak up for what is right",
+    "Patience and resourcefulness in hard times",
+    "Forgiveness"
+  ],
+  "symbol": "flame",
+  "emblems": ["Sacrificial fire", "Blue lotus", "Karaga pot (in Bengaluru festival)"],
+  "family": [
+    { "relation": "Father", "name": "Drupada", "slug": "drupada" },
+    { "relation": "Twin brother", "name": "Dhrishtadyumna", "slug": "dhrishtadyumna" },
+    { "relation": "Husband", "name": "Yudhishthira", "slug": "yudhishthira" },
+    { "relation": "Husband", "name": "Bhima", "slug": "bhima" },
+    { "relation": "Husband", "name": "Arjuna", "slug": "arjuna" },
+    { "relation": "Husband", "name": "Nakula", "slug": "nakula" },
+    { "relation": "Husband", "name": "Sahadeva", "slug": "sahadeva" },
+    { "relation": "Friend", "name": "Krishna", "slug": "krishna" },
+    { "relation": "Mother-in-law", "name": "Kunti", "slug": "kunti" }
+  ],
+  "texts": ["Mahabharata", "Venisamhara (play)", "Terukkuttu plays", "Yajnaseni (novel)"],
+  "places": [
+    "Panchala",
+    "Indraprastha",
+    "Dharmaraya Swamy Temple, Bengaluru",
+    "Draupadi Amman temples, Tamil Nadu"
+  ],
+  "festivals": ["Karaga, Bengaluru", "Thimithi (fire-walking)"],
+  "facts": [
+    {
+      "text": "In the Mahabharata, Draupadi was not born from a mother. She rose from the fire of a sacrifice as a fully grown woman, along with her twin brother Dhrishtadyumna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the epic, a prophecy at her birth said she would become the foremost of women and cause the downfall of many warrior clans.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "Karna is said to have failed the bow test by the width of a hair. In some northern manuscripts, Draupadi also refuses him, but the critical edition has no such refusal.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "Many tellings explain her five husbands differently. One says the Pandavas were partial forms of Indra and Draupadi was Shri, goddess of prosperity.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "Another version says she asked Shiva for a husband in a past life and was granted a boon that gave her five husbands in her next life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "Before Drupada agreed to the five-husband marriage, the epic says he was granted a divine vision that let him see Draupadi's true form as Shri, goddess of prosperity.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "Surya's gift to Yudhishthira, the Akshaya Patra, kept supplying food until Draupadi had eaten her own daily meal. Her meal ended the day's supply.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yudhishthira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The famous story that Draupadi laughed at Duryodhana when he fell into a pool is not found in the original epic, according to scholars.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 9
+    },
+    {
+      "text": "In the Mahabharata, her garment keeps lengthening when Dushasana tries to pull it. Scholars note that the version with Krishna's help was added later.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "Dhritarashtra offered Draupadi boons. She asked for her husband's freedom, then for all the Pandavas', and refused a third because a kshatriya woman may ask only two. Even Karna praised her as a boat rescuing the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the forest, Jayadratha carried her away, and the Pandavas rescued her. As punishment, they shaved his head in five places.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The epic describes Draupadi as fire-born, her body giving off a blue-lotus scent that could be noticed from two miles away.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "The famous vow to wash her hair in blood appears first in the 8th-century Sanskrit play Venisamhara, not in Vyasa's epic, according to scholars.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "When Ashwatthama killed her five sons, Draupadi forgave him in the epic, and she gave Yudhishthira the jewel taken from him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "More than 400 Draupadi Amman temples stand in Andhra Pradesh, Tamil Nadu and Karnataka, and the worship has travelled to Sri Lanka, Singapore, Malaysia, Mauritius, Réunion and South Africa.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Draupadi_Amman",
+      "interest": 7
+    },
+    {
+      "text": "At many Draupadi temples, trained adult devotees walk across hot coals in Thimithi, a fire-walking ritual held about a week before Deepavali. They believe true devotion lets them cross safely.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Thimithi",
+      "interest": 8
+    },
+    {
+      "text": "In Bengaluru's Karaga festival, a man carries a decorated pot on his head without touching it, honouring Draupadi as a form of Adishakti.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bangalore_Karaga",
+      "interest": 7
+    },
+    {
+      "text": "A popular forest tale, absent from the critical edition, says the sage Durvasa and his disciples arrived after Draupadi had eaten. Krishna ate the single grain of rice stuck in the Akshaya Patra and all of them felt fully fed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akshaya_Patra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The epic calls Draupadi a pandita, a scholar. She recalls sitting on her father's lap while the brahmins taught her brothers, and she became an expert in political science.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Draupadi says she managed thousands of Brahmins and ascetics and knew every servant's work. She claims to have known the treasury's income and spending, a hoard as vast as the sea god Varuna's.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before Krishna left on his peace mission to the Kauravas, Draupadi privately told him she wanted war, not a compromise. During the war itself she stayed in the city of Upaplavya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "To end Kichaka's harassment in the hidden year, Draupadi asked him to meet her in the dance hall at night. Bhima was waiting there in her place, so the Pandavas' secret stayed safe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "On the final journey to the Himalayas, Draupadi was the first of the party to fall. Yudhishthira told Bhima it was because she had been partial to Arjuna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How did Draupadi appear in the Mahabharata?",
+      "options": ["From a river", "From a sacrificial fire", "From a lotus", "From the sky"],
+      "answer": 1,
+      "why": "She rose grown from King Drupada's fire sacrifice."
+    },
+    {
+      "q": "What did suitors have to hit at her svayamvara?",
+      "options": ["A bird", "A deer", "A fish's eye", "A drum"],
+      "answer": 2,
+      "why": "They looked at the fish's reflection in water."
+    },
+    {
+      "q": "What name did she use as a maid in the hidden year?",
+      "options": ["Kanka", "Sairandhri", "Granthika", "Tantripala"],
+      "answer": 1,
+      "why": "Sairandhri was the queen's maid."
+    },
+    {
+      "q": "Which Bengaluru festival honours Draupadi?",
+      "options": ["Karaga", "Onam", "Pongal", "Baisakhi"],
+      "answer": 0,
+      "why": "Karaga carries a decorated pot in her honour."
+    },
+    {
+      "q": "How many boons did Draupadi accept from Dhritarashtra?",
+      "options": ["One", "Two", "Three", "Four"],
+      "answer": 1,
+      "why": "She asked two and refused a third."
+    }
+  ],
+  "related": [
+    "arjuna",
+    "yudhishthira",
+    "bhima",
+    "nakula",
+    "sahadeva",
+    "krishna",
+    "drupada",
+    "dhrishtadyumna"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Draupadi",
+    "amman": "https://en.wikipedia.org/wiki/Draupadi_Amman",
+    "karaga": "https://en.wikipedia.org/wiki/Bangalore_Karaga",
+    "thimithi": "https://en.wikipedia.org/wiki/Thimithi",
+    "pratibha": "https://en.wikipedia.org/wiki/Pratibha_Ray",
+    "yudhishthira": "https://en.wikipedia.org/wiki/Yudhishthira",
+    "akshaya": "https://en.wikipedia.org/wiki/Akshaya_Patra"
+  },
+  "depth": "full",
+  "palette": { "c1": "#e3a8a0", "c2": "#f5e6cf" },
+  "order": 6
+}

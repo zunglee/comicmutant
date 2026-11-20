@@ -1,0 +1,304 @@
+{
+  "slug": "rukmini",
+  "name": "Rukmini",
+  "aka": ["Rakhumai", "Chiryauvana", "Vaidarbhi", "Bhaishmi"],
+  "native": "रुक्मिणी",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Chief queen of Krishna, seen as an aspect of Lakshmi",
+  "summary": "Rukmini is the princess of Vidarbha who, in the Bhagavata Purana, writes to Krishna and chooses him as her husband. Several Puranas call her an incarnation of Lakshmi.",
+  "about": "Rukmini is the daughter of King Bhishmaka of Vidarbha, and the Vishnu, Bhagavata and Padma Puranas describe her as an incarnation of Lakshmi. In the Bhagavata Purana she loves Krishna after hearing of his deeds, even though they have never met. Her eldest brother Rukmi wants her to marry Shishupala instead, so she sends a letter by a trusted Brahmin. Krishna comes to Kundina and carries her away from the temple of Ambika, and she becomes his chief queen at Dvaraka. Tradition counts her as mother of Pradyumna, whom many texts call a rebirth of Kamadeva. Maharashtra honours her as Rakhumai beside Vithoba at Pandharpur, and Dwarka has a temple to her. Texts differ on details such as how many sons she had.",
+  "kidSummary": "Rukmini is a princess in the Hindu stories who loves Krishna because of the kind and brave things she hears about him. When her family plans a different wedding, she sends him a letter and he comes. Hindus honour her as a form of the goddess Lakshmi. She is a good example of making a thoughtful choice.",
+  "story": [
+    {
+      "title": "A princess hears about Krishna",
+      "text": "Princess Rukmini of Vidarbha hears travellers speak of Krishna's kindness and courage. In the Bhagavata Purana she decides she wants him as her husband, even though they have never met."
+    },
+    {
+      "title": "A different wedding is planned",
+      "text": "Her eldest brother Rukmi wants her to marry Shishupala, a friend of his. Rukmini is very unhappy and thinks about how to make her own choice known."
+    },
+    {
+      "title": "The letter",
+      "text": "She trusts a Brahmin messenger and gives him a letter for Krishna. She asks Krishna to come to Kundina before the wedding, when she will visit the Ambika temple."
+    },
+    {
+      "title": "Krishna arrives",
+      "text": "Krishna reaches the temple on his chariot and takes Rukmini with him. Balarama's army holds back the kings who chase them, and Rukmi is stopped from harming Krishna."
+    },
+    {
+      "title": "Life in Dvaraka",
+      "text": "Rukmini and Krishna are married in Dvaraka. Later stories show her welcoming Krishna's friend Sudama warmly, and many people see her as kind, wise and steady."
+    }
+  ],
+  "teaches": [
+    "Think carefully and make your own choice",
+    "Kindness can forgive even an angry brother",
+    "Devotion matters more than wealth"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lotus (in her left hand in some texts)", "Golden-yellow colour (Vaikhanasagama)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Son",
+      "name": "Pradyumna",
+      "slug": "pradyumna"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Aniruddha",
+      "slug": "aniruddha"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Satyabhama",
+      "slug": "satyabhama"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Jambavati",
+      "slug": "jambavati"
+    },
+    {
+      "relation": "Suitor chosen by her family",
+      "name": "Shishupala",
+      "slug": "shishupala"
+    },
+    {
+      "relation": "Eldest brother",
+      "name": "Rukmi"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Harivamsa",
+    "Padma Purana",
+    "Rukmini Horon (Sankaradeva)"
+  ],
+  "places": [
+    "Rukmini Devi Temple, Dwarka, Gujarat",
+    "Pandharpur, Maharashtra",
+    "Kundina, Vidarbha",
+    "Tirumala, Andhra Pradesh"
+  ],
+  "festivals": ["Rukmini Ashtami", "Vasanthotsavam at Tirumala", "Rukmini Kalyanam"],
+  "facts": [
+    {
+      "text": "To avoid a wedding with Shishupala, she sent a trusted Brahmin with a letter asking Krishna to carry her off when she visited the Ambika temple.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Rukmini's letter fills seven verses (Bhagavata Purana 10.52.37-43). She says hearing of Krishna's qualities has fixed her mind on him, and that if he does not come she will keep up penances for hundreds of lives.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/10/52/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna says that just as Rukmini's mind is fixed on him, his is on her; he cannot even sleep at night. Then he sets out for Vidarbha.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/53/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The night before the wedding Rukmini feared her messenger had failed. Just then her left side twitched, a good omen in the Bhagavata Purana, and the Brahmin arrived with Krishna's promise.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/53/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When her brother Rukmi was about to be killed, Rukmini begged for his life, so Krishna shaved his hair and moustache instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rukmi swore not to return to Kundina until he had defeated Krishna and rescued his sister. After being humbled, the Bhagavata Purana says he built a new city on that very spot and stayed.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/54/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna once teased her by suggesting she should have chosen a royal warrior. She fainted in tears until he said he was joking.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/60/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one traditional retelling, when Rukmini longed for a child, Krishna flew on Garuda to Kailash and Shiva blessed her to bear Kamadeva reborn, who became Pradyumna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "An Odia folktale, absent from the main scriptures, says one tulasi leaf from Rukmini balanced Krishna on a scale after gold failed. The Devi Bhagavata Purana tells it differently, with Satyabhama paying gold coins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Skanda Purana says the sage Durvasa cursed her when she drank water before offering it to him, keeping her from Krishna for twelve years. To console her, Krishna is said to have declared that devotees who see only him get half the merit.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rukmini_Devi_Temple",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Mishmi people of Arunachal Pradesh hold that Rukmini belonged to their community, and one of their legends explains their hairstyle through her story.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rukmi, once Krishna's foe, arranged Rukmini's grandson Aniruddha's wedding to please her. A dice quarrel there with Balarama ended with Rukmi's death, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/61/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Local legend at Madhavpur Ghed, on Gujarat's Porbandar coast, says Krishna married Rukmini there after carrying her off. The old Madhavrai temple marks the spot, and the present one was rebuilt in 1840 by Queen Rupaniba of Porbandar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Madhavpur_Ghed",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The five-day Madhavpur fair, held in Chaitra from Ram Navami, remembers the wedding of Krishna and Rukmini with a chariot procession, and now hosts folk performers from northeastern states such as Arunachal Pradesh, Assam and Manipur.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Madhavpur_Ghed",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Pandharpur region of Maharashtra, Rukmini is worshipped as Rakhumai beside Vithoba, a regional form of Krishna, and devotees there regard her as a mother goddess.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Baby Pradyumna, Rukmini's son, was carried off from the birth room by the demon Shambara, who threw him into the sea when he was under ten days old. A fish swallowed him and he was later found, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/55/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Years later the grown Pradyumna looked so much like Krishna that the palace women mistook him for Krishna. Rukmini felt a rush of love for the stranger and wondered whether he was her lost son, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/55/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her names include Vaidarbhi, princess of Vidarbha, Bhaishmi, daughter of Bhishmaka, Shri, and Dvarikeshvari, queen of Dvaraka.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Tirumala in Andhra Pradesh, the three-day Vasanthotsavam spring festival gives holy baths to the processional images of the deity and his consorts, and on the third day also to Krishna and Rukmini.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Rukmini",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the wedding in Dvaraka, the Bhagavata Purana says the city was hung with festive columns, flower arches, banners and lamps, and visiting kings and princesses marvelled at the songs telling of Rukmini's abduction.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/54/",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How did Rukmini let Krishna know she wanted to marry him?",
+      "options": [
+        "She sent a letter by a Brahmin",
+        "She lit a lamp on a hill",
+        "She sent a peacock feather",
+        "She sang in the market"
+      ],
+      "answer": 0,
+      "why": "In the Bhagavata Purana she trusted a Brahmin messenger with a letter."
+    },
+    {
+      "q": "How many sons does the Bhagavata Purana give Rukmini?",
+      "options": ["Three", "Ten", "Sixteen", "One hundred"],
+      "answer": 1,
+      "why": "The Bhagavata and Vishnu Puranas name ten sons, led by Pradyumna."
+    },
+    {
+      "q": "In the Odia tulabharam folktale, what balanced Krishna on the scale?",
+      "options": ["A gold crown", "A bag of pearls", "A single tulasi leaf", "A silver plate"],
+      "answer": 2,
+      "why": "One tulasi leaf from Rukmini balanced the scale against the jewels, showing devotion matters more than wealth."
+    },
+    {
+      "q": "Which goddess do the Puranas say Rukmini is an incarnation of?",
+      "options": ["Parvati", "Saraswati", "Ganga", "Lakshmi"],
+      "answer": 3,
+      "why": "The Vishnu, Bhagavata and Padma Puranas call her an incarnation of Lakshmi."
+    },
+    {
+      "q": "What did Krishna do to Rukmini's brother Rukmi after she pleaded for him?",
+      "options": [
+        "Sent him away to the sea",
+        "Shaved his hair and moustache",
+        "Gave him a kingdom",
+        "Made him a cowherd"
+      ],
+      "answer": 1,
+      "why": "Krishna spared Rukmi's life but shaved his hair and moustache."
+    }
+  ],
+  "related": [
+    "krishna",
+    "satyabhama",
+    "jambavati",
+    "pradyumna",
+    "lakshmi",
+    "shishupala",
+    "balarama",
+    "vithoba",
+    "sudama"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Rukmini",
+    "temple": "https://en.wikipedia.org/wiki/Rukmini_Devi_Temple",
+    "bhagavata_52": "https://vedabase.io/en/library/sb/10/52/",
+    "bhagavata_53": "https://vedabase.io/en/library/sb/10/53/",
+    "bhagavata_54": "https://vedabase.io/en/library/sb/10/54/",
+    "bhagavata_60": "https://vedabase.io/en/library/sb/10/60/",
+    "bhagavata_83": "https://vedabase.io/en/library/sb/10/83/",
+    "bhagavata_61": "https://vedabase.io/en/library/sb/10/61/",
+    "madhavpur": "https://en.wikipedia.org/wiki/Madhavpur_Ghed",
+    "bhagavata_55": "https://vedabase.io/en/library/sb/10/55/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2c4cf",
+    "c2": "#f8e3d0"
+  },
+  "order": 500
+}

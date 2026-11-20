@@ -1,0 +1,280 @@
+{
+  "slug": "shalibhadra",
+  "name": "Shalibhadra",
+  "aka": ["Salibhadra", "Sangama (previous life)"],
+  "native": "शालिभद्र",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Wealthy merchant's son who became a Jain monk in Mahavira's time",
+  "summary": "In a popular Shvetambara Jain story, Shalibhadra is a rich merchant's son in Rajagriha who gives up great wealth, becomes a monk under Mahavira and fasts to his end on Vaibhara hill.",
+  "about": "Shalibhadra is the hero of a well-loved Shvetambara Jain story of giving, told in Prakrit, Sanskrit and Gujarati and popular in Gujarat and Rajasthan. The story says that in an earlier life he was Sangama, a poor cowherd who gave his whole bowl of milk-rice to a monk. Reborn in Rajagriha as the merchant's son Shalibhadra, he lived in great luxury with 32 wives. A visit from King Shrenika made him feel that wealth does not bring freedom, so he left it behind and followed Mahavira. Jain tradition says he and his brother-in-law Dhanya fasted peacefully on Vaibhara hill and were reborn in a heaven.",
+  "kidSummary": "Shalibhadra is the hero of a famous Jain story. One kind act of giving, when he was a poor boy, led to a life of wonderful riches. Even so, he chose to give it all up and become a monk, because he wanted something deeper than money.",
+  "story": [
+    {
+      "title": "A bowl of milk-rice",
+      "text": "The story says Sangama, a poor cowherd boy, was given a treat of milk-rice. A monk who had been fasting a month came by, and Sangama gladly gave him the whole dish."
+    },
+    {
+      "title": "Born into riches",
+      "text": "Reborn as Shalibhadra in Rajagriha, he grew up with great wealth, 32 wives, and a father who had become a god and kept sending gifts."
+    },
+    {
+      "title": "The king's visit",
+      "text": "When King Shrenika visited, Shalibhadra learned that he still had a ruler above him. He began to feel that riches could not make him free."
+    },
+    {
+      "title": "Leaving, step by step",
+      "text": "After hearing a Jain monk preach, he decided to renounce his wealth, giving up his wives one at a time. His brother-in-law Dhanya joined him."
+    },
+    {
+      "title": "Under Mahavira",
+      "text": "Both men became monks under Mahavira and practised hard penances. They were once turned away from Shalibhadra's own mother's house, but the milk-woman of his past life gave them food."
+    },
+    {
+      "title": "A peaceful end",
+      "text": "Jain tradition says they fasted calmly on Vaibhara hill and were reborn in a heaven, from where they will reach liberation."
+    }
+  ],
+  "teaches": [
+    "Generous giving, even from a small meal",
+    "Wealth does not give lasting freedom",
+    "Courage to change one's life"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Bowl of milk-rice (kheer)", "Vaibhara hill, Rajagriha"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Gobhadra"
+    },
+    {
+      "relation": "Mother",
+      "name": "Bhadra"
+    },
+    {
+      "relation": "Sister",
+      "name": "Subhadra"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Dhanya"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Mahavira",
+      "slug": "mahavira"
+    },
+    {
+      "relation": "King of Rajagriha",
+      "name": "Shrenika (Bimbisara)",
+      "slug": "bimbisara"
+    }
+  ],
+  "texts": [
+    "Marana-samahi",
+    "Avashyaka commentaries",
+    "Trishashti Shalaka Purusha Charitra",
+    "Dhanya-Shali-charitra (1228 CE)",
+    "Shalibhadra-rasa (1398 CE)"
+  ],
+  "places": ["Rajagriha", "Vaibhara hill"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name comes from shali, the word for ripe rice, because the story says his mother dreamed of a field of ripe rice before he was born.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In an earlier life he was Sangama, a poor widow's son who herded cows. He gave all of his festival milk-rice to a monk who was ending a month of fasting.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shalibhadra is said to have had 32 wives. His father had become a monk and, as a god, kept helping his son with riches.",
+      "kind": "family",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some versions say that on meeting the king, Shalibhadra wept because the king's touch hurt his own very delicate body, showing how soft he was.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mahavira had said the two monks would end a month's fast with Bhadra, but her doorkeeper turned them away. A milk-woman outside the city fed them.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "That milk-woman was Sangama's mother from the earlier life, so the circle of giving came back to him.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jains use the saying 'rich like Shalibhadra' for someone extremely wealthy, even though the hero of the story is remembered for giving up all that wealth.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sangama gave his milk-rice to the monk with spontaneous joy and died that same night. The telling stresses the happy spirit of giving more than the gift itself.",
+      "kind": "teaching",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Jainworld telling, his mother bought sixteen costly saris from Nepal merchants and tore each in half, so each of 32 daughters-in-law could wipe her feet on one and then throw it away. Other tellings speak of gem-blankets instead.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10156",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When King Shrenika came to visit, Shalibhadra's mother introduced the king as his master. That word made him realise he was not free, and it pushed him toward renunciation.",
+      "kind": "story",
+      "source": "https://jainworld.com/?p=10156",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Diwakar comic telling, King Shrenik dropped his ring in the pool at Shalibhadra's house. When the pool was drained, his ring looked like a pebble beside the shining ornaments that had been thrown away at the bottom.",
+      "kind": "story",
+      "source": "https://jainqq.org/booktext/Shalibhadra_Diwakar_Chitrakatha_047/006647",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His penances were so severe that within a few months his body grew thin and weak, and his own mother failed to recognise him.",
+      "kind": "story",
+      "source": "https://jainqq.org/booktext/Shalibhadra_Diwakar_Chitrakatha_047/006647",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hearing that he had a master made him ask the teacher Dharmaghosha how to become his own master. The answer was to discipline the senses and mind, with his mother's leave.",
+      "kind": "teaching",
+      "source": "https://jainqq.org/booktext/Shalibhadra_Diwakar_Chitrakatha_047/006647",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The JAINpedia manuscript of the story was painted in Jaisalmer in 1726 by a monk named Kanakakirti. Its colophon says the work was meant to be seen as well as read.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The poem behind that manuscript was written in 1621 by Matisara at the request of Jinaraja-suri.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the story, Dhanna's wives mocked him as a teacher who did not practise what he taught, and that pushed him to renounce. His wives later became nuns as well.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shalibhadra's mother Bhadra largely directs his life. She welcomes the king with great show, resists his wish to renounce and agrees only after delay, and she is heartbroken when he begins to fast.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His initiation is shown as a grand palanquin procession with musicians, even though he was giving up every luxury he had known.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Paintings mark which Jain group the artist belonged to: monks carrying staffs show the Murti-pujaka tradition, whereas Sthanakavasi artists usually draw mouth-cloths instead.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the fast, the story says Shalibhadra and Dhanna were reborn in the Sarvarthasiddhi heaven, and that in a later life they will attain liberation.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Sangama the cowherd give to the monk?",
+      "options": ["Gold coins", "Milk-rice", "A blanket", "A cow"],
+      "answer": 1,
+      "why": "He gave all his milk-rice (kheer) to a monk ending a month's fast."
+    },
+    {
+      "q": "What is Shalibhadra's name said to come from?",
+      "options": [
+        "A field of ripe rice",
+        "A river in Rajagriha",
+        "A golden shawl",
+        "A bowl of milk"
+      ],
+      "answer": 0,
+      "why": "Shali is ripe rice; in the story his mother dreamed of a ripe rice field before he was born."
+    },
+    {
+      "q": "Which king visited Shalibhadra's house?",
+      "options": ["Ashoka", "Shrenika", "Kharavela", "Bharata"],
+      "answer": 1,
+      "why": "King Shrenika of Rajagriha visited the merchant's palace."
+    },
+    {
+      "q": "Who is Shalibhadra's brother-in-law in the story?",
+      "options": ["Dhanya", "Gautama", "Neminatha", "Chandragupta"],
+      "answer": 0,
+      "why": "Dhanya, married to Shalibhadra's sister Subhadra, also became a monk."
+    },
+    {
+      "q": "What does the story mainly teach?",
+      "options": [
+        "The value of obeying elders",
+        "The value of hard work",
+        "The value of giving",
+        "The value of learning grammar"
+      ],
+      "answer": 2,
+      "why": "It is a story of dana, giving, and letting go of riches."
+    }
+  ],
+  "related": ["mahavira", "gautama-swami", "bimbisara", "sthulabhadra", "bhadrabahu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bimbisara",
+    "jainpedia": "https://jainpedia.org/themes/principles/sacred-writings/highlights-of-jainpedia/story-of-salibhadra",
+    "jainworld": "https://jainworld.com/?p=10156",
+    "diwakar_chitrakatha": "https://jainqq.org/booktext/Shalibhadra_Diwakar_Chitrakatha_047/006647",
+    "bimbisara": "https://en.wikipedia.org/wiki/Bimbisara"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0e0c0",
+    "c2": "#d8e2cf"
+  },
+  "years": "c. 6th-5th century BCE (traditional)"
+}

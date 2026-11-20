@@ -1,0 +1,283 @@
+{
+  "slug": "brihaspati",
+  "name": "Brihaspati",
+  "aka": ["Guru", "Brahmanaspati", "Jiva", "Angirasa"],
+  "native": "बृहस्पति",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Teacher of the devas and lord of Jupiter",
+  "summary": "Brihaspati is the wise teacher and priest of the devas in Hindu tradition and the deity of Jupiter, whose name gave India its Thursday.",
+  "about": "Brihaspati is the guru of the devas in the Vedas and later texts, often called their priest and counsellor. The Rigveda praises him as a sage who removes darkness, and tradition says the string of his bow is the cosmic order, rta. Texts attribute to him a law book, the Brihaspati Smriti, and the materialist Brihaspati Sutras that grounded the Charvaka school. In astronomy and astrology he became the planet Jupiter, one of the nine Navagraha, with Thursday as his day. The Puranas give him a wife, Tara, and tell how the Moon god once took her and fathered Budha. Early Sanskrit astronomers measured Jupiter's year very closely.",
+  "kidSummary": "Brihaspati is the wise teacher of the gods. In India, he is also the planet Jupiter, and Thursday is named after him. Old books say he knew the laws of the world and taught the devas how to think clearly.",
+  "story": [
+    {
+      "title": "The gods' teacher",
+      "text": "When the devas needed advice on laws and rituals, they turned to Brihaspati, the wisest teacher among them."
+    },
+    {
+      "title": "A bow with a special string",
+      "text": "Texts say his bow's string is rta, the order of the universe. He uses wisdom, not just force, to chase away darkness."
+    },
+    {
+      "title": "A son on a mission",
+      "text": "The devas wanted a mantra that could bring the dead back to life. They sent Brihaspati's son Kacha to learn it from Shukra, the teacher of the asuras."
+    },
+    {
+      "title": "A problem with the Moon",
+      "text": "Some Puranas say that Chandra, the Moon god, took Tara away. The gods stepped in to help settle the quarrel."
+    },
+    {
+      "title": "A planet and a day",
+      "text": "Later, Brihaspati became the planet Jupiter. His day, Brihaspativara, is Thursday. Jupiter takes about twelve years to circle the sky, and that slow cycle helps set the dates of the Kumbh Mela."
+    }
+  ],
+  "teaches": [
+    "Wise advice is more precious than power",
+    "Learning and teaching are sacred work",
+    "Law and fairness hold society together"
+  ],
+  "symbol": "star",
+  "emblems": ["Staff", "Lotus", "Prayer beads", "Soma vessel", "Chariot with eight white horses"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Tara"
+    },
+    {
+      "relation": "Rival over Tara",
+      "name": "Chandra",
+      "slug": "chandra"
+    },
+    {
+      "relation": "Son (of Tara and Chandra)",
+      "name": "Budha"
+    },
+    {
+      "relation": "Son (some texts)",
+      "name": "Bharadvaja",
+      "slug": "bharadvaja"
+    },
+    {
+      "relation": "Brother or identified with",
+      "name": "Agni",
+      "slug": "agni"
+    }
+  ],
+  "texts": ["Rigveda", "Brihaspati Smriti", "Brihaspati Sutras", "Surya Siddhanta", "Aryabhatiya"],
+  "places": [
+    "Konark Sun Temple (Navagraha panel)",
+    "Apatsahayesvarar Temple, Alangudi (Guru Sthalam)"
+  ],
+  "festivals": ["Thursday worship", "Kumbh Mela (timed by Jupiter)"],
+  "facts": [
+    {
+      "text": "In the Mahabharata and Puranas, the devas send Brihaspati's son Kacha to Shukra, the teacher of the asuras, to learn a mantra that can bring the dead back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kacha_(sage)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The asuras, suspicious of Kacha, killed him twice and Shukra revived him at his daughter Devayani's pleas; the third time they mixed his ashes into Shukra's drink, so Kacha learned the mantra from inside his teacher and then revived him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kacha_(sage)",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The Kumbh Mela is timed by where Jupiter, Sun and Moon stand, and as Jupiter's orbit takes about 11.86 years, the cycle slips so that roughly once a century a site gets its Kumbh after only 11 years.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Kacha left, Devayani asked him to marry her; he refused, she cursed him so he could not use the revival mantra, and he cursed her in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kacha_(sage)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one retelling of the Tara story, when Tara stayed silent about who the father was, the child still in her womb spoke up and asked her, and she then named Chandra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Thursday is named for Jupiter in many languages: French jeudi, Spanish jueves and Italian giovedi come from the Roman Jupiter, and in Japan the day is named for the planet Jupiter too.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Thursday",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Sayana's commentary on the Rigveda's stolen-cows tale, the Panis hide cattle in a stone cave called Vala, and Indra sends the dog Sarama to find them on Brihaspati's advice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sarama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Cambodia Tara is Kirinei Devi, guardian goddess of Thursday, believed to come down from heaven to look after the people for a year when the Khmer New Year opens on a Thursday.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Hindu_goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Images show Brihaspati with a golden body, blue-striped legs and a halo of moon and stars; in parts of South Asia he holds a soma vessel, sometimes with a tamed tiger.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda says the craftsman Tvashtr forged an axe for Brihaspati, and Tvashtr is also counted as Brihaspati's father.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Tvashtr",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda the Ribhus, three divine craftsmen, are credited with fashioning the wonder cow of Brihaspati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ribhus",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the early Rigveda, bṛhaspati was a title for Indra as priest-king; only later did Brihaspati and Indra become two separate gods.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Indra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Thursday is Guruvar or Brihaspativar, and many devotees wear yellow on that day in honour of Brihaspati, the Guru.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Thursday",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some scholars think the materialist Brihaspati Sutras borrowed the god's name for credibility, but others disagree because the text rejects the Vedic gods.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition names Brihaspati as founder of the Charvaka school; some say a disciple named Charvaka founded it, and the sutras are cited in the Mahabhashya, so they predate 150 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Charvaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Brihaspati Smriti was lost, yet scholars rebuilt about 2,400 of its verses by tracking quotations from it in other Indian texts.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata says the sage Ushanas, Shukra, the teacher of the asuras, split himself in two, one half a source of knowledge for the devas and the other for the asuras.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Brihaspati is Guru, the teacher, to all the Devas, and the same word names the planet Jupiter and Thursday, Guruvar.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vedas Brihaspati is associated with fire, and he is sometimes identified with the fire god Agni.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Brihaspati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata and Padma Puranas, Tara feels ignored because Brihaspati spends most of his time on the devas' problems, before she meets Chandra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which planet is Brihaspati in Hindu astronomy?",
+      "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+      "answer": 1,
+      "why": "Brihaspati became the name of Jupiter."
+    },
+    {
+      "q": "Which day of the week is named after Brihaspati?",
+      "options": ["Monday", "Wednesday", "Thursday", "Saturday"],
+      "answer": 2,
+      "why": "Brihaspativara means Thursday in Sanskrit."
+    },
+    {
+      "q": "What is Brihaspati's role among the devas?",
+      "options": [
+        "Charioteer of Surya",
+        "Teacher and priest",
+        "King of the yakshas",
+        "Guard of the south"
+      ],
+      "answer": 1,
+      "why": "He is their wise teacher and priest."
+    },
+    {
+      "q": "Who is Brihaspati's wife in Hindu texts?",
+      "options": ["Rohini", "Tara", "Sati", "Ganga"],
+      "answer": 1,
+      "why": "Tara is his wife; she is also linked to the stars."
+    },
+    {
+      "q": "Which Indian school is said to rest on the Brihaspati Sutras?",
+      "options": ["Charvaka", "Yoga", "Sankhya", "Mimamsa"],
+      "answer": 0,
+      "why": "The materialist Charvaka school rests on texts attributed to him."
+    }
+  ],
+  "related": [
+    "navagraha",
+    "shani",
+    "chandra",
+    "agni",
+    "surya",
+    "indra",
+    "devayani",
+    "bharadvaja",
+    "tara"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Brihaspati",
+    "charvaka": "https://en.wikipedia.org/wiki/Charvaka",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "kacha": "https://en.wikipedia.org/wiki/Kacha_(sage)",
+    "kumbh-mela": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+    "tara": "https://en.wikipedia.org/wiki/Tara_(Hindu_goddess)",
+    "sarama": "https://en.wikipedia.org/wiki/Sarama",
+    "alangudi": "https://en.wikipedia.org/wiki/Apatsahayesvarar_Temple,_Alangudi",
+    "shukra": "https://en.wikipedia.org/wiki/Shukra",
+    "thursday": "https://en.wikipedia.org/wiki/Thursday",
+    "tvashtr": "https://en.wikipedia.org/wiki/Tvashtr",
+    "ribhus": "https://en.wikipedia.org/wiki/Ribhus",
+    "indra": "https://en.wikipedia.org/wiki/Indra"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2e2a8",
+    "c2": "#cfe0d4"
+  },
+  "order": 502
+}

@@ -1,0 +1,273 @@
+{
+  "slug": "bharata-chakravartin",
+  "name": "Bharata Chakravartin",
+  "aka": ["Bharata", "Bharat Chakravarti"],
+  "native": "भरत चक्रवर्ती",
+  "role": "First universal emperor of this age in Jain tradition",
+  "summary": "Jains remember Bharata as the first chakravartin of this age and the eldest son of Rishabhanatha, whose name Indian tradition links to the land of Bharata.",
+  "about": "In Jain tradition, Bharata was the eldest son of the first Tirthankara, Rishabhanatha, and became the first chakravartin, or universal emperor, of the present half-cycle of time. Jain texts say he conquered the six divisions of the earth with the help of a divine discus. They also say his brother Bahubali refused to submit and defeated him in a duel. Later accounts say Bharata gave up his own wealth and reached omniscience, though Digambara and Svetambara tellings differ on how and when. Jain texts and some Puranas, including the Skanda Purana, link the name Bharatavarsha to a Bharata who was Rishabha's son, while other traditions link it to Dushyanta's son Bharata.",
+  "kidSummary": "Bharata was the oldest son of Rishabhanatha and, Jain stories say, the first great emperor of his age. His wheel-shaped weapon stopped at the city gate until his brothers accepted him. Ninety-eight did, but one, Bahubali, would not. Some stories say a ring and a mirror made Bharata wise.",
+  "story": [
+    {
+      "title": "A prince of Ayodhya",
+      "text": "Jain stories say Bharata was born the eldest son of Rishabhanatha. When his father became a monk, Bharata received the city of Ayodhya to rule."
+    },
+    {
+      "title": "The wheel stops",
+      "text": "Bharata marched out and won lands in every direction, helped by a magic wheel weapon. Back home, the wheel stopped at the gate, telling him that his brothers had not yet accepted him as emperor."
+    },
+    {
+      "title": "Brothers choose paths",
+      "text": "Ninety-eight of his brothers gave up their kingdoms and became monks. Only Bahubali stood firm, and the two fought a duel that Bahubali won."
+    },
+    {
+      "title": "A gentle ending",
+      "text": "Bahubali spared his brother and chose to become a monk himself. Bharata felt sorry and later came to bow to him."
+    },
+    {
+      "title": "A look in the mirror",
+      "text": "Svetambara and some retellings say that Bharata, in a hall of mirrors, saw a ring slip off his finger. Without his jewels he saw how fragile beauty is and let go of his wealth."
+    }
+  ],
+  "teaches": [
+    "Power and treasure do not last",
+    "Brothers should respect one another",
+    "Look inward to find wisdom"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Chakra-ratna (divine discus)", "Nine treasures", "Fourteen jewels"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Rishabhanatha",
+      "slug": "rishabhanatha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sumangala"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bahubali",
+      "slug": "bahubali"
+    },
+    {
+      "relation": "Sister",
+      "name": "Brahmi",
+      "slug": "brahmi-and-sundari"
+    },
+    {
+      "relation": "Chief queen",
+      "name": "Subhadra"
+    },
+    {
+      "relation": "Son",
+      "name": "Arka Kirti"
+    }
+  ],
+  "texts": [
+    "Adipurana",
+    "Trishashti Shalaka Purusha Charitra",
+    "Skanda Purana",
+    "Bhagavata Purana"
+  ],
+  "places": [
+    "Ayodhya (Vinita)",
+    "Sagar, Madhya Pradesh",
+    "Koodalmanikyam, Kerala (a Hindu temple of Bharata, Rama's brother)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Jain texts such as the Adipurana, and the Skanda Purana (chapter 37), say India's old name Bharatavarsha comes from Bharata, the son of Rishabha.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A divine serrated disc, the chakra-ratna, is said to have halted at the gate of Ayodhya because his brothers had not yet submitted.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bharata and Bahubali had three contests, in staring, water and wrestling. Bahubali lifted his brother onto his shoulder and gently set him down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Digambara account, Bharata then threw the chakra at Bahubali, but it circled him harmlessly because such weapons lose power against close family.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Digambara texts say he noticed a white hair, chose to renounce, and reached omniscience in under 48 minutes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His son Marichi is said to be an earlier birth of Mahavira, the 24th Tirthankara.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 45-foot statue of Bharata was put up in Sagar, Madhya Pradesh, in 2017, after a planned 57-foot single-stone statue broke during installation.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a Svetambara text, Bharata stepped into a glass hall of jewels and a ring slipped off his finger. The bare finger looked dull, so he took off every ornament and saw his body as a sky without stars, a harvested field, a lake without lotuses.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_1/008001/297",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In that Svetambara account Bharata became omniscient in the glass hall, while still an emperor. Only then did the gods give him a monk's robes. About ten thousand kings took initiation with him.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_1/008001/298",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Hemachandra's telling, two messengers brought Bharata news on one day: his father's omniscience, and the discus-jewel appearing in the armoury. He honoured his father first, since the father gives fearlessness and the discus destroys life.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212460.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Bharata's fourteen jewels were not all gems. Besides the discus, umbrella, sword and gem, the Mahapurana lists a general, a steward, an elephant, a horse, a woman, a priest and a carpenter.",
+      "kind": "symbol",
+      "source": "https://jainqq.org/pagetext/samaysar/006774/367",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some accounts say the Koodalmanikyam temple in Kerala began as a Jain temple of Bharata. Today it is a Hindu temple whose deity is Bharata, brother of Rama.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vasudevahindi, an early Prakrit telling, has Bharata born as a twin with his sister Brahmi. His mother Sumangala then bore 49 more pairs of twin sons, which makes the 98 younger brothers.",
+      "kind": "family",
+      "source": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/28",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After conquering the north, Bharata drove to Mount Rishabhakuta, struck it three times with his chariot and wrote on its east face with a cowrie jewel that he was Bharata, the chakravartin of this age, as Hemachandra tells it.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212481.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One Jain legend says Bharata's mother, Yasasvati, dreamed of the sun, moon, Mount Meru, a lake of swans, the earth and the ocean. Rishabhanatha said they foretold a son who would conquer the whole world. Other texts call his mother Sumangala.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Bharata headed home with sixty thousand years gone since his first march, leading 96 crore foot soldiers, 84 lakh elephants, and as many horses and chariots.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212486.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's telling, each of Bharata's nine treasures gave a gift: one towns, one grain and measures, one ornaments, one clothes, one weapons and justice, and one poetry, music and theatre.",
+      "kind": "symbol",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212485.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At his coronation, Hemachandra says Bharata declared Ayodhya free of customs duty, taxes and fines for twelve years. The gods crowned him with Rishabhanatha's own crown, given earlier by Indra.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212488.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On that march home, Hemachandra says, Bharata was escorted by 32,000 queens who were kings' daughters, the same number of women of the people, and 32,000 kings walking before him like footmen.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212486.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Hemachandra says that when guards told Bharata that Rishabhanatha was preaching on Mount Ashtapada, he was happier than at conquering the six regions, and gave the messengers twelve and a half crores of gold.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does a chakravartin mean in Jain stories?",
+      "options": ["A potter", "A universal emperor", "A temple priest", "A forest hermit"],
+      "answer": 1,
+      "why": "Bharata was the first universal emperor of this age."
+    },
+    {
+      "q": "What stopped at the gate of Ayodhya in the story?",
+      "options": ["His chariot", "His magic discus (chakra)", "His crown", "His horse"],
+      "answer": 1,
+      "why": "The chakra-ratna stopped because his brothers had not submitted."
+    },
+    {
+      "q": "How many of his brothers became monks before the duel?",
+      "options": ["10", "48", "98", "1,000"],
+      "answer": 2,
+      "why": "Ninety-eight brothers became monks; Bahubali stayed to face him."
+    },
+    {
+      "q": "In one retelling, what helped Bharata see that beauty is fragile?",
+      "options": ["A mirror", "A river", "A mountain", "A bird"],
+      "answer": 0,
+      "why": "He looked into a mirror after removing his jewels."
+    }
+  ],
+  "related": ["bahubali", "rishabhanatha", "brahmi-and-sundari", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bharata_(Jainism)",
+    "retelling": "https://sanskritimagazine.com/bharat-and-bahubali-two-mighty-brothers-with-a-different-destiny",
+    "rishabhanatha": "https://en.wikipedia.org/wiki/Rishabhanatha",
+    "mirror": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_1/008001/297",
+    "art": "https://jainqq.org/pagetext/samaysar/006774/367",
+    "koodalmanikyam": "https://en.wikipedia.org/wiki/Koodalmanikyam_Temple",
+    "mirrorOmniscience": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_1/008001/298",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212460.html",
+    "vasudevahindi": "https://jainqq.org/pagetext/Jain_Journal_1981_04/520062/28",
+    "hemachandraRishabhakuta": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212481.html",
+    "hemachandraReturn": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212486.html",
+    "hemachandraTreasures": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212485.html",
+    "hemachandraCoronation": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212488.html",
+    "hemachandraAshtapada": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212490.html"
+  },
+  "palette": {
+    "c1": "#e3cf9a",
+    "c2": "#b8a9d4"
+  },
+  "order": 602,
+  "tradition": "jain",
+  "group": "jain-figure",
+  "depth": "full"
+}

@@ -1,0 +1,210 @@
+{
+  "slug": "chakreshvari",
+  "name": "Chakreshvari",
+  "aka": ["Apratichakra", "Chakreshwari"],
+  "native": "चक्रेश्वरी",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Yakshi, protector goddess of Rishabhanatha",
+  "summary": "Chakreshvari is the Jain attendant goddess (yakshi) of the first Tirthankara, Rishabhanatha. She rides the Garuda and is known by her discs, the chakras that give her her name.",
+  "about": "Chakreshvari, also called Apratichakra, is the yakshi, or attendant goddess, of Rishabhanatha, the first Tirthankara. Her name comes from the chakra, the disc that is her main symbol, and her usual mount is the Garuda. Jains say that she protects the Jain teaching, and many worship her in her own right. Images vary a lot in how many arms she has: Digambara texts list forms from two to twenty arms, Shvetambara texts from two to eighteen. She is guardian deity of the Sarawagi Jain community and is named with Ambika and Padmavati among the three most worshipped yakshis. Her best-known partner is the yaksha Gomukha.",
+  "kidSummary": "Chakreshvari is a Jain goddess who watches over Rishabhanatha, the first Tirthankara. She holds spinning discs called chakras and travels on Garuda, a great bird. Jains say she protects people and helps them in hard times.",
+  "story": [
+    {
+      "title": "The first Tirthankara",
+      "text": "Jains believe Rishabhanatha is the first of the 24 Tirthankaras of this age. Jain tradition gives each Tirthankara a pair of guardian deities."
+    },
+    {
+      "title": "Chakreshvari arrives",
+      "text": "Rishabhanatha's female guardian is Chakreshvari, 'goddess of the disc'. Texts also call her Apratichakra."
+    },
+    {
+      "title": "Flying on Garuda",
+      "text": "She is pictured riding Garuda, a mythical eagle, and holding discs and other symbols in her many hands."
+    },
+    {
+      "title": "A merchant and a lost image",
+      "text": "Tradition says that in the 11th century a merchant named Javada Sheth worshipped Chakreshvari. Through her help, he is said to have found a lost image of Rishabhanatha."
+    },
+    {
+      "title": "A holy hill renewed",
+      "text": "The story says this helped make Shatrunjaya, the great hill in Gujarat, a place of pilgrimage again. A small shrine to her stands there today."
+    },
+    {
+      "title": "The cart that would not move",
+      "text": "A legend from Punjab tells of pilgrims carrying her idol in a bullock cart. It would not move from a spot near Sirhind, so they dug there, found water and built her temple."
+    }
+  ],
+  "teaches": [
+    "Protection of those who follow the path",
+    "Gratitude and respect for helpers",
+    "Hope in difficult times"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Chakra (disc)", "Garuda (vahana)", "Noose, bow and thunderbolt"],
+  "family": [
+    {
+      "relation": "Tirthankara she protects",
+      "name": "Rishabhanatha",
+      "slug": "rishabhanatha"
+    },
+    {
+      "relation": "Partner yaksha",
+      "name": "Gomukha"
+    },
+    {
+      "relation": "Fellow yakshis",
+      "name": "Ambika",
+      "slug": "ambika"
+    },
+    {
+      "relation": "Fellow yakshis",
+      "name": "Padmavati",
+      "slug": "padmavati"
+    }
+  ],
+  "texts": [
+    "Nirvana-Kalika (early 11th century)",
+    "Rupamandana",
+    "Chakreshvari-stotra (12th century)",
+    "Trishashti Shalaka Purusha Charitra"
+  ],
+  "places": [
+    "Sirhind (Attewali), Punjab",
+    "Deogarh, Uttar Pradesh",
+    "Ellora Caves",
+    "Shatrunjaya, Gujarat",
+    "Gyaraspur Maladevi temple",
+    "Mount Girnar"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Digambara texts allow 2, 4, 6, 8, 10, 12, 16 or 20 arms for her, and Shvetambara texts allow 2, 4, 8 or 18.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says in the 11th century a merchant named Javada Sheth found a lost Rishabhanatha image through worship of her, helping restore Shatrunjaya as a holy place.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A temple legend near Sirhind in Punjab says pilgrims from Rajasthan were taking her idol by bullock cart when it would not move. A voice told them to dig, they found water, and her temple was built there.",
+      "kind": "place",
+      "source": "https://fatehgarhsahib.nic.in/tourist-place/mata-chakreshwari-temple/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Ellora cave 30 (9th century), where she has 12 arms, and at Deogarh temple 19, she rides a Garuda shown as a human figure rather than as a bird.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Sirhind legend, set in Prithviraj Chauhan's time, pilgrims were taking her idol to the Jain temple of Adinath at Kangra Fort. Overnight a glow surrounded the palanquin, and a voice said she wished to stay there.",
+      "kind": "story",
+      "source": "https://fatehgarhsahib.nic.in/tourist-place/mata-chakreshwari-temple/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The well at her Sirhind temple is said to hold water as sacred as Ganga water, and devotees carry it home. An annual gathering is held four days after Dussehra.",
+      "kind": "festival",
+      "source": "https://fatehgarhsahib.nic.in/tourist-place/mata-chakreshwari-temple/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her name Chakreshvari means 'lord of the disc', and Apratichakra means 'one with an unrivalled disc'. She is also counted as the fifth of the 16 vidya-devis, goddesses of types of magical knowledge.",
+      "kind": "language",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhaktamara hymn is one of the best-loved Jain hymns and honours Rishabhanatha. Stories about it say Chakreshvari appears to a person who recites it and grants a boon that turns their troubles around.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Koraput district, Odisha, a sixteen-armed Chakreshvari image is worshipped locally as Bhagavati by people who do not know she is Jain. Such sixteen-armed images are extremely rare.",
+      "kind": "place",
+      "source": "https://jainqq.org/pagetext/Jaina_Monuments_Of_Orissa/022826/149",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Khandagiri in Odisha, a twelve-armed Chakreshvari in the Barabhuji cave, dated to the 11th century, is called Turon by local people.",
+      "kind": "place",
+      "source": "https://jainqq.org/pagetext/Jaina_Monuments_Of_Orissa/022826/149",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The oldest captioned image of her is on the front of temple 12 at Deogarh and is dated 862 CE. An 11th-century twenty-armed figure is kept in the Sahu Jain Museum there.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Tirthankara is Chakreshvari the yakshi of?",
+      "options": ["Rishabhanatha", "Parshvanatha", "Mahavira", "Neminatha"],
+      "answer": 0,
+      "why": "She guards the first Tirthankara, Rishabhanatha."
+    },
+    {
+      "q": "What is her main emblem?",
+      "options": ["Bell", "Chakra (disc)", "Conch", "Flute"],
+      "answer": 1,
+      "why": "Her name comes from the chakra, the disc."
+    },
+    {
+      "q": "What mythical bird does she ride?",
+      "options": ["Swan", "Peacock", "Garuda", "Crane"],
+      "answer": 2,
+      "why": "Garuda is her usual mount."
+    },
+    {
+      "q": "Which is her other name?",
+      "options": ["Kushmandini", "Apratichakra", "Padmini", "Sarasvati"],
+      "answer": 1,
+      "why": "Texts also call her Apratichakra."
+    },
+    {
+      "q": "Which yaksha is often paired with her?",
+      "options": ["Gomukha", "Parshva", "Matanga", "Sarvahna"],
+      "answer": 0,
+      "why": "Gomukha, the yaksha of Rishabhanatha, is her partner."
+    },
+    {
+      "q": "In the Sirhind legend, what happened to the cart carrying her idol?",
+      "options": ["It would not move", "It broke a wheel", "It flew away", "It filled with fruit"],
+      "answer": 0,
+      "why": "The legend says it would not move, so the pilgrims dug nearby, found water and built the temple."
+    }
+  ],
+  "related": ["rishabhanatha", "ambika", "padmavati", "dharanendra", "bharata-chakravartin"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chakreshvari",
+    "jainpedia": "https://jainpedia.org/themes/practices/deities/cakresvari-or-apraticakra",
+    "sirhind": "https://fatehgarhsahib.nic.in/tourist-place/mata-chakreshwari-temple/",
+    "bommalagutta": "https://en.wikipedia.org/wiki/Bommalagutta"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#ede0bb",
+    "c2": "#cde0e3"
+  }
+}

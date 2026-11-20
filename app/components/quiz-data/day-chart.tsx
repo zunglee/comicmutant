@@ -26,7 +26,7 @@ export function DayChart({ days }: { days: SiteStats['perDay'] }) {
           >
             <span className="text-sm">{dayLabel(d.day)}</span>
             <span aria-hidden className="block space-y-1">
-              <span className="block h-3 overflow-hidden rounded-sm bg-bg">
+              <span className="block h-3 overflow-hidden rounded-skin-s bg-bg">
                 <m.span
                   className="block h-full origin-left border-line border-r-2 bg-c1"
                   style={{ width: `${(d.games / max) * 100}%` }}
@@ -36,7 +36,7 @@ export function DayChart({ days }: { days: SiteStats['perDay'] }) {
                   transition={{ type: 'spring', stiffness: 160, damping: 22, delay: i * 0.03 }}
                 />
               </span>
-              <span className="block h-2 overflow-hidden rounded-sm bg-bg">
+              <span className="block h-2 overflow-hidden rounded-skin-s bg-bg">
                 <m.span
                   className="block h-full origin-left border-line border-r-2 bg-c3"
                   style={{ width: `${(d.players / max) * 100}%` }}

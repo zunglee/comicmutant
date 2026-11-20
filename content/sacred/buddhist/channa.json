@@ -1,0 +1,263 @@
+{
+  "slug": "channa",
+  "name": "Channa",
+  "aka": ["Chandaka", "Chhanna", "Channa the charioteer"],
+  "native": "छन्न",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Prince Siddhartha's charioteer, later a monk",
+  "summary": "Channa was Prince Siddhartha's charioteer and the only person with him on the night he left the palace. Later he became a monk, struggled with pride, and then reached awakening.",
+  "about": "Channa, in Sanskrit Chandaka, was the royal charioteer and servant of Prince Siddhartha at Kapilavastu traditionally dated to the 6th-5th century BCE. The texts say he explained the four sights to the prince, then saddled the horse Kanthaka on the night of the Great Departure and carried the prince's belongings back after the prince crossed the Anoma river. Later Channa joined the Sangha, but the commentaries say he was proud of being close to the Buddha and sometimes scolded other monks. In the Mahaparinibbana Sutta the Buddha asks for a shunning penalty, the brahmadanda, on him. Accounts differ on the exact reason and timing, but agree that the penalty humbled him and he became an arahant.",
+  "kidSummary": "Channa was the prince's driver and friend. He helped Siddhartha leave the palace to look for answers, then took the horse home alone. Later he became a monk, learned to be humble, and found peace.",
+  "story": [
+    {
+      "title": "The four sights",
+      "text": "Channa drove the prince through the city. When the prince saw an old man, a sick person and a funeral, Channa explained what they were."
+    },
+    {
+      "title": "A quiet night",
+      "text": "Soon after, the prince asked Channa to prepare his horse Kanthaka. Channa did not want to be left behind, but he did as he was asked."
+    },
+    {
+      "title": "Crossing the river",
+      "text": "At the Anoma river the prince cut his hair and gave his belongings to Channa. Channa returned to the palace with the horse, very sad."
+    },
+    {
+      "title": "Becoming a monk",
+      "text": "Later Channa joined the Sangha. Because he had been so close to the Buddha, he sometimes felt too proud, and the other monks found him difficult."
+    },
+    {
+      "title": "A lesson in quiet",
+      "text": "The Buddha asked that the monks stop talking to Channa for a while. Channa felt sorry, meditated, and learned humility."
+    },
+    {
+      "title": "Awakening",
+      "text": "The texts say he became an arahant, free from pride, and the shunning ended."
+    }
+  ],
+  "teaches": [
+    "Humility, even when you are close to greatness",
+    "Loyalty and honest service",
+    "Everyone can change"
+  ],
+  "symbol": "star",
+  "emblems": ["Chariot", "Horse Kanthaka"],
+  "family": [
+    {
+      "relation": "Prince he served",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "King he served",
+      "name": "Suddhodana",
+      "slug": "suddhodana"
+    },
+    {
+      "relation": "Delivered the penalty, taught him",
+      "name": "Ananda",
+      "slug": "ananda"
+    },
+    {
+      "relation": "Horse companion",
+      "name": "Kanthaka",
+      "slug": "kanthaka"
+    }
+  ],
+  "texts": [
+    "Mahaparinibbana Sutta (DN 16)",
+    "Samyutta Nikaya 22.90",
+    "Theragatha",
+    "Dhammapada Commentary",
+    "Vinaya (Cullavagga)"
+  ],
+  "places": ["Kapilavastu", "Anoma river", "Ghositarama, Kosambi", "Isipatana"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Commentaries say Channa was born on the very same day as Siddhartha, and one of them calls him the son of a servant woman in King Suddhodana's household.",
+      "kind": "history",
+      "source": "https://www.palikanon.com/english/pali_names/c/channa.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Channa has a verse of his own in the Theragatha, number 69. The commentary notes that the verse itself does not show the stubborn side of him described in the monastic stories.",
+      "kind": "text",
+      "source": "https://www.palikanon.com/english/pali_names/c/channa.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Two Vinaya rules against refusing correction, Sanghadisesa 12 and Pacittiya 12, have origin stories about Channa's stubbornness, according to Thanissaro's note on SN 22.90.",
+      "kind": "history",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.090.than.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Dhammapada commentary, Channa boasted that he alone had gone out with the prince, and mocked the two chief disciples. The Buddha warned him three times and he did not listen.",
+      "kind": "story",
+      "source": "https://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=078",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The same commentary says the Buddha spoke Dhammapada verse 78, which urges seeking good friends, and predicted that Channa would only change after the Buddha himself had died.",
+      "kind": "story",
+      "source": "https://www.tipitaka.net/tipitaka/dhp/verseload.php?verse=078",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Before SN 22.90 begins, Channa is among the elders at the Deer Park in Isipatana, but none of their teachings settle him. He tidies his lodging, takes his robes and bowl, and travels to Kosambi just to find Ananda.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.090.than.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "DPPN says a stupa was built later on the spot where Channa turned back at the Anoma river, citing the Divyavadana.",
+      "kind": "place",
+      "source": "https://aimwell.org/DPPN/channa.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia notes that Kanthaka also pulled Channa's chariot on the outings where the prince met old age, sickness and death, so the pair worked together long before the night of the Departure.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Channa_(Buddhist)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the retelling of the Departure, Channa grips the horse's tail at the gate and is ready to jump the wall with the prince, until gods rejoicing at the leaving open the door.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/15-Departure.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the Pali dictionary, in the Jatakas Channa is the hunter in five tales (including the Golden Deer and the Little Swan) and the wrestler in the Salikedara Jataka.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/channa.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A commentary story says a vihara he built was badly made and fell down, and while repairing it he damaged a brahmin's barley field.",
+      "kind": "story",
+      "source": "https://www.palikanon.com/english/pali_names/c/channa.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahaparinibbana Sutta, the Buddha's last disciplinary act was the brahmadanda, in which the monks would not speak to Channa, carried out by Ananda.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/channa.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Accounts of why the penalty was imposed differ: some say Channa sided with the nuns, while the Dhammapada commentary says he kept insulting Sariputta and Moggallana.",
+      "kind": "text",
+      "source": "https://aimwell.org/DPPN/channa.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One traditional account says that when Channa learned of the order after the Buddha's passing, he fainted three times, then asked for pardon and finally became an arahant.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Channa_(Buddhist)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In SN 22.90 Channa came out of seclusion, took his key and went from dwelling to dwelling among the elders, asking for teaching. He agreed with their words on impermanence and not-self, but his mind still would not settle.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.090.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In that discourse, Channa's worry was a question: if nothing is the self, who is my self? His fear of losing \"me\" kept his mind from settling.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.090.than.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Accounts disagree about the prince's hair. One says Channa carried the cut locks back to the king; another says the prince tossed the topknot into the sky and the king of the gods caught it in a golden casket for heaven.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/15-Departure.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahaparinibbana Sutta defines the brahma-penalty: Channa may say whatever he likes, but the monks must not speak to him, teach him or correct him. The footnote adds that it ended when he reached awakening.",
+      "kind": "teaching",
+      "source": "https://www.accesstoinsight.org/tipitaka/dn/dn.16.5-6.than.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Some versions of the Great Renunciation have Channa try to wake the royal household, without success, before he goes back; Wikipedia adds he carried the prince's message that leaving was no act of spite but a search for the end of birth and death.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Great_Renunciation",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia notes that some early schools, the Mahisasaka and Dharmaguptaka, mention no companion going with the prince to the river at all, so Channa's role differs between traditions.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Great_Renunciation",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who held on to Kanthaka's tail as the prince left the city?",
+      "options": ["Channa", "Ananda", "Mara", "King Suddhodana"],
+      "answer": 0,
+      "why": "The Pali dictionary says Channa held on to Kanthaka's tail during the ride out of the city."
+    },
+    {
+      "q": "Which river did Siddhartha cross on the night of the Great Departure?",
+      "options": ["Anoma", "Ganga", "Yamuna", "Indus"],
+      "answer": 0,
+      "why": "The Anoma was the river where he cut his hair and sent Channa back."
+    },
+    {
+      "q": "Which problem made Channa difficult as a monk?",
+      "options": [
+        "Pride in being close to the Buddha",
+        "He kept breaking the food rules",
+        "He wanted to go home",
+        "He refused to meditate"
+      ],
+      "answer": 0,
+      "why": "The commentaries say he was proud of being so close to the Buddha."
+    },
+    {
+      "q": "Who delivered the shunning penalty to Channa?",
+      "options": ["Ananda", "Sariputta", "Moggallana", "Upali"],
+      "answer": 0,
+      "why": "The Buddha entrusted Ananda with it."
+    }
+  ],
+  "related": ["gautama-buddha", "kanthaka", "ananda", "suddhodana", "sariputta", "maudgalyayana"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Channa_(Buddhist)",
+    "palikanon": "https://www.palikanon.com/english/pali_names/c/channa.htm",
+    "dppn": "https://aimwell.org/DPPN/channa.html",
+    "accesstoinsight": "https://www.accesstoinsight.org/tipitaka/sn/sn22/sn22.090.than.html"
+  },
+  "palette": {
+    "c1": "#e6dcc6",
+    "c2": "#bcd0c4"
+  },
+  "years": "6th-5th century BCE (traditional)",
+  "order": 27,
+  "depth": "full"
+}

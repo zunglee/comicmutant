@@ -1,0 +1,251 @@
+{
+  "slug": "tukaram",
+  "name": "Tukaram",
+  "aka": ["Tukoba", "Tuka", "Tukobaraya", "Sant Tukaram"],
+  "native": "तुकाराम",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Marathi poet-saint of the Varkari tradition",
+  "years": "c. 1608–1650",
+  "summary": "Tukaram was a 17th-century Marathi poet-saint from Dehu who sang to Vithoba of Pandharpur. His abhangas are loved across Maharashtra.",
+  "about": "Tukaram Bolhoba Ambile was born in Dehu near Pune. Proposed birth years range from 1568 to 1608, and most historians accept 1650 as the year he died, though 1649 is also given. He devoted his later years to worship, kirtan and abhanga poems in Marathi. He praised Vithoba, a form of Vishnu worshipped at Pandharpur, and named Namdev, Dnyaneshwar, Kabir and Eknath as influences. His verses spoke against empty ritual and caste pride, which drew opposition, including from the local monastery head Mambaji Gosavi, who later became his devotee. Tradition credits him with about 4,500 abhangas, collected as the Tukaram Gatha. Tradition says he met Shivaji, and devotees say he rose bodily to Vaikuntha at the end of his life. Every year his palkhi walks from Dehu to Pandharpur.",
+  "kidSummary": "Tukaram was a village poet from Maharashtra who sang about God in everyday Marathi. His songs, called abhangas, ask people to be kind, honest and humble. Every year, thousands of walkers carry his sandals in a procession to Pandharpur.",
+  "story": [
+    {
+      "title": "A village poet",
+      "text": "Tukaram lived in Dehu near Pune. After a famine in 1629 took his first wife and a son, he turned from family business to worship, kirtan and songs."
+    },
+    {
+      "title": "Songs in plain Marathi",
+      "text": "He wrote short songs called abhangas in the language of the people. They told everyone that devotion matters more than rituals or rank."
+    },
+    {
+      "title": "A rival becomes a friend",
+      "text": "A local monastery head named Mambaji Gosavi opposed him and once struck him with a thorny stick. Years later, he became Tukaram's devotee."
+    },
+    {
+      "title": "The notebooks and the river",
+      "text": "A legend says opponents made Tukaram sink his poems in the Indrayani. He fasted, and after thirteen days the notebooks are said to have floated back."
+    },
+    {
+      "title": "Heading to Vaikuntha",
+      "text": "Devotees say Tukaram rose to Vaikuntha, Vishnu's heavenly home, in around 1650. A temple at Dehu marks the place."
+    },
+    {
+      "title": "A yearly walk",
+      "text": "Every year, pilgrims in a procession called a palkhi carry his paduka, sacred sandals, on the long walk from Dehu to Pandharpur."
+    }
+  ],
+  "teaches": [
+    "Devotion matters more than ritual",
+    "Kindness to all people",
+    "Honesty and humility in daily life"
+  ],
+  "symbol": "drum",
+  "emblems": ["Abhanga (song form)", "Palkhi carrying his paduka (sacred sandals)"],
+  "family": [
+    {
+      "relation": "God he worshipped",
+      "name": "Vithoba",
+      "slug": "vithoba"
+    },
+    {
+      "relation": "Influence (named in his verses)",
+      "name": "Namdev",
+      "slug": "namdev"
+    },
+    {
+      "relation": "Influence (named in his verses)",
+      "name": "Dnyaneshwar",
+      "slug": "dnyaneshwar"
+    },
+    {
+      "relation": "Influence (named in his verses)",
+      "name": "Kabir",
+      "slug": "kabir"
+    }
+  ],
+  "texts": ["Tukaram Gatha", "Abhangas", "Says Tuka (Dilip Chitre translation)"],
+  "places": ["Dehu, Maharashtra", "Pandharpur", "Indrayani River", "Gatha Mandir, Dehu"],
+  "festivals": ["Pandharpur Wari", "Ashadhi Ekadashi"],
+  "facts": [
+    {
+      "text": "A legend says opponents made Tukaram sink his poem notebooks in the Indrayani river. He fasted on the bank, and after thirteen days the notebooks are said to have floated back up.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Namdev and Vithoba appeared to Tukaram in a dream and told him to compose abhangas.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Gatha temple in Dehu has about 4,000 of his abhangas carved on its walls, with a large statue of Tukaram inside.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dehu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mambaji Gosavi, a monastery head in Dehu, opposed Tukaram and attacked him with a thorny stick. He later became one of Tukaram's devotees.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 7
+    },
+    {
+      "text": "Some accounts claim Tukaram once saved Shivaji's life from pursuing Mughal forces. Tradition says the two met, though scholars call the meetings legendary.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Devotees believe Tukaram rose to Vaikuntha, Vishnu's abode, in human form. The Vaikunthstan temple at Dehu marks the place, with a ghat on the Indrayani River behind it.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Dehu",
+      "interest": 8
+    },
+    {
+      "text": "In one poem Tukaram calls himself a fool who is tired of the world, and says there is nothing holy about him.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 7
+    },
+    {
+      "text": "Tukaram taught, in the words of the scholar Ranade's translation, that pride of caste never made anyone holy. What matters, he said, is God's name, not birth.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Every year Varkaris walk about 250 km, for roughly three weeks, to Pandharpur. About a million pilgrims take part, in processions led by Tukaram's palkhi from Dehu and Dnyaneshwar's from Alandi.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Pandharpur_Wari",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In 2020, COVID-19 shrank the march to about fifty varkaris, and the saints' paduka were driven or flown to Pandharpur.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Pandharpur_Wari",
+      "interest": 7
+    },
+    {
+      "text": "While jailed at Yerawada, Mahatma Gandhi read and translated Tukaram's poetry.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the famine of 1629, Tukaram lost his first wife Rakhumabai and a son to starvation. After this loss he turned away from household life toward devotion.",
+      "kind": "history",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 8
+    },
+    {
+      "text": "Tukaram suggested that the name Vitthala means 'one who accepts innocent people'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vithoba",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Silent films about Tukaram came in 1921. The 1936 film Sant Tukaram ran open-air in Mumbai for a year, and Amar Chitra Katha's issue 68 tells his story.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After his father died, Tukaram is said to have burned the records of loans he had made to poor neighbours, wiping out what they owed him.",
+      "kind": "history",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tukaram was too innocent for the business world, and people often cheated or embarrassed him in trade. Storytellers still enjoy retelling those misadventures.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bahinabai, a Brahmin woman, chose Tukaram as her guru even though her husband was angry about it. Tukaram welcomed disciples of any gender.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 8
+    },
+    {
+      "text": "To describe becoming one with God, Tukaram used pictures such as salt dissolving in water and camphor burning without leaving a black trace.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholars debate whether Tukaram followed Shankara's philosophy of oneness. Some poems seem to say yes and others criticise it, so the historian Charles Eliot called his utterances contradictory.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tukaram",
+      "interest": 7
+    },
+    {
+      "text": "The New World Encyclopedia credits Tukaram with the Mantra Gita, a Marathi retelling of the Bhagavad Gita, besides his thousands of abhangas.",
+      "kind": "text",
+      "source": "https://www.newworldencyclopedia.org/entry/Tukaram",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What are Tukaram's songs called?",
+      "options": ["Abhangas", "Ghazals", "Dhrupads", "Qawwalis"],
+      "answer": 0,
+      "why": "Abhangas are Marathi devotional verses."
+    },
+    {
+      "q": "Which god did Tukaram especially worship?",
+      "options": ["Ganesha", "Vithoba", "Hanuman", "Indra"],
+      "answer": 1,
+      "why": "Vithoba of Pandharpur."
+    },
+    {
+      "q": "Roughly how long is the walk from Dehu to Pandharpur?",
+      "options": ["25 km", "100 km", "250 km", "1,000 km"],
+      "answer": 2,
+      "why": "The Wari covers about 250 km."
+    },
+    {
+      "q": "What is the procession carrying the saints' sandals called?",
+      "options": ["Ratha", "Palkhi", "Doli", "Tazia"],
+      "answer": 1,
+      "why": "A palkhi carries their paduka."
+    },
+    {
+      "q": "Who read Tukaram's poetry while jailed at Yerawada?",
+      "options": ["Gandhi", "Nehru", "Tagore", "Vivekananda"],
+      "answer": 0,
+      "why": "Mahatma Gandhi read and translated it."
+    }
+  ],
+  "related": ["vithoba", "namdev", "dnyaneshwar", "kabir", "tulsidas", "meera-bai"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tukaram",
+    "wari": "https://en.wikipedia.org/wiki/Pandharpur_Wari",
+    "dehu": "https://en.wikipedia.org/wiki/Dehu",
+    "nwe": "https://www.newworldencyclopedia.org/entry/Tukaram",
+    "vithoba": "https://en.wikipedia.org/wiki/Vithoba"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#C9DDB8",
+    "c2": "#F2E1B5"
+  },
+  "order": 50
+}

@@ -1,0 +1,158 @@
+{
+  "slug": "sambhavanatha",
+  "name": "Sambhavanatha",
+  "aka": ["Sambhava"],
+  "native": "सम्भवनाथ",
+  "role": "Third Tirthankara of the present age",
+  "order": 3,
+  "summary": "Jains revere Sambhavanatha as the third Tirthankara, born in Shravasti, with the horse as his emblem and Dhaval Koot on Shikharji as his liberation shrine.",
+  "about": "Jain tradition counts Sambhavanatha as the third of the 24 Tirthankaras of the present descending age. Texts say he belonged to the Ikshvaku dynasty, his parents were King Jitari and Queen Susena, and he was born in Shravasti. He gave up his kingdom to live as an ascetic, reached omniscience under a sala tree and is believed to have attained liberation on Mount Shikharji. Sources preserve fewer stories about him than about Rishabhanatha or Mahavira, so his profile leans on the story of his name, plus places and temples.",
+  "kidSummary": "Sambhavanatha is the third Tirthankara of Jainism. Jain stories say he was born in Shravasti, and his symbol is the horse. He gave up being a king and found liberation on Shikharji hill.",
+  "story": [
+    {
+      "title": "Born in Shravasti",
+      "text": "Jain texts say Sambhavanatha was born in the city of Shravasti, to King Jitari and Queen Susena."
+    },
+    {
+      "title": "How he got his name",
+      "text": "Jain texts say crops grew well while he was in the womb, so his father named him Sambhava, a name that carries the idea of good chance."
+    },
+    {
+      "title": "Choosing a quiet life",
+      "text": "He gave up his kingdom and became an ascetic. Jain tradition says he broke his first fast in Shravasti, with alms from King Surendradatta."
+    },
+    {
+      "title": "Under the sala tree",
+      "text": "Jains believe he reached omniscience while meditating beneath a sala tree."
+    },
+    {
+      "title": "Liberation on Shikharji",
+      "text": "Texts say he attained liberation on Mount Shikharji with 1,000 other monks, and a shrine called Dhaval Koot remembers him."
+    }
+  ],
+  "teaches": ["Letting go brings freedom", "Meditation brings clear knowledge"],
+  "symbol": "sun",
+  "emblems": ["Horse (lanchana)", "Sala tree", "Golden colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Jitari"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Susena"
+    }
+  ],
+  "texts": ["Uttarapurana", "Svayambhustotra", "Trishashti Shalaka Purusha Charitra"],
+  "places": ["Shravasti", "Sammed Shikharji", "Idar"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In Hemachandra's account, crops grew well and a second ploughing took place while he was in the womb, so his father King Jitari named him Sambhava.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212686.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Another telling says his father ruled a plague-hit kingdom and felt a chance of better times at the birth, which gave the name. The horse emblem is linked to that idea of good luck.",
+      "kind": "language",
+      "source": "https://www.wisdomlib.org/definition/sambhavanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His attendant yaksha is the three-faced Trimukha in both traditions. For the yakshi, Shvetambara texts name Duritari and Digambara texts name Prajnapti.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Sambhavanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Of the 24 Tirthankara images dug up at his Shravasti birthplace site, two are dated to before the Mauryan empire, that is before about 320 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shravasti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Taranga hill in Gujarat has an old temple dedicated to him. A historian dates it to before 1030 CE, so it is close to a thousand years old and is the oldest of the temples in its compound.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts give his height as 400 bows, which the Wikipedia page converts to about 1,200 metres, and his lifespan as 60 lakh purvas, an enormous span.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Sambhavanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Digambara texts such as the Uttarapurana say that from the moment of his birth he already had three kinds of knowledge.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sambhavanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition says that after his initiation he gave away all he owned and broke his first fast in Shravasti, taking alms from King Surendradatta.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shravasti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Shikharji, the Dhaval Koot shrine marks the place where he is said to have reached liberation with 1,000 other monks. It holds his footprints rather than a statue.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sambhavanatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which city was Sambhavanatha born?",
+      "options": ["Ayodhya", "Shravasti", "Kosambi", "Vaishali"],
+      "answer": 1,
+      "why": "Shravasti, home of the Shobhnath temple."
+    },
+    {
+      "q": "What is his emblem?",
+      "options": ["Horse", "Monkey", "Bull", "Elephant"],
+      "answer": 0,
+      "why": "A horse is carved on his images."
+    },
+    {
+      "q": "In Hemachandra's account, what was going well while he was in the womb, giving rise to his name?",
+      "options": ["The harvest", "The river floods", "The trade routes", "The festivals"],
+      "answer": 0,
+      "why": "Crops grew well, and his father named him Sambhava."
+    },
+    {
+      "q": "Which hill holds his liberation shrine?",
+      "options": ["Shikharji", "Girnar", "Abu", "Kailash"],
+      "answer": 0,
+      "why": "Shikharji is in Jharkhand."
+    }
+  ],
+  "related": ["ajitanatha", "abhinandananatha", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sambhavanatha",
+    "shravasti": "https://en.wikipedia.org/wiki/Shravasti",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "gerusoppa": "https://en.wikipedia.org/wiki/Gerusoppa",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "taranga": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+    "wisdomlib_name": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212686.html",
+    "wisdomlib_def": "https://www.wisdomlib.org/definition/sambhavanatha"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#dfe8c6",
+    "c2": "#f1e2b8"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

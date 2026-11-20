@@ -1,0 +1,250 @@
+{
+  "slug": "apsaras",
+  "name": "Apsaras",
+  "aka": ["Apsara", "Accharā", "Tennin (Japan)", "Feitian (China)"],
+  "native": "अप्सरा",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "Celestial dancers of Indra's court",
+  "summary": "Apsaras are graceful celestial beings of Hindu and Buddhist tradition, said to dance in the courts of the gods to the music of the gandharvas. Urvashi, Menaka, Rambha and Tilottama are among the best known.",
+  "about": "Apsaras are heavenly beings who, according to Hindu texts, dance and entertain in the courts of the gods, especially Indra. Texts describe them as youthful, graceful and able to change shape, and they are often called the partners of the gandharvas, the celestial musicians. The Rigveda names only one, Urvashi, while the Mahabharata and Puranas give several lists of principal apsaras such as Menaka, Rambha, Tilottama and Ghritachi. Later stories often show Indra sending an apsara to test a sage. Some traditions divide them into worldly and divine kinds. Apsara images became part of art far beyond India, from Angkor and Java to Chinese cave temples.",
+  "kidSummary": "Apsaras are heavenly dancers who, in Hindu stories, perform in the court of Indra while gandharvas play music. They can change shape and are famous in myths like those of Urvashi and Menaka. Carved apsaras dance across the walls of temples in India, Cambodia and Indonesia.",
+  "story": [
+    {
+      "title": "A dance in heaven",
+      "text": "In Indra's heavenly court, apsaras dance while gandharvas play music. Texts say each one is a master of a different part of the performing arts."
+    },
+    {
+      "title": "Urvashi and Pururavas",
+      "text": "The Rigveda keeps a poem where the apsara Urvashi talks with her mortal husband Pururavas. She has decided to leave, and she explains why she will not return."
+    },
+    {
+      "title": "A child by the river",
+      "text": "In the Mahabharata, Indra sends the apsara Menaka to the sage Vishvamitra. Their daughter Shakuntala is left by a river, guarded by birds until the sage Kanva finds her."
+    },
+    {
+      "title": "Arjuna in heaven",
+      "text": "When Arjuna visits heaven, Urvashi comes to him, but he treats her with the respect due to an elder. In the Mahabharata her curse later helps him hide in disguise for a year."
+    },
+    {
+      "title": "Dancers in stone",
+      "text": "Carvers in Cambodia, Java and China later filled temples and caves with flying and dancing apsaras, showing how far the idea travelled."
+    }
+  ],
+  "teaches": [
+    "Art and dance can honour the divine",
+    "Self-control is tested by beauty and distraction",
+    "Treating elders with respect, as Arjuna did"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Dance", "Garlands", "Flowers", "Flying scarves"],
+  "family": [
+    { "relation": "Partners, in many texts", "name": "Gandharvas", "slug": "gandharvas" },
+    { "relation": "Well-known apsara", "name": "Urvashi", "slug": "urvashi" },
+    { "relation": "Court of", "name": "Indra", "slug": "indra" },
+    { "relation": "Daughter of Menaka", "name": "Shakuntala", "slug": "shakuntala" }
+  ],
+  "texts": [
+    "Rigveda",
+    "Mahabharata",
+    "Ramayana",
+    "Natya Shastra",
+    "Kaushitaki Upanishad",
+    "Puranas",
+    "Kakawin Arjunawiwaha"
+  ],
+  "places": ["Svarga (Indra's heaven)", "Angkor Wat", "Bayon", "Borobudur", "Mogao caves"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Indra's court is said to hold 26 apsaras, each tied to a facet of the performing arts like the Greek Muses. The Natya Shastra names 26, among them Manjukesi, Sulochana, Devasena and Sundari.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Cambodia's Apsara Dance was created by the Royal Ballet of Cambodia in the mid-20th century under Queen Sisowath Kossamak. The costume copies the headdresses and jewels of Angkor's carved reliefs.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The word apsara is traced to Sanskrit roots meaning going in the waters, between the waters of the clouds. The oldest descriptions picture water-nymph-like beings.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Manipur, the Meitei people tell of apsaras called hellois. They are believed to be seven daughters of a sky god, and they lure lost wanderers in the woods.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Menaka is sent by Indra to Vishvamitra and bears Shakuntala, who is left by a Himalayan river and guarded by vultures until Kanva adopts her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Menaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Javanese poem Kakawin Arjunawiwaha, written by mpu Kanwa in 1030, says Indra sent apsaras to test Arjuna as he meditated. Arjuna stayed steady and then won divine weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Vishvakarma made Tilottama from the best of everything in the three worlds, bit by bit, and her name suggests the finest particle. Her beauty set the asura brothers Sunda and Upasunda against each other until both died.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tilottama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Borobudur, apsaras are carved standing or flying, holding lotus blossoms, scattering petals or waving cloth like wings. They also appear at Mendut, Prambanan, Plaosan and Penataran in Java.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Angkor Wat has more than 1,796 devatas counted so far. They are the larger standing figures, about 95 to 110 cm high, while the small apsaras used as decoration are only 30 to 40 cm.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bayon temple in Cambodia has about 6,250 dancing apsaras carved on its walls, from late 12th or early 13th century.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Japan apsara-like beings are called Tennin, and in China Feitian, shown playing flutes or pipas with long skirts fluttering in the wind at cave art sites like Mogao.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Early Gandharan art shows winged apsaras laying garlands at a stupa, later crowning the Buddha, in a style like the Greek Nike.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On the Bayon's pillars, apsaras usually dance on lotus flowers. Those dancing on the ground, especially among musicians, may represent real women who performed in rituals.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana's Bala Kanda, Indra sends Rambha to disturb the sage Vishvamitra's penance. He sees through it and curses her to become a rock for ten thousand years, until a Brahmin frees her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rambha_(apsara)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ta Prohm's Hall of Dancers at Angkor has 96 pillars and long rows of dancing apsaras carved on its lintels, which is how it got its name.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In some northern and eastern versions of the Ramayana, Sita is described as the mind-born daughter of the apsara Menaka, after King Janaka wishes for a daughter like her.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Menaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Puranas, Urvashi marries King Pururavas on conditions, among them that he guard her two pet sheep and that she will eat only ghee.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Urvashi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Bali, dances such as Sanghyang Dedari and Legong show divine maidens, and the Javanese court dance Bedhaya portrays apsaras.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1927 Sappho Marchal studied Angkor's devatas and found their hair, headdresses, jewels and clothes so varied that she judged them based on real fashions of the time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kaushitaki Upanishad lists apsaras as a class of divinities linked with ointments, garlands, clothes and powdered perfumes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Although many apsaras have names and myths, they were given no fixed looks, so artists do not draw any one of them as an individual.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Apsara",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose court do apsaras dance in, in Hindu texts?",
+      "options": ["Yama", "Indra", "Kubera", "Varuna"],
+      "answer": 1,
+      "why": "Many texts place apsaras in the court of Indra."
+    },
+    {
+      "q": "Which apsara is the only one named in the Rigveda?",
+      "options": ["Menaka", "Rambha", "Urvashi", "Tilottama"],
+      "answer": 2,
+      "why": "Urvashi is the one apsara the Rigveda names."
+    },
+    {
+      "q": "What do Japanese people call apsara-like heavenly beings?",
+      "options": ["Tennin", "Kitsune", "Oni", "Tengu"],
+      "answer": 0,
+      "why": "Tennin is the Japanese name; Tennyo is the female form."
+    },
+    {
+      "q": "Researchers have counted about how many standing devata figures carved at Angkor Wat?",
+      "options": ["About 18", "About 180", "About 1,800", "About 18,000"],
+      "answer": 2,
+      "why": "Angkor Wat has more than 1,796 devatas in the current inventory."
+    },
+    {
+      "q": "Who created Tilottama in the Mahabharata?",
+      "options": ["Indra", "Vishvakarma", "Kubera", "Vayu"],
+      "answer": 1,
+      "why": "Vishvakarma, the divine architect, made her from the finest parts of everything beautiful."
+    }
+  ],
+  "related": ["gandharvas", "urvashi", "indra", "shakuntala", "vishvamitra", "pururavas", "arjuna"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Apsara",
+    "urvashi": "https://en.wikipedia.org/wiki/Urvashi",
+    "menaka": "https://en.wikipedia.org/wiki/Menaka",
+    "tilottama": "https://en.wikipedia.org/wiki/Tilottama",
+    "rambha": "https://en.wikipedia.org/wiki/Rambha_(apsara)"
+  },
+  "depth": "full",
+  "palette": { "c1": "#f6e6e0", "c2": "#c9d9c3" },
+  "order": 500
+}

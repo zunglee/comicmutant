@@ -1,0 +1,277 @@
+{
+  "slug": "janaka",
+  "name": "Janaka",
+  "aka": ["Seeradhvaja", "Sirdhwaj Janaka", "Videha"],
+  "native": "जनक",
+  "role": "Philosopher-king of Videha and father of Sita",
+  "summary": "Janaka is the king of Mithila in the Ramayana and the father of Sita and Urmila. He is also remembered as a wise king who loved knowledge.",
+  "about": "Janaka was a title borne by the kings of Videha, whose capital was Mithila. In the Ramayana, King Seeradhvaja Janaka found a baby girl in a furrow during a ritual ploughing and raised her as Sita, with Queen Sunayana. Hindu tradition also remembers a Janaka as a philosopher-king in the late Vedic texts, which show him hosting great debates with sages such as Yajnavalkya and Gargi. These may be different kings sharing the title, so the texts must be read separately. Many Hindus honour him as a model of a ruler who stays unattached to wealth. The years shown are the date Wikipedia gives for the Upanishadic king only.",
+  "kidSummary": "Janaka was the wise king of Mithila. The story says he found baby Sita in a furrow and adopted her, and he is the father of Urmila too. He loved learning and welcomed scholars to his court.",
+  "story": [
+    {
+      "title": "A king with a title",
+      "text": "Janaka was a title for the kings of Videha. The king of the Ramayana ruled from the city of Mithila."
+    },
+    {
+      "title": "A baby in a furrow",
+      "text": "While ploughing a field for a ritual, he and Queen Sunayana found a baby girl in the earth. They named her Sita and raised her as their own."
+    },
+    {
+      "title": "A challenge",
+      "text": "When Sita grew up, the king announced that whoever could string the great bow of Shiva could marry her."
+    },
+    {
+      "title": "Rama succeeds",
+      "text": "Rama strung the bow and broke it. The wedding of Sita and Rama followed, along with weddings of her sister and cousins."
+    },
+    {
+      "title": "A friend of the family",
+      "text": "In later tellings such as the Ramcharitmanas, King Janaka hears of Rama's exile and joins Bharata at Chitrakoot, showing how close the two families had become."
+    }
+  ],
+  "teaches": ["Rule wisely without greed", "Love learning", "Welcome daughters with joy"],
+  "symbol": "lotus",
+  "emblems": ["Plough and furrow", "Shiva's bow (in the swayamvara story)"],
+  "family": [
+    {
+      "relation": "Daughter",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Urmila",
+      "slug": "urmila"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Queen",
+      "name": "Sunayana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Kushadhvaja"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana (Bala Kanda)",
+    "Brihadaranyaka Upanishad",
+    "Ashtavakra Gita",
+    "Mahabharata (Shanti Parva)"
+  ],
+  "places": ["Mithila", "Janakpur", "Sitamarhi"],
+  "festivals": ["Vivah Panchami", "Sita Navami"],
+  "quiz": [
+    {
+      "q": "Where did Janaka find baby Sita, in the story?",
+      "options": ["In a furrow", "In a lotus", "In a river", "On a mountain"],
+      "answer": 0,
+      "why": "He found her while ploughing, which is why her name means furrow."
+    },
+    {
+      "q": "What was the capital of Videha?",
+      "options": ["Ayodhya", "Mithila", "Lanka", "Kishkindha"],
+      "answer": 1,
+      "why": "Mithila was Janaka's capital."
+    },
+    {
+      "q": "Whose bow did Rama string at the swayamvara?",
+      "options": ["Shiva's", "Indra's", "Rama's own", "Ravana's"],
+      "answer": 0,
+      "why": "It was Shiva's great bow."
+    },
+    {
+      "q": "Which sage won King Janaka's thousand gold-horned cows in the Upanishad debate?",
+      "options": ["Yajnavalkya", "Vishvamitra", "Valmiki", "Vasishtha"],
+      "answer": 0,
+      "why": "Yajnavalkya won the debate and the cows in the Brihadaranyaka Upanishad."
+    }
+  ],
+  "related": [
+    "sita",
+    "urmila",
+    "rama",
+    "lakshmana",
+    "yajnavalkya",
+    "gargi",
+    "ashtavakra",
+    "bhumi",
+    "vishvamitra"
+  ],
+  "palette": {
+    "c1": "#F0D4C0",
+    "c2": "#D6E2C8"
+  },
+  "facts": [
+    {
+      "text": "Janaka was a title worn by the kings of Videha, so there were many Janakas; one king list on the Videha page names 52 of them, beginning with Mithi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Videha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the line began when Vasishtha cursed King Nimi, and sages churned his body to produce a son named Mithi, said to be born without a human father.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Sita's name comes from the Sanskrit word for furrow, which fits the story of her birth from the earth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Bahudakshina sacrifice in the Upanishad, a King Janaka offered 1,000 gold-horned cows to the wisest brahmin; Yajnavalkya told his disciple Samasrava to drive them home, then joked that he simply wanted the cows.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Upanishad debate, when Gargi kept asking what supports even Brahman, Yajnavalkya warned that if she questioned too much her head might fall off. She fell silent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yajnavalkya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the ascetic Sulabha used yoga to enter the mind of a King Janaka, test his claim to be liberated while still a householder, and then debated him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki, Janaka says Shiva's bow came to his ancestor Devarata for safekeeping, after the god Rudra raised it against the gods at Daksha's sacrifice.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The bow rode in an eight-wheeled coffer that five thousand tall men had to drag into the hall, and Rama broke it in the middle when he tried it.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Janaka set the price for Sita's hand as boldness alone; in Valmiki the kings who failed to string the bow besieged Mithila for a year, until his supplies ran low.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A translator's note citing other Ramayanas says that as a girl Sita pushed the bow's heavy coffer aside with one hand to fetch her ball, which showed Janaka her strength.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A verse credited to King Janaka in the Mahabharata says he loses nothing even if Mithila burns; the Buddhist Mahajanaka tale and Dhammapada verse 200 echo the same idea.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Mahajanaka Jataka, the king gives up his throne after seeing two mango trees, one stripped bare for its fruit and the other left alone because it bore none.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before being crowned, Mahajanaka solves a set of royal riddles and strings a bow that needs the strength of a thousand men, then marries Princess Sivali.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Siradhvaja means plough-bannered, from sira, plough, and dhvaja, banner, a fitting name for the king who found a baby girl in a furrow.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Siradhwaja_Janaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Vishnu Purana says Balarama once stayed in Videha as the guest of a King Janaka, and that Duryodhana learned mace fighting from him there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Rama broke Shiva's bow, Valmiki says the crack was like thunder or a bursting mountain and the earth shook. Everyone fainted except Vishvamitra, Janaka, Rama and Lakshmana.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "To bring Dasharatha to the wedding, Janaka's envoys rode for three nights to Ayodhya, so fast that their horses were worn out when they arrived.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga68/balasans68.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the wedding, Janaka gave his daughters cows, shawls, silk, elephants, horses, chariots, soldiers and hundreds of maids, plus gold, silver, pearls and coral.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga74/balasans74.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Janaka tells Vashishta that a rival king, Sudhanva, once demanded both Shiva's bow and Sita. He refused, the two fought, Sudhanva fell, and Janaka crowned his brother Kushadhvaja at Sankasya.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/baala/sarga71/balasans71.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Shree Rajarshi Janak Mandir stands in Janakpur, his capital, and is dedicated to King Janaka.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The old kingdom of Videha lay between the Gandaki river in the west, the Mahananda in the east, the Himalayas in the north and the Ganga in the south.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Janaka",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "order": 500,
+  "depth": "full",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Janaka",
+    "vid": "https://en.wikipedia.org/wiki/Videha",
+    "yaj": "https://en.wikipedia.org/wiki/Yajnavalkya",
+    "jm": "https://en.wikipedia.org/wiki/Janaki_Mandir",
+    "bala66": "https://www.valmikiramayan.net/utf8/baala/sarga66/balasans66.htm",
+    "bala67": "https://www.valmikiramayan.net/utf8/baala/sarga67/balasans67.htm",
+    "sira": "https://en.wikipedia.org/wiki/Siradhwaja_Janaka"
+  },
+  "years": "Upanishadic Janaka: c. 8th–7th c. BCE"
+}

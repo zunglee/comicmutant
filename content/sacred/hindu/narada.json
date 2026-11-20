@@ -1,0 +1,253 @@
+{
+  "slug": "narada",
+  "name": "Narada",
+  "aka": ["Narada Muni", "Devarshi Narada", "Rishiraja", "Veena-pani"],
+  "native": "नारद",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Wandering divine sage, musician and messenger",
+  "summary": "Narada is the travelling sage of Hindu stories, who carries news between worlds with his veena. He is a devotee of Vishnu, a teacher of bhakti, and is often called the first journalist.",
+  "about": "In Hindu texts, Narada is a sage-divinity counted among the mind-born children of Brahma. He wanders between heaven, earth and the underworld as a musician and storyteller, playing the veena called Mahati and keeping time with a khartal. Many Puranas show him as a devotee of Vishnu who appears at turning points: in the Valmiki Ramayana he tells Valmiki the outline of Rama's story, and in the Bhagavata Purana he tells Yudhishthira the tale of Prahlada. The Narada Bhakti Sutra, traditionally attributed to him, describes devotion as a path of love for God. Some stories in the Shiva Purana and Devi Bhagavata Purana show him learning about the power of maya through humbling episodes. A festival, Narada Jayanti, remembers him, and the Naradiya Purana carries his name.",
+  "kidSummary": "Narada is a cheerful sage who travels everywhere, playing his veena and singing the name of Vishnu. In many stories he carries news from one world to another. Because he always seems to know what is happening, he is sometimes called the first journalist.",
+  "story": [
+    {
+      "title": "The travelling singer",
+      "text": "Narada wanders through the worlds of gods, humans and the underworld. He plays his veena, sings of Vishnu, and brings news wherever he goes."
+    },
+    {
+      "title": "A question from Valmiki",
+      "text": "In the Valmiki Ramayana, the sage Valmiki asks Narada who in the world is truly good, brave and kind. Narada answers by telling the story of Rama, which he heard from Brahma."
+    },
+    {
+      "title": "A lesson about maya",
+      "text": "In a Shiva Purana tale, Narada becomes proud of his meditation. Vishnu creates an illusion that makes Narada act foolishly, and Narada learns how tricky maya can be."
+    },
+    {
+      "title": "A story for Yudhishthira",
+      "text": "In the Bhagavata Purana, King Yudhishthira asks Narada why the demon king Hiranyakashipu hated his son Prahlada. Narada answers with the story of the boy who stayed devoted to Vishnu in hard times."
+    },
+    {
+      "title": "Love is enough",
+      "text": "The Narada Bhakti Sutra, attributed to him, describes bhakti as the most elevated, pure love for God and says that devotion is its own reward."
+    }
+  ],
+  "teaches": [
+    "Devotion is a path open to everyone",
+    "Pride can be gently humbled",
+    "Sharing good news and stories helps people"
+  ],
+  "symbol": "star",
+  "emblems": ["Veena (Mahati)", "Khartal", "Tulsi garland"],
+  "family": [
+    {
+      "relation": "Mind-born father",
+      "name": "Brahma",
+      "slug": "brahma"
+    }
+  ],
+  "texts": [
+    "Narada Bhakti Sutra (attributed)",
+    "Naradiya Purana",
+    "Narada Smriti",
+    "Valmiki Ramayana",
+    "Mahabharata"
+  ],
+  "places": ["Narada Muni Temple, Chigateri"],
+  "festivals": ["Narada Jayanti"],
+  "facts": [
+    {
+      "text": "A Shiva Purana tale says Narada became proud, longed for Vishnu's form to win a princess, and was given a monkey's face; he cursed Vishnu to suffer separation from his beloved.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Narada is changed into a woman, marries a king and has many sons, and ends by admitting that maya is beyond his understanding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Bhagavata Purana 4.8 says Narada taught the boy Dhruva a mantra to Vishnu. Dhruva fasted harder each month, from fruit to leaves, then water, then air, until he stood on one leg; then Vishnu appeared before him.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/4/8/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata story, the gods seized Prahlada's pregnant mother Kayadhu, but Narada stopped them and took her to his hermitage, where the unborn Prahlada listened to his teaching on devotion.",
+      "kind": "story",
+      "source": "https://prabhupadabooks.com/sb/7/7/7_summary",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Puranas say Narada advised Daksha's thousands of sons to explore the world instead of filling it with people, and they never came home. Furious, Daksha cursed him to be a perpetual wanderer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Daksha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a tale outside the main Puranas, Narada told the goddesses that Anasuya was so virtuous she could bake iron beans. They failed at the task, and their envy led them to send their husbands to test her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Anasuya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Sabha Parva, Narada visits Yudhishthira's hall, questions him on good government, describes the assembly halls of Yama, Varuna, Indra, Kubera and Brahma, and urges him to hold the Rajasuya.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Sabha_Parva",
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, Indra sends Kamadeva to disturb Narada's penance, but Shiva's maya shields the sage; Narada wrongly credits his own mind, which sets up Vishnu's lesson about pride.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "kid": true
+    },
+    {
+      "text": "Narada announces himself by chanting 'Narayana, Narayana'. His birthday, Narada Jayanti, falls on the first day of the waning fortnight of the month Jyeshtha, usually around May.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Narada_Jayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a popular tale, Narada brings Shiva a fruit of knowledge, generally a mango, that cannot be split between Ganesha and Kartikeya. Ganesha wins it by walking around his parents, whom he calls his world, and Kartikeya, upset, retires to the Palani hills.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Chandogya Upanishad (chapter 7) Narada is the student: Sanat-Kumara, equated with Skanda, teaches him that finding the Atman is the path to the highest knowledge.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Canto 7 of the Bhagavata Purana opens with Yudhishthira asking Narada why Hiranyakashipu hated his son Prahlada and how the boy grew into such a devotee; Narada's answer fills the chapters that follow.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/7/1/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain cosmology counts nine Naradas in each cosmic cycle.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Some devotees believe Narada was later reborn as Purandara Dasa, the Haridasa who wrote a great many songs to Vithala (Vithoba) of Pandharpur.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Meitei-language manuscript called the Narda Gita, written in the Old Meetei Mayek script, describes Narada, so he appears in Manipuri tradition too.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narada",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When a German scholar translated the Naradasmriti in 1876, European legal scholars welcomed it, and Karl Marx used the translation as a reference.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Naradasmriti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 12th-century inscription from the Champa kingdom, in today's Vietnam, praised court officials as experts in the Naradasmriti, and a 1407 manuscript of it survives from Nepal's Malla kingdom.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Naradasmriti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Narada Bhakti Sutra warns that pride blocks devotion: it says the Lord dislikes the proud and favours the humble.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Narada_Bhakti_Sutra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Naradiya Purana appears on both the major and minor Purana lists, which puzzled 19th-century scholars, and its chapter 1.2 has verses honouring the Buddha, unusual for a Purana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narada_Purana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The music treatise Sangita Makarandha, attributed to Narada, sorts ragas as male, female or neuter. Scholars think Kambhoji began as a tribal tune, putting its basic melody in epic or even earlier times.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sangita_Makarandha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which instrument does Narada play?",
+      "options": ["Flute", "Drum", "Sitar", "Veena"],
+      "answer": 3,
+      "why": "Narada is shown with a veena called Mahati."
+    },
+    {
+      "q": "Whom does Narada tell the outline of Rama's story to?",
+      "options": ["Valmiki", "Vyasa", "Janaka", "Hanuman"],
+      "answer": 0,
+      "why": "In the Valmiki Ramayana, Narada gives Valmiki the story's outline."
+    },
+    {
+      "q": "Which month is Narada Jayanti in?",
+      "options": ["Ashadha", "Jyeshtha", "Magha", "Kartika"],
+      "answer": 1,
+      "why": "Narada Jayanti falls in Jyeshtha, usually around May."
+    },
+    {
+      "q": "Why is Narada called the first journalist?",
+      "options": [
+        "He wrote the first book",
+        "He kept a royal diary",
+        "He carries news between worlds",
+        "He ruled a kingdom of scribes"
+      ],
+      "answer": 2,
+      "why": "He travels widely and brings news from one realm to another."
+    }
+  ],
+  "related": [
+    "brahma",
+    "vishnu",
+    "valmiki",
+    "prahlada",
+    "dhruva",
+    "yudhishthira",
+    "purandara-dasa",
+    "vyasa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narada",
+    "narada_jayanti": "https://en.wikipedia.org/wiki/Narada_Jayanti",
+    "bhakti_sutra": "https://en.wikipedia.org/wiki/Narada_Bhakti_Sutra",
+    "naradiya_purana": "https://en.wikipedia.org/wiki/Narada_Purana",
+    "ramayana_bala_1": "https://www.valmikiramayan.net/utf8/baala/sarga1/balaitrans1.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e3d9f0",
+    "c2": "#f6e8cf"
+  },
+  "order": 30
+}

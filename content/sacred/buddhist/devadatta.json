@@ -1,0 +1,262 @@
+{
+  "slug": "devadatta",
+  "name": "Devadatta",
+  "aka": ["Devadatta Thera"],
+  "native": "देवदत्त",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Cousin of the Buddha who led a split in the monks",
+  "years": "c. 5th century BCE",
+  "order": 15,
+  "summary": "In Buddhist texts, Devadatta was the Buddha's cousin who became a monk, gained powers, and later led a split in the community. His story is a famous lesson about ambition.",
+  "about": "Buddhist texts say Devadatta was a Shakya noble, cousin and brother-in-law of the Buddha, who became a monk and gained some meditation powers. The Pali texts say ambition grew in him, he won the favour of Prince Ajatashatru, and he asked to lead the monks. He then pressed for five stricter rules, which the Buddha would not make compulsory, and led a group of new monks away. Pali sources also say he tried to harm the Buddha, but each attempt failed. Later tradition says he was swallowed by the earth. Mahayana sutras give a different ending: in the Lotus Sutra, the Buddha says Devadatta will become a Buddha, and calls him a helper in a past life. The texts also differ on his future rebirth.",
+  "kidSummary": "Devadatta was the Buddha's cousin who became a monk but let ambition take over. The stories say he asked for more power and caused trouble. The Buddha stayed kind towards him, and in one text even says he will become a Buddha one day.",
+  "story": [
+    {
+      "title": "Cousins together",
+      "text": "Devadatta was a Shakya noble and the Buddha's cousin. He became a monk and learned many skills."
+    },
+    {
+      "title": "Wanting more",
+      "text": "Over time, Devadatta wanted to lead the monks in the Buddha's place. The Buddha said no, telling him he would not hand the community even to Sariputta or Maudgalyayana."
+    },
+    {
+      "title": "Stricter rules",
+      "text": "Devadatta asked for five extra-strict rules for every monk. The Buddha said monks could choose them if they wanted, but they would not be compulsory. Devadatta led some new monks away."
+    },
+    {
+      "title": "Bringing them back",
+      "text": "The Buddha's friends Sariputta and Maudgalyayana visited the group and, after a talk, the new monks returned to the Buddha."
+    },
+    {
+      "title": "The elephant story",
+      "text": "Texts say a drunken elephant named Nalagiri was sent to charge at the Buddha, but the Buddha's kindness calmed it. In the Pali Vinaya account, the Buddha showed no hatred for Devadatta even afterwards."
+    }
+  ],
+  "teaches": [
+    "Ambition can cloud wisdom",
+    "Kindness even to those who do wrong",
+    "Everyone can change"
+  ],
+  "symbol": "moon",
+  "emblems": ["Five austerities", "Elephant Nalagiri (in the story)", "Lotus Sutra prediction"],
+  "family": [
+    {
+      "relation": "Cousin and brother-in-law",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Prince he influenced",
+      "name": "Ajatashatru"
+    },
+    {
+      "relation": "Cousin ordained at the same time",
+      "name": "Ananda",
+      "slug": "ananda"
+    },
+    {
+      "relation": "Monk sent to bring back the new monks",
+      "name": "Sariputta",
+      "slug": "sariputta"
+    },
+    {
+      "relation": "Monk sent to bring back the new monks",
+      "name": "Maudgalyayana",
+      "slug": "maudgalyayana"
+    }
+  ],
+  "texts": ["Vinaya Pitaka (Cullavagga)", "Lotus Sutra", "Milinda Panha", "Mahamegha Sutra"],
+  "places": ["Gayasisa (monastery)", "Rajagaha", "Jetavana (where he is said to have fallen)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "When told how many gifts were pouring in for Devadatta, the Buddha compared it to a plantain or bamboo, which is destroyed by its own fruit.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His name means 'god-given' in Pali and Sanskrit, and Arjuna's conch in the Bhagavad Gita has the same name, Devadatta.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sanskrit texts such as the Mahavastu tell stories of his youth: he killed a white elephant meant for Siddhattha out of envy, and quarrelled with him over a goose.",
+      "kind": "story",
+      "source": "https://www.palikanon.com/english/pali_names/d/devadatta.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pali commentaries credit him with the strength of five elephants.",
+      "kind": "symbol",
+      "source": "https://www.palikanon.com/english/pali_names/d/devadatta.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vinaya says Prince Ajatashatru was won over when Devadatta appeared to him as a boy wrapped in snakes and sat in his lap.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Devadatta urged Prince Ajatashatru to kill his father, King Bimbisara, while he himself would kill the Buddha. The king found out and handed the kingdom to his son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Devadatta's plan to kill the Buddha used hired men, with a second group to silence the first, and more to silence them in turn, so that no one could tell. But the men sent at the Buddha were won over by him and joined his side.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Pali account Devadatta hurled a rock at the Buddha from a mountain. Two peaks rose up and slowed it, but a splinter still cut the Buddha's foot.",
+      "kind": "story",
+      "source": "https://www.palikanon.com/english/pali_names/d/devadatta.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pali tradition says he fell ill, set out to apologise to the Buddha, and was swallowed by the earth on the way.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pali commentaries say that after suffering for a hundred thousand kappas he will become a solitary Buddha called Atthissara. The Lotus Sutra says a Buddha called Devaraja.",
+      "kind": "text",
+      "source": "https://www.palikanon.com/english/pali_names/d/devadatta.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Chinese pilgrim Faxian recorded followers of Devadatta, called Gotamaka, who honoured earlier Buddhas but not Shakyamuni.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the rock attack, monks wanted to guard the Buddha, but he refused, saying no one could take the life of a fully awakened one.",
+      "kind": "story",
+      "source": "https://www.palikanon.com/english/pali_names/d/devadatta.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholar Reginald Ray points out that the oldest layer of Vinaya material shared by all sects simply shows Devadatta as a saint who wanted monks to live a strict life, and he reads the villain story as a later Sthavira legend.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Faxian's account, Devadatta pretends to bow, then claws at the Buddha with his own poisoned fingernails. The Buddha turns his legs to crystal, Devadatta's nails break, and the poison harms him instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Pali account the Buddha rejected Devadatta's bid to lead with a harsh image: he said Devadatta was to be cast out like spit. The order then announced that Devadatta's actions were not to be taken as done in the Buddha's name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His ally Kokalika warned him not to welcome Sariputta, and later kicked him in the chest to wake him with the news that the 500 monks had left.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/devadatta.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The drunk elephant Nalagiri, also called Dhanapala, was let loose on the road the Buddha would walk. He was warned but would not turn back, and his loving-kindness calmed the animal.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/devadatta.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Devadatta won 500 newly ordained monks from Vesali over to his side and took them to Gayasisa. When Sariputta and Maudgalyayana came, he thought they had joined him, and he fell asleep as Sariputta spoke. The monks went back.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/devadatta.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ajatashatru built Devadatta a monastery at Gayasisa and sent 500 pots of rice a day. The food was so tempting that some of the Buddha's own followers sneaked over to eat it.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/devadatta.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Devadatta left home with friends and relatives, among them Ananda, Anuruddha and the royal barber Upali, and joined the Buddha's order at the Anupiya grove.",
+      "kind": "history",
+      "source": "https://aimwell.org/DPPN/devadatta.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He asked for five strict rules: live in the forest for life, eat only begged food, wear only rag robes, sleep at the foot of a tree and eat no fish or meat. The Buddha let monks choose them but would not make them compulsory.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Devadatta",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How was Devadatta related to the Buddha?",
+      "options": ["He was his father", "He was his cousin", "He was his teacher", "He was his son"],
+      "answer": 1,
+      "why": "Texts say he was the Buddha's cousin and brother-in-law."
+    },
+    {
+      "q": "What does \"Devadatta\" mean?",
+      "options": ["Sun-born", "Wise one", "God-given", "King of monks"],
+      "answer": 2,
+      "why": "The name means \"god-given\"."
+    },
+    {
+      "q": "What calmed the drunken elephant Nalagiri?",
+      "options": ["A loud drum", "The Buddha's loving-kindness", "Fire", "A chain"],
+      "answer": 1,
+      "why": "In the stories the Buddha's kindness calmed it."
+    },
+    {
+      "q": "What does the Lotus Sutra say about Devadatta's future?",
+      "options": [
+        "He will become a Buddha",
+        "He will be a king",
+        "He will vanish",
+        "He will found a city"
+      ],
+      "answer": 0,
+      "why": "The Lotus Sutra predicts that Devadatta will become a Buddha."
+    }
+  ],
+  "related": ["gautama-buddha", "ananda", "sariputta", "maudgalyayana", "bimbisara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Devadatta",
+    "palikanon": "https://www.palikanon.com/english/pali_names/d/devadatta.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d5dbe6",
+    "c2": "#e6dccb"
+  }
+}

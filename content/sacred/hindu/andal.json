@@ -1,0 +1,246 @@
+{
+  "slug": "andal",
+  "name": "Andal",
+  "aka": ["Kotai", "Goda", "Chudikodutha Nachiyar", "Sudarkodi"],
+  "native": "ஆண்டாள்",
+  "role": "Tamil poet-saint, the only woman among the twelve Alvars",
+  "summary": "Andal is a Tamil poet-saint of Srivilliputhur, famed for the Tiruppavai and Nachiyar Tirumozhi, devotional songs to Vishnu that are sung every winter.",
+  "about": "Andal, also called Kotai or Goda, is the only woman among the twelve Alvars, the Tamil poet-saints of Vishnu. Tradition says the poet Periyalvar found her as a baby in the temple garden at Srivilliputhur and raised her as his daughter. Many Vaishnavas see her as an incarnation of Bhumi, the earth goddess. Her two works, the Tiruppavai with 30 verses and the Nachiyar Tirumozhi with 143, belong to the Nalayira Divya Prabandham. Stories say she wore each garland before it went to the deity, and that Vishnu preferred hers. Scholars date her to around the 8th century CE, though devotees' accounts place her much earlier. Her Tiruppavai is recited across the Tamil world every Margazhi.",
+  "kidSummary": "Andal was a girl poet from Srivilliputhur who loved Vishnu with all her heart. She wrote thirty songs, the Tiruppavai, in which she wakes her friends at dawn to go and greet Krishna. People still sing them in the cool month of Margazhi and offer garlands in her name.",
+  "story": [
+    {
+      "title": "A baby in the garden",
+      "text": "Tradition says the poet Periyalvar found a baby girl beside a tulasi plant in the temple garden and took her home as his own daughter."
+    },
+    {
+      "title": "Growing up with songs",
+      "text": "Periyalvar named her Kotai, and she grew up hearing stories of Krishna. Her whole heart belonged to Vishnu from a young age."
+    },
+    {
+      "title": "The garland",
+      "text": "Andal wore Periyalvar's garland before it went to the deity. He was upset, but a dream is said to have told him her worn garlands were the ones Vishnu loved best."
+    },
+    {
+      "title": "Songs for friends",
+      "text": "Andal wrote the Tiruppavai, thirty songs in which a cowherd girl wakes her friends at dawn to go to Krishna together."
+    },
+    {
+      "title": "Wedding at Srirangam",
+      "text": "Tradition says Andal's heart was set on Ranganatha of Srirangam. Periyalvar took her to the temple there, where she is said to have been united with him."
+    },
+    {
+      "title": "Garlands today",
+      "text": "Today garlands from her town of Srivilliputhur are sent to far-away temples, and her songs ring out each Margazhi morning."
+    }
+  ],
+  "teaches": [
+    "Pure love and devotion matter most",
+    "Friends can walk the path together",
+    "Sing your joy every morning"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Garland", "Green parrot", "Tulasi plant"],
+  "family": [
+    {
+      "relation": "foster father",
+      "name": "Periyalvar"
+    },
+    {
+      "relation": "revered as an aspect of",
+      "name": "Bhumi",
+      "slug": "bhumi"
+    },
+    {
+      "relation": "beloved",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Tiruppavai", "Nachiyar Tirumozhi", "Nalayira Divya Prabandham"],
+  "places": ["Srivilliputhur", "Srirangam", "Tirumala"],
+  "festivals": [
+    "Margazhi Tiruppavai recitation",
+    "Aadi Pooram",
+    "Panguni Uthiram",
+    "Purattasi Garudotsavam"
+  ],
+  "facts": [
+    {
+      "text": "Andal is the only woman among the twelve Alvars, the Tamil poet-saints who sang of Vishnu.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says her foster father, the poet Periyalvar, found her as a baby under a tulasi plant in the temple garden and named her Kotai.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Andal wore the garland meant for the deity first. In the story, Vishnu told Periyalvar in a dream that hers was the garland he loved, earning her the name Chudikodutha Sudarkodi, 'lady who gives the garland she wore'.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Periyalvar took Andal to the Ranganathaswamy temple in Srirangam, where she was united with Ranganatha as his bride.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In her Nachiyar Tirumoli, Andal promises Vishnu a thousand pots of sweet akkaravadisal if he will marry her. It is one of the most charming vows in Tamil devotional poetry.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Tiruppavai has 30 verses, and each day of the Tamil month of Margazhi is linked to one verse.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tiruppavai",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Thai royal Giant Swing ceremony, held until 1935, had a name blending two Tamil chants, Thiruvempavai and Tiruppavai.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tiruppavai",
+      "interest": 9
+    },
+    {
+      "text": "At Srivilliputhur, a green parrot made fresh each day is placed in Andal's hand. It uses a pomegranate flower for the beak, a banana for the body and bamboo sticks for legs.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Garlands worn by Andal at Srivilliputhur are sent to the Tirumala and Padmavati temples for Purattasi's Garudotsavam, and to the Kallalagar temple at Chitra Pournami. They are made of tulasi, chrysanthemum and tuberose.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7
+    },
+    {
+      "text": "The tower of the Srivilliputhur temple is about 192 feet tall. Many believe it is on the Tamil Nadu emblem, but the emblem's designer reportedly said it shows a Meenakshi temple gopuram.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vijayanagara emperor Krishnadevaraya wrote a Telugu epic about Andal, the Amuktamalyada, whose title means one who wears and gives away garlands. It includes 30 verses praising her.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7
+    },
+    {
+      "text": "Varanam Ayiram, a part of her Nachiyar Tirumozhi, tells of a dream in which Andal sees her wedding to Vishnu. This section is still sung at Vaishnava weddings.",
+      "kind": "text",
+      "source": "https://ramanuja.org/sv/bhakti/archives/jan99/0090.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her Nachiyar Tirumozhi has 14 sections. In one Andal asks a cuckoo to sing Vishnu's praise, and in another she sends clouds as messengers to call him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nachiar_Tirumozhi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Srivilliputhur temple the divine eagle Garuda is housed in Andal's shrine. Tradition says he brought the bridegroom from Srirangam.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The temple chariot of Srivilliputhur was once about 40 metres tall and weighed 650 tonnes. Hydraulic wheels were added later to make it easier to move.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Periyalvar built the temple tower with prize money from winning debates at a Pandya king's court.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+      "interest": 7
+    },
+    {
+      "text": "The Tiruppavai belongs to the pavai genre, in which unmarried girls keep a vow through the month of Margazhi. Hints of this vow appear even in the Sangam-era Paripatal.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tiruppavai",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the fifth verse, Andal says that worship with fresh flowers will make a devotee's sins burn away like cotton in fire. It is a famously vivid image from the Tiruppavai.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Each Margazhi, talks on the Tiruppavai are held across India in Tamil, Telugu, Kannada and Hindi. Hundreds of classical dancers today also choreograph her songs.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Andal",
+      "interest": 7
+    },
+    {
+      "text": "Ilaiyaraaja's score for the film Hey Ram includes Varanam Ayiram, the Nachiyar Tirumoli section about Andal's dream wedding to Vishnu.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nachiyar_Tirumoli",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many verses does Andal's Tiruppavai have?",
+      "options": ["12", "30", "108", "140"],
+      "answer": 1,
+      "why": "The Tiruppavai has 30 verses, one for each day of Margazhi."
+    },
+    {
+      "q": "What does Andal's parrot at Srivilliputhur get made of each day?",
+      "options": ["Gold", "Clay", "Fresh leaves, flowers and fruit", "Cloth"],
+      "answer": 2,
+      "why": "The temple makes a fresh parrot each day from green leaves, flowers and fruit."
+    },
+    {
+      "q": "In which Tamil month is the Tiruppavai especially sung?",
+      "options": ["Margazhi", "Chithirai", "Adi", "Thai"],
+      "answer": 0,
+      "why": "Devotees recite it in Margazhi, December to January."
+    },
+    {
+      "q": "Where did Periyalvar find baby Andal, says tradition?",
+      "options": ["On a boat", "Under a tulasi plant", "In a cave", "By a banyan"],
+      "answer": 1,
+      "why": "The story says she lay under a tulasi plant in the temple garden."
+    }
+  ],
+  "related": ["vishnu", "krishna", "bhumi", "lakshmi", "ramanuja", "venkateswara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Andal",
+    "tiruppavai": "https://en.wikipedia.org/wiki/Tiruppavai",
+    "srivilliputhur": "https://en.wikipedia.org/wiki/Srivilliputhur_Andal_Temple",
+    "nachiartirumozhi": "https://en.wikipedia.org/wiki/Nachiar_Tirumozhi",
+    "varanamayiram": "https://ramanuja.org/sv/bhakti/archives/jan99/0090.html"
+  },
+  "palette": {
+    "c1": "#f2c9d4",
+    "c2": "#e8d9a8"
+  },
+  "years": "c. 8th century CE",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

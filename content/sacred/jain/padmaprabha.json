@@ -1,0 +1,155 @@
+{
+  "slug": "padmaprabha",
+  "name": "Padmaprabha",
+  "aka": ["Padmaprabhu"],
+  "native": "पद्मप्रभ",
+  "role": "Sixth Tirthankara of the present age",
+  "order": 6,
+  "summary": "Jains revere Padmaprabha, whose name means \"lotus-like glow\", as the sixth Tirthankara, born in Kosambi, with the red lotus as his emblem.",
+  "about": "Jain tradition counts Padmaprabha as the sixth of the 24 Tirthankaras of our descending age. Texts say he was born in Kosambi to King Sridhara and Queen Susima of the Ikshvaku dynasty, and had been King Aparajit in an earlier life. The name is said to refer to a lotus-like glow, with a story about his mother longing to rest on lotuses. Jains believe he reached omniscience under a banyan tree and attained liberation on Mount Shikharji. The Padampura temple near Jaipur and the Mahudi temple in Gujarat are well-known shrines to him.",
+  "kidSummary": "Padmaprabha is the sixth Tirthankara of Jainism. His name means \"lotus-like glow\", and his symbol is the red lotus. Jain stories say his mother longed to sleep on lotus flowers before he was born.",
+  "story": [
+    {
+      "title": "A king in an earlier life",
+      "text": "Jain texts say that long ago he was a king named Aparajit, and later lived as a heavenly being."
+    },
+    {
+      "title": "Lotus dreams",
+      "text": "Before his birth in Kosambi, his mother is said to have wished to rest on lotus flowers, which gave him his name."
+    },
+    {
+      "title": "A glowing child",
+      "text": "Tradition says he was born with a soft pinkish-red glow, like a lotus."
+    },
+    {
+      "title": "Full knowledge",
+      "text": "Jains believe he became a monk and reached omniscience under a banyan tree."
+    },
+    {
+      "title": "Liberation on Shikharji",
+      "text": "Texts say he reached liberation on Mount Shikharji, where a footprint shrine honours him."
+    }
+  ],
+  "teaches": ["Gentleness and beauty can come from within", "Detachment brings peace"],
+  "symbol": "lamp",
+  "emblems": ["Red lotus (lanchana)", "Red colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Sridhara"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Susima"
+    }
+  ],
+  "texts": ["Uttarapurana"],
+  "places": ["Kosambi", "Padampura", "Mahudi", "Sammed Shikharji"],
+  "festivals": ["Annual fair at Padampura"],
+  "facts": [
+    {
+      "text": "His name is said to mean \"lotus-like glow\", linked to a story that his mother longed to sleep on lotus flowers.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Padmaprabha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His emblem is the red lotus, and images of him are traditionally shown with a red complexion, unlike most golden Tirthankaras.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Padmaprabha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Padampura near Jaipur, the main image of him is red stone, found in 1944 by a farmer digging a house foundation. Devotees say that afterwards the village's water trouble ended, animal disease stopped, and years later a rich harvest came.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padampura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain texts give his lifespan as 30 lakh purvas, a span far beyond any human count, and his height as 250 bows, about 750 metres by the page's conversion.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Padmaprabha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Shvetambara texts say four of the five auspicious events of his life took place at Kaushambi, an ancient city whose excavated fort walls ran about four miles with 32 gates.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kosambi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Besides the red stone image, Padampura has a 27-foot standing figure of him in the meditation posture called kayotsarga and a 61-foot pillar of honour, the manastambha.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Padampura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahudi temple in Gujarat was founded by the monk Buddhisagar Suri in 1917. Its central deity is a 22-inch marble image of Padmaprabha.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahudi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Excavations at ancient Kosambi turned up more than a dozen heads of Tirthankara images, and about six headless seated figures.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kosambi",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Padmaprabha's name suggest?",
+      "options": ["Lotus-like glow", "Golden sun", "Mountain king", "River song"],
+      "answer": 0,
+      "why": "Padma is lotus, prabha is glow."
+    },
+    {
+      "q": "Which flower is his emblem?",
+      "options": ["Marigold", "Jasmine", "Red lotus", "Rose"],
+      "answer": 2,
+      "why": "The red lotus."
+    },
+    {
+      "q": "What did Padmaprabha's mother long to sleep on, in Jain stories?",
+      "options": ["A bed of lotus flowers", "A golden swing", "A bed of jasmine", "A small boat"],
+      "answer": 0,
+      "why": "Her wish for lotuses gave him the name meaning lotus-like glow."
+    },
+    {
+      "q": "Who found the red stone idol of Padmaprabha at Padampura in 1944?",
+      "options": ["A farmer", "A king", "A sailor", "A schoolteacher"],
+      "answer": 0,
+      "why": "He was digging the foundation of his house."
+    },
+    {
+      "q": "What colour are images of Padmaprabha traditionally shown, unlike most Tirthankaras?",
+      "options": ["Golden", "Red", "White", "Black"],
+      "answer": 1,
+      "why": "His complexion is red, matching his red lotus emblem."
+    }
+  ],
+  "related": ["sumatinatha", "suparshvanatha", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Padmaprabha",
+    "mahudi": "https://en.wikipedia.org/wiki/Mahudi",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "padampura": "https://en.wikipedia.org/wiki/Padampura",
+    "kosambi": "https://en.wikipedia.org/wiki/Kosambi"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f2d4d4",
+    "c2": "#f3e2c8"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

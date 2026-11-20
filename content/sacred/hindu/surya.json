@@ -1,0 +1,296 @@
+{
+  "slug": "surya",
+  "name": "Surya",
+  "aka": ["Ravi", "Vivasvan", "Bhaskara", "Aditya", "Nit-ten (Japan)"],
+  "native": "सूर्य",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Sun god, giver of light and one of the Navagraha",
+  "summary": "Surya is the Hindu god of the Sun, shown crossing the sky on a chariot pulled by seven horses. Temples such as Konark and Modhera were built in his honour.",
+  "about": "Surya is the sun god of the Vedas and a member of the Navagraha, the nine heavenly bodies. Texts and images show him in a chariot with seven horses, driven by Aruna, with the dawn goddesses Usha and Pratyusha beside him. Some texts name his wives as Samjna and Chhaya. Many Puranas describe Yama and Yamuna as his children. Smarta Hindus count him as one of five major deities, and the Saura tradition made him the main god in places such as Rajasthan, Gujarat and Odisha. Konark is built as a stone chariot whose wheels work as sundials, and Modhera's sanctum is aligned so the equinox sunrise lights the image. Festivals include Pongal, Makar Sankranti and Chhath, and the Gayatri mantra is tied to the sun's life-giving light. Buddhist traditions in China and Japan also honour him.",
+  "kidSummary": "Surya is the sun god. Stories say he rides a golden chariot pulled by seven horses across the sky each day, bringing light and warmth to everyone. People thank him at sunrise, in festivals like Pongal and Chhath, and in the beautiful sun temples of Konark and Modhera.",
+  "story": [
+    {
+      "title": "The sky chariot",
+      "text": "In Hindu stories, Surya rides a chariot pulled by seven horses across the sky. Each day his journey brings morning, noon and evening."
+    },
+    {
+      "title": "The charioteer Aruna",
+      "text": "His driver is Aruna, who sits in front and steers the horses. Aruna's name is also linked to the red glow before sunrise."
+    },
+    {
+      "title": "Dawn goddesses",
+      "text": "Two dawn goddesses, Usha and Pratyusha, stand beside Surya in many pictures. They are said to shoot arrows of early light."
+    },
+    {
+      "title": "The seven horses",
+      "text": "The seven horses stand for seven rhythms of Sanskrit poetry. People also say they stand for the seven colours of light or the days of the week."
+    },
+    {
+      "title": "Thanking the sun",
+      "text": "People greet Surya at sunrise, offer water to him and light lamps. Festivals such as Pongal and Chhath are ways of saying thank you for light and harvests."
+    }
+  ],
+  "teaches": [
+    "Gratitude for light and daily blessings",
+    "Regular habits and discipline, like the sun's daily path",
+    "Sharing warmth with everyone equally"
+  ],
+  "symbol": "sun",
+  "emblems": ["Chariot of seven horses", "Charioteer Aruna", "Lotus", "Ring-stone"],
+  "family": [
+    {
+      "relation": "Charioteer",
+      "name": "Aruna"
+    },
+    {
+      "relation": "Wife",
+      "name": "Samjna"
+    },
+    {
+      "relation": "Wife",
+      "name": "Chhaya"
+    },
+    {
+      "relation": "Son (many Puranas)",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Son (many Puranas)",
+      "name": "Shani",
+      "slug": "shani"
+    },
+    {
+      "relation": "Son (Mahabharata)",
+      "name": "Karna",
+      "slug": "karna"
+    },
+    {
+      "relation": "Son (Ramayana)",
+      "name": "Sugriva",
+      "slug": "sugriva"
+    },
+    {
+      "relation": "Mother",
+      "name": "Aditi",
+      "slug": "aditi"
+    }
+  ],
+  "texts": ["Rigveda", "Brihat Samhita", "Vishnudharmottara Purana", "Mahabharata", "Ramayana"],
+  "places": [
+    "Konark Sun Temple, Odisha",
+    "Modhera Sun Temple, Gujarat",
+    "Arasavalli, Andhra Pradesh",
+    "Multan (historic)"
+  ],
+  "festivals": ["Chhath", "Pongal (Surya Pongal)", "Makar Sankranti", "Samba Dashami"],
+  "facts": [
+    {
+      "text": "The Rigveda gives many different answers about who made the sun. Surya is said to be born or set in the sky by the Adityas, Aditi, Agni, Indra, Soma and others, while the Atharvaveda says he came from Vritra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 7
+    },
+    {
+      "text": "The Brihat Samhita says Surya should wear northern dress with boots, and early Kushan-age sun images do show a cloak and high boots.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 8
+    },
+    {
+      "text": "The Vishnudharmottara says Surya should be shown with four hands, holding flowers, a staff and writing tools, a palm leaf and pen that stand for knowledge.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 7
+    },
+    {
+      "text": "The Konark Sun Temple was built around 1250 CE by the Eastern Ganga king Narasingha Deva I as a chariot with 24 carved stone wheels. Its name joins kona, corner, and arka, sun.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Popular accounts say the carved wheels of Konark work as sundials that can tell the time of day quite accurately.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "European sailors called Konark the Black Pagoda as early as 1676, while the Jagannath temple at Puri was their White Pagoda.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+      "interest": 8
+    },
+    {
+      "text": "Konark appears on the back of the Indian ten-rupee note, and UNESCO made it a World Heritage Site in 1984.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Modhera in Gujarat, built after 1026 CE by the Chaulukyas, sunrise light at the equinoxes falls on the sun image inside the sanctum.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Modhera_Sun_Temple",
+      "interest": 8
+    },
+    {
+      "text": "The yoga sequence Surya Namaskar, now used as a warm-up, developed in the 20th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Indonesian shadow-puppet (wayang) tales, Anoman, the Indonesian Hanuman, blames Batara Surya for his mother's sorrow and gathers clouds from around the world to hide the sun. The matter ends peacefully and he clears the sky again.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Harivamsa and Puranas, Sanjna, daughter of the craftsman god Tvashtr, cannot bear Surya's blazing light. She leaves her shadow Chhaya in her place and flees as a mare, until Surya dims his glow and brings her back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sanjna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before his last fight with Ravana, Rama hears the Aditya Hridayam, a 30-verse hymn to Surya taught by the sage Agastya in the Valmiki Ramayana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Aditya_Hridayam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Yudhishthira prays to Surya during the exile and receives the Akshaya Patra, a vessel that keeps giving food until Draupadi has eaten. Some versions credit Krishna instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akshaya_Patra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, young Kunti calls on Surya with a mantra from the sage Durvasa, and Karna is born. She sets the baby afloat on a river, and a charioteer finds and raises him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durvasa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Surya is lord of Simha (Leo) in Hindu astrology, and his name Ravi is the basis of Ravivara, the word for Sunday in the Hindu calendar.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Though Hanuman is described as celibate in the Ramayana and most Puranas, some regional sources say he married Suvarchala, a daughter of Surya.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Hanuman",
+      "interest": 7
+    },
+    {
+      "text": "Many Hindu tellings explain eclipses through Rahu. After the asura Svarbhanu sneaks a drink of the nectar of immortality, Surya and Chandra tell on him and Vishnu cuts off his head. Rahu is that head, which chases and tries to swallow the sun.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Rahu",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Indonesian wayang tradition Surya is the teacher of Hanoman, the Indonesian Hanuman.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Samba Purana says Krishna's son Samba was cursed with leprosy and was cured after twelve years of worshipping Surya at Mitravana by the Chandrabhaga river. People identify the place with the Sun Temple of Multan, and Odisha marks Samba Dashami.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samba_(Krishna's_son)",
+      "interest": 8
+    },
+    {
+      "text": "Shani, the Saturn deity, is called the son of Surya and the shadow goddess Chhaya, and so a brother of Yama.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shani",
+      "interest": 7
+    },
+    {
+      "text": "The seven horses of Surya's chariot are named after seven Sanskrit poetic meters: Gayatri, Brihati, Ushnih, Jagati, Trishtubh, Anushtubh and Pankti.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On the doors of Buddhist monasteries in Nepal, Surya appears with the moon god as a red circle with rays, and in some Buddhist art his chariot has four horses instead of seven.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Surya",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many horses pull Surya's chariot?",
+      "options": ["Three", "Five", "Seven", "Twelve"],
+      "answer": 2,
+      "why": "Surya's chariot is pulled by seven horses."
+    },
+    {
+      "q": "Who drives Surya's chariot?",
+      "options": ["Aruna", "Hanuman", "Garuda", "Indra"],
+      "answer": 0,
+      "why": "Aruna is the charioteer of the sun."
+    },
+    {
+      "q": "Popular accounts say the carved wheels of Konark can be used as what?",
+      "options": ["Boats", "Sundials", "Windmills", "Bells"],
+      "answer": 1,
+      "why": "Guides describe the wheels as sundials that show the time of day."
+    },
+    {
+      "q": "Which festival gives thanks to the rising and setting sun?",
+      "options": ["Holi", "Raksha Bandhan", "Chhath", "Baisakhi"],
+      "answer": 2,
+      "why": "Chhath includes offerings of water to the sun at dusk and dawn."
+    },
+    {
+      "q": "In which Indian state is Modhera Sun Temple?",
+      "options": ["Gujarat", "Kerala", "Assam", "Punjab"],
+      "answer": 0,
+      "why": "The Modhera Sun Temple is in Gujarat."
+    }
+  ],
+  "related": [
+    "yama",
+    "shani",
+    "karna",
+    "sugriva",
+    "hanuman",
+    "aditi",
+    "vishvakarma",
+    "kunti",
+    "navagraha",
+    "chandra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Surya",
+    "konark": "https://en.wikipedia.org/wiki/Konark_Sun_Temple",
+    "modhera": "https://en.wikipedia.org/wiki/Modhera_Sun_Temple",
+    "chhath": "https://en.wikipedia.org/wiki/Chhath",
+    "navagraha": "https://en.wikipedia.org/wiki/Navagraha",
+    "sanjna": "https://en.wikipedia.org/wiki/Sanjna",
+    "rahu": "https://en.wikipedia.org/wiki/Rahu",
+    "samba": "https://en.wikipedia.org/wiki/Samba_(Krishna's_son)",
+    "shani": "https://en.wikipedia.org/wiki/Shani"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1dfb8",
+    "c2": "#f8eed8"
+  },
+  "order": 8
+}

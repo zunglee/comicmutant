@@ -1,0 +1,259 @@
+{
+  "slug": "airavata",
+  "name": "Airavata",
+  "aka": ["Airavana", "Erawan", "Abhramu-vallabha", "Indra's elephant"],
+  "native": "ऐरावत",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "White elephant of Indra and king of elephants",
+  "summary": "Airavata is the great white elephant who carries Indra, king of the gods. Texts give him several tusks and trunks and different birth stories, and he is honoured from Tamil temples to Thailand's royal flags.",
+  "about": "Airavata is the white elephant of Indra, called the king of elephants. Sacred texts describe him as pure white with three heads, six tusks and three trunks, though some Puranas give other numbers. His origins differ by source: the Ramayana makes him a child of Iravati, the Vishnu Purana says he rose from the churning of the ocean of milk, and the Matangalila says Brahma sang over the halves of Garuda's eggshell to create the first elephants. The Mahabharata even classes him among great serpents. Many texts say he is chief of the eight elephants who guard the directions, and that Indra rode him against Vritra. In Jain tradition Indra comes on Airavata to celebrate a Tirthankara's birth. In Southeast Asia, especially Thailand, he is called Erawan.",
+  "kidSummary": "Airavata is a huge white elephant who carries Indra, the king of the gods, above the clouds. Old stories give him many heads, trunks and tusks. People in India and Thailand still remember him on temples, flags and even buses.",
+  "story": [
+    {
+      "title": "Born in different stories",
+      "text": "Hindu texts tell Airavata's birth in different ways. The Ramayana says he is Iravati's child, while the Vishnu Purana says he rose from the Ocean of Milk when it was churned."
+    },
+    {
+      "title": "A white elephant for the king of the gods",
+      "text": "Indra, king of the gods, took Airavata as his mount. With three heads and six tusks in some texts, he was a majestic, shining white elephant."
+    },
+    {
+      "title": "Riding to battle",
+      "text": "Many texts say Indra rode Airavata into battle against Vritra, and that the elephant stands at the gate of Indra's heaven, Svarga."
+    },
+    {
+      "title": "Chief of the elephants",
+      "text": "The legendary king Prithu is said to have made Airavata ruler of all elephants. He leads the eight world elephants who guard the compass points."
+    },
+    {
+      "title": "A temple by the water",
+      "text": "At Darasuram in Tamil Nadu, local tradition says Airavata bathed in the temple tank and found his skin white and clean again. The temple is named Airavatesvara in his honour."
+    }
+  ],
+  "teaches": [
+    "Gentle strength",
+    "Honouring helpers who serve a good cause",
+    "Cleansing the mind and starting afresh"
+  ],
+  "symbol": "wave",
+  "emblems": [
+    "White elephant",
+    "Indra's mount (vahana)",
+    "Three heads and six tusks (some texts)",
+    "Cloud and rain"
+  ],
+  "family": [
+    { "relation": "Rider", "name": "Indra", "slug": "indra" },
+    { "relation": "Mother (Ramayana)", "name": "Iravati" },
+    { "relation": "Consort", "name": "Abhramu" }
+  ],
+  "texts": ["Ramayana", "Mahabharata", "Vishnu Purana", "Matangalila", "Bhagavad Gita"],
+  "places": [
+    "Airavatesvara Temple, Darasuram",
+    "Erawan Museum, Samut Prakan",
+    "Wat Arun, Bangkok",
+    "Svarga (Indra's heaven)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Sacred texts describe Airavata as pure white, with three heads, six tusks and three trunks, which makes him look like no ordinary elephant.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some Puranas instead give him ten tusks and five trunks, matching the ten directions.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His titles include 'elephant of the clouds', 'the fighting elephant' and 'brother of the sun'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His elephant consort is Abhramu, a name that suggests binding clouds together, matching the old idea that elephants bring rain.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Although he is an elephant, the Mahabharata lists Airavata among the great serpents (nagas) and calls him the third son of Iravati.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Matangalila says Brahma sang over the halves of Garuda's eggshell and eight male and eight female elephants came out, the first elephants and the Diggajas who hold up the directions.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In that account, the first elephants could fly and change shape until a sage's curse took the powers away, after a branch full of winged elephants fell on him and his disciples.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Hindu cosmology names eight elephants that guard the directions: Airavata (east), Pundarika, Vamana, Kumuda, Anjana, Pushpadanta, Sarvabhauma and Supratika. Each has a female partner, and Airavata's is Abhramu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/World_Elephant",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The same curse that weakened the gods also destroyed Airavata. When Indra churned the ocean to win back his strength, Airavata rose again from the waters beside his consort Abhramu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Darasuram, local mythology says Airavata regained his clean white skin by bathing in the temple tank, a scene carved in the inner shrine, and the temple takes its name from him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 'singing steps' at the Airavatesvara Temple produce musical notes when struck.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wat Arun, Bangkok's Temple of Dawn, has a central tower showing Indra on the three-headed elephant Erawan. Bangkok also took the elephant as a city symbol through its link with Indra.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Thailand he is called Erawan and is usually shown with three heads, though some images have up to thirty-three.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Siamese royal flag called Thong Airaphot was the king's absent standard in 1855-1891 and 1897-1910. It is listed among the flags that show Airavata.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Laos, the old Lan Xang kingdom and later the Kingdom of Laos flew a flag showing the three-headed elephant.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Karnataka's state bus service uses the name Airavata for its Volvo buses, and he also appears in the Megami Tensei video games.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Samudra Manthana tale, the sage Durvasa gave Indra a flower garland and Indra hung it on Airavata. Bees annoyed the elephant, which threw the garland to the ground, and Durvasa's curse left the gods weak.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Erawan Museum in Samut Prakan, Thailand, is built into a giant bronze three-headed elephant, 29 m high and 250 tonnes, with a top floor in its belly that represents the heaven of the thirty-three gods.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Erawan_Museum",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His name Airavata means belonging to Iravati, his mother in the Ramayana. Through Pali Eravana it became Erawan in Thai.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Sanskrit word naga means both serpent and elephant. The scholar Wilhelm von Humboldt thought this double meaning may have turned an old world-serpent idea into world elephants.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/World_Elephant",
+      "interest": 9,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who rides Airavata?",
+      "options": ["Vishnu", "Indra", "Shiva", "Brahma"],
+      "answer": 1,
+      "why": "Airavata is the white elephant of Indra, king of the gods."
+    },
+    {
+      "q": "In some texts, how many tusks does Airavata have?",
+      "options": ["Two", "Four", "Six", "Eight"],
+      "answer": 2,
+      "why": "Some texts describe him with three heads, three trunks and six tusks."
+    },
+    {
+      "q": "What is Airavata called in Thailand?",
+      "options": ["Ganesh", "Naga", "Phra Phrom", "Erawan"],
+      "answer": 3,
+      "why": "In Thai tradition he is Erawan, often shown three-headed."
+    },
+    {
+      "q": "What do the 'singing steps' at Darasuram do?",
+      "options": ["Make musical notes", "Open a secret door", "Light up", "Pour water"],
+      "answer": 0,
+      "why": "The carved steps at Airavatesvara Temple produce notes when struck."
+    },
+    {
+      "q": "According to the Vishnu Purana, how did Airavata appear?",
+      "options": [
+        "From a lotus",
+        "From the Ocean of Milk when it was churned",
+        "From a mountain",
+        "From the sun"
+      ],
+      "answer": 1,
+      "why": "That Purana says he came out of the churning of the Ocean of Milk."
+    }
+  ],
+  "related": [
+    "indra",
+    "vritra",
+    "prithu",
+    "durvasa",
+    "kashyapa",
+    "garuda",
+    "uchchaihshravas",
+    "ashta-dikpalas",
+    "vahanas",
+    "kamadhenu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Airavata",
+    "airavatesvara": "https://en.wikipedia.org/wiki/Airavatesvara_Temple",
+    "churning": "https://en.wikipedia.org/wiki/Samudra_Manthana",
+    "erawanMuseum": "https://en.wikipedia.org/wiki/Erawan_Museum"
+  },
+  "depth": "full",
+  "palette": { "c1": "#DCE8F2", "c2": "#F3EAD6" },
+  "order": 500
+}

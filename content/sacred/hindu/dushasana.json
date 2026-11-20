@@ -1,0 +1,201 @@
+{
+  "slug": "dushasana",
+  "name": "Dushasana",
+  "aka": ["Duhshasana", "Dussasana", "Dushshasana"],
+  "native": "दुःशासन",
+  "role": "Second Kaurava prince of the Mahabharata",
+  "summary": "Dushasana is the second of the hundred Kaurava brothers in the Mahabharata and the loyal younger brother of Duryodhana. He is remembered for the dice-hall scene involving Draupadi and for his duel with Bhima.",
+  "about": "In the Mahabharata, Dushasana is the second son of Dhritarashtra and Gandhari, born right after Duryodhana, and he is Duryodhana's closest brother and companion. The epic tells that Duryodhana ordered him to bring Draupadi into the assembly hall after the dice game, and he dragged her in by the hair. Many later versions add a miracle in which her cloth would not end, credited to Krishna in most, while other texts name different rescuers and the oldest layers of the epic do not mention it. Mythologist Devdutt Pattanaik traces the famous hair-washing vow to the 8th-century play Venisamhara. During the Kurukshetra war the epic places him in several duels and says Bhima fulfilled his earlier oath by killing him on day seventeen. His story has been told in painting, temple carvings and cinema, and artists keep returning to the question of how loyalty to family can lead people into wrong.",
+  "kidSummary": "Dushasana is a Kaurava prince in the Mahabharata, the younger brother of Duryodhana. He took part in the unfair dice game scene, a turning point that led to the great war, and Bhima ends his life on day seventeen, as he had promised. His story shows how following a wrong plan, even out of loyalty, leads to sorrow.",
+  "story": [
+    {
+      "title": "A hundred brothers",
+      "text": "In the Mahabharata, Gandhari's hundred sons were born from pieces of a lump of flesh, kept in jars by the sage Vyasa. Duryodhana was first and Dushasana was second."
+    },
+    {
+      "title": "The dice hall",
+      "text": "After Yudhishthira lost a dice game, Duryodhana told Dushasana to bring Draupadi into the hall. The epic says the whole court was shocked and many elders spoke up against the act."
+    },
+    {
+      "title": "A protected cloth",
+      "text": "Later tellings say Draupadi's cloth kept growing so it could not be taken away, and many credit Krishna. Her husbands were set free afterwards."
+    },
+    {
+      "title": "Bhima's oath",
+      "text": "Hurt and angry, Bhima vowed that he would one day end Dushasana's life in battle. The epic treats this oath as the reason for their duel."
+    },
+    {
+      "title": "The mace duel",
+      "text": "On the seventeenth day of Kurukshetra, Bhima met Dushasana in a fierce fight, ended his life and so kept his oath. The Kaurava side was deeply shaken."
+    }
+  ],
+  "teaches": [
+    "Being loyal to family does not make a wrong act right",
+    "Respect for every person, especially in public",
+    "Actions bring consequences, sooner or later"
+  ],
+  "symbol": "mace",
+  "emblems": ["Mace (in battle)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Mother",
+      "name": "Gandhari",
+      "slug": "gandhari"
+    },
+    {
+      "relation": "Elder brother",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Yuyutsu",
+      "slug": "yuyutsu"
+    },
+    {
+      "relation": "Maternal uncle",
+      "name": "Shakuni",
+      "slug": "shakuni"
+    }
+  ],
+  "texts": ["Mahabharata (Sabha Parva, Karna Parva)", "Venisamhara (play, 8th century)"],
+  "places": ["Hastinapura", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the hall itself, Bhima pledged to cut off Dushasana's hands because they had touched Draupadi's hair. Across the epic this grows into a vow to kill him in battle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "Later tellings say the sari kept lengthening until Dushasana tired. Devdutt Pattanaik notes the oldest layers mention only the hair-dragging, and that the rescuer varies by telling: Krishna, the sage Durvasa, or the Sun's wives.",
+      "kind": "text",
+      "source": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+      "interest": 7
+    },
+    {
+      "text": "Devdutt Pattanaik names the 8th-century Sanskrit play Venisamhara by Bhatta Narayana as the first source of the vow to wash Draupadi's hair in Dushasana's blood.",
+      "kind": "text",
+      "source": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the Gandharva capture, a shamed Duryodhana thought of ending his life and proposed that Dushasana be crowned king in his place. Dushasana refused.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Duryodhana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before sending Dushasana, Duryodhana first sent a messenger named Pratikami to summon Draupadi. She refused to come, and only then did Duryodhana order his brother to bring her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Duryodhana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Among Dushasana's brothers, only Vikarna and Yuyutsu objected when he tried to disrobe Draupadi. Vidura protested openly too, but found nobody else to back him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Franklin Edgerton's study of the Critical Edition of the Sabha Parva suggests the miracle of Draupadi's endless sari is a later addition to the epic.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Devdutt Pattanaik says early Sanskrit plays from about 100 CE, such as Urubhangam, mention only that Draupadi was dragged by the hair in a single cloth, with no disrobing and no divine rescue.",
+      "kind": "text",
+      "source": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the 15th-century Malayalam Bharatam Pattu by Ayyanappilla Asan, the courtiers take off their upper garments to cover Draupadi, so the rescue comes from people, not a miracle.",
+      "kind": "text",
+      "source": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pattanaik notes that the Harivamsa and the Vishnu, Devi Bhagavata and Bhagavata Puranas, spanning the 4th to the 10th century, leave the disrobing story out entirely.",
+      "kind": "text",
+      "source": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Kaurava brother was Dushasana?",
+      "options": ["The eldest", "The second", "The youngest", "The third"],
+      "answer": 1,
+      "why": "The epic lists him second, right after Duryodhana."
+    },
+    {
+      "q": "Counting the jar for his sister Dushala, how many jars did Vyasa fill from Gandhari's lump of flesh?",
+      "options": ["50", "99", "101", "108"],
+      "answer": 2,
+      "why": "One hundred jars grew into sons, and a 101st was added for Dushala, so there were 101 in all."
+    },
+    {
+      "q": "Which 8th-century play first adds the hair-washing in blood?",
+      "options": ["Venisamhara", "Abhijnana Shakuntalam", "Mricchakatika", "Ratnavali"],
+      "answer": 0,
+      "why": "Devdutt Pattanaik names Bhatta Narayana's Venisamhara as the first mention."
+    },
+    {
+      "q": "In the Mahabharata, who fought Dushasana on day seventeen?",
+      "options": ["Arjuna", "Nakula", "Bhima", "Sahadeva"],
+      "answer": 2,
+      "why": "Bhima met him in the duel and ended his life, keeping his oath."
+    },
+    {
+      "q": "Which of these was NOT a brother of Dushasana?",
+      "options": ["Vikarna", "Chitrasena", "Yuyutsu", "Karna"],
+      "answer": 3,
+      "why": "Karna was Duryodhana's close friend, not a Kaurava brother. Vikarna, Chitrasena and Yuyutsu were Dushasana's brothers."
+    }
+  ],
+  "related": [
+    "duryodhana",
+    "draupadi",
+    "bhima",
+    "karna",
+    "shakuni",
+    "gandhari",
+    "dhritarashtra",
+    "vikarna",
+    "yuyutsu",
+    "abhimanyu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Duhshasana",
+    "draupadi": "https://en.wikipedia.org/wiki/Draupadi",
+    "duryodhana": "https://en.wikipedia.org/wiki/Duryodhana",
+    "gandhari": "https://en.wikipedia.org/wiki/Gandhari_(Mahabharata)",
+    "hoysaleswara": "https://en.wikipedia.org/wiki/Hoysaleswara_Temple",
+    "pattanaik": "https://devdutt.com/what-is-the-truth-behind-draupadis-vastraharan/",
+    "kurukshetra": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+    "duhshasana": "https://en.wikipedia.org/wiki/Duhshasana"
+  },
+  "palette": {
+    "c1": "#C9B3A0",
+    "c2": "#E6D2B8"
+  },
+  "order": 13,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "depth": "compact"
+}

@@ -1,0 +1,277 @@
+{
+  "slug": "avalokiteshvara",
+  "name": "Avalokiteshvara",
+  "aka": ["Chenrezig", "Guanyin", "Lokeshvara", "Kannon", "Padmapani"],
+  "native": "अवलोकितेश्वर",
+  "role": "Bodhisattva of compassion",
+  "summary": "In Mahayana Buddhism, Avalokiteshvara is the bodhisattva of compassion who is said to hear the cries of the world. Devotion to this figure has spread from India to Tibet, China, Japan and Southeast Asia.",
+  "about": "Mahayana sutras describe Avalokiteshvara as a bodhisattva who listens to the cries of all beings and helps them. The name is usually read as 'the lord who looks down', and many scholars think an earlier form meant 'the one who perceives sound', which led to the Chinese name Guanyin. The Lotus Sutra devotes a chapter to this figure, and the Karandavyuha Sutra, from around the fourth or fifth century CE, links him with the mantra Om Mani Padme Hum. Tibetan Buddhists call him Chenrezig and believe the Dalai Lamas are his emanations. In East Asia the figure is often shown in a gentle female form, and in Sri Lanka and Southeast Asia he is known as Natha or Lokanat. Different Buddhist schools hold different views of his origins, and he is celebrated in art from Ajanta to Lhasa.",
+  "kidSummary": "Avalokiteshvara is a kind bodhisattva who listens to everyone who is in trouble. In many Buddhist stories, he has a thousand arms so he can help many people at once. People in Tibet, China and Japan all love him, each with their own name for him.",
+  "story": [
+    {
+      "title": "A promise to help",
+      "text": "In Mahayana stories, Avalokiteshvara makes a vow to help every living being who is sad or afraid, and to keep helping until all are free of suffering."
+    },
+    {
+      "title": "So many cries",
+      "text": "One tale says that when he saw how many beings were suffering, his head split into eleven pieces and his arms broke, because the need felt so big."
+    },
+    {
+      "title": "A helping hand from Amitabha",
+      "text": "In this story, the Buddha Amitabha mends him, giving him eleven heads to see in every direction and a thousand arms to help many at once."
+    },
+    {
+      "title": "Many names, one kindness",
+      "text": "Tibetans call him Chenrezig, Chinese Buddhists say Guanyin, and Japanese Buddhists say Kannon. Each place tells the same story of listening with care."
+    }
+  ],
+  "teaches": [
+    "Listen kindly to those who are hurting",
+    "Compassion for all living beings",
+    "Help others without waiting to be asked"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lotus", "Prayer beads", "Om Mani Padme Hum", "Many arms (thousand-armed form)"],
+  "family": [
+    {
+      "relation": "Buddha of his lotus family",
+      "name": "Amitabha",
+      "slug": "amitabha"
+    },
+    {
+      "relation": "Fellow bodhisattva",
+      "name": "Manjushri",
+      "slug": "manjushri"
+    },
+    {
+      "relation": "Said in a story to arise from his tears",
+      "name": "Tara",
+      "slug": "tara"
+    }
+  ],
+  "texts": [
+    "Lotus Sutra, chapter 25",
+    "Karandavyuha Sutra",
+    "Heart Sutra",
+    "Nilakantha Dharani Sutra"
+  ],
+  "places": [
+    "Potala Palace, Lhasa",
+    "Mount Putuo, Zhejiang",
+    "Mount Potalaka (legendary)",
+    "Mathura",
+    "Dharamshala"
+  ],
+  "festivals": ["Guanyin days, 19th of lunar months 2, 6 and 9"],
+  "facts": [
+    {
+      "text": "The name Avalokiteshvara is generally read as 'the lord who looks down', but many scholars think an older form, Avalokitasvara, meant 'the one who perceives sound'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Chinese legend from the Precious Scroll of Fragrant Mountain tells of Princess Miaoshan, who refused a rich marriage, became a nun, and is said to be Guanyin's earthly form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Chapter 25 of the Lotus Sutra lists 33 forms in which Avalokiteshvara can appear, including female ones, and it is often read alone as a separate text.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sanjusangen-do temple in Kyoto holds a thousand life-size statues of the Thousand-Armed Kannon, standing in rows on both sides of a large seated Kannon carved by the sculptor Tankei.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sanj%C5%ABsangen-d%C5%8D",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The camera company Canon took its name from Kannon, the Japanese form of Guanyin; an early spelling of the company name was Kwanon.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tibet the mantra is carved on stones, painted on hillsides, and printed on prayer flags and wheels, so it appears all over the landscape.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Om_mani_padme_hum",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Karandavyuha, a Buddhist text of about the 4th to 5th century CE, describes the sun and moon coming from his eyes, the wind from his mouth and the earth from his feet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tibetan images sometimes show a deer-skin over his shoulder, perhaps recalling the Ruru Jataka, where the bodhisattva is a golden deer who saves a drowning man and moves a king to ban hunting.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He is the one Mahayana figure that ordinary Theravada Buddhists also worship; in Sri Lanka he is Natha-deva, whom many take to be the future Buddha Maitreya.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Tamil text called the Virasoliyam says the sage Agastya learned the Tamil language from Avalokiteshvara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Potala Palace in Lhasa is named after Mount Potalaka, the legendary home of Avalokiteshvara; the 5th Dalai Lama began the present palace in 1645 and it rises 13 storeys.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Potala_Palace",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Japanese scholar Shu Hikosaka argues that legendary Mount Potalaka is Mount Pothigai on the Tamil Nadu-Kerala border, where Xuanzang recorded a temple to Avalokiteshvara.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Many Tibetan Buddhists regard the Dalai Lamas and the Karmapas, two lines of reincarnated teachers, as manifestations of Avalokiteshvara.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Heart Sutra, the most recited scripture in East Asian Buddhism, Avalokiteshvara is the speaker: he explains emptiness to the monk Shariputra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Heart_Sutra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Nilakantha Dharani, the Great Compassion mantra, is one of the most popular chants in East Asia; in the Song dynasty the monk Siming Zhili built a repentance ceremony around it, still performed today.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Early Chinese images of this bodhisattva looked masculine, even with a light moustache; from about the 12th century, a gentle white-robed woman became the usual look.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Ming-era tale tells of a clever parrot who mourned its parents; Guanyin, moved by its devotion, let them be reborn in the Pure Land.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Journey to the West, Guanyin appears as the Fish Basket form, a fisherwoman who uses her basket to capture a sea demon.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Japanese Christians who had to hide their faith used statues of Jibo Kannon, Kannon holding a child, as a quiet stand-in for Mary and Jesus.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Nepal he is called Seto Machindranath, the 'White Fish Lord', a name tied to the Hindu saint Matsyendranath; his main temple there stands at Jana Bahal.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chinese art often shows Guanyin standing on a dragon beside a white cockatoo, flanked by two child attendants, Longnu and Shancai, who joined her at Mount Putuo.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Guanyin",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Chinese traveller Faxian saw monks making offerings to Avalokiteshvara at Mathura around 400 CE, and in the 7th century Xuanzang saw his statues honoured by kings, monks and ordinary people.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Avalokiteshvara's name roughly mean?",
+      "options": [
+        "The lord who looks down",
+        "The king of the lions",
+        "The teacher of the stars",
+        "The keeper of the mountain"
+      ],
+      "answer": 0,
+      "why": "The name is usually read as the lord who looks down, meaning someone who watches over beings with care."
+    },
+    {
+      "q": "What do Tibetans call Avalokiteshvara?",
+      "options": ["Tara", "Chenrezig", "Jizo", "Manjushri"],
+      "answer": 1,
+      "why": "Chenrezig is the Tibetan name for Avalokiteshvara."
+    },
+    {
+      "q": "In the story, how many arms did Amitabha give him after he broke?",
+      "options": ["Four", "A hundred", "A thousand", "Eight"],
+      "answer": 2,
+      "why": "The tale gives him eleven heads and a thousand arms so he can help many beings at once."
+    },
+    {
+      "q": "Which Lhasa landmark is named after his legendary mountain home?",
+      "options": ["Potala Palace", "Norbulingka", "Jokhang Temple", "Sera Monastery"],
+      "answer": 0,
+      "why": "Potala comes from Potalaka, the mountain home of Avalokiteshvara in Buddhist tradition."
+    }
+  ],
+  "related": [
+    "manjushri",
+    "tara",
+    "amitabha",
+    "vajrapani",
+    "kshitigarbha",
+    "samantabhadra",
+    "gautama-buddha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Avalokiteshvara",
+    "mantra": "https://en.wikipedia.org/wiki/Om_mani_padme_hum",
+    "potala": "https://en.wikipedia.org/wiki/Potala_Palace",
+    "dalailama": "https://en.wikipedia.org/wiki/Dalai_Lama",
+    "guanyin": "https://en.wikipedia.org/wiki/Guanyin"
+  },
+  "palette": {
+    "c1": "#cfe6ee",
+    "c2": "#f3e9d2"
+  },
+  "order": 1,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

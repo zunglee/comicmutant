@@ -1,0 +1,252 @@
+{
+  "slug": "tripurasura",
+  "name": "Tripurasura",
+  "aka": ["Tripura asuras", "Tripuram"],
+  "native": "त्रिपुरासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Three asura brothers who held three cities of gold, silver and iron",
+  "summary": "Tripurasura is the name for three asura brothers, sons of Tarakasura, who held three cities of gold, silver and iron until Shiva ended them with one arrow.",
+  "about": "Many Puranas tell of Tarakaksha, Kamalaksha and Vidyunmali, sons of Tarakasura, who did long penance. Brahma declined to give them immortality, so they asked for three cities, one of gold, one of silver and one of iron. The cities would join into a single fortress once in a thousand years, and only one arrow fired at that moment could destroy it. The builder Maya raised the cities. The gods asked Shiva for help, and Vishvakarma built a golden chariot for him. When the cities aligned, Shiva fired the Pashupata weapon and they burned. The oldest telling, in the Taittiriya Samhita, makes the arrow from Agni, Soma and Vishnu. Some tellings say Shiva did it with a smile, and in Nepal the tale is told in the Swasthani Brata Katha. The legend is remembered each Kartika full moon.",
+  "kidSummary": "Three asura brothers had three great cities, one of gold, one of silver and one of iron. They were safe unless the cities lined up, and only one special arrow could stop them. When that moment came, Shiva fired the arrow, and the cities were gone. People remember it by lighting lamps.",
+  "story": [
+    {
+      "title": "Three brothers",
+      "text": "Tarakaksha, Kamalaksha and Vidyunmali were sons of Tarakasura. They did long penance, and Brahma gave them a different boon in place of immortality."
+    },
+    {
+      "title": "Three cities",
+      "text": "They asked for cities of gold, silver and iron. Maya, the great builder, made them with palaces and flying vehicles."
+    },
+    {
+      "title": "The weakness",
+      "text": "Once in a thousand years the three cities would join into one. Only a single arrow at that moment could end them."
+    },
+    {
+      "title": "The gods ask Shiva",
+      "text": "The gods were worried and asked Shiva to help. Vishvakarma made a golden chariot with Brahma as charioteer."
+    },
+    {
+      "title": "The arrow",
+      "text": "Shiva waited for the cities to line up, then fired the Pashupata weapon."
+    },
+    {
+      "title": "Remembered by lamps",
+      "text": "The cities burned. People recall the day on Kartika full moon, when many lamps are lit."
+    }
+  ],
+  "teaches": [
+    "Patience and the right moment matter",
+    "Even great strength has a weak point",
+    "Light can mark the end of a hard time"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Three cities (Tripura)", "Single arrow"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Tarakasura",
+      "slug": "tarakasura"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Builder of the cities",
+      "name": "Maya"
+    }
+  ],
+  "texts": ["Taittiriya Samhita", "Shiva Purana", "Swasthani Brata Katha (Nepal)"],
+  "places": ["Varanasi (Dev Deepavali)"],
+  "festivals": ["Tripuri Purnima", "Dev Deepavali", "Kartika Purnima"],
+  "facts": [
+    {
+      "text": "In the Padma Purana, the fallen asuras kept coming back to life because a pool in Tripura had magical water, even after Nandi slew Vidyunmali.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "They did tapas for a hundred years on one leg, then for a thousand years living on air, then a thousand more standing on their heads.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Padma Purana, Shiva regretted that he had forgotten to shield Maya, his devotee. Nandi raced ahead of the arrow to warn Maya, who fled before the cities burned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Puranic telling Shiva first refused to join the gods, saying the asuras were doing nothing wrong, and agreed to act only after they said the brothers had turned away from righteousness.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the chariot story the earth is the chariot, the sun and moon are the wheels, Mount Meru is the bow, the serpent Vasuki the string and Vishnu the arrow.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Shiva's weight stalled the chariot, Vishnu in the form of a bull is said to have pushed it forward, then stayed on as the bull on its banner.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Taittiriya Samhita the gods make the arrow from Agni as the point, Soma as the socket and Vishnu as the shaft, and Rudra asks to be lord of animals before firing it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The scholar Stella Kramrisch reads the Tripura story as set inside the human body, where the asuras enter people and pride leads to anger, shameful behaviour and delusion.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Tamil literature Shiva destroys the three forts with only a smile, so he is called the lord who smiled the forts away.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On Dev Deepavali in Varanasi more than a million clay lamps, fixed and floating, light the ghats of the Ganges, and the custom of lighting them was first started at Dashashwamedh Ghat in 1991.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dev_Deepavali_%28Varanasi%29",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tripuri Purnima falls on the Kartika full moon. The gods are said to have declared it a festival of lights, Deva-Diwali, and it is counted among the major festivals of Shiva.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kartika_Purnima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the three cities fell, Shiva is said to have stood on the ruins and danced the tandava, according to the account of Tripurantaka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "From this story Shiva is called Tripurantaka, ender of Tripura, and Tripurari, foe of Tripura; the Pashupata weapon also earns him the name Pashupatinath, and the full-moon day is called Tripurari Purnima.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one telling the devas grew proud, thinking Shiva could not win without their chariot. He only smiled and the three cities burst into flames, and he then fired the arrow just to spare the gods embarrassment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripura_%28mythology%29",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Nepal's Swasthani Brata Katha the three asuras are named Maya, Tarakaksha and Bidyutaprabha, and the gods become parts of Shiva's chariot, much as in other tellings.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Brahma said he could not grant immortality, so the brothers asked for three forts that would line up only once in a thousand years and fall only to a single arrow shot at that exact moment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Each brother held one fort: Tarakaksha the golden one, Kamalaksha the silver and Vidyunmali the iron, all raised by the builder Maya.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The earliest form of Tripurantaka images is at Pattadakal, from the 6th to 7th century. Hoysala temples later show the cities as three circles, a style carried on in a mural at Hampi's Virupaksha temple.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On Kartika Purnima lights are floated on rivers in tiny boats and set under tulasi, fig and amla trees, and it is believed that fish, insects and birds who see the light attain salvation.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kartika_Purnima",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The story starts with revenge: the three brothers were sons of Taraka, who had been killed by Shiva's son Kartikeya, and in the Padma Purana they began their penance to Brahma after their father's death.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripurantaka",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What were the three cities made of?",
+      "options": [
+        "Gold, silver and iron",
+        "Wood, stone and glass",
+        "Mud, brick and straw",
+        "Ice, fire and water"
+      ],
+      "answer": 0,
+      "why": "Gold, silver and iron."
+    },
+    {
+      "q": "Who built the cities?",
+      "options": ["Vishvakarma", "Maya", "Brahma", "Garuda"],
+      "answer": 1,
+      "why": "The Danava builder Maya made them."
+    },
+    {
+      "q": "What destroyed the cities?",
+      "options": ["A flood", "A single arrow of Shiva", "A storm", "A curse by a sage"],
+      "answer": 1,
+      "why": "Shiva fired one arrow when they aligned."
+    },
+    {
+      "q": "Which festival remembers the story?",
+      "options": ["Tripuri Purnima", "Ganesh Chaturthi", "Raksha Bandhan", "Ugadi"],
+      "answer": 0,
+      "why": "It is linked to Tripuri Purnima, Deva-Diwali."
+    }
+  ],
+  "related": ["shiva", "tarakasura", "brahma", "vishvakarma", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tripurasura",
+    "kartika-purnima": "https://en.wikipedia.org/wiki/Kartika_Purnima",
+    "tripurantaka": "https://en.wikipedia.org/wiki/Tripurantaka",
+    "dev-deepavali": "https://en.wikipedia.org/wiki/Dev_Deepavali_(Varanasi)",
+    "en-wikipedia-org-wiki-dev-deepavali-28va": "https://en.wikipedia.org/wiki/Dev_Deepavali_%28Varanasi%29",
+    "en-wikipedia-org-wiki-tripura-28mytholog": "https://en.wikipedia.org/wiki/Tripura_%28mythology%29"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfd8e8",
+    "c2": "#f0e2c0"
+  },
+  "order": 500
+}

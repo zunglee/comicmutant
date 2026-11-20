@@ -1,0 +1,331 @@
+{
+  "slug": "karima-shapandar",
+  "name": "Karima Shapandar",
+  "realName": "Karima Shapandar",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "Marvel Comics",
+  "summary": "Marvel's Indian police detective turned Sentinel, later the X-Men ally Omega Sentinel. A human-machine hybrid whose story runs from Kolkata through Genosha to the anti-mutant group Orchis.",
+  "origin": "Karima was a detective in the Kolkata police, assigned to protect Neal Shaara, the police chief's son, and then helped him look for his missing brother Sanjit. Bastion's Prime Sentinels captured her and rebuilt her as an Omega Prime Sentinel. As her programming took hold she urged Neal to flee, and his mutant powers awoke. Charles Xavier and Magneto later freed her mind on Genosha, though her robotic body remained.",
+  "creators": ["Chris Claremont (writer)", "Brett Booth (artist)"],
+  "firstAppearance": {
+    "title": "X-Men Unlimited",
+    "issue": "#27",
+    "year": 2000
+  },
+  "powers": [
+    "Omega-Prime Sentinel nanite body: superhuman strength, speed, reflexes, endurance",
+    "Flight and adaptive regeneration",
+    "Retractable weapons: energy blasts, electrostatic poles, microwave emitters",
+    "Limited technopathy and control over nanites in others' blood",
+    "Built-in life-support systems",
+    "Trained police detective skills"
+  ],
+  "affiliations": ["X-Men", "Excalibur", "Marauders (possessed)", "Acolytes", "Orchis"],
+  "storyline": [
+    {
+      "era": "Debut",
+      "years": "2000",
+      "title": "A Kolkata detective",
+      "beat": "Karima helps Neal Shaara search for his brother, is captured by Bastion's forces and is turned into an Omega Prime Sentinel."
+    },
+    {
+      "era": "Genosha",
+      "years": "2000s",
+      "title": "A mind restored",
+      "beat": "Xavier and Magneto disable her programming and return her thoughts on Genosha. She stays as a police officer and later fights the Sugar Man alongside Callisto."
+    },
+    {
+      "era": "Possession",
+      "years": "2000s",
+      "title": "Malice and the Acolytes",
+      "beat": "The Marauders' Malice takes her over, she forgets it afterwards and then joins the Acolytes."
+    },
+    {
+      "era": "San Francisco",
+      "years": "2010s",
+      "title": "Fables of the Reconstruction",
+      "beat": "While helping rebuild San Francisco she is overwhelmed by her programming and attacks Hellion and Hope Summers, and is left in a coma."
+    },
+    {
+      "era": "House of X",
+      "years": "2019",
+      "title": "Machines of the future",
+      "beat": "House of X shows an Omega Sentinel among the machines of a future a hundred years ahead, where surviving mutants try to draw her out."
+    },
+    {
+      "era": "Orchis",
+      "years": "Orchis era",
+      "title": "Human, then Sentinel again",
+      "beat": "After the entity Arkea is purged she loses her Sentinel enhancements; later her programming returns and she joins Orchis, the group against mutants."
+    },
+    {
+      "era": "Orchis",
+      "years": "Orchis era",
+      "title": "A future self's mission",
+      "beat": "A future Karima's mind and memories are sent back. She joins Orchis and pushes Nimrod's creation forward, hoping to stop her own bleak future."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "myth",
+      "text": "Karima chose to become a Sentinel to hunt mutants.",
+      "truth": "Bastion's forces captured her and rebuilt her against her will; she told Neal to run as the programming took hold.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Wikipedia lists her as a human and Sentinel hybrid, with alliances ranging from the X-Men to Orchis.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Her Wikipedia profile lists teleportation and technoforming among her powers, alongside flight and retractable weapons.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Besides Omega Sentinel, she also goes by the alias Malice, the name of the spirit that possessed her.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "She has appeared as a playable character in Marvel Snap and Marvel Strike Force.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In which issue did Karima Shapandar debut?",
+      "options": ["X-Men Unlimited #27", "Uncanny X-Men #1", "Excalibur #3", "New Mutants #98"],
+      "answer": 0,
+      "why": "She first appeared in X-Men Unlimited #27 in June 2000."
+    },
+    {
+      "q": "What was Karima's job before she became a Sentinel?",
+      "options": ["Journalist", "Police detective", "Pilot", "Scientist"],
+      "answer": 1,
+      "why": "She was a detective in the Kolkata police."
+    },
+    {
+      "q": "Which villain converted her into a Prime Sentinel?",
+      "options": ["Bastion", "Magneto", "Sugar Man", "Hellion"],
+      "answer": 0,
+      "why": "Bastion's forces captured her and rebuilt her as an Omega Prime Sentinel."
+    },
+    {
+      "q": "Which two X-Men figures restored her mind on Genosha?",
+      "options": [
+        "Cyclops and Storm",
+        "Xavier and Magneto",
+        "Wolverine and Beast",
+        "Rogue and Gambit"
+      ],
+      "answer": 1,
+      "why": "Charles Xavier and Magneto disabled her programming."
+    }
+  ],
+  "rivals": [],
+  "allies": ["professor-x", "magneto", "thunderbird-neal-shaara"],
+  "theme": {
+    "palette": {
+      "c1": "#c0392b",
+      "c2": "#2c3e50",
+      "c3": "#f1c40f"
+    },
+    "motif": "tech",
+    "mood": "dark",
+    "tagline": "A detective rebuilt by machines, still choosing her own side."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+    "thunderbird": "https://en.wikipedia.org/wiki/Thunderbird_(Neal_Shaara)",
+    "zero_tolerance": "https://en.wikipedia.org/wiki/Operation:_Zero_Tolerance",
+    "biography": "https://uncannyxmen.net/node/32786",
+    "excalibur": "https://en.wikipedia.org/wiki/Excalibur_(comics)"
+  },
+  "timeline": [
+    {
+      "year": 2000,
+      "kind": "debut",
+      "title": "First appearance",
+      "note": "X-Men Unlimited #27 (June 2000) introduces the Kolkata detective, created by Chris Claremont and Brett Booth."
+    },
+    {
+      "year": 2004,
+      "kind": "turn",
+      "title": "Genoshan Excalibur",
+      "note": "In Excalibur vol. 3 (2004), she is among the Genosha team working with Xavier and Magneto, who restore her mind.",
+      "with": "professor-x"
+    },
+    {
+      "year": 2019,
+      "kind": "turn",
+      "title": "House of X",
+      "note": "House of X (2019) shows an Omega Sentinel among a future's machines. She is later shown joining Orchis, the group against mutants."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Marvel Legends figure",
+      "note": "Karima gets an action figure in the 2022 Marvel Legends wave themed on House of X and Powers of X."
+    }
+  ],
+  "facts": [
+    {
+      "text": "She is a detective of the Kolkata police, introduced as the bodyguard of Neal Shaara, the younger son of the city's police chief.",
+      "kind": "origin",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 7
+    },
+    {
+      "text": "Her origin ties into the 1997 crossover Operation: Zero Tolerance, in which Bastion's operatives, seen capturing homeless people in India, convert her into a Prime Sentinel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Operation:_Zero_Tolerance",
+      "interest": 7
+    },
+    {
+      "text": "Bastion made Neal's own brother Sanjit, already turned into a Prime Sentinel, start the machine that transformed Karima. Neal's hidden mutant powers burst out at the same moment.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 8
+    },
+    {
+      "text": "As her programming took over she told Neal to escape; Sanjit, himself made a Prime Sentinel, turned on Bastion and was fatally wounded.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 7
+    },
+    {
+      "text": "Once freed from Stripmine's raiders, she put the Dark Beast and his allies under arrest and happily declared herself Genosha's new sheriff.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 8
+    },
+    {
+      "text": "Mortally wounded fighting the Sugar Man alongside Callisto, she was rebuilt by her own Sentinel nanomachines, proving she was no longer fully human.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 9
+    },
+    {
+      "text": "Her nanites let her control machines to a limited degree, and even control the nanites circulating in other people's blood.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 9
+    },
+    {
+      "text": "Magneto used magnetism to wipe out her Sentinel programming while Xavier used his telepathy to strengthen her human mind. Between them they gave back her free will.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 8
+    },
+    {
+      "text": "During the San Francisco rebuilding after Bastion's attacks she partnered with Danger, then her programming took over and she attacked Hellion and Hope Summers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    },
+    {
+      "text": "After the entity Arkea was purged from her body she lost all Sentinel enhancements and became fully human for a time.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    },
+    {
+      "text": "As Genosha's new sheriff she offered her prisoners, the Magistrates, a deal: help rebuild the island or stay in her jail. The Sugar Man killed the Magistrates on their first supply run.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 7
+    },
+    {
+      "text": "A future Karima's mind and memories are sent back in time. She joins Orchis and tries to bring the Sentinel Nimrod about sooner, hoping to prevent her own grim future.",
+      "kind": "story",
+      "source": "https://www.cbr.com/xmen-comics-orchis-founders-history/",
+      "interest": 9
+    },
+    {
+      "text": "When terrorists under Viper attacked neighbouring Zanzibar, Karima fought beside its president, Askari, and saved his life, earning a commendation from him.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 7
+    },
+    {
+      "text": "House of X, published in 2019, includes a future set a hundred years ahead, where mutant survivors try to lure out Omega Sentinel and the rest of the machines.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/House_of_X_and_Powers_of_X",
+      "interest": 7
+    },
+    {
+      "text": "After the Sugar Man fight she and Callisto led Genosha's rebuilding for months, while Xavier and Magneto stepped aside to help Wanda Maximoff recover from a breakdown.",
+      "kind": "story",
+      "source": "https://uncannyxmen.net/node/32786",
+      "interest": 8
+    },
+    {
+      "text": "During her San Francisco glitch her human side broke through and she asked Hellion to stop her. He injured her badly with his telekinesis and she was left in a coma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 8
+    },
+    {
+      "text": "Karima got a Marvel Legends action figure in the 2022 wave themed on House of X and Powers of X.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    },
+    {
+      "text": "Omega Sentinel is playable in games including Marvel Contest of Champions, Marvel Strike Force and Marvel Snap, and is a boss in Marvel Avengers Alliance.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    },
+    {
+      "text": "Writers pair her with the giant Sentinel Nimrod inside Orchis, and she has been his constant companion since he was introduced there.",
+      "kind": "story",
+      "source": "https://www.cbr.com/xmen-comics-orchis-founders-history/",
+      "interest": 8
+    },
+    {
+      "text": "Wikipedia's character box lists flight, technoforming and teleportation among her powers, along with weapons that retract into her body.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    },
+    {
+      "text": "Her first mission began when Neal Shaara's brother Sanjit vanished while researching a string of disappearances in Kolkata. Karima helped Neal search for him.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Karima_Shapandar",
+      "interest": 7
+    }
+  ],
+  "heat": 38,
+  "kidSummary": "Karima Shapandar is a brave police detective from Kolkata. Villains turn her into a half-machine Sentinel (a robot built to hunt mutants), but Professor X and Magneto help her get her free will back. She stays a protector, though her story takes some surprising turns.",
+  "story": [
+    {
+      "title": "A detective in Kolkata",
+      "text": "Karima is a police detective who protects Neal Shaara and helps him look for his missing brother."
+    },
+    {
+      "title": "Captured by Bastion",
+      "text": "Bastion's Sentinels capture her and rebuild her as a half-machine Omega Prime Sentinel."
+    },
+    {
+      "title": "Run, Neal!",
+      "text": "As the machine programming takes hold, she tells Neal to flee, and his own mutant powers wake up."
+    },
+    {
+      "title": "A mind restored",
+      "text": "On Genosha, Xavier and Magneto free her thoughts from the programming, though her robot body stays."
+    },
+    {
+      "title": "Genosha's sheriff",
+      "text": "Karima becomes Genosha's sheriff and helps defend the island and its neighbours."
+    },
+    {
+      "title": "A twist in time",
+      "text": "Later stories bring a future version of her into the fight over Orchis (a group that hunts mutants) and Nimrod, a huge mutant-hunting Sentinel robot."
+    }
+  ]
+}

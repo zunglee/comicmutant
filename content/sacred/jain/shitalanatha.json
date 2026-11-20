@@ -1,0 +1,188 @@
+{
+  "slug": "shitalanatha",
+  "name": "Shitalanatha",
+  "aka": ["Shitalnath", "Sitalanatha"],
+  "native": "शीतलनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "Tenth Tirthankara of the present age",
+  "summary": "Shitalanatha, whose name means \"the cool one\", is the tenth Jain Tirthankara. A legend says his mother's touch cooled his father's fever before he was born.",
+  "about": "Jain texts count Shitalanatha as the tenth Tirthankara of this descending age. He is said to have been born at Bhaddilpur to King Dridharatha and Queen Sunanda (Nanda in some lists), of the Ikshvaku family. His name means \"cool\", and a Jain legend says his mother's touch cured the king's fever, which physicians could not treat. Other explanations say he cooled the heat of people's sorrow. Tradition says he ruled for a time, renounced the world, gained omniscience and taught for many years. Hemachandra describes his teaching as ending a long gap in which the community had faded. Jains believe he was liberated on Mount Shikharji. The main shrine of the Kolkata Jain Temple, built in 1867, holds his image.",
+  "kidSummary": "Shitalanatha means \"the cool one\". Jain stories say that when his mother touched his father, who had a high fever, the heat went away. He is the tenth Tirthankara and is remembered for his calm.",
+  "story": [
+    {
+      "title": "A king with a fever",
+      "text": "Jain tradition says King Dridharatha once had a fever that no doctor could cure."
+    },
+    {
+      "title": "A cooling touch",
+      "text": "When the queen, who was expecting a baby, touched him, the heat went away. People thought the coming child had a cooling gift."
+    },
+    {
+      "title": "The cool one",
+      "text": "The boy was named Shitalanatha, \"lord of coolness\". Others say the name means he soothes the heat of sorrow."
+    },
+    {
+      "title": "The quiet path",
+      "text": "He ruled for a time. Then he chose to become a monk, and Jains believe he gained perfect knowledge."
+    },
+    {
+      "title": "Mount Shikharji",
+      "text": "After teaching many people, he is said to have reached liberation on Mount Shikharji."
+    }
+  ],
+  "teaches": ["Calm can heal", "Kindness that soothes sorrow", "Letting go of power and comfort"],
+  "symbol": "mountain",
+  "emblems": [
+    "Shrivatsa (Svetambara)",
+    "Svastika (Digambara), or peepal / wishing tree in some texts",
+    "Golden colour"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Dridharatha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Sunanda (Nanda)"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Pushpadanta",
+      "slug": "pushpadanta"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Shreyanasanatha",
+      "slug": "shreyanasanatha"
+    }
+  ],
+  "texts": ["Jinaraja's Caturvimsatijinagita", "Triṣaṣṭiśalākāpuruṣacaritra"],
+  "places": ["Bhaddilpur", "Sammed Shikharji", "Calcutta Jain Temple (Kolkata)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "A Jain legend says that while he was still in the womb, his mother's touch cooled his father's fever, which physicians had failed to cure.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/shitalanatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Kolkata Jain Temple (Parshwanath Temple), built in 1867 by Rai Badridas, has a main shrine for Shitalanatha, and his marble image is said to have a diamond-set forehead.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Calcutta_Jain_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A ghee lamp in the sanctum of the Kolkata Jain Temple is said to have burned without a break since the temple opened in 1867.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Calcutta_Jain_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sources differ on his Digambara emblem. Jainpedia says the svastika; some texts name the peepal or wishing tree. Svetambaras use the auspicious shrivatsa. Jainpedia adds he gained omniscience under a fig tree after three months of wandering.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Hindu goddess Shitala shares his Sanskrit name, meaning coolness, and is linked with fevers and pox sores. It is a shared word, and it echoes the legend of the fever he cooled before birth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Shitala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His life is nearly eventless, and a 9th-century account gives it one page. Svetambaras say he married and ruled, while Digambaras hold that no Tirthankara took up household or royal duties.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After a two-day fast he broke it at the house of King Punarvasu in Rishtapura. He then wandered for three months before gaining omniscience, says Jainpedia.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A statue of him in Mathura sits in the lotus pose beneath a golden parasol, an umbrella that marks royal status.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His attendant spirit, the yaksha, is named Brahma, a name shared with a Hindu god. His female attendant, the yakshi, is Ashoka in Svetambara lists and Manavi in Digambara lists.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jainpedia notes that Svetambara texts give his name no dream or craving, only his mother's cooling touch. Mother's name differs too: Nanda in Svetambara sources and Sunanda in Digambara sources.",
+      "kind": "family",
+      "source": "https://jainpedia.org/themes/people/jina/sitala",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Shitalanatha mean?",
+      "options": ["Lord of coolness", "Lord of peace", "Lord of the infinite", "Lord of the sea"],
+      "answer": 0,
+      "why": "Shitala means cool."
+    },
+    {
+      "q": "In the legend, what did his mother's touch do?",
+      "options": [
+        "Healed a broken leg",
+        "Lit a lamp",
+        "Cooled his father's fever",
+        "Stopped the rain"
+      ],
+      "answer": 2,
+      "why": "It cured the king's fever."
+    },
+    {
+      "q": "Which Kolkata temple has an image of him as its main deity?",
+      "options": ["Dakshineswar", "Calcutta Jain Temple", "Kalighat", "Belur Math"],
+      "answer": 1,
+      "why": "Seth Badridas built it in 1867."
+    },
+    {
+      "q": "In his sermon, closing the channels of karma is compared to what?",
+      "options": [
+        "Shutting the doors of a house so dust cannot enter",
+        "Lighting a lamp in a temple",
+        "Planting a banyan tree",
+        "Ringing a bell"
+      ],
+      "answer": 0,
+      "why": "Hemachandra pairs it with sealing a boat's cracks so water stays out."
+    }
+  ],
+  "related": ["pushpadanta", "shreyanasanatha", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shitalanatha",
+    "wisdomlib": "https://www.wisdomlib.org/definition/shitalanatha",
+    "shikharji": "https://en.wikipedia.org/wiki/Shikharji",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213186.html",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/sitala",
+    "kolkata-temple": "https://en.wikipedia.org/wiki/Calcutta_Jain_Temple",
+    "chaubisi": "https://artsandculture.google.com/asset/chaubisi-of-sitalanatha/PAFk7dmwLyLf3A"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#d9edf0",
+    "c2": "#adcfd6"
+  },
+  "order": 10
+}

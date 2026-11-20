@@ -1,0 +1,243 @@
+{
+  "slug": "akka-mahadevi",
+  "name": "Akka Mahadevi",
+  "aka": ["Mahadeviyakka", "Akka"],
+  "native": "ಅಕ್ಕ ಮಹಾದೇವಿ",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "12th-century Kannada mystic poet devoted to Shiva",
+  "summary": "Akka Mahadevi was a 12th-century Kannada poet of the Veerashaiva movement. Her vachanas, signed with the name Chennamallikarjuna, are loved across Karnataka.",
+  "about": "Akka Mahadevi lived in the 12th century, roughly 1130 to 1160, and was born in Udutadi near present-day Shivamogga, Karnataka. She is counted among the leading women poets of the Sharana movement and joined the debates at the Anubhava Mantapa in Kalyana. Her chosen deity was Chenna Mallikarjuna, a form of Shiva, and she signed her vachanas with that name. Accounts of her life, written later, say a local king wished to marry her and that she left his court; the versions differ on whether any marriage took place. Tradition says she spent her last years in the Srisailam hills. Scholars today often read her as a pioneer of women's voices in Indian devotion.",
+  "kidSummary": "Akka Mahadevi was a poet in Karnataka about 900 years ago. She loved Shiva so much that she called him her own beloved and wrote songs to him in Kannada. People respectfully called her Akka, which means elder sister, and many in Karnataka still know her name today.",
+  "story": [
+    {
+      "title": "A girl of Udutadi",
+      "text": "Akka Mahadevi was born in Udutadi, a village in Karnataka. Her family was devoted to Shiva, and she grew up loving him above everything."
+    },
+    {
+      "title": "A king wishes to marry her",
+      "text": "Old accounts say a local king wanted to marry her. She agreed only on conditions, and Harihara says the king broke them, so she left."
+    },
+    {
+      "title": "Leaving the palace",
+      "text": "The stories say she left the court and gave up her belongings to follow her devotion. Her songs say her heart already belonged to Shiva."
+    },
+    {
+      "title": "Among the Sharanas",
+      "text": "She reached Kalyana, where Basava and Allama Prabhu gathered thinkers. She joined their talks, and they respectfully called her Akka."
+    },
+    {
+      "title": "The Srisailam hills",
+      "text": "Tradition says she spent her last days in the forests of Srisailam. Her vachanas, signed Chennamallikarjuna, live on in Kannada."
+    }
+  ],
+  "teaches": [
+    "Devotion can be a free, personal journey",
+    "A woman's voice can lead and teach",
+    "Let go of things that hold you back"
+  ],
+  "symbol": "flame",
+  "emblems": ["Jasmine-white Chennamallikarjuna (her signature name)"],
+  "family": [
+    {
+      "relation": "Chosen deity",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Fellow Sharana",
+      "name": "Basava",
+      "slug": "basava"
+    }
+  ],
+  "texts": ["Vachanas (about 350 to 430 attributed)", "Mantrogopya", "Yogangatrividhi"],
+  "places": ["Udutadi", "Basavakalyan (Kalyana)", "Srisailam"],
+  "festivals": [],
+  "related": ["basava", "shiva", "lal-ded", "andal", "meera-bai"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+    "vachana": "https://en.wikipedia.org/wiki/Vachana_sahitya",
+    "anubhava_mantapa": "https://en.wikipedia.org/wiki/Anubhava_Mantapa"
+  },
+  "palette": {
+    "c1": "#e6d3d8",
+    "c2": "#c9d8c5"
+  },
+  "years": "c. 1130–1160",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "What does the title Akka mean?",
+      "options": ["Elder sister", "Queen", "Poet", "Teacher of kings"],
+      "answer": 0,
+      "why": "Akka is an honorific that can mean elder sister or mother."
+    },
+    {
+      "q": "Which name did she sign on her vachanas?",
+      "options": ["Kudala Sangama Deva", "Guheshwara", "Chennamallikarjuna", "Venkateswara"],
+      "answer": 2,
+      "why": "Chennamallikarjuna is her signature name for Shiva."
+    },
+    {
+      "q": "Which language did she write in?",
+      "options": ["Tamil", "Kannada", "Sanskrit", "Hindi"],
+      "answer": 1,
+      "why": "She wrote vachanas in Kannada."
+    },
+    {
+      "q": "Where did she debate with other Sharanas?",
+      "options": ["Hampi", "Mysuru", "Anubhava Mantapa", "Taxila"],
+      "answer": 2,
+      "why": "She took part in discussions at the Anubhava Mantapa."
+    },
+    {
+      "q": "Where does tradition say she spent her last years?",
+      "options": ["Srisailam hills", "The Thar desert", "Kashmir valley", "The Sundarbans"],
+      "answer": 0,
+      "why": "She is believed to have lived in the Srisailam hills."
+    }
+  ],
+  "facts": [
+    {
+      "text": "She signed her poems Chennamallikarjuna, which poet A. K. Ramanujan translated as 'Lord white as jasmine'; Tharu and Lalita read it more literally as 'Mallika's beautiful Arjuna'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A legend says her hair grew to cover her body, which she said shielded others from temptation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one song she says she needs very little: alms for hunger, any pond or stream for thirst, a ruined shrine for a bed, and Shiva as her only companion.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One of her vachanas sets out three conditions for marrying the king, including the freedom to spend her time in devotion and in talk with scholars and holy people rather than with him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a traditional account, Allama Prabhu questioned her at length at the Anubhava Mantapa, starting with who her husband was; she said it was Chennamallikarjuna, and after the exchange the Sharanas praised her spiritual height.",
+      "kind": "story",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Near Srisailam, the Akka Mahadevi caves lie across the Krishna river, reached by boat, and are named after her because she is said to have meditated there; a cave about 150 metres long leads to a dark inner shrine.",
+      "kind": "place",
+      "source": "https://www.deccanchronicle.com/southern-states/telangana/akka-mahadevi-caves-draw-pilgrims-adventure-seekers-to-nallamalas-riverine-rockscape-1959796",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The title Akka, 'elder sister' or 'mother', was given to her by Sharanas such as Basavanna, Siddharama and Allama Prabhu, a sign of how highly they rated her at the Anubhava Mantapa.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her non-conformist ways troubled the conservative society of her day; even her guru Allama Prabhu is said to have found it hard to bring her into the gatherings at the Anubhava Mantapa.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Udutadi, her birthplace near Shivamogga, was the capital of King Kaushika in the 12th century; it has an old fort and a temple built in her memory.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Udutadi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 2010 a 13th-century carving near Hospet in Karnataka was found that is believed to show Akka Mahadevi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a traditional dialogue with Allama at Kalyana, she answered his doubts with pictures: sandalwood still smells sweet cut into pieces, gold still shines when heated, and sugarcane stays sweet when crushed.",
+      "kind": "text",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Kalyana she is said to have found her Kailasa, the heaven of Shiva, not on a mountain but in the courtyards of the Sharanas.",
+      "kind": "story",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In her cave in the Kadali forest she is said to have seen the divine everywhere: every tree a wish-granting tree, every water nectar, every pebble a glowing gem.",
+      "kind": "story",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Thanking the Sharanas, she told them she could no longer tell master from disciple, because they were like water mixed with milk.",
+      "kind": "text",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "English readers first met her vachanas through A. K. Ramanujan's book Speaking of Siva, and a new translation by Vanamala Vishwanatha is being prepared for the Murty Classical Library.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She called enlightenment arivu, the Kannada word for awareness, and her poems say the seeker must kill the 'I' and conquer desires and the senses.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In one verse she says relationships with mortal men are like thorns hidden under smooth leaves: they look soft but cannot be trusted.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After testing her, Allama Prabhu is recorded as saying her body looked like a woman's but her mind was merged with God.",
+      "kind": "story",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Harihara's account, when King Kaushika broke her conditions she left the palace and walked to Srisailam, probably stopping at Basavakalyana to meet Allama and Basava.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Akka_Mahadevi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Even in the forest of Kadali she is said to have been visited by her parents and by Kaushika, her former husband.",
+      "kind": "story",
+      "source": "https://lingayatreligion.com/Sharanaru/Akkamahadevi.htm",
+      "interest": 7,
+      "kid": false
+    }
+  ]
+}

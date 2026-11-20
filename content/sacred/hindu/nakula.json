@@ -1,0 +1,249 @@
+{
+  "slug": "nakula",
+  "name": "Nakula",
+  "aka": ["Granthika", "Jayasena", "Madreya", "Ashvineya"],
+  "native": "नकुल",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Fourth Pandava, horse expert and swordsman",
+  "summary": "Nakula is one of the twin younger Pandavas in the Mahabharata, a graceful swordsman known for his skill with horses, his good looks and his service as a stable keeper in disguise.",
+  "about": "In the Mahabharata, Nakula and his twin Sahadeva are the sons of Madri, Pandu's second wife, and of the Ashvins, the divine physician twins. After Pandu's death and Madri's passing, Kunti raises the twins with her own sons. Nakula trains under Drona and becomes a fine swordsman and charioteer, and he is especially linked with horses and their care. Yudhishthira sends him west to bring kingdoms into the Rajasuya, and in the hidden year he works in King Virata's stables as Granthika. He fights bravely at Kurukshetra, and later becomes king of the northern Madra lands. In the epic's last journey, he is said to be the second brother to fall, after Sahadeva and Draupadi, and Yudhishthira names his pride in his beauty as the reason.",
+  "kidSummary": "Nakula is one of the twin brothers among the five Pandavas in the Mahabharata. He is a skilled swordsman and loves horses so much that he even works as a horse keeper in disguise. His name is often linked with the mongoose, a small, quick animal.",
+  "story": [
+    {
+      "title": "Twin brothers",
+      "text": "Nakula and his twin Sahadeva are born to Madri, who calls on the Ashvins, the twin healers of the gods. After their parents are gone, Kunti raises them with her own sons."
+    },
+    {
+      "title": "A swordsman and horse lover",
+      "text": "Under Drona, Nakula learns archery and swordsmanship. He also becomes known for training horses and for knowing how to cure their illnesses."
+    },
+    {
+      "title": "Journey to the west",
+      "text": "When Yudhishthira prepares his big Rajasuya ceremony, Nakula is sent to the western lands and brings back gifts and promises of friendship from many kings."
+    },
+    {
+      "title": "The stable keeper",
+      "text": "In the last hidden year, Nakula joins King Virata's palace as Granthika and looks after the royal horses without anyone guessing who he is."
+    },
+    {
+      "title": "On the final road",
+      "text": "On the walk toward the Himalayas, Nakula falls after Draupadi and Sahadeva. The epic says he was proud of his handsome looks, a lesson about humility."
+    }
+  ],
+  "teaches": [
+    "Kindness to animals",
+    "Skill grows with care and practice",
+    "Humility about looks and talents"
+  ],
+  "symbol": "sword",
+  "emblems": ["Sword", "Red deer banner", "Conch Sughosha"],
+  "family": [
+    { "relation": "Father (by tradition)", "name": "Ashvins", "slug": "ashvins" },
+    { "relation": "Mother", "name": "Madri", "slug": "madri" },
+    { "relation": "Twin brother", "name": "Sahadeva", "slug": "sahadeva" },
+    { "relation": "Foster mother", "name": "Kunti", "slug": "kunti" },
+    { "relation": "Wife", "name": "Draupadi", "slug": "draupadi" },
+    { "relation": "Uncle", "name": "Shalya", "slug": "shalya" },
+    { "relation": "Eldest brother", "name": "Yudhishthira", "slug": "yudhishthira" }
+  ],
+  "texts": ["Mahabharata", "Javanese wayang tales"],
+  "places": ["Shatashringa", "Virata's capital", "Rohitaka"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Nakula was known as an expert in horse breeding and training. The epic says he claimed to cure every illness a horse could have.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a Tamil Vaishnava tale outside the critical epic, Nakula mocked an old woman's looks. Nappinnai told him to apologise but he refused. After Karna humbled him in war, Krishna taught him that worth lies in character, and Nakula apologised.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One verse about the Rajasuya campaigns says Nakula's western expedition made even the Huns and the Chinese pay tribute.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8
+    },
+    {
+      "text": "On the 11th day of the war Nakula defeated Shalya and smashed his chariot. Shalya was his mother Madri's brother, so Nakula was fighting his own uncle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a child at Shatashringa, Nakula learned fencing and knife throwing from his father Pandu and from a hermit named Suka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the first day of the war Nakula beat Dushasana but spared his life, so that Bhima could keep his own oath against him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 8
+    },
+    {
+      "text": "On the night of the 14th day Nakula defeated Shakuni, though it was his twin Sahadeva who later fulfilled a vow against the dice player.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "Nakula's chariot flag showed a red deer with a golden back, and his conch, blown with the others at the start of the war, was named Sughosha.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Besides Draupadi, Nakula married Karenumati, daughter of Shishupala of Chedi. His sons were Shatanika, by Draupadi, and Niramitra, by Karenumati.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "Before the war Nakula wanted Drupada to lead the Pandava army, while his twin Sahadeva wanted Virata. Yudhishthira and Arjuna chose Dhrishtadyumna instead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "Sent west for the Rajasuya, Nakula first attacked the mountain land of Rohitaka, then defeated peoples such as the Sivis, Trigartas, Malavas and Dasarnas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "Jatasura, who had lived among the Pandavas disguised as a Brahmin, carried off Nakula, Sahadeva, Draupadi and Yudhishthira. In the fight that followed, Nakula killed three warriors before Bhima ended it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "In King Virata's stables Nakula went by the name Granthika, and among themselves the Pandavas called him Jayasena.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Sanskrit the word nakula means mongoose, or mongoose-coloured, which is why the little animal is linked with his name.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Leaving for exile, each Pandava chose a sign: Nakula covered himself in ashes, Sahadeva smeared mud, Arjuna scattered sand for the arrows to come, Bhima stretched out his arms and Yudhishthira covered his face.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Nakula was the first brother to reach the Yaksha's lake and fall. Yudhishthira later chose him to revive, so that Madri, like Kunti, would still have a living son.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the final climb Nakula was the third of the party to fall, after Draupadi and Sahadeva. Yudhishthira said he was proud of his looks and believed nobody was his equal in beauty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahaprasthanika_Parva",
+      "interest": 8
+    },
+    {
+      "text": "At Mahabalipuram, the Nakula Sahadeva Ratha, a Pallava-era carved stone shrine with a stone elephant beside it, is named for the twins, though the five rathas have no real link to the epic's heroes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Pancha_Rathas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Yudhishthira ascended to heaven, Nakula was seen there among the Ashvins, his divine fathers, together with his twin Sahadeva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nakula",
+      "interest": 7
+    },
+    {
+      "text": "When Trigarta's king Susharma attacked King Virata, Nakula was one of four Pandavas who helped Virata beat him, while Arjuna alone drove back the Kauravas who had stolen sixty thousand cattle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sahadeva",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal does the name Nakula refer to?",
+      "options": ["Mongoose", "Horse", "Deer", "Peacock"],
+      "answer": 0,
+      "why": "Nakula is commonly read as mongoose."
+    },
+    {
+      "q": "What job did Nakula do at King Virata's palace?",
+      "options": ["Cook", "Cowherd", "Horse keeper", "Dance teacher"],
+      "answer": 2,
+      "why": "He took care of the royal horses as Granthika."
+    },
+    {
+      "q": "Who is Nakula's twin brother?",
+      "options": ["Bhima", "Sahadeva", "Arjuna", "Karna"],
+      "answer": 1,
+      "why": "Nakula and Sahadeva are the twin sons of Madri."
+    },
+    {
+      "q": "Who was the first brother to reach the lake in the Yaksha story?",
+      "options": ["Nakula", "Bhima", "Arjuna", "Sahadeva"],
+      "answer": 0,
+      "why": "Yudhishthira sent him to fetch water, and he drank without answering the crane."
+    },
+    {
+      "q": "Which divine twins are called Nakula's fathers?",
+      "options": ["Surya and Chandra", "Ashvins", "Vayu and Agni", "Indra and Varuna"],
+      "answer": 1,
+      "why": "The Ashvins are heavenly physicians."
+    },
+    {
+      "q": "What did Nakula cover himself with when the Pandavas left Hastinapura for exile?",
+      "options": ["Ashes", "Mud", "Sand", "A cloak"],
+      "answer": 0,
+      "why": "Each brother chose a different sign for the road ahead; Nakula chose ashes."
+    }
+  ],
+  "related": [
+    "sahadeva",
+    "madri",
+    "ashvins",
+    "yudhishthira",
+    "arjuna",
+    "bhima",
+    "draupadi",
+    "shalya"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nakula",
+    "yaksha": "https://en.wikipedia.org/wiki/Yaksha_Prashna",
+    "sahadeva": "https://en.wikipedia.org/wiki/Sahadeva",
+    "pandavas": "https://en.wikipedia.org/wiki/Pandavas",
+    "drona": "https://en.wikipedia.org/wiki/Drona",
+    "draupadi": "https://en.wikipedia.org/wiki/Draupadi",
+    "yudhishthira": "https://en.wikipedia.org/wiki/Yudhishthira",
+    "kunti": "https://en.wikipedia.org/wiki/Kunti",
+    "shalya": "https://en.wikipedia.org/wiki/Shalya",
+    "mahaprasthanika": "https://en.wikipedia.org/wiki/Mahaprasthanika_Parva",
+    "pancha": "https://en.wikipedia.org/wiki/Pancha_Rathas"
+  },
+  "depth": "full",
+  "palette": { "c1": "#b9d6c9", "c2": "#f1e7d3" },
+  "order": 4
+}

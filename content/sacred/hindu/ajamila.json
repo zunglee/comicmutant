@@ -1,0 +1,257 @@
+{
+  "slug": "ajamila",
+  "name": "Ajamila",
+  "aka": ["Ajamil", "Ajāmila"],
+  "native": "अजामिल",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Brahmin of Kanyakubja in the Bhagavata Purana",
+  "summary": "Ajamila is a learned Brahmin in the Bhagavata Purana who drifts into a wrong life, yet calls his youngest son Narayana at death. The Puranic tale says the name of Vishnu rescued him.",
+  "about": "In the Bhagavata Purana (Canto 6), Ajamila lives in Kanyakubja, today's Kannauj. He begins as a learned, truthful and gentle Brahmin, but the text says he later gives up his duties and his wife and lives a troubled life for many years. By the time the messengers of Yama come he is 88 years old. He has ten sons, and his youngest son is named Narayana, which is also a name of Vishnu. When Yama's messengers arrive, he calls his son's name in fear. The text says the servants of Vishnu then appear, stop the Yamadutas and argue about dharma. Ajamila is moved to repent, goes to Haridwar, and lives as a devotee. Vaishnava teachers read the story as showing the great power of the holy name.",
+  "kidSummary": "Ajamila is a man in an old Indian story who made many wrong choices for a long time. He loved his youngest son, named Narayana. When he was frightened at the end of his life, he called out for his son, and Narayana is also a name of Vishnu. The story says that this brought help, and Ajamila changed his ways.",
+  "story": [
+    {
+      "title": "A good young man",
+      "text": "Ajamila lives in the city of Kanyakubja. He is kind, truthful and learned, and he looks after his parents and teachers."
+    },
+    {
+      "title": "A long wrong turn",
+      "text": "Later he leaves his duties and makes poor choices. For many years he lives in a way he should not, until he is a very old man of 88."
+    },
+    {
+      "title": "Dear little Narayana",
+      "text": "He has many children, and he loves his youngest son, Narayana, most of all. He calls the boy's name all day."
+    },
+    {
+      "title": "A frightened call",
+      "text": "When Yama's messengers come, Ajamila is scared and calls out for Narayana. This is also a name of Vishnu, and Vishnu's servants appear."
+    },
+    {
+      "title": "A new path",
+      "text": "Ajamila feels sorry for his past, goes to Haridwar by the Ganga, and spends his last years in prayer."
+    }
+  ],
+  "teaches": [
+    "It is never too late to change",
+    "Good words and names have power",
+    "Being sorry is the first step to mending"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Name of Narayana", "Yama's noose (in the text)", "Haridwar on the Ganga"],
+  "family": [
+    {
+      "relation": "Youngest son",
+      "name": "Narayana"
+    },
+    {
+      "relation": "Judge of the dead whose messengers came",
+      "name": "Yama",
+      "slug": "yama"
+    },
+    {
+      "relation": "Lord whose servants came",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Told to Parikshit by",
+      "name": "Shuka",
+      "slug": "shuka"
+    }
+  ],
+  "texts": ["Bhagavata Purana, Canto 6 (chapters 1-3)"],
+  "places": ["Kanyakubja (modern Kannauj)", "Haridwar on the Ganga"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Yama's own servants ask him whether there is any ruler above him, after four radiant beings overruled his order to take Ajamila (Bhagavata 6.3).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/3/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ajamila was 88 when Yama's messengers came, and the verse says his youngest son, Narayana, was the last of ten sons and still a baby (Bhagavata 6.1.24).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/24/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ajamila was calling his little son to eat with him when the Yamadutas appeared, and he did not notice death approaching (Bhagavata 6.1.26).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/26/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Three fierce figures with twisted faces, hair standing on end and ropes in their hands came for him; the boy Narayana was playing a short way off when Ajamila, in tears, called out his name (Bhagavata 6.1.28-29).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/28-29/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata describes the Vishnudutas as young, with lotus-petal eyes, yellow silk, crowns and four arms holding weapons and a lotus, so bright that they light up the darkness around them (6.1.34-36).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/34-36/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yamadutas compare a living being to a silkworm trapped in its own cocoon, bound by the threads of its own actions.",
+      "kind": "symbol",
+      "source": "https://vedabase.io/en/library/sb/6/1/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says chanting a holy name burns away wrongs the way a fire burns dry grass, and works like medicine even if the patient does not understand it.",
+      "kind": "symbol",
+      "source": "https://vedabase.io/en/library/sb/6/2/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The text says ritual penances may end a wrong but not the wish to repeat it, while sincere devotion cleans the heart; Parikshit compares the first to an elephant dusting itself after a bath.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/6/1/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yamadutas argue that dharma is whatever the Vedas lay down, and that the sun, fire, sky, air, moon, day and night, the directions, water, earth, the demigods and the Supersoul all witness every deed (Bhagavata 6.1.40-42).",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/6/1/42/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After his rescue Ajamila left for Haridwar, took shelter in a Vishnu temple and practised devotion; the Bhagavata says he gave up his body on the Ganga's bank there and boarded a golden aircraft sent by the Vishnudutas to reach Vishnu's abode.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/2/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Yama orders his servants to stay away from devotees of Vishnu and even apologises to the Lord for his servants' mistake in trying to arrest Ajamila (Bhagavata 6.3.27-30).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/3/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At the end of Bhagavata 6.3, Yama says he learned this history from the sage Agastya in the Malaya Hills, the same sage who appears in the Gajendra story.",
+      "kind": "text",
+      "source": "https://vedabase.io/en/library/sb/6/3/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata says that even a person who falls from a roof, slips, or is bitten by a snake and cries out the name Hari in that moment is spared a bad fate, and that the name counts even when said carelessly, as a joke or in a song (6.2.14-15).",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/6/2/15/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After hearing about the Lord's glories, Yama's servants are said to be so amazed that they now fear even to look at a devotee (Bhagavata 6.3.34).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/3/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Bhagavata says that as a fallen man Ajamila made his living by cheating at dice and gambling, stealing and plundering people, a sharp contrast with the gentle scholar he began as (6.1.22).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/22/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Vishnudutas do not fight at first: they smile, speak in deep voices like thunderclouds, and ask the Yamadutas to say what dharma is, who deserves punishment and whether every doer of deeds is punishable (Bhagavata 6.1.37-39).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/1/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Freed, Ajamila wondered whether it had all been a dream, thanked the four visitors, and grieved that he had once neglected his aged parents (Bhagavata 6.2.26-32).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/6/2/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yamadutas compare how a soul takes its body for itself to a sleeper who believes in a dream body, an image meant to show why they judge by deeds (Bhagavata 6.1.49).",
+      "kind": "symbol",
+      "source": "https://vedabase.io/en/library/sb/6/1/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A manuscript painting titled Nam Mahatya, Vishnu rescues Azamila, illustrates the tale, and a study of Assamese Bhagavata manuscript paintings is cited among the sources for that art.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ajamila",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One modern reading described on Ajamila's Wikipedia page sees the story as the rewriting of a failed life into one of redemption, and compares the name's power to fire on dry grass and to medicine that works even when taken without understanding.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ajamila",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was the name of Ajamila's youngest son?",
+      "options": ["Narada", "Narayana", "Nakula", "Nandi"],
+      "answer": 1,
+      "why": "Narayana is also a name of Vishnu."
+    },
+    {
+      "q": "Which city did Ajamila live in?",
+      "options": ["Kanyakubja", "Ayodhya", "Dwarka", "Mathura"],
+      "answer": 0,
+      "why": "Kanyakubja is modern Kannauj."
+    },
+    {
+      "q": "Where did Ajamila go after he was rescued?",
+      "options": ["Lanka", "Haridwar", "Prayag", "Mathura"],
+      "answer": 1,
+      "why": "He went to Haridwar on the Ganga."
+    },
+    {
+      "q": "Whose messengers came to take Ajamila?",
+      "options": ["Indra's", "Yama's", "Brahma's", "Surya's"],
+      "answer": 1,
+      "why": "They are the Yamadutas."
+    },
+    {
+      "q": "What did the Yamadutas compare a trapped living being to?",
+      "options": [
+        "A silkworm in its cocoon",
+        "A bird in a cage",
+        "A fish in a net",
+        "A flame in the wind"
+      ],
+      "answer": 0,
+      "why": "The silkworm is wrapped in threads of its own making, like actions."
+    }
+  ],
+  "related": ["yama", "vishnu", "parikshit", "shuka", "gajendra", "prahlada", "markandeya"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajamila",
+    "bhagavata_6_1": "https://vedabase.io/en/library/sb/6/1/",
+    "bhagavata_6_2": "https://vedabase.io/en/library/sb/6/2/",
+    "bhagavata_6_3": "https://vedabase.io/en/library/sb/6/3/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F0DDB8",
+    "c2": "#C9DAD4"
+  },
+  "order": 500
+}

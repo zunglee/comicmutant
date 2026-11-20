@@ -1,0 +1,301 @@
+{
+  "slug": "prahlada",
+  "name": "Prahlada",
+  "aka": ["Prahlad", "Pralhad", "Prahallada"],
+  "native": "प्रह्लाद",
+  "role": "Young devotee of Vishnu in the Puranas",
+  "summary": "Prahlada is the child devotee of Vishnu in the Puranas. His steady faith, even when his own father opposed it, is one of the best-loved stories in Hindu tradition and is linked with the festival of Holi.",
+  "about": "In the Puranas, Prahlada is born an asura prince, the son of King Hiranyakashipu and Queen Kayadhu. The Bhagavata Purana, the main source for his story, says he turned to Vishnu from his earliest years, to the surprise and anger of his father, who had won a famous boon from Brahma and ruled the three worlds. According to the text, one attempt after another to harm the boy failed, and Prahlada stayed calm, saying that Vishnu is present everywhere. Tradition tells that Vishnu then appeared as Narasimha, the man-lion, from a pillar in the palace. After the encounter Prahlada's prayers are said to have calmed the avatar, and he went on to rule as a just king. The Bhagavad Gita has Krishna name him among the Daityas. The story is linked to Holika Dahan, the bonfire before Holi, and to Narasimha temples across Andhra Pradesh, Karnataka and beyond. Versions differ in detail from Purana to Purana, and later tales continue his story as a ruler.",
+  "kidSummary": "Prahlada is a boy in the old Hindu stories who loved Vishnu with all his heart, even though his father, the king, wanted him to stop. Many Puranas say Prahlada stayed calm and kind through every test. His story is remembered at Holi, when people light a bonfire the night before the colours.",
+  "story": [
+    {
+      "title": "A boy who listened",
+      "text": "In the Bhagavata Purana, young Prince Prahlada loved to think about Vishnu. His father, King Hiranyakashipu, ruled proudly and did not want his son to follow this path."
+    },
+    {
+      "title": "School and the king's worry",
+      "text": "Prahlada was still a small boy, only five by his father's count, when he went to school. His teachers taught him the king's lessons, but he kept sharing what was in his heart, and the king grew more and more upset."
+    },
+    {
+      "title": "Tests that failed",
+      "text": "The texts say the king tried many ways to stop the boy, but nothing harmed him. Prahlada stayed calm and said Vishnu was everywhere."
+    },
+    {
+      "title": "The pillar",
+      "text": "Hiranyakashipu laughed and struck a palace pillar to ask if Vishnu was there too. The Puranas say Narasimha, half man and half lion, came out of it at twilight."
+    },
+    {
+      "title": "A gentle prayer",
+      "text": "Narasimha was blazing with anger, but the texts say little Prahlada came forward and prayed, and the avatar grew calm. Prahlada later became a fair king."
+    }
+  ],
+  "teaches": [
+    "Faith can stay steady under pressure",
+    "Kindness is stronger than fear",
+    "Stand up politely for what you believe"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lotus", "Pillar", "Holika bonfire", "Nine ways of devotion"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    },
+    {
+      "relation": "Aunt",
+      "name": "Holika",
+      "slug": "holika"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Mahabali",
+      "slug": "mahabali"
+    },
+    {
+      "relation": "Great-grandson",
+      "name": "Banasura",
+      "slug": "banasura"
+    },
+    {
+      "relation": "Divine protector",
+      "name": "Narasimha",
+      "slug": "narasimha"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana, Book 7",
+    "Vishnu Purana, Book 1",
+    "Bhagavad Gita 10.30",
+    "Kurma Purana"
+  ],
+  "places": [
+    "Ahobilam, Andhra Pradesh",
+    "Simhachalam, Visakhapatnam",
+    "Yadagirigutta, Telangana",
+    "Sikligarh Dharhara, Bihar"
+  ],
+  "festivals": ["Holi", "Holika Dahan", "Narasimha Jayanti"],
+  "facts": [
+    {
+      "text": "The Prahlada article says the boy won over other asura students by teaching them the Narayana mantra, so his devotion spread through his classroom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to the Bhagavata Purana, the gods seized the pregnant Kayadhu while her husband was away, but the sage Narada stopped them and sheltered her in his hermitage, where the unborn Prahlada listened to his teaching.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/7/7/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One Puranic version has the king order mountains heaped over Prahlada in the sea for a year, after which Vishnu is said to have lifted them back.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Hiranyakashipu's boon from Brahma ruled out death by man or animal, day or night, indoors or out, on land, in air or water, or by any made weapon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Narasimha met each condition by being neither one thing nor the other: half man and half lion, at twilight, on a threshold, on his lap, using claws.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Scholars link this clever loophole with an older Vedic tale of Indra defeating the asura Namuci in a way that was neither wet nor dry and neither day nor night.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Vishnu Purana says Holika, Prahlada's aunt, claimed she could not be burned, but in the fire meant for the boy it was Holika who burned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The bonfire of Holika Dahan is lit the night before Holi in North India. In parts of South India, the same date is Kama Dahanam, recalling Shiva and Kamadeva.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Sikligarh Dharhara in Bihar, a temple is said to hold the pillar Narasimha burst from, and locals mark Holika Dahan with a custom called dhurkhel using the ashes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Prahlada article says that once he became king, he won the three worlds without lifting a weapon, by good conduct alone, and Indra fled from heaven.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Prahlada's son Virochana was father of the generous king Mahabali, remembered in Kerala at Onam, making Mahabali Prahlada's grandson.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A later Puranic tale says Prahlada's Brahmastra met Nara's Narayanastra in mid-air, and Vishnu told them only devotion could win over the brothers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Another Puranic tale says Indra, disguised as a Brahmin, asked Prahlada to teach him his good character, and in the story, giving it away cost Prahlada his dharma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kurma Purana says a brahmin cursed Prahlada, who fed thousands daily but forgot one guest, to forget Vishnu. The curse worked: he drifted from dharma and fought Vishnu, lost, and then saw his mistake.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mahavatar Narsimha is an animated film, the first in a planned seven-part series of animated films on Vishnu's ten avatars, and it retells the Varaha and Narasimha stories.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Mahavatar_Narsimha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Narasimha offers boons, the Bhagavata says Prahlada refuses rewards for himself, calling a bargaining devotee like a merchant, and asks only that his father be forgiven. The text says the father was already purified.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/7/10/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Local Hindu tradition says Prahlada built the Prahladpuri temple in Multan, Pakistan, around the pillar Narasimha burst from, and links the first Holika Dahan to the spot. The temple has stood in ruins since 1992.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Prahladpuri_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Hiranyakashipu and his brother Hiranyaksha were once Vishnu's own gatekeepers, Jaya and Vijaya, born on earth after a curse from the four Kumaras. So Prahlada's father is a fallen doorkeeper of the very god his son loved.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Harivamsha, a different Puranic telling, Narasimha does not burst from a pillar at all. He strides into the king's hall beside an attendant named Omkara, while Prahlada pleads with his father to listen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, the grown Prahlada leads the daityas to war against Indra and wins. A frightened Indra then prays to the goddess Parvati, who calms both sides and sends them home.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Prahlada's son Virochana was known for his generosity, and the Puranas say the devas used that very generosity to get him killed. Prahlada's daughter was married to Tvashta, the craftsman god.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Narasimha Jayanti falls on the 14th day of the Hindu month of Vaishakha, in April or May, and marks the day Narasimha appeared to protect Prahlada.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Narasimha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Odisha, Prahallada Nataka is a traditional play on this story, based on a text by Raja Ramakrusna Chhotaraya, king of the small kingdom of Jalantara.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The story has been filmed over and over: a silent Bhakta Pralhad in 1917, then versions in Telugu, Tamil, Malayalam, Kannada, Hindi and Assamese, about a dozen in all up to 2025.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Prahlada",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How old does Hiranyakashipu say Prahlada is, when he complains about him?",
+      "options": ["Five", "Ten", "Twelve", "Three"],
+      "answer": 0,
+      "why": "In the Bhagavata the king calls his son only five years old."
+    },
+    {
+      "q": "Which festival's bonfire remembers Prahlada and Holika?",
+      "options": ["Diwali", "Holi", "Onam", "Pongal"],
+      "answer": 1,
+      "why": "Holika Dahan is lit the night before Holi."
+    },
+    {
+      "q": "What does the word Narasimha mean?",
+      "options": ["Lion-king", "Man-lion", "Sun-lion", "Lion-eye"],
+      "answer": 1,
+      "why": "Nara is man and simha is lion."
+    },
+    {
+      "q": "Which famous king is Prahlada's grandson?",
+      "options": ["Bhagiratha", "Mahabali", "Harishchandra", "Ravana"],
+      "answer": 1,
+      "why": "Prahlada's son Virochana fathered Mahabali."
+    },
+    {
+      "q": "Where do many say Narasimha appeared from?",
+      "options": ["A river", "A pillar", "A cave", "A tree"],
+      "answer": 1,
+      "why": "The Puranas say he came out of a palace pillar."
+    }
+  ],
+  "related": ["narasimha", "hiranyakashipu", "holika", "mahabali", "narada", "vishnu", "banasura"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Prahlada",
+    "bhagavata": "https://vedabase.io/en/library/sb/7/5/",
+    "hiranyakashipu": "https://en.wikipedia.org/wiki/Hiranyakashipu",
+    "narasimha": "https://en.wikipedia.org/wiki/Narasimha",
+    "ahobilam": "https://en.wikipedia.org/wiki/Ahobilam",
+    "holika": "https://en.wikipedia.org/wiki/Holika",
+    "mahabali": "https://en.wikipedia.org/wiki/Mahabali",
+    "mahavatar": "https://en.wikipedia.org/wiki/Mahavatar_Narsimha",
+    "bhagavata_7_7": "https://vedabase.io/en/library/sb/7/7/"
+  },
+  "palette": {
+    "c1": "#EFC49A",
+    "c2": "#F6E3B4"
+  },
+  "order": 10,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

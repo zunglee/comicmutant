@@ -1,0 +1,296 @@
+{
+  "slug": "pandu",
+  "name": "Pandu",
+  "aka": ["Pandurāja", "Father of the Pandavas"],
+  "native": "पाण्डु",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "King of the Kurus and father of the Pandavas",
+  "summary": "Pandu is a king of Hastinapura in the Mahabharata and the legal father of the five Pandava brothers. His name suggests a pale colour, which the epic links to the way he was born.",
+  "about": "In the Mahabharata, Pandu is born to Queen Ambalika and the sage Vyasa, while his legal father is King Vichitravirya. Because his elder half-brother Dhritarashtra is blind, Pandu is made king, and he is praised as a skilled archer and a conqueror who enlarges the Kuru realm. He marries Kunti and then Madri. The epic tells that while hunting he shoots a sage named Kindama who is in the form of a deer, and the dying sage curses him to die if he ever embraces a wife. Pandu gives up the throne and goes to live in the forest. With his wives' help, five sons are born through the practice of niyoga, and they are known as the Pandavas, the sons of Pandu. He dies after forgetting the curse, and the epic says his sons are then brought to Hastinapura to grow up beside their Kaurava cousins.",
+  "kidSummary": "Pandu was a king of Hastinapura in the Mahabharata, and he was a clever archer. After a sad mistake while hunting, he gave up his throne and went to live in the forest. The five Pandava brothers are named after him, because Pandavas simply means the sons of Pandu.",
+  "story": [
+    {
+      "title": "A pale prince",
+      "text": "Pandu is born to Queen Ambalika. The epic says she turned pale when she saw the sage Vyasa, and the baby was born pale too, which is how he got his name."
+    },
+    {
+      "title": "King and archer",
+      "text": "Pandu learns archery from Bhishma and Kripa. Since his older half-brother cannot see, Pandu becomes king and widens the kingdom."
+    },
+    {
+      "title": "A hunt goes wrong",
+      "text": "While hunting, Pandu shoots at two deer. They are really a sage, Kindama, and his wife in animal form. The sage curses Pandu before he dies."
+    },
+    {
+      "title": "Life in the forest",
+      "text": "Pandu is sorry and gives the kingdom to Dhritarashtra. He moves to the forest with his wives Kunti and Madri to live simply."
+    },
+    {
+      "title": "Five sons",
+      "text": "With a special mantra, Kunti and Madri call the gods and five sons are born. These are the Pandavas, who later grow up in Hastinapura."
+    }
+  ],
+  "teaches": [
+    "Taking responsibility for a mistake",
+    "Giving up comfort for a promise",
+    "Caring for family"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow", "The forest hermitage"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Wife",
+      "name": "Madri",
+      "slug": "madri"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Vidura",
+      "slug": "vidura"
+    },
+    {
+      "relation": "Biological father",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Guardian elder",
+      "name": "Bhishma",
+      "slug": "bhishma"
+    },
+    {
+      "relation": "Son",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    },
+    {
+      "relation": "Son",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Southern and Northern recensions of the Mahabharata"],
+  "places": ["Hastinapura", "The Himalayan forest of the Pandavas' birth"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Pandu is a Sanskrit word for pale. The epic says his mother Ambalika went pale when she was frightened by the wild, unkempt look of the sage Vyasa, so her son was born with a pale complexion.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the curse, Pandu wished to live as a strict ascetic, but Kunti and Madri insisted on coming with him. They persuaded him to adopt the life of a forest householder, which allows a wife's company.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "Kunti's birth father Shurasena was also the father of Vasudeva and so the grandfather of Krishna. That makes Kunti Krishna's aunt, even though she grew up as the adopted daughter of King Kuntibhoja.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shurasena",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the epic, Pandu shoots two deer while hunting and discovers they are the sage Kindama and his wife in animal form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kindama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When the dying sage rebuked him, Pandu defended hunting by citing a ruling of the sage Agastya, but he misquoted it. The sage cursed him partly because Pandu showed no regret.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 8
+    },
+    {
+      "text": "Pandu chose which god Kunti should call. He asked first for Dharma, because he wanted a righteous son, then for Vayu, because he wanted a powerful one, and finally for Indra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kunti refused to bear more than three sons. She later complained that Madri had cleverly gained twins from a single use of the mantra, and said she would have called the Ashvins herself had she known.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7
+    },
+    {
+      "text": "In Garhwal, Uttarakhand, villagers stage Pandav Lila, a ritual play of the epic that runs from three days to a month. Villagers act it, every village has its own style, and scenes are not shown in strict story order.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Pandav_Lila",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In West Bengal, a Copper Age mound called Pandu Rajar Dhibi was the first Chalcolithic site found in the state and was dug in 1954-57. Local belief ties its main mound to King Pandu, which is how it got the name.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Pandu_Rajar_Dhibi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pandu is said to have grown the Kuru realm by conquering lands such as Sindhu, Kashi, Anga, Trigarta, Kalinga and Magadha, which put Kuru power above the other kings of the time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kunti chose Pandu herself at a svayamvara her adoptive father Kuntibhoja arranged. His second marriage, to Madri, came at Bhishma's suggestion and is said in one telling to have secured the loyalty of Madra.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pandu's birth followed a crisis: Vichitravirya died childless, Bhishma was held by his vow, and the Bahlika line would not leave its own kingdom. So Satyavati asked her son Vyasa to father heirs through niyoga.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Pandu died, the epic says Kunti argued that as senior wife she should follow him. Madri insisted it was her place, since he had turned to her at the end, and asked Kunti to raise her twins as her own.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The epic's two accounts of Pandu's funeral puzzle scholars. Nilakantha read the bodies as ashes, Dange as ritual urns or effigies, and Mehendale as whole bodies kept by sages. The critical edition keeps both accounts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Once the sages brought Pandu and Madri to Hastinapura, Dhritarashtra held a grand royal funeral. The text says the bodies were dressed in fine cotton and anointed with sandalwood paste before the cremation.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After visiting pilgrim sites, Pandu, Kunti and Madri settled in the Shatashringa forests under the care of the sages who lived there. This is where the Pandavas' earliest years began.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madri's brother Shalya, king of Madra, fought for the Kauravas in the war, yet the epic says he wished the Pandavas to win. So Pandu's own brother-in-law stood across the field from Madri's sons.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Shalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Southern Edition of the epic, Pandu's fatal moment falls on the day of Arjuna's birthday celebration, while Kunti was busy serving guests. Versions of the text differ on such details.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sages told Pandu that a man without children cannot hope for heaven. This worry weighed on him in the forest and led him to turn to Kunti about her mantra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Pandu learned of Kunti's mantra by chance. While telling her the story of his birth and his longing to be a father, she told him of Durvasa's gift, and he was overjoyed and told her to use it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Pandu",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Pandu suggest?",
+      "options": ["Strong", "Golden", "Pale", "Swift"],
+      "answer": 2,
+      "why": "The name suggests paleness, linked to his birth."
+    },
+    {
+      "q": "Why did Pandu become king instead of Dhritarashtra?",
+      "options": [
+        "He was older",
+        "Dhritarashtra was blind",
+        "Dhritarashtra refused",
+        "He won a contest"
+      ],
+      "answer": 1,
+      "why": "Dhritarashtra was born blind, so Pandu was crowned."
+    },
+    {
+      "q": "Which sage did Pandu shoot while he was in deer form?",
+      "options": ["Durvasa", "Narada", "Vyasa", "Kindama"],
+      "answer": 3,
+      "why": "Kindama and his wife were in the form of deer."
+    },
+    {
+      "q": "What does the word Pandava mean?",
+      "options": ["Son of Pandu", "Warrior of Kuru", "Friend of Krishna", "Lord of Hastinapura"],
+      "answer": 0,
+      "why": "Pandavas are the sons of Pandu."
+    },
+    {
+      "q": "Which two wives did Pandu have?",
+      "options": [
+        "Gandhari and Kunti",
+        "Kunti and Madri",
+        "Madri and Draupadi",
+        "Ambika and Ambalika"
+      ],
+      "answer": 1,
+      "why": "Pandu married Kunti and then Madri."
+    }
+  ],
+  "related": [
+    "kunti",
+    "madri",
+    "dhritarashtra",
+    "vidura",
+    "vyasa",
+    "bhishma",
+    "yudhishthira",
+    "bhima",
+    "arjuna"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Pandu",
+    "kindama": "https://en.wikipedia.org/wiki/Kindama",
+    "ambalika": "https://en.wikipedia.org/wiki/Ambalika",
+    "pandavas": "https://en.wikipedia.org/wiki/Pandavas",
+    "pandavlila": "https://en.wikipedia.org/wiki/Pandav_Lila",
+    "madri": "https://en.wikipedia.org/wiki/Madri",
+    "kunti": "https://en.wikipedia.org/wiki/Kunti",
+    "shurasena": "https://en.wikipedia.org/wiki/Shurasena",
+    "pandurajar": "https://en.wikipedia.org/wiki/Pandu_Rajar_Dhibi",
+    "shalya": "https://en.wikipedia.org/wiki/Shalya"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#EAE3C8",
+    "c2": "#D9E4D0"
+  },
+  "order": 7
+}

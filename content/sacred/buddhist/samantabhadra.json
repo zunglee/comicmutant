@@ -1,0 +1,260 @@
+{
+  "slug": "samantabhadra",
+  "name": "Samantabhadra",
+  "aka": ["Universal Worthy", "Puxian", "Fugen", "Kuntuzangpo"],
+  "native": "समन्तभद्र",
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "role": "Bodhisattva of vows, practice and good deeds",
+  "summary": "Samantabhadra is a Mahayana bodhisattva whose name means \"All Good\". He is linked to the ten great vows and is usually shown on a white elephant with six tusks.",
+  "about": "In Mahayana Buddhism, Samantabhadra is the bodhisattva of practice and compassionate action. The Avatamsaka Sutra tells that he spoke ten great vows that became a model for the bodhisattva path, and the Lotus Sutra tradition honours him as its patron. He often stands beside Shakyamuni, with Manjushri on the other side, as a trio called the Shakyamuni Triad. East Asian art shows him riding a six-tusked white elephant. Tibetan Nyingma teachers also use the same name for a different figure, the primordial Buddha Kuntuzangpo. This profile follows the bodhisattva, and the story below comes from the Gandavyuha section of the Avatamsaka Sutra.",
+  "kidSummary": "Samantabhadra is a kind helper in Buddhist stories who teaches that good wishes must become good actions. He rides a gentle white elephant with six tusks. People remember him when they want to help others, say sorry, and share the good they have done.",
+  "story": [
+    {
+      "title": "A boy begins a journey",
+      "text": "In the Gandavyuha, a young seeker named Sudhana is sent by Manjushri to find teachers who can show him the way to wisdom."
+    },
+    {
+      "title": "Fifty-odd teachers",
+      "text": "Sudhana travels from place to place and learns something new from each teacher he meets, from merchants and healers to kings and children."
+    },
+    {
+      "title": "Meeting Maitreya",
+      "text": "Near the end he meets Maitreya, who shows him a great tower that holds endless wonders, and sends him back to Manjushri."
+    },
+    {
+      "title": "Samantabhadra appears",
+      "text": "Sudhana finally meets Samantabhadra, who confirms how far he has come. In the text, Sudhana then becomes one with Samantabhadra."
+    },
+    {
+      "title": "Ten vows of good conduct",
+      "text": "Samantabhadra gives ten vows: honour the Buddhas, give offerings, say sorry for mistakes, enjoy the good of others, and share all your goodness with every living being."
+    }
+  ],
+  "teaches": [
+    "Good wishes should turn into action",
+    "Rejoice in the goodness of others",
+    "Share the good you do with all beings"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Six-tusked white elephant (mount)",
+    "Lotus",
+    "Wish-fulfilling jewel (in some images)"
+  ],
+  "family": [
+    {
+      "relation": "Partner in the Shakyamuni Triad",
+      "name": "Manjushri",
+      "slug": "manjushri"
+    },
+    {
+      "relation": "Triad's central Buddha",
+      "name": "Shakyamuni Buddha",
+      "slug": "gautama-buddha"
+    }
+  ],
+  "texts": [
+    "Avatamsaka Sutra",
+    "Lotus Sutra",
+    "Samantabhadra Meditation Sutra",
+    "Gandavyuha Sutra"
+  ],
+  "places": [
+    "Mount Emei, Sichuan, China",
+    "Borobudur, Indonesia",
+    "Tendai and Shingon temples, Japan",
+    "Todai-ji, Nara"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The Huayan school honours Samantabhadra, Manjushri and the Buddha Vairocana together as the Three Noble Ones, with the two bodhisattvas standing on either side of Vairocana.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Borobudur in Java carries carvings of Sudhana's search. The monument has 2,672 relief panels in all, and 1,460 of them tell stories.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Borobudur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some believers say his white elephant is the same one that appeared to Queen Maya to herald the Buddha's birth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the novel Investiture of the Gods, his Daoist form Puxian Zhenren is master of Muzha, Nezha's elder brother, and gives him a pair of Wu Gou swords.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before Mount Emei became Samantabhadra's seat, it was a Daoist sacred site with temples and hermits, and local tradition links Puxian with both Buddhist and Daoist traits.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 16th-century novel Investiture of the Gods, the foe Lingya Xian is beaten and shows his true shape, a six-tusked white elephant, which becomes Puxian's mount.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Chinese art sometimes shows Puxian with feminine features, riding a six-tusked elephant and carrying a lotus-leaf parasol, a ruyi sceptre or a scroll, much like some images of Guanyin.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Japanese painting type, Fugen and the Ten Demonesses, shows him on a six-tusked elephant with ten guardian demonesses who protect those who follow the Lotus Sutra.",
+      "kind": "art",
+      "source": "https://projects.mcah.columbia.edu/jaanus/node/4606",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Gandavyuha, Maitreya shows Sudhana a great tower holding a vision of infinite worlds, each with a Maitreya guiding beings, before the boy meets Samantabhadra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Japan his Fugen Enmei form, central to a longevity rite, is shown seated on a lotus held up by three elephants, or by one three-headed elephant.",
+      "kind": "art",
+      "source": "https://projects.mcah.columbia.edu/jaanus/node/4606",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The tenth of his great vows, dedicating all your merit to every being, became a common way to end Buddhist services in East Asia.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The novel Investiture of the Gods ends with Puxian Zhenren, Cihang Daoren and Wenshu Guangfa leaving the Daoist side and becoming the Buddhist figures Samantabhadra, Guanyin and Manjushri.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Lotus Sutra he teaches a protective dharani, and in the esoteric texts his seed syllable is Sam.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Avatamsaka Sutra he explains ten kinds of meditative absorption and ten supernormal powers, such as travelling freely to every realm in the universe.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Gandavyuha, Sudhana merges into Samantabhadra's body, which holds the entire universe, and Samantabhadra then recites his vows.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Avatamsaka Sutra, Samantabhadra teaches that Buddhahood is present in every particle of the physical universe and in the mind and body of every living being.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Asked two hundred questions about the bodhisattva path, he gives ten answers to each one, such as ten kinds of spiritual teachers and ten kinds of effort.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Borobudur, the fourth gallery is entirely devoted to Samantabhadra's teaching, after Sudhana has met 53 teachers on his search.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Borobudur",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Nyingma Tibetan Buddhism the name Samantabhadra also belongs to a separate primordial Buddha, shown in union with a consort, Samantabhadri, who is not the bodhisattva of the same name.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kegon pilgrimage mandala preserved at Todai-ji in Nara pictures fifty-five saints, in which Fugen has a central role.",
+      "kind": "art",
+      "source": "https://projects.mcah.columbia.edu/jaanus/node/4606",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What animal does Samantabhadra ride in East Asian art?",
+      "options": ["A lion", "A white elephant with six tusks", "A peacock", "A blue horse"],
+      "answer": 1,
+      "why": "He is usually shown on a six-tusked white elephant."
+    },
+    {
+      "q": "Who does Sudhana meet at the end of his long journey in the Gandavyuha?",
+      "options": ["Samantabhadra", "Ashoka", "Hanuman", "Nagarjuna"],
+      "answer": 0,
+      "why": "Sudhana meets Samantabhadra and, in the text, merges with him."
+    },
+    {
+      "q": "Which mountain in China is linked to Samantabhadra?",
+      "options": ["Mount Emei", "Mount Fuji", "Mount Meru", "Mount Kailash"],
+      "answer": 0,
+      "why": "Mount Emei is his traditional seat and is 3,099 metres high."
+    },
+    {
+      "q": "How many great vows does Samantabhadra make in the Avatamsaka Sutra?",
+      "options": ["Three", "Seven", "Ten", "Twelve"],
+      "answer": 2,
+      "why": "The sutra's closing chapter lists ten vows."
+    }
+  ],
+  "related": [
+    "manjushri",
+    "gautama-buddha",
+    "avalokiteshvara",
+    "maya-mother-of-the-buddha",
+    "maitreya",
+    "tara"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Samantabhadra_Bodhisattva",
+    "avatamsaka": "https://en.wikipedia.org/wiki/Avatamsaka_Sutra",
+    "fugen": "https://projects.mcah.columbia.edu/jaanus/node/4606",
+    "emei": "https://en.wikipedia.org/wiki/Mount_Emei",
+    "borobudur": "https://en.wikipedia.org/wiki/Borobudur",
+    "adibuddha": "https://en.wikipedia.org/wiki/Adi-Buddha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2e6c9",
+    "c2": "#b9d8cf"
+  },
+  "order": 20
+}

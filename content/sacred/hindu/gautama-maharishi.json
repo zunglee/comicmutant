@@ -1,0 +1,272 @@
+{
+  "name": "Gautama Maharishi",
+  "aka": ["Gautama", "Maharshi Gautama"],
+  "native": "गौतम महर्षि",
+  "role": "Vedic sage, one of the Saptarishi, husband of Ahalya",
+  "summary": "Gautama Maharishi is a sage named among the Saptarishi. Tradition links him with Ahalya, the birth of the Godavari river at Trimbakeshwar, and the Gautama clan of Vedic poets.",
+  "about": "Gautama is an ancient sage in Hindu tradition, counted among the Saptarishi and named in the Ramayana, and by his clan name in the Brihadaranyaka Upanishad. The Ramayana names Ahalya as his wife and Shatananda as their eldest son, while the Mahabharata mentions other children. Tradition says he did penance at Brahmagiri near Trimbak so that the Godavari, also called Gautami, would flow. Many tellings of Ahalya's story include him and a curse, and different versions treat her differently. Ashrams in Mithila, along the Godavari and at Pushkar all claim him. He should not be confused with Gautama Buddha or with Akshapada Gotama, the Nyaya teacher.",
+  "kidSummary": "Gautama Maharishi is one of the seven great sages. Stories say he prayed for years on a hill near Trimbak so that the river Godavari could flow and end a drought. People still visit that place today.",
+  "story": [
+    {
+      "title": "A dry land",
+      "text": "Tradition says a long drought troubled the area near Trimbak, where Gautama lived with his wife Ahalya."
+    },
+    {
+      "title": "Years of prayer",
+      "text": "Gautama prayed on Brahmagiri hill to bring water for the people and animals."
+    },
+    {
+      "title": "A river is born",
+      "text": "Pleased, Shiva allows the Ganga to flow in the Trimbak hills, and the stream becomes the Godavari."
+    },
+    {
+      "title": "A river with his name",
+      "text": "The Godavari is also called Gautami, and its largest delta branch carries that name."
+    },
+    {
+      "title": "A pilgrim place",
+      "text": "Today the Trimbakeshwar temple stands near the river's source, and pilgrims come to its pond, Kushavarta."
+    }
+  ],
+  "teaches": [
+    "Selfless prayer can help many people",
+    "Care for water and land",
+    "Hard times can be met with patience and prayer"
+  ],
+  "symbol": "wave",
+  "emblems": ["Godavari river", "Brahmagiri hill"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Ahalya",
+      "slug": "ahalya"
+    },
+    {
+      "relation": "Son (Ramayana)",
+      "name": "Shatananda"
+    },
+    {
+      "relation": "Father",
+      "name": "Dirghatamas"
+    },
+    {
+      "relation": "Gautama-clan descendant",
+      "name": "Shvetaketu"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Brihadaranyaka Upanishad",
+    "Ganesha Purana",
+    "Mahabharata",
+    "Vamana Purana",
+    "Gautama Dharmasutra (named for a Gautama)"
+  ],
+  "places": [
+    "Trimbakeshwar, Nashik",
+    "Brahmagiri hill",
+    "Kushavarta pond",
+    "Matha Ahalya Temple, Pushkar"
+  ],
+  "festivals": ["Simhastha Kumbh Mela, Nashik"],
+  "facts": [
+    {
+      "text": "In the Brahma Purana, Brahma says whoever first circles the three worlds wins Ahalya. Indra uses magic, but Narada says Gautama already did it by walking around the wish-granting cow Surabhi as she gave birth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One Godavari legend: Ganesha sent a lookalike cow that nibbled Gautama's rice. When he touched it with darbha grass it fell dead. To atone, he prayed to Shiva, whose Ganga washed over the cow and became the Godavari.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Godavari_River",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Gautama's curse makes Ahalya unseen by all, living on air, until Rama visits the ashram. Gautama then leaves for the Himalayas to practise austerities.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Bhil Ramayana, Gautama is a wild stormy force who captures Indra and frees him only on a promise of rain, with a quarter of the crops for Gautama. Ahalya stands for the dry land.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One scholar of Kalidasa credits the Raghuvamsa with first turning Ahalya to stone. In that poem the dust of Rama's feet frees her, and later retellings made the idea popular.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one Mahabharata telling, Gautama angrily orders his son Chirakari to punish Ahalya. Chirakari, whose name means slow-acting, takes so long to think that Gautama returns, sorry for his haste.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Godavari splits into seven mouths, traditionally named for the Saptarishis, who are said to have made them after Gautama brought the river from Shiva's head. The largest, Gautami, meets the sea near Yanam.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Godavari_River",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Purana, Gautama curses Indra with a thousand marks on his body. When Indra bathes in the Godavari, the Gautami river, the marks turn into eyes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the blind sage Dirghatamas is bound to a raft by his family, including Gautama and a brother, and set adrift on the Ganga. King Bali, bathing downstream, rescues him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dirghatamas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Brihadaranyaka Upanishad tale, Gautama joins other sages at King Janaka's court to test whether Yajnavalkya is truly a great sage.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Maharishi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A big Golconda diamond, the Nassak, adorned the Shiva deity at Trimbakeshwar from at least 1500 to 1817, until the East India Company took it in the Third Anglo-Maratha War.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nassak_Diamond",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ramayana says Gautama's ashram stood in a forest near Mithila. Other texts move it: the Brahma Purana places it by the Godavari, the Skanda Purana by the Narmada, and the Padma Purana near Pushkar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Brahma Purana, Ahalya is cursed to become a dried-up stream. She proves her innocence, and Gautama softens the curse so that she flows into the Gautami, as the Godavari is also called.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien, Gautama's daughter Anjani becomes the mother of the monkey hero Hanuman after a family quarrel ends in a curse that she will bear a monkey child.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, Gautama's son Sharadvana was also called Gautama. That is why Sharadvana's children, Kripa and Kripi, carry the family names Gautama and Gautami.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Maharishi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Vamana Purana, Gautama had three daughters named Jaya, Jayanti and Aparajita.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Maharishi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A law book called the Gautama Dharmasutra is attributed to him. It is among the oldest of its kind, written wholly in prose in 28 chapters, though scholars think a Samaveda school composed it in his name.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gautama_Dharmasutra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dirghatamas is the chief ancestor of the Gotama family of seers, which includes Gautama, Kakshivan, Nodhas and Vamadeva. Together they account for about 150 of the Rigveda's 1,000 hymns.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dirghatamas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After the British took the Nassak Diamond it was recut to 43.38 carats. It sat in a marquess's sword hilt and in an American ring, and now rests in a private museum in Lebanon.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nassak_Diamond",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana's Uttara Kanda, Brahma places the girl Ahalya in Gautama's care until she grows up. Gautama returns her, and Brahma, impressed by his self-control, gives her to him as his wife.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which river is linked to Gautama Maharishi's penance?",
+      "options": ["Godavari", "Yamuna", "Sutlej", "Ganga at Haridwar"],
+      "answer": 0,
+      "why": "Tradition links him with the Godavari, also called Gautami."
+    },
+    {
+      "q": "Where does the Godavari begin?",
+      "options": ["Kashi", "Trimbakeshwar", "Rameshwaram", "Pushkar"],
+      "answer": 1,
+      "why": "It rises at Brahmagiri near Trimbakeshwar."
+    },
+    {
+      "q": "Who is Gautama's wife in the Ramayana?",
+      "options": ["Arundhati", "Ahalya", "Anasuya", "Sita"],
+      "answer": 1,
+      "why": "The Ramayana names Ahalya."
+    },
+    {
+      "q": "Which group of sages includes Gautama?",
+      "options": ["The Saptarishi", "The Panchakanya", "The Ashtavasu", "The Navagraha"],
+      "answer": 0,
+      "why": "Gautama is one of the seven great sages."
+    },
+    {
+      "q": "In the Brahma Purana, whom did Gautama walk around to win Ahalya's hand?",
+      "options": [
+        "The wish-granting cow Surabhi",
+        "Mount Kailasa",
+        "A banyan tree",
+        "The rising sun"
+      ],
+      "answer": 0,
+      "why": "Narada said circling Surabhi as she gave birth equals circling the three worlds."
+    }
+  ],
+  "related": ["ahalya", "indra", "rama", "vishvamitra", "atri", "vasishtha", "bhrigu", "shiva"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Gautama_Maharishi",
+    "trimbakeshwar": "https://en.wikipedia.org/wiki/Trimbakeshwar_Temple",
+    "ahalya": "https://en.wikipedia.org/wiki/Ahalya",
+    "godavari": "https://en.wikipedia.org/wiki/Godavari_River",
+    "saptarshi": "https://en.wikipedia.org/wiki/Saptarshi",
+    "dharmasutra": "https://en.wikipedia.org/wiki/Gautama_Dharmasutra",
+    "dirghatamas": "https://en.wikipedia.org/wiki/Dirghatamas",
+    "nassak": "https://en.wikipedia.org/wiki/Nassak_Diamond",
+    "gautamaDharmasutra": "https://en.wikipedia.org/wiki/Gautama_Dharmasutra"
+  },
+  "palette": {
+    "c1": "#b6d4d9",
+    "c2": "#e9dcb0"
+  },
+  "order": 750,
+  "slug": "gautama-maharishi",
+  "tradition": "hindu",
+  "group": "rishi",
+  "depth": "full"
+}

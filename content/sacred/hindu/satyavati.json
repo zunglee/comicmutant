@@ -1,0 +1,285 @@
+{
+  "slug": "satyavati",
+  "name": "Satyavati",
+  "aka": ["Matsyagandha", "Yojanagandha", "Kali", "Vasavi", "Daseyi"],
+  "native": "सत्यवती",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Queen of the Kurus and mother of Vyasa",
+  "summary": "Satyavati is a queen of the Kuru kingdom in the Mahabharata. She grew up as a boatman's daughter, became the mother of the sage Vyasa and wife of King Shantanu.",
+  "about": "In the Mahabharata, Satyavati is raised by a fisher chief, though the epic says her birth father was a Chedi king and her mother a cursed celestial nymph who lived as a fish. She ferries the sage Parashara across the Yamuna, and the epic says he gave her a fragrance that could be smelled a long way off. Her son Vyasa is born on an island and later composes the Mahabharata. She marries King Shantanu after his son Devavrata makes a vow to let her sons rule. Her sons die young, and she asks Vyasa to help the family line continue, which leads to Dhritarashtra, Pandu and Vidura. The Harivamsa and the Devi Bhagavata Purana tell more about her than the epic does. After Pandu's death, she retires to the forest.",
+  "kidSummary": "Satyavati grew up as a boatman's daughter and became a queen in the Mahabharata. She is the mother of the great sage Vyasa, who composed the epic. She is known for her sweet fragrance, and her choices shaped the family of the Pandavas and Kauravas.",
+  "story": [
+    {
+      "title": "Born from a fish",
+      "text": "The tales say a cursed celestial woman lived as a fish, and twins were found inside it. The girl is raised by a fisher chief and grows up with a ferry boat on the Yamuna."
+    },
+    {
+      "title": "A wise traveller",
+      "text": "The sage Parashara crosses the Yamuna on her boat. In the epic, he gives her a lovely fragrance that spreads far, and her son Vyasa is born on an island."
+    },
+    {
+      "title": "Queen of Hastinapura",
+      "text": "King Shantanu follows the scent and falls in love. Her father says her sons must be heirs, and Bhishma gives up his own right to the throne."
+    },
+    {
+      "title": "A family in need",
+      "text": "Her sons grow up but die without children. She asks Bhishma, then her son Vyasa, to help the royal family continue."
+    },
+    {
+      "title": "A quiet ending",
+      "text": "Dhritarashtra, Pandu and Vidura are born. After Pandu dies, Satyavati leaves the palace to live in the forest."
+    }
+  ],
+  "teaches": [
+    "A mother's care for her family",
+    "Clear thinking in hard times",
+    "Every choice has far-reaching results"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Ferry boat on the Yamuna", "Sweet fragrance"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Shantanu",
+      "slug": "shantanu"
+    },
+    {
+      "relation": "Son",
+      "name": "Vyasa",
+      "slug": "vyasa"
+    },
+    {
+      "relation": "Stepson",
+      "name": "Bhishma",
+      "slug": "bhishma"
+    },
+    {
+      "relation": "Son",
+      "name": "Chitrangada (Shantanu's son)"
+    },
+    {
+      "relation": "Son",
+      "name": "Vichitravirya"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Dhritarashtra",
+      "slug": "dhritarashtra"
+    },
+    {
+      "relation": "Grandson",
+      "name": "Pandu",
+      "slug": "pandu"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva)", "Harivamsa", "Devi Bhagavata Purana"],
+  "places": ["Yamuna river", "Hastinapura", "Matsyagandha Lake, Bihar"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "According to the legend, twins were found inside a fish. The boy grew up to be King Matsya, who founded the Matsya kingdom.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her names tell her story: Matsyagandha for her early fishy smell, Yojanagandha for a fragrance carried a yojana away, Kali for her dark skin, Vasavi as King Vasu's daughter, and Daseyi, linked to her fisher clan.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Harivamsa has an episode the Mahabharata lacks: during the mourning after Shantanu's death, Ugrayudha Paurava demanded Satyavati from Bhishma in return for wealth, and Bhishma killed him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the epic, Ambika closed her eyes at the sight of Vyasa, so her son Dhritarashtra was born blind. Ambalika turned pale, so her son Pandu was born pale.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The epic says her son Vyasa grew into a young man on the very day he was born, and promised his mother he would come whenever she called him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her foster father said she had turned down even great sages such as the Brahmarishi Asita, and agreed to Shantanu's proposal only if her sons would inherit the throne.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to the Harivamsa, in a previous life Satyavati was Achchoda, a daughter of the Pitrs, the ancestors, who was cursed to be born on earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Devi Bhagavata Purana, Vyasa is sad that his mother left him to fate right after his birth. When he comes looking for her, he finds she has become queen of Hastinapura.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Writer Dhanalakshmi Ayyer calls her story 'Blind Ambition'. She notes the irony that Bhishma, whose throne claim Satyavati took, outlived her sons and is remembered far longer.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The historian Romila Thapar argues that the tale making Satyavati a king's daughter may have been added later, to give her a royal lineage. The Wikipedia article adds that this claim lacks supporting evidence.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her own name Satyavati means 'truthful'. She was first called Kali for her dark skin and grew into the name, since satya means truth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia describes the fragrance Parashara gave her as sweet and musky, and one of her later names, Kastu-gandhi, points to musk.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A statue of Parashara and Satyavati stands at Matsyagandha Lake in Bihar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Raja Ravi Varma painted Shantanu with Satyavati. Wikipedia uses the painting to illustrate her article.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Pradip Bhattacharya notes the boons she asked of Parashara in careful order: a lasting fragrance, a veil of mist for privacy, her maidenhood restored, fame for her child, and lifelong youth.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Bhattacharya says Satyavati, by bringing her own fisher-born son Vyasa into the royal line, turned the great lunar dynasty into the lineage of a dasa, a boatman's daughter.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Before calling Vyasa, Satyavati told Bhishma the whole story of her meeting with Parashara, according to Wikipedia's retelling.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Bhishma refused to marry Vichitravirya's widows, he suggested hiring a Brahmin to father children for the dynasty, the plan Satyavati then carried out through Vyasa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Satyavati's biological father was Uparichara Vasu, king of Chedi, while the fisher chief Dasharaja raised her and she ferried passengers on the Yamuna for him.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Satyavati had to work hard to win the consent of her two daughters-in-law, Ambika and Ambalika, before the plan with Vyasa could go ahead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia's article says Satyavati is praised for her presence of mind and realpolitik, but also criticised for ambition that ignored the means used to reach it.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Satyavati",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Satyavati's family do for a living?",
+      "options": [
+        "They were potters",
+        "They were fishers and boat-people",
+        "They were farmers",
+        "They were weavers"
+      ],
+      "answer": 1,
+      "why": "She was raised by a fisher chief and ferried people on the river."
+    },
+    {
+      "q": "Who was her famous son?",
+      "options": ["Bhishma", "Dhritarashtra", "Vyasa", "Vidura"],
+      "answer": 2,
+      "why": "Vyasa is her son with Parashara."
+    },
+    {
+      "q": "Which kind of fragrance is Satyavati known for?",
+      "options": ["Rose", "Musk", "Sandalwood", "Jasmine"],
+      "answer": 1,
+      "why": "Parashara gave her a musky fragrance."
+    },
+    {
+      "q": "Who gave up the throne so Shantanu could marry her?",
+      "options": ["Karna", "Bhishma", "Drona", "Pandu"],
+      "answer": 1,
+      "why": "Bhishma took a vow so she could marry his father."
+    },
+    {
+      "q": "Which river did she ferry people across?",
+      "options": ["The Yamuna", "The Narmada", "The Kaveri", "The Brahmaputra"],
+      "answer": 0,
+      "why": "She ran a ferry on the Yamuna."
+    }
+  ],
+  "related": [
+    "shantanu",
+    "vyasa",
+    "parashara",
+    "bhishma",
+    "dhritarashtra",
+    "pandu",
+    "vidura",
+    "ganga"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satyavati",
+    "mahabharata": "https://en.wikipedia.org/wiki/Mahabharata"
+  },
+  "palette": {
+    "c1": "#e6b7c1",
+    "c2": "#f5ecd5"
+  },
+  "depth": "full",
+  "order": 585
+}

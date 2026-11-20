@@ -1,0 +1,271 @@
+{
+  "slug": "kumbhakarna",
+  "name": "Kumbhakarna",
+  "aka": ["Kumbhakarn", "Kumphakan"],
+  "native": "कुम्भकर्ण",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Giant sleeping brother of Ravana, an asura in the Ramayana",
+  "summary": "Kumbhakarna is Ravana's enormous younger brother in the Ramayana, famous for sleeping for months at a time and for his appetite. Texts also describe him as a brave and truthful warrior.",
+  "about": "In the Valmiki Ramayana Kumbhakarna is the brother of Ravana and Vibhishana, born with a huge body and a huge hunger. After the brothers' penance the gods were uneasy about his strength. In the Uttara Kanda Brahma sends Saraswati into his mouth so that he asks for long sleep; a popular later telling adds the wordplay of a throne versus a bed. The epic says he sleeps for six months and wakes for a single day. When Rama's army reaches Lanka, Ravana has him woken. Kumbhakarna advises his brother to return Sita, but fights out of loyalty and is slain by Rama. Many traditions regard him as honest and brave. The Bhagavata Purana calls him a rebirth of Vishnu's gatekeeper Vijaya, and the Kamba Ramayanam shows him recognising Rama as divine. At Dussehra, his effigy is burned alongside Ravana's in northern India.",
+  "kidSummary": "Kumbhakarna is Ravana's giant brother who sleeps for months and wakes up very hungry. In the Ramayana it takes thousands of rakshasas, drums and elephants to wake him! He tells his brother to do the right thing, but he stays loyal to him in the great war.",
+  "story": [
+    {
+      "title": "A big wish gets twisted",
+      "text": "Kumbhakarna and his brothers pray to Brahma. The gods worry about his huge strength, and Saraswati turns his words so that he asks for sleep. A popular retelling says he meant to ask for a throne."
+    },
+    {
+      "title": "Sleeping for months",
+      "text": "In the Valmiki Ramayana, Kumbhakarna sleeps for six months and then wakes for only a single day, very hungry."
+    },
+    {
+      "title": "The big wake-up",
+      "text": "When war comes, thousands of rakshasas bang drums, shout, pour water in his ears and walk elephants over him until Kumbhakarna finally opens his eyes."
+    },
+    {
+      "title": "Honest advice",
+      "text": "After a huge meal, Kumbhakarna learns what has happened. Tradition says he urges Ravana to stop the war and return Sita."
+    },
+    {
+      "title": "Loyal to the end",
+      "text": "Even so, Kumbhakarna fights for his brother and his home. He battles bravely against the vanaras and Rama, and he falls in the war."
+    }
+  ],
+  "teaches": [
+    "Speak up kindly when something is wrong",
+    "Loyalty is best when joined with fairness",
+    "Think carefully before making a wish"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Great size", "Long sleep"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Vibhishana",
+      "slug": "vibhishana"
+    },
+    {
+      "relation": "Sister",
+      "name": "Shurpanakha",
+      "slug": "shurpanakha"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Indrajit",
+      "slug": "indrajit"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Bhagavata Purana", "Kamba Ramayanam", "Thai Ramakien"],
+  "places": ["Lanka"],
+  "festivals": ["Dussehra", "Ramlila"],
+  "facts": [
+    {
+      "text": "In the Kamba Ramayanam, Kumbhakarna admits Rama is divine, yet says his duty is to fight for his brother. He asks only that Rama keep Vibhishana safe from harm.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kumbhakarna",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, he is cursed to sleep, then Brahma lets him sleep six months and wake for just one day. Some other tellings give six months asleep and six awake.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhaitrans61.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A popular retelling says Saraswati sat on his tongue at Indra's request, so he meant to ask for Indrasana (Indra's throne) but said Nidrasana, a bed for sleeping.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumbhakarna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Valmiki Ramayana says about ten thousand rakshasas beat on a thousand drums with golden sticks and poured water into his ears to wake him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhaitrans60.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The epic says he finally stirred when a thousand elephants were driven over his body.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhaitrans60.htm",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "To feed him after waking, the rakshasas piled deer, buffalo and boar meat as high as Mount Meru, and he then drank two thousand pitchers of wine, says the Valmiki Ramayana.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhaitrans60.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Valmiki Ramayana says that soon after his birth he was so hungry he ate thousands of creatures.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhaitrans61.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Vibhishana says Kumbhakarna overcame both Indra and Yama in his youth, once striking Indra with a tusk pulled from the elephant Airavata.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhaitrans61.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Before the battle Ravana had Kumbhakarna dressed in fine jewellery. Many bad omens appeared as he marched out, but Valmiki says he ignored them and kept going.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga65/yuddhaitrans65.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Yuddha 67, Kumbhakarna carries the stunned Sugriva off towards Lanka, but Sugriva wakes and tears the giant's ears and nose with his teeth and nails to escape.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhaitrans67.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Tradition says Rama's Vayuastra cut off one of his arms and the Indrastra struck the other. Even with both feet cut off by crescent-shaped arrows, he kept going towards Rama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumbhakarna",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Some tellings say that when Rama's Indrastra killed him, his head flew off and crushed several buildings of Lanka before falling into the sea.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumbhakarna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A 2015 article in the Indian Journal of Endocrinology and Metabolism asked whether his huge appetite and long sleep might fit a disorder of the hypothalamus, the brain region that helps control hunger and sleep.",
+      "kind": "history",
+      "source": "https://pmc.ncbi.nlm.nih.gov/articles/PMC4366788",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki Yuddha 67, vanaras that Kumbhakarna hurled into his huge mouth came out again through his nostrils and ears.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhaitrans67.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Thousands of vanaras climb onto Kumbhakarna's body, attacking with nails, fists, teeth and arms, until he drives them off with his spike (Valmiki Yuddha 67).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhaitrans67.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki Yuddha 63, Kumbhakarna first bursts into loud laughter at Ravana's lament, then scolds him for ignoring Vibhishana's earlier advice.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga63/yuddhaitrans63.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Kumbhakarna's fall is reported in Valmiki Yuddha 68, Ravana faints, then mourns that he has lost his right arm and regrets not heeding Vibhishana.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga68/yuddhaitrans68.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Uttara Kanda, after Brahma grants his wish for long sleep, Kumbhakarna regrets it and thinks the gods have deluded him.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424771.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the vanara Dvivida hurled a mountain at Kumbhakarna, it missed him and crashed down on the rakshasas' own horses, elephants and chariots (Valmiki Yuddha 67).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga67/yuddhaitrans67.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Kumbhakarna's first roar the vanaras ran in fright. Angada called them back with encouraging words, and they returned to the fight (Valmiki Yuddha 66).",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga66/yuddhaitrans66.htm",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Kumbhakarna's name mean?",
+      "options": ["Pot-eared", "Mountain-armed", "Thunder-voiced", "Golden-crowned"],
+      "answer": 0,
+      "why": "Kumbha means pot and karna means ear."
+    },
+    {
+      "q": "In the Valmiki Ramayana, how long does Kumbhakarna sleep at a time?",
+      "options": ["One day", "A year", "Six months", "Ten days"],
+      "answer": 2,
+      "why": "He sleeps six months and wakes for a day."
+    },
+    {
+      "q": "What was used to finally wake him in the epic?",
+      "options": [
+        "A cold river",
+        "A thousand elephants walking on him",
+        "A golden bell",
+        "A flute"
+      ],
+      "answer": 1,
+      "why": "Drums and shouting did not work until elephants walked over him."
+    },
+    {
+      "q": "Which goddess is said to have twisted his words in a popular tale?",
+      "options": ["Lakshmi", "Parvati", "Ganga", "Saraswati"],
+      "answer": 3,
+      "why": "In a popular telling Saraswati made him ask for a bed instead of a throne."
+    },
+    {
+      "q": "At Dussehra in northern India, which pair of effigies is often burned beside Ravana's?",
+      "options": [
+        "Kumbhakarna and Meghanada",
+        "Vibhishana and Sugriva",
+        "Hanuman and Angada",
+        "Lakshmana and Bharata"
+      ],
+      "answer": 0,
+      "why": "In northern India three effigies are common."
+    }
+  ],
+  "related": [
+    "ravana",
+    "vibhishana",
+    "indrajit",
+    "rama",
+    "lakshmana",
+    "indra",
+    "saraswati",
+    "brahma"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kumbhakarna",
+    "valmiki-60": "https://www.valmikiramayan.net/utf8/yuddha/sarga60/yuddhaitrans60.htm",
+    "valmiki-61": "https://www.valmikiramayan.net/utf8/yuddha/sarga61/yuddhaitrans61.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#B9C4B0",
+    "c2": "#E6D8B8"
+  },
+  "order": 20
+}

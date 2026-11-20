@@ -1,0 +1,238 @@
+{
+  "slug": "trishala",
+  "name": "Trishala",
+  "aka": ["Videhadatta", "Priyakarini", "Trishala Mata"],
+  "native": "त्रिशला",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Queen and mother of Mahavira, the 24th Tirthankara",
+  "summary": "Trishala was the Licchavi princess and queen who, Jains say, dreamed auspicious dreams before the birth of her son Mahavira.",
+  "about": "Trishala was a princess of the Licchavi republic of Vaishali who married Siddhartha, a chief of Kundagrama in present Bihar. Jain tradition honours her as the mother of Mahavira, the 24th Tirthankara. Both the Kalpa Sutra and later texts tell of her auspicious dreams before his birth; Svetambaras count 14, Digambaras 16, and scholars at court said they meant a child of great virtue. Svetambara texts add that Indra moved the baby from Devananda's womb into hers; Digambara tellings do not include this. The Acharanga Sutra says she and Siddhartha followed Parshvanatha. Jains celebrate her dreams with Swapna Darshan during Paryushana. In the Kalpa Sutra, the unborn Mahavira keeps still so as not to hurt her, and vows not to renounce while his parents live. Traditional dates differ.",
+  "kidSummary": "Trishala was a queen who lived in Bihar a very long time ago. Before her son Mahavira was born, she had wonderful dreams of a white elephant, the moon, the sun and a lotus pond. Jains remember her with love as Trishala Mata, Mother Trishala.",
+  "story": [
+    {
+      "title": "A princess of Vaishali",
+      "text": "Trishala was born a princess of the Licchavi people in Vaishali and later married Siddhartha, who ruled at Kundagrama in Bihar."
+    },
+    {
+      "title": "A night of dreams",
+      "text": "Jain texts say that one night she saw many lovely dreams: a white elephant, a bull, a lion, the moon, the sun and more. In the morning her husband asked wise men at court, and they said a brave and good child was coming."
+    },
+    {
+      "title": "A special baby",
+      "text": "Svetambara tradition says Indra gently moved the baby to her care, because Tirthankaras are born into warrior families."
+    },
+    {
+      "title": "A baby who held still",
+      "text": "The Kalpa Sutra says the baby once stopped moving so he would not hurt her. She worried, so he stirred gently to show he was well, and she smiled again."
+    },
+    {
+      "title": "Mahavira is born",
+      "text": "After nine months and a little over a week she gave birth to a son. His name was Vardhamana, and the world would know him as Mahavira, the 24th Tirthankara."
+    },
+    {
+      "title": "Remembered every year",
+      "text": "Every year at Paryushana Jains remember her dreams by hearing the Kalpa Sutra and bringing home models of the dreams."
+    }
+  ],
+  "teaches": [
+    "A mother's care shapes a great teacher",
+    "Listening to wise advice",
+    "Remembering gratitude to parents"
+  ],
+  "symbol": "moon",
+  "emblems": [
+    "White elephant (first dream)",
+    "Lotus pond (dream)",
+    "Moon and sun (dreams)",
+    "Smokeless fire (dream)"
+  ],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "King Siddhartha"
+    },
+    {
+      "relation": "Son",
+      "name": "Mahavira",
+      "slug": "mahavira"
+    },
+    {
+      "relation": "Son",
+      "name": "Nandivardhana"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Sudarshana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Chetaka of Vaishali (in Svetambara texts)"
+    },
+    {
+      "relation": "Family connection",
+      "name": "Bimbisara of Magadha (married Chellana, daughter of Chetaka)",
+      "slug": "bimbisara"
+    }
+  ],
+  "texts": [
+    "Kalpa Sutra",
+    "Acharanga Sutra",
+    "Uttarapurana",
+    "Trishashti Shalaka Purusha Charitra"
+  ],
+  "places": ["Vaishali", "Kundagrama", "Mahavirpuram"],
+  "festivals": ["Swapna Darshan", "Paryushana", "Garbha Kalyanaka"],
+  "years": "c. 6th-5th century BCE (traditional)",
+  "quiz": [
+    {
+      "q": "Who was Trishala's famous son?",
+      "options": ["Rishabhanatha", "Parshvanatha", "Mahavira", "Gautama"],
+      "answer": 2,
+      "why": "She is honoured as the mother of Mahavira, the 24th Tirthankara."
+    },
+    {
+      "q": "What is the first animal Trishala sees in the Svetambara dreams?",
+      "options": ["A lion", "A bull", "A horse", "A white elephant"],
+      "answer": 3,
+      "why": "The list begins with the white celestial elephant Airavata."
+    },
+    {
+      "q": "How many dreams do Svetambaras count?",
+      "options": ["14", "16", "24", "8"],
+      "answer": 0,
+      "why": "Svetambaras count 14; Digambaras count 16."
+    },
+    {
+      "q": "Which festival do Jains remember her dreams in?",
+      "options": ["Holi", "Paryushana", "Baisakhi", "Pongal"],
+      "answer": 1,
+      "why": "The Kalpa Sutra is read during Paryushana."
+    }
+  ],
+  "related": ["mahavira", "marudevi", "parshvanatha", "gautama-swami", "bimbisara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Trishala",
+    "dreams": "https://en.wikipedia.org/wiki/Auspicious_dreams_in_Jainism",
+    "kalpasutra": "https://en.wikipedia.org/wiki/Kalpa_Sutra",
+    "mahavira": "https://en.wikipedia.org/wiki/Mahavira",
+    "licchavis": "https://en.wikipedia.org/wiki/Licchavis_of_Vaishali",
+    "lordMahavira": "https://jainqq.org/pagetext/Lord_Mahavira_Vol_01/023276/109",
+    "jainJournal": "https://jainqq.org/pagetext/Jain_Journal_1982_10/520068/32",
+    "kalpasutraText": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2279.htm",
+    "siddhartha": "https://en.wikipedia.org/wiki/Siddhartha_of_Kundagrama"
+  },
+  "palette": {
+    "c1": "#e8e4f3",
+    "c2": "#f3ecd5"
+  },
+  "order": 607,
+  "facts": [
+    {
+      "text": "Svetambara tradition says the baby was conceived by a Brahmin woman, Devananda, and moved by Indra into Trishala's womb on the 83rd day, because Tirthankaras are said to be born into the Kshatriya class.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2279.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Kalpa Sutra's telling, the unborn Mahavira stopped moving so that he would not hurt his mother. Trishala, feeling no kicks, feared for the baby. Sensing her fear, he stirred a little, and her joy returned.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Lord_Mahavira_Vol_01/023276/109",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The same Kalpa Sutra account says that, while still in the womb, Mahavira resolved not to become a monk as long as his parents were alive. Svetambara tradition says he kept that promise.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Lord_Mahavira_Vol_01/023276/109",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Svetambara accounts say Siddhartha and Trishala died by santhara, a fast at life's end, when Vardhamana was 28; his uncle and brother asked him to wait two more years. Other accounts say he left home at 30.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Siddhartha_of_Kundagrama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Trishala's people, the Licchavis, ran a republic from Vaishali. Its assembly held 7,707 unelected rulers, called rajas, out of a population of roughly 200,000 to 300,000.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Licchavis_of_Vaishali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The tribal name Licchavi comes from a Magadhi Prakrit word meaning bear, so the clan might have had a bear as its totem.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Licchavis_of_Vaishali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain texts say 14 dreams foretell a Tirthankara or a chakravartin. Other great births get fewer: 7 of the 14 for a Vasudeva, 4 for a Baladeva and 1 for a regional king.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Auspicious_dreams_in_Jainism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "During Paryushana, monks read the Kalpa Sutra's account of Mahavira's birth, and silver models of her dreams are auctioned for the privilege of displaying them for a time.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Auspicious_dreams_in_Jainism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to Jain texts, Trishala carried her son for nine months and seven and a half days.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trishala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the dream list, the white elephant's four tusks stand for the four parts of the Jain community: monks, nuns, laymen and laywomen. The lion stands for strength and fearlessness.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Auspicious_dreams_in_Jainism",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Svetambara texts make King Chetaka of Vaishali, a Jain king, Trishala's brother. His daughter Chellana married King Bimbisara of Magadha, which would make her Mahavira's cousin.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bimbisara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambaras say Devananda later visited Mahavira after his omniscience. Milk flowed at the sight of him, and Mahavira told his disciple she was his mother. With his consent she became a nun.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Jain_Journal_1982_10/520068/32",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kalpa Sutra says the baby was named Vardhamana, meaning increasing, because the family's gold, silver, grain and jewels grew from the time he was placed in Trishala's womb.",
+      "kind": "language",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2279.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Kalpa Sutra, on the night Trishala gave birth, gods and goddesses rained down a shower of nectar, sandal powder, flowers, gold and pearls.",
+      "kind": "story",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2279.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After the tenth day, the Kalpa Sutra says, Mahavira's parents held a great feast for relatives and friends, shared food and gifts with ascetics, Brahmins and the poor, and then announced the baby's name.",
+      "kind": "festival",
+      "source": "https://neonvagabond.xyz/mirrors/sacred-texts/jai/sbe22/sbe2279.htm",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "compact"
+}

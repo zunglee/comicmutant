@@ -367,17 +367,23 @@ export function Blueprint({
   return (
     <svg
       viewBox="-80 -80 760 560"
-      className="block h-auto w-full text-[#dfeaff]"
+      className="block h-auto w-full text-(--print-blueprint-ink)"
       style={{ ['--bp-fill' as string]: 'rgb(223 234 255 / 0.08)' }}
       role="img"
       aria-label={`Exploded blueprint${labels ? `: ${labels.join(', ')}` : ''}`}
     >
       <defs>
         <pattern id={`bp-grid-${kind}`} width="20" height="20" patternUnits="userSpaceOnUse">
-          <path d="M20 0H0V20" fill="none" stroke="#dfeaff" strokeOpacity="0.12" strokeWidth="1" />
+          <path
+            d="M20 0H0V20"
+            fill="none"
+            stroke="var(--print-blueprint-ink)"
+            strokeOpacity="0.12"
+            strokeWidth="1"
+          />
         </pattern>
       </defs>
-      <rect x="-80" y="-80" width="760" height="560" fill="#0f2a5c" />
+      <rect x="-80" y="-80" width="760" height="560" fill="var(--print-blueprint)" />
       <rect x="-80" y="-80" width="760" height="560" fill={`url(#bp-grid-${kind})`} />
       {/* Scan line sweeps the sheet. */}
       {animate && (
@@ -414,14 +420,14 @@ export function Blueprint({
             <g transform={`translate(${s.pin[0]} ${s.pin[1]})`}>
               <circle
                 r="15"
-                fill={on ? 'var(--c3)' : '#0f2a5c'}
+                fill={on ? 'var(--c3)' : 'var(--print-blueprint)'}
                 stroke="currentColor"
                 strokeWidth="3"
               />
               <text
                 textAnchor="middle"
                 dominantBaseline="central"
-                fontFamily="Bangers, Impact, sans-serif"
+                style={{ fontFamily: 'var(--font-display)' }}
                 fontSize="18"
                 fill={on ? 'var(--on-c3)' : 'currentColor'}
               >

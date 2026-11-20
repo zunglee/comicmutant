@@ -1,0 +1,263 @@
+{
+  "slug": "madhvacharya",
+  "name": "Madhvacharya",
+  "aka": ["Madhva", "Ananda Tirtha", "Purna Prajna", "Vasudeva"],
+  "native": "मध्वाचार्य",
+  "role": "Founder of the Dvaita school of Vedanta and of the Udupi Krishna Matha",
+  "summary": "Madhvacharya was a 13th-century Kannada-region teacher who taught Dvaita Vedanta and, by tradition, set up the Krishna Matha in Udupi.",
+  "about": "Madhvacharya, born Vasudeva near Udupi, was given the monk name Purnaprajna as a teenager, later became known as Ananda Tirtha, and taught the philosophy called Tattvavada or Dvaita. His dates are told two ways, 1199 to 1278 or 1238 to 1317. He wrote around 37 Sanskrit works and held that God and souls are different, with five kinds of difference. His followers say he was the third incarnation of Vayu after Hanuman and Bhima. According to tradition, he set up the Krishna Matha at Udupi in 1285. Eight mathas share its care, taking turns every two years. His ideas spread through the Haridasas, whose Kannada songs reached ordinary people.",
+  "kidSummary": "Madhvacharya was a teacher from near Udupi in Karnataka who taught that God and each soul are different and that we reach God through love. Tradition says he set up the Krishna temple at Udupi, which still feeds thousands of people every day.",
+  "story": [
+    {
+      "title": "Vasudeva of Pajaka",
+      "text": "Madhva was born near Udupi and first named Vasudeva. As a teenager he became a monk and was given the name Purnaprajna; he was later known as Ananda Tirtha."
+    },
+    {
+      "title": "Writing and teaching",
+      "text": "He wrote around 37 short but powerful works and explained the old texts in his own clear way."
+    },
+    {
+      "title": "An idol from clay",
+      "text": "A legend says Madhva found a Krishna idol hidden inside a big lump of sacred clay called gopichandana."
+    },
+    {
+      "title": "The temple at Udupi",
+      "text": "According to tradition he set the idol up at Udupi in 1285, and eight monasteries were given the task of serving Krishna."
+    },
+    {
+      "title": "Songs for everyone",
+      "text": "His followers, the Haridasas, sang his teachings in Kannada so everyone could understand."
+    },
+    {
+      "title": "Food for thousands",
+      "text": "Even today, the temple's kitchens give free meals to many thousands of visitors every day."
+    }
+  ],
+  "teaches": [
+    "Honour the differences among all beings",
+    "Devotion and grace matter along with knowledge",
+    "Feed and serve others"
+  ],
+  "symbol": "conch",
+  "emblems": ["Krishna idol at Udupi", "Gopichandana clay (legend)"],
+  "family": [
+    {
+      "relation": "teacher",
+      "name": "Achyutapreksha"
+    },
+    {
+      "relation": "deity believed to be incarnated as him",
+      "name": "Vayu",
+      "slug": "vayu"
+    },
+    {
+      "relation": "deity he worshipped",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Anuvyakhyana",
+    "Bhagavata-tatparya-nirnaya",
+    "Brahma Sutra Bhashya",
+    "Upanishad commentaries"
+  ],
+  "places": ["Pajaka near Udupi", "Udupi Sri Krishna Matha"],
+  "festivals": ["Madhva Navami", "Madhva Jayanthi", "Paryaya"],
+  "facts": [
+    {
+      "text": "In his own writings, Madhva presents himself as the third avatar of Vayu, the wind deity, after Hanuman and Bhima, and says Vyasa was his guru.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Legends say Madhva could turn tamarind seeds into gold, and once finished off 4,000 bananas and thirty large pots of milk at a single meal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A legend says that when his students' lamp went out, light shone from his big toenail so that they could keep reading.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Another legend says he crossed the Ganga without his clothes getting wet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A legend says Madhva found the Krishna idol inside a large lump of gopichandana, a sacred clay.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Udupi legend says Krishna's idol first faced east and turned west for Kanakadasa; one 1860s account adds that an earthquake cracked the wall and Vadiraja widened it into a window. Historians think it always faced west.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Udupi Krishna temple is run by eight mathas that take turns every two years, a system of rotating leadership called paryaya that Madhva is said to have set up.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Udupi's kitchens feed an estimated 15,000 to 20,000 people daily and over 80,000 during succession ceremonies.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Madhva compared the world to full vessels: the sea, a tank and a pot are all full, yet each is full in its own way, so for him no two souls or things are ever exactly alike.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a young monk he studied in an Advaita monastery at Udupi under the guru Achyutapreksha, but disagreed with the idea that soul and God are one, left, and began his own movement, Tattvavada.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madhva is said to have founded the Krishna Matha at Udupi in 1285 CE with a murti brought from Dwarka in Gujarat.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One legend says Madhva saved a boat caught in a storm off Udupi; it carried an image of Krishna, which had gone into the sea, and he brought it back.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Madhvacharya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "As a young man Madhva was strong at wrestling, running, jumping and swimming, so people nicknamed him Bhima, after the mighty Pandava.",
+      "kind": "history",
+      "source": "https://hindupedia.com/en/Madhvacharya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Madhva's Dvaita lists five eternal differences: God and soul, soul and soul, matter and matter, soul and matter, and God and matter. Nothing truly merges into anything else.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Madhva's best-known biography, the Madhvavijaya, has sixteen cantos and was written by Narayana Panditacharya, whose father Trivikrama Pandita was a disciple of Madhva.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Haridasas turned the learning of the Vyasakuta scholars into Kannada devotional songs, so ordinary people, not only Sanskrit readers, could take in Madhva's philosophy.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Madhva set up the eight Udupi mathas around the Anantheswara temple, placing each under one of his eight disciples as its head.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He was born Vasudeva, took the name Purnaprajna as a teenage monk though his father first objected, and was called Ananda Tirtha once he headed his monastery.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Udupi, devotees see Krishna through a silver-plated window with nine holes, the Navagraha Kindi, which people often confuse with the outer Kanakana Kindi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sources disagree on his dates: many give 1238 to 1317 and some give 1199 to 1278, so even the era of the founder of Dvaita is told two ways.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Madhvacharya",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which school of Vedanta did Madhvacharya found?",
+      "options": ["Advaita", "Vishishtadvaita", "Dvaita", "Samkhya"],
+      "answer": 2,
+      "why": "Madhva founded Dvaita Vedanta."
+    },
+    {
+      "q": "Where is the Krishna Matha that he is said to have established?",
+      "options": ["Udupi", "Puri", "Madurai", "Nashik"],
+      "answer": 0,
+      "why": "Tradition says he set up the Krishna Matha at Udupi."
+    },
+    {
+      "q": "Which deity do followers say he was an avatar of?",
+      "options": ["Agni", "Varuna", "Vayu", "Indra"],
+      "answer": 2,
+      "why": "Followers say he was the third avatar of Vayu."
+    },
+    {
+      "q": "How often does the Udupi paryaya change hands?",
+      "options": ["Every year", "Every two years", "Every 12 years", "Never"],
+      "answer": 1,
+      "why": "The Ashta Mathas rotate management every two years."
+    },
+    {
+      "q": "What is the window at Udupi linked to Kanakadasa called?",
+      "options": ["Kanakana Kindi", "Vairamudi", "Garbhagriha", "Gopuram"],
+      "answer": 0,
+      "why": "Devotees see Krishna through the Kanakana Kindi."
+    }
+  ],
+  "related": [
+    "ramanuja",
+    "adi-shankaracharya",
+    "vayu",
+    "hanuman",
+    "bhima",
+    "krishna",
+    "purandara-dasa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Madhvacharya",
+    "udupiMatha": "https://en.wikipedia.org/wiki/Udupi_Sri_Krishna_Matha"
+  },
+  "palette": {
+    "c1": "#c9dfe0",
+    "c2": "#efd8b0"
+  },
+  "years": "c. 1238–1317 (or 1199–1278)",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

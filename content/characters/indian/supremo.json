@@ -1,0 +1,332 @@
+{
+  "slug": "supremo",
+  "name": "Supremo",
+  "realName": "Amitabh Bachchan (fictionalised screen-star alter ego)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "comics",
+  "publisher": "India Book House (Star Comics)",
+  "summary": "A 1983-84 Star Comics hero whose secret identity was the real film star Amitabh Bachchan. He fought crime with muscle, brains and gadgets, and had no superpowers.",
+  "origin": "In 1983 Pammi Bakshi, editor of the film magazine Movie at India Book House, overheard children arguing over who got to play Superman, Batman or Amitabh Bachchan. She pitched the actor a comic of his own on the Goa set of Pukar, where co-star Randhir Kapoor's habit of announcing that 'Supremo has arrived' gave the hero his name. Gulzar advised on scripts and Pratap Mullick designed the look.",
+  "creators": [
+    "Pammi Bakshi (creator and editor)",
+    "Gulzar (script consultant)",
+    "Sudha Chopra (script coordinator and writer)",
+    "Pratap Mullick (art director, costume design)"
+  ],
+  "firstAppearance": {
+    "title": "The Adventures of Amitabh Bachchan",
+    "issue": "#1 (The Lost Idol)",
+    "year": 1983
+  },
+  "powers": [
+    "Great physical strength and fighting skill",
+    "Sharp, detective-style intelligence",
+    "Island base stocked with a submarine and a helicopter",
+    "Intelligent falcon scout, Shaheen",
+    "Welder-style goggles and a chakra pendant as signature gear",
+    "No flight and no superpowers by design"
+  ],
+  "affiliations": ["Star Comics"],
+  "storyline": [
+    {
+      "era": "Launch",
+      "years": "1983",
+      "title": "The Lost Idol",
+      "beat": "The first issue opens on a film set, then sends the hero to recover an idol from 1660 that criminals are trying to steal by blowing up the sunken ship that holds it."
+    },
+    {
+      "era": "Early issues",
+      "years": "1983-1984",
+      "title": "Hijack and Invasion",
+      "beat": "Early stories include a plane full of children seized by hijackers and an alien plot that switches off Earth's gravity so villagers drift upward."
+    },
+    {
+      "era": "Deep sea",
+      "years": "1983-1984",
+      "title": "The Lost City",
+      "beat": "A bottled message leads Supremo to Atlantis, where he faces a telekinetic ruler who wants to study him."
+    },
+    {
+      "era": "Social stories",
+      "years": "1983-1984",
+      "title": "Trafficking and the vanishing floor",
+      "beat": "He breaks a child-trafficking racket in one issue and, in another, frees nuclear scientists held by an international terror gang in an abandoned mine."
+    },
+    {
+      "era": "Bandit Queen",
+      "years": "1984",
+      "title": "Supremo and the Bandit Queen",
+      "beat": "Children are vanishing, and Supremo traces the dacoit Malan Devi to a hideout behind a waterfall. FilmCompanion calls the story the Dacoit Queen tale, and it finds her grieving her dead son."
+    },
+    {
+      "era": "Imposter",
+      "years": "1984",
+      "title": "The Imposter",
+      "beat": "The world comes to believe Supremo has become a serial bank robber, forcing the real hero to solve the mystery and clear his name."
+    },
+    {
+      "era": "End of run",
+      "years": "1984",
+      "title": "Series stops",
+      "beat": "After about ten issues the line stopped when its driving editor, Pammi Bakshi, moved abroad after her marriage."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "The name came from co-star Randhir Kapoor, who kept announcing 'Supremo has arrived' whenever Amitabh Bachchan reached the Pukar set.",
+      "spice": 1
+    },
+    {
+      "type": "fact",
+      "text": "Bachchan agreed to the comic on two conditions: no caricature of him, and free copies for schools and orphanages.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Costume designer Pratap Mullick had not seen Bachchan's films and drew more than six designs before the actor picked the pink one.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Nearly all issues began with a note from Bachchan asking children not to reveal that he was Supremo.",
+      "spice": 1
+    },
+    {
+      "type": "myth",
+      "text": "Many assume Supremo had superpowers like Superman.",
+      "truth": "He could not fly; his edge was strength, brains and gadgets.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Collectors' prices for old copies now start close to Rs 1,000 each, against an original cover price of Rs 3.50, later Rs 4.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who gave Supremo his name on a film set?",
+      "options": ["Gulzar", "Randhir Kapoor", "Pratap Mullick", "Manmohan Desai"],
+      "answer": 1,
+      "why": "Randhir Kapoor used the word for Bachchan on the Pukar set and the editor adopted it."
+    },
+    {
+      "q": "Which real person was Supremo's secret identity?",
+      "options": ["Dilip Kumar", "Rajesh Khanna", "Amitabh Bachchan", "Dharmendra"],
+      "answer": 2,
+      "why": "The series was officially titled The Adventures of Amitabh Bachchan."
+    },
+    {
+      "q": "What did Supremo wear as his signature pendant?",
+      "options": ["A chakra", "A skull", "A bolt", "A lotus"],
+      "answer": 0,
+      "why": "His outfit paired a pink bodysuit with welder-style goggles and a chakra pendant."
+    },
+    {
+      "q": "Which animal was Supremo's intelligent scout?",
+      "options": ["Parrot", "Falcon", "Owl", "Peacock"],
+      "answer": 1,
+      "why": "Shaheen the falcon was inspired by the bird in the film Coolie."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e75480",
+      "c2": "#4a1530",
+      "c3": "#ffd166"
+    },
+    "motif": "strength",
+    "mood": "dark",
+    "tagline": "A star by day, a hero by night."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Supremo_(comics)",
+    "factordaily": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+    "theprint": "https://theprint.in/opinion/pov/amitabh-bachchan-was-a-comic-book-superman-40-years-ago-in-a-tight-pink-costume/1010674",
+    "filmcompanion": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar"
+  },
+  "timeline": [
+    {
+      "year": 1983,
+      "kind": "turn",
+      "title": "A name from the Pukar set",
+      "note": "Pammi Bakshi pitches the idea to Bachchan in Goa and adopts the name Randhir Kapoor used for him."
+    },
+    {
+      "year": 1983,
+      "kind": "debut",
+      "title": "Star Comics launches the series",
+      "note": "The Adventures of Amitabh Bachchan opens with The Lost Idol, with Hindi editions titled Kisse Amitabh Ke."
+    },
+    {
+      "year": 1984,
+      "kind": "comic",
+      "title": "Bandit Queen cover",
+      "note": "Supremo and the Bandit Queen is the only cover to carry the hero's own name; the other issues are titled for Bachchan."
+    },
+    {
+      "year": 1984,
+      "kind": "turn",
+      "title": "Series ends",
+      "note": "The run stops after about ten issues when Pammi Bakshi leaves India."
+    },
+    {
+      "year": 2022,
+      "kind": "legacy",
+      "title": "Rediscovered as a collectible",
+      "note": "ThePrint revisits the comic and notes that copies once priced at Rs 4 now sell as collectors' items on eBay."
+    }
+  ],
+  "heat": 45,
+  "facts": [
+    {
+      "text": "A real, living film star was the hero's secret identity, and the comic's official title was The Adventures of Amitabh Bachchan; the Hindi edition went by Kisse Amitabh Ke.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Supremo_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "Editor Pammi Bakshi got the idea after overhearing kids quarrel over who played Superman or Batman; one child insisted on being Amitabh Bachchan.",
+      "kind": "origin",
+      "source": "https://theprint.in/opinion/pov/amitabh-bachchan-was-a-comic-book-superman-40-years-ago-in-a-tight-pink-costume/1010674",
+      "interest": 9
+    },
+    {
+      "text": "Most issues open on a film set: Bachchan is shooting a movie when the falcon Shaheen arrives with news of a crime, and in true Bollywood style the police turn up on the last page.",
+      "kind": "story",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    },
+    {
+      "text": "Bachchan said yes on two conditions: the hero must never become a caricature, and free copies must go to schools and orphanages.",
+      "kind": "creator",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    },
+    {
+      "text": "Poet-filmmaker Gulzar was the script consultant, and the hero was meant as a blend of Superman, the Phantom and Bachchan himself.",
+      "kind": "creator",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 7
+    },
+    {
+      "text": "Supremo's pals included a dolphin named Sonali and the falcon Shaheen, so the hero's base felt like a mini adventure park.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Supremo_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Pratap Mullick, the Amar Chitra Katha artist who later drew Nagraj, designed the look. He had not seen Bachchan's films and produced over six sketches.",
+      "kind": "creator",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 7
+    },
+    {
+      "text": "To hide his identity Supremo wears large welder-style glasses and a skin-tight costume with a wrap that a 1983 magazine compared to the cloths worn by fishermen on India's west coast.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Supremo_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Supremo is a peanut-munching, music-loving hero who carries a Walkman wherever he goes.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Supremo_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "His sidekicks Vijay and Anthony are named after famous Bachchan screen roles, and Anthony wears a top hat like the Amar Akbar Anthony character.",
+      "kind": "culture",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    },
+    {
+      "text": "Shaheen, Supremo's intelligent falcon scout, was inspired by the falcon Allah Rakha in the film Coolie.",
+      "kind": "culture",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    },
+    {
+      "text": "Supremo kept a private island with a submarine, a Mustang-style car and a helicopter, in the manner of the Phantom's hideout.",
+      "kind": "story",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    },
+    {
+      "text": "The comics are packed with film in-jokes, even a mention of Harivansh Rai Bachchan's poem Sone Machari, written by the star's own father.",
+      "kind": "culture",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 7
+    },
+    {
+      "text": "In The Lost City the hidden nation is so advanced that even kindergarten children study hydrodynamics.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 8
+    },
+    {
+      "text": "In The Lost City, Supremo wrestles a python while the telekinetic king Amand plans to keep him prisoner and run experiments on him.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 7
+    },
+    {
+      "text": "In the Invasion issue, visiting aliens dislike Earth's gravity and build a machine to switch it off, so villagers start floating away.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 9
+    },
+    {
+      "text": "In The Disappearing Floor, Supremo drops through a trapdoor into a pit with closing spiked walls and escapes by karate-chopping a wooden door and using a plank to lift himself out.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 7
+    },
+    {
+      "text": "The comics slipped in film jokes, such as a kidnapper mimicking the Sholay coin toss and a boy singing from Amar Akbar Anthony.",
+      "kind": "culture",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 9
+    },
+    {
+      "text": "The Disappearing Floor's henchman Scorpio, with flashy sunglasses and slicked hair, looks like the comic Gogo of Andaaz Apna Apna but is written as cruel and frightening.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 7
+    },
+    {
+      "text": "In the Invasion issue, Supremo lifts a baby out of a floating cradle, leaves the child on a treetop and then forgets all about it, a gag that lands as pure slapstick.",
+      "kind": "story",
+      "source": "https://www.filmcompanion.in/amitabh-bachchan-comic-book-supremo-gulzar",
+      "interest": 9
+    },
+    {
+      "text": "FactorDaily notes that Supremo appeared before Krrish, Shaktimaan and even Nagraj and Super Commando Dhruva, making him one of India's earliest comic superheroes.",
+      "kind": "publishing",
+      "source": "https://archive.factordaily.com/amitabh-bachchan-superhero-supremo/",
+      "interest": 8
+    }
+  ],
+  "kidSummary": "Supremo is the hero identity of the real film star Amitabh Bachchan in a 1983 comic. He has no superpowers, just strength, brains, a falcon scout and an island base with a submarine and a helicopter, and he keeps it all secret.",
+  "story": [
+    {
+      "title": "A star on set",
+      "text": "Most adventures begin with Amitabh Bachchan shooting a film. A falcon named Shaheen arrives with news of trouble."
+    },
+    {
+      "title": "Becoming Supremo",
+      "text": "He slips away, puts on a pink costume with welder-style goggles and a chakra pendant, and heads off. He cannot fly, so he uses strength, brains and gadgets."
+    },
+    {
+      "title": "Wild adventures",
+      "text": "Supremo recovers an idol from a sunken ship, finds the lost city of Atlantis, and stops aliens who switched off Earth's gravity."
+    },
+    {
+      "title": "Secret kept",
+      "text": "Nearly every issue begins with a note asking young readers to keep his secret. After about ten issues the series stopped, but it is remembered as a rare comic with a real star as hero."
+    }
+  ]
+}

@@ -1,0 +1,285 @@
+{
+  "slug": "durga",
+  "name": "Durga",
+  "aka": ["Ambika", "Chandi", "Vindhyavasini", "Mahishasuramardini"],
+  "native": "दुर्गा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Warrior goddess and divine Mother",
+  "summary": "Durga is the Hindu goddess of strength who rides a lion. Durga Puja in Kolkata was added to the UNESCO heritage list in 2021.",
+  "about": "Durga's name is usually explained as \"the inaccessible one\". In Shakta thought she is a form of Mahadevi, the Great Goddess. The Devi Mahatmya, composed around 400 to 600 CE, tells how the gods' combined power created her to face the buffalo-formed asura Mahishasura, and popular retellings add that he held a boon that only a woman could defeat him. Artists show her riding a lion or tiger with eight to eighteen arms, each holding a weapon given by a god, and her face stays calm. In Bengal she is also seen as a daughter who visits her family each autumn with her children. Durga Puja and Navaratri are her main festivals.",
+  "kidSummary": "Durga is a brave goddess who rides a lion and has many arms. In the stories, the gods gave her their special tools to protect everyone. In autumn, people celebrate her with songs, dance, lights and big decorated pandals.",
+  "story": [
+    {
+      "title": "A powerful boon",
+      "text": "In popular retellings, the asura Mahishasura, who often took buffalo form, won a boon from Brahma: no man could defeat him."
+    },
+    {
+      "title": "The gods gather",
+      "text": "The gods asked for help, and the text says their combined glow came together as one bright goddess: Durga."
+    },
+    {
+      "title": "Gifts for the journey",
+      "text": "Each god gave her a weapon. The text says Himavan, the mountain king, offered a lion to ride."
+    },
+    {
+      "title": "The great battle",
+      "text": "She rode to meet Mahishasura and his army. After a long fight, the Devi Mahatmya says she ended Mahishasura's threat."
+    },
+    {
+      "title": "Songs of thanks",
+      "text": "The gods thanked her with hymns. Today Hindus remember her each autumn in Navaratri and Durga Puja."
+    }
+  ],
+  "teaches": [
+    "Courage protects the weak",
+    "Stay calm under stress",
+    "Power is meant to be used responsibly"
+  ],
+  "symbol": "sword",
+  "emblems": ["Lion or tiger (vahana)", "Trident", "Many arms with weapons", "Red clothing"],
+  "family": [
+    {
+      "relation": "Seen in many traditions as the same as",
+      "name": "Parvati",
+      "slug": "parvati"
+    },
+    {
+      "relation": "Consort in a Durga Puja story",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Son (in Bengal tradition)",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Son (in Bengal tradition)",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Daughter (in Bengal tradition)",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Daughter (in Bengal tradition)",
+      "name": "Saraswati",
+      "slug": "saraswati"
+    }
+  ],
+  "texts": [
+    "Devi Mahatmya (Durga Saptashati)",
+    "Markandeya Purana",
+    "Devi Bhagavata Purana",
+    "Rigveda Devi Sukta"
+  ],
+  "places": ["Kolkata pandals", "Vindhyachal", "Nagarjuni caves"],
+  "festivals": ["Durga Puja", "Navaratri", "Vijayadashami", "Mahalaya"],
+  "facts": [
+    {
+      "text": "The Devi Mahatmya, which tells how Durga defeated the asuras, has 700 verses in 13 chapters. It is also called the Durga Saptashati or Chandi Path and is recited during Navaratri and Durga Puja.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The asura brothers Shumbha and Nishumbha won Brahma's boon against men, gods and asuras, but none against a goddess. After their courtship was refused, they sent armies and she defeated them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Nepal, Durga's festival is Dashain, the longest national holiday of the country. It lasts ten days, with a different form of the goddess honoured on each, and families buy new clothes and exchange gifts.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some intellectuals place a pen or another writing tool in her hand, since they see their stylus as their weapon.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vaishnava texts call her Yogamaya, Vishnu's sister, who helps arrange Krishna's birth. When Kamsa tried to kill her, she revealed an eighteen-armed form.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Scholar Asko Parpola reads a Kalibangan seal as showing a Durga-like goddess linked to a tiger, so some argue the roots may be very old.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The 15th-century Bengali Krittivasi Ramayana has Rama worship Durga before facing Ravana. When one of 108 lotuses is hidden, he offers an eye instead, and she appears, saying she was only testing him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At Mysuru Dasara in Karnataka, an image of the goddess Chamundeshwari is carried on a golden saddle on a decorated elephant in a grand procession on Vijayadashami.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Around the Mahalaya season that opens Durga Puja, artisans traditionally perform Chokkhu Daan, the ritual painting of the eyes of the idol.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sandhi Puja at the junction of Ashtami and Navami lasts 48 minutes, with 108 lotuses and 108 lamps offered. It marks the moment when, in the scriptures, Chamunda came out of Durga's third eye and killed the asuras Chanda and Munda.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Vijayadashami, women apply sindoor (vermilion) to the idol and to each other in Sindoor Khela, and then the clay idol is immersed in a river.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Gods are believed to sleep in autumn, so the rite that wakes Durga is called akalabodhana, the untimely awakening, and Akalbodhan became a name for the whole festival in parts of eastern India.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Dhunuchi naach is a Durga Puja dance performed with an incense burner, often to the beat of dhak drums played by drummers called dhakis.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some Kolkata traditions, the clay for the idol includes soil from nishiddho pallis, places society shuns, because Durga is believed to be present in everything.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "On the seventh day, Durga is invoked into a bundle of nine plants in the Nabapatrika rite, also called Kolabou Puja. The bundle is bathed in a river or tank, dressed in cloth and placed on the right side of her idol.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Kumari Puja on Ashtami, nine young girls in red are worshipped as the nine forms of Durga, then given new clothes and fed.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Many Bengalis wake at 4 AM on Mahalaya to hear Mahishasuramardini, a radio programme that has been broadcast since the 1950s.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga_Puja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Gujarat, Navaratri revolves around a clay pot called the garbo, and people dance the circular Garba around it on all nine nights.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Navaratri",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During the nine days of Navaratri, each day is given to one of her nine forms, the Navadurga, beginning with Shailaputri, the mountain's daughter, and ending with Siddhidatri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Hindu reformers in Bengal identified Durga with India itself during British rule, she became an icon of the Indian independence movement.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Manuscripts from the 14th century already give rules for Durga Puja, though the sources say it is unclear when or in which century the festival began.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Durga",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal does Durga ride in many images?",
+      "options": ["Lion or tiger", "Elephant", "Peacock", "Horse"],
+      "answer": 0,
+      "why": "Her vahana is a lion or tiger."
+    },
+    {
+      "q": "What does the name Durga mean?",
+      "options": ["Sweet one", "The inaccessible one", "Golden one", "River"],
+      "answer": 1,
+      "why": "It points to a fort that is hard to enter."
+    },
+    {
+      "q": "Which UNESCO year honoured Kolkata's Durga Puja?",
+      "options": ["1999", "2008", "2021", "2016"],
+      "answer": 2,
+      "why": "It was inscribed in 2021."
+    },
+    {
+      "q": "Who is the buffalo-formed asura that Durga faces in the Devi Mahatmya?",
+      "options": ["Mahishasura", "Ravana", "Kamsa", "Banasura"],
+      "answer": 0,
+      "why": "Mahishasura took a buffalo form."
+    },
+    {
+      "q": "What do artisans traditionally paint on the idol around Mahalaya?",
+      "options": ["The eyes", "The crown", "The weapons", "The lion"],
+      "answer": 0,
+      "why": "Chokkhu Daan means giving the eyes."
+    }
+  ],
+  "related": [
+    "parvati",
+    "kali",
+    "mahishasura",
+    "navadurga",
+    "shumbha-and-nishumbha",
+    "raktabija",
+    "ganesha",
+    "kartikeya"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Durga",
+    "durgaPuja": "https://en.wikipedia.org/wiki/Durga_Puja",
+    "deviMahatmya": "https://en.wikipedia.org/wiki/Devi_Mahatmya",
+    "navaratri": "https://en.wikipedia.org/wiki/Navaratri",
+    "shumbha": "https://en.wikipedia.org/wiki/Shumbha_and_Nishumbha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F3C9A8",
+    "c2": "#E8D9A0"
+  },
+  "order": 50
+}

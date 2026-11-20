@@ -1,0 +1,239 @@
+{
+  "slug": "suddhodana",
+  "name": "Suddhodana",
+  "aka": ["Shuddhodana", "Śuddhodana"],
+  "native": "शुद्धोदन",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Leader of the Shakyas and father of the Buddha",
+  "summary": "Suddhodana led the Shakya people at Kapilavastu and, in Buddhist tradition, was the father of Siddhartha Gautama. Later stories call him a king, though modern scholars think he headed a clan republic.",
+  "about": "In Buddhist tradition, Suddhodana was the head of the Shakya clan, whose capital was Kapilavastu. Later retellings call him a king, but many modern scholars say the Shakyas were an oligarchic republic led by a council, and that the early texts never call his family royal. His name is often explained as 'one who has pure rice'. The traditional story says his wife Maya died soon after their son Siddhartha was born, and Maya's sister Mahapajapati Gotami became his chief queen. Later legends say he tried to keep Siddhartha at home among pleasures so the young man would not leave for a spiritual path. After Siddhartha left home and became the Buddha, Suddhodana invited him back. The traditional story says the king later heard the teaching, and that he reached arhatship on his deathbed.",
+  "kidSummary": "Suddhodana was the father of Prince Siddhartha, who became the Buddha. He loved his son very much and wanted him to stay safe at home. Later, after his son became the Buddha, Suddhodana welcomed him home and listened to his teaching.",
+  "story": [
+    {
+      "title": "A father's hopes",
+      "text": "Suddhodana led the Shakya people. Stories say he hoped his son Siddhartha would grow up to lead the people, so he gave him a comfortable home."
+    },
+    {
+      "title": "A son leaves",
+      "text": "When Siddhartha was 29, he left home to search for the way to end suffering. His father was sad, and the baby Rahula stayed behind with his mother."
+    },
+    {
+      "title": "Messengers sent",
+      "text": "When news came that Siddhartha had become the Buddha, Suddhodana sent messengers to invite him home. Many of them listened to the Buddha and stayed as monks."
+    },
+    {
+      "title": "Kaludayi's invitation",
+      "text": "Suddhodana then sent Kaludayi, a boyhood friend of Siddhartha. He also became a monk, but he still passed on the invitation."
+    },
+    {
+      "title": "The Buddha comes home",
+      "text": "The Buddha returned to Kapilavastu and taught his father. Stories say that near the end of his life, Suddhodana became an arhat, a person fully free of suffering."
+    }
+  ],
+  "teaches": [
+    "A parent's love can learn to let go",
+    "It is never too late to listen and learn",
+    "Invitations can open doors to new understanding"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Kapilavastu", "Banyan tree (Sanchi relief)"],
+  "family": [
+    { "relation": "Wife (chief queen)", "name": "Maya", "slug": "maya-mother-of-the-buddha" },
+    {
+      "relation": "Second wife and sister of Maya",
+      "name": "Mahapajapati Gotami",
+      "slug": "mahapajapati-gotami"
+    },
+    { "relation": "Son", "name": "Siddhartha Gautama, the Buddha", "slug": "gautama-buddha" },
+    { "relation": "Daughter-in-law", "name": "Yashodhara", "slug": "yashodhara" },
+    { "relation": "Grandson", "name": "Rahula", "slug": "rahula" }
+  ],
+  "texts": ["Mahapadana Sutta (DN 14)", "Nalaka Sutta (Sn 3.11)", "Pali commentaries"],
+  "places": ["Kapilavastu", "Tilaurakot (Nepal)", "Piprahwa (India)", "Sanchi Stupa"],
+  "festivals": ["Vesak (Buddha Purnima)"],
+  "facts": [
+    {
+      "text": "Many scholars doubt Suddhodana was a king. The Shakyas were probably a council-run republic, and its leader held office only with the approval of the king of Kosala.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Suddhodana",
+      "interest": 8
+    },
+    {
+      "text": "When word of the enlightenment reached him, Suddhodana sent nine messengers to invite his son home, and every one of them stayed with the Buddha as a monk.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Suddhodana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After the birth, Suddhodana called eight Brahmins to foretell the prince's future. Seven said he would be a Buddha or a great king, but Kaundinya was sure he would give up the world and become a Buddha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Four_sights",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After nine messengers stayed with the Buddha as monks, Suddhodana sent Kaludayi, a close friend of Siddhartha. Kaludayi ordained too, but he kept his word, passed on the invitation, and the Buddha came home.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Suddhodana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Chronicle, when Suddhodana asked Shakya families to send daughters to wed the 16-year-old prince, they refused, saying he had no skills. The king passed this on, and the prince offered an archery display.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 8
+    },
+    {
+      "text": "In the Nalaka Sutta the seer Asita saw gods celebrating, visited the Shakyas, looked at the newborn prince and said he would become a Buddha. Then he wept, because he knew he would die before he could hear the teaching.",
+      "kind": "story",
+      "source": "https://www.accesstoinsight.org/tipitaka/kn/snp/snp.3.11.than.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In some versions Suddhodana had the prince's road beautified and guarded so he would see nothing sad. The Lalitavistara adds that the gods placed the Four Sights on the road anyway.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Four_sights",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Pali commentary, young Siddhartha was left under a rose-apple tree during a ploughing festival. Alone, he sat cross-legged, watched his breath and reached his first deep meditation.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The same account says the tree's shade stayed round and still after noon while other shadows moved. The astonished king came, saluted his son and said it was the second time he had done so.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 8
+    },
+    {
+      "text": "When the Buddha first came home he walked house to house for alms. The king hurried out, upset, and said none of their family had ever done that. The Buddha answered that his own line was the line of the Buddhas.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/27-Suddhodana.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Early Pali suttas tell the Four Sights only of an earlier Buddha, Vipassi. Later works, the Nidanakatha and Lalitavistara, applied it to Siddhartha, so the king's shielding of the prince comes from later retellings.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Four_sights",
+      "interest": 8
+    },
+    {
+      "text": "The Burmese Great Chronicle of Buddhas says that when Siddhartha was 16, Suddhodana had three palaces built: Ramma for winter, Suramma for summer and Subha for the rainy season.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In that account the summer palace had water pumped over a gold ceiling to drip like rain, and pebbles dropped on stretched buffalo hide to rumble like thunder, all to keep the prince cool.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Chronicle says that when the prince was seven, Suddhodana planned a lake for him, but Sakka had the divine builder Vissakamma make a jewelled one overnight. The king called it the gods' gift.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the ploughing festival in the Chronicle, 1,000 ploughs stood ready: silver ones for the courtiers and a golden one for the king, who ploughed across the field just once to bring blessing.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 7
+    },
+    {
+      "text": "On the Buddha's first visit home, the Dhammapada commentary says he made a jewelled walkway in mid-air and taught as he paced it, to soften his kinsfolk's pride. Everyone, starting with Suddhodana, bowed.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/13-02.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Jinacarita says that on the Buddha's return lotuses rose to catch his every footstep, and rays from his body turned the city's gates and mansions golden before the king hurried out upset.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Victorious-Buddha/27-Suddhodana.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "With Mahapajapati Gotami he had a son, Nanda, and a daughter, Sundari Nanda. Both later became Buddhist monastics, so his whole close family joined the order.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Suddhodana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Great Chronicle says Suddhodana became an arahant in the fifth year after his son's awakening and passed away the very same day, still reigning as king.",
+      "kind": "text",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/44-11.htm",
+      "interest": 7
+    },
+    {
+      "text": "In the Chronicle, the prince pulled a giant bow taut with his toe and twanged it. The sound rolled through Kapilavastu like thunder, and the 80,000 Shakya relatives who watched were delighted.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+      "interest": 9,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose father was Suddhodana, according to Buddhist tradition?",
+      "options": ["Ananda", "Siddhartha Gautama", "Ashoka", "Sariputta"],
+      "answer": 1,
+      "why": "Suddhodana is remembered as the father of Siddhartha, who became the Buddha."
+    },
+    {
+      "q": "What was the Shakya capital called?",
+      "options": ["Kapilavastu", "Rajagriha", "Lumbini", "Vaishali"],
+      "answer": 0,
+      "why": "Kapilavastu was the Shakya capital. Lumbini was the birth garden."
+    },
+    {
+      "q": "Who became Suddhodana's chief queen after Maya died?",
+      "options": ["Yashodhara", "Sujata", "Mahapajapati Gotami", "Ambapali"],
+      "answer": 2,
+      "why": "Maya's sister Mahapajapati Gotami became his chief wife and raised the Buddha."
+    },
+    {
+      "q": "Why do some scholars doubt Suddhodana was a king?",
+      "options": [
+        "He was a priest",
+        "Kapilavastu was ruled by Magadha",
+        "He was elected by lottery",
+        "The Shakyas were led by a council"
+      ],
+      "answer": 3,
+      "why": "Many scholars think the Shakyas were a republic with a council, and the early texts do not call his family royal."
+    }
+  ],
+  "related": [
+    "maya-mother-of-the-buddha",
+    "mahapajapati-gotami",
+    "gautama-buddha",
+    "yashodhara",
+    "rahula"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Suddhodana",
+    "kapilavastu": "https://en.wikipedia.org/wiki/Kapilavastu_(ancient_city)",
+    "chronicle": "https://ancient-buddhist-texts.net/English-Texts/Great-Chronicles/02.htm",
+    "dhammapada_commentary": "https://ancient-buddhist-texts.net/English-Texts/Dhamma-Verses-Comm/13-02.htm"
+  },
+  "depth": "full",
+  "palette": { "c1": "#E8D8B0", "c2": "#C9D5E4" },
+  "years": "c. 6th–5th century BCE",
+  "order": 2
+}

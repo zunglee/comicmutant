@@ -1,0 +1,265 @@
+{
+  "slug": "padmavati",
+  "name": "Padmavati",
+  "aka": ["Padmavati Devi", "Padmini"],
+  "native": "पद्मावती",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Yakshi, protector goddess of Parshvanatha",
+  "summary": "Padmavati is the Jain attendant goddess (yakshi) of the 23rd Tirthankara, Parshvanatha. She is shown under a canopy of snake hoods and is worshipped for protection and wealth, especially in Karnataka.",
+  "about": "In Jainism, Padmavati is the yakshi, or attendant goddess, of Parshvanatha, the 23rd Tirthankara. Jains do not see her as a creator; she is a protector who guards the teaching and helps devotees. Jain tradition tells that she and Dharanendra were once a pair of snakes whom Parshvanatha saved, and that they later sheltered him during a storm. Scholars note that her link with Parshvanatha appears late in art, around the 10th century, and that she may have grown from an older clan goddess. She is worshipped in her own right, especially in Karnataka and South India, with Ambika and Chakreshvari as one of the three most popular yakshis. Her name comes from padma, the lotus. Svetambaras pair her with the yaksha Parshva, Digambaras with Dharanendra.",
+  "kidSummary": "Padmavati is a kind goddess in Jain stories who protects the Tirthankara Parshvanatha. She is shown with a crown of snake hoods and sometimes with a lotus. Jains say that she and Dharanendra were once snakes saved by Parshvanatha, and they helped him in return.",
+  "story": [
+    {
+      "title": "Two snakes in a log",
+      "text": "Jain tradition says Prince Parshvanatha saw a pair of snakes trapped in a burning log. He helped them at the end of their lives, and after their death they were reborn."
+    },
+    {
+      "title": "Reborn as protectors",
+      "text": "The snakes were reborn as Dharanendra, lord of the snake world, and a naga queen named Padmavati. Writers note that this snake queen and the attendant goddess Padmavati are described as different beings, though devotees often honour them together."
+    },
+    {
+      "title": "A storm arrives",
+      "text": "Years later, Parshvanatha sat in meditation. In the story, a hostile being named Kamatha, reborn as Meghamali, sent a storm of rain and flood."
+    },
+    {
+      "title": "A hood for shelter",
+      "text": "Dharanendra spread a great canopy of snake hoods above Parshvanatha, and Padmavati coiled around him to guard him."
+    },
+    {
+      "title": "A goddess for helping people",
+      "text": "Jains worship Padmavati as a goddess who looks after her devotees. Many temples keep her shrine beside Parshvanatha's."
+    }
+  ],
+  "teaches": ["Kindness comes back to us", "Gratitude and loyalty", "Staying calm in a storm"],
+  "symbol": "lotus",
+  "emblems": ["Snake-hood canopy", "Lotus", "Rooster or snake (vahana)", "Noose, goad and fruit"],
+  "family": [
+    {
+      "relation": "Digambara counterpart",
+      "name": "Dharanendra",
+      "slug": "dharanendra"
+    },
+    {
+      "relation": "Svetambara counterpart",
+      "name": "Parshva (yaksha)"
+    },
+    {
+      "relation": "Tirthankara she protects",
+      "name": "Parshvanatha",
+      "slug": "parshvanatha"
+    },
+    {
+      "relation": "Fellow yakshis",
+      "name": "Ambika",
+      "slug": "ambika"
+    },
+    {
+      "relation": "Fellow yakshis",
+      "name": "Chakreshvari",
+      "slug": "chakreshvari"
+    }
+  ],
+  "texts": [
+    "Bhairava-Padmavati-Kalpa (1057 CE)",
+    "Adbhuta-Padmavati-Kalpa",
+    "Padmavati-Mahatmya",
+    "Trishashti Shalaka Purusha Charitra"
+  ],
+  "places": [
+    "Humcha (Hombuja), Karnataka",
+    "Kattale Basadi, Chandragiri",
+    "Padmavati Basadi, Karkala",
+    "Padmakshi Gutta, Warangal",
+    "Bale Padmavati temple, near Jog Falls"
+  ],
+  "festivals": ["Rathayatra at Humcha"],
+  "facts": [
+    {
+      "text": "At Ahichchhatra, where Parshvanatha is believed to have attained omniscience, the story says floodwater rose to his neck as Dharanendra held up a hood canopy and Padmavati coiled around him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parshvanatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A legend at Hombuja says that when she stopped there, iron turned into gold.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the account of the founding of the Santara dynasty, King Jinadatta gave her a pearl that was an imitation, and she left in anger.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her origins are unclear. A scholar notes she was probably a local clan goddess, that her link to Parshvanatha shows up late, not in art before about the 10th century, and that she may have replaced an older snake goddess, Vairotya.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a photo from Melbourne, lay Jains anointing her image cover their nose and mouth so that they do not pollute it.",
+      "kind": "festival",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a 13th-century tale, a monk's rite to protect a city called up a foreign deity in disguise instead of Padmavati, so the texts stress careful rules for worship.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Shravanabelagola inscription of 1129 CE says Padmavati helped the teacher Patrakesari win debates, and a 12th-century account says she approved Shridhara's plan to install a Jina image.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhairava-Padmavati-Kalpa, a manual by the Digambara monk Mallishena, has ten chapters, and one of them covers snake control and the treatment of snakebite.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Humcha, tradition says Padmavati agreed to a temple only after King Jinadatta promised another for Parshvanatha, and that she would travel no farther than that spot.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Each March or April, Humcha holds a rathayatra for Parshvanatha and Padmavati. The programme includes a snake-vehicle procession, a lion-vehicle procession and a flower chariot.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Humcha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In images she often sits on a lotus under a snake hood, with four arms holding a noose, a rosary, an elephant goad, a lotus and a fruit. A small image of Parshvanatha is often placed in her crown, and her mount is a rooster.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Padmavati_(Jainism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Friday of each week is a particularly popular day to worship Padmavati.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Padmavati_(Jainism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Lay Jains pray to her for practical help such as health, exam success and business. She is also credited with curing snakebite, which may help explain her bond with Parshvanatha, whose emblem is the snake.",
+      "kind": "teaching",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Humcha founding story, the prince Jinadatta flees his father with her help. She makes his pursuers see a bigger army than there is, and they turn back.",
+      "kind": "story",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Svetambara shrine near Karnal, close to Delhi, opened in 1984 at the urging of a Jain nun, Sadhvi Mrigavati, to keep lay Jains from turning to fakirs and non-Jain deities for help.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Mallishena's Bhairava-Padmavati-Kalpa lists six aims of rites, such as pacifying and halting others. It also describes divination using mirrors, lamp flames, swords, water or an oiled thumb, and warns that wrong worship can make her harmful.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A 9th-century relief of Padmavati survives among the Chitharal Jain monuments, and an 11th-century bronze in the Walters Art Museum shows a mandala of her.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Padmavati_(Jainism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Svetambara images usually show her in gold with four arms, holding a lotus, noose, fruit and goad. Digambara images vary more: one from Deogarh holds a noose, lotus and shield and makes a blessing gesture.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hymns and worship booklets about Padmavati exist in Hindi, Gujarati, Tamil and Kannada, and are sold cheaply at temples and shops.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/practices/deities/padmavati",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Padmavati is honoured with Ambika and Chakreshvari as esteemed goddesses, and the sculpture pairing Padmavati with Dharanendra is among the most favoured yaksha-yakshi couples in Jain art.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Padmavati_(Jainism)",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which Tirthankara does Padmavati protect?",
+      "options": ["Rishabhanatha", "Parshvanatha", "Mahavira", "Neminatha"],
+      "answer": 1,
+      "why": "She is the yakshi, or attendant goddess, of the 23rd Tirthankara, Parshvanatha."
+    },
+    {
+      "q": "What forms a canopy above her head in images?",
+      "options": ["Peacock feathers", "Snake hoods", "Lotus petals", "A parasol"],
+      "answer": 1,
+      "why": "She is shown under a canopy of snake hoods."
+    },
+    {
+      "q": "Which Karnataka place is a famous Padmavati centre?",
+      "options": ["Humcha", "Shravanabelagola", "Moodbidri", "Karkala"],
+      "answer": 0,
+      "why": "Humcha, also called Hombuja, is a major centre with a Padmavati temple. The other three are Jain sites too, but not her main centre."
+    },
+    {
+      "q": "What did Jain tradition say she and Dharanendra once were?",
+      "options": ["Birds", "Snakes", "Elephants", "Monks"],
+      "answer": 1,
+      "why": "They were a pair of snakes rescued by Parshvanatha."
+    }
+  ],
+  "related": [
+    "dharanendra",
+    "parshvanatha",
+    "ambika",
+    "chakreshvari",
+    "neminatha",
+    "rishabhanatha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Padmavati_(Jainism)",
+    "jainpedia": "https://jainpedia.org/themes/practices/deities/padmavati",
+    "humcha": "https://en.wikipedia.org/wiki/Humcha",
+    "parshvanatha": "https://en.wikipedia.org/wiki/Parshvanatha",
+    "shravanabelagola": "https://en.wikipedia.org/wiki/Shravanabelagola"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8ddb8",
+    "c2": "#c9e0d6"
+  }
+}

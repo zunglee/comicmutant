@@ -1,0 +1,261 @@
+{
+  "slug": "ramanuja",
+  "name": "Ramanuja",
+  "aka": ["Ramanujacharya", "Emperumanar", "Udaiyavar", "Yatiraja", "Ilaiyalvar"],
+  "native": "रामानुज",
+  "role": "Sri Vaishnava teacher who taught Vishishtadvaita",
+  "summary": "Ramanuja was an 11th to 12th-century Tamil Vaishnava teacher of Vishishtadvaita, who wrote the Sri Bhashya and welcomed people of all castes into devotion.",
+  "about": "Ramanuja was a Sri Vaishnava teacher born in Sriperumbudur. Tradition says he lived 120 years, from 1017 to 1137, while scholars suggest about 1077 to 1157. He taught Vishishtadvaita, the view that souls and the world are real, yet form the body of God. He wrote the Sri Bhashya, a commentary on the Brahma Sutras, at Srirangam. His path of prapatti, surrender to God, was open to people of every caste. Hagiographies tell of plots against him and a long stay in the Hoysala kingdom, where he built the Melukote temple. In 2022, the Statue of Equality was unveiled near Hyderabad.",
+  "kidSummary": "Ramanuja was a wise teacher from Tamil Nadu who taught that everyone can reach God through love and surrender, whatever their family or job. He wrote a great book at Srirangam and helped build a temple at Melukote. Today a giant statue of him stands near Hyderabad.",
+  "story": [
+    {
+      "title": "A clever student",
+      "text": "Ramanuja was born in Sriperumbudur and studied at Kanchipuram with a teacher named Yadava Prakasha. They often disagreed about how to read the Upanishads, so Ramanuja went his own way."
+    },
+    {
+      "title": "Finding a new path",
+      "text": "He followed the teachings of Yamunacharya's line and joined the Sri Vaishnava community at Srirangam."
+    },
+    {
+      "title": "Dangers on the way",
+      "text": "The stories say that people plotted against him, with poison and tricks, but he stayed calm and kept teaching."
+    },
+    {
+      "title": "A temple at Melukote",
+      "text": "Stories say he spent years in the Hoysala kingdom and, tradition says, helped build the Thirunarayanaswamy temple at Melukote in Karnataka."
+    },
+    {
+      "title": "Doors for all",
+      "text": "He told people that surrender to God was open to everyone, and he helped many groups to enter the temple."
+    },
+    {
+      "title": "A statue for equality",
+      "text": "In 2022, a 216-foot statue of Ramanuja, the Statue of Equality, was unveiled near Hyderabad."
+    }
+  ],
+  "teaches": [
+    "Everyone can seek God, whatever their family or work",
+    "Surrender to God can be a path for all",
+    "Learning and devotion go together"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Sri Bhashya", "Triple staff (tridandi)"],
+  "family": [
+    {
+      "relation": "great-grandfather (teacher line)",
+      "name": "Yamunacharya"
+    },
+    {
+      "relation": "first teacher",
+      "name": "Yadava Prakasa"
+    },
+    {
+      "relation": "deity he served",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    }
+  ],
+  "texts": ["Sri Bhashya", "Gadya Trayam", "Vedartha Sangraha", "Bhagavad Gita Bhashya"],
+  "places": ["Sriperumbudur", "Srirangam", "Melukote", "Statue of Equality, Hyderabad"],
+  "festivals": ["Ramanuja Jayanti", "Vairamudi at Melukote"],
+  "facts": [
+    {
+      "text": "Tradition gives Ramanuja a 120-year life, 1017 to 1137, while modern scholars suggest about 1077 to 1157, roughly 80 years.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some hagiographies say that the body of the teacher Yamunacharya miraculously rose at his funeral and named Ramanuja as the next leader of the Sri Vaishnava community.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Hagiographies say a plot to kill him on a journey to the Ganges failed when a hunter couple helped him escape.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A head priest of the Srirangam Ranganathaswamy temple, who disliked Ramanuja, is said to have poisoned the temple's holy water and served it to him; Ramanuja reportedly danced with joy and was unharmed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition says Ramanuja spent about 14 years in the Hoysala kingdom, where the Jain king Bitti Deva became Vishnuvardhana, and with his help built the Thirunarayanaswamy temple at Melukote.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He called lower-status groups 'Tirukulattar', meaning of noble descent, and helped them enter the Melukote temple.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Statue of Equality in Hyderabad shows Ramanuja at 66 metres, about 216 feet tall.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Equality_(Ramanuja)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 1.4-metre Ramanuja made from 120 kilograms of gold sits in a meditation hall in the statue's base; the weight stands for the 120 years that tradition gives his life.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Equality_(Ramanuja)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sri Vaishnava tradition says Ramanuja climbed a temple at Thirukoshtiyur and called the villagers to hear a secret mantra, though his teacher Nambi had told him to keep it hidden.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thirukoshtiyur",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Ramanuja's teacher Thirukoshtiyur Nambi turned him away seventeen times, because he kept starting with the word 'I' when he introduced himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thirukoshtiyur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Nambi asked why he had shared the Thirukoshtiyur mantra, Ramanuja said he would gladly face hell if it helped others reach liberation; Nambi then gave him the title Emperumanar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Thirukoshtiyur",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ramanuja's Vishishtadvaita pictures the whole universe, every soul and every bit of matter, as the body of God, with God as the inner self that guides it.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A tradition retold on the ramanuja.org forum says he travelled to Kashmir, got hold of the old Bodhayana commentary on the Brahma Sutras for a single night, and his disciple Kuresa memorised it, which helped him write the Sri Bhashya.",
+      "kind": "story",
+      "source": "https://www.ramanuja.org/sv/bhakti/archives/dec2002/0298.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The teacher Yadava Prakasha, who is said to have plotted against Ramanuja on the Ganges trip, later realised his mistake and became Ramanuja's own disciple.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ramanuja asked Kanchipurna, a devotee who was not a Brahmin, to be his teacher; Kanchipurna politely declined, but Ramanuja still sought spiritual guidance from him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some scholars see Ramanuja as holding a place in Hindu thought much like the one the 13th-century Christian thinker Thomas Aquinas holds in his own tradition.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Statue of Equality in Hyderabad is the second tallest sitting statue in the world, and it is ringed by 108 stone model temples called divya desams.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Statue_of_Equality_(Ramanuja)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ramanuja firmly opposed the idea that the world is maya, illusion; for him matter, souls and God are all real, though they differ in how aware they are.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ramanuja held that true love needs two: a devotee and God must stay distinct, because love cannot exist without a lover and a beloved.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits Ramanuja with nine Sanskrit works, headed by the Sri Bhashya on the Brahma Sutras; scholars firmly accept three big ones: Sri Bhashya, Vedarthasamgraha and the Gita commentary.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramanuja",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is the school of Vedanta Ramanuja taught called?",
+      "options": ["Advaita", "Dvaita", "Vishishtadvaita", "Samkhya"],
+      "answer": 2,
+      "why": "Ramanuja taught Vishishtadvaita."
+    },
+    {
+      "q": "How tall is the Statue of Equality in Hyderabad?",
+      "options": ["66 metres", "12 metres", "10 metres", "200 metres"],
+      "answer": 0,
+      "why": "It is about 66 metres, or 216 feet, tall."
+    },
+    {
+      "q": "Which book is his commentary on the Brahma Sutras?",
+      "options": ["Sri Bhashya", "Bhaja Govindam", "Tiruppavai", "Gitanjali"],
+      "answer": 0,
+      "why": "Sri Bhashya is his commentary on the Brahma Sutras."
+    },
+    {
+      "q": "Which temple did he help build at Melukote?",
+      "options": [
+        "Meenakshi temple, Madurai",
+        "Thirunarayanaswamy temple",
+        "Virupaksha temple, Hampi",
+        "Brihadisvara temple, Thanjavur"
+      ],
+      "answer": 1,
+      "why": "Tradition says he built the Thirunarayanaswamy temple at Melukote."
+    },
+    {
+      "q": "At Thirukoshtiyur, what is Ramanuja said to have done with a secret mantra?",
+      "options": [
+        "Kept it hidden for life",
+        "Taught it from the temple top to the villagers",
+        "Wrote it on a coin",
+        "Gave it only to a king"
+      ],
+      "answer": 1,
+      "why": "Sri Vaishnava tradition says he shared it with everyone, wanting all to benefit."
+    }
+  ],
+  "related": ["vishnu", "adi-shankaracharya", "madhvacharya", "andal", "venkateswara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ramanuja",
+    "statueOfEquality": "https://en.wikipedia.org/wiki/Statue_of_Equality_(Ramanuja)",
+    "melukote": "https://en.wikipedia.org/wiki/Melukote",
+    "thirukoshtiyur": "https://en.wikipedia.org/wiki/Thirukoshtiyur"
+  },
+  "palette": {
+    "c1": "#f0d9b5",
+    "c2": "#cfe0d4"
+  },
+  "years": "c. 1077–1157 (traditional 1017–1137)",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

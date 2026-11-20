@@ -1,0 +1,269 @@
+{
+  "slug": "karna",
+  "name": "Karna",
+  "aka": ["Vasusena", "Radheya", "Angaraja", "Daanaveera", "Suryaputra"],
+  "native": "कर्ण",
+  "role": "Generous warrior and king of Anga in the Mahabharata",
+  "summary": "Karna is a great archer of the Mahabharata, raised by a charioteer family and later crowned king of Anga. The epic says he was Kunti's firstborn, a son of the sun god Surya, and he is remembered for his generosity.",
+  "about": "In the Mahabharata, Kunti, as a young girl, used a mantra to call the sun god Surya and gave birth to Karna, who was born with a golden breastplate and earrings. She set the baby afloat in a basket on a river, and Adhiratha and his wife Radha, from a charioteer family, raised him. He trained as an archer, and Duryodhana crowned him king of Anga after others questioned his birth, which began a lifelong friendship. He is popularly called Daanaveera, one who gives without refusing, because he handed his armour to Indra, who came in disguise. Karna fought for the Kauravas and led their army for two days at Kurukshetra, where Arjuna ended his life on day seventeen. Poets and filmmakers across India have kept returning to him: Dinkar in Hindi, Shivaji Sawant in Marathi, Tagore in Bengali, and films in Tamil and Hindi.",
+  "kidSummary": "Karna is a mighty archer in the Mahabharata who was born with shining armour. He was raised by a charioteer family but became a king because of his skill. People remember him mostly for his generosity: he never said no to anyone who asked for help. He was also a loyal friend.",
+  "story": [
+    {
+      "title": "A baby in a basket",
+      "text": "In the Mahabharata, Kunti was given a mantra by a sage. She used it to call the sun god Surya, and a baby was born in a golden armour. Afraid, she set him in a basket on a river."
+    },
+    {
+      "title": "A new family",
+      "text": "The basket floated through several rivers to the land of Anga. A charioteer named Adhiratha and his wife Radha found the baby and raised him with love."
+    },
+    {
+      "title": "A king by friendship",
+      "text": "At a display of skill, someone asked about Karna's family. Duryodhana made him king of Anga on the spot, and the two became close friends."
+    },
+    {
+      "title": "The gift to Indra",
+      "text": "Indra came to Karna as a poor Brahmin and asked for his armour. Karna, who never refused anyone, cut it off and gave it, and got a single-use weapon in return."
+    },
+    {
+      "title": "The last day",
+      "text": "On the seventeenth day of Kurukshetra, Karna faced Arjuna. His teacher's old curse made him forget his greatest weapon spell, and his chariot wheel sank into the earth. Arjuna defeated him that day."
+    }
+  ],
+  "teaches": [
+    "Generosity, even when it costs you dearly",
+    "Loyalty to a friend who stood by you",
+    "Choices shape you more than birth does"
+  ],
+  "symbol": "sun",
+  "emblems": ["Golden armour and earrings (from birth)", "Bow Vijaya"],
+  "family": [
+    {
+      "relation": "Mother (birth)",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Father by tradition",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Foster father",
+      "name": "Adhiratha"
+    },
+    {
+      "relation": "Foster mother",
+      "name": "Radha"
+    },
+    {
+      "relation": "Close friend",
+      "name": "Duryodhana",
+      "slug": "duryodhana"
+    }
+  ],
+  "texts": ["Mahabharata (Adi, Karna and Shalya Parvas)", "Rashmirathi (Dinkar, 1952)"],
+  "places": ["Anga", "Karnal, Haryana", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "One telling, in section 3.290-291 of the critical edition, says the baby came to Kunti through her ear. That is why he was called Karna, the Sanskrit word for ear.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The basket drifted along the Charmanwati, the Yamuna and the Ganga before reaching Anga, where Radha found him and she and Adhiratha raised him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Drona would not teach him the Brahmastra, Karna posed as a Brahmin to study under Parashurama. Parashurama found out and cursed him to forget the secret of that weapon at the moment he most needed it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Indra came disguised as a Brahmin to ask for the armour, Karna cut it off his own body with a knife, ignoring his father Surya's warning. He received a single-use missile in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 9
+    },
+    {
+      "text": "At the weapons display Karna had to announce his lineage, and a charioteer's family would bar him from facing Arjuna. Duryodhana called him an arajna, a non-king and a pun on Arjuna, and crowned him king of Anga that day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the war Bhishma rated Karna as an ardharatha, a half chariot-warrior, a slight Karna took badly. Later lists differ, and some place Karna among the maharathis, the top rank of warriors.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hindu_mythological_wars",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The epic says Indra's gift was a missile that could be used only once. Karna saved it for Arjuna, but on the fifteenth night his friends begged him to stop Ghatotkacha, and he spent it there.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Krishna told Karna in secret that Kunti was his birth mother and offered him the status of eldest Pandava, even a throne. Karna refused, saying love and his promise to Duryodhana mattered more than power.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 9
+    },
+    {
+      "text": "When Kunti met Karna before the war, he promised to spare four of her sons. Only Arjuna or he would die, he said, so she would still have five sons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 9
+    },
+    {
+      "text": "A Brahmin's curse said the earth would swallow Karna's chariot wheel at a moment of danger. On day seventeen it came true, and while he tried to free the wheel, Arjuna's arrow ended the duel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one South Indian version, Krishna takes the form of a rat and cuts the bowstring at Draupadi's contest. The critical edition has Karna simply fail, and the rat and charioteer-rejection tales appear only in later manuscripts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8
+    },
+    {
+      "text": "In the duel on day seventeen, Krishna used his yoga power to sink Arjuna's chariot five finger-breadths into the earth, protecting Arjuna from Karna's famous snake arrow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar McGrath points to a Vedic parallel: the sun god Surya is abandoned by his mother Night and raised by Dawn, whom he treats as his true mother, just as Karna honours Radha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 7
+    },
+    {
+      "text": "Folk tradition in Uttarakhand's Tons valley says that when Karna died, his followers wept so much that their tears became the river now called the Tons.",
+      "kind": "story",
+      "source": "https://www.hinduismtoday.com/magazine/apr-may-jun-2022/the-wondrous-wood-temples-of-tons-valley/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Scholar McGrath links the wheel scene to a Vedic myth in which Indra cripples the sun god Surya by detaching his wheel. Karna is the son of Surya, and Arjuna the son of Indra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 7
+    },
+    {
+      "text": "After Karna's death Kunti told the Pandavas that he was their eldest brother. The text says Yudhishthira was overcome with grief at the news.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kunti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A regional tradition says Karna founded the city of Karnal in Haryana, which is why people link the city's name with his.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Karna was crowned king of Anga, his foster father Adhiratha came to the ceremony and Bhima mocked his low standing. This public insult to the man who raised him is said to have deepened Karna's hostility to the Pandavas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 1991 Tamil film Thalapathi, with Rajinikanth in a role based on Karna, builds its story around the friendship between Karna and Duryodhana.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the morning of his last battle Karna asked Duryodhana to persuade King Shalya to drive his chariot. Shalya found it beneath his dignity and traded insults with Karna before agreeing at Duryodhana's urging.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Besides ear, karna can mean rudder or helm. Scholars link this sense to Karna's role in steering the war in Book 8, where the epic surrounds him with ocean and boat imagery.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Karna",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which god does the Mahabharata name as Karna's father?",
+      "options": ["Indra", "Surya", "Vayu", "Agni"],
+      "answer": 1,
+      "why": "Kunti called Surya, the sun god, with a mantra."
+    },
+    {
+      "q": "What was Karna born with, according to the epic?",
+      "options": ["A golden bow", "Armour and earrings", "A conch shell", "A crown"],
+      "answer": 1,
+      "why": "He had a natural breastplate and earrings."
+    },
+    {
+      "q": "What does the title Daanaveera mean?",
+      "options": ["Very brave", "Very generous", "Very fast", "Very wise"],
+      "answer": 1,
+      "why": "It means one who gives very freely."
+    },
+    {
+      "q": "Which kingdom did Duryodhana give Karna?",
+      "options": ["Magadha", "Anga", "Kashi", "Matsya"],
+      "answer": 1,
+      "why": "Karna became Angaraja, king of Anga."
+    },
+    {
+      "q": "Which city in Haryana is traditionally linked to Karna's name?",
+      "options": ["Panipat", "Karnal", "Ambala", "Rohtak"],
+      "answer": 1,
+      "why": "Local tradition links Karnal to Karna."
+    }
+  ],
+  "related": [
+    "kunti",
+    "surya",
+    "duryodhana",
+    "arjuna",
+    "bhishma",
+    "drona",
+    "indra",
+    "parashurama",
+    "ashwatthama",
+    "kripa"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Karna",
+    "tons": "https://www.hinduismtoday.com/magazine/apr-may-jun-2022/the-wondrous-wood-temples-of-tons-valley/",
+    "bhishma": "https://en.wikipedia.org/wiki/Bhishma",
+    "kunti": "https://en.wikipedia.org/wiki/Kunti",
+    "hmw": "https://en.wikipedia.org/wiki/Hindu_mythological_wars"
+  },
+  "palette": {
+    "c1": "#E9CFA0",
+    "c2": "#F3E6C8"
+  },
+  "order": 14,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "depth": "full"
+}

@@ -1,0 +1,192 @@
+{
+  "slug": "sujata",
+  "name": "Sujata",
+  "aka": ["Nandabala", "Sujata of Sanani"],
+  "native": "सुजाता",
+  "role": "Villager who offered the Buddha rice-milk before his awakening",
+  "summary": "In Buddhist tradition, Sujata was a village woman near Bodh Gaya who gave the future Buddha a bowl of sweet milk-rice after six years of fasting, giving him strength for his night of awakening.",
+  "about": "Buddhist texts such as the Lalitavistara and Ashvaghosha's poem Buddhacharita tell of Sujata, also called Nandabala, a landowner's daughter from the village of Sanani, now called Bakraur, close to Bodh Gaya. According to tradition she had prayed to a spirit of a banyan tree for a husband and a son, and every year she thanked it with an offering of kheer. When she found a very thin ascetic sitting beneath the tree, she took him for the tree's spirit and offered him a golden bowl of milk-rice. The ascetic was Siddhartha, who was ending six years of hard fasting. Buddhists believe the meal gave him the strength to follow the Middle Way and awaken as the Buddha. Later the Buddha named her foremost among the first women to take refuge in him. A stupa and a temple in Bakraur remember her today.",
+  "kidSummary": "Sujata was a kind village woman who cooked a special bowl of milk and rice every year to say thank you. One day she gave it to a very thin, tired meditator sitting under a tree. In the Buddhist story, that meal gave Siddhartha the strength to become the Buddha.",
+  "story": [
+    {
+      "title": "A thank-you every year",
+      "text": "In the story, Sujata prayed to the spirit of a banyan tree for a child. When her wish came true, she promised to bring the tree a bowl of sweet milk-rice every year."
+    },
+    {
+      "title": "The very special milk",
+      "text": "On the full-moon day, she made the best milk she could. In one telling, she fed milk from many cows to fewer cows, again and again, until a few cows gave the richest milk."
+    },
+    {
+      "title": "A thin stranger under the tree",
+      "text": "Her maid ran ahead and found a very thin man meditating under the tree. They thought he was the tree's spirit, so Sujata bowed and gave him the golden bowl."
+    },
+    {
+      "title": "A bowl that floated upstream",
+      "text": "Siddhartha bathed in the river and ate the sweet food. He set the bowl in the water and wished that if he would become a Buddha, it would float against the flow. It did."
+    },
+    {
+      "title": "Strength for the Middle Way",
+      "text": "Fed and strong again, he sat beneath the Bodhi tree. Buddhists believe he awakened there and became the Buddha, and Sujata is remembered as the woman who helped."
+    }
+  ],
+  "teaches": [
+    "A small kind gift can matter hugely",
+    "Gratitude and giving",
+    "Balance: not too much, not too little"
+  ],
+  "symbol": "moon",
+  "emblems": ["Bowl of kheer (milk-rice)", "Banyan tree", "Full moon of Vaisakha"],
+  "family": [
+    {
+      "relation": "Father (in the Pali tradition)",
+      "name": "Seniya the householder"
+    },
+    {
+      "relation": "Maid who found the Bodhisatta",
+      "name": "Punna"
+    },
+    {
+      "relation": "The one she fed",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    }
+  ],
+  "texts": [
+    "Lalitavistara Sutra, chapter 18",
+    "Buddhacharita, Canto 12",
+    "Anguttara Nikaya (list of foremost lay followers)"
+  ],
+  "places": [
+    "Bakraur (old Sanani), Bihar",
+    "Sujata Stupa, Bodh Gaya",
+    "Mahabodhi Temple, Bodh Gaya",
+    "Uruvela"
+  ],
+  "festivals": ["Buddha Purnima (full moon of Vaisakha)"],
+  "facts": [
+    {
+      "text": "Every year on the full-moon day of Vaisakha she set a bowl of payasa at the foot of the tree to say thank you, for over twenty years. In one version she also asked eight hundred brahmins to wish that the Bodhisatta would receive her food.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one telling her method is called 'working the milk in and in': milk from 1000 cows fed 500 cows, then 250, then 125, down to just 8 cows whose milk made the cakes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "One text says her meal was the Bodhisatta's only meal for forty-nine days, and that the gods added divine flavour to it.",
+      "kind": "story",
+      "source": "https://aimwell.org/DPPN/sujataa.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After eating, Siddhartha threw the golden bowl into the river with a wish: if he would become a Buddha, let it go upstream. The story says it floated against the current before sinking.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Before the meal she dreamed twice of a deva who told her the Bodhisatta had given up harsh fasting and wanted good food, so she knew the day had come.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her son was Yasa. When Yasa became an arahant, his father came looking for him and became a follower, and at the meal that followed Sujata and Yasa's wife both reached the first stage of awakening. Sujata took the three refuges that day.",
+      "kind": "family",
+      "source": "https://aimwell.org/DPPN/sujataa.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before a plaque was found, the Bakraur stupa was thought to honour a perfumed elephant, because Xuanzang described a stupa there. The plaque, reading 'Sujata's house' in King Devapala's reign, showed it commemorates her home.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sujata_Stupa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Jinacarita, a Pali poem on the Buddha's life, says the banyan tree turned golden in colour from the glow of his body as he sat facing east.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/Texts-and-Translations/Jinacaritam-Victorious-Buddha/17-Sujata.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She took him for the tree's spirit, as her maid Punna had before her, because he looked so thin. As she handed over the golden bowl she wished that his wish would come true just as hers had.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After bathing in the river, Siddhartha is said to have divided the rice cake into 49 pieces and eaten them before he threw the golden bowl into the water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sujata Stupa was built in the 2nd century BCE, dated by polished pottery and a punch-marked coin at the nearby monastery. It stands across the river from Bodh Gaya, a walk of about 20 minutes, and was enlarged several times.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sujata_Stupa",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What food did Sujata give to the future Buddha?",
+      "options": ["Fruit and honey", "Milk-rice pudding (kheer)", "Lentil soup", "Roasted nuts"],
+      "answer": 1,
+      "why": "Buddhist texts say she gave a golden bowl of kheer, a milk-rice pudding."
+    },
+    {
+      "q": "What did Sujata think the thin meditator was?",
+      "options": ["A traveller", "A king", "The spirit of the tree", "A teacher of her village"],
+      "answer": 2,
+      "why": "He looked so thin that she took him for the tree's spirit."
+    },
+    {
+      "q": "What was Siddhartha's test with the golden bowl?",
+      "options": [
+        "Whether it would float upstream",
+        "Whether it would shine",
+        "Whether it would sink at once",
+        "Whether it would break"
+      ],
+      "answer": 0,
+      "why": "He wished that it would float against the current if he was to become a Buddha."
+    },
+    {
+      "q": "Which village near Bodh Gaya is linked with Sujata?",
+      "options": ["Sarnath", "Bakraur", "Lumbini", "Kushinagar"],
+      "answer": 1,
+      "why": "Bakraur, once called Sanani, has the Sujata Stupa."
+    }
+  ],
+  "related": ["gautama-buddha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sujata_(milkmaid)",
+    "stupa": "https://en.wikipedia.org/wiki/Sujata_Stupa",
+    "dppn": "https://aimwell.org/DPPN/sujataa.html",
+    "jinacarita": "https://ancient-buddhist-texts.net/Texts-and-Translations/Jinacaritam-Victorious-Buddha/17-Sujata.htm"
+  },
+  "palette": {
+    "c1": "#efe6c8",
+    "c2": "#f1dcc9"
+  },
+  "years": "c. 6th–5th century BCE",
+  "order": 500,
+  "tradition": "buddhist",
+  "group": "disciple",
+  "depth": "compact"
+}

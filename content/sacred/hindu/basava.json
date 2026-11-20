@@ -1,0 +1,254 @@
+{
+  "slug": "basava",
+  "name": "Basava",
+  "aka": ["Basavanna", "Basaveshwara", "Basavanna the Bhaktibhandari"],
+  "native": "ಬಸವ",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "12th-century Kannada poet and Lingayat reformer",
+  "summary": "Basava was a 12th-century Kannada poet-philosopher and minister who taught devotion to Shiva, equality and dignified work. Lingayats honour him as the founder of their tradition.",
+  "about": "Basava (1131-1196), also called Basavanna or Basaveshwara, was born in Basavana Bagewadi in present-day Karnataka. Tradition says he served the Kalachuri king Bijjala, first as an accountant and later as a chief minister. He is remembered for the Anubhava Mantapa, a hall where people of many backgrounds, women included, discussed spiritual life. He spoke and composed in Kannada rather than Sanskrit, in short prose poems called vachanas. Lingayats, who follow his teachings, carry a personal linga as a sign of Shiva instead of relying on temples and priests. Our oldest account of his life, Harihara's Ragale, was written around 1180, and later versions of his story differ in details, so historians treat the life stories with care.",
+  "kidSummary": "Basava lived about 900 years ago in Karnataka. He believed every person can speak to God directly, with no need for a priest in between, and that honest work is a kind of worship. He gathered thinkers from all walks of life in a hall of ideas and shared his thoughts in simple Kannada poems.",
+  "story": [
+    {
+      "title": "A boy from Bagewadi",
+      "text": "Basava was born in the town of Basavana Bagewadi in a family devoted to Shiva. Stories say he asked many questions about rituals even as a child."
+    },
+    {
+      "title": "Years of study",
+      "text": "He is said to have studied for about twelve years at Kudalasangama, where two rivers meet, learning and thinking about how to worship."
+    },
+    {
+      "title": "A minister with a plan",
+      "text": "Later he worked in the court of King Bijjala and became a chief minister. He used his position to try to make life fairer for ordinary people."
+    },
+    {
+      "title": "The hall of experience",
+      "text": "He started the Anubhava Mantapa, a hall where men and women from different backgrounds shared what they had learned about life and God."
+    },
+    {
+      "title": "Poems for everyone",
+      "text": "He taught in short Kannada verses called vachanas, so that everyone could understand them. Tradition links him with the slogan 'work is worship'."
+    }
+  ],
+  "teaches": [
+    "Honest work is worship",
+    "Everyone is equal before God, whatever their birth",
+    "Devotion should be plain and personal, not show"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Ishtalinga (worn by Lingayats)", "Nandi, the bull, connected to his name"],
+  "family": [
+    {
+      "relation": "Associated deity",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Name linked to",
+      "name": "Nandi",
+      "slug": "nandi"
+    }
+  ],
+  "texts": [
+    "Vachanas (attributed)",
+    "Basava Purana (Telugu, 13th century)",
+    "Basavarajadevara Ragale by Harihara"
+  ],
+  "places": ["Basavana Bagewadi", "Kudalasangama", "Basavakalyan (Anubhava Mantapa)"],
+  "festivals": ["Basava Jayanti"],
+  "related": ["akka-mahadevi", "shiva", "nandi", "lal-ded", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Basava",
+    "anubhava_mantapa": "https://en.wikipedia.org/wiki/Anubhava_Mantapa",
+    "lingayatism": "https://en.wikipedia.org/wiki/Lingayatism",
+    "vachana": "https://en.wikipedia.org/wiki/Vachana_sahitya",
+    "lingayats": "https://en.wikipedia.org/wiki/Lingayats"
+  },
+  "palette": {
+    "c1": "#e8d9b5",
+    "c2": "#b8cfc0"
+  },
+  "years": "1131–1196",
+  "order": 500,
+  "depth": "full",
+  "quiz": [
+    {
+      "q": "Which animal is Basava's name connected to?",
+      "options": ["A horse", "A peacock", "A cow", "A bull"],
+      "answer": 3,
+      "why": "His name is the Kannada form of vrishabha, the bull, linked with Shiva's bull Nandi."
+    },
+    {
+      "q": "What does Anubhava Mantapa roughly mean?",
+      "options": ["Experience hall", "Treasure house", "Music room", "Battle camp"],
+      "answer": 0,
+      "why": "Anubhava means experience, and mantapa means hall."
+    },
+    {
+      "q": "Which language did Basava use for his poems?",
+      "options": ["Sanskrit", "Persian", "Kannada", "English"],
+      "answer": 2,
+      "why": "He chose Kannada so ordinary people could follow his ideas."
+    },
+    {
+      "q": "What are Basava's short poems called?",
+      "options": ["Vachanas", "Ragas", "Slokas", "Jatakas"],
+      "answer": 0,
+      "why": "Vachana means something said."
+    },
+    {
+      "q": "What does the slogan attributed to Basava, Kayakave Kailasa, stress?",
+      "options": [
+        "Work done well is a path to Shiva",
+        "Only temple rituals bring freedom",
+        "Wealth shows divine favour",
+        "Silence is better than work"
+      ],
+      "answer": 0,
+      "why": "Many read it as 'work is worship', though scholars differ on how to translate kayaka."
+    }
+  ],
+  "facts": [
+    {
+      "text": "Basava's name is the Kannada form of the Sanskrit vrishabha, meaning bull, a link to Nandi, the bull who carries Shiva.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He founded the Anubhava Mantapa, also called Mahamane, an open assembly led by Allama Prabhu where women and men of every background, Brahmins, Shudras and Dalits among them, took part as equals.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Anubhava_Mantapa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kayakave Kailasa, a slogan the tradition attributes to Basava, is often read as 'work is worship'; scholars translate kayaka either as work or as ritual.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Lingayats",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Lingayats traditionally bury their dead sitting in a meditating position, holding the personal linga in the right hand.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Lingayatism",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vachana means what is said. More than 200 people wrote vachanas, and over thirty of them were women.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vachana_sahitya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A statue of Basava stands in India's Parliament, unveiled in 2003, and another was unveiled in 2015 on the Thames bank at Lambeth in London.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a vachana translated by A. K. Ramanujan, Basava says the rich build temples for Shiva, but his own legs are the pillars and his body is the shrine.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vachana_sahitya",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Accounts say Basava arranged the marriage of Lavanya, daughter of the Brahmin minister Madhavarasa, to Sheelavantha, son of the cobbler Haralayya; King Bijjala II strongly opposed the match, and it led to a painful crisis in Kalyana.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Haralayya",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In his vachanas he calls God Kudalasangama, 'lord of the meeting rivers', after the town where two rivers join; admirers also called him Bhaktibhandari, 'the treasurer of devotion'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Basava is said to have spent twelve years studying at the Sangameshwara temple school in Kudalasangama, where the Krishna and its tributary the Malaprabha meet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He died in 1196, aged 65, at Kudalasangama, where his samadhi, the Aikya Mantapa, still draws Lingayat pilgrims.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Kudalasangama, a hall called the Sabha Bhavana seats 6,000 people, and its four doorways are named after Gangambike, Nilambike, Channabasavanna and Akka Nagamma.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kudalasangama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Basava was born in 1131 at Basavana Bagewadi, to Madhavarasa and Madalambike, in a family devoted to Shiva.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He began as an accountant at the king's court before he rose to chief minister, and he used the treasury to start his social reforms.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One vachana asks how anyone can trust a god who melts, wilts at fire, or can be sold or buried for fear of thieves, and names Kudalasangama, the self-born one, as the true God.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Basava contrasted sthavara, what stands still, such as temples and old books, with jangama, what moves, such as work and discussion, and said things that stand will fall while the moving ones will stay.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He urged people to discuss spiritual ideas in everyday Kannada, so no one had to rely on elite translators; one scholar likens this to the Protestant movement in Europe.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Basava insisted on ahimsa, non-violence, and strongly condemned all sacrifices, whether of humans or animals.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The tallest standing statue of Basava, 111 feet high, was built beside a lake in Gadag in 2015, and a 108-foot one stands at Basavakalyana.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest surviving account of his life, Harihara's Ragale from around 1180, was written by a near contemporary, while most vachana collections were put together much later.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Basava",
+      "interest": 7,
+      "kid": false
+    }
+  ]
+}

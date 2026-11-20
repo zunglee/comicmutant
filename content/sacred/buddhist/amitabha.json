@@ -1,0 +1,279 @@
+{
+  "slug": "amitabha",
+  "name": "Amitabha",
+  "aka": ["Amida", "Amituofo", "Amitayus", "Amitofo"],
+  "native": "अमिताभ",
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "role": "Buddha of Limitless Light in Mahayana Buddhism",
+  "summary": "Amitabha is a Buddha of Mahayana tradition whose name means \"Limitless Light\". Believers say he rules the western Pure Land of Sukhavati.",
+  "about": "In Mahayana sutras, Amitabha is the Buddha of Measureless Light, also called Amitayus, Measureless Life. The Sukhavati-vyuha sutras say that, as a monk named Dharmakara, he made great vows and then created the Pure Land of Sukhavati in the west, where beings can be reborn and learn the Dharma in peace. He is a Buddha rather than a bodhisattva, and he is honoured as the heart of the Pure Land schools. He is deeply loved in East Asia, where chanting his name is a central practice of Pure Land schools. Tibetan, Shingon and Pure Land teachers describe him in different ways.",
+  "kidSummary": "Amitabha is a Buddha whose name means \"Light that never ends\". Stories say he made wishes long ago to build a peaceful land, full of birds and lotus flowers, for everyone who loves him. In many countries, people say his name to feel calm and kind.",
+  "story": [
+    {
+      "title": "A monk named Dharmakara",
+      "text": "The sutras tell of a monk called Dharmakara who wanted to help every living being find peace."
+    },
+    {
+      "title": "Long study",
+      "text": "He studied the best qualities of countless Buddha lands for a very long time, so he could build the kindest land of all."
+    },
+    {
+      "title": "Forty-eight vows",
+      "text": "In the best-known version he made 48 vows, promising that beings who trusted him and thought of him would be welcomed into his land."
+    },
+    {
+      "title": "Becoming Amitabha",
+      "text": "The texts say he kept his vows and became the Buddha Amitabha, shining with light that reaches every direction."
+    },
+    {
+      "title": "Sukhavati, the Land of Bliss",
+      "text": "In his western land, people are born from lotus flowers, and the birds and trees sing the teachings. It is a place for calm learning."
+    }
+  ],
+  "teaches": [
+    "Compassion that welcomes everyone",
+    "Trust and steady, calm practice",
+    "Light and kindness reach in every direction"
+  ],
+  "symbol": "sun",
+  "emblems": [
+    "Red colour (in Vajrayana)",
+    "Lotus",
+    "Western direction",
+    "Begging bowl (in some images)"
+  ],
+  "family": [
+    {
+      "relation": "Attendant bodhisattva in his triad",
+      "name": "Avalokiteshvara",
+      "slug": "avalokiteshvara"
+    },
+    {
+      "relation": "Appears on the crown of",
+      "name": "Tara",
+      "slug": "tara"
+    },
+    {
+      "relation": "Pure Land attendant (Mahasthamaprapta)",
+      "name": "Vajrapani",
+      "slug": "vajrapani"
+    }
+  ],
+  "texts": [
+    "Sutra of Measureless Life (Larger Sukhavati-vyuha)",
+    "Amitabha Sutra (Smaller Sukhavati-vyuha)",
+    "Contemplation Sutra"
+  ],
+  "places": [
+    "Kotoku-in, Kamakura, Japan",
+    "Longmen Grottoes, China",
+    "Mathura (earliest inscription)",
+    "Byodo-in Phoenix Hall, Uji"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The sutras say his Pure Land, Sukhavati, lies in the west, billions of worlds away from ours.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Sukhavati, the texts say beings are born from lotus flowers fully formed, instead of being born from a womb.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Doubters are said to wait inside closed lotus buds for 500 years, and they see the lotus as a palace without the Buddha present.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The sutras say the birds and trees of Sukhavati are made by Amitabha and sing the Dharma all day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The chant Namo Amituofo is written on calligraphy scrolls, charms and amulets, carved on public monuments, and even placed on electronic devices.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Kamakura-period wooden statue at Rokuharamitsu-ji in Kyoto shows the monk Kuya walking the streets in straw sandals, ringing a gong and chanting; it was carved by Unkei's fourth son.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Rokuharamitsu-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Panchen Lamas and the Shamarpas, two lines of Tibetan teachers, are considered to be emanations of Amitabha.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Great Buddha of Kamakura shows Amida, stands about 13.35 metres tall with its base, and is hollow, so visitors can step inside; temple records date it to about 1252.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Great_Buddha_of_Kamakura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A tsunami from the 1498 Nankai earthquake washed away the hall that sheltered the Kamakura Buddha, so it has sat in the open air ever since.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Great_Buddha_of_Kamakura",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Tibetan Buddhism he appears as Amitayus, a Buddha of long life, one of three long-life deities along with White Tara and Ushnishavijaya.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In East Asia he is usually shown with two attendants, Avalokiteshvara and Mahasthamaprapta; the Tibetan triad has Avalokiteshvara and Vajrapani, or Padmasambhava, instead.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest firm evidence of Amitabha is a statue base from 104 CE, now in Mathura, given by a family of merchants in the reign of the Kushan king Huvishka.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Contemplation Sutra teaches thirteen stages of visualization, starting with the setting sun, then pure water turning to blue beryl, until the whole Pure Land is pictured.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In some versions of the Larger Sutra, Dharmakara was a king who gave up his throne to become a monk, then spent five aeons studying the qualities of every pure Buddha land.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 18th vow, treated as the original vow in East Asian Pure Land Buddhism, says that those who trust him sincerely and think of him even ten times will be born in his land.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Vajrayana he is one of the Five Tathagatas, linked with the colour red, the west and the lotus family.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shinran called himself Gutoku, 'Bald Fool', saying he was neither a monk nor an ordinary layperson, and he lived as a married teacher.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Shinran",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Byodo-in's Phoenix Hall in Uji, finished in 1053 and housing a gilded Amida statue by the sculptor Jocho, appears on the Japanese 10 yen coin.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Many nobles believed 1052 began the age of Buddhist decline, so they turned to Amida and the Pure Land; the Phoenix Hall was finished the next year.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When shown standing, he often makes the raigo welcoming gesture, one hand lowered to show compassion for the lowest beings and one raised to show that wisdom is open to all.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to the scholar Jeff Wilson, over a fifth of the sutras in the Taisho Tripitaka mention Amitabha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "An inscription from about 610 CE at Patan in Nepal praises Amitabha as the one who clears away illusion with the light of great wisdom and lives in Sukhavati.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Amitabha mean?",
+      "options": ["Great King", "Measureless Light", "Golden Mountain", "Silent Wind"],
+      "answer": 1,
+      "why": "Amitabha means \"Measureless\" or \"Limitless Light\"."
+    },
+    {
+      "q": "In what direction is Sukhavati said to lie?",
+      "options": ["North", "East", "West", "South"],
+      "answer": 2,
+      "why": "The sutras place his Pure Land in the west."
+    },
+    {
+      "q": "How are beings said to be born in Sukhavati?",
+      "options": ["From a lotus flower", "From a river", "From a cloud", "From a rock"],
+      "answer": 0,
+      "why": "The sutras say they appear from lotus flowers."
+    },
+    {
+      "q": "In which city does the open-air Great Buddha of Amida at Kotoku-in sit?",
+      "options": ["Kamakura", "Nara", "Nikko", "Osaka"],
+      "answer": 0,
+      "why": "It sits at Kotoku-in in Kamakura."
+    },
+    {
+      "q": "How many vows are listed in the best-known version of the Larger Sutra?",
+      "options": ["48", "8", "12", "108"],
+      "answer": 0,
+      "why": "The common version lists 48 vows."
+    }
+  ],
+  "related": ["gautama-buddha", "avalokiteshvara", "nagarjuna", "maitreya", "medicine-buddha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Amit%C4%81bha",
+    "kamakura": "https://en.wikipedia.org/wiki/Great_Buddha_of_Kamakura",
+    "pureland": "https://en.wikipedia.org/wiki/Pure_Land_Buddhism",
+    "adibuddha": "https://en.wikipedia.org/wiki/Adi-Buddha",
+    "byodoin": "https://en.wikipedia.org/wiki/By%C5%8Dd%C5%8D-in",
+    "honen": "https://en.wikipedia.org/wiki/H%C5%8Dnen",
+    "shin": "https://en.wikipedia.org/wiki/J%C5%8Ddo_Shinsh%C5%AB"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3d9b8",
+    "c2": "#e8b7a6"
+  },
+  "order": 21
+}

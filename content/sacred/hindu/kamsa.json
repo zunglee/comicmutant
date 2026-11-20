@@ -1,0 +1,287 @@
+{
+  "name": "Kamsa",
+  "aka": ["Kansa", "Bhojapati", "Kans"],
+  "native": "कंस",
+  "role": "King of Mathura, an asura-born ruler in the Puranas",
+  "summary": "Kamsa is the king of Mathura and the uncle of Krishna in the Puranas. The Puranas call him an asura reborn as a ruler, and his story is told every year in the huge Dhanu Jatra theatre of Bargarh, Odisha.",
+  "about": "The Bhagavata Purana, the Harivamsa and the Vishnu Purana describe Kamsa as a Yadava king of Mathura, of the Bhoja house, son of Ugrasena and Padmavati. The Puranas call him an asura, while the Harivamsa says an asura was reborn in human form. Narada tells him that in an earlier life he was the asura Kalanemi. Kamsa takes the throne from his father with the support of Jarasandha, whose daughters he marries. A heavenly voice warns that Devaki's eighth child will end his rule, and he keeps her and Vasudeva in prison. Krishna, raised by Nanda and Yashoda in Gokul, comes to Mathura and brings Kamsa's rule to its end. The Padma Purana gives a different account of his birth.",
+  "kidSummary": "Kamsa is the king of Mathura who was afraid of a warning about Krishna. In the stories he is also Krishna's uncle. Today people enjoy his tale in a huge outdoor play in Odisha called Dhanu Jatra, where the actor playing Kamsa can playfully fine people, even officials.",
+  "story": [
+    {
+      "title": "A king takes the throne",
+      "text": "Kamsa is the son of King Ugrasena of Mathura. With help from his father-in-law Jarasandha, he takes the crown, and his people begin to fear him."
+    },
+    {
+      "title": "A warning in the sky",
+      "text": "At his sister Devaki's wedding, a voice says her eighth child will end his rule. Kamsa keeps Devaki and Vasudeva in prison."
+    },
+    {
+      "title": "Searching for the child",
+      "text": "After the baby girl rises into the sky as Durga and warns him, Kamsa sends many helpers to find a special child. But Krishna is growing up safely in Gokul."
+    },
+    {
+      "title": "Strange signs",
+      "text": "Before Krishna arrives, Kamsa cannot sleep. The Bhagavata Purana says he saw strange signs, such as a doubled moon and a missing head in the mirror."
+    },
+    {
+      "title": "The arena in Mathura",
+      "text": "Krishna and Balarama come to Mathura for the great bow festival. After Krishna snaps the bow and wins at the wrestling arena, Kamsa's rule ends, and Ugrasena is made king again."
+    }
+  ],
+  "teaches": [
+    "Fear and pride can lead people astray",
+    "Kindness is stronger than cruelty",
+    "Good rulers care for their people"
+  ],
+  "symbol": "sword",
+  "emblems": ["The great bow of Mathura", "Wrestling arena of Mathura"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Ugrasena"
+    },
+    {
+      "relation": "Mother",
+      "name": "Padmavati"
+    },
+    {
+      "relation": "Sister (or cousin)",
+      "name": "Devaki",
+      "slug": "devaki"
+    },
+    {
+      "relation": "Nephew",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Father-in-law",
+      "name": "Jarasandha",
+      "slug": "jarasandha"
+    },
+    {
+      "relation": "Wives",
+      "name": "Asti and Prapti"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Harivamsa", "Vishnu Purana", "Padma Purana", "Mahabharata"],
+  "places": ["Mathura", "Bargarh (Dhanu Jatra)"],
+  "festivals": ["Dhanu Jatra (Bargarh, Odisha)", "Krishna Janmashtami"],
+  "facts": [
+    {
+      "text": "When Narada revealed that Krishna and Balarama were Vasudeva's sons, Kamsa grabbed a sword to kill Vasudeva. Narada recalled the prophecy, so he chained the couple and sent the horse-demon Keshi after the boys.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/36/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says Kamsa could not sleep and saw omens: no head in his reflection, a doubled moon, a hole in his shadow, and trees that looked golden.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/42/",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "At the arena gate, Kamsa's elephant Kuvalayapida was urged to block Krishna. The Bhagavata Purana says Krishna slipped out of its trunk's grip and vanished between its legs.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/43/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Because Kamsa had thought about Krishna constantly with fear, the Bhagavata Purana says he attained a form like the Lord's.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/44/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Dhanu Jatra in Bargarh, Odisha, is reported to be the world's largest open-air theatre, spreading over about an 8 km radius around the town.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During Dhanu Jatra, the actor playing Kamsa can fine people for their mistakes; former chief minister Biju Patnaik and his ministers were once fined.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The performances in Bargarh have no written script. The town plays Mathura, the Jeera River plays the Yamuna and the village of Ambapali plays Gopapura.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some elders in Bargarh say Dhanu Jatra began to celebrate India's independence, with Kamsa's fall standing for the end of colonial rule. The performances run for about ten days.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Padma Purana, Dramila took Ugrasena's shape and the boy was adopted as Kamsa. When Padmavati learned the truth, she cursed that her son would die at a relative's hands.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamsa",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kamsa sent the demon Aghasura after Krishna. The Bhagavata Purana says he took the shape of an eight-mile python, and the boys walked into its mouth thinking it was a scenic cave.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/12/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kamsa sent Putana to kill infants in towns and villages. In the Bhagavata Purana she came as a lovely woman, and the women of Vraja took her for the goddess Lakshmi visiting Krishna.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/6/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the arena Krishna beat the wrestler Chanura and Balarama beat Mushtika. After three more wrestlers fell the rest fled, and the brothers danced with their cowherd friends, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/44/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the arena the Bhagavata Purana says Krishna leapt onto the high royal platform. Kamsa drew a sword and shield, but Krishna seized him, knocked off his crown and brought him down to the wrestling floor, ending his rule.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/44/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Kamsa fell, Krishna did not take the throne. The Bhagavata Purana says he set Kamsa's father Ugrasena back on it and brought the Yadu families who had fled Kamsa home again.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/45/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Garga Samhita telling, summarised on Wikipedia, says young Kamsa tamed the elephant Kuvalayapida and flung it far into Jarasandha's army. Jarasandha was so impressed that he gave Kamsa his daughters and a vast dowry.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamsa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a Garga Samhita telling summarised on Wikipedia, Parashurama gave Kamsa a bow with a boon that only the one who broke the bow would end him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamsa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mathura's Vishram Ghat on the Yamuna is said to be where Krishna rested after Kamsa fell, and the Rangabhoomi in the Krishna Janmasthan complex is held to mark the arena of their final contest.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mathura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The same Garga Samhita telling says Kamsa defeated Daitya rulers such as Narakasura and Banasura, and even invaded the heavenly city of Amaravati and defeated Indra and Varuna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kamsa",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Makeup artist Ghasiram Sahu worked on Dhanu Jatra every year from 1951 until his death in 2015 at age 84, and is credited with giving Kamsa his fierce tyrant look.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "During Dhanu Jatra, villagers of Ambapali paint their houses with Krishna stories and write lines of poetry on the walls, as their village becomes the cowherd settlement of Gopapura.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kamsa is a stage character in Yakshagana, a traditional dance-drama of Karnataka, where scenes of Krishna and Balarama meeting him are performed.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kamsa",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which city did Kamsa rule?",
+      "options": ["Mathura", "Ayodhya", "Dwarka", "Hastinapur"],
+      "answer": 0,
+      "why": "Kamsa was the king of Mathura."
+    },
+    {
+      "q": "Who was the princess, called Kamsa's sister in the stories, whose eighth child was foretold to end his rule?",
+      "options": ["Yashoda", "Rohini", "Kunti", "Devaki"],
+      "answer": 3,
+      "why": "Devaki's eighth child was foretold to end his rule."
+    },
+    {
+      "q": "Where is Dhanu Jatra, the huge open-air Krishna play, held?",
+      "options": ["Puri", "Varanasi", "Bargarh, Odisha", "Mysuru"],
+      "answer": 2,
+      "why": "Bargarh town becomes Mathura during the festival."
+    },
+    {
+      "q": "What does the Kamsa actor do at Dhanu Jatra?",
+      "options": ["Sings loudly", "He can fine people", "Dances alone", "Hands out sweets to all"],
+      "answer": 1,
+      "why": "The actor may fine even officials for their mistakes."
+    },
+    {
+      "q": "Whose earlier life as an asura did Narada reveal to Kamsa?",
+      "options": ["Kalanemi", "Ravana", "Bakasura", "Mahabali"],
+      "answer": 0,
+      "why": "Narada said Kamsa had been the asura Kalanemi."
+    }
+  ],
+  "related": [
+    "devaki",
+    "vasudeva",
+    "krishna",
+    "balarama",
+    "jarasandha",
+    "banasura",
+    "narakasura",
+    "yashoda",
+    "nanda"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kamsa",
+    "dhanu_jatra": "https://en.wikipedia.org/wiki/Dhanu_Jatra",
+    "bhagavata_1": "https://vedabase.io/en/library/sb/10/1/",
+    "bhagavata_4": "https://vedabase.io/en/library/sb/10/4/",
+    "bhagavata_42": "https://vedabase.io/en/library/sb/10/42/",
+    "bhagavata_44": "https://vedabase.io/en/library/sb/10/44/",
+    "bhagavata_2": "https://vedabase.io/en/library/sb/10/2/",
+    "bhagavata_36": "https://vedabase.io/en/library/sb/10/36/",
+    "bhagavata_43": "https://vedabase.io/en/library/sb/10/43/",
+    "bhagavata_6": "https://vedabase.io/en/library/sb/10/6/",
+    "bhagavata_12": "https://vedabase.io/en/library/sb/10/12/",
+    "bhagavata_4b": "https://vedabase.io/en/library/sb/10/4/",
+    "mathura": "https://en.wikipedia.org/wiki/Mathura",
+    "bhagavata_45": "https://vedabase.io/en/library/sb/10/45/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#ddd0e8",
+    "c2": "#f4d9c4"
+  },
+  "order": 50,
+  "slug": "kamsa",
+  "tradition": "hindu",
+  "group": "krishna-leela"
+}

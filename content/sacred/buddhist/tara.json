@@ -1,0 +1,243 @@
+{
+  "slug": "tara",
+  "name": "Tara",
+  "aka": ["Jetsun Dolma", "Green Tara", "White Tara", "Tara Bosatsu"],
+  "native": "तारा",
+  "role": "Female Buddha in Vajrayana, female bodhisattva in Mahayana; swift rescuer",
+  "summary": "Tara is revered as a female Buddha in Vajrayana Buddhism and as a female bodhisattva in Mahayana Buddhism. She rescues beings from danger, and Tibetans honour her as Green Tara and White Tara.",
+  "about": "In Buddhist tradition Tara, whose name comes from a root meaning 'to cross', helps beings cross over dangers. Vajrayana Buddhists revere her as a female Buddha, while Mahayana Buddhists may see her as a female bodhisattva. Her worship was established at Nalanda by the sixth century, and early images show her beside Avalokiteshvara. A well-known Tibetan story says she was born from a blue lotus that grew in Avalokiteshvara's tears, while another tells of a princess who vowed to always be reborn as a woman. Green Tara is the best-known form, and her praises list twenty-one Taras. Tibetan tradition also holds that Green Tara appeared as the Nepali princess Bhrikuti and White Tara as the Chinese princess Wencheng. Tibetan children often learn her praises.",
+  "kidSummary": "Tara is a kind and quick-to-help bodhisattva in Tibetan Buddhism. People ask her for help when they are afraid, and green is her colour. Her name means 'one who helps you cross' to safety.",
+  "story": [
+    {
+      "title": "Tears of compassion",
+      "text": "A Tibetan story says Avalokiteshvara wept when he saw how much suffering there was in the world. Where a tear fell, a blue lotus grew."
+    },
+    {
+      "title": "A flower opens",
+      "text": "The lotus opened, and Tara stepped out of it. In many pictures she is green, and she is ready to help right away."
+    },
+    {
+      "title": "Always ready to help",
+      "text": "In the praises to her, she is called a swift rescuer. People sing to her about dangers like floods, lions and fear, and she is said to hear them."
+    },
+    {
+      "title": "A princess's promise",
+      "text": "Another tale says a princess vowed to keep being reborn as a woman so she could help others, and she is remembered as a form of Tara."
+    }
+  ],
+  "teaches": [
+    "Quick, courageous kindness",
+    "Fear can be crossed with help and courage",
+    "Everyone can become wise and compassionate"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Blue lotus (utpala)",
+    "Green colour",
+    "Right hand giving, left hand giving refuge",
+    "Mantra Om Tare Tuttare Ture Svaha"
+  ],
+  "family": [
+    {
+      "relation": "Said to arise from the tears of",
+      "name": "Avalokiteshvara",
+      "slug": "avalokiteshvara"
+    },
+    {
+      "relation": "Seated on her crown",
+      "name": "Amitabha",
+      "slug": "amitabha"
+    }
+  ],
+  "texts": ["Praises to the Twenty-One Taras", "Tara Tantra", "Atisha's Tara sadhanas"],
+  "places": ["Nalanda", "Kanheri Caves", "Tibet", "Nepal"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Tara's own pure land is called Arrayed in Turquoise Petals; one teacher says it lies inside Sukhavati, and Amitabha is said to rest on her crown, tying her to his lotus family.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The word tara can also mean 'star' or 'planet', which links her to guiding travellers.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the 108 Names of Tara she is 'Leader of the caravans', who shows the way to the lost, and Dhruva, the Sanskrit name for the North Star.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "White Tara is shown with seven eyes, including eyes on her palms and soles and one on her forehead, and is linked with long life, healing and calm.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her main form is dark green, a colour said to blend all the others and to stand for awakened activity.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Another story tells of a princess who vowed to be reborn as a woman until all beings are free; the 14th Dalai Lama described this as a feminist movement inside Buddhism.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tibetan tradition says Green Tara appeared as the Nepali princess Bhrikuti, and White Tara as the Chinese princess Wencheng.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She is often shown as a playful sixteen-year-old girl, in some accounts one who teases self-righteousness.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tara is also a forest goddess, Khadiravani, 'dweller in the acacia forest', linked with plants, flowers and the wind, which is why she is also known as a healer.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Manjushrimulakalpa, a text of about the 5th to 8th centuries, calls her the compassion of Avalokiteshvara and the mother of Prince Manjughosha, a name of Manjushri.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her name comes from a root meaning 'to cross', and her mantra plays on it: tare means 'O Tara', tuttare 'one who helps beings cross', and ture 'swift'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tara guards against eight dangers named in her sutra: lions, elephants, fire, snakes, robbers, water, disease and demons; teachers also read them as inner troubles.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A sixth-century carving in Kanheri cave 90 near Mumbai shows an early triad of Avalokiteshvara, Tara and Bhrikuti, one of the oldest known images of her.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Red Tara practice was said to be hidden as a treasure by Padmasambhava for Yeshe Tsogyal, then found again in the 20th century by the lama Apong Terton.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tara is really a whole class of forms: ten green, seven white, five yellow, two blue and one red, and a Tibetan painting even shows one with a thousand heads and arms.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her lotus imagery resembles that of the Hindu goddess Lakshmi, and at least one Tibetan liturgy calls on Lakshmi as Tara.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Tibetan tradition, Swift Courageous Tara is red, has eight arms and carries a bow and arrow to turn back harmful influences.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Her main mantra, Om Tare Tuttare Ture Svaha, is the same for Buddhists and Hindus alike, though Tibetans say it as 'soha'.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Evidence from Nalanda shows her cult was established by the 6th century, and images of her have turned up in Nepal, Sri Lanka and Indonesia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tara is also counted among the ten Mahavidyas in Hindu Shakta tradition, and her fierce Ugra Tara form entered Hindu tantra from Buddhist texts.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Atisha's 11th-century system each of the 21 Taras has a mantra of her own, for example one for healing and long life and another for wealth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the root of the name Tara mean?",
+      "options": ["To fly", "To cross", "To sing", "To grow"],
+      "answer": 1,
+      "why": "The name comes from a root meaning to cross, as in helping across dangers."
+    },
+    {
+      "q": "Which colour is Tara most known for?",
+      "options": ["Red", "Yellow", "Green", "Black"],
+      "answer": 2,
+      "why": "Green Tara is her main form."
+    },
+    {
+      "q": "According to a Tibetan story, what did Tara come from?",
+      "options": ["A blue lotus grown from a tear", "A cloud", "A mountain", "A bell"],
+      "answer": 0,
+      "why": "The story says a blue lotus grew from a tear of Avalokiteshvara."
+    },
+    {
+      "q": "How many Taras are in the well-known praise?",
+      "options": ["Seven", "Twenty-one", "Hundred", "Three"],
+      "answer": 1,
+      "why": "The Praises to the Twenty-One Taras list twenty-one forms."
+    }
+  ],
+  "related": ["avalokiteshvara", "amitabha", "manjushri", "durga", "padmasambhava"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tara_(Buddhism)",
+    "avalokiteshvara": "https://en.wikipedia.org/wiki/Avalokiteshvara"
+  },
+  "palette": {
+    "c1": "#cdeadb",
+    "c2": "#eef3d4"
+  },
+  "order": 3,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

@@ -1,0 +1,294 @@
+{
+  "slug": "manu",
+  "name": "Manu",
+  "aka": [
+    "Vaivasvata Manu (seventh Manu)",
+    "Satyavrata (Vaivasvata)",
+    "Shraddhadeva (Vaivasvata)",
+    "Svayambhuva Manu (first Manu)"
+  ],
+  "native": "मनु",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "First man and father of humankind in Hindu tradition",
+  "summary": "Manu is the progenitor of humankind in Hindu tradition. Later texts speak of fourteen Manus, each ruling an age, and tell how the seventh, Vaivasvata, was saved from a great flood by a fish.",
+  "about": "In the earliest Hindu texts, Manu is the first man, and the Sanskrit word for human, manushya, is read as child of Manu. Later Puranic texts describe fourteen Manus, each heading one manvantara within a kalpa. The first is Svayambhuva, a son of Brahma. The present age belongs to the seventh, Vaivasvata, also called Satyavrata or Shraddhadeva, son of the Sun god Vivasvan. The Shatapatha Brahmana tells how a small fish he rescued warned him of a flood, while the Mahabharata and Puranas retell the tale with differences. The law book Manusmriti takes its name from Manu, though scholars date it to roughly 200 BCE to 200 CE. This profile covers two different Manus. Svayambhuva, the first, is the son of Brahma, the grandfather of Dhruva and the father of Devahuti; Vaivasvata, the seventh, is the son of Vivasvan and is the hero of the flood tale.",
+  "kidSummary": "Manu is called the first person in old Indian stories, and the word for human beings comes from his name. In one tale he helps a tiny fish, and the fish grows huge and later saves him from a great flood. Hindus also count fourteen Manus, one for each age of the world.",
+  "story": [
+    {
+      "title": "A tiny fish",
+      "text": "One morning, Manu is washing his hands when a very small fish swims into them. It begs him to keep it safe from bigger fish and promises to help him one day."
+    },
+    {
+      "title": "A growing friend",
+      "text": "Manu puts the fish in a jar, but it grows too big. So he moves it to a pit, and finally to the sea, where it is large and free."
+    },
+    {
+      "title": "The warning",
+      "text": "The fish tells him that a great flood is coming and that he should build a ship and be ready to climb aboard when the waters rise."
+    },
+    {
+      "title": "Across the flood",
+      "text": "When the flood arrives, Manu boards his ship. The fish tows it with a rope tied to its horn, and the Mahabharata and Puranas say the ship also carries the seven sages and seeds."
+    },
+    {
+      "title": "Starting again",
+      "text": "The ship comes to rest on a mountain in the north. As the water goes down, Manu climbs out and, in the old tale, the human family begins again."
+    }
+  ],
+  "teaches": [
+    "Be kind to the small and weak",
+    "Listen to good advice and prepare",
+    "Help given today can return later"
+  ],
+  "symbol": "wave",
+  "emblems": ["Boat (in the flood story)", "Horned fish (Matsya)", "Rope tied to the horn"],
+  "family": [
+    {
+      "relation": "Father (Vaivasvata)",
+      "name": "Vivasvan (Surya)",
+      "slug": "surya"
+    },
+    {
+      "relation": "Saviour of Vaivasvata in the flood",
+      "name": "Matsya",
+      "slug": "matsya"
+    },
+    {
+      "relation": "Father of the first Manu (Svayambhuva)",
+      "name": "Brahma",
+      "slug": "brahma"
+    },
+    {
+      "relation": "Grandson of Svayambhuva via Uttanapada",
+      "name": "Dhruva",
+      "slug": "dhruva"
+    },
+    {
+      "relation": "Grandson of Svayambhuva via Devahuti",
+      "name": "Kapila",
+      "slug": "kapila"
+    },
+    {
+      "relation": "Son of Vaivasvata",
+      "name": "Ikshvaku"
+    },
+    {
+      "relation": "Child of Vaivasvata",
+      "name": "Ila"
+    },
+    {
+      "relation": "Pupil credited with the Manusmriti text",
+      "name": "Bhrigu",
+      "slug": "bhrigu"
+    }
+  ],
+  "texts": [
+    "Shatapatha Brahmana (I.8.1)",
+    "Mahabharata",
+    "Matsya Purana",
+    "Bhagavata Purana",
+    "Manusmriti"
+  ],
+  "places": [
+    "Manu Temple, Old Manali, Himachal Pradesh",
+    "Naubandhana peak of Himavat (in the Mahabharata)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In early Hindu texts Manu is the first man; the Sanskrit words manushya and manava for human are read as children of Manu.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Manu_(Hinduism)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "By the count given, one manvantara lasts 71 mahayugas of 4,320,000 years each, or 306,720,000 solar years, and the earth is said to be submerged before and after it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Flood_myth",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata, Satyavrata is a Dravida king who lives on water alone and scoops a small fish from the Kritamala river; he lives in the Chakshusha manvantara, the fish keeps outgrowing its vessels, and it warns him the flood comes in seven days (8.24).",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/8/24/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Eggeling's English translation of the Shatapatha Brahmana says the fish told Manu to tie his ship to a tree on the northern mountain and slip down gradually as the water fell, and that the slope was named from that descent, which he renders Alarm's descent.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63144.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After the flood in the Shatapatha Brahmana, Manu pours butter and milk products into the water, and within a year a woman, Ida, appears from them.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63144.html",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Texts differ on the fish: the Mahabharata names it Brahma, while the Matsya Purana names it Vishnu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matsya",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Versions differ on the rope: the Matsya Purana makes the serpent Shesha the rope tied to the fish's horn, while the Bhagavata uses the serpent Vasuki, and in the Mahabharata the boat comes to rest on Naubandhana, the highest peak of the Himavat range.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vaivasvata_Manu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One tradition credits Manu with founding Ayodhya on the Sarayu river, a city whose name means invincible; through his son Ikshvaku he is the forefather of the Solar dynasty in which Rama appears.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ikshvaku_dynasty",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata story Manu's child Ila changes between being a man, Sudyumna, and a woman; this tale makes Ila the chief ancestor of the Lunar dynasty through the son Pururavas.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Manusmriti is credited to Manu, but the page notes its first 58 verses are attributed to him and the remaining 2,000 or more to his pupil Bhrigu; most scholars date the text to about 200 BCE to 200 CE.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manusmriti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 1927 B. R. Ambedkar burned copies of the Manusmriti, the law book that carries Manu's name, to protest caste discrimination.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Manusmriti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Matsya Purana version, Manu's boat carries the Seven Sages along with nine kinds of seeds and animals so life can begin again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vaivasvata_Manu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "An ancient shrine to Manu stands in Old Manali; the town's name is thought to come from Manu-alaya, abode of Manu, and local legend says he stepped from his ark there to restart human life after the flood.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition names Nabhiraja, called Manu, as the fourteenth patriarch and father of the first Tirthankara, Rishabhanatha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Manu_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One scholar, Norbert Oettinger, proposed that the Indian flood hero was once Yama and was later replaced by Manu.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Flood_myth",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata passage lists ten sons of Vaivasvata Manu, among them Ikshvaku, Nabhaga and Saryati, plus a daughter, Ila, and adds that he had fifty other sons who died after quarrelling with each other.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Vaivasvata_Manu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vaivasvata Manu is said to have carried a magical sword named Asi.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vaivasvata_Manu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Svayambhuva Manu's wife Shatarupa is called the first woman in many Puranas; the Puranas say Brahma's body split into a male and a female form, and she and Manu had two sons, Priyavrata and Uttanapada, and three daughters, Akuti, Devahuti and Prasuti.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Svayambhuva_Manu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vaivasvata Manu has a famous brother: Yama, the god of death, is also a son of Vivasvan the sun god, and Yama's page lists Shraddhadeva Manu among his siblings.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A note in the Shatapatha translation says the mountain peak where the ship was tied was later called naubandhana, the tying of the ship, and that the Atharvaveda uses a phrase meaning gliding down of the ship for the Himavat summit.",
+      "kind": "place",
+      "source": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63144.html",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal warns Manu about the flood?",
+      "options": ["A fish", "A bird", "A deer", "A snake"],
+      "answer": 0,
+      "why": "Matsya, the fish, warns him."
+    },
+    {
+      "q": "How many Manus are there in Hindu cosmology?",
+      "options": ["Seven", "Ten", "Fourteen", "Twenty-one"],
+      "answer": 2,
+      "why": "Each manvantara has its own Manu."
+    },
+    {
+      "q": "What did the fish tell Manu to build before the flood?",
+      "options": ["A tower", "A ship", "A bridge", "A temple"],
+      "answer": 1,
+      "why": "He builds a ship and boards it when the waters rise."
+    },
+    {
+      "q": "What did Manu tie the ship's rope to while the fish towed it?",
+      "options": ["To a whale", "To the fish's horn", "To an anchor stone", "To a mast"],
+      "answer": 1,
+      "why": "In the Shatapatha Brahmana the rope goes to the fish's horn."
+    },
+    {
+      "q": "Whose son is Vaivasvata Manu?",
+      "options": ["Brahma", "Vivasvan, the Sun god", "Indra", "Yama"],
+      "answer": 1,
+      "why": "Vivasvan is the Sun god."
+    }
+  ],
+  "related": ["matsya", "vishnu", "brahma", "surya", "bhrigu", "kurma", "yama", "dhruva", "kapila"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Manu_(Hinduism)",
+    "vaivasvata": "https://en.wikipedia.org/wiki/Vaivasvata_Manu",
+    "svayambhuva": "https://en.wikipedia.org/wiki/Svayambhuva_Manu",
+    "shatapatha": "https://en.wikipedia.org/wiki/Shatapatha_Brahmana",
+    "flood": "https://en.wikipedia.org/wiki/Flood_myth",
+    "wisdomlib": "https://www.wisdomlib.org/hinduism/book/satapatha-brahmana-english/d/doc63144.html",
+    "manusmriti": "https://en.wikipedia.org/wiki/Manusmriti",
+    "matsya": "https://en.wikipedia.org/wiki/Matsya",
+    "temple": "https://en.wikipedia.org/wiki/Manali,_Himachal_Pradesh",
+    "bhagavata_8_24": "https://vedabase.io/en/library/sb/8/24/",
+    "ila": "https://en.wikipedia.org/wiki/Ila_(Hinduism)",
+    "dhruva": "https://en.wikipedia.org/wiki/Dhruva",
+    "devahuti": "https://en.wikipedia.org/wiki/Devahuti"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#BCD7E3",
+    "c2": "#EFE1BE"
+  },
+  "order": 500
+}

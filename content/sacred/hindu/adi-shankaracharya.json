@@ -1,0 +1,264 @@
+{
+  "slug": "adi-shankaracharya",
+  "name": "Adi Shankaracharya",
+  "aka": ["Adi Shankara", "Shankara", "Shankaracharya", "Bhagavatpada"],
+  "native": "आदि शंकराचार्य",
+  "role": "Teacher of Advaita Vedanta, said to have founded four mathas",
+  "summary": "Adi Shankara was an early Indian philosopher who taught Advaita Vedanta. Tradition says he walked across India, wrote many commentaries and founded four mathas.",
+  "about": "Adi Shankara was a teacher of Advaita Vedanta, the view that the self and the ultimate reality are one. Scholars place him in the 8th century CE, while the Advaita tradition gives him a much earlier date. Biographies say he was born at Kaladi in Kerala and became a renunciate as a boy, after a crocodile story told in all of them. His teacher was Govinda Bhagavatpada. Tradition says he travelled the country, debated scholars and set up four mathas. Many works are credited to him, though scholars accept far fewer as genuine. Hagiographies place his death at Kedarnath, in other tellings elsewhere. Sringeri, Dvaraka, Puri and Jyotirmath honour him as founder.",
+  "kidSummary": "Adi Shankara was a wise teacher from Kerala. Stories say he left home as a boy after a crocodile caught his leg in a river. He then walked across India, talking with scholars, and tradition says he founded four great monasteries in the four directions.",
+  "story": [
+    {
+      "title": "A boy in Kaladi",
+      "text": "Old biographies say Shankara was born in Kaladi, Kerala. He loved learning and soon knew many texts."
+    },
+    {
+      "title": "The crocodile",
+      "text": "One day a crocodile held him by the leg in the river. The story says his mother agreed that he could become a renunciate, and he was set free."
+    },
+    {
+      "title": "Finding a teacher",
+      "text": "He left home and found his teacher, Govinda Bhagavatpada, whom biographies place near the Narmada, Kashi or Badari."
+    },
+    {
+      "title": "Debates and travels",
+      "text": "He walked across India, talking with scholars and sharing his teaching that all is one."
+    },
+    {
+      "title": "Four mathas",
+      "text": "Tradition says he set up monasteries in four directions, Sringeri, Dvaraka, Puri and Badri, to keep his teaching alive."
+    },
+    {
+      "title": "The frog and the snake",
+      "text": "A story tells that at Sringeri he saw a snake shading a frog and chose the place as a sacred, peaceful home."
+    }
+  ],
+  "teaches": [
+    "Look for what is one behind all the many things",
+    "Knowledge and humility belong together",
+    "Do not waste life on empty chatter"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Staff and water pot of a renunciate", "Four mathas"],
+  "family": [
+    {
+      "relation": "teacher",
+      "name": "Govinda Bhagavatpada"
+    },
+    {
+      "relation": "teacher's teacher",
+      "name": "Gaudapada"
+    },
+    {
+      "relation": "disciple",
+      "name": "Sureshvara"
+    },
+    {
+      "relation": "disciple",
+      "name": "Padmapada"
+    }
+  ],
+  "texts": [
+    "Brahma Sutra Bhashya",
+    "Upanishad commentaries",
+    "Bhagavad Gita Bhashya",
+    "Bhaja Govindam (attributed)"
+  ],
+  "places": ["Kaladi", "Sringeri", "Kedarnath", "Dvaraka", "Puri"],
+  "festivals": ["Shankara Jayanti"],
+  "facts": [
+    {
+      "text": "Kanchipuram's records give his birth as 509 BCE and Sringeri's as 483 BCE, so even the monasteries disagree.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In a story found in every biography, a crocodile seized the boy of about eight, and his mother agreed that he could become a renunciate.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A legend says he saw a snake spreading its hood to shade a pregnant frog beside the Tunga river and chose the spot for Sringeri.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A 108-foot statue of Shankara near Omkareshwar was unveiled on 21 September 2023.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "More than 300 texts are credited to Shankara, but most are considered not his by scholars.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Bhaja Govindam is said to have begun when Shankara met an old man in Varanasi memorising grammar rules, and urged him to turn to God.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhaja_Govindam",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a famous story, on the way to the Kashi temple he met a man whom society treated as an outcaste, walking with four dogs, and answered the man's question with five verses, the Manisha Panchakam, bowing to him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Manisha_Panchakam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In legend, the young Shankara praised Lakshmi in 22 verses, the Kanakadhara Stotra, after a poor woman gave him her only gooseberry, and golden gooseberries rained on her house.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kanakadhara_Stotra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Madhaviya Shankara-vijaya tells of a boy his father thought dull who answered Shankara in twelve verses; named Hastamalaka, 'gooseberry in hand', he became a disciple.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hastamalakacharya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Two legends explain the Saundarya Lahari: in one, Shiva gave Shankara 100 verses but Nandi tore the manuscript in two, so Shankara kept 41 and wrote 59; in the other, he saw the verses written on a wall at Kailash and rebuilt the rest from memory.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Saundarya_Lahari",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Biographies disagree on where he died: Kedarnath in those tied to the four mathas, Kashmir or Kerala in others. The Kanchi tradition says Kanchi, in his 32nd year, and a shrine by the Kamakshi temple marks the spot.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the best-known story of his travels, Shankara debated the scholar Mandana Mishra, and Mandana's wife, Ubhaya Bharati, served as umpire; after Mandana lost, he is said to have become Shankara's disciple under the name Sureshvara.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ubhay_Bharati",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A legend says Shankara's disciple Sanandana, called from across a swollen river, walked over the water without fear and a lotus rose under each of his steps, so he was named Padmapada, 'lotus feet'.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Padmapadacharya",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "His masterpiece is the Brahmasutrabhashya, a commentary on the Brahma Sutras, the foundation text of Vedanta; scholars also accept his commentaries on several major Upanishads and the Bhagavad Gita.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Upadesasahasri, 'a thousand teachings', is regarded as his most important original philosophical work, and its longest chapter explores the great saying 'That art thou'.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Shankara taught that the individual self and Brahman only seem different in daily life; at the deepest level they are one, so each person's inner self is the ultimate reality.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Upadesasahasri he says the inner Self is free from caste, family and purifying ceremonies, because it is not a matter of birth.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Malayalam, Kalady means 'footprint'; the village on the Periyar river is held by every traditional source to be Shankara's birthplace.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kalady",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hagiographies say that after leaving home at eight he reached a river sanctuary in north-central India and became the pupil of Govinda Bhagavatpada, who had himself studied under Gaudapada.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Adi_Shankara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vidyashankara temple at Sringeri, finished in 1338, has a round outer wall around square inner chambers and can be entered from four directions.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the famous story, what animal caught young Shankara?",
+      "options": ["A tiger", "A crocodile", "A snake", "A bear"],
+      "answer": 1,
+      "why": "All biographies tell of a crocodile in the river."
+    },
+    {
+      "q": "Which philosophy did he teach?",
+      "options": ["Advaita Vedanta", "Dvaita", "Charvaka", "Jain syadvada"],
+      "answer": 0,
+      "why": "He taught Advaita Vedanta."
+    },
+    {
+      "q": "Where is Shankara said to have been born?",
+      "options": ["Kaladi, Kerala", "Puri", "Varanasi", "Thrissur"],
+      "answer": 0,
+      "why": "Oldest biographies name Kaladi in Kerala."
+    },
+    {
+      "q": "Which animal did Shankara see sheltering a frog?",
+      "options": ["Cobra", "Eagle", "Lion", "Crow"],
+      "answer": 0,
+      "why": "A snake spreading its hood over a frog marked Sringeri."
+    },
+    {
+      "q": "How many mathas does tradition say he set up?",
+      "options": ["Two", "Four", "Ten", "Twenty"],
+      "answer": 1,
+      "why": "Tradition names four mathas."
+    }
+  ],
+  "related": ["ramanuja", "madhvacharya", "shiva", "saraswati", "vyasa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Adi_Shankara",
+    "bhajaGovindam": "https://en.wikipedia.org/wiki/Bhaja_Govindam",
+    "sringeri": "https://en.wikipedia.org/wiki/Sringeri_Sharada_Peetham",
+    "kalady": "https://en.wikipedia.org/wiki/Kalady",
+    "manishaPanchakam": "https://en.wikipedia.org/wiki/Manisha_Panchakam",
+    "kanakadhara": "https://en.wikipedia.org/wiki/Kanakadhara_Stotra",
+    "saundaryaLahari": "https://en.wikipedia.org/wiki/Saundarya_Lahari",
+    "hastamalaka": "https://en.wikipedia.org/wiki/Hastamalakacharya",
+    "kedarnath": "https://en.wikipedia.org/wiki/Kedarnath_Temple"
+  },
+  "palette": {
+    "c1": "#e6d3b8",
+    "c2": "#c6dce6"
+  },
+  "years": "8th century CE (traditional: 5th c. BCE)",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

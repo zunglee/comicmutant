@@ -1,0 +1,279 @@
+{
+  "slug": "shibi",
+  "name": "Shibi",
+  "aka": ["Sibi", "Ushinara's son"],
+  "native": "शिबि",
+  "role": "Generous king who offered his own flesh to protect a dove",
+  "summary": "Shibi is the lunar-dynasty king of the Mahabharata who promised protection to a frightened dove and offered his own flesh to a hawk in its place, only to learn that the two were gods testing him.",
+  "about": "Shibi is a king famed for keeping his promise of shelter. The Mahabharata tells that Indra and Agni took the shapes of a hawk and a dove to test him. The dove fled to Shibi and he promised protection, so when the hawk claimed its meal, the king offered an equal weight of his own flesh. The scale never balanced, and finally Shibi sat on it himself. The gods then showed their true forms and blessed him. In the epic he is a son of Ushinara and a grandson of Yayati. Buddhists tell a related Sibi story as a past life of the Buddha, and in the Sivi Jataka a king gives his eyes to a blind visitor. Scenes of the tale appear at Ajanta, Gandhara and Mogao.",
+  "kidSummary": "King Shibi was known for keeping his word. One day a frightened dove flew into his lap, with a hawk chasing it. Shibi promised to keep the dove safe, so he offered his own flesh to the hungry hawk instead. The hawk and dove turned out to be gods who wanted to see how kind and brave the king really was.",
+  "story": [
+    {
+      "title": "A dove in danger",
+      "text": "A tiny dove, afraid for its life, flew into King Shibi's arms. A hawk was chasing it, and the king promised to keep the dove safe."
+    },
+    {
+      "title": "The hungry hawk",
+      "text": "The hawk said it was hungry and that the dove was its rightful meal. The king did not want to break his promise, nor leave the hawk hungry."
+    },
+    {
+      "title": "An offer of flesh",
+      "text": "Shibi offered to give some of his own flesh to the hawk, an amount equal to the weight of the dove, and placed it on a balance."
+    },
+    {
+      "title": "The scales",
+      "text": "Every piece he gave left the dove side heavier. In the end, Shibi climbed onto the scale himself."
+    },
+    {
+      "title": "The gods revealed",
+      "text": "Indra and Agni showed their true forms, praised Shibi's courage and blessed him. Many retellings add that his body was made whole again."
+    }
+  ],
+  "teaches": ["Keep your promises", "Protect those who ask for shelter", "Give with a kind heart"],
+  "symbol": "feather",
+  "emblems": ["Dove", "Hawk", "Scales"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Ushinara"
+    },
+    {
+      "relation": "Mother",
+      "name": "Madhavi"
+    },
+    {
+      "relation": "Maternal grandfather",
+      "name": "Yayati",
+      "slug": "yayati"
+    },
+    {
+      "relation": "Son (Vana Parva tale)",
+      "name": "Kapotaroma"
+    },
+    {
+      "relation": "Testers in the tale",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Testers in the tale",
+      "name": "Agni",
+      "slug": "agni"
+    }
+  ],
+  "texts": ["Mahabharata (Vana Parva)", "Sibi Jataka and Sivi Jataka (Buddhist)", "Jatakamala"],
+  "places": [
+    "Sehwan (said to be Shibistan)",
+    "Pundarikakshan Perumal Temple (sthala purana)",
+    "Ajanta Cave 17",
+    "Mogao Cave 275"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In the Vana Parva, the sage Lomasha tells the hawk-and-pigeon test beside the Yamuna, but the king in that telling is Ushinara, Shibi's father. Epic tellings differ on which king it was.",
+      "kind": "text",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03130.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Yayati fell from heaven he landed among four royal grandsons, Shibi one of them. With their mother Madhavi they gave him a share of their merit, and it lifted him back up.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05121.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Vana Parva telling about Ushinara, Shibi's father, the hawk argues like a lawyer: a duty that blocks another duty is no duty, and his own family would go hungry. The king guesses the hawk must be Garuda, since it knows dharma so well.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03131.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Another Vana Parva telling, by the sage Markandeya, has Narada say Sivi is greater than he is. A Brahmin once asked Sivi to cook his own son Brihadgarbha as a meal, and the king agreed.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03197.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "While Sivi carried the cooked meal, a messenger said the Brahmin was burning his palace, treasury and stables. The king did not change colour. The Brahmin was the Creator in disguise, and the son stood alive and shining.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03197.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The hawk demands that the replacement flesh come from the king's right thigh and equal the dove in weight.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "However much flesh Shibi places on the scale, it never matches the dove, so at last he climbs on the scale himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the end of that Ushinara telling, the hawk says he is Indra and the pigeon is Agni. He promises the king's fame will last as long as people speak of him, and the king goes to heaven in a shining form.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03131.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Galava asked Ushinara for 400 moon-bright horses with one black ear as the price of two sons by Madhavi. Ushinara had only 200, so he took one son: Shibi, born shining like the morning sun.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05118.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Narada settled a road standoff between Shibi and King Suhotra, each refusing to give way. He taught honesty and humility, said Shibi was the greater in virtue, and Suhotra finally yielded.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Wikipedia retelling of the dove test, the king's priest first reminds him it is his sworn duty to protect the dove, and the dove itself says it is really a sage.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the end of the test the gods told Shibi he would be blessed with a son named Kapotaroma, a name that points back to the dove in the tale.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shibi_(king)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Buddhist Sibi Jataka has a sparrow-and-falcon version of the dove story and says the king was a past life of the Buddha. In its eye-donation tale, Indra comes as a blind man asking for an eye, and the king offers both.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sibi_Jataka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Galava asked for horses, Ushinara answered that a king's wealth exists for his people, not his own comfort. A ruler who gives away others' wealth for pleasure, he said, earns neither merit nor fame.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05118.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The surgeon Sivaka first rubs medicine into the king's eye so it will loosen, and the brahmin sets the first eye in his own socket like a blue lotus.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Jataka/499.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The king's new eyes at first grew back as plain lumps, but after he made an Act of Truth about his gift, true sight returned.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Jataka/499.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The restored eyes were called eyes of the Perfection of Truth and could see through rock, walls and hills for a hundred leagues.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Jataka/499.htm",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Pali Sivi Jataka, the king privately vowed to give any part of himself that was asked, even eyes or heart, before Sakka arrived as a blind old brahmin and asked for one eye.",
+      "kind": "story",
+      "source": "https://ancient-buddhist-texts.net/English-Texts/Jataka/499.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Shibi's sacrifices, the Drona Parva says, posts, walls and arches were made of gold, lakes held milk and curds, and there were white hills of food beside rivers of drink.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07055.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Legend says Sibi Chakravarthy first built the Pundarikakshan Perumal Temple at Thiruvellarai near Tiruchirappalli. Its rock-cut caves carry inscriptions from the 700s and 800s CE.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Pundarikakshan_Perumal_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tamil tradition calls Shibi Sembiyan, a name adopted by many Chola kings, who later claimed him as an ancestor.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Sibi_Jataka",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Sivi explained why he gave so much: not for fame, wealth or pleasure, but because the path the good have walked is worthy, and his heart leaned that way.",
+      "kind": "teaching",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m03/m03197.htm",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which bird fled to King Shibi for safety?",
+      "options": ["A crow", "A dove", "A parrot", "A peacock"],
+      "answer": 1,
+      "why": "A dove asked for his protection."
+    },
+    {
+      "q": "Which gods tested Shibi?",
+      "options": ["Brahma and Shiva", "Indra and Agni", "Surya and Chandra", "Yama and Varuna"],
+      "answer": 1,
+      "why": "Indra became a hawk and Agni a dove."
+    },
+    {
+      "q": "What did Shibi finally put on the scale?",
+      "options": ["His crown", "His sword", "Himself", "Jewels"],
+      "answer": 2,
+      "why": "He sat on the scale himself."
+    },
+    {
+      "q": "In the Buddhist Sivi tale, what does the king give?",
+      "options": ["His horse", "His eyes", "His crown", "His throne"],
+      "answer": 1,
+      "why": "He gives his eyes to a blind visitor."
+    },
+    {
+      "q": "Where do paintings of the story appear?",
+      "options": ["Ajanta caves", "Ellora caves", "Elephanta caves", "Badami caves"],
+      "answer": 0,
+      "why": "Ajanta Cave 17 shows the story."
+    }
+  ],
+  "related": ["indra", "agni", "dadhichi", "harishchandra", "yayati"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Shibi_(king)",
+    "sibi_jataka": "https://en.wikipedia.org/wiki/Sibi_Jataka",
+    "sivi_jataka_499": "https://ancient-buddhist-texts.net/English-Texts/Jataka/499.htm",
+    "hindupedia": "https://hindupedia.com/en/%C5%9Aibi",
+    "yayati": "https://en.wikipedia.org/wiki/Yayati",
+    "udyoga_121": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05121.htm",
+    "udyoga_118": "https://www.ibiblio.org/sripedia/ebooks/mb/m05/m05118.htm",
+    "drona_58": "https://www.ibiblio.org/sripedia/ebooks/mb/m07/m07055.htm"
+  },
+  "palette": {
+    "c1": "#E8E4F0",
+    "c2": "#F4E3C2"
+  },
+  "order": 500,
+  "tradition": "hindu",
+  "group": "purana",
+  "depth": "full"
+}

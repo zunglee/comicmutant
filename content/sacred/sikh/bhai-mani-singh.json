@@ -1,0 +1,275 @@
+{
+  "slug": "bhai-mani-singh",
+  "name": "Bhai Mani Singh",
+  "aka": ["Mani Ram", "Shaheed Bhai Mani Singh"],
+  "native": "ਭਾਈ ਮਨੀ ਸਿੰਘ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Sikh scholar, scribe and martyr",
+  "summary": "A scholar and lifelong servant of the Gurus who wrote Sikh texts and led Harmandir Sahib. Remembered as a martyr of 1737.",
+  "about": "Bhai Mani Singh, born Mani Ram near Multan, grew up serving the Sikh Gurus, from Guru Har Rai to Guru Gobind Singh. According to Sikh tradition he took Amrit in 1699 and became a close companion and scribe of Guru Gobind Singh. He later became the head Granthi of Harmandir Sahib in Amritsar and taught the scripture there. He wrote the Gyan Ratnavali and Bhagat Ratnavali, and tradition credits him with the shape of the Ardas. Around 1737 he sought permission from the governor of Lahore to hold Diwali at Amritsar, but the gathering fell through and he was arrested. Refusing to give up his faith, he was executed by dismemberment in Lahore. Accounts differ on some years, including his birth and execution date.",
+  "kidSummary": "Mani Singh grew up serving the Sikh Gurus by washing dishes and helping wherever he could. Sikh tradition says he wrote down a copy of the scripture as Guru Gobind Singh recited it from memory. He later taught people at the Golden Temple. Sikhs remember him for his loyalty and courage.",
+  "story": [
+    {
+      "title": "A boy who served",
+      "text": "When Mani was about 13, his father took him to the Guru's town of Kiratpur. He washed pots and did humble jobs for the Guru."
+    },
+    {
+      "title": "Friend of Guru Gobind Singh",
+      "text": "He looked after the young Gobind Rai, though he was much older. In 1699 he took Amrit and became Mani Singh, and he helped the Guru as a scribe, adviser and guard."
+    },
+    {
+      "title": "Teacher at Amritsar",
+      "text": "In Amritsar he read and explained the scriptures at Harmandir Sahib. People came from villages to listen to him and to take initiation."
+    },
+    {
+      "title": "A Diwali gathering",
+      "text": "Around 1737 he asked the governor for leave to hold Diwali at Amritsar. The plan was threatened, and the festival did not go ahead as hoped."
+    },
+    {
+      "title": "Standing firm",
+      "text": "He was taken to Lahore and told to give up his faith. He refused, and Sikhs remember him as a martyr for his steadiness."
+    }
+  ],
+  "teaches": [
+    "Service with humility",
+    "Loyalty to teachers and community",
+    "Courage to keep one's faith"
+  ],
+  "symbol": "book",
+  "emblems": ["Pen and scripture", "Harmandir Sahib"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Rao Mai Das"
+    },
+    {
+      "relation": "mother",
+      "name": "Madri Bai"
+    },
+    {
+      "relation": "brother",
+      "name": "Bhai Dayala",
+      "slug": "bhai-dayala"
+    },
+    {
+      "relation": "wife",
+      "name": "Seeto Bai"
+    },
+    {
+      "relation": "son",
+      "name": "Chitar Singh"
+    }
+  ],
+  "texts": ["Gyan Ratnavali", "Bhagat Ratnavali", "Guru Granth Sahib"],
+  "places": [
+    "Alipur near Multan",
+    "Harmandir Sahib, Amritsar",
+    "Talwandi Sabo",
+    "Lahore (Shaheedganj)"
+  ],
+  "festivals": ["Bandi Chhor Divas", "Vaisakhi"],
+  "facts": [
+    {
+      "text": "Sikh tradition credits him with writing down the Guru Granth Sahib at Talwandi Sabo while Guru Gobind Singh recited it from memory.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Tradition credits him with giving the Ardas prayer its present shape, including the custom of remembering Sikhs' brave deeds.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Around 1737 he asked governor Zakariya Khan for leave to hold Diwali at Harmandir Sahib, and was told to pay 5,000 rupees.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He was told to accept Islam or face death and chose death. He was executed in Lahore by being cut apart joint by joint. A memorial near the Masti Gate of Lahore Fort, built in Maharaja Ranjit Singh's reign, is now Gurdwara Shaheedganj Bhai Mani Singh.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition says he reminded the executioner of the sentence, and asked him to cut at the joints. The Ardas recalls this joint-by-joint ending.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Vaisakhi 1721, one account says, he dropped two slips, each bearing one faction's salute, into the Amritsar sarovar. The Khalsa salute floated up first, and a wrestling match before the Akal Takht settled the rest.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tat_Khalsa",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia lists him as one of three Sikhs of the 18th century believed to have restored the Dasam Granth by gathering its scattered writings, along with Deep Singh and Sukha Singh of Patna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He and five of his sons fought in the front line in the first battle after the Khalsa began, and Guru Gobind Singh was so pleased that he issued a special edict praising the five sons by name.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Five of his sons are listed as killed in 1704 at Anandpur and Chamkaur, and two more, Chitar Singh and Gurbaksh Singh, are listed as killed with him in Lahore. It is one of the most costly family stories in Sikh history.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "He was one of twelve sons of Mai Das, and his grandfather Rao Ballu was a general in Guru Hargobind's army.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the victory at Nadaun in 1690, where he fought with great skill, Guru Gobind Singh gave him the title Diwan, meaning minister. He also served as one of the Guru's bodyguards.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He served four Gurus in turn: Har Rai, Har Krishan, Tegh Bahadur and Gobind Singh. When Guru Har Krishan died in Delhi in 1664, he took the Guru's mother, Mata Sulakhani, to Bakala.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1699 the Guru sent him with five other Khalsa Sikhs to take over Harmandir Sahib, which had been without a custodian since 1696. He became its third Granthi, after Baba Buddha and Bhai Gurdas, and also jathedar of the Akal Takht.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He expanded Bhai Gurdas's first Vaar into Gyan Ratnavali, a life of Guru Nanak, and his Bhagat Ratnavali expanded the eleventh Vaar into a list of famous Sikhs up to the time of Guru Hargobind.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On Vaisakhi 1699, along with his own initiation, three of his brothers (Rai Singh, Roop Singh and Man Singh) and five of his sons took Amrit, so a large part of his family joined the Khalsa on one day.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His brother Dayala went to Delhi with Guru Tegh Bahadur and was put to death there in 1675, while Mani Singh stayed at Anandpur to look after the young Gobind Rai. Another brother, Hati Chand, died at Bhangani in 1688.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Harmandir Sahib he made katha, the spoken explanation of Gurbani, a popular daily feature. Wikipedia says his efforts led many Jat farmers of northern Punjab to take Amrit, and they persuaded others back home.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1718, in a hard time of persecution, he spoke on the life of the sixth Guru at Baganwala. The talks became Gurbilas Patshahi 6, which the page calls the oldest complete written record of that Guru's life.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1720 Mata Sundari, worried about the quarrel between the Tat Khalsa and the Bandai Khalsa, appointed him Granthi of Harmandir Sahib and sent him to Amritsar with the Guru's maternal uncle Kirpal Chand. He arrived in 1721.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In 1687 he went with Guru Gobind Singh to Dehra Dun to help the widow of Baba Ram Rai, who was being ill-treated by the masands. In 1688 the Guru sent him at the head of fifty Sikhs to represent him at Ram Rai's death anniversary.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Bhai Mani Singh's birth name?",
+      "options": ["Mani Ram", "Mani Das", "Mani Lal", "Mani Chand"],
+      "answer": 0,
+      "why": "He was born Mani Ram and became Mani Singh in 1699."
+    },
+    {
+      "q": "What did he write down at Talwandi Sabo?",
+      "options": ["A map", "The Guru Granth Sahib", "A letter to the king", "A song book"],
+      "answer": 1,
+      "why": "Tradition says he wrote the Guru Granth Sahib as Guru Gobind Singh recited it."
+    },
+    {
+      "q": "Which Sikh festival is linked to his story?",
+      "options": ["Holi", "Bandi Chhor Divas", "Lohri", "Raksha Bandhan"],
+      "answer": 1,
+      "why": "Mani Singh asked leave to hold the Diwali gathering at Amritsar, the festival Sikhs call Bandi Chhor Divas."
+    },
+    {
+      "q": "Which two Granthis came before him at Harmandir Sahib?",
+      "options": [
+        "Baba Buddha and Bhai Gurdas",
+        "Bhai Mardana and Bala",
+        "Bhai Dayala and Sati Das",
+        "Deep Singh and Kanhaiya"
+      ],
+      "answer": 0,
+      "why": "He was the third Granthi after Baba Buddha and Bhai Gurdas."
+    },
+    {
+      "q": "In one account of 1721, what did Bhai Mani Singh drop into the Amritsar sarovar?",
+      "options": ["Two slips of paper", "Two swords", "Two coins", "Two lamps"],
+      "answer": 0,
+      "why": "Each slip carried one faction's salute, and the Khalsa salute floated up first."
+    }
+  ],
+  "related": [
+    "guru-har-rai",
+    "guru-har-krishan",
+    "guru-tegh-bahadur",
+    "guru-gobind-singh",
+    "bhai-dayala",
+    "bhai-gurdas",
+    "baba-buddha",
+    "mata-sundari",
+    "mata-sahib-kaur",
+    "baba-deep-singh"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhai_Mani_Singh",
+    "chhota": "https://en.wikipedia.org/wiki/Chhota_Ghallughara",
+    "tat-khalsa": "https://en.wikipedia.org/wiki/Tat_Khalsa"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e3bd",
+    "c2": "#d5e2d6"
+  },
+  "years": "c. 1644–1737/38",
+  "order": 20
+}

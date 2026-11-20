@@ -1,0 +1,314 @@
+{
+  "slug": "saptamatrikas",
+  "name": "Saptamatrikas",
+  "aka": ["Sapta Matrika", "Seven Mothers", "Matrikas", "Ashtamatrikas (eight)"],
+  "native": "सप्तमातृका",
+  "role": "The Seven Mother goddesses",
+  "summary": "The Saptamatrikas are seven Hindu mother goddesses, the energies of Brahma, Vishnu, Shiva, Indra, Kartikeya, Varaha and Devi. Temples across India and Nepal carve them side by side.",
+  "about": "Matrikas means mothers, and the Saptamatrikas are a group of seven goddesses described in the Devi Mahatmya, the Mahabharata and several Puranas. They are named Brahmani, Vaishnavi, Maheshvari, Indrani, Kaumari, Varahi and Chamunda, though lists vary, with Narasimhi, Vinayaki and others appearing in some texts. Tradition describes them as the powers, or shaktis, of the male gods and as helpers of Durga in battle. Early sources link them to children and illness, and later ones make them protectors. Sculptures of the group appear from the Kushana age onward, and in Nepal an eight-fold group is honoured around the Kathmandu valley.",
+  "kidSummary": "The Saptamatrikas are seven mother goddesses in Hindu stories. Each is linked to a different god and has her own animal vehicle. Many old temples carve all seven in a row, often with Ganesha and Shiva beside them.",
+  "story": [
+    {
+      "title": "Seven stars",
+      "text": "Some scholars say the Matrikas were first the seven goddesses of the Pleiades star cluster, a group linked in Hindu tradition with the Krittikas, who raised baby Skanda."
+    },
+    {
+      "title": "Seven powers",
+      "text": "In the Devi Mahatmya, powers from the gods take shape as goddesses, each with the vehicle and weapons of her god, to help Durga fight a huge army."
+    },
+    {
+      "title": "The blood-drop problem",
+      "text": "In the Devi Mahatmya, the asura Raktabija can make a new copy of himself from every drop of his blood. The Matrikas and Chamunda catch every drop before it touches the ground."
+    },
+    {
+      "title": "Back into one",
+      "text": "When Shumbha taunts Durga for relying on others, she draws the Matrikas back into herself and then defeats him alone, showing that all the powers are one."
+    },
+    {
+      "title": "Mothers of a baby",
+      "text": "In the Mahabharata, Indra sends the mothers of the world to harm baby Skanda, but they end up raising him with love instead."
+    },
+    {
+      "title": "Carved together",
+      "text": "Temples show the seven side by side in a row, usually with Shiva at one end and Ganesha at the other."
+    }
+  ],
+  "teaches": [
+    "Strength can be used to protect others",
+    "Great power works best when everyone works together",
+    "Mothers are to be honoured"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Swan (Brahmani)",
+    "Garuda (Vaishnavi)",
+    "Nandi bull (Maheshvari)",
+    "Elephant (Indrani)",
+    "Peacock (Kaumari)",
+    "Buffalo (Varahi)",
+    "Jackal (Chamunda)"
+  ],
+  "family": [
+    {
+      "relation": "Helpers of",
+      "name": "Durga",
+      "slug": "durga"
+    },
+    {
+      "relation": "Raised",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Carved beside them",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Carved beside them",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Opponent of Durga and the Matrikas",
+      "name": "Raktabija",
+      "slug": "raktabija"
+    }
+  ],
+  "texts": [
+    "Devi Mahatmya",
+    "Mahabharata",
+    "Matsya Purana",
+    "Varaha Purana",
+    "Devi Purana",
+    "Rigveda",
+    "Natya Shastra"
+  ],
+  "places": [
+    "Ellora caves",
+    "Elephanta caves",
+    "Parhari (Madhya Pradesh)",
+    "Patan and Bhaktapur (Nepal)",
+    "Selliyamman Temple, Alambakkam"
+  ],
+  "festivals": ["Navaratri (Nepal Ashta-Matrika worship)"],
+  "quiz": [
+    {
+      "q": "Which Matrika rides a jackal in temple sculpture?",
+      "options": ["Chamunda", "Brahmani", "Kaumari", "Indrani"],
+      "answer": 0,
+      "why": "Chamunda rides a jackal, while Brahmani rides a swan."
+    },
+    {
+      "q": "Which Matrika is linked to the god Brahma?",
+      "options": ["Brahmani", "Varahi", "Kaumari", "Indrani"],
+      "answer": 0,
+      "why": "Brahmani is the shakti of Brahma."
+    },
+    {
+      "q": "Which animal is the vehicle of Kaumari in the Devi Mahatmya?",
+      "options": ["Elephant", "Peacock", "Buffalo", "Jackal"],
+      "answer": 1,
+      "why": "Kaumari rides a peacock, like Kartikeya."
+    },
+    {
+      "q": "What do Newars of Kathmandu call the Ashta-Matrikas?",
+      "options": ["Ajimas", "Nanis", "Dyahs", "Bahis"],
+      "answer": 0,
+      "why": "Ajimas, grandmother goddesses, is the Newar name for the group."
+    }
+  ],
+  "related": [
+    "durga",
+    "kali",
+    "raktabija",
+    "andhaka",
+    "shumbha-and-nishumbha",
+    "kartikeya",
+    "ganesha",
+    "bhairava"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Matrikas",
+    "varahi": "https://en.wikipedia.org/wiki/Varahi",
+    "chamunda": "https://en.wikipedia.org/wiki/Chamunda"
+  },
+  "palette": {
+    "c1": "#f3e0d8",
+    "c2": "#e8d9b5"
+  },
+  "order": 50,
+  "facts": [
+    {
+      "text": "Each Matrika borrows the look and mount of her god. In temple images Brahmani rides a swan, Vaishnavi Garuda, Maheshvari Nandi, Indrani an elephant and Kaumari a peacock, while Varahi has a buffalo and Chamunda a jackal.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Indrani, the power of Indra, is shown with a thousand eyes on her body, matching Indra's own many-eyed look.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The name Chamunda joins Chanda and Munda, two asuras she is said to have killed.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chamunda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Narasimhi, the lion-faced power of Vishnu's man-lion form, is also called Pratyangira. She is said to throw the stars into disarray by shaking her mane.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Chalukyas of Karnataka claimed they were nursed by the Saptamatrikas, linking their rule to a divine upbringing.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In a row of seven Matrikas, Varahi always stands fifth, so she is called Panchami, meaning the fifth. The row is flanked by Virabhadra, a fierce form of Shiva, and by Ganesha.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varahi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Matrikas copy the form, jewels and mount of their gods, but Varahi takes only one feature from the boar-faced Varaha, his boar head.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Varahi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "King Srinivasa Malla built the Patan royal court in 1667 and is believed to have seen the Matrikas dance there one night. He then ordered that they be worshipped during Ashwin Navaratri.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Matsya Purana, Shiva creates seven Matrikas to stop Andhaka, who makes new copies of himself from each drop of his blood, and Narasimha later creates thirty-two gentle goddesses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some lists of nine Matrikas in the Devi Purana add Vinayaki, also called Gananayika, who is the power of Ganesha and has an elephant head.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Shalya Parva of the Mahabharata names ninety-two Matrikas serving Skanda, and includes Putana among them.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Natya Shastra advises worshipping the Matrikas before setting up a stage or starting a dance performance.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The first stone Matrika images, from the Kushana age (1st to 3rd century CE), grew from the worship of the balagrahas, goddesses thought to seize or to protect children, so mothers prayed to them for their safety.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Gupta kings Skandagupta and Kumaragupta I, who took Kartikeya as their model, carved Matrika images on royal monuments, partly to win the loyalty of their armies.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Varaha Purana says the Matrikas were created from the wandering thoughts of the goddess Vaishnavi, who lost her concentration while she was meditating.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In another Mahabharata account of Skanda's birth, fierce goddesses spring out of him when Indra's thunderbolt strikes him, and Skanda accepts them as his mothers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Tantra the letters of the Devanagari alphabet, from A to Ksha, are the Matrikas themselves, and a mantra's power is said to come from them. K. C. Aryan matched the consonant groups to the mothers, with the vowels as an eighth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Varahi is a goddess of the night, and Tantric texts say she should be worshipped between sunset and sunrise. Buddhist goddesses such as Vajravarahi and Marichi are seen as related forms.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varahi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Ellora's Rameshvara cave (Cave 21), the Matrikas look gentle. Kaumari holds a child on her lap, and Varahi has a human head rather than the usual boar head.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Village shrines of the Matrikas often stand in the wilderness near a lake or river, made of seven stones smeared with red vermilion. Tradition says women must please the mothers with bridal finery and prayers.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Devi Purana calls the banners of the Matrikas, carved outside the Udayagiri caves, Indra's sisters. They show a swan, bull, peacock, conch, discus, elephant and skeleton.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "From the 9th century in South India the Matrikas lost their own temples and became the entourage deities of Shiva and Parvati. Their images moved to temple corners and village shrines.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "By the mid-11th century a common tradition derived the sixty-four Yoginis, Tantric goddesses, from the eight Matrikas, so the Matrikas became the roots of a much larger circle.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the four Matrika panels at Ellora, Yama stands beside Ganesha shown as a skeleton, which seems to hint at the darker side of the mothers.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Matrikas",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

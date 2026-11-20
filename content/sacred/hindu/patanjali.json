@@ -1,0 +1,253 @@
+{
+  "slug": "patanjali",
+  "name": "Patanjali",
+  "aka": ["Gonardiya", "Gonikaputra", "Pathanjali"],
+  "native": "पतञ्जलि",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Sage of the Yoga Sutras and Sanskrit grammar",
+  "summary": "Patanjali is the name given to the compiler of the Yoga Sutras and to the author of a famous grammar commentary. Many traditions honour him as an incarnation of the serpent Adi Shesha.",
+  "about": "Patanjali is the name of one or more ancient Indian scholars. The best known is the compiler of the Yoga Sutras, a short text of verses on steadying the mind that is a root of classical yoga. A grammarian of the same name wrote the Mahabhashya, a great commentary on Panini, around the 2nd century BCE. Most modern scholars think these are different people, though Indian tradition since about the 11th century has often joined them into one sage who healed mind, speech and body. Tradition regards him as an avatar of Adishesha, the serpent of Vishnu, and a Chidambaram legend says he and the sage Vyaghrapada waited to see Shiva dance. Dates for the Yoga Sutras range widely, so the years below are scholarly estimates.",
+  "kidSummary": "Patanjali is the wise teacher behind the Yoga Sutras, a little book about calming the mind. A popular legend says he was once a tiny snake who wished to watch Shiva dance. Yoga teachers around the world still bow to him before they begin.",
+  "story": [
+    {
+      "title": "A serpent's wish",
+      "text": "In a popular Tamil legend, the serpent Adishesha feels Vishnu shaking with joy while thinking of Shiva's dance. He asks to see that dance for himself."
+    },
+    {
+      "title": "Born on earth",
+      "text": "Vishnu blesses him to be born as a human. He appears as a tiny snake in the folded hands of a wise yogini named Gonika, and she accepts him as her son."
+    },
+    {
+      "title": "A name from folded hands",
+      "text": "One folk explanation of the name Patanjali is 'one who fell at a mother's feet in respect', from the words for feet and joined palms. He learns her wisdom and grows into a great teacher."
+    },
+    {
+      "title": "To the Thillai forest",
+      "text": "Patanjali travels to Chidambaram, where he meets the tiger-footed sage Vyaghrapada. Together they pray and meditate, waiting for Shiva."
+    },
+    {
+      "title": "The dance",
+      "text": "Shiva appears and dances the Dance of Delight for the two sages. Patanjali's wish is granted, and the Chidambaram temple still tells the tale."
+    }
+  ],
+  "teaches": [
+    "Calm the busy mind with steady practice",
+    "Be kind and honest in daily life",
+    "Use your breath and body to grow quiet inside",
+    "Do not chase special powers"
+  ],
+  "symbol": "serpent",
+  "emblems": ["Coiled serpent (Adi Shesha)", "Joined palms (anjali)", "Yoga Sutras"],
+  "family": [
+    {
+      "relation": "Adoptive mother (legend)",
+      "name": "Gonika"
+    },
+    {
+      "relation": "Companion at Chidambaram",
+      "name": "Vyaghrapada"
+    }
+  ],
+  "texts": ["Yoga Sutras", "Mahabhashya", "Patanjalatantra"],
+  "places": [
+    "Chidambaram Nataraja Temple, Tamil Nadu",
+    "Brahmapureeswarar Temple, Tirupattur",
+    "Rameswaram"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In Sri Vaishnava tradition, the serpent Shesha is said to have come to earth in the Kali Yuga as the grammarian Patanjali, and also as the teacher Ramanuja.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shesha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Chidambaram legend says Patanjali and the tiger-footed sage Vyaghrapada set up a Shiva linga and prayed in the Thillai forest until Shiva appeared and danced for them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chidambaram_Nataraja_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vyaghrapada, Patanjali's companion in the legend, was said to have been given tiger feet so he could climb rough trees to gather flowers for worship without hurting himself.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vyaghrapada",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The eight limbs are ethics, personal habits, posture, breath control, turning the senses inward, focus, meditation and deep absorption. Posture is only one of the eight.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The scholar David Gordon White points out that the Yoga Sutras say very little about postures, stretching or breathing, even though modern yoga classes lean on them.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Middle Ages the Yoga Sutras were translated into about forty Indian languages plus Old Javanese and Arabic, making them the most translated ancient Indian text of that era.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Al-Biruni translated the Yoga Sutras into Arabic in the early 11th century. A separate Old Javanese version, the Dharma Patanjala, dates to about 1450 CE, and its fullest manuscript is held in Berlin's Staatsbibliothek.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The text warns that special powers (siddhis) gained in deep practice can become an obstacle for a yogi who really seeks freedom.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A grammarian named Patanjali wrote the Mahabhashya, the 'great commentary' on Panini's grammar, around the mid 2nd century BCE. Most scholars think he is a different person from the Yoga author.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Patanjali is often said to have compared the enmity between orthodox and non-Vedic schools to that between a mongoose and a snake. The scholar Nathan McGovern argues he never used that comparison.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A verse from the 11th-century scholar Bhoja honours Patanjali as the one who cleansed the mind through yoga, speech through grammar and the body through medicine.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "By the early 21st century scholars had found 82 manuscripts and 37 printed editions of the Yoga Sutras. Notes in the margins show the text kept changing as copyists passed it on.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The most famous line of the Yoga Sutras, sutra 1.2, defines yoga in a few words as the stilling of the restless movements of the mind. When the mind grows quiet, the text says, the true Self shows itself.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Yoga Sutras define the yoga posture (asana) only as a position in which a person can be steady and comfortable. Nothing in that line demands a pretzel-like twist.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Two temples claim Patanjali's final samadhi. At the Brahmapureeswarar Temple in Tirupattur, Tamil Nadu, a meditation hall holds his 'jeeva samadhi' near Brahma's shrine, and Tamil tradition also places his samadhi at the Shiva temple in Rameswaram.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Tamil siddha tradition of Shaiva yogis, Patanjali is counted as one of the 18 siddhars.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholars cannot agree when the Yoga Sutras were put together. Some link the author to the grammarian of the 2nd century BCE, while Philipp Maas dates the text to about 400 CE from its early commentaries.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At least four scholars named Patanjali are known: the author of the Mahabhashya grammar, the compiler of the Yoga Sutras, the author of a medical text called the Patanjalatantra, and a possible 8th-century commentator on the Charaka Samhita.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabhashya, Patanjali comments on a recent Greek incursion into India and on tribes of the north-west, so his grammar book also lets historians peek at events of his own time.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Patanjali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "David Gordon White says the Yoga Sutras were almost forgotten for some seven centuries. A British Orientalist's rediscovery in the early 1800s drew Western interest, and Swami Vivekananda's 1896 book Raja Yoga then made them famous.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the famous sutra 1.2 say yoga is?",
+      "options": [
+        "Stilling the movements of the mind",
+        "Lifting heavy weights",
+        "Chanting as loudly as possible",
+        "Fasting for a month"
+      ],
+      "answer": 0,
+      "why": "Yoga is described as the stilling of the mind's restless movements."
+    },
+    {
+      "q": "Which animal does legend link Patanjali with?",
+      "options": ["Lion", "Serpent", "Elephant", "Peacock"],
+      "answer": 1,
+      "why": "Tradition calls him an avatar of the serpent Adi Shesha."
+    },
+    {
+      "q": "Which sage joined Patanjali in the Chidambaram legend?",
+      "options": ["Vyaghrapada", "Narada", "Vishvamitra", "Kanva"],
+      "answer": 0,
+      "why": "Vyaghrapada, the tiger-footed sage, waited for Shiva with him."
+    },
+    {
+      "q": "How many limbs does the yoga path in the Yoga Sutras have?",
+      "options": ["Four", "Six", "Eight", "Ten"],
+      "answer": 2,
+      "why": "The limbs run from ethics through posture and breath to deep absorption. Posture is only one of the eight."
+    },
+    {
+      "q": "Which scholar made an Arabic version of the Yoga Sutras in the 11th century?",
+      "options": ["Al-Biruni", "Kalidasa", "Bhoja", "Panini"],
+      "answer": 0,
+      "why": "Al-Biruni translated it into Arabic."
+    }
+  ],
+  "related": ["shiva", "vishnu", "vyasa", "kapila"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Patanjali",
+    "yoga-sutras": "https://en.wikipedia.org/wiki/Yoga_Sutras_of_Patanjali",
+    "chidambaram": "https://en.wikipedia.org/wiki/Chidambaram_Nataraja_Temple",
+    "vyaghrapada": "https://en.wikipedia.org/wiki/Vyaghrapada",
+    "legend-chidambaram": "https://en.wikipedia.org/wiki/Chidambaram_Nataraja_Temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#cfe3d4",
+    "c2": "#e8dcc0"
+  },
+  "years": "c. 2nd c. BCE – 5th c. CE (disputed)",
+  "order": 760
+}

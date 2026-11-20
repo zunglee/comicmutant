@@ -1,0 +1,160 @@
+{
+  "slug": "sumatinatha",
+  "name": "Sumatinatha",
+  "aka": ["Sumati"],
+  "native": "सुमतिनाथ",
+  "role": "Fifth Tirthankara of the present age",
+  "order": 5,
+  "summary": "Jains revere Sumatinatha as the fifth Tirthankara, with the heron as his emblem, and the Bhandasar temple of Bikaner is said to have been built with ghee.",
+  "about": "Jain tradition counts Sumatinatha as the fifth of the 24 Tirthankaras of our descending age. Texts say he was born in Ayodhya to King Megha and Queen Mangala of the Ikshvaku dynasty, and that in a past life he was an Indra in a heavenly realm. He gave up his kingdom, reached omniscience under a priyangu tree (some accounts say sala), and is believed to have attained liberation on Mount Shikharji. His best-known temple is the Bhandasar Jain Temple in Bikaner.",
+  "kidSummary": "Sumatinatha is the fifth Tirthankara of Jainism. His symbol is the heron, and a famous temple of his in Bikaner has a legend that it was built with ghee, not water.",
+  "story": [
+    {
+      "title": "A heavenly past",
+      "text": "Jain texts say that before his last birth, Sumatinatha lived as an Indra in a high heaven."
+    },
+    {
+      "title": "Born in Ayodhya",
+      "text": "He was born in Ayodhya to King Megha and Queen Mangala."
+    },
+    {
+      "title": "Two mothers, one child",
+      "text": "Hemachandra's account says that while Queen Mangala was expecting, she judged a dispute between two women who both claimed one child. She decided that the true mother was the one who could not bear to wait. This wisdom is why he was named Sumati."
+    },
+    {
+      "title": "Becoming a monk",
+      "text": "He gave up his kingdom to live in quiet meditation."
+    },
+    {
+      "title": "Full knowledge",
+      "text": "Jains believe he reached omniscience under a priyangu tree."
+    },
+    {
+      "title": "Liberation",
+      "text": "Texts say he reached liberation on Mount Shikharji, where his footprints are honoured."
+    }
+  ],
+  "teaches": ["Detachment brings peace", "Good thinking leads to good living"],
+  "symbol": "lamp",
+  "emblems": ["Heron or red goose (lanchana)", "Priyangu tree", "Golden colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Megha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Mangala"
+    }
+  ],
+  "texts": ["Svayambhustotra"],
+  "places": ["Ayodhya", "Bhandasar Jain Temple, Bikaner", "Sammed Shikharji", "Talaja"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Jain accounts say his pregnant mother Mangala grew unusually wise and fair-minded, so his father named him Sumati, meaning wisdom or right thinking.",
+      "kind": "language",
+      "source": "https://jainworld.com/?p=10578",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's account, Queen Mangala settled a dispute between two women who both claimed one child, judging that the true mother was the one who could not bear to wait.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212735.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jain texts say that in his previous life he was an Indra in the Jayanta heavenly realm, one of the highest heavens. One source calls the realm Vijayant, a variant spelling.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sumatinatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A regional legend says the Bhandasar temple in Bikaner was built with about 40,000 kg of ghee in the mortar instead of water, so that it would stand up to the desert climate.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sumatinatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A verse about him in the Svayambhustotra says that whether a thing is described as existing or not existing depends on the viewpoint the speaker chooses to bring forward.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Sumatinatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Bhandasar temple is named after the Jain merchant Bhanda Shah. One inscription reading dates it to 1514-15, though an Archaeological Survey of India inventory dates its style to about the 12th century, and it has been a protected monument since 1951.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhandasar_Jain_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts give his height as 300 bows, about 900 metres by the page's conversion, and his lifespan as 40 lakh purvas.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Sumatinatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhandasar is a three-storey temple of red sandstone famous for frescoes, gold-leaf paintings and mirror work, and its walls show scenes from the lives of the 24 Tirthankaras.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhandasar_Jain_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A heron or red goose, called krauncha in Sanskrit, is carved beneath his seat as his emblem.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Sumatinatha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What bird is Sumatinatha's emblem?",
+      "options": ["Peacock", "Heron", "Swan", "Parrot"],
+      "answer": 1,
+      "why": "A heron or red goose."
+    },
+    {
+      "q": "Where is the Bhandasar temple?",
+      "options": ["Bikaner", "Mysuru", "Patna", "Pune"],
+      "answer": 0,
+      "why": "In Rajasthan."
+    },
+    {
+      "q": "What does legend say was mixed into the Bhandasar mortar?",
+      "options": ["Honey", "Milk", "Ghee", "Oil of lotus"],
+      "answer": 2,
+      "why": "About 40,000 kg of ghee."
+    },
+    {
+      "q": "What does the name Sumati mean?",
+      "options": ["Good mind or wisdom", "Unconquerable", "Lotus glow", "Moon light"],
+      "answer": 0,
+      "why": "His mother's wisdom in pregnancy gave rise to the name."
+    }
+  ],
+  "related": ["abhinandananatha", "padmaprabha", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sumatinatha",
+    "bhandasar": "https://en.wikipedia.org/wiki/Bhandasar_Jain_Temple",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "jainworld": "https://jainworld.com/?p=10578",
+    "wisdomlib": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc212735.html"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f0d9c4",
+    "c2": "#dbe3ee"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

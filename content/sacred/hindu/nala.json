@@ -1,0 +1,294 @@
+{
+  "slug": "nala",
+  "name": "Nala",
+  "aka": ["Nala Naishadha", "King of Nishadha", "Bahuka"],
+  "native": "नल",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "King of Nishadha, husband of Damayanti",
+  "summary": "Nala is the gifted, truthful king of Nishadha in the Nalopakhyana, a story inside the Mahabharata. He loses his kingdom at dice, wanders in disguise as a charioteer, and wins everything back.",
+  "about": "In the Mahabharata's Vana Parva, the sage Brihadashva tells the story of Nala to the exiled Yudhishthira, to show that even a great king can fall on hard times and recover. The epic describes Nala as handsome, honest and unmatched in horse-driving. A golden swan carries word of him to Damayanti, princess of Vidarbha, and she chooses him at her svayamvara even though four gods stand before her in his shape. According to the text, the spirit Kali is angered by this and later enters Nala's mind, leading him to lose his kingdom to his brother Pushkara in a game of dice. After a long separation he rescues the serpent king Karkotaka, takes the name Bahuka, and serves King Rituparna of Ayodhya as charioteer. He is reunited with Damayanti, wins back his kingdom and forgives his brother. Retellings range from the Sanskrit Naishadha Charita to Kathakali plays and early Indian films. Tradition also credits him with great skill in cooking.",
+  "kidSummary": "Nala is a kind and clever king from the Mahabharata who can drive horses faster than anyone. A swan helps him come to admire a princess named Damayanti. He goes through a very hard time, hides under a new name, and in the end he is reunited with her and gets his kingdom back.",
+  "story": [
+    {
+      "title": "The golden swan",
+      "text": "Nala catches a golden swan in his garden. The swan promises to tell Princess Damayanti how good and brave he is, so Nala lets it fly free. Damayanti begins to admire him before they have ever met."
+    },
+    {
+      "title": "Five Nalas",
+      "text": "At Damayanti's svayamvara, four gods take Nala's shape so that she cannot tell which one is real. She prays with an honest heart, the gods show their own forms, and she garlands the real Nala."
+    },
+    {
+      "title": "The dice and the forest",
+      "text": "Years later, Nala plays dice with his brother Pushkara under Kali's spell and keeps losing, until he has lost his kingdom. He and Damayanti go to the forest, where, weighed down by guilt and fearing for her safety, Nala secretly leaves her while she sleeps."
+    },
+    {
+      "title": "Bahuka the charioteer",
+      "text": "Nala helps the serpent king Karkotaka, who changes his looks so nobody knows him. As Bahuka, he drives the chariot of King Rituparna in Ayodhya and trades his horse-lore for a dice-counting skill."
+    },
+    {
+      "title": "Back together",
+      "text": "Damayanti announces a second svayamvara to draw him out. Only Nala could drive so fast. They are reunited, he wins back his kingdom with his new skill, and he forgives his brother."
+    }
+  ],
+  "teaches": [
+    "Hard times can pass; do not give up hope",
+    "Honesty and faithfulness are tested and then rewarded",
+    "Mercy to someone who wronged you"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Swan messenger", "Chariot and swift horses", "Dice"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Damayanti",
+      "slug": "damayanti"
+    },
+    {
+      "relation": "Son",
+      "name": "Indrasena"
+    },
+    {
+      "relation": "Daughter",
+      "name": "Indrasenā"
+    },
+    {
+      "relation": "Brother",
+      "name": "Pushkara"
+    },
+    {
+      "relation": "Father",
+      "name": "Virasena"
+    }
+  ],
+  "texts": [
+    "Mahabharata (Vana Parva, Nalopakhyana)",
+    "Naishadha Charita by Sriharsha",
+    "Nalacharitam (Kathakali)"
+  ],
+  "places": [
+    "Nishadha (his kingdom)",
+    "Vidarbha (Damayanti's home)",
+    "Ayodhya (Rituparna's court)"
+  ],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "At the svayamvara, Indra, Agni, Varuna and Yama all appear looking like Nala. Damayanti prays sincerely, and the moved gods drop their disguises so she can pick the real king.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The text says the gods gave Nala boons: Agni gave him fire at his call and safety from it, Varuna gave him water when he wanted it, and Yama gave him a fine sense of taste.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On the way home from the svayamvara, the gods met Kali and Dvapara. Kali was furious that Damayanti had chosen a mortal and vowed to possess Nala, while Dvapara chose to enter the dice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The gods ask Nala to carry their proposal to Damayanti, and he is given invisibility so that he can enter her chamber. He delivers the message, but she says she will marry only him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the epic, Kali finds a way into Nala after twelve years, when Nala forgets to wash his feet before evening prayers. The slip lets Kali cloud his judgment and tempt him to gamble.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "During the forest exile, golden birds appear and Nala throws his cloth over them. The Mahabharata says they were really dice in disguise, and they fly away with his only garment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Nala rescues the serpent king Karkotaka from a forest fire. In thanks Karkotaka bites him, changing his shape so that no one will know him, and his venom also weakens Kali, who is still inside Nala. He gives him two divine garments that restore his true form.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Disguised as the charioteer Bahuka, Nala swaps skills with King Rituparna: horse-handling for the art of counting a tree's fruit at a glance. The text says Kali leaves Nala and enters the vibhitaka tree.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A maid watching Bahuka sees odd signs: the doorway seems to rise for him, empty pots fill with water when he looks at them, and a crushed flower blooms again. Damayanti takes them as clues.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Nala is remembered as a wonderful cook, and a cookery book called Pakadarpanam is attributed to him. Damayanti recognised the taste of Bahuka's food as Nala's.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A king named Nada Naishidha appears in the Shatapatha Brahmana, which says he carried Yama to the south day after day; scholars think he may be Nala of Nishadha, perhaps a real king who marched south.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A poem by Haradatta Suri called Raghavanaishadhiya tells the stories of Rama and Nala at the same time, using Sanskrit's double meanings so each line works for both heroes.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Akbar's court poet Faizi (1547-1595) rendered the Nala story into Persian at the emperor's request, carrying this old Sanskrit tale into the language of the Mughal court.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Historians of mathematics study the Nala story because it mentions the art of quickly estimating a whole from a sample, which was linked in the story with winning at dice.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As Bahuka, Nala recites verses each evening about a man who lost everything, which makes fellow servants curious; later Damayanti's maid Keshini quotes them to test him and he answers with Nala's own verses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Among the five lookalikes at the svayamvara, the real Nala gave himself away: he cast a shadow, sweated, stood on the ground, blinked, and wore a garland that had started to wilt.",
+      "kind": "story",
+      "source": "https://enjoylearningsanskrit.com/scriptures/mahabharata/book-3/chapter-54/verse-24",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Russian composer Anton Arensky wrote an opera called Nal and Damayanti, with a libretto by Modest Tchaikovsky, brother of Pyotr Ilyich Tchaikovsky. It opened in Moscow in January 1904.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The tale is told inside the Mahabharata: the exiled Yudhishthira asks the sage Brihadashva whether anyone has ever been unluckier than him, and the sage answers with the story of Nala.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Sanskrit poem Nalodaya, from the early 9th century and probably by Ravideva, was once wrongly credited to the famous poet Kalidasa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The story has been translated into at least ten European languages, among them German, English, French, Italian, Swedish, Czech, Polish, Russian, Greek and Hungarian.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After they reached Vidarbha, King Rituparna asked Nala's forgiveness for treating him badly, and Nala forgave him and gave him the knowledge of horses in return.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In 1821, Goethe wrote in his journals that he had studied the Nala story with admiration, though he feared its world of feeling was so different from Europe's that only a few readers would take to it.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tamil literature has two retellings of the story: Nalavenba by Pugalendi in the 13th or 14th century and Naidadam by Adivirarama Pandiyan in the 16th.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who carries news of Nala to Damayanti in the story?",
+      "options": ["A parrot", "A golden swan", "A peacock", "A messenger on horseback"],
+      "answer": 1,
+      "why": "The Mahabharata tells of a golden swan that Nala catches and then sets free to speak of him."
+    },
+    {
+      "q": "What name does Nala use when he works as a charioteer?",
+      "options": ["Rituparna", "Karkotaka", "Bahuka", "Pushkara"],
+      "answer": 2,
+      "why": "After the serpent king changes his looks, Nala serves as Bahuka in Ayodhya."
+    },
+    {
+      "q": "In the epic, what did Nala trade with King Rituparna?",
+      "options": [
+        "A sword for a bow",
+        "Horse skill for counting skill",
+        "Gold for a chariot",
+        "A swan for a snake"
+      ],
+      "answer": 1,
+      "why": "He gave his expertise with horses and learned the art of quick counting used in dice."
+    },
+    {
+      "q": "How does Damayanti draw Nala out of hiding?",
+      "options": [
+        "She lights a fire",
+        "She announces another svayamvara",
+        "She writes to the gods",
+        "She hunts in the forest"
+      ],
+      "answer": 1,
+      "why": "She announced a second svayamvara, a ruse that only Nala's driving could answer in time."
+    },
+    {
+      "q": "Which serpent king changed Nala's looks with a bite?",
+      "options": ["Karkotaka", "Vasuki", "Takshaka", "Shesha"],
+      "answer": 0,
+      "why": "Nala saved Karkotaka from a forest fire, and the serpent's bite disguised him."
+    }
+  ],
+  "related": ["damayanti", "yudhishthira", "indra", "agni", "varuna", "yama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+    "nalaAndDamayanti": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+    "naishadhaCharita": "https://en.wikipedia.org/wiki/Naishadha_Charita",
+    "unnayiWarrier": "https://en.wikipedia.org/wiki/Unnayi_Warrier",
+    "verse54_24": "https://enjoylearningsanskrit.com/scriptures/mahabharata/book-3/chapter-54/verse-24"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8d9b0",
+    "c2": "#9fc2c9"
+  },
+  "order": 500
+}

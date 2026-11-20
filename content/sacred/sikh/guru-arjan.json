@@ -1,0 +1,279 @@
+{
+  "slug": "guru-arjan",
+  "name": "Guru Arjan",
+  "aka": ["Guru Arjan Dev", "Arjan Dev Ji"],
+  "native": "ਗੁਰੂ ਅਰਜਨ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Fifth Sikh Guru and compiler of the Adi Granth",
+  "years": "1563–1606",
+  "order": 5,
+  "summary": "Guru Arjan (1563–1606) compiled the Adi Granth in 1604, built Harmandir Sahib, founded towns such as Tarn Taran, and is remembered as the first Sikh martyr.",
+  "about": "According to Sikh history, Arjan, born in 1563 at Goindwal, was the youngest son of Guru Ram Das and became Guru in 1581 at about eighteen. He completed the Harmandir Sahib at Amritsar and funded Sikh works through dasvandh. In 1604 he compiled the Adi Granth, the first form of the Guru Granth Sahib, including hymns from earlier Gurus and from bhagats such as Kabir and Farid. He wrote 2,218 hymns, including Sukhmani Sahib. He founded Tarn Taran and Kartarpur in Jalandhar. In 1606 the Mughal emperor Jahangir had him arrested, and Sikhs remember his martyrdom in Lahore on 30 May 1606. Accounts differ on how he died.",
+  "kidSummary": "Guru Arjan gathered the hymns of the Gurus and of many other saints into one holy book in 1604. He built Harmandir Sahib, the Golden Temple, with four doors to show that everyone is welcome. Sikhs remember him for his courage and his calm faith.",
+  "story": [
+    {
+      "title": "The youngest son",
+      "text": "Arjan was the youngest son of Guru Ram Das. His father chose him to become the fifth Guru in 1581."
+    },
+    {
+      "title": "A temple open to all",
+      "text": "He built Harmandir Sahib in the middle of the pool in Amritsar. The temple has doors on four sides, so people from every direction are welcome."
+    },
+    {
+      "title": "Gathering the hymns",
+      "text": "Arjan collected the hymns of the Gurus and of saints such as Kabir and Farid. Bhai Gurdas wrote them down in one book, the Adi Granth, in 1604."
+    },
+    {
+      "title": "Care for others",
+      "text": "He founded Tarn Taran and is remembered for caring for people who were ill with leprosy."
+    },
+    {
+      "title": "A hard time",
+      "text": "In 1606 the emperor Jahangir had him arrested and taken to Lahore. Sikh accounts say he stayed calm through great suffering, saying that whatever God does is sweet to him. Sikhs remember him as the first Sikh martyr."
+    },
+    {
+      "title": "His son carries on",
+      "text": "Before he died, he named his young son Hargobind as the next Guru."
+    }
+  ],
+  "teaches": [
+    "Welcome everyone",
+    "Stay calm under hardship",
+    "Share with those in need",
+    "Truth matters more than comfort"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Harmandir Sahib", "Adi Granth"],
+  "family": [
+    {
+      "relation": "father",
+      "name": "Guru Ram Das",
+      "slug": "guru-ram-das"
+    },
+    {
+      "relation": "mother",
+      "name": "Bibi Bhani"
+    },
+    {
+      "relation": "son and successor",
+      "name": "Guru Hargobind",
+      "slug": "guru-hargobind"
+    },
+    {
+      "relation": "wife",
+      "name": "Mata Ganga"
+    },
+    {
+      "relation": "brother",
+      "name": "Prithi Chand"
+    }
+  ],
+  "texts": ["Guru Granth Sahib (Sukhmani Sahib, 2,218 hymns)", "Adi Granth"],
+  "places": ["Goindwal", "Harmandir Sahib, Amritsar", "Tarn Taran Sahib", "Lahore"],
+  "festivals": ["Shaheedi Purab (martyrdom day)"],
+  "facts": [
+    {
+      "text": "Sikh accounts say he endured days of torture in Lahore without complaint, saying that whatever God does is sweet to him and asking only for the gift of the Name. Sikhs remember him as the first Sikh martyr.",
+      "kind": "history",
+      "source": "https://www.sikhmissionarysociety.org/sms/smspublications/thegurusway/chapter13/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Sikh tradition, hymns wrongly credited to Nanak were circulating, and this concern pushed Arjan to prepare one official collection and leave out any hymn he judged inauthentic.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "According to Sikh tradition, five days before his death, on 25 May 1606, he told his son Hargobind to begin a military tradition and resist tyranny, and the community afterwards became an armed Panth.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Hargobind",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The shrine is built lower than the surrounding ground so visitors walk down, which stands for humility, and its four entrances signal welcome to everyone.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Golden_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some later writers say the Sufi Mian Mir laid its foundation stone, but this is unsubstantiated, and traditional Sikh sources say the Guru laid it himself.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Golden_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Gurbilas says that when the Adi Granth was first opened for reading, Arjan told the Sikhs to accept the book as equal to the Guru and to see no difference between the two.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A jujube tree in the temple complex called Ber Baba Buddha is believed in Sikh tradition to mark where Baba Buddha sat watching over the building of the pool and first temple.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Golden_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Adi Granth also includes poet-saints such as Kabir, with 541 hymns, and Sheikh Farid, with 134. Tradition says it was finished in late August 1604 and installed on 1 September, with Baba Buddha as first granthi and Bhai Gurdas as scribe.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He composed 2,218 hymns, the largest contribution of any author to the Guru Granth Sahib.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His best-known work is Sukhmani Sahib, written around 1602. Its name joins 'sukh' (peace) and 'mani' (jewel), and it has 24 sections, each opening with a short couplet.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sukhmani_Sahib",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He founded the town of Tarn Taran in 1596, where he is credited with starting care for people with leprosy.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Tarn_Taran_Sahib",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Emperor Akbar was told the Adi Granth held teachings hostile to Islam, he asked to see it. Arjan sent a copy on a plate (thali), with a message that was later added to the expanded text.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Sikh account, Jahangir demanded a fine of 200,000 rupees and that offending hymns be erased from the Granth. The Guru refused both.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Jesuit Jerome Xavier, then in Lahore, recorded that an attempt to turn the sentence into a fine failed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He died in Lahore on 30 May 1606, aged 43. The Dabistan-i Mazahib says Jahangir had him tortured to extract money and a public denial of his beliefs, and scholars debate whether he died of torture, execution or drowning in the Ravi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Each summer, around the day Sikhs remember his martyrdom, gurdwaras and communities serve chhabeel, a cold sweet drink, to people passing by.",
+      "kind": "festival",
+      "source": "https://www.sbs.com.au/language/punjabi/en/article/significance-of-chabeel-remembering-guru-arjan-dev-on-his-martyrdom-day/ce9fpln5p",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Akbarnama records that Arjan met the emperor Akbar and his procession in 1598. One scholar thinks the meeting shaped how Sikh manuscripts were made and the later martial tradition.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He is credited with building water tanks called Santokhsar, the 'Pond of Contentment', and Gongsar, the 'Pond of Bells'.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He reorganised the masand system begun by Ram Das, asking Sikhs to give one tenth of their income, goods or service, a practice called dasvandh. Masands collected these gifts and also taught Sikh teachings.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jahangir's autobiography is cited as saying that Arjan had backed the emperor's rebel son Khusrau, that too many people were being drawn to his teachings, and that Arjan must either join Islam or the Sikh community must be wound up.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Bhai Gurdas, a noted Sikh chronicler who lived in Arjan's time, left an eyewitness account of Arjan's life and of the emperor's order to torture him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Arjan",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What book did Guru Arjan compile in 1604?",
+      "options": ["Adi Granth", "Dasam Granth", "Janamsakhi", "Ramayana"],
+      "answer": 0,
+      "why": "The Adi Granth, finished in August 1604, was the first form of the Guru Granth Sahib."
+    },
+    {
+      "q": "Why does Harmandir Sahib have four doors?",
+      "options": [
+        "To show it is open to everyone",
+        "For four seasons",
+        "For four Gurus",
+        "To keep cool"
+      ],
+      "answer": 0,
+      "why": "The four entrances stand for welcome to all."
+    },
+    {
+      "q": "Which saint's hymns are in the Granth alongside the Gurus'?",
+      "options": ["Kabir", "Tulsidas", "Meera", "Chaitanya"],
+      "answer": 0,
+      "why": "The Granth includes Kabir and Sheikh Farid."
+    },
+    {
+      "q": "Where did he found a town and a leprosy care centre?",
+      "options": ["Tarn Taran", "Kartarpur Pakistan", "Basarke", "Goindwal"],
+      "answer": 0,
+      "why": "He founded Tarn Taran Sahib and is credited with leprosy care there."
+    },
+    {
+      "q": "Who became the next Guru?",
+      "options": ["Guru Hargobind", "Guru Har Rai", "Guru Nanak", "Guru Angad"],
+      "answer": 0,
+      "why": "His son Hargobind followed him."
+    }
+  ],
+  "related": [
+    "guru-ram-das",
+    "guru-hargobind",
+    "guru-granth-sahib",
+    "bhai-gurdas",
+    "baba-buddha",
+    "kabir"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Arjan",
+    "goldentemple": "https://en.wikipedia.org/wiki/Golden_Temple",
+    "granth": "https://en.wikipedia.org/wiki/Guru_Granth_Sahib"
+  },
+  "palette": {
+    "c1": "#f4dfb5",
+    "c2": "#cfdcea"
+  },
+  "depth": "full"
+}

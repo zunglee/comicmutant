@@ -1,0 +1,252 @@
+{
+  "slug": "dnyaneshwar",
+  "name": "Dnyaneshwar",
+  "aka": ["Jnaneshwar", "Dnyandev", "Mauli", "Jnanadeva"],
+  "native": "ज्ञानेश्वर",
+  "role": "13th-century Marathi saint-poet, author of the Dnyaneshwari",
+  "summary": "Dnyaneshwar was a 13th-century Marathi saint who explained the Bhagavad Gita in everyday Marathi at about 16 and is remembered at Alandi.",
+  "about": "Dnyaneshwar, also called Mauli, was a Marathi saint-poet of the 13th century. Tradition says he was born in 1275 near Paithan to a family excluded by local Brahmins, and that he and his siblings Nivruttinath, Sopan and Muktabai grew up in the Nath tradition. His Dnyaneshwari, written around 1290 in Marathi, is a famous commentary on the Bhagavad Gita, and the Amrutanubhav is his independent work. Legends tell of a talking buffalo and a moving wall. Tradition says he entered a living samadhi at Alandi in 1296, aged about 21. Each year, palanquins with his sandals walk from Alandi to Pandharpur in the Wari.",
+  "kidSummary": "Dnyaneshwar was a young saint from Maharashtra who explained the Bhagavad Gita in simple Marathi when he was only about sixteen. Stories tell that he once rode a moving wall. Every year, pilgrims carry his sandals in a palanquin on a long walk to Pandharpur.",
+  "story": [
+    {
+      "title": "A family left out",
+      "text": "Dnyaneshwar's family was shut out by their neighbours because of an old rule, but the four children, three brothers and a sister, stayed close."
+    },
+    {
+      "title": "Learning from a guru",
+      "text": "His elder brother Nivruttinath became his teacher in the Nath tradition and helped him grow in wisdom."
+    },
+    {
+      "title": "The Gita in Marathi",
+      "text": "Around the age of sixteen, he is said to have told the meaning of the Bhagavad Gita in plain Marathi so that everyone could understand."
+    },
+    {
+      "title": "The moving wall",
+      "text": "One legend says a yogi arrived on a tiger, so Dnyaneshwar sat on a wall and made it glide forward, and the yogi bowed."
+    },
+    {
+      "title": "Samadhi at Alandi",
+      "text": "In 1296, tradition says, he entered a samadhi at Alandi by the Indrayani river, and devotees still honour him there."
+    },
+    {
+      "title": "The Wari",
+      "text": "Today, every year, a palanquin carrying his sandals leaves Alandi and walks about 21 days with thousands of singing pilgrims to Pandharpur."
+    }
+  ],
+  "teaches": [
+    "Great ideas should be shared in a language everyone knows",
+    "Humility and wisdom walk together",
+    "Siblings and friends make a family strong"
+  ],
+  "symbol": "book",
+  "emblems": ["Sandals (paduka) in a palanquin", "Moving wall (legend)"],
+  "family": [
+    {
+      "relation": "brother",
+      "name": "Nivruttinath"
+    },
+    {
+      "relation": "brother",
+      "name": "Sopan"
+    },
+    {
+      "relation": "sister",
+      "name": "Muktabai"
+    }
+  ],
+  "texts": ["Dnyaneshwari", "Amrutanubhav", "Haripath", "Changdev Pasashti"],
+  "places": ["Alandi", "Apegaon near Paithan", "Pandharpur"],
+  "festivals": ["Kartiki Ekadashi", "Ashadhi Ekadashi (Wari)"],
+  "facts": [
+    {
+      "text": "He is said to have completed the Dnyaneshwari, a commentary on the Bhagavad Gita, around 1290, when he was only about 16.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some legends say that when Brahmins mocked him, he put his hand on a buffalo's forehead and the animal recited a Vedic verse, after he argued that the Vedas call all life sacred.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a famous legend, the yogi Changdev rode a tiger, and Dnyaneshwar answered by making a wall move like a vehicle.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "He is said to have entered sanjeevan samadhi at Alandi in 1296, aged about 21, and devotees still regard him as alive there.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His symbolic sandals (paduka) travel by palanquin from Alandi to Pandharpur, a walk of roughly 21 days and about 250 kilometres.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Pandharpur_Vari",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Dnyaneshwari he compares an ideal doer of duty to the Sun, which seems to rise and set but never actually moves, so that such a person seems to act yet stays unattached.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Dnyaneshwari ends with the Pasaydan (spelt Pasaayadana on Wikipedia), a closing prayer in which he asks nothing for himself and seeks the good of everyone in the world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "According to tradition, when Namdev prayed to Vithoba after Dnyaneshwar's samadhi, Dnyaneshwar was brought back to life to meet his friend.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Muktabai's poem 'Tatiche Abhang', the Song of the Door, asks her brother Dnyaneshwar to open the door and teaches that a wise person stays cool as water even when the world is hot with anger.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Muktabai",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition says the scribe Sachchidananda, whom Dnyaneshwar is said to have brought back to life, wrote down the Dnyaneshwari as the young saint spoke it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Bhagwat ranks Dnyaneshwar's place in Marathi literature alongside the place Dante holds in Italian literature.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Dnyaneshwari and the Amrutanubhav are the oldest surviving literary works in the Marathi language.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the family travelled to Nashik, a tiger crossed their path and Nivruttinath got separated and hid in a cave, where he met the yogi Gahaninath, who taught him the Nath way.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The yogi Changdev once sent the siblings a blank note as a test; Dnyaneshwar replied with 65 verses, later called the Changdev Pasashti, that sum up the heart of Vedanta.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Changdev_Maharaj",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The tiger-riding yogi Changdev is said to have ended up as a disciple of Dnyaneshwar's sister Muktabai.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Popular belief says the yogi Changdev lived for 1,400 years, and a village named after him near Muktainagar has an old temple linked to him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Changdev_Maharaj",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Amrutanubhav he asks whether an eye can see itself, the sky can enter itself or a fire can burn itself, to show that pure awareness cannot be turned into an object.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the traditional account, Nivruttinath, Dnyaneshwar, Sopan and Muktabai were born about two years apart, in 1273, 1275, 1277 and 1279.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Because their father had returned to family life after becoming a renunciate, local Brahmins refused the brothers the sacred thread ceremony and shut the family out of village life.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He wrote the Dnyaneshwari in everyday Marathi rather than Sanskrit, so that people who did not know the priests' language could understand the Gita.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which holy book did Dnyaneshwar explain in Marathi?",
+      "options": ["Rig Veda", "Bhagavad Gita", "Ramayana", "Dhammapada"],
+      "answer": 1,
+      "why": "The Dnyaneshwari is a commentary on the Bhagavad Gita."
+    },
+    {
+      "q": "About how old was he when he finished the Dnyaneshwari?",
+      "options": ["About 6", "About 16", "About 40", "About 70"],
+      "answer": 1,
+      "why": "Tradition says he was about 16."
+    },
+    {
+      "q": "Where is his samadhi?",
+      "options": ["Alandi", "Udupi", "Hampi", "Puri"],
+      "answer": 0,
+      "why": "Dnyaneshwar's samadhi is at Alandi by the Indrayani."
+    },
+    {
+      "q": "In the legend, what did he make glide?",
+      "options": ["A boat", "A cart", "A wall", "A bull"],
+      "answer": 2,
+      "why": "He is said to have made a wall move, to humble the yogi Changdev."
+    },
+    {
+      "q": "What does the Wari palanquin carry?",
+      "options": ["A copy of the Gita", "His sandals", "A Vithoba idol", "A conch"],
+      "answer": 1,
+      "why": "A palanquin with his sandals walks to Pandharpur."
+    }
+  ],
+  "related": ["namdev", "tukaram", "vithoba", "krishna", "kabir"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Dnyaneshwar",
+    "alandi": "https://en.wikipedia.org/wiki/Alandi",
+    "pandharpurWari": "https://en.wikipedia.org/wiki/Pandharpur_Wari",
+    "muktabai": "https://en.wikipedia.org/wiki/Muktabai",
+    "film1940": "https://en.wikipedia.org/wiki/Sant_Dnyaneshwar_(film)",
+    "vari": "https://en.wikipedia.org/wiki/Pandharpur_Vari"
+  },
+  "palette": {
+    "c1": "#d4e3c6",
+    "c2": "#f0dcae"
+  },
+  "years": "1275–1296 (traditional)",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

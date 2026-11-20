@@ -1,0 +1,265 @@
+{
+  "slug": "baba-buddha",
+  "name": "Baba Buddha",
+  "aka": ["Bhai Buddha", "Bura", "Baba Budha"],
+  "native": "ਬਾਬਾ ਬੁੱਢਾ",
+  "role": "Early Sikh elder and first granthi",
+  "years": "1506–1631",
+  "summary": "Baba Buddha (1506–1631) met Guru Nanak as a herd boy and, by Sikh tradition, lived through the lives of the first six Gurus, anointing five of them and serving as first granthi of the Harmandir Sahib.",
+  "about": "Sikh tradition says he was born Bura on 6 October 1506 in the village of Kathu Nangal near Amritsar, into a Randhawa Jat farming family. As a boy minding cattle he met Guru Nanak, who remarked that he had the wisdom of an elder, and he became known as Buddha, meaning old man. He then followed Nanak at Kartarpur. According to the Sikh sources he applied the ceremonial tilak to Guru Angad and later to the Gurus who followed, up to Hargobind. In 1604 Guru Arjan appointed him the first granthi when the Adi Granth was installed at Harimandar Sahib. He helped raise the Akal Takht, trained young Sikhs in martial skills, and died at Jhanda Ramdas in 1631, when Guru Hargobind attended his last rites. His age at death is traditionally given as about 125, though some sources date his life differently.",
+  "kidSummary": "Baba Buddha was a village boy who met Guru Nanak while looking after cows. Guru Nanak noticed how wise he was, so he was called Buddha, the wise old man. He lived for a very long time and helped crown several Gurus.",
+  "story": [
+    {
+      "title": "A boy with a bowl of milk",
+      "text": "Young Bura was looking after cattle near his village when he met Guru Nanak. Tradition says he offered the Guru a bowl of milk and spoke with surprising wisdom."
+    },
+    {
+      "title": "A new name",
+      "text": "Guru Nanak was struck by how thoughtful the boy was. He called him Buddha, which in Punjabi means a wise old person, and the boy followed him to Kartarpur."
+    },
+    {
+      "title": "Crowning the Gurus",
+      "text": "When Lehna was named Guru Angad, Baba Buddha applied the ceremonial mark on his forehead. He later did the same for other Gurus who came after."
+    },
+    {
+      "title": "The first granthi",
+      "text": "In 1604 the Adi Granth was placed in the Harmandir Sahib at Amritsar. Guru Arjan asked Baba Buddha to be its first granthi, the one who looks after the holy book."
+    },
+    {
+      "title": "Building the Akal Takht",
+      "text": "After Guru Arjan passed away, young Guru Hargobind had the Akal Takht built. Baba Buddha and Bhai Gurdas helped raise the platform themselves, without hired masons."
+    },
+    {
+      "title": "A long life of service",
+      "text": "Baba Buddha spent his last days at Jhanda Ramdas. Guru Hargobind came to be with him and helped carry him to his final rites in 1631."
+    }
+  ],
+  "teaches": [
+    "Wisdom can come at any age",
+    "Serve each generation with loyalty",
+    "Share what you have, even a bowl of milk"
+  ],
+  "symbol": "tree",
+  "emblems": ["Ber (jujube) tree at Harmandir Sahib", "Bowl of milk", "Granthi's seat"],
+  "family": [
+    {
+      "relation": "teacher",
+      "name": "Guru Nanak",
+      "slug": "guru-nanak"
+    },
+    {
+      "relation": "companion in building",
+      "name": "Bhai Gurdas",
+      "slug": "bhai-gurdas"
+    },
+    {
+      "relation": "anointed",
+      "name": "Guru Angad",
+      "slug": "guru-angad"
+    },
+    {
+      "relation": "anointed",
+      "name": "Guru Hargobind",
+      "slug": "guru-hargobind"
+    }
+  ],
+  "texts": ["Encyclopaedia of Sikhism", "Sikh historical accounts", "Janamsakhis"],
+  "places": ["Kathu Nangal", "Kartarpur", "Harmandir Sahib, Amritsar", "Jhanda Ramdas"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His birth name was Bura. Buddha, meaning wise old man in Punjabi, is the name he took after a childhood meeting with Guru Nanak.",
+      "kind": "language",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As a cattle-herding boy he offered Guru Nanak a bowl of milk. He then said soldiers had trampled his village's crops and wondered who could stop death from taking young and old alike. The Guru replied that he had an old man's wisdom.",
+      "kind": "story",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia calls him a contemporary of seven Gurus, though he served six, from Guru Nanak to Guru Hargobind. The seventh, Guru Har Rai, was born only shortly before he died.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sikh sources say he performed the installation ceremonies of five Gurus: Angad, Amar Das, Ram Das, Arjan and Hargobind.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mata Ganga walked to him barefoot with a plain offering of missi roti, onion, lassi and gur, a custom the Tribune says is still alive. He struck an onion with his fist and foretold a mighty son, the future Guru Hargobind.",
+      "kind": "story",
+      "source": "https://www.tribuneindia.com/news/amritsar/village-that-cradled-guru-hargobinds-light",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Oral tradition says he learned the martial art shastar vidya from Guru Nanak and taught it to later Gurus. Wikipedia adds that Guru Hargobind asked him to train recruits for the first Sikh fighting force.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He led the 24 June 1606 ceremony at the Akal Takht where Guru Hargobind put on two swords, standing for spiritual authority (piri) and worldly authority (miri).",
+      "kind": "symbol",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His age at death is traditionally about 125 years, but some modern sources give his life as 1571 to 1631, so the length is debated.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After Guru Nanak died, Wikipedia says Guru Angad withdrew into a room, lost in detachment. Baba Buddha searched for him, found him and asked him to come back and take up the Guruship.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A ber tree under which he sat while overseeing the digging of the Amritsar pool is said to still stand within the Golden Temple precincts.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He dug the baoli, a stepped well, at Goindval under the instruction of Guru Amar Das, says the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Guru Arjan placed his young son Hargobind under Baba Buddha's instruction and training.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Two shrines at Ramdas remember him. Gurdwara Tap Asthan Baba Buddha Ji marks where his family lived, and Gurdwara Samadhan marks where he was cremated.",
+      "kind": "place",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Guru Hargobind was born, the Tribune says Baba Buddha renamed the village Nattan di Wadali as Guru ki Wadali.",
+      "kind": "language",
+      "source": "https://www.tribuneindia.com/news/amritsar/village-that-cradled-guru-hargobinds-light",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Tribune says Baba Buddha lived in a secluded forest near Jhabbal known as Babe di Birh. Mata Ganga went there on foot to seek his blessing.",
+      "kind": "place",
+      "source": "https://www.tribuneindia.com/news/amritsar/village-that-cradled-guru-hargobinds-light",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says he is likely the origin of the bhai tradition of Sikhism, and that he is also called Bhai Buddha.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Sikh Research Institute quote cited on Wikipedia says that when the Adi Granth was brought to the Harmandar Sahib, Baba Buddha carried it on his head while Guru Arjan waved the chaur.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia, citing Harjot Singh Oberoi, says Baba Buddha was consulted while the Sikh scripture was being compiled.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His great-great-grandson Gurditta was arrested in Delhi at the same time as Guru Tegh Bahadur, Wikipedia says.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Gurbilas Chhevin Patshahi says that when Baba Buddha died, Guru Hargobind gave his own shoulder to the bier and performed the last rites.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/buddha-baba/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia says Mata Ganga's first attempt to win his blessing failed. Baba Buddha eventually granted her wish, and Guru Hargobind was born afterwards.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Baba Buddha called as a child?",
+      "options": ["Lehna", "Bura", "Jetha", "Mardana"],
+      "answer": 1,
+      "why": "He was born Bura and later called Buddha."
+    },
+    {
+      "q": "What does \"Buddha\" mean in this Punjabi name?",
+      "options": ["Warrior", "Teacher of kings", "Wise old person", "Gentle rain"],
+      "answer": 2,
+      "why": "It means an elder, for his wisdom beyond his years."
+    },
+    {
+      "q": "What was he appointed in 1604?",
+      "options": ["First granthi", "First Jathedar", "Royal judge", "Army chief"],
+      "answer": 0,
+      "why": "Guru Arjan made him the first granthi of Harmandir Sahib."
+    },
+    {
+      "q": "What simple food did Mata Ganga bring to Baba Buddha in the tradition?",
+      "options": ["Missi roti and onion", "Fried sweets", "Fruit baskets", "Rice pudding"],
+      "answer": 0,
+      "why": "He struck an onion and foretold a mighty son."
+    }
+  ],
+  "related": [
+    "guru-nanak",
+    "guru-angad",
+    "guru-arjan",
+    "guru-hargobind",
+    "bhai-gurdas",
+    "guru-granth-sahib"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Baba_Buddha",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/buddha-baba/",
+    "encyclopaedia-of-sikhism-listing": "https://www.thesikhencyclopedia.com/tag/bura"
+  },
+  "palette": {
+    "c1": "#e8d9b8",
+    "c2": "#b9cdb0"
+  },
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "depth": "full",
+  "order": 7
+}

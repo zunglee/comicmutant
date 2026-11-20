@@ -14,6 +14,7 @@ import { SFX } from '~/lib/clips/motifs';
 import { useAnimate } from '~/lib/fx';
 import type { Motif } from '~/lib/taxonomy';
 import { useTheme } from '~/lib/theme/context';
+import { useSkinMotion } from '~/skins/motion';
 
 const INTRO_S = 1.8;
 const TRANSIT_S = 0.5;
@@ -80,13 +81,14 @@ function Burst({ className = '', style }: { className?: string; style?: React.CS
 
 /** Panel slam: halftone panel, a burst spins up, the title slams down, an SFX word pops. */
 function Slam({ dur, title, sfx }: SceneProps) {
+  const mo = useSkinMotion();
   return (
     <div className="halftone absolute inset-0 grid place-items-center overflow-hidden bg-c1 text-on-c1">
       <m.div
         className="absolute"
         initial={{ scale: 0, rotate: -40 }}
         animate={{ scale: 1, rotate: 0 }}
-        transition={{ type: 'spring', stiffness: 220, damping: 14, delay: 0.05 }}
+        transition={mo.spring({ stiffness: 220, damping: 14 }, 0.05)}
       >
         <Burst className="size-[min(120vw,120vh)] text-c3" />
       </m.div>
@@ -95,7 +97,7 @@ function Slam({ dur, title, sfx }: SceneProps) {
         style={{ color: 'var(--on-c3)' }}
         initial={{ scale: 3, y: -40, rotate: -8 }}
         animate={{ scale: 1, y: 0, rotate: -3 }}
-        transition={{ type: 'spring', stiffness: 520, damping: 18, delay: dur * 0.18 }}
+        transition={mo.spring({ stiffness: 520, damping: 18 }, dur * 0.18)}
       >
         {title}
       </m.p>
@@ -104,7 +106,7 @@ function Slam({ dur, title, sfx }: SceneProps) {
         style={{ color: 'var(--c3-text)' }}
         initial={{ scale: 0, rotate: 20 }}
         animate={{ scale: 1, rotate: 8 }}
-        transition={{ type: 'spring', stiffness: 600, damping: 12, delay: dur * 0.42 }}
+        transition={mo.spring({ stiffness: 600, damping: 12 }, dur * 0.42)}
       >
         {sfx}
       </m.p>
@@ -114,21 +116,22 @@ function Slam({ dur, title, sfx }: SceneProps) {
 
 /** Halftone iris: an ink iris closes onto the title badge, then the page opens behind it. */
 function Iris({ dur, title }: SceneProps) {
+  const mo = useSkinMotion();
   return (
     <div className="absolute inset-0 grid place-items-center overflow-hidden">
       {/* Transform only (no width/height animation): the ring starts 8× and closes to size. */}
       <m.div
-        className="absolute size-[min(70vw,420px)] rounded-full border-[6px] border-line bg-c2"
-        style={{ boxShadow: '0 0 0 200vmax #0d0b10' }}
+        className="absolute size-[min(70vw,420px)] round border-[6px] border-line bg-c2"
+        style={{ boxShadow: '0 0 0 200vmax var(--print-ink)' }}
         initial={{ scale: 8 }}
         animate={{ scale: 1 }}
-        transition={{ duration: dur * 0.45, ease: [0.16, 1, 0.3, 1] }}
+        transition={mo.tween(dur * 0.45, { ease: mo.ease })}
       />
       <m.div
-        className="halftone relative grid size-[min(60vw,360px)] place-items-center rounded-full bg-c1 text-on-c1"
+        className="halftone relative grid size-[min(60vw,360px)] place-items-center round bg-c1 text-on-c1"
         initial={{ scale: 0 }}
         animate={{ scale: 1 }}
-        transition={{ type: 'spring', stiffness: 300, damping: 16, delay: dur * 0.3 }}
+        transition={mo.spring({ stiffness: 300, damping: 16 }, dur * 0.3)}
       >
         <p className="h-display px-6 text-center text-[clamp(2rem,8vw,4.5rem)] leading-none">
           {title}
@@ -140,6 +143,7 @@ function Iris({ dur, title }: SceneProps) {
 
 /** Speed stripes: three diagonal palette bands sweep across; the title rides the middle one. */
 function Stripes({ dur, title }: SceneProps) {
+  const mo = useSkinMotion();
   const bands = ['bg-c1', 'bg-c2', 'bg-c3'];
   return (
     <div className="absolute inset-0 overflow-hidden">
@@ -150,7 +154,7 @@ function Stripes({ dur, title }: SceneProps) {
           style={{ top: `${i * 33 - 10}%`, height: '40%' }}
           initial={{ x: i % 2 ? '100%' : '-100%' }}
           animate={{ x: '0%' }}
-          transition={{ duration: dur * 0.4, delay: i * 0.05, ease: [0.16, 1, 0.3, 1] }}
+          transition={mo.tween(dur * 0.4, { delay: mo.delay(i, 0.05), ease: mo.ease })}
         />
       ))}
       <m.p
@@ -158,7 +162,7 @@ function Stripes({ dur, title }: SceneProps) {
         style={{ color: 'var(--on-c2)' }}
         initial={{ x: '-30%', skewX: -20 }}
         animate={{ x: '0%', skewX: -6 }}
-        transition={{ type: 'spring', stiffness: 400, damping: 20, delay: dur * 0.2 }}
+        transition={mo.spring({ stiffness: 400, damping: 20 }, dur * 0.2)}
       >
         {title}
       </m.p>
@@ -176,6 +180,7 @@ type Show = { kind: SceneKind; intro: boolean; id: number; title: string };
 let seq = 1;
 
 export function LoaderStage({ playIntro }: { playIntro: boolean }) {
+  const mo = useSkinMotion();
   const location = useLocation();
   const navigation = useNavigation();
   const animate = useAnimate();
@@ -281,8 +286,8 @@ export function LoaderStage({ playIntro }: { playIntro: boolean }) {
           initial={show.intro ? false : { opacity: 0 }}
           animate={{ opacity: 1 }}
           // Exit (0.1s) is faster than entrance (0.15s) (Pro Max motion rule).
-          exit={{ opacity: 0, scale: 1.04, transition: { duration: 0.1 } }}
-          transition={{ duration: 0.15 }}
+          exit={{ opacity: 0, scale: 1.04, transition: mo.tween(0.1) }}
+          transition={mo.tween(0.15)}
           onClick={show.intro ? end : undefined}
           data-testid="loader"
           data-scene={show.kind}

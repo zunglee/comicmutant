@@ -1,0 +1,259 @@
+{
+  "slug": "damayanti",
+  "name": "Damayanti",
+  "aka": ["Princess of Vidarbha", "Vaidarbhi"],
+  "native": "दमयन्ती",
+  "tradition": "hindu",
+  "group": "purana",
+  "role": "Princess of Vidarbha, wife of King Nala",
+  "summary": "Damayanti is the clever, loyal princess of Vidarbha in the Mahabharata's Nalopakhyana. She chooses Nala over gods in disguise and later finds him again through an ingenious plan.",
+  "about": "In the Nalopakhyana, a story told inside the Mahabharata's Vana Parva, Damayanti is the daughter of King Bhima of Vidarbha. The text says she was born after the hermit Dama blessed her parents. After a swan praises Nala, she falls in love with him unseen, and at her svayamvara she picks him out from four gods who have taken his shape. When Nala loses his kingdom at dice, she follows him into exile, then travels alone through forests and joins a caravan, until she is sheltered in the court of Chedi and finally returns to her father. She devises a clever test to find Nala again, and the epic ends with the couple restored to their throne. Writers and artists in many languages and centuries have kept her story alive, and she is the lead of the Sanskrit mahakavya Naishadha Charita. Many readers call her a model of faithfulness and quick thinking.",
+  "kidSummary": "Damayanti is a brave and clever princess in the Mahabharata. She picks the right person out of five who look the same, never gives up when things go wrong, and uses a smart trick to find her husband Nala again after they are separated for a long time.",
+  "story": [
+    {
+      "title": "A message from a swan",
+      "text": "A golden swan tells Damayanti how kind and skilful King Nala is. She has never met him, but she begins to hope she might marry him one day."
+    },
+    {
+      "title": "Five faces, one choice",
+      "text": "At her svayamvara, four gods look exactly like Nala. Damayanti says a heartfelt prayer asking for help. The gods change back to their own forms, so she can pick the real Nala."
+    },
+    {
+      "title": "A long, lonely journey",
+      "text": "When Nala loses his kingdom, Damayanti goes with him. After they are separated she travels alone through forests, joins a caravan, and finally reaches the kingdom of Chedi, where her aunt, the queen mother, gives her shelter."
+    },
+    {
+      "title": "Home again",
+      "text": "A Brahmin named Sudeva recognises her in Chedi. Damayanti's family arranges for her to travel home to Vidarbha, but she still wants to find Nala."
+    },
+    {
+      "title": "The clever trick",
+      "text": "Damayanti has an announcement spread of a second svayamvara. Only Nala can drive a chariot there in a day. When the chariot rumbles in, she hears something that tells her it is him."
+    }
+  ],
+  "teaches": [
+    "Loyalty and courage in hard times",
+    "Cleverness can solve a very hard problem",
+    "Truthfulness is a kind of strength"
+  ],
+  "symbol": "feather",
+  "emblems": ["Swan (messenger)", "Garland at the svayamvara"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Nala",
+      "slug": "nala"
+    },
+    {
+      "relation": "Father",
+      "name": "Bhima of Vidarbha"
+    },
+    {
+      "relation": "Brothers",
+      "name": "Dama, Danta and Damana"
+    },
+    {
+      "relation": "Twin son",
+      "name": "Indrasena"
+    },
+    {
+      "relation": "Twin daughter",
+      "name": "Indrasenā"
+    }
+  ],
+  "texts": ["Mahabharata (Vana Parva, Nalopakhyana)", "Naishadha Charita by Sriharsha"],
+  "places": ["Vidarbha", "Chedi", "Nishadha"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "One night in the lodge, Nala comes back several times before Kali's hold wins and he leaves. When Damayanti wakes, she cries out that he was cruel and wonders how he will manage without her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Waking to find Nala gone, Damayanti curses whatever caused his misfortune and wanders the forest, asking a tiger, a mountain and an ashoka tree whether they have seen him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A python seizes Damayanti and a hunter cuts it open to save her. When he then turns on her, she curses him and he falls dead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Travellers at a river caravan wonder whether she is a goddess or a forest spirit, until she tells them she is a mortal princess looking for her husband.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Chedi the queen mother, moved by her trouble, makes her an attendant to the princess Sunanda. The queen mother later turns out to be Damayanti's own aunt, her mother's sister.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Chedi she set her own rules for work: she would not eat leftovers, would not wash anyone's feet, and would not speak with strange men, and the queen mother agreed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "She guessed Nala was the driver just from the roaring sound of the chariot. Then she sent her maid Keshini to test Bahuka with the old verses, his cooking and the sight of the twins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the text, Bahuka cannot hide his tears when Keshini brings him the two children. When he is asked, he says only that they remind him of two children he knew.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The German writer A. W. Schlegel wrote that Damayanti's loyal devotion is as famous in India as Penelope's is in Greece, and that the tale suits readers both young and old.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Damayanti knew what elders said about the gods and checked the five Nalas. The gods did not sweat, did not blink, wore fresh garlands, had no dust on them, and stood without their feet touching the ground.",
+      "kind": "story",
+      "source": "https://enjoylearningsanskrit.com/scriptures/mahabharata/book-3/chapter-54/verse-23",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The story begins in heaven: Indra complains that no kings are dying in battle, and Narada explains that the princes are all busy heading to Damayanti's svayamvara. That is why the gods decide to go as well.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Nala lost everything, Damayanti chose to go into exile with him, and each of them wore just one garment.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A flock of golden swans lands by her garden lake, and she follows them without scaring them off until one speaks. Raja Ravi Varma painted her talking with the swan as Hamsa Damayanti.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The second svayamvara was a trick. When King Rituparna arrived with Bahuka, no wedding preparations were under way, and Damayanti later told Nala it was a ruse and affirmed her loyalty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A silent film Nala Damayanti came out in 1920 from Madan Theatres, directed by the Italian Eugenio de Liguoro, with Patience Cooper playing Damayanti.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "German composer Max Bruch wrote a cantata called Damajanti in 1903, based on a poem by Friedrich Rückert.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The poem Nalachampu, written around the year 900 by Trivikramabhatta, is also called Damayantikatha, the Story of Damayanti.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Along with Nala, she is the central figure of Sriharsha's 12th-century Naishadhiya Charita, counted among the five great mahakavyas of Sanskrit literature.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Back in Vidarbha she was inconsolable and would not hear of marrying again, while her father kept sending Brahmins out to look for Nala.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Once the truth came out, Subahu, king of Chedi, arranged for Damayanti to travel home to her father's palace in a palanquin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Damayanti",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How does Damayanti first hear of Nala's good qualities?",
+      "options": ["From the sage Narada", "From a golden swan", "From her teacher", "From a dream"],
+      "answer": 1,
+      "why": "In the Mahabharata a swan speaks to her about Nala in the palace garden."
+    },
+    {
+      "q": "Why does Damayanti announce a second svayamvara?",
+      "options": [
+        "To find a new husband",
+        "To draw out the best charioteer, Nala",
+        "To celebrate a festival",
+        "To meet King Rituparna"
+      ],
+      "answer": 1,
+      "why": "It was a clever ruse, since only Nala could drive fast enough to arrive in one day."
+    },
+    {
+      "q": "Who was the maid Damayanti sent to test Bahuka?",
+      "options": ["Sunanda", "Keshini", "Varshneya", "Parnada"],
+      "answer": 1,
+      "why": "Keshini recited the old verses to Bahuka and watched his behaviour for signs."
+    },
+    {
+      "q": "Which kingdom sheltered Damayanti while she was searching for Nala?",
+      "options": ["Chedi", "Ayodhya", "Nishadha", "Kashi"],
+      "answer": 0,
+      "why": "The queen mother of Chedi took her in, and later turned out to be her aunt."
+    },
+    {
+      "q": "What sound made Damayanti suspect Nala was driving the chariot?",
+      "options": ["The roar of the chariot", "A song", "A conch shell", "A tiger's call"],
+      "answer": 0,
+      "why": "She guessed from the roaring sound of the chariot that Nala must be the driver."
+    }
+  ],
+  "related": ["nala", "indra", "agni", "varuna", "yama", "sita"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Damayanti",
+    "nalaAndDamayanti": "https://en.wikipedia.org/wiki/Nala_and_Damayanti",
+    "nala": "https://en.wikipedia.org/wiki/Nala_(Mahabharata)",
+    "verse54_23": "https://enjoylearningsanskrit.com/scriptures/mahabharata/book-3/chapter-54/verse-23"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e7c9d4",
+    "c2": "#cfe3d4"
+  },
+  "order": 500
+}

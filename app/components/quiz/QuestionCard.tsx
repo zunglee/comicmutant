@@ -50,7 +50,7 @@ export const QuestionCard = forwardRef<
     >
       <div className="flex flex-wrap items-center gap-x-3 gap-y-1 border-line border-b-[3px] bg-c1 px-3 py-2 text-on-c1">
         <span className="font-display text-xl leading-none tracking-wide">{q.character.name}</span>
-        <span className="rounded-full border-2 border-line bg-c2 px-2 py-0.5 font-head text-[0.7rem] text-on-c2 uppercase tracking-wider">
+        <span className="round border-2 border-line bg-c2 px-2 py-0.5 font-head text-[0.7rem] text-on-c2 uppercase tracking-wider">
           {UNIVERSE_LABEL[q.character.universe]}
         </span>
         <span className="ml-auto flex items-center gap-3 font-head text-xs uppercase tracking-wider">
@@ -101,12 +101,12 @@ export const QuestionCard = forwardRef<
                     )}
                   </span>
                   {reveal && st === 'right' && (
-                    <span className="grid size-7 place-items-center rounded-full border-2 border-line bg-paper">
+                    <span className="grid size-7 place-items-center round border-2 border-line bg-paper">
                       <IconCheck className="size-4" />
                     </span>
                   )}
                   {reveal && st === 'wrong' && (
-                    <span className="grid size-7 place-items-center rounded-full border-2 border-line bg-paper">
+                    <span className="grid size-7 place-items-center round border-2 border-line bg-paper">
                       <IconCross className="size-4" />
                     </span>
                   )}

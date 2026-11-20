@@ -1,0 +1,260 @@
+{
+  "name": "Khandoba",
+  "aka": ["Malhari Martand", "Mhalsakant", "Khanderaya", "Mailara", "Martanda Bhairava"],
+  "native": "खंडोबा",
+  "role": "Warrior form of Shiva worshipped in Maharashtra and Karnataka",
+  "summary": "Khandoba is a warrior form of Shiva worshipped by many families in Maharashtra and Karnataka. His main temple is at Jejuri, where turmeric makes the whole town glow golden.",
+  "about": "Khandoba is a deity of the Deccan, honoured mostly as a form of Shiva, with ties to Bhairava and sometimes to Kartikeya. Texts like the Malhari Mahatmya tell how he overcame the brothers Mani and Malla, who had taken a boon from Brahma and troubled the sages. He is shown as a horse rider with a sword and is worshipped with his wives Mhalsa and Banai, who come from different communities. Many Maharashtrian families, as well as the Holkar and Gaikwad rulers, took him as their family deity. His chief temple is on a hill at Jejuri near Pune. In folk tradition he also has Muslim devotees, and his festivals are full of turmeric, songs and drums.",
+  "kidSummary": "Khandoba is a brave warrior form of Shiva who rides a horse and carries a sword. People in Maharashtra love him and visit his hilltop temple at Jejuri. During the big festival, everyone throws golden turmeric until the whole town glows.",
+  "story": [
+    {
+      "title": "Trouble for the sages",
+      "text": "In the Malhari Mahatmya, two brothers, Mani and Malla, win a boon from Brahma and begin to disturb the sages."
+    },
+    {
+      "title": "The gods ask Shiva",
+      "text": "The sages and gods ask Shiva for help, and he takes the form of Khandoba, the warrior who rides the bull Nandi at the head of the gods' army."
+    },
+    {
+      "title": "A great contest",
+      "text": "Khandoba and his army face the brothers in a long fight, using his sword and his courage."
+    },
+    {
+      "title": "A final gift",
+      "text": "The story says the dying Mani offered his white horse and asked to be remembered at every shrine of Khandoba. This is why Khandoba is later shown as a rider, as well as with Nandi in the early battle."
+    },
+    {
+      "title": "A place for all",
+      "text": "Khandoba then took his two wives, Mhalsa and Banai, and settled at Jejuri, where people of many communities visit him."
+    },
+    {
+      "title": "Golden turmeric",
+      "text": "Today pilgrims toss turmeric at his festival until the hill town shines golden."
+    }
+  ],
+  "teaches": [
+    "Courage used to protect others",
+    "Respect for people of many communities",
+    "Devotion and thanksgiving for a vow fulfilled"
+  ],
+  "symbol": "sun",
+  "emblems": ["Sword (khadga)", "Horse", "Dog", "Turmeric (bhandara)", "Damaru and trident"],
+  "family": [
+    {
+      "relation": "Wife",
+      "name": "Mhalsa"
+    },
+    {
+      "relation": "Wife",
+      "name": "Banai"
+    },
+    {
+      "relation": "Form of",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Linked by some with",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    }
+  ],
+  "texts": ["Malhari Mahatmya", "Folk ballads of the Deccan", "Marathi songs of Waghya-Murali"],
+  "places": ["Jejuri, Maharashtra", "Naldurg", "Mailara, Karnataka"],
+  "festivals": ["Somvati Amavasya at Jejuri", "Champa Shashthi", "Margashirsha festival"],
+  "facts": [
+    {
+      "text": "His name Khandoba joins khadga, a sword, with ba, father; Mallari or Malhari means enemy of the asura Malla, so both names point to his battle.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Sanskrit texts he is Martanda Bhairava, joining a name of the sun god with Shiva's fierce form, and Sundays, gold and turmeric tie his rituals to the sun.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one variant a dog drinks all of Mani's blood so that no new fighters can rise from it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Khandoba images are often dressed like a Maratha sardar or like a Muslim pathan.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Folk songs describe Mhalsa as a fine cook and Banai as a free-spirited shepherdess, and they sing of the two wives' quarrels.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Muslim worshippers call him Mallu or Ajmat Khan, and at Jejuri the care of the temple's horses is traditionally held by a Muslim family.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Khandoba's temples resemble forts, since the capital of his kingdom is the fortress of Jejuri, and over 600 temples to him dot the Deccan.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On Somvati Amavasya, devotees smear turmeric on one another, earning Jejuri the nickname golden Jejuri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jejuri",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After the Battle of Vasai in 1739, Chimaji Appa put 38 captured church bells into 34 Hindu temples, and one still hangs in Khandoba's temple.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jejuri",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The 1957 film Naya Daur filmed its song Ana he to aa entirely at the Jejuri temple.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Jejuri",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Malhari Mahatmya, the head of the asura Malla falls at the temple stairs, where it is trodden by the feet of devotees.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The bards of Khandoba are called Waghyas, which literally means 'tigers', and they see themselves as the dogs of Khandoba, singing and dancing through night-long jagaran song festivals.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 12th-century Jain author, Brahmashiva, wrote that a Jain who died in battle after showing great courage was later named Mailara, one sign of how many traditions this deity touches.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One tradition says the title Ajmat Khan was given by the Mughal ruler Aurangzeb, who in the legend had to flee from Jejuri because of Khandoba's power.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Khandoba grew into a composite god who carries traits of Shiva, Bhairava, Surya and Kartikeya, and his folk worship dates back to at least the 12th century.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Malhari Mahatmya says it belongs to the Brahmanda Purana, but standard editions do not include it. Scholars Dhere and Sontheimer date it to about 1460 to 1510.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A hymn from 1790 playfully describes Khandoba as a king with a jewel-studded saddle who was once a begging ascetic riding an old bull and carrying an ant-bitten club.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jejuri's temple hosted a historic treaty between Tarabai and Balaji Bajirao on 14 September 1752.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Jejuri",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Somvati Amavasya, a palanquin carries the images of Khandoba and his wife Mhalsa from the Gad-kot temple down to the Karha river, where they are ritually bathed.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Jejuri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A popular print shows Mhalsa seated on Khandoba's white horse and spearing a demon, while his dog bites another demon's thigh and the horse kicks his head.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Pali-Pember, the wedding of Khandoba and Mhalsa is acted out every year, with turmeric offered to the deities.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Khandoba",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What do devotees throw at Jejuri's famous festival?",
+      "options": ["Flower petals", "Turmeric", "Rice", "Water balloons"],
+      "answer": 1,
+      "why": "Turmeric earns Jejuri the nickname golden Jejuri."
+    },
+    {
+      "q": "What is Khandoba mostly seen as a form of?",
+      "options": ["Shiva", "Brahma", "Ganesha", "Indra"],
+      "answer": 0,
+      "why": "He is mostly honoured as a form of Shiva."
+    },
+    {
+      "q": "Who are Khandoba's two wives?",
+      "options": ["Radha and Rukmini", "Mhalsa and Banai", "Sita and Urmila", "Gauri and Ganga"],
+      "answer": 1,
+      "why": "Mhalsa and Banai come from different communities."
+    },
+    {
+      "q": "Which animal accompanies Khandoba?",
+      "options": ["Peacock", "Dog", "Elephant", "Swan"],
+      "answer": 1,
+      "why": "A dog and a horse are linked with him."
+    },
+    {
+      "q": "Where is Khandoba's best-known temple?",
+      "options": ["Jejuri", "Puri", "Madurai", "Haridwar"],
+      "answer": 0,
+      "why": "Jejuri is near Pune in Maharashtra."
+    }
+  ],
+  "related": ["shiva", "kartikeya", "bhairava"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Khandoba",
+    "jejuri": "https://en.wikipedia.org/wiki/Jejuri"
+  },
+  "palette": {
+    "c1": "#e6c46a",
+    "c2": "#c9a27e"
+  },
+  "order": 90,
+  "slug": "khandoba",
+  "tradition": "hindu",
+  "group": "deva",
+  "depth": "full"
+}

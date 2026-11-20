@@ -1,0 +1,266 @@
+{
+  "slug": "kshitigarbha",
+  "name": "Kshitigarbha",
+  "aka": ["Dizang", "Jizo", "Jijang", "Earth Womb"],
+  "native": "क्षितिगर्भ",
+  "role": "Bodhisattva who vowed to help beings in the hell realms",
+  "summary": "In Mahayana Buddhism, Kshitigarbha is a bodhisattva who vowed to help all beings in the hell realms. In Japan he is Jizo, a beloved protector of children and travellers.",
+  "about": "The Kshitigarbha Sutra says that in a past life he was a Brahmin girl who made a great vow to help beings suffering in hell. Tradition holds that he will not become a Buddha until the hells are empty. Unlike most bodhisattvas, he is shown as a simple monk with a shaved head, carrying a staff and a wish-fulfilling jewel. Chinese Buddhists link him to Mount Jiuhua and the Korean monk Kim Gyo-gak. In Japan he is Jizo, shown by roadsides and in graveyards, and tradition holds he guards children and travellers. Scholars note that no Sanskrit manuscript of his sutra survives, and they debate whether it was composed in China.",
+  "kidSummary": "Kshitigarbha is a gentle bodhisattva who looks like a simple monk. In Japan he is called Jizo, and little statues of him stand by roads to look after children and travellers. People sometimes dress them in tiny bibs and hats.",
+  "story": [
+    {
+      "title": "A girl's love for her mother",
+      "text": "In the Kshitigarbha Sutra, a Brahmin girl is sad because her mother has gone to a difficult rebirth, so she prays and offers gifts for her."
+    },
+    {
+      "title": "A big vow",
+      "text": "She promises to help beings who are suffering, and to keep helping until every hell realm is empty. This vow is why she is remembered as Kshitigarbha."
+    },
+    {
+      "title": "A monk with a staff",
+      "text": "In pictures, he is a simple monk with a staff. The staff's rings jingle so tiny creatures know he is coming and can step aside."
+    },
+    {
+      "title": "A friend on the road",
+      "text": "In Japan, he becomes Jizo. People place small statues by roads and in cemeteries, and dress them with bibs and hats to ask for kindness for children."
+    }
+  ],
+  "teaches": [
+    "Never give up on helping others",
+    "Love and respect for parents",
+    "Care for the youngest and the most frightened"
+  ],
+  "symbol": "mountain",
+  "emblems": [
+    "Staff with six rings",
+    "Wish-fulfilling jewel",
+    "Monk's robe",
+    "Bibs and hats on Jizo statues"
+  ],
+  "family": [
+    {
+      "relation": "In the sutra, taught for the sake of",
+      "name": "Maya, the Buddha's mother",
+      "slug": "maya-mother-of-the-buddha"
+    },
+    {
+      "relation": "Said in some stories to assist him",
+      "name": "Maudgalyayana (Mulian)",
+      "slug": "maudgalyayana"
+    }
+  ],
+  "texts": ["Kshitigarbha Sutra", "Ryoki (Japanese tale collection)"],
+  "places": [
+    "Mount Jiuhua, Anhui",
+    "Tosen-ji, Tokyo",
+    "Dunhuang and Longmen grottoes",
+    "Nasu, Tochigi"
+  ],
+  "festivals": [
+    "Jizo-bon (late summer, Kyoto neighbourhoods)",
+    "Dizang birthday, 30th day of the 7th lunar month"
+  ],
+  "facts": [
+    {
+      "text": "Because his monk image resembles Tang Sanzang from the novel Journey to the West, people sometimes mistake Kshitigarbha for that character.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kshitigarbha Sutra says he vowed not to become a Buddha until all hell realms are empty, which is why he is called the bodhisattva of beings in hell.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His staff is said to warn insects and small animals of his approach, and also to open the gates of hell.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kshitigarbha Sutra was put into Chinese around 695 to 700 by Siksananda of Khotan; since no Sanskrit copy has been found, some scholars think it may have been composed in China.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "At Tosen-ji in Tokyo, people tie a rope around a statue called Bound Jizo; they untie it when their wish is granted, and at New Year the priest cuts the ropes of wishes still waiting.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jizo",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jizo has special local forms, such as Agonashi Jizo, 'Jizo without a jaw', who is prayed to for curing toothaches.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Nyingma Tibet a wrathful form, Destroyer of Haughty Ones, is shown dark blue with six arms, four legs and two wings, as one of the Eight Great Herukas.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mount Jiuhua in Anhui, one of China's four sacred Buddhist mountains, is believed to be his seat; it has a statue of Dizang 109.9 metres tall.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Mount_Jiuhua",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Silla prince Kim Gyo-gak reached Mount Jiuhua in 719 CE and lived there 75 years; his tomb, opened three years after his death at 99, showed a body that had not decayed, so monks saw him as Dizang.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Legend says the Silla monk Jijang asked the landowner Minrang for land his robe could cover; he threw the robe up and it grew over the whole of Mount Jiuhua, so Minrang gave the mountain to him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Grieving or thankful parents sometimes leave toys or children's clothes beside Jizo statues, hoping he will look after their children.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jizo",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Before the Tang dynasty the grottoes at Dunhuang and Longmen show him as a classic bodhisattva; later he is usually a monk with prayer beads and a staff.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In some Chinese legends the arhat Mulian helps Dizang in his vow to save beings in hell, so temples that enshrine Dizang often honour Mulian too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Video games have borrowed the image: in Super Mario Bros. 3 (1988), Mario can take the form of a stone Kshitigarbha statue.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Chinese folk belief gives Dizang a companion called Diting: either a divine beast that can tell good from evil and carries him, or, in one legend, a dog who is his reborn mother.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A legend says the first Jizo statue reached Japan in Emperor Shomu's reign in the Nara period; records mention one at Todai-ji, but no evidence of it has been found.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Roadside Jizo statues are a common sight in Japan, where he is seen as a guardian of travellers, and firefighters are also believed to be under his protection.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Indo-Tibetan rites for the Earth goddess Prithvi, invoked for good crops, Kshitigarbha appears beside her as the awakened side of the Earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "As Lord of the Six Ways he is shown with six rays, one for each path of rebirth; in Japan six separate statues stand for them, as in the Hall of Gold at Chuson-ji.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Kim Gyo-gak was stung by a scorpion that was the goddess of Mount Jiuhua in disguise, he kept calm; she later apologised and gave him medicine and spring water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Jizo",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "People in Japan stack stones on or beside Jizo statues, hoping to shorten the suffering of children who died young; the habit comes from the old merit-making custom of building stupas.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bardo Thodol's Mandala of the Forty-Two Peaceful Deities he sits to the right of Vajrasattva-Akshobhya in the east, linked with water and mirror-like wisdom.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kshitigarbha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Kshitigarbha called in Japan?",
+      "options": ["Kannon", "Jizo", "Monju", "Miroku"],
+      "answer": 1,
+      "why": "In Japan he is Jizo, a beloved protector."
+    },
+    {
+      "q": "What does Kshitigarbha carry that warns small creatures he is near?",
+      "options": ["A drum", "A staff with rings", "A flute", "A bell tower"],
+      "answer": 1,
+      "why": "His staff is said to warn insects and small animals of his approach."
+    },
+    {
+      "q": "What do people sometimes dress Jizo statues in?",
+      "options": ["Crowns", "Bibs and hats", "Armour", "Scarves of gold"],
+      "answer": 1,
+      "why": "Statues are often dressed in bibs, kerchiefs or hats."
+    },
+    {
+      "q": "Which Chinese mountain is linked to Dizang?",
+      "options": ["Mount Emei", "Mount Jiuhua", "Mount Song", "Mount Tai"],
+      "answer": 1,
+      "why": "Mount Jiuhua in Anhui is believed to be his seat."
+    }
+  ],
+  "related": [
+    "avalokiteshvara",
+    "manjushri",
+    "samantabhadra",
+    "maya-mother-of-the-buddha",
+    "maudgalyayana",
+    "gautama-buddha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kshitigarbha",
+    "jizo": "https://en.wikipedia.org/wiki/Jizo",
+    "jiuhua": "https://en.wikipedia.org/wiki/Mount_Jiuhua"
+  },
+  "palette": {
+    "c1": "#ead9c4",
+    "c2": "#d8e8d4"
+  },
+  "order": 6,
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "depth": "full"
+}

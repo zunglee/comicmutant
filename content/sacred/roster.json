@@ -1,0 +1,2297 @@
+[
+  {
+    "slug": "brahma",
+    "name": "Brahma",
+    "tradition": "hindu",
+    "group": "trimurti"
+  },
+  {
+    "slug": "vishnu",
+    "name": "Vishnu",
+    "tradition": "hindu",
+    "group": "trimurti"
+  },
+  {
+    "slug": "shiva",
+    "name": "Shiva",
+    "tradition": "hindu",
+    "group": "trimurti"
+  },
+  {
+    "slug": "saraswati",
+    "name": "Saraswati",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "lakshmi",
+    "name": "Lakshmi",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "parvati",
+    "name": "Parvati",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "sati",
+    "name": "Sati",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "durga",
+    "name": "Durga",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "kali",
+    "name": "Kali",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "ganga",
+    "name": "Ganga",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "yamuna",
+    "name": "Yamuna",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "radha",
+    "name": "Radha",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "aditi",
+    "name": "Aditi",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "ushas",
+    "name": "Ushas",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "bhumi",
+    "name": "Bhumi",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "annapurna",
+    "name": "Annapurna",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "meenakshi",
+    "name": "Meenakshi",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "gayatri",
+    "name": "Gayatri",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "navadurga",
+    "name": "Navadurga",
+    "tradition": "hindu",
+    "group": "devi"
+  },
+  {
+    "slug": "ganesha",
+    "name": "Ganesha",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "kartikeya",
+    "name": "Kartikeya",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "hanuman",
+    "name": "Hanuman",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "indra",
+    "name": "Indra",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "agni",
+    "name": "Agni",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "vayu",
+    "name": "Vayu",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "varuna",
+    "name": "Varuna",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "surya",
+    "name": "Surya",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "chandra",
+    "name": "Chandra",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "yama",
+    "name": "Yama",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "kubera",
+    "name": "Kubera",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "kamadeva",
+    "name": "Kamadeva",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "vishvakarma",
+    "name": "Vishvakarma",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "ashvins",
+    "name": "Ashvins",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "brihaspati",
+    "name": "Brihaspati",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "shani",
+    "name": "Shani",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "dhanvantari",
+    "name": "Dhanvantari",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "ayyappan",
+    "name": "Ayyappan",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "jagannath",
+    "name": "Jagannath",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "vithoba",
+    "name": "Vithoba",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "venkateswara",
+    "name": "Venkateswara",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "khandoba",
+    "name": "Khandoba",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "bhairava",
+    "name": "Bhairava",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "dattatreya",
+    "name": "Dattatreya",
+    "tradition": "hindu",
+    "group": "deva"
+  },
+  {
+    "slug": "matsya",
+    "name": "Matsya",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 1
+  },
+  {
+    "slug": "kurma",
+    "name": "Kurma",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 2
+  },
+  {
+    "slug": "varaha",
+    "name": "Varaha",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 3
+  },
+  {
+    "slug": "narasimha",
+    "name": "Narasimha",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 4
+  },
+  {
+    "slug": "vamana",
+    "name": "Vamana",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 5
+  },
+  {
+    "slug": "parashurama",
+    "name": "Parashurama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 6
+  },
+  {
+    "slug": "rama",
+    "name": "Rama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 7
+  },
+  {
+    "slug": "krishna",
+    "name": "Krishna",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 8
+  },
+  {
+    "slug": "balarama",
+    "name": "Balarama",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 9
+  },
+  {
+    "slug": "kalki",
+    "name": "Kalki",
+    "tradition": "hindu",
+    "group": "avatar",
+    "order": 10
+  },
+  {
+    "slug": "sita",
+    "name": "Sita",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "lakshmana",
+    "name": "Lakshmana",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "bharata-ramayana",
+    "name": "Bharata",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "shatrughna",
+    "name": "Shatrughna",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "dasharatha",
+    "name": "Dasharatha",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "kaushalya",
+    "name": "Kaushalya",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "kaikeyi",
+    "name": "Kaikeyi",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "sumitra",
+    "name": "Sumitra",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "manthara",
+    "name": "Manthara",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "urmila",
+    "name": "Urmila",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "janaka",
+    "name": "Janaka",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "sugriva",
+    "name": "Sugriva",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "vali",
+    "name": "Vali",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "angada",
+    "name": "Angada",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "jambavan",
+    "name": "Jambavan",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "jatayu",
+    "name": "Jatayu",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "sampati",
+    "name": "Sampati",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "vibhishana",
+    "name": "Vibhishana",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "ravana",
+    "name": "Ravana",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "kumbhakarna",
+    "name": "Kumbhakarna",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "indrajit",
+    "name": "Indrajit",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "mandodari",
+    "name": "Mandodari",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "shurpanakha",
+    "name": "Shurpanakha",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "maricha",
+    "name": "Maricha",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "shabari",
+    "name": "Shabari",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "ahalya",
+    "name": "Ahalya",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "lava-and-kusha",
+    "name": "Lava and Kusha",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "tara-ramayana",
+    "name": "Tara",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "nala-ramayana",
+    "name": "Nala",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "guha",
+    "name": "Guha",
+    "tradition": "hindu",
+    "group": "ramayana"
+  },
+  {
+    "slug": "arjuna",
+    "name": "Arjuna",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "bhima",
+    "name": "Bhima",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "yudhishthira",
+    "name": "Yudhishthira",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "nakula",
+    "name": "Nakula",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "sahadeva",
+    "name": "Sahadeva",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "draupadi",
+    "name": "Draupadi",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "kunti",
+    "name": "Kunti",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "madri",
+    "name": "Madri",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "pandu",
+    "name": "Pandu",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "dhritarashtra",
+    "name": "Dhritarashtra",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "gandhari",
+    "name": "Gandhari",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "duryodhana",
+    "name": "Duryodhana",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "dushasana",
+    "name": "Dushasana",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "karna",
+    "name": "Karna",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "bhishma",
+    "name": "Bhishma",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "drona",
+    "name": "Drona",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "ashwatthama",
+    "name": "Ashwatthama",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "kripa",
+    "name": "Kripa",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "vidura",
+    "name": "Vidura",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "shakuni",
+    "name": "Shakuni",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "abhimanyu",
+    "name": "Abhimanyu",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "ghatotkacha",
+    "name": "Ghatotkacha",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "hidimbi",
+    "name": "Hidimbi",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "ekalavya",
+    "name": "Ekalavya",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "shikhandi",
+    "name": "Shikhandi",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "drupada",
+    "name": "Drupada",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "dhrishtadyumna",
+    "name": "Dhrishtadyumna",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "jayadratha",
+    "name": "Jayadratha",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "shalya",
+    "name": "Shalya",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "subhadra",
+    "name": "Subhadra",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "uttara",
+    "name": "Uttara",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "parikshit",
+    "name": "Parikshit",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "barbarika",
+    "name": "Barbarika",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "sanjaya",
+    "name": "Sanjaya",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "satyaki",
+    "name": "Satyaki",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "virata",
+    "name": "Virata",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "kichaka",
+    "name": "Kichaka",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "shantanu",
+    "name": "Shantanu",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "satyavati",
+    "name": "Satyavati",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "amba",
+    "name": "Amba",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "ulupi",
+    "name": "Ulupi",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "chitrangada",
+    "name": "Chitrangada",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "babruvahana",
+    "name": "Babruvahana",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "iravan",
+    "name": "Iravan",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "janamejaya",
+    "name": "Janamejaya",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "vikarna",
+    "name": "Vikarna",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "yuyutsu",
+    "name": "Yuyutsu",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "uttanka",
+    "name": "Uttanka",
+    "tradition": "hindu",
+    "group": "mahabharata"
+  },
+  {
+    "slug": "yashoda",
+    "name": "Yashoda",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "nanda",
+    "name": "Nanda",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "devaki",
+    "name": "Devaki",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "vasudeva",
+    "name": "Vasudeva",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "kamsa",
+    "name": "Kamsa",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "sudama",
+    "name": "Sudama",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "rukmini",
+    "name": "Rukmini",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "satyabhama",
+    "name": "Satyabhama",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "jambavati",
+    "name": "Jambavati",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "pradyumna",
+    "name": "Pradyumna",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "aniruddha",
+    "name": "Aniruddha",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "uddhava",
+    "name": "Uddhava",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "akrura",
+    "name": "Akrura",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "putana",
+    "name": "Putana",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "kaliya",
+    "name": "Kaliya",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "shishupala",
+    "name": "Shishupala",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "jarasandha",
+    "name": "Jarasandha",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "narakasura",
+    "name": "Narakasura",
+    "tradition": "hindu",
+    "group": "krishna-leela"
+  },
+  {
+    "slug": "prahlada",
+    "name": "Prahlada",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "dhruva",
+    "name": "Dhruva",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "markandeya",
+    "name": "Markandeya",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "savitri",
+    "name": "Savitri",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "satyavan",
+    "name": "Satyavan",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "harishchandra",
+    "name": "Harishchandra",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "nala",
+    "name": "Nala",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "damayanti",
+    "name": "Damayanti",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "bhagiratha",
+    "name": "Bhagiratha",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "shakuntala",
+    "name": "Shakuntala",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "dushyanta",
+    "name": "Dushyanta",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "bharata-emperor",
+    "name": "Bharata",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "nachiketa",
+    "name": "Nachiketa",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "shravana-kumara",
+    "name": "Shravana Kumara",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "ambarisha",
+    "name": "Ambarisha",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "rantideva",
+    "name": "Rantideva",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "shibi",
+    "name": "Shibi",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "yayati",
+    "name": "Yayati",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "devayani",
+    "name": "Devayani",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "sharmishtha",
+    "name": "Sharmishtha",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "pururavas",
+    "name": "Pururavas",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "urvashi",
+    "name": "Urvashi",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "mandhata",
+    "name": "Mandhata",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "prithu",
+    "name": "Prithu",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "gajendra",
+    "name": "Gajendra",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "ajamila",
+    "name": "Ajamila",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "manu",
+    "name": "Manu",
+    "tradition": "hindu",
+    "group": "purana"
+  },
+  {
+    "slug": "vyasa",
+    "name": "Vyasa",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "valmiki",
+    "name": "Valmiki",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "narada",
+    "name": "Narada",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "vishvamitra",
+    "name": "Vishvamitra",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "vasishtha",
+    "name": "Vasishtha",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "agastya",
+    "name": "Agastya",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "lopamudra",
+    "name": "Lopamudra",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "durvasa",
+    "name": "Durvasa",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "bhrigu",
+    "name": "Bhrigu",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "atri",
+    "name": "Atri",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "anasuya",
+    "name": "Anasuya",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "gautama-maharishi",
+    "name": "Gautama Maharishi",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "jamadagni",
+    "name": "Jamadagni",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "kashyapa",
+    "name": "Kashyapa",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "bharadvaja",
+    "name": "Bharadvaja",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "angiras",
+    "name": "Angiras",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "kapila",
+    "name": "Kapila",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "dadhichi",
+    "name": "Dadhichi",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "gargi",
+    "name": "Gargi",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "maitreyi",
+    "name": "Maitreyi",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "yajnavalkya",
+    "name": "Yajnavalkya",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "ashtavakra",
+    "name": "Ashtavakra",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "shuka",
+    "name": "Shuka",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "sandipani",
+    "name": "Sandipani",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "patanjali",
+    "name": "Patanjali",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "shukracharya",
+    "name": "Shukracharya",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "rishyashringa",
+    "name": "Rishyashringa",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "parashara",
+    "name": "Parashara",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "arundhati",
+    "name": "Arundhati",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "kanva",
+    "name": "Kanva",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "sanat-kumaras",
+    "name": "Sanat Kumaras",
+    "tradition": "hindu",
+    "group": "rishi"
+  },
+  {
+    "slug": "mahishasura",
+    "name": "Mahishasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "hiranyakashipu",
+    "name": "Hiranyakashipu",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "hiranyaksha",
+    "name": "Hiranyaksha",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "mahabali",
+    "name": "Mahabali",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "vritra",
+    "name": "Vritra",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "tarakasura",
+    "name": "Tarakasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "shumbha-and-nishumbha",
+    "name": "Shumbha and Nishumbha",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "raktabija",
+    "name": "Raktabija",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "bhasmasura",
+    "name": "Bhasmasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "tripurasura",
+    "name": "Tripurasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "andhaka",
+    "name": "Andhaka",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "madhu-and-kaitabha",
+    "name": "Madhu and Kaitabha",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "bakasura",
+    "name": "Bakasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "ilvala-and-vatapi",
+    "name": "Ilvala and Vatapi",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "banasura",
+    "name": "Banasura",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "jalandhara",
+    "name": "Jalandhara",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "rahu-and-ketu",
+    "name": "Rahu and Ketu",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "holika",
+    "name": "Holika",
+    "tradition": "hindu",
+    "group": "asura"
+  },
+  {
+    "slug": "garuda",
+    "name": "Garuda",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "nandi",
+    "name": "Nandi",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "shesha",
+    "name": "Shesha",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "vasuki",
+    "name": "Vasuki",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "airavata",
+    "name": "Airavata",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "kamadhenu",
+    "name": "Kamadhenu",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "uchchaihshravas",
+    "name": "Uchchaihshravas",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "apsaras",
+    "name": "Apsaras",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "gandharvas",
+    "name": "Gandharvas",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "navagraha",
+    "name": "Navagraha",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "saptamatrikas",
+    "name": "Saptamatrikas",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "ashta-dikpalas",
+    "name": "Ashta Dikpalas",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "vahanas",
+    "name": "Vahanas",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "tulsi",
+    "name": "Tulsi",
+    "tradition": "hindu",
+    "group": "divine-being"
+  },
+  {
+    "slug": "meera-bai",
+    "name": "Meera Bai",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "tulsidas",
+    "name": "Tulsidas",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "kabir",
+    "name": "Kabir",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "surdas",
+    "name": "Surdas",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "tukaram",
+    "name": "Tukaram",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "chaitanya-mahaprabhu",
+    "name": "Chaitanya Mahaprabhu",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "andal",
+    "name": "Andal",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "namdev",
+    "name": "Namdev",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "dnyaneshwar",
+    "name": "Dnyaneshwar",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "ramanuja",
+    "name": "Ramanuja",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "adi-shankaracharya",
+    "name": "Adi Shankaracharya",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "madhvacharya",
+    "name": "Madhvacharya",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "basava",
+    "name": "Basava",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "akka-mahadevi",
+    "name": "Akka Mahadevi",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "purandara-dasa",
+    "name": "Purandara Dasa",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "tyagaraja",
+    "name": "Tyagaraja",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "ramakrishna",
+    "name": "Ramakrishna",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "lal-ded",
+    "name": "Lal Ded",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "thiruvalluvar",
+    "name": "Thiruvalluvar",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "narsinh-mehta",
+    "name": "Narsinh Mehta",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "ravidas",
+    "name": "Ravidas",
+    "tradition": "hindu",
+    "group": "bhakti"
+  },
+  {
+    "slug": "gautama-buddha",
+    "name": "Gautama Buddha",
+    "tradition": "buddhist",
+    "group": "buddha"
+  },
+  {
+    "slug": "maya-mother-of-the-buddha",
+    "name": "Maya",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "suddhodana",
+    "name": "Suddhodana",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "yashodhara",
+    "name": "Yashodhara",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "rahula",
+    "name": "Rahula",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "mahapajapati-gotami",
+    "name": "Mahapajapati Gotami",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "ananda",
+    "name": "Ananda",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "sariputta",
+    "name": "Sariputta",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "maudgalyayana",
+    "name": "Maudgalyayana",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "mahakashyapa",
+    "name": "Mahakashyapa",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "upali",
+    "name": "Upali",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "angulimala",
+    "name": "Angulimala",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "devadatta",
+    "name": "Devadatta",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "sujata",
+    "name": "Sujata",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "kisa-gotami",
+    "name": "Kisa Gotami",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "ambapali",
+    "name": "Ambapali",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "anathapindika",
+    "name": "Anathapindika",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "bimbisara",
+    "name": "Bimbisara",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "ashoka",
+    "name": "Ashoka",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "nagarjuna",
+    "name": "Nagarjuna",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "padmasambhava",
+    "name": "Padmasambhava",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "bodhidharma",
+    "name": "Bodhidharma",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "mara",
+    "name": "Mara",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "khema",
+    "name": "Khema",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "dhammadinna",
+    "name": "Dhammadinna",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "patacara",
+    "name": "Patacara",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "channa",
+    "name": "Channa",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "kanthaka",
+    "name": "Kanthaka",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "vimalakirti",
+    "name": "Vimalakirti",
+    "tradition": "buddhist",
+    "group": "disciple"
+  },
+  {
+    "slug": "avalokiteshvara",
+    "name": "Avalokiteshvara",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "manjushri",
+    "name": "Manjushri",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "tara",
+    "name": "Tara",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "maitreya",
+    "name": "Maitreya",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "vajrapani",
+    "name": "Vajrapani",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "kshitigarbha",
+    "name": "Kshitigarbha",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "samantabhadra",
+    "name": "Samantabhadra",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "amitabha",
+    "name": "Amitabha",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "prajnaparamita",
+    "name": "Prajnaparamita",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "medicine-buddha",
+    "name": "Medicine Buddha",
+    "tradition": "buddhist",
+    "group": "bodhisattva"
+  },
+  {
+    "slug": "rishabhanatha",
+    "name": "Rishabhanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 1
+  },
+  {
+    "slug": "ajitanatha",
+    "name": "Ajitanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 2
+  },
+  {
+    "slug": "sambhavanatha",
+    "name": "Sambhavanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 3
+  },
+  {
+    "slug": "abhinandananatha",
+    "name": "Abhinandananatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 4
+  },
+  {
+    "slug": "sumatinatha",
+    "name": "Sumatinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 5
+  },
+  {
+    "slug": "padmaprabha",
+    "name": "Padmaprabha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 6
+  },
+  {
+    "slug": "suparshvanatha",
+    "name": "Suparshvanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 7
+  },
+  {
+    "slug": "chandraprabha",
+    "name": "Chandraprabha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 8
+  },
+  {
+    "slug": "pushpadanta",
+    "name": "Pushpadanta",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 9
+  },
+  {
+    "slug": "shitalanatha",
+    "name": "Shitalanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 10
+  },
+  {
+    "slug": "shreyanasanatha",
+    "name": "Shreyanasanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 11
+  },
+  {
+    "slug": "vasupujya",
+    "name": "Vasupujya",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 12
+  },
+  {
+    "slug": "vimalanatha",
+    "name": "Vimalanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 13
+  },
+  {
+    "slug": "anantanatha",
+    "name": "Anantanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 14
+  },
+  {
+    "slug": "dharmanatha",
+    "name": "Dharmanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 15
+  },
+  {
+    "slug": "shantinatha",
+    "name": "Shantinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 16
+  },
+  {
+    "slug": "kunthunatha",
+    "name": "Kunthunatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 17
+  },
+  {
+    "slug": "aranatha",
+    "name": "Aranatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 18
+  },
+  {
+    "slug": "mallinatha",
+    "name": "Mallinatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 19
+  },
+  {
+    "slug": "munisuvrata",
+    "name": "Munisuvrata",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 20
+  },
+  {
+    "slug": "naminatha",
+    "name": "Naminatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 21
+  },
+  {
+    "slug": "neminatha",
+    "name": "Neminatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 22
+  },
+  {
+    "slug": "parshvanatha",
+    "name": "Parshvanatha",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 23
+  },
+  {
+    "slug": "mahavira",
+    "name": "Mahavira",
+    "tradition": "jain",
+    "group": "tirthankara",
+    "order": 24
+  },
+  {
+    "slug": "bahubali",
+    "name": "Bahubali",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "bharata-chakravartin",
+    "name": "Bharata Chakravartin",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "gautama-swami",
+    "name": "Gautama Swami",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "chandanbala",
+    "name": "Chandanbala",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "rajimati",
+    "name": "Rajimati",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "brahmi-and-sundari",
+    "name": "Brahmi and Sundari",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "marudevi",
+    "name": "Marudevi",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "trishala",
+    "name": "Trishala",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "kundakunda",
+    "name": "Kundakunda",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "hemachandra",
+    "name": "Hemachandra",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "bhadrabahu",
+    "name": "Bhadrabahu",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "sthulabhadra",
+    "name": "Sthulabhadra",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "chandragupta-maurya",
+    "name": "Chandragupta Maurya",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "kharavela",
+    "name": "Kharavela",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "shalibhadra",
+    "name": "Shalibhadra",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "padmavati",
+    "name": "Padmavati",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "ambika",
+    "name": "Ambika",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "chakreshvari",
+    "name": "Chakreshvari",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "dharanendra",
+    "name": "Dharanendra",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "acharya-tulsi",
+    "name": "Acharya Tulsi",
+    "tradition": "jain",
+    "group": "jain-figure"
+  },
+  {
+    "slug": "guru-nanak",
+    "name": "Guru Nanak",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 1
+  },
+  {
+    "slug": "guru-angad",
+    "name": "Guru Angad",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 2
+  },
+  {
+    "slug": "guru-amar-das",
+    "name": "Guru Amar Das",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 3
+  },
+  {
+    "slug": "guru-ram-das",
+    "name": "Guru Ram Das",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 4
+  },
+  {
+    "slug": "guru-arjan",
+    "name": "Guru Arjan",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 5
+  },
+  {
+    "slug": "guru-hargobind",
+    "name": "Guru Hargobind",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 6
+  },
+  {
+    "slug": "guru-har-rai",
+    "name": "Guru Har Rai",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 7
+  },
+  {
+    "slug": "guru-har-krishan",
+    "name": "Guru Har Krishan",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 8
+  },
+  {
+    "slug": "guru-tegh-bahadur",
+    "name": "Guru Tegh Bahadur",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 9
+  },
+  {
+    "slug": "guru-gobind-singh",
+    "name": "Guru Gobind Singh",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 10
+  },
+  {
+    "slug": "guru-granth-sahib",
+    "name": "Guru Granth Sahib",
+    "tradition": "sikh",
+    "group": "guru",
+    "order": 11
+  },
+  {
+    "slug": "bhai-mardana",
+    "name": "Bhai Mardana",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bebe-nanaki",
+    "name": "Bebe Nanaki",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "mata-khivi",
+    "name": "Mata Khivi",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "mata-gujri",
+    "name": "Mata Gujri",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "mata-sahib-kaur",
+    "name": "Mata Sahib Kaur",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "mata-sundari",
+    "name": "Mata Sundari",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "baba-buddha",
+    "name": "Baba Buddha",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-gurdas",
+    "name": "Bhai Gurdas",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-mati-das",
+    "name": "Bhai Mati Das",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-sati-das",
+    "name": "Bhai Sati Das",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-dayala",
+    "name": "Bhai Dayala",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "sahibzade",
+    "name": "Sahibzade",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "panj-pyare",
+    "name": "Panj Pyare",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "mai-bhago",
+    "name": "Mai Bhago",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "baba-deep-singh",
+    "name": "Baba Deep Singh",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "banda-singh-bahadur",
+    "name": "Banda Singh Bahadur",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-kanhaiya",
+    "name": "Bhai Kanhaiya",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-taru-singh",
+    "name": "Bhai Taru Singh",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "bhai-mani-singh",
+    "name": "Bhai Mani Singh",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "maharaja-ranjit-singh",
+    "name": "Maharaja Ranjit Singh",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  },
+  {
+    "slug": "hari-singh-nalwa",
+    "name": "Hari Singh Nalwa",
+    "tradition": "sikh",
+    "group": "sikh-figure"
+  }
+]

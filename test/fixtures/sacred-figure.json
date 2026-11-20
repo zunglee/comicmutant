@@ -1,0 +1,292 @@
+{
+  "slug": "ganga",
+  "name": "Ganga",
+  "aka": ["Bhagirathi", "Jahnavi", "Vishnupadi", "Mandakini", "Tripathaga", "Shivapriya"],
+  "native": "गंगा",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "Goddess of the sacred river Ganga",
+  "summary": "Hindus honour Ganga as both a river and a goddess whose waters are believed to purify. Many Puranas say she flowed down from heaven to earth, softened by Shiva's hair.",
+  "about": "Ganga is the goddess worshipped in the river Ganges, which runs from the Himalayas to the Bay of Bengal. The Ramayana calls her the eldest daughter of the mountain king Himavat, making her Parvati's elder sister. The Bhagavata Purana says her water began where Vamana's toe pierced the shell of the universe, while the Devi Bhagavata Purana tells of a time when she was one of Vishnu's wives. Texts such as the Ramayana and Mahabharata describe how king Bhagiratha's long penance persuaded her to come down to earth, with Shiva catching her fall. She is honoured at Gangotri, Haridwar, Prayagraj and Varanasi, and at festivals like Ganga Dussehra and the Kumbh Mela. Tradition pictures her as gentle, with no fierce form.",
+  "kidSummary": "Ganga is the goddess of India's great river, the Ganges. Stories say she once lived in heaven, and a king named Bhagiratha prayed for years to bring her to earth. Shiva caught her in his hair so she would come down gently, and she became a river that gives water to millions of people.",
+  "story": [
+    {
+      "title": "A river in heaven",
+      "text": "In many Puranas, Ganga lives in heaven as a river of pure, shining water, long before she ever touches the earth."
+    },
+    {
+      "title": "Bhagiratha's wish",
+      "text": "King Bhagiratha wanted to help his ancestors, the sons of King Sagara. He prayed for a very long time so that Ganga would come down to earth."
+    },
+    {
+      "title": "Ganga agrees",
+      "text": "Ganga said yes, but her fall from heaven would be so strong that the earth might break. Bhagiratha asked Shiva to help."
+    },
+    {
+      "title": "Shiva catches her",
+      "text": "Shiva let Ganga fall into his tangled hair. She wandered inside it, and then he released her in gentle streams."
+    },
+    {
+      "title": "Following the king",
+      "text": "Bhagiratha led the way and Ganga followed him across the land. Because of this, one of her names is Bhagirathi."
+    },
+    {
+      "title": "A river for everyone",
+      "text": "On the way, sage Jahnu drank her up by mistake and then let her out again, so she is also called Jahnavi. Today the river gives water and holy meaning to many people."
+    }
+  ],
+  "teaches": [
+    "Patient effort, like Bhagiratha's, can bring great good",
+    "Water and rivers deserve care and respect",
+    "Strength can be gentle when it is guided well"
+  ],
+  "symbol": "wave",
+  "emblems": ["Makara or crocodile (mount)", "Water pot (kalasha)", "White lotus", "Flowing water"],
+  "family": [
+    { "relation": "Sister", "name": "Parvati", "slug": "parvati" },
+    { "relation": "Husband of the Mahabharata story", "name": "Shantanu", "slug": "shantanu" },
+    { "relation": "Son", "name": "Bhishma", "slug": "bhishma" },
+    { "relation": "Brought her to earth", "name": "Bhagiratha", "slug": "bhagiratha" },
+    { "relation": "Held her fall", "name": "Shiva", "slug": "shiva" }
+  ],
+  "texts": [
+    "Ramayana",
+    "Mahabharata",
+    "Bhagavata Purana",
+    "Devi Bhagavata Purana",
+    "Rigveda (Nadistuti hymn)"
+  ],
+  "places": ["Gangotri", "Haridwar", "Prayagraj", "Varanasi", "Kalighat, Kolkata"],
+  "festivals": ["Ganga Dussehra", "Ganga Jayanti", "Kumbh Mela"],
+  "facts": [
+    {
+      "text": "The Ramayana calls Ganga the eldest daughter of the mountain king Himavat, which makes her the older sister of the goddess Parvati.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Ganga's water began when Vamana's toenail pierced the shell of the universe; it turned pink washing saffron from Vishnu's feet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Devi Bhagavata Purana says Ganga was once one of Vishnu's three wives with Lakshmi and Saraswati, until a quarrel and curses turned her into a river.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata, the sage Agastya drank the ocean to reveal hidden asuras, and in the Ganga story this leaves the sea dry before her descent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Epic tradition says the gaze of sage Kapila burned the 60,000 sons of King Sagara, and Bhagiratha later prayed to bring Ganga down to their ashes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Stories say Ganga's descent from heaven would have cracked the earth, so Shiva caught her in his matted hair and let her flow out gently.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Ganga is called Jahnavi because the sage Jahnu drank her waters and then let them out again from his ear.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Her name Tripathaga means that she flows in three worlds: heaven, earth and the underworld.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Ganga marries King Shantanu and has eight sons, who are Vasus; the eighth, Bhishma, is returned to Shantanu when he is about ten.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Ganga is usually shown with a white crown, sitting on a crocodile-like mount, holding a water lily in one hand and sometimes a flute in the other.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In four-armed images she holds a water pot, a lily and a rosary while a fourth hand shows a gesture of protection.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Since the Gupta era, Ganga and Yamuna have often been carved as a pair guarding the doorways of Hindu temples.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yamuna_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Unlike many Hindu goddesses, Ganga has no fierce or destructive form, even though the real river can flood powerfully.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ganga Dussehra falls on the tenth day of the bright half of Jyeshtha, around late May or June, and a dip is said to wash away ten sins.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Ganga Jayanti is held on the seventh day of the bright half of Vaishakha and marks her rebirth in the river.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kumbh Mela moves between Prayagraj, Haridwar, Nashik and Ujjain, and UNESCO added it to its intangible heritage list in 2017.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Reports say about 660 million people joined the 2025 Maha Kumbh at Prayagraj, where Ganga and Yamuna meet the Saraswati of tradition.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kumbh_Mela",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Ganges is roughly 2,525 km long, and its Bhagirathi branch starts at Gomukh on the Gangotri Glacier, about 4,356 metres up.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition counts the Bhagirathi as the Ganga's source, but scientists treat the longer Alaknanda as the main headstream.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Five sacred meeting points, the Panch Prayag, lie on the Alaknanda, and the last, Devprayag, is where the main Ganges begins.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Ganges delta, shared with the Brahmaputra, covers about 64,000 square kilometres and is called the largest delta on Earth.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "About 140 kinds of fish live in the Ganges, along with the South Asian river dolphin, a freshwater dolphin found in the river.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganges",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Mauritius, the crater lake Ganga Talao is seen as Ganga herself, and in 1972 water from Gomukh was mixed into it.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In Thailand, floating krathong boats at Loy Krathong thank a water goddess called Phra Mae Khongkha, who is linked with Ganga.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda's river hymn, the Nadistuti, lists rivers from east to west, and Ganga is named in it as one of the great rivers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who caught Ganga in his hair so she would not shake the earth?",
+      "options": ["Brahma", "Shiva", "Indra", "Hanuman"],
+      "answer": 1,
+      "why": "In the stories, Shiva let her fall into his hair and released her gently."
+    },
+    {
+      "q": "Why is Ganga also called Bhagirathi?",
+      "options": [
+        "She was born in Bhagirath town",
+        "Her mount is a bird",
+        "King Bhagiratha prayed to bring her down",
+        "She walks east"
+      ],
+      "answer": 2,
+      "why": "Bhagiratha's long prayers brought her to earth, so the river carries his name."
+    },
+    {
+      "q": "Which sage drank Ganga's waters and gave her the name Jahnavi?",
+      "options": ["Narada", "Vyasa", "Agastya", "Jahnu"],
+      "answer": 3,
+      "why": "Jahnu drank her up and later released her, giving the name Jahnavi."
+    },
+    {
+      "q": "What does Tripathaga, one of her names, mean?",
+      "options": [
+        "Flows in three worlds",
+        "Has three crowns",
+        "Born on day three",
+        "Rides three animals"
+      ],
+      "answer": 0,
+      "why": "Tripathaga means she is said to flow in heaven, earth and the underworld."
+    }
+  ],
+  "related": [
+    "yamuna",
+    "shiva",
+    "parvati",
+    "bhagiratha",
+    "bhishma",
+    "shantanu",
+    "saraswati",
+    "vishnu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ganga_(goddess)",
+    "river": "https://en.wikipedia.org/wiki/Ganges",
+    "kumbh": "https://en.wikipedia.org/wiki/Kumbh_Mela"
+  },
+  "depth": "full",
+  "palette": { "c1": "#cfe8f0", "c2": "#f3ecd9" },
+  "order": 7
+}

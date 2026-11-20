@@ -1,0 +1,183 @@
+{
+  "slug": "ajitanatha",
+  "name": "Ajitanatha",
+  "aka": ["Ajita"],
+  "native": "अजितनाथ",
+  "role": "Second Tirthankara of the present age",
+  "order": 2,
+  "summary": "Jains revere Ajitanatha, whose name means \"unconquerable\", as the second Tirthankara, born in Ayodhya and linked with the elephant and Shikharji.",
+  "about": "Jain tradition counts Ajitanatha as the second of the 24 Tirthankaras of our descending age. Texts say he was born in Ayodhya, also called Saketa or Vinita, to King Jitashatru and Queen Vijaya of the Ikshvaku line, and that his younger cousin Sagara became the second chakravartin. His name means \"invincible\", and the Shvetambara and Digambara traditions explain it with different tales. Jains believe he gave up the kingdom, reached omniscience under a saptaparna tree, taught a large community, and attained liberation on Mount Shikharji. His emblem is the elephant.",
+  "kidSummary": "Ajitanatha is the second Tirthankara in Jainism. His name means \"unconquerable\" and his symbol is the elephant. Jain stories say he was a prince in Ayodhya who became a monk and found liberation on Shikharji hill.",
+  "story": [
+    {
+      "title": "A prince in Ayodhya",
+      "text": "Jain texts say Ajitanatha was born into the royal family of Ayodhya, to King Jitashatru and Queen Vijaya."
+    },
+    {
+      "title": "How he got his name",
+      "text": "One Shvetambara tale says his mother beat the king at dice while expecting him, so the baby was called Ajita, the unbeaten."
+    },
+    {
+      "title": "Becoming a monk",
+      "text": "As an adult he gave up the kingdom and chose a life of meditation and few possessions."
+    },
+    {
+      "title": "Full knowledge",
+      "text": "Jains believe he reached omniscience while meditating under a saptaparna tree, and then taught many monks and nuns."
+    },
+    {
+      "title": "Liberation on Shikharji",
+      "text": "Texts say he reached liberation on Mount Shikharji, where pilgrims today honour his footprints."
+    }
+  ],
+  "teaches": [
+    "Inner strength is real victory",
+    "Detach from possessions",
+    "Respect every living being"
+  ],
+  "symbol": "star",
+  "emblems": ["Elephant (lanchana)", "Saptaparna tree", "Golden colour"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Jitashatru"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Vijaya"
+    },
+    {
+      "relation": "Cousin",
+      "name": "King Sagara"
+    }
+  ],
+  "texts": [
+    "Trishashti Shalaka Purusha Charitra",
+    "Uttarapurana",
+    "Ajita Purana",
+    "Ajitashanti Stotra"
+  ],
+  "places": ["Ayodhya", "Mount Shikharji", "Taranga", "Mathura Chaurasi", "Gerusoppa"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His name Ajita means unbeaten. Hemachandra says the queen kept winning at dice while carrying him, while the Digambara Uttarapurana says no sin or false teacher could defeat him.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition places his liberation on Shikharji in Jharkhand, where 20 of the 24 Tirthankaras are believed to have reached it. He is said to have gone there with 1,000 monks, and the Siddhavar Koot shrine holds his footprints, not a statue.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After becoming omniscient, a Tirthankara preaches in a three-tiered hall built by gods, and Jains believe every listener hears in their own language.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tirthankara",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "King Kumarapala built the Taranga temple in Gujarat in 1161 on the advice of the scholar Hemachandra. Its white marble main image, about 2.75 metres tall and set with gems, replaced an original that was destroyed. The present one dates to 1422.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A marble block in a shrine beside the main Taranga temple carries 208 small carvings of the Tirthankara, like a stone family album.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Digambara tradition says 35 million monastics reached liberation on the hill at Taranga, which makes it one of the holiest places in that tradition.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Mathura Chaurasi in Uttar Pradesh, whose main image is a white marble figure of him, Jains also honour the spot where Jambuswami, the last omniscient being of our age, is said to have reached liberation. His footprints are worshipped beside the image.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain accounts call King Sagara his younger relative and the second chakravartin. They say Sagara's 60,000 sons died after the eldest, Janhu, flooded a Naga kingdom with Ganga water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/King_Sagara",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Kannada poet Ranna wrote a long poetic epic about him, the Ajitha Purana, in 993 CE. A second work, the Ajitashanti Stotra by the monk Nandisena in the 7th century, praises him together with the 16th Tirthankara, Shantinatha.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gujarat's Akota hoard held bronze images of him from the 6th to 8th centuries, so his figure was already being cast and worshipped in western India about 1,300 years ago.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts give his height as 450 bows, which one conversion makes about 1,350 metres, and his lifespan as 72 lakh purvas, a span far beyond any human count.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ajitanatha",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ajita mean?",
+      "options": ["Golden", "Unconquerable", "First", "Peaceful"],
+      "answer": 1,
+      "why": "It means invincible or unconquerable."
+    },
+    {
+      "q": "What is Ajitanatha's emblem?",
+      "options": ["Elephant", "Bull", "Monkey", "Horse"],
+      "answer": 0,
+      "why": "Carved on the base of images."
+    },
+    {
+      "q": "In one Shvetambara tale, what game did his mother keep winning while expecting him?",
+      "options": ["Chess", "Dice", "Archery", "Wrestling"],
+      "answer": 1,
+      "why": "Her wins gave him the name Ajita, the unbeaten."
+    },
+    {
+      "q": "Which king completed the great Taranga temple for Ajitanatha in 1161?",
+      "options": ["Ashoka", "Kumarapala", "Akbar", "Bimbisara"],
+      "answer": 1,
+      "why": "He built it on Hemachandra's advice."
+    }
+  ],
+  "related": ["rishabhanatha", "sambhavanatha", "mahavira", "parshvanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ajitanatha",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "tirthankara": "https://en.wikipedia.org/wiki/Tirthankara",
+    "cosmology": "https://en.wikipedia.org/wiki/Jain_cosmology",
+    "taranga": "https://en.wikipedia.org/wiki/Taranga_Jain_temple",
+    "sagara": "https://en.wikipedia.org/wiki/King_Sagara"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f2e3b3",
+    "c2": "#cfdcc8"
+  },
+  "tradition": "jain",
+  "group": "tirthankara"
+}

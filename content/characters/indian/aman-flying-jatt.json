@@ -1,0 +1,282 @@
+{
+  "slug": "aman-flying-jatt",
+  "name": "Flying Jatt",
+  "realName": "Aman Dhillon",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Balaji Motion Pictures",
+  "summary": "A Sikh martial arts teacher who gains flight and strength in Remo D'Souza's 2016 Hindi film A Flying Jatt, played by Tiger Shroff. His powers are tied to a sacred tree.",
+  "origin": "Aman Dhillon is a martial arts teacher in a Punjabi neighbourhood. In the film, a lightning strike while he touches a sacred banyan tree gives him superhuman abilities, and he becomes the Flying Jatt. Remo D'Souza wrote the story and directed, with Tiger Shroff in the lead.",
+  "creators": [
+    "Remo D'Souza (story, director)",
+    "Tushar Hiranandani (writer)",
+    "Aakash Kaushik (writer)",
+    "Madhur Sharma (writer)",
+    "Ekta Kapoor and Shobha Kapoor (producers)"
+  ],
+  "firstAppearance": {
+    "title": "A Flying Jatt",
+    "issue": "Film",
+    "year": 2016
+  },
+  "powers": [
+    "Flight",
+    "Invulnerability",
+    "Superhuman strength and speed",
+    "Absorbs information through his fingertips",
+    "Martial arts skill"
+  ],
+  "affiliations": [],
+  "storyline": [
+    {
+      "era": "Origin",
+      "years": "2016",
+      "title": "Lightning and the banyan",
+      "beat": "Aman, a gentle martial arts teacher, gets his powers after being struck while touching the community's sacred tree, which bears a khanda."
+    },
+    {
+      "era": "Doubt",
+      "years": "2016",
+      "title": "Afraid of heights",
+      "beat": "He fears heights, so he flies low at first, while his mother and brother Rohit push him to accept the hero's role."
+    },
+    {
+      "era": "Rival",
+      "years": "2016",
+      "title": "A pollution-fed enemy",
+      "beat": "Raka, a mercenary hired by a builder, gets pollution-fuelled powers and grows stronger in smog."
+    },
+    {
+      "era": "Identity",
+      "years": "2016",
+      "title": "Accepting the dastaar",
+      "beat": "Aman, who once refused a turban after being mocked for it, eventually takes it up and uses his kada in the final fight."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Raka is played by Nathan Jones, an Australian wrestler, as both Strange Horizons and Wikipedia note.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "The Kathmandu Post found it odd that a quote credited to the director, about Mother Earth having no alternative, fills the screen near the end.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "The film opened on 25 August 2016, the Janmashtami weekend.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Reviews split sharply: Hindustan Times gave 1.5 stars and DNA gave 2, while the Times of India gave 3.5 out of 5.",
+      "spice": 3
+    },
+    {
+      "type": "fact",
+      "text": "A tie-in graphic novel and a mobile game continued the franchise beyond the film.",
+      "spice": 1
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What gives Aman Dhillon his powers in A Flying Jatt?",
+      "options": [
+        "A radioactive bite",
+        "A lightning strike at a sacred banyan tree",
+        "A magic bracelet",
+        "A scientist's serum"
+      ],
+      "answer": 1,
+      "why": "He is struck by lightning while touching the community's banyan tree."
+    },
+    {
+      "q": "Who directed A Flying Jatt?",
+      "options": ["Rohit Shetty", "Remo D'Souza", "Karan Johar", "Farah Khan"],
+      "answer": 1,
+      "why": "Remo D'Souza, a choreographer-turned-director, wrote and directed it."
+    },
+    {
+      "q": "What is Aman afraid of?",
+      "options": ["Water", "Fire", "Heights", "Snakes"],
+      "answer": 2,
+      "why": "He is afraid of heights, so he flies low."
+    },
+    {
+      "q": "What does Raka's power grow stronger in?",
+      "options": ["Smog", "Snow", "Rain", "Darkness"],
+      "answer": 0,
+      "why": "Raka's strength grows in polluted air."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#f59e0b",
+      "c2": "#1e3a8a",
+      "c3": "#fef3c7"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "Saffron and sky-blue, with a banyan at his back."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+    "strangehorizons": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+    "kathmandupost": "https://kathmandupost.com/miscellaneous/2016/09/03/the-turbaned-crusader"
+  },
+  "timeline": [
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Theatrical release",
+      "note": "A Flying Jatt opens in India on 25 August over Janmashtami weekend."
+    },
+    {
+      "year": 2016,
+      "kind": "turn",
+      "title": "Mixed reviews",
+      "note": "Critics praise the visual effects and music but fault the script and tone; it earns about Rs 56 crore."
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "A six-song soundtrack",
+      "note": "Zee Music releases the Sachin-Jigar album, including Daler Mehndi's Raj Karega Khalsa."
+    },
+    {
+      "year": 2016,
+      "kind": "screen",
+      "title": "Mobile game tie-in",
+      "note": "Hungama Gameshastra's mobile game based on the film is released as a tie-in during the film's release, per Wikipedia."
+    }
+  ],
+  "heat": 40,
+  "facts": [
+    {
+      "text": "Because he fears heights, Aman cruises at about the height of a car, greeting drivers and reminding them to wear seatbelts and skip their phones.",
+      "kind": "powers",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 9
+    },
+    {
+      "text": "The village's wish-granting banyan has a Sikh khanda carved in it, and the same khanda is branded on Aman's back after the strike.",
+      "kind": "origin",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "The final showdown moves into space, where Raka loses the pollution that feeds him, and Aman wins using his kada, the Sikh steel bracelet.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 9
+    },
+    {
+      "text": "Villain Raka is hit by lightning and dumped in factory waste, gaining powers that grow in smog.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 7
+    },
+    {
+      "text": "Aman's mother tells him his late father, Sardar Kartar Singh Dhillon, trained at Shaolin and was known as the Flying Jatt, so Aman inherits the name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 9
+    },
+    {
+      "text": "After his powers show up, his mother makes him a costume and screens superhero films for inspiration, then declares him a superhero at once.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 7
+    },
+    {
+      "text": "She also sends him to buy vegetables on the way home from patrol, reasoning that the costume may win him a discount on the lauki.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "Strange Horizons says the film stages a big rescue as a slow-motion dance to a song, after which Aman flies off so low that he has to excuse himself through news crews.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "When Aman is badly hurt, his brother Rohit puts on the Flying Jatt costume to protect people, and Rohit's sacrifice sends Aman into the final fight wearing a dastaar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 7
+    },
+    {
+      "text": "Aman refuses the turban after schoolmates teased him with a midnight joke about sardars, and his mother answers by retelling a popular story of Sikhs raiding Nader Shah's camps at midnight to free captives.",
+      "kind": "culture",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "A graphic novel by Thought Bubbles Studio Planet continues the story from where the film ends, and Hungama Gameshastra made a mobile game.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 7
+    },
+    {
+      "text": "Aman is such a stickler for the rules that he waits for traffic lights to change even while he is flying, according to the Kathmandu Post.",
+      "kind": "story",
+      "source": "https://kathmandupost.com/miscellaneous/2016/09/03/the-turbaned-crusader",
+      "interest": 8
+    },
+    {
+      "text": "Stray dogs chase Aman through the streets, and he politely begs them to chase a passing car instead.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "Strange Horizons says his mother literally shoves him out of a window, telling him to go and be useful.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 7
+    },
+    {
+      "text": "While picking a costume, Aman tries references from the Fantastic Four, the Hulk and Superman, and even fights tennis balls with nunchaku in Bruce Lee style.",
+      "kind": "story",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 8
+    },
+    {
+      "text": "Raka speaks about half his lines in Hindi, and Strange Horizons praises how hard Nathan Jones works to sound as if he knows the language.",
+      "kind": "screen",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 7
+    },
+    {
+      "text": "Jacqueline Fernandez plays Kirti, the environment science teacher Aman loves, and Amrita Singh plays his mother, Mrs Dhillon.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 7
+    },
+    {
+      "text": "Strange Horizons likens the pollution-versus-hero set-up to an Indian live-action version of the 1990s cartoon Captain Planet.",
+      "kind": "culture",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 7
+    },
+    {
+      "text": "Headlines in May 2015, cited on Wikipedia, stressed that Tiger Shroff would play the Flying Jatt, not the Flying Sikh as the character had first been called.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/A_Flying_Jatt",
+      "interest": 7
+    },
+    {
+      "text": "Aman avoids the dastaar at first because, in Sikh tradition, wearing it marks the head of the household and he is not ready for that responsibility.",
+      "kind": "culture",
+      "source": "https://strangehorizons.com/wordpress/non-fiction/reviews/a-flying-jatt/",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Flying Jatt is Aman Dhillon, a gentle martial arts teacher who gets powers from a lightning strike at a sacred tree. He is scared of heights, so he flies low, and with his mum's help he stops a villain who grows stronger in smog."
+}

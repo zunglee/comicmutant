@@ -1,0 +1,261 @@
+{
+  "slug": "maricha",
+  "name": "Maricha",
+  "aka": ["Mareecha"],
+  "native": "मारीच",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Shape-shifting rakshasa of the golden deer episode",
+  "summary": "Maricha is a shape-changing rakshasa in the Ramayana, son of Tataka. He is the one who takes the form of the golden deer that draws Rama away from Sita in the forest.",
+  "about": "In the Valmiki Ramayana and later retellings, Maricha is the son of Tataka, a yakshini cursed into a rakshasi, and the brother of Subahu. As a young rakshasa, he disturbs the sage Vishvamitra's fire rite until the young Rama sends him flying into the ocean with an arrow. Years later, Ravana asks Maricha to help take Sita. Texts say Maricha warns Ravana against the plan, remembering Rama's power, but he is forced to agree. He becomes a golden deer in the forest of Panchavati and lures Rama away. As he falls, he calls out in Rama's voice, and Sita sends Lakshmana to help. Other versions describe him as a changed ascetic and a devotee of Rama, while some tellings say he preferred to die by Rama's arrow.",
+  "kidSummary": "Maricha is a magic shape-shifter in the Ramayana. Ravana orders him to become a beautiful golden deer so that Sita will ask Rama to catch it. Maricha knows that Rama is very strong and tells Ravana not to try, but in the end he has to follow the plan, and the golden deer leads Rama deep into the forest.",
+  "story": [
+    {
+      "title": "A boy meets Rama",
+      "text": "When Maricha and his brother Subahu trouble the sages at Vishvamitra's fire rite, young Rama fires an arrow that carries Maricha far into the ocean. Rama spares his life."
+    },
+    {
+      "title": "A quiet hermit",
+      "text": "In some tellings, after that day Maricha gives up his rough ways and lives like a hermit, with matted hair and bark clothes, far away by the sea."
+    },
+    {
+      "title": "Ravana's visit",
+      "text": "Years later Ravana arrives in his golden chariot to ask Maricha for help. Maricha warns him that fighting Rama will end badly, but Ravana insists."
+    },
+    {
+      "title": "The golden deer",
+      "text": "Maricha appears at Panchavati as a golden deer with silver spots. Sita asks Rama to catch it for her. Lakshmana suspects a trick, but Rama follows the deer deep into the forest."
+    },
+    {
+      "title": "A cry for help",
+      "text": "When Rama's arrow strikes, Maricha takes his real form and cries out in Rama's voice. Hearing it, Sita sends Lakshmana to help, leaving her alone."
+    }
+  ],
+  "teaches": [
+    "Be careful of things that look too good to be true",
+    "A wise warning is worth listening to",
+    "Think about the people who depend on you"
+  ],
+  "symbol": "tree",
+  "emblems": ["Golden deer", "Shape-shifting", "Hermitage by the sea"],
+  "family": [
+    {
+      "relation": "Mother",
+      "name": "Tataka"
+    },
+    {
+      "relation": "Brother",
+      "name": "Subahu"
+    },
+    {
+      "relation": "King he served",
+      "name": "Ravana",
+      "slug": "ravana"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": ["Valmiki Ramayana", "Adhyatma Ramayana"],
+  "places": ["Dandaka forest", "Panchavati"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Rama's Manavastra arrow struck Maricha's chest and flung him a hundred leagues into the ocean. Rama spared his life, while Subahu and other rakshasas were killed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "With Ravana's help, Tataka and her sons took the realms of Malada and Karusha near the Sarayu and turned them into a dense forest. Tradition says even the sun and clouds kept away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vishvamitra's rite ran quietly for five days. On the sixth day the fire faltered, and Maricha and Subahu burst from the treetops with a horde of rakshasas, roaring like black storm clouds.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ravana travelled to Maricha in a golden chariot drawn by mules with monstrous faces, which made a thundering sound as it moved.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyaitrans35.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Ravana names Rama, Maricha's mouth goes dry and he trembles, according to the Valmiki Ramayana, and he recalls the arrow that once struck him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga36/aranyaitrans36.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki Aranya 41, after Ravana's threat Maricha decides it is better to fall to an enemy's arrow, Rama's, than at the hand of his own king and kinsman.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga41/aranyaitrans41.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Ravana offered Maricha half his kingdom if the plan worked, but threatened to kill him on the spot if he refused. Maricha agreed after warning that it would end in doom for Ravana and Lanka.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When struck, Maricha leapt as high as a palm tree, roared and dropped his deer shape to show his huge rakshasa body.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyaitrans44.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "As he died, he copied Rama's voice crying out for Sita and Lakshmana, to lure Lakshmana away.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyaitrans44.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Maricha was the son of the rakshasa Sunda and the yakshini Tataka. After the sage Agastya burned Sunda, Tataka and her sons attacked him, and he cursed all three into fierce rakshasas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the forest, Maricha returned as a beast with a flaming tongue and sharp horns, with two companions. Rama shot three arrows at once, which killed the companions, and Maricha escaped.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After his escape, Maricha tells Ravana, he saw Rama in every tree, dressed in bark and holding a bow, and even imagined thousands of Ramas filling the forest.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyaitrans39.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Maricha tells Ravana that any word beginning with 'ra', such as ratna or ratha, frightens him, since he fears the next syllable will be 'ma'. Ravana's own name has the same effect.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga39/aranyaitrans39.htm",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In traditional editions of the Aranya Kanda, Maricha first tries to stop Ravana by reminding him of Vishnu's incarnations and telling him to be content with what he has. Critical-edition scholars leave this chapter out.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/aranya/sarga31/aranyaitrans31.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Adhyatma Ramayana has Maricha reason that death by Rama's arrow would free him from the ocean of rebirth, while death at Ravana's hand would lead to hell.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc73132.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Adhyatma Ramayana, when Rama's arrow strikes, light rises from Maricha's body and enters Rama, a sight said to astonish the gods and mark his liberation.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc73132.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When the golden deer appeared, Lakshmana warned it might be Maricha, who tricked royal hunters. Rama replied that if it was such a rakshasa, killing it was his duty.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the golden deer began to graze near Rama's hermitage, the other forest animals sensed something wrong and ran away in fear.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sita said that if the deer were caught it could live as a pet and go back to Ayodhya as a keepsake of their fourteen years in exile.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another telling, Maricha fled into the ocean merely at the sound of Rama's bow, long before the golden deer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Maricha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What shape did Maricha take to lure Sita and Rama?",
+      "options": ["A golden deer", "A white eagle", "A black bear", "A silver fish"],
+      "answer": 0,
+      "why": "He became a golden deer with silver spots."
+    },
+    {
+      "q": "Who was Maricha's mother?",
+      "options": ["Kaikasi", "Tataka", "Mandodari", "Kaikeyi"],
+      "answer": 1,
+      "why": "Tataka was his mother."
+    },
+    {
+      "q": "In his earlier meeting, where did Rama's arrow send him?",
+      "options": ["Into a cave", "Up to the sky", "Into the ocean", "Into a river"],
+      "answer": 2,
+      "why": "The arrow flung him far into the ocean."
+    },
+    {
+      "q": "Whose voice did Maricha copy as he died?",
+      "options": ["Hanuman's", "Ravana's", "Sita's", "Rama's"],
+      "answer": 3,
+      "why": "He cried out in Rama's voice to worry Sita."
+    },
+    {
+      "q": "Who suspected the deer was a trick?",
+      "options": ["Lakshmana", "Sita", "Hanuman", "Ravana"],
+      "answer": 0,
+      "why": "Lakshmana felt it was Maricha in disguise."
+    }
+  ],
+  "related": [
+    "ravana",
+    "rama",
+    "sita",
+    "lakshmana",
+    "shurpanakha",
+    "vishvamitra",
+    "agastya",
+    "mandodari"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Maricha",
+    "valmiki-35": "https://www.valmikiramayan.net/utf8/aranya/sarga35/aranyaitrans35.htm",
+    "valmiki-38": "https://www.valmikiramayan.net/utf8/aranya/sarga38/aranyaitrans38.htm",
+    "valmiki-44": "https://www.valmikiramayan.net/utf8/aranya/sarga44/aranyaitrans44.htm",
+    "triveni": "https://www.wisdomlib.org/history/compilation/triveni-journal/d/doc73132.html"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#D8C490",
+    "c2": "#C2D2B8"
+  },
+  "order": 60
+}

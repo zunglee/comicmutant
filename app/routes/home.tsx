@@ -12,6 +12,7 @@ import {
   VoteBar,
 } from '~/components/bits';
 import { IconArrow, IconPad } from '~/components/icons';
+import { SacredDoorBanner } from '~/components/sacred/sections';
 import { CLIP_GATE } from '~/lib/clips/gate';
 import { SFX } from '~/lib/clips/motifs';
 import { VERSUS_PROMPTS } from '~/lib/community';
@@ -211,6 +212,8 @@ export default function Home({ loaderData: d }: Route.ComponentProps) {
         </div>
       </div>
 
+      <SacredDoorBanner />
+
       {/* ── universes ── */}
       <section className="mx-auto max-w-7xl px-4 pt-20">
         <SectionHead kicker="Pick a door" title="Six universes" />
@@ -287,8 +290,8 @@ export default function Home({ loaderData: d }: Route.ComponentProps) {
                 {/* Rows enter from opposite sides; native scroll + snap, so touch, wheel and keys all work. */}
                 <m.ul
                   className="-mx-4 flex snap-x snap-mandatory gap-4 overflow-x-auto scroll-px-4 px-4 pt-1 pb-4"
-                  initial={{ x: row ? 60 : -60, opacity: 0.4 }}
-                  whileInView={{ x: 0, opacity: 1 }}
+                  initial={{ x: row ? 60 : -60 }}
+                  whileInView={{ x: 0 }}
                   viewport={{ once: true, margin: '-60px' }}
                   transition={{ type: 'spring', stiffness: 160, damping: 22, delay: ri ? 0 : 0.1 }}
                 >
@@ -331,7 +334,7 @@ export default function Home({ loaderData: d }: Route.ComponentProps) {
           <div className="panel halftone tilt-l space-y-4 p-6">
             <p className="kicker">Rumour of the day</p>
             <h2 className="h-display text-4xl">Psst… about {d.rumour.name}</h2>
-            <ScratchCard label="the rumour" className="rounded-md" foil={d.rumour.palette.c3}>
+            <ScratchCard label="the rumour" className="rounded-skin-s" foil={d.rumour.palette.c3}>
               <div className="bubble min-h-32 text-base">
                 <p>{d.rumour.text}</p>
                 {d.rumour.truth && (

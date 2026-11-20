@@ -1,0 +1,311 @@
+{
+  "slug": "sita",
+  "name": "Sita",
+  "aka": ["Janaki", "Vaidehi", "Maithili", "Bhumija", "Siya"],
+  "native": "सीता",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Princess of Mithila and wife of Rama in the Ramayana",
+  "summary": "In the Valmiki Ramayana, Sita is the daughter of King Janaka, found in a ploughed furrow. Hindus honour her as a model of courage, patience and steady goodness, and many see her as Lakshmi.",
+  "about": "Sita is the heroine of the Ramayana. In the Valmiki Ramayana, King Janaka of Mithila found her in the earth while ploughing, and she grew up as his daughter. She married Rama after he strung a great bow at her svayamvara, then followed him into forest exile for fourteen years. The text tells that Ravana carried her to Lanka, where she kept her dignity and her hope until Rama and his allies came. Later parts of the story describe her years at the hermitage of the sage Valmiki, where she raised her twin sons Lava and Kusha, and her return to the earth. Many Hindus regard her as an incarnation of Lakshmi, while other versions, from Jain, Buddhist, Thai and Javanese tellings, change her family and her story in surprising ways. Hindus remember her on Sita Navami and Vivaha Panchami.",
+  "kidSummary": "Sita is the brave and kind princess in the Ramayana. Stories say a king named Janaka found her in a freshly ploughed field and raised her as his daughter. She married Rama, walked with him into the forest, and stayed hopeful and gentle even in hard times. Many people see her as a hero of courage and kindness.",
+  "story": [
+    {
+      "title": "A baby in the field",
+      "text": "In the Valmiki Ramayana, King Janaka was ploughing a field when he found a baby girl in the furrow. He named her Sita, which is linked to the word for a furrow, and raised her as his own daughter."
+    },
+    {
+      "title": "The great bow",
+      "text": "When Sita grew up, Janaka said that whoever could string a huge bow could marry her. Prince Rama lifted and strung it with ease, and the two were married in Mithila."
+    },
+    {
+      "title": "Into the forest",
+      "text": "When Rama was sent to the forest for fourteen years, Sita chose to go with him. She loved the forest, the trees and the quiet, and she stayed cheerful even though life was simple."
+    },
+    {
+      "title": "A golden deer",
+      "text": "One day Sita saw a golden deer and asked Rama to fetch it. Ravana had sent the deer as a trick, and while the brothers were away he carried Sita off to his island city of Lanka."
+    },
+    {
+      "title": "Hope in Ashoka grove",
+      "text": "In Lanka, Sita stayed in a garden of Ashoka trees. She stayed brave and refused every offer Ravana made, and she held on to her hope until Hanuman arrived with Rama's ring."
+    },
+    {
+      "title": "A mother and a teacher's home",
+      "text": "In the later part of the story, Sita lived at sage Valmiki's hermitage. There she raised her sons Lava and Kusha, who learned the Ramayana and sang it. Finally, she returned to Mother Earth."
+    }
+  ],
+  "teaches": [
+    "Courage and dignity in hard times",
+    "Staying true to your values",
+    "Kindness and patience toward others",
+    "Respect for the earth and nature"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Furrow and plough", "Lotus", "Golden deer (in the story)", "Earth (Bhumi)"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Father (who found her)",
+      "name": "Janaka",
+      "slug": "janaka"
+    },
+    {
+      "relation": "Mother Earth",
+      "name": "Bhumi",
+      "slug": "bhumi"
+    },
+    {
+      "relation": "Younger sister",
+      "name": "Urmila",
+      "slug": "urmila"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Seen as an incarnation of",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Sons",
+      "name": "Lava and Kusha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas (Tulsidas)",
+    "Adbhuta Ramayana",
+    "Sita Upanishad",
+    "Dasaratha Jataka (Buddhist)",
+    "Ramakien (Thai)"
+  ],
+  "places": [
+    "Janakpur (Nepal)",
+    "Sitamarhi (Bihar)",
+    "Ayodhya (Kanak Bhawan)",
+    "Sita Samahit Sthal (Bhadohi)",
+    "Seetha Amman Temple (Sri Lanka)"
+  ],
+  "festivals": ["Sita Navami", "Vivaha Panchami", "Ramlila"],
+  "facts": [
+    {
+      "text": "The Rigveda mentions an earth goddess called Sita who gives good crops. Some scholars think she may be a very early root of the later Sita of the Ramayana.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain tellings give Sita a brother named Bhamandal. In them he is kidnapped soon after birth, grows up in another kingdom, and later learns that Sita is his sister.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Buddhist Dasaratha Jataka, Sita is one of three royal children, with Rama and Lakkhana, whom their father sends to the Himalayas to keep them safe from a jealous stepmother.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a Thai telling of her trial by fire, Sita walks into the flames and is unharmed, and the burning coals turn into lotus flowers.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Javanese wayang shadow-play stories, Sita is Ravana's own daughter. She is set adrift in a river as a baby and later raised by Janaka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Adbhuta Ramayana, a later text linked to Valmiki, tells that Sita takes the form of Mahakali and defeats a thousand-headed Ravana when Rama is wounded.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Some versions say Sita was Vedavati in an earlier life. In them, Vedavati promised to be reborn to cause the end of Ravana's power.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Padma Purana says that as a girl Sita freed only the male of a pair of parrots. The female died of grief, and the male's curse is blamed for her later sorrow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's Yuddha Kanda, when Sita enters the pyre, the fire-god Agni rises from the flames carrying her in his arms and returns her to Rama, vouching for her purity.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In some versions of the epic, Agni hides the real Sita and a double, Maya Sita, is the one Ravana abducts; at the fire trial Agni hands the real Sita back.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Javanese tellings Krishna is Rama reborn and Subhadra is Sita reborn, so the husband and wife of one life become brother and sister in the next.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki's Kishkindha Kanda has Sugriva show Rama the veil and ornaments Sita let fall, a trail of clues she left behind when she was carried away.",
+      "kind": "story",
+      "source": "https://heritage.iitk.ac.in/valmiki/sloka?field_kanda_tid=4&language=dv&field_sarga_value=6",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Lanka, Sita gave Hanuman her crest jewel, the chudamani, to carry to Rama as proof, and the Sundara Kanda adds the tale of a crow as a second token only Rama would know.",
+      "kind": "story",
+      "source": "https://heritage.iitk.ac.in/valmiki/sloka?field_kanda_tid=5&language=dv&field_sarga_value=38",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hanuman offers to carry Sita home on his back, but she refuses: she will not slip away like a thief, and wants Rama himself to come and defeat Ravana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Asked to prove her purity once more, Sita calls on her mother, the earth goddess Bhumi, who rises, takes her back into the ground and descends as the assembly praises her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata's Ramopakhyana and the Jain Paumachariya make Sita King Janaka's own daughter, not a child found in a furrow.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Queen Vrishbhanu Kunwari of Tikamgarh is tied to two Sita temples: she built the Janaki Mandir in Janakpur, Nepal, and with her husband renovated Ayodhya's Kanak Bhawan in 1891.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vrishbhanu_Kuvari",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Near Nuwara Eliya in Sri Lanka, the Seetha Amman temple is said to mark where Sita waited in Ravana's captivity; hollows in a rock across the stream are called Hanuman's footprints.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Seetha_Amman_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sita Samahit Sthal in Bhadohi, Uttar Pradesh, between Prayagraj and Varanasi, is believed to be where Sita returned to the earth, near where her sons Lava and Kusha caught Rama's sacrificial horse.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sita_Samahit_Sthal",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The minor Sita Upanishad, attached to the Atharvaveda, describes Sita as the ultimate reality and the source behind everything that appears in the world.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Rama and Sita are the focus of the Ramanandi Sampradaya, founded by the 14th-century poet-saint Ramananda, which is said to be the largest Hindu monastic community in modern times.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Sita",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Sita remind us of?",
+      "options": ["A river", "A furrow in a field", "A mountain", "A golden deer"],
+      "answer": 1,
+      "why": "Her name is linked to the Sanskrit word for a ploughed furrow, where Janaka found her."
+    },
+    {
+      "q": "In the Valmiki Ramayana, who found baby Sita?",
+      "options": ["Lakshmana", "Ravana", "King Janaka", "Hanuman"],
+      "answer": 2,
+      "why": "Janaka found her in the earth while he was ploughing."
+    },
+    {
+      "q": "In which Buddhist tale do Rama, Sita and Lakkhana appear as royal siblings?",
+      "options": ["Dasaratha Jataka", "Vessantara Jataka", "Mahajanaka Jataka", "Sama Jataka"],
+      "answer": 0,
+      "why": "The Dasaratha Jataka retells the family as three children sent to the Himalayas for safety from a jealous stepmother."
+    },
+    {
+      "q": "In a Thai telling of her trial by fire, the coals turn into what?",
+      "options": ["Gold coins", "Lotus flowers", "Butterflies", "Snow"],
+      "answer": 1,
+      "why": "In that version the coals become lotuses, showing she is pure and safe."
+    },
+    {
+      "q": "In which country is Janakpur, home of the Janaki Mandir?",
+      "options": ["Nepal", "Sri Lanka", "Bhutan", "Thailand"],
+      "answer": 0,
+      "why": "Janaki Mandir stands in Janakpur, Nepal, in Sita's home region of Mithila, and was built in 1910."
+    }
+  ],
+  "related": [
+    "rama",
+    "janaka",
+    "lakshmana",
+    "urmila",
+    "bhumi",
+    "lakshmi",
+    "ravana",
+    "hanuman",
+    "valmiki"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sita",
+    "ramayana": "https://en.wikipedia.org/wiki/Ramayana",
+    "janaki": "https://en.wikipedia.org/wiki/Janaki_Mandir",
+    "ramlila": "https://ich.unesco.org/en/RL/ramlila-the-traditional-performance-of-the-ramayana-00110",
+    "ramakien": "https://en.wikipedia.org/wiki/Ramakien",
+    "fire": "https://www.valmikiramayan.net/utf8/yuddha/sarga118/yuddhasans118.htm",
+    "jataka": "https://en.wikipedia.org/wiki/Dasaratha_Jataka",
+    "kishkindha6": "https://heritage.iitk.ac.in/valmiki/sloka?field_kanda_tid=4&language=dv&field_sarga_value=6",
+    "sundara38": "https://heritage.iitk.ac.in/valmiki/sloka?field_kanda_tid=5&language=dv&field_sarga_value=38",
+    "kanak": "https://en.wikipedia.org/wiki/Kanak_Bhawan",
+    "vrishbhanu": "https://en.wikipedia.org/wiki/Vrishbhanu_Kuvari",
+    "seetha": "https://en.wikipedia.org/wiki/Seetha_Amman_Temple",
+    "samahit": "https://en.wikipedia.org/wiki/Sita_Samahit_Sthal"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3dcc0",
+    "c2": "#e9cfd6"
+  },
+  "order": 500
+}

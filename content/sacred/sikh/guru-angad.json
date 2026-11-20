@@ -1,0 +1,270 @@
+{
+  "slug": "guru-angad",
+  "name": "Guru Angad",
+  "aka": ["Bhai Lehna", "Angad Dev"],
+  "native": "ਗੁਰੂ ਅੰਗਦ",
+  "tradition": "sikh",
+  "group": "guru",
+  "role": "Second Sikh Guru",
+  "years": "1504–1552",
+  "order": 2,
+  "summary": "Guru Angad (1504–1552), born Lehna, was Guru Nanak's devoted follower and successor. Tradition credits him with standardising the Gurmukhi script and spreading langar and fitness.",
+  "about": "Born Lehna in 1504 at Matte di Sarai in Punjab, he grew up in a trading family and was a devotee of the goddess Durga before he met Sikh teaching. On a pilgrimage he stopped at Kartarpur, was moved by Guru Nanak, and stayed about six years in service. Sikh tradition says Nanak chose him as successor in 1539 and renamed him Angad. After Nanak's death he settled at Khadur Sahib on the Beas. Sikh tradition credits him with standardising the Gurmukhi script, while scholars say he probably shaped older letter forms. He is recorded as writing 62 or 63 saloks, strengthening the langar, and setting up wrestling arenas. He died in March 1552 after naming Amar Das as the next Guru.",
+  "kidSummary": "Guru Angad was Guru Nanak's student who served him with great humility. He became the second Guru, helped children learn to read and write in Gurmukhi, kept the free kitchen running, and encouraged everyone to stay strong and healthy through wrestling and play.",
+  "story": [
+    {
+      "title": "Lehna meets Nanak",
+      "text": "A man named Lehna, who worshipped the goddess Durga, passed through Kartarpur on a pilgrimage. Talking with Guru Nanak moved him so much that he stayed there."
+    },
+    {
+      "title": "Serving with humility",
+      "text": "For about six years Lehna served the Guru cheerfully, doing humble tasks without complaint."
+    },
+    {
+      "title": "The muddy jug",
+      "text": "The story says Nanak's sons refused to pick up a muddy jug, but Lehna cleaned it and filled it with water. Nanak saw his humble heart."
+    },
+    {
+      "title": "A new name",
+      "text": "In 1539 Nanak named him Angad and made him Guru. After Nanak's death, Angad was so sad that he hid away until Baba Buddha found him."
+    },
+    {
+      "title": "Letters and strength",
+      "text": "At Khadur Sahib he is remembered for helping children learn Gurmukhi and for building wrestling arenas, so that young people grew strong in body and mind."
+    },
+    {
+      "title": "Passing it on",
+      "text": "In 1552 he named Amar Das as the third Guru, a quiet servant who had impressed him."
+    }
+  ],
+  "teaches": [
+    "Serve others humbly",
+    "Learning and reading are for everyone",
+    "A strong body supports a strong mind"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Gurmukhi letters", "Wrestling arena (akhara)", "Langar"],
+  "family": [
+    {
+      "relation": "wife",
+      "name": "Mata Khivi",
+      "slug": "mata-khivi"
+    },
+    {
+      "relation": "predecessor",
+      "name": "Guru Nanak",
+      "slug": "guru-nanak"
+    },
+    {
+      "relation": "successor",
+      "name": "Guru Amar Das",
+      "slug": "guru-amar-das"
+    },
+    {
+      "relation": "father",
+      "name": "Pheru Mal"
+    }
+  ],
+  "texts": ["Guru Granth Sahib (saloks)", "Janamsakhis"],
+  "places": ["Matte di Sarai", "Khadur Sahib", "Kartarpur"],
+  "festivals": ["Gurpurab"],
+  "facts": [
+    {
+      "text": "Sikh histories say that before he met Guru Nanak, Lehna was a religious teacher of Khadur and a priest at a temple of the goddess Durga.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His wife Khivi ran the free kitchen so well that it was widely known as 'Mother Khivi's langar'. Sikh tradition credits her with making langar an everyday institution and with starting the habit of sitting in orderly rows to eat.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mata_Khivi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the muddy jug story, Nanak's sons would not touch a dirty jug, but Lehna washed it and returned it full of water, and Nanak noticed his humility.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The name Angad means 'my own limb'. Nanak chose Lehna as successor on 14 June 1539 and renamed him in the formal installation on 7 September 1539, a sign that the successor was seen as part of Nanak himself.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Guru Nanak died on 22 September 1539, grief led Angad to shut himself in a room until Baba Buddha found him after a long search. A hymn line tied to that moment says it is better to die before the one you love, since living on after is worthless.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The bard Balwand mentions Khivi by name in a verse in the Guru Granth Sahib, praising her as a noble woman who gives cool, leafy shade to everyone.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mata_Khivi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Sikh accounts, the emperor Humayun came to Khadur around 1540 after losing his throne and was angry that the Guru kept teaching children. The Guru reminded him he had fled battle, and later texts say he then blessed him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Sikh tradition credits him with creating and standardising the Gurmukhi script, which today is the standard script for Punjabi in India.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Tradition says he commissioned a life of Nanak from earlier disciples, and some think the Bhai Bala janamsakhi is that book. Whether the work ever existed, or survives, is debated, so it remains a small mystery of early Sikh writing.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He left only 62 or 63 saloks, about one percent of the Guru Granth Sahib. His larger role was consolidator: he supervised Bhai Paira Mokha writing down Nanak's hymns and scrutinised the collection, preparing the way for a scripture.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He set up many Mall Akharas, wrestling arenas, including at Khadur, where young people trained after morning prayers with games and light bouts, and learned health habits such as staying away from tobacco.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Early in his guruship very few Sikhs accepted him, because Nanak's own sons claimed to be the successors. He answered quietly, by focusing on Nanak's teachings and on charity such as langar, rather than by arguing.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "He was born on 31 March 1504 at Matte-di-Sarai, now Sarainaga in Muktsar district, and died on 29 March 1552, just two days before his 48th birthday.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Baba Buddha, who found Angad in hiding, got his name from Nanak: as a cattle-herding boy he asked such deep questions about life and death that Nanak called him 'wise old man'. He later performed Angad's installation, and four later Gurus'.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Baba_Buddha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Gurmukhi is popularly translated 'from the mouth of the Guru', but Punjabi linguists usually explain it as the script of the gurmukhs, the followers who face the Guru. The Perso-Arabic script for Pakistani Punjabi, Shahmukhi, was named on its model.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gurmukhi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Modern Gurmukhi has 35 original letters, so it is also called paintī, 'the thirty-five'. The Guru Granth Sahib uses only those letters; six extra consonants, made by adding a dot, appear mostly in loanwords.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Gurmukhi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He set rules and training for the volunteers, called sevadars, who ran the langar. They were to treat the kitchen as a place of rest and refuge and to be polite and welcoming to every visitor.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Khadur was the base of the early Sikh community from 1539 to 1551, after he left Kartarpur amid opposition from Nanak's sons. Eight of the ten Gurus are said to have visited the town.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Khadur_Sahib",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His wife Khivi (1506-1582) outlived him by about thirty years and died at the age of 75. Sikh tradition remembers her as the person who made langar a daily institution.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mata_Khivi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Amar Das, who became the third Guru, was much older than Angad yet adopted him as his own spiritual teacher after hearing a hymn of Nanak sung by Angad's daughter Bibi Amro.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He travelled to the centres Nanak had set up to spread the Sikh message, and founded new centres of his own, strengthening the young community's base.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Guru_Angad",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Guru Angad's name before he became Guru?",
+      "options": ["Jetha", "Lehna", "Mohan", "Arjan"],
+      "answer": 1,
+      "why": "He was born Lehna and renamed Angad by Guru Nanak."
+    },
+    {
+      "q": "Which script does Sikh tradition credit him with standardising?",
+      "options": ["Devanagari", "Brahmi", "Gurmukhi", "Shahmukhi"],
+      "answer": 2,
+      "why": "Gurmukhi is the script of the Guru Granth Sahib."
+    },
+    {
+      "q": "What did he build at Khadur to keep young people healthy?",
+      "options": ["Libraries", "Wrestling arenas", "Observatories", "Boat races"],
+      "answer": 1,
+      "why": "The Mall Akharas taught fitness and good habits."
+    },
+    {
+      "q": "Who became the third Guru after him?",
+      "options": ["Baba Buddha", "Datu", "Guru Ram Das", "Guru Amar Das"],
+      "answer": 3,
+      "why": "Amar Das, aged about 73, followed him."
+    },
+    {
+      "q": "In the jug story, what did Lehna do?",
+      "options": [
+        "Threw it away",
+        "Cleaned the muddy jug and filled it",
+        "Hid from the Guru",
+        "Broke the jug"
+      ],
+      "answer": 1,
+      "why": "His humble service showed his character."
+    }
+  ],
+  "related": ["guru-nanak", "guru-amar-das", "mata-khivi", "baba-buddha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Guru_Angad",
+    "gurmukhi": "https://en.wikipedia.org/wiki/Gurmukhi",
+    "khivi": "https://en.wikipedia.org/wiki/Mata_Khivi",
+    "buddha": "https://en.wikipedia.org/wiki/Baba_Buddha",
+    "khadur": "https://en.wikipedia.org/wiki/Khadur_Sahib"
+  },
+  "palette": {
+    "c1": "#e9d8b4",
+    "c2": "#cfe0cf"
+  },
+  "depth": "full"
+}

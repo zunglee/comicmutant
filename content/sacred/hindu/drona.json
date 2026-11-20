@@ -1,0 +1,293 @@
+{
+  "slug": "drona",
+  "name": "Drona",
+  "aka": ["Dronacharya", "Bharadwajputra", "Parshuramashishya"],
+  "native": "द्रोण",
+  "role": "Royal weapons teacher of the Kuru princes",
+  "summary": "Drona, also called Dronacharya, is the master teacher who trained the Kuru princes in the Mahabharata. He is honoured today in the name of India's coaching award and in the city of Gurugram.",
+  "about": "In the Mahabharata, Drona is a Brahmin sage's son, said to have been born in a pot, and the name is linked to the word for vessel. He grew up poor, learned weapons from Parashurama's tradition, and was then invited to Hastinapura to teach the Kuru princes. His best-known students are Arjuna, Duryodhana and Bhima, and the epic tells of the clay image of Drona that Ekalavya practised before. At Kurukshetra he led the Kaurava army for five days after Bhishma, arranged the wheel-shaped formation on day thirteen, and fell on day fifteen. The tellings differ on moral judgements: readers admire his teaching but many question his demand for Ekalavya's thumb. Gurugram is traditionally said to be named from land given to him, and India's Dronacharya Award honours outstanding coaches.",
+  "kidSummary": "Drona is the great teacher of archery in the Mahabharata. He taught the Kuru princes, including Arjuna, and could do amazing things, like pulling a ball out of a well with grass. Today, India's top coaches win an award named after him, and the city of Gurugram is traditionally linked to him.",
+  "story": [
+    {
+      "title": "A poor beginning",
+      "text": "In the Mahabharata, Drona grew up poor, and his young son Ashwatthama once got only flour mixed with water instead of milk. Drona hoped his old friend, King Drupada, would help."
+    },
+    {
+      "title": "The ball in the well",
+      "text": "In Hastinapura, the princes lost a ball in a well. Drona used blades of grass and mantras to bring it out, and the family asked him to become their teacher."
+    },
+    {
+      "title": "A great classroom",
+      "text": "Each prince had his own talent. Arjuna was the best archer, and the epic says he even learned to shoot in the dark. Drona also taught Bhima and Duryodhana to fight with maces."
+    },
+    {
+      "title": "The wheel formation",
+      "text": "At Kurukshetra Drona led the Kaurava army. On day thirteen he arranged a wheel-shaped formation that Abhimanyu could enter but not leave."
+    },
+    {
+      "title": "The last day",
+      "text": "On the fifteenth day, a rumour that his son Ashwatthama had died reached Drona. He put down his weapons to meditate, and Dhrishtadyumna ended his life."
+    }
+  ],
+  "teaches": [
+    "A good teacher shapes a whole generation",
+    "Wise people can still make choices that others question",
+    "Humility and fairness matter in teaching"
+  ],
+  "symbol": "book",
+  "emblems": ["Bow", "Clay image used by Ekalavya"],
+  "family": [
+    {
+      "relation": "Son",
+      "name": "Ashwatthama",
+      "slug": "ashwatthama"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Kripa",
+      "slug": "kripa"
+    },
+    {
+      "relation": "Boyhood friend",
+      "name": "Drupada",
+      "slug": "drupada"
+    },
+    {
+      "relation": "Best-known student",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Student",
+      "name": "Ekalavya",
+      "slug": "ekalavya"
+    },
+    {
+      "relation": "Killed by",
+      "name": "Dhrishtadyumna",
+      "slug": "dhrishtadyumna"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva, Drona Parva)"],
+  "places": ["Hastinapura", "Gurugram, Haryana", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "The epic says Drona was born in a pot, and his name is linked to words for a vessel, bucket or quiver.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "As a poor father, Drona once saw his small son Ashwatthama given flour mixed with water instead of milk. The boy was found weeping.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Drona first proved his skill in Hastinapura by retrieving a lost ball from a well using blades of grass charged with mantras.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Drona once tested his pupils by setting an artificial bird in a tree and asking what each could see. The princes described the target and its surroundings, but Arjuna said he saw only the bird's head.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Arjuna",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Arjuna saved him from a crocodile, Drona rewarded him with a Brahma weapon and warned him never to use it against an ordinary mortal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "Inspired by his brother Bhima's night-time eating, Arjuna taught himself to shoot in complete darkness. Drona was moved and promised him he would become the greatest archer on earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Nishada prince Ekalavya practised before a clay image of Drona after Drona declined to take him as a pupil. When Drona asked for his right thumb as gurudakshina, the teacher's fee, Ekalavya gave it. Today many see him as a symbol of tribal rights.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ekalavya",
+      "interest": 9
+    },
+    {
+      "text": "After the princes captured Drupada, Drona took half of his kingdom. Drupada then held a sacrifice that produced Dhrishtadyumna, destined to kill Drona, and also Draupadi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "On the night of the fourteenth day, goaded by Duryodhana, Drona sent the Brahmastra against ordinary Pandava soldiers. The Saptarishi appeared in the sky, asked him to withdraw it, and rebuked him; he obeyed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On day fifteen Drona killed Drupada in a sword fight, then paid his respects to the body of his old friend and lamented how their friendship had soured.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "On day fifteen Bhima killed an elephant named Ashwatthama and claimed Drona's son was dead. Drona asked Yudhishthira, who said Ashwatthama was dead, adding elephant too softly to hear. Drona laid down his weapons and Dhrishtadyumna ended his life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 9
+    },
+    {
+      "text": "Gurugram is traditionally linked to Guru Gram, village of the Guru, said to be land given to Drona. Its official name was announced on 27 September 2016.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurgaon",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ekalavya once filled a barking dog's mouth with arrows without hurting it. The Kuru princes were amazed and found him, and he named himself Drona's pupil, which made Arjuna jealous and sad.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Drona reached Parashurama after the sage had given away his wealth, with only his body and weapons left. Drona asked for the weapons and learned their use, which made him a renowned teacher of arms.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Under Drona, Duryodhana and Bhima excelled with maces, Ashwatthama with astras, Nakula and Sahadeva with swords, Yudhishthira at charioteering and Arjuna at archery.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At the princes' weapons display, a mock fight between Bhima and Duryodhana turned serious, and Drona sent his son Ashwatthama to stop it. Arjuna's archery then won Drona's declaration that he was the greatest archer.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On day fourteen Bhima smashed Drona's chariot with his mace, then another, eight in all, before he got past his teacher.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Accounts note that Drona stayed silent during Draupadi's humiliation, afraid of antagonizing the Kauravas. Critics raise it when judging him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "After Drupada's insult, Drona took his family to live with his brother-in-law Kripa in Hastinapura. Bhishma later made both of them teachers of the Kuru princes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Duryodhana persuaded Drona to try ending the war by capturing Yudhishthira alive, but on the 11th and 12th days Arjuna was always there to push him back, so the plan failed.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Instituted in 1985, the Dronacharya Award gives winners a bronze statuette of Drona. The first three were wrestling coach B. B. Bhagwat, boxing coach O. P. Bhardwaj and athletics coach O. M. Nambiar.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Dronacharya_Award",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Drona use to pull the ball out of the well?",
+      "options": ["A rope", "A net", "Blades of grass and mantras", "A long stick"],
+      "answer": 2,
+      "why": "The epic says he used grass charged with mantras."
+    },
+    {
+      "q": "Which prince became Drona's best-known archery student?",
+      "options": ["Duryodhana", "Bhima", "Arjuna", "Yudhishthira"],
+      "answer": 2,
+      "why": "Arjuna was the finest archer in the epic."
+    },
+    {
+      "q": "Which city in Haryana is traditionally linked to Drona?",
+      "options": ["Panipat", "Gurugram", "Kurukshetra", "Rohtak"],
+      "answer": 1,
+      "why": "The name is linked to Guru Gram, land said to be given to him."
+    },
+    {
+      "q": "Which award in India is named after Drona?",
+      "options": [
+        "Arjuna Award for players",
+        "Dronacharya Award for coaches",
+        "Padma Shri",
+        "Khel Ratna"
+      ],
+      "answer": 1,
+      "why": "It has honoured coaches since 1985."
+    },
+    {
+      "q": "How was Drona tricked into laying down his weapons on the fifteenth day?",
+      "options": [
+        "A false letter arrived",
+        "Told Ashwatthama died; it was an elephant",
+        "Krishna blew a conch",
+        "His bow broke"
+      ],
+      "answer": 1,
+      "why": "Yudhishthira said Ashwatthama was dead and added the word elephant so quietly that Drona could not hear it."
+    },
+    {
+      "q": "In Drona's bird test, what did Arjuna say he could see?",
+      "options": ["The whole tree", "Only the bird's head", "The sky", "His brothers"],
+      "answer": 1,
+      "why": "Arjuna's single-minded focus on the target impressed Drona."
+    }
+  ],
+  "related": [
+    "ashwatthama",
+    "kripa",
+    "arjuna",
+    "ekalavya",
+    "drupada",
+    "dhrishtadyumna",
+    "abhimanyu",
+    "bhishma",
+    "karna",
+    "duryodhana"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Drona",
+    "award": "https://en.wikipedia.org/wiki/Dronacharya_Award",
+    "gurgaon": "https://en.wikipedia.org/wiki/Gurgaon",
+    "ekalavya": "https://en.wikipedia.org/wiki/Ekalavya",
+    "arjuna": "https://en.wikipedia.org/wiki/Arjuna"
+  },
+  "palette": {
+    "c1": "#C8B89A",
+    "c2": "#EADFC8"
+  },
+  "order": 16,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "depth": "full"
+}

@@ -1,0 +1,261 @@
+{
+  "slug": "sati",
+  "name": "Sati",
+  "aka": ["Dakshayani", "Dakshayani Devi"],
+  "native": "सती",
+  "tradition": "hindu",
+  "group": "devi",
+  "role": "First consort of Shiva and daughter of Daksha",
+  "summary": "Sati, also called Dakshayani, is the goddess who, in the Puranas, married Shiva against her father's wishes. Her story explains the sacred Shakti Peethas.",
+  "about": "In many Puranas, Sati is the daughter of the Prajapati Daksha, and she chooses Shiva as her husband. When Daksha holds a great sacrifice and leaves out Shiva and Sati, the texts say she attends anyway, and the story ends with her leaving her body. Versions vary a lot: some say she entered fire, others that she gave up life by yoga, or that a shadow double was consumed. A later popular account says that Shiva's grief led to her body falling in pieces across the land, forming the Shakti Peethas. In most traditions she is reborn as Parvati, and she is worshipped as a form of Shakti.",
+  "kidSummary": "Sati is the goddess whose name means truth. Stories say she loved Shiva very much. Her tale explains why pilgrims walk to many holy places called Shakti Peethas across South Asia.",
+  "story": [
+    {
+      "title": "A princess of Truth",
+      "text": "In the Puranas, Sati is the daughter of Daksha. Her name is tied to the word for truth. She grows up wanting to marry Shiva."
+    },
+    {
+      "title": "The garland",
+      "text": "One text says that, at her swayamvara, she threw her garland into the air. It landed on Shiva, who had not even been invited."
+    },
+    {
+      "title": "The big sacrifice",
+      "text": "Later, her father holds a great sacrifice and does not invite Shiva or Sati. Sati goes to see her family anyway."
+    },
+    {
+      "title": "A sad ending",
+      "text": "In many Puranas, she is hurt by what she hears there and leaves her body. Shiva's followers, Virabhadra and Bhadrakali, are then said to stop the sacrifice."
+    },
+    {
+      "title": "Places remembered",
+      "text": "A popular tale says her body fell in many places and each became a Shakti Peetha, honoured by pilgrims. Texts count 51, 52 or more."
+    },
+    {
+      "title": "Born again",
+      "text": "The stories say Sati was reborn as Parvati, the daughter of the Himalaya, who would also come to marry Shiva."
+    }
+  ],
+  "teaches": [
+    "Truth and loyalty matter",
+    "A person should be respected at home",
+    "Love can be tested but endures"
+  ],
+  "symbol": "flame",
+  "emblems": ["Sacred fire", "Shakti Peethas", "Garland"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Daksha"
+    },
+    {
+      "relation": "Mother (in many texts)",
+      "name": "Prasuti"
+    },
+    {
+      "relation": "Husband",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Next birth",
+      "name": "Parvati",
+      "slug": "parvati"
+    }
+  ],
+  "texts": [
+    "Shiva Purana",
+    "Devi Bhagavata Purana",
+    "Mahabhagavata Purana",
+    "Kalika Purana",
+    "Taittiriya Samhita"
+  ],
+  "places": ["Kamakhya Temple", "Hinglaj Mata Temple", "Kalighat", "Kottiyoor Temple"],
+  "festivals": ["Navaratri"],
+  "facts": [
+    {
+      "text": "Shakta texts such as the Devi Bhagavata say that before her birth Brahma told Daksha to meditate on the Great Goddess so she would be born as his daughter. She agreed, but warned that if he ever mistreated her she would leave her body.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Devi Bhagavata says Daksha polluted a sacred flower garland soon after the wedding and was cursed to hate his own beloved daughter, which explains his cruelty at the sacrifice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In an episode of the Shiva Purana, Sati disguises herself as Sita to test Rama, but Rama recognises her at once.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In many accounts Shiva's fierce creations, Virabhadra and Bhadrakali, wreck the sacrifice, and Daksha loses his head. He is later restored with a goat's head.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabhagavata Purana, when Shiva tries to stop her going, Sati takes the shapes of the ten Mahavidya goddesses, one after another.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "One version says her body split into a real Sati and a shadow double (Chhaya) and that the shadow, not the real Sati, entered the fire.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kamakhya Temple on Nilachal Hill in Guwahati has no statue. Its dark chamber below ground holds a rock hollow, filled all year by an underground spring, which is worshipped as the goddess.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kamakhya_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hinglaj Mata, in Balochistan, Pakistan, is said to mark where her head fell; its annual yatra is described as drawing over 250,000 pilgrims.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Besides the main Shakta pithas, small ones such as Bindudham are said to have formed where drops of Sati's blood fell.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Kottiyoor's Rohini Aradhana, the senior Kurumathur priest, seen as Vishnu, embraces the Shiva linga to stand for Vishnu comforting a grieving Shiva. The rite is said to be seen in no other temple.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kottiyoor_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the 18th-century Svathani Katha, Daksha refuses to give Sati to Shiva. Vishnu helps by disguising Shiva as a sannyasi, and in that form he marries her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Kalika Purana does not send Sati to the sacrifice at all. Her niece Vijaya tells her about it, and Sati leaves her body through yoga.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her name Sati comes from the Sanskrit word sat, meaning truth, so it means truthful, virtuous or noble.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Brihaddharma Purana, from about the 13th century, tells the story without any fire. Sati curses her father and leaves her body in a cave in the Himalayas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Shaiva thought, both Sati and Parvati bring Shiva out of lonely meditation into a shared life with the world, and that new life leads to the birth of Ganesha and Kartikeya.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kamakhya hosts the Ambubachi Mela each year, a festival that celebrates the menstruation of the goddess, and it also holds a five-day Durga Puja during Navaratri.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kamakhya_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One Shakta pitha is a stone shrine near Lake Manasarovar at Mount Kailash in Tibet, where tradition says her right hand fell.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shakti_Peetha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At the Indrakshi (Nagapooshani) temple in Nainativu, Sri Lanka, tradition says her anklets fell.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shakti_Peetha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata mentions the ruin of Daksha's sacrifice together with the birth of Kartikeya and the defeat of the asura Tarakasura, and the poet Kalidasa later retold her story in the Kumarasambhava.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Kottiyoor in Kerala is one of the very few places in India where Sati is worshipped in her own right. A raised rock platform called the Ammarakallu is believed to mark where she gave up her life at Daksha's sacrifice.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+      "interest": 8,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Sati's other name Dakshayani mean?",
+      "options": ["Born of fire", "Daughter of Daksha", "Lady of lions", "Queen of rivers"],
+      "answer": 1,
+      "why": "Daksha was her father."
+    },
+    {
+      "q": "In many Puranas, who is Sati reborn as?",
+      "options": ["Lakshmi", "Parvati", "Sita", "Radha"],
+      "answer": 1,
+      "why": "Sati is reborn as Parvati."
+    },
+    {
+      "q": "Which holy sites are linked to her story?",
+      "options": ["Shakti Peethas", "Char Dham", "Kumbh sites", "Sapta Puri"],
+      "answer": 0,
+      "why": "Shakti Peethas are linked to her body parts in the popular account."
+    },
+    {
+      "q": "Which Assam temple has a spring-fed rock hollow instead of a statue?",
+      "options": ["Kamakhya", "Konark", "Puri", "Badrinath"],
+      "answer": 0,
+      "why": "Kamakhya sits on Nilachal Hill in Guwahati."
+    },
+    {
+      "q": "In the Shiva Purana story, whose role does Sati take to test Rama?",
+      "options": ["Sita", "Radha", "Ahalya", "Tara"],
+      "answer": 0,
+      "why": "She takes Sita's form, but Rama sees through it."
+    }
+  ],
+  "related": ["shiva", "parvati", "durga", "kali", "vishnu", "brahma"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Sati_(Hindu_goddess)",
+    "peetha": "https://en.wikipedia.org/wiki/Shakti_Peetha",
+    "kamakhya": "https://en.wikipedia.org/wiki/Kamakhya_Temple",
+    "kottiyoor": "https://en.wikipedia.org/wiki/Kottiyoor_Temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#F2D6C2",
+    "c2": "#E3D3E8"
+  },
+  "order": 40
+}

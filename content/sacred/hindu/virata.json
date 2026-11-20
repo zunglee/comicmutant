@@ -1,0 +1,290 @@
+{
+  "name": "Virata",
+  "aka": ["Matsya king", "Raja Virat"],
+  "native": "विराट",
+  "role": "King of Matsya who sheltered the Pandavas",
+  "summary": "Virata is the king of Matsya whose court hides the Pandavas in their final year of exile. The Virata Parva, the fourth book of the Mahabharata, is named after him.",
+  "about": "In the Mahabharata, King Virata rules Matsya from the city of Viratanagara, identified with modern Bairat in Rajasthan. He is married to Queen Sudeshna and is the father of Prince Uttara, Shankha and Princess Uttara. For the thirteenth year of their exile the Pandavas serve in his palace in disguise, and the Virata Parva tells what happens there, from Kichaka's death to the great cattle raid. When the Pandavas reveal themselves, Virata offers his daughter to Arjuna, who proposes his own son Abhimanyu. Virata fights for the Pandavas in the Kurukshetra War and is killed by Drona on the 15th day. The translator J. A. B. van Buitenen portrays him as a gullible king who loved his cattle, while the epic also shows him apologising and welcoming the Pandavas.",
+  "kidSummary": "King Virata ruled the kingdom of Matsya. Without knowing it, he gave a home to the five Pandava brothers and Draupadi, who were hiding in disguise as a cook, a dance teacher, a horse keeper and more. When he learned who they were, he welcomed them and gave his daughter in marriage to Arjuna's son.",
+  "story": [
+    {
+      "title": "A place to hide",
+      "text": "The Pandavas must spend a whole year unrecognised. They choose to live in disguise at King Virata's palace in Matsya."
+    },
+    {
+      "title": "Servants with secrets",
+      "text": "Yudhishthira becomes a courtier, Bhima a cook, Arjuna a dance teacher, and Draupadi serves the queen. Virata does not guess who they are."
+    },
+    {
+      "title": "A cattle raid",
+      "text": "Two armies raid Matsya's cattle. Prince Uttara drives out with his dance teacher as charioteer, and the teacher turns out to be Arjuna."
+    },
+    {
+      "title": "The secret is out",
+      "text": "After the danger passes, the Pandavas reveal themselves, and Virata apologises for any harm he caused and welcomes his guests."
+    },
+    {
+      "title": "A wedding",
+      "text": "He offers his daughter Uttara to Arjuna, who suggests his own son Abhimanyu, and the families are joined."
+    }
+  ],
+  "teaches": [
+    "Welcoming strangers",
+    "Admitting mistakes and saying sorry",
+    "Alliances built on trust"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Cattle", "Capital Viratanagara"],
+  "family": [
+    {
+      "relation": "Daughter",
+      "name": "Uttara",
+      "slug": "uttara"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Kichaka",
+      "slug": "kichaka"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    },
+    {
+      "relation": "Guests he sheltered",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    },
+    {
+      "relation": "Killed by",
+      "name": "Drona",
+      "slug": "drona"
+    }
+  ],
+  "texts": ["Mahabharata (Virata Parva)", "Mahabharata (Svargarohana Parva)"],
+  "places": ["Viratanagara (Bairat), Rajasthan", "Upaplavya"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "After Arjuna put the Kaurava warriors to sleep with a charmed weapon, he asked Prince Uttara to gather some of their coloured clothes, such as Duryodhana's red and Karna's pink, so that Uttara's sister could dress her dolls.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata_Parva",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Matsya means 'fish'. The Mahabharata says King Matsya, Satyavati's twin brother, founded the kingdom, while the capital Viratanagara was named after Virata himself.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Viratanagara is identified with Bairat, a town in Rajasthan, where two rock edicts of Emperor Ashoka, from about 250 BCE, survive.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Viratnagar",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bhima took the post of cook and wrestler under the name Ballava, and sold leftover food from the kitchen to help support his brothers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yudhishthira chose the alias Kanka, which means 'heron', a bird that eats fish. Since the kingdom's name Matsya means 'fish', the name hints that he would 'eat' the kingdom by winning at dice.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Pandavas could not stay unnoticed forever. On the third day after the victory, they walked into Virata's council hall in rich robes and sat on the thrones kept for kings. Virata was furious until Arjuna told him who they were.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata_Parva",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Arjuna as Brihannada was employed to teach music and dance to Virata's daughter Uttara and her friends. He also sold second-hand ladies' clothing.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Pandavas hid their weapons in the hollow of a shami tree and hung a decaying corpse above it so that people would stay away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Virata wrongly credited his son Uttara with the victory and, in a rage, threw dice at his courtier Kanka, wounding Yudhishthira's nose. He later apologised.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The Kauravas' spies could not find the Pandavas. Bhishma advised looking where prosperity had recently grown, and Susharma then pointed to Matsya, which led to the cattle raids.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata_Parva",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Virata first appears at Draupadi's swayamvara. Sahadeva later defeated him in the conquests before the Rajasuya, yet Virata stayed loyal and gave Yudhishthira 2,000 elephants with gold chains.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the war, Sahadeva wanted Virata as commander-in-chief of the Pandava army, but Yudhishthira and Arjuna preferred Dhrishtadyumna, so Virata was outvoted.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On the first day of the Kurukshetra War two of Virata's sons, Uttara and Shveta, were killed, by Shalya and Bhishma respectively.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurukshetra_War",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Southern recension Virata had an earlier wife, Suratha, a princess of Kosala, and a son Shveta. He married Sudeshna only after Suratha died.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Virata is described as born from a portion of the Maruts, the storm gods, and after death rejoins them, according to the Svargarohana Parva.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bairat's Bijak-ki-pahadi, a Buddhist chapel from the 3rd century BCE, is described as the oldest free-standing Buddhist structure in India.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Viratnagar",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Buddhist text Anguttara Nikaya, from about the 6th century BCE, lists Matsya among the sixteen great kingdoms. Bairat is its ancient capital.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Viratnagar",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Not everyone agrees on where Virata's capital stood. Many place it at Bairat, but Akhnoor in Jammu and Kashmir is also held by many to be the ancient Viratanagara.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Viratnagar",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Virata Parva, when Kichaka kicks Sairandhri in Virata's court, Draupadi's article says Virata does nothing, fearing the loss of his best warrior.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Draupadi's article says that after Virata gave permission, Kichaka's brothers tied Sairandhri to his funeral pyre in revenge, until Bhima raced in and saved her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Virata praised his son Uttara for the victory, Uttara said it was a 'son of a god' who had saved them, a phrase chosen so Arjuna's identity stayed hidden.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Virata Parva portrays Virata as a famous cow baron. The Kauravas carried off 60,000 of his cattle from the north while his army was away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata_Parva",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Virata marched out against the Trigartas with his entire army and left his city exposed, which let the Kauravas strike from the north. Wikipedia calls this a sign of his poor generalship.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Virata",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which kingdom did Virata rule?",
+      "options": ["Kosala", "Matsya", "Magadha", "Kuru"],
+      "answer": 1,
+      "why": "Matsya, meaning 'fish', was his kingdom."
+    },
+    {
+      "q": "Whom did Virata unknowingly shelter?",
+      "options": ["The Kauravas", "The Pandavas", "The Yadavas", "Rama and Sita"],
+      "answer": 1,
+      "why": "The Pandavas hid in his court."
+    },
+    {
+      "q": "Which modern Rajasthan town is linked to his capital?",
+      "options": ["Bairat", "Jodhpur", "Pushkar", "Udaipur"],
+      "answer": 0,
+      "why": "Bairat is identified with Viratanagara."
+    },
+    {
+      "q": "Whom did Virata's daughter marry?",
+      "options": ["Arjuna", "Abhimanyu", "Karna", "Nakula"],
+      "answer": 1,
+      "why": "Arjuna proposed his son Abhimanyu."
+    },
+    {
+      "q": "Whose disguise was Brihannala?",
+      "options": ["Bhima", "Yudhishthira", "Arjuna", "Sahadeva"],
+      "answer": 2,
+      "why": "Arjuna was Brihannala."
+    }
+  ],
+  "related": [
+    "uttara",
+    "kichaka",
+    "abhimanyu",
+    "arjuna",
+    "yudhishthira",
+    "bhima",
+    "draupadi",
+    "drona",
+    "sahadeva",
+    "nakula"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Virata",
+    "viratparva": "https://en.wikipedia.org/wiki/Virata_Parva",
+    "matsya": "https://en.wikipedia.org/wiki/Matsya_(kingdom)",
+    "viratnagar": "https://en.wikipedia.org/wiki/Viratnagar"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3e1bd",
+    "c2": "#bfd0a5"
+  },
+  "order": 570,
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "slug": "virata"
+}

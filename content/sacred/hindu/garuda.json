@@ -1,0 +1,287 @@
+{
+  "slug": "garuda",
+  "name": "Garuda",
+  "aka": ["Tarkshya", "Vainateya", "Garutman", "Suparna"],
+  "native": "गरुड",
+  "tradition": "hindu",
+  "group": "divine-being",
+  "role": "Divine eagle-king and mount of Vishnu",
+  "summary": "Garuda is the great bird of Hindu stories, a fierce flier who carries Vishnu and is remembered for the daring journey to rescue his mother. His image also appears in Buddhist art and national symbols across Asia.",
+  "about": "In Hindu texts Garuda is a huge bird-being, often shown with a human body, wings and a beak. The Mahabharata names his parents as the sage Kashyapa and Vinata, which makes him a half-brother of the nagas, who are Kadru's children. A winged figure called Garutman is already praised in the Rigveda, and a late Vedic poem called the Suparnakhyana tells his legend. Many Puranas say he agreed to become the mount of Vishnu after the amrita episode, and Vaishnava traditions count him among Vishnu's closest companions. He is carried far beyond India: Buddhist texts describe garudas as a race of great birds, Jains list a Garuda as a guardian yaksha, Thailand and Indonesia use him as a national symbol, and Japanese Buddhism knows him as Karura. Different sources tell his stories with different details.",
+  "kidSummary": "Garuda is a giant, golden-winged bird in Hindu stories. He loves his mother so much that he flies up to the sky-gods' home to win her freedom. He later becomes the friend and ride of the god Vishnu, and his picture is on flags, banknotes and even a national emblem.",
+  "story": [
+    {
+      "title": "Two sisters and a bet",
+      "text": "Two sisters, Vinata and Kadru, made a bet. In the Mahabharata, Vinata lost through a trick and had to serve Kadru. Her son Garuda hatched and grew up watching his mother work as a servant."
+    },
+    {
+      "title": "The price of freedom",
+      "text": "Garuda asked Kadru's snake children, the nagas, how his mother could be freed. They named a tall price: the amrita, the drink of immortality, which was guarded in the sky-gods' home."
+    },
+    {
+      "title": "The flight to the heavens",
+      "text": "Garuda flew up and faced the gods, even Indra, the king of the gods. He got past them all and took hold of the vessel of amrita, carrying it away."
+    },
+    {
+      "title": "Vishnu's friendship",
+      "text": "Indra and Vishnu spoke with Garuda. Vishnu was pleased by his courage and asked him to be his mount. Garuda agreed, and he has carried Vishnu in stories ever since."
+    },
+    {
+      "title": "A mother set free",
+      "text": "Garuda brought the amrita to the nagas, but the gods made sure it never became theirs to drink. Vinata was freed, and Garuda's loyalty to his mother became the heart of his story."
+    }
+  ],
+  "teaches": [
+    "Courage in a good cause",
+    "Love and loyalty to one's mother",
+    "Humility, since even the mighty can be humbled"
+  ],
+  "symbol": "feather",
+  "emblems": [
+    "Eagle-bird form",
+    "Vishnu's mount (vahana)",
+    "Banner of Krishna",
+    "Naga-enemy and half-brother"
+  ],
+  "family": [
+    { "relation": "Father", "name": "Kashyapa", "slug": "kashyapa" },
+    { "relation": "Mother", "name": "Vinata" },
+    { "relation": "Rider (Lord)", "name": "Vishnu", "slug": "vishnu" },
+    { "relation": "Half-brother (naga)", "name": "Shesha", "slug": "shesha" },
+    { "relation": "Half-brother (naga)", "name": "Vasuki", "slug": "vasuki" }
+  ],
+  "texts": ["Rigveda", "Suparnakhyana", "Mahabharata", "Garuda Purana", "Shatapatha Brahmana"],
+  "places": [
+    "Vellamassery kavu, Kerala",
+    "Garuda Wisnu Kencana, Bali",
+    "Changu Narayan Temple, Nepal"
+  ],
+  "festivals": ["Naga Panchami"],
+  "facts": [
+    {
+      "text": "The Gupta Empire used Garuda as its royal banner, and many early Hindu kingdoms stamped him on coins, sometimes as a three-headed bird that watches all sides.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Few Indian temples are dedicated to Garuda himself. Vellamassery kavu in Kerala is described as about 1,800 years old and has a rare nearby shrine to Vishnu's tortoise form, Kurma.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vinata cracked an egg open too soon, so half-formed Aruna came out and cursed her to serve Kadru for five hundred years. Kadru's thousand eggs, meanwhile, took five hundred years to hatch.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kadru",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Burmese zodiac, which is built on the days of the week, Garuda is the symbol of Sunday.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A version of the story says Indra's son Jayanta stole the amrita back after Garuda delivered it, so the nagas never got to drink it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Some tellings say Garuda is so huge that his outspread wings can block out the sun.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata, Garuda plans to eat a snake named Sumukha until Indra steps in. Angry, he boasts that he is Indra's equal, and Vishnu teaches him a lesson in humility.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata the teacher Drona draws up his army in a battle formation named after Garuda, and Krishna's war banner also carries the bird.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Maranao people of the southern Philippines tell of garuda-like beings who live under the sea. They have big teeth, talons strong enough to lift six men, and turn into humans in their lairs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Garuda Purana is not only about the afterlife. It also covers gemstones (14 gems), plants and a medical treatise, the Dhanvantari Samhita, plus temple building and grammar.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Garuda_Purana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Buddhist texts give garudas a wingspan of 330 yojanas. In a Buddhist tale the nagas swallow stones to withstand a garuda's grip, and a sage teaches the garuda how to counter that trick.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Myanmar, the rebel leader Saya San adopted Garuda as his symbol against British rule, with the nagas standing for the British. Burmese tales call the bird Galone.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Qing-era novel The Story of Yue Fei, Garuda strikes down a celestial bat that disturbs the Buddha's sermon, is exiled from paradise, and is reborn as the Song general Yue Fei.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The elite bodyguards of the Hoysala kings were called Garudas, after the fearless bird.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Thailand Garuda is the national symbol, called Phra Khrut Pha, meaning Garuda the vehicle of Vishnu. He stands for royalty and appears on the baht banknotes.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Indonesia's emblem, the Garuda Pancasila, has 17 feathers on each wing, 8 on the tail, 19 at the base of the tail and 45 on the neck, which echo the independence date 17/8/1945.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/National_emblem_of_Indonesia",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Airlangga University in Indonesia has an emblem called Garudamukha. It shows Garuda carrying a jug of amrita, standing for eternal knowledge.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Garuda Wisnu Kencana statue in Bali stands 75 m tall, about 121 m with its base, weighs around 4,000 tonnes and was unveiled on 22 September 2018.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Garuda_Wisnu_Kencana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "At the Changu Narayan Temple in Nepal's Kathmandu Valley, a Garuda statue is said to have been set up by Garuda himself and to sweat on Naga Panchami, recalling his fight with a giant serpent.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naga_Panchami",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Ramayana's Yuddha Kanda, Indrajit binds Rama and Lakshmana with serpent-like arrows. Garuda arrives, the serpents flee and the brothers are healed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yuddha_Kanda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "India's Air Force named its special operations unit the Garud Commando Force after him, and the Indian Army's Guards Brigade carries Garuda on its insignia.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata describes Garuda as swift, able to take any shape and enter anywhere, and says the beat of his wings can halt the spinning of heaven, earth and the underworld.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Japan, Garuda is Karura, with a human body and a bird's head. His other name, konjicho, means gold-winged bird, and an 8th-century Karura statue stands at Kofuku-ji in Nara.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Buddhist texts give garudas kings and cities of their own, and say some can take human form when they want to deal with people.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Kerala, a temple dance called Garudan Thookkam has dancers dress as Garuda and perform in praise of the goddess Kali.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Garuda go to heaven to win for his mother?",
+      "options": ["A golden crown", "The nectar of immortality", "A magic bow", "A sacred river"],
+      "answer": 1,
+      "why": "The nagas named amrita as the price for freeing Vinata."
+    },
+    {
+      "q": "Which god asked Garuda to be his mount?",
+      "options": ["Vishnu", "Indra", "Brahma", "Agni"],
+      "answer": 0,
+      "why": "Vishnu asked, and Garuda agreed to carry him."
+    },
+    {
+      "q": "Which country shows Garuda on its national emblem and also names its airline after him?",
+      "options": ["Nepal", "Japan", "Indonesia", "Brazil"],
+      "answer": 2,
+      "why": "Garuda Pancasila is Indonesia's emblem, and Garuda Indonesia is its airline."
+    },
+    {
+      "q": "In a Buddhist tale, how do nagas defend themselves when a garuda tries to carry them off?",
+      "options": [
+        "They swallow heavy stones",
+        "They hide in rivers",
+        "They sing loudly",
+        "They turn invisible"
+      ],
+      "answer": 0,
+      "why": "In the Pandara Jataka, nagas swallow stones to become too heavy, until a sage teaches the garuda a counter-trick."
+    },
+    {
+      "q": "On Indonesia's emblem, what do the feather counts echo?",
+      "options": ["A holy name", "The independence date", "A prayer", "The number of islands"],
+      "answer": 1,
+      "why": "The 17, 8, 19 and 45 feathers echo 17/8/1945."
+    }
+  ],
+  "related": ["vishnu", "shesha", "vasuki", "kashyapa", "indra", "krishna", "vahanas", "kamadhenu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Garuda",
+    "garudaPurana": "https://en.wikipedia.org/wiki/Garuda_Purana",
+    "indonesiaEmblem": "https://en.wikipedia.org/wiki/National_emblem_of_Indonesia",
+    "gwk": "https://en.wikipedia.org/wiki/Garuda_Wisnu_Kencana",
+    "nagaPanchami": "https://en.wikipedia.org/wiki/Naga_Panchami",
+    "yuddhaKanda": "https://en.wikipedia.org/wiki/Yuddha_Kanda",
+    "kadru": "https://en.wikipedia.org/wiki/Kadru"
+  },
+  "depth": "full",
+  "palette": { "c1": "#F2E3BF", "c2": "#B5D3DE" },
+  "order": 500
+}

@@ -1,0 +1,276 @@
+{
+  "slug": "vali",
+  "name": "Vali",
+  "aka": ["Bali", "Valin", "Subali"],
+  "native": "वाली",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Mighty vanara king of Kishkindha",
+  "summary": "Vali is the powerful vanara king of Kishkindha in the Ramayana, elder brother of Sugriva and father of Angada. His quarrel with Sugriva leads to Rama's alliance with the vanaras.",
+  "about": "In the Valmiki Ramayana, Vali rules the vanara kingdom of Kishkindha and is famed for his strength. A feud with his younger brother Sugriva begins after a fight with an asura in a cave, when Sugriva believes Vali has died. Vali drives Sugriva out, and Sugriva shelters on Mount Rishyamukha with Hanuman. When Rama meets Sugriva, the two agree to help each other, and Rama shoots Vali during a duel. The text records Vali questioning Rama's action and Rama answering with arguments from kingly duty and dharma; Vali then accepts the answer and entrusts his son Angada to Rama. In the Uttara Kanda he also carries Ravana across the oceans in his arm. Retellings in many languages, including Southeast Asian ones, tell the story of his death in their own ways, and readers still debate whether Rama's shot from hiding was fair.",
+  "kidSummary": "Vali is a very strong monkey king who rules the city of Kishkindha. He has a younger brother, Sugriva, and a son, Angada. After a big misunderstanding, the brothers become enemies, and Rama steps in to help Sugriva. At the end Vali speaks honestly with Rama, and he leaves his son in Rama's care.",
+  "story": [
+    {
+      "title": "Two brothers",
+      "text": "Vali rules Kishkindha, and his younger brother Sugriva serves him. Vali is the elder and is known across the land for his great strength."
+    },
+    {
+      "title": "The cave",
+      "text": "In the Ramayana, a fierce asura challenges Vali, and Vali follows him into a cave. Sugriva waits outside for a long time, sees blood, and fears his brother is dead."
+    },
+    {
+      "title": "A sad quarrel",
+      "text": "Sugriva seals the cave and becomes king. When Vali returns alive, he is angry and drives Sugriva away. Sugriva hides on Rishyamukha mountain."
+    },
+    {
+      "title": "Rama and Sugriva",
+      "text": "Rama, searching for Sita, meets Sugriva and they promise to help each other. Sugriva calls Vali out to fight, and Rama shoots an arrow from a distance."
+    },
+    {
+      "title": "Honest words",
+      "text": "Wounded Vali asks Rama why he did it. Rama explains his reasons. Vali listens, asks forgiveness for his harsh words, and asks Rama to protect Angada."
+    }
+  ],
+  "teaches": [
+    "Anger and misunderstanding can break families",
+    "Listening and forgiving, even at the very end",
+    "Keeping a promise to a friend"
+  ],
+  "symbol": "mace",
+  "emblems": ["Golden pendant from Indra", "Sal tree (used in duels)", "Kishkindha"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Sugriva",
+      "slug": "sugriva"
+    },
+    {
+      "relation": "Wife",
+      "name": "Tara",
+      "slug": "tara-ramayana"
+    },
+    {
+      "relation": "Son",
+      "name": "Angada",
+      "slug": "angada"
+    },
+    {
+      "relation": "Father (by tradition)",
+      "name": "Indra",
+      "slug": "indra"
+    },
+    {
+      "relation": "Slain by",
+      "name": "Rama",
+      "slug": "rama"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Kishkindha Kanda",
+    "Kathasaritsagara",
+    "Mahabharata (Vana Parva summary)"
+  ],
+  "places": ["Kishkindha", "Rishyamukha mountain", "Banteay Srei, Cambodia"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Indra's golden pendant kept Vali strong and radiant, and it still shone as he lay dying. He told Sugriva that the goddess of victory would leave it at his death, so Sugriva should wear it as king.",
+      "kind": "symbol",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Uttara Kanda, Ravana came to Kishkindha to challenge Vali; Vali seized him, carried him under his arm across the oceans while finishing his daily prayers, then freed him laughing.",
+      "kind": "story",
+      "source": "https://gutenberg.org/cache/epub/62496/pg62496-images.html",
+      "interest": 10,
+      "kid": false
+    },
+    {
+      "text": "After that flight Ravana, worn out, asked Vali for friendship, and the two swore it before a fire; Ravana stayed in Kishkindha for a month before his ministers took him home.",
+      "kind": "story",
+      "source": "https://gutenberg.org/cache/epub/62496/pg62496-images.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Every dawn Vali strode from ocean to ocean to offer water to the rising sun, and he tossed mountain peaks into the air and caught them like play balls.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Dundubhi, a buffalo-shaped asura with the strength of a thousand elephants, challenged the ocean and then the Himalaya before Himavan sent him to fight Vali at Kishkindha.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vali killed Dundubhi and flung the body a great distance; blood drops fell in the hermitage of the sage Matanga, who cursed Vali never to enter the area around Rishyamukha.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Dying Vali challenged Rama for striking from a hidden spot. He asked why a monkey should be hunted at all, and said he would himself have helped Rama.",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Vali's account, as Sugriva relays it, Vali searched the cave for a full year, then killed Mayavi and his kin; blood flooded the cave and the mouth was sealed behind him.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hearing no answer to his calls for Sugriva, Vali smashed the blocking hilltop with his foot, walked out, and decided his brother had schemed to grab the kingdom.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mourning vanaras recalled that Vali once fought a heavenly being named Golabha day and night, and finally killed him in the sixteenth year of the duel.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Riksharaja, the parent of Vali and Sugriva, begins as a monkey formed from the tears of Brahma, which Brahma wiped away and let fall to the ground.",
+      "kind": "story",
+      "source": "https://gutenberg.org/cache/epub/62496/pg62496-images.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Uttara Kanda says Riksharaja mistook his reflection in a lake for a rival, leapt in and came out a woman. Indra's son Vali was born from her hair, and Surya's son Sugriva from her neck.",
+      "kind": "story",
+      "source": "https://gutenberg.org/cache/epub/62496/pg62496-images.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Rama's chief answer to the dying Vali was that Vali had wronged Sugriva by keeping his wife Ruma, whom custom ranks like a daughter-in-law, and that punishing this was a king's duty.",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Tara begged him not to fight Sugriva, but Vali replied that he could never ignore a challenge, even if it came from a god, from his own son Angada or from Sugriva's wife.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vali_(Ramayana)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In their duel Sugriva struck Vali with a sal tree, and Vali reeled like an overloaded ship about to wreck in a rough sea, before the fight turned his way again.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Dying, Vali argued that a monkey is no use to a hunter, since holy people shun its skin, hair and bones and its meat is not fit to eat, so why was he shot at all?",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rama answered that the whole earth, with its forests and mountains, belongs to the Ikshvaku line, now ruled by Bharata, and that royal sages may hunt animals, so Vali was within the king's reach.",
+      "kind": "teaching",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "For Vali's funeral Rama told Sugriva to order dry firewood and the finest sandalwood at once, and to comfort Tara and the heartbroken Angada while the rites were arranged.",
+      "kind": "story",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A translator's note says Valmiki shows Tara only three times, warning Vali, grieving at his fall and calming Lakshmana, and calls her a granddaughter of Brihaspati, lord of wisdom.",
+      "kind": "text",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Valmiki compares the fallen Vali to the flagpole raised for Indra's festival, which is thrown down once the celebrations end.",
+      "kind": "art",
+      "source": "https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Thai Ramakien, Shiva gives Phali, the Thai Vali, a magic trident that passes half the strength of any opponent to him, which makes him almost unbeatable.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramakien",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which mountain could Vali not enter because of a sage's curse?",
+      "options": ["Mount Meru", "Mount Rishyamukha", "Mount Kailash", "Mount Mandara"],
+      "answer": 1,
+      "why": "The Ramayana says the sage Matanga had made it forbidden to Vali."
+    },
+    {
+      "q": "Who is Vali's son?",
+      "options": ["Hanuman", "Nala", "Angada", "Jambavan"],
+      "answer": 2,
+      "why": "Angada is the son of Vali and Tara."
+    },
+    {
+      "q": "What did Sugriva use to seal the cave?",
+      "options": ["A boulder", "A tree trunk", "Golden gates", "A rope"],
+      "answer": 0,
+      "why": "He closed the cave with a boulder, thinking Vali was dead."
+    },
+    {
+      "q": "What did the dying Vali do at the end?",
+      "options": [
+        "Left the world in anger",
+        "Asked Rama's forgiveness and asked him to care for Angada",
+        "Called for his army",
+        "Blamed Sugriva forever"
+      ],
+      "answer": 1,
+      "why": "Vali accepted Rama's answer and trusted him with his son."
+    }
+  ],
+  "related": ["sugriva", "angada", "rama", "tara-ramayana", "hanuman", "ravana", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vali_(Ramayana)",
+    "kishkindha16": "https://www.valmikiramayan.net/utf8/kish/sarga16/kishkindhasans16.htm",
+    "kishkindha18": "https://www.valmikiramayan.net/utf8/kish/sarga18/kishkindhasans18.htm",
+    "kishkindha11": "https://www.valmikiramayan.net/utf8/kish/sarga11/kishkindhasans11.htm",
+    "kishkindha15": "https://www.valmikiramayan.net/utf8/kish/sarga15/kishkindhasans15.htm",
+    "kishkindha22": "https://www.valmikiramayan.net/utf8/kish/sarga22/kishkindhasans22.htm",
+    "uttara": "https://gutenberg.org/cache/epub/62496/pg62496-images.html",
+    "kishkindha17": "https://www.valmikiramayan.net/utf8/kish/sarga17/kishkindhasans17.htm",
+    "kishkindha10": "https://www.valmikiramayan.net/utf8/kish/sarga10/kishkindhasans10.htm",
+    "ramakien": "https://en.wikipedia.org/wiki/Ramakien",
+    "kishkindha25": "https://www.valmikiramayan.net/utf8/kish/sarga25/kishkindhasans25.htm"
+  },
+  "palette": {
+    "c1": "#E8B589",
+    "c2": "#EAD7A8"
+  },
+  "order": 210,
+  "depth": "full"
+}

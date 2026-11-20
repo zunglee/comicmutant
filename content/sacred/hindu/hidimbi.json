@@ -1,0 +1,238 @@
+{
+  "slug": "hidimbi",
+  "name": "Hidimbi",
+  "aka": ["Hidimba", "Hadimba Devi", "Arimbi (Javanese)", "Dhungri Devi"],
+  "native": "हिडिम्बा",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Forest rakshasi, wife of Bhima and goddess of Manali",
+  "summary": "In the Mahabharata, Hidimbi is a forest rakshasi who marries Bhima and bears Ghatotkacha. In Himachal Pradesh she is also worshipped as the goddess Hadimba Devi, with a famed wooden temple in Manali.",
+  "about": "In the Mahabharata, Hidimbi lives in a forest with her brother Hidimba when the Pandavas, escaping the house of lac, arrive there. Sent by her brother to catch them, she instead falls for Bhima and offers to carry the family to safety. Bhima defeats Hidimba, and with Yudhishthira's permission, Hidimbi and Bhima spend time together and have a son, Ghatotkacha. She then leaves the child with the Pandavas and returns to the forest. In Himachal Pradesh she is also worshipped as a goddess, Hadimba Devi, with a wooden temple built in Manali in 1553. Scholars note that her worship may be older than her link to the epic, and that the epic connection grew more prominent over time. She appears as Arimbi in Javanese wayang.",
+  "kidSummary": "Hidimbi is a forest rakshasi in the Mahabharata who first works for her brother, then falls for the strong Bhima and becomes mother to Ghatotkacha. In Manali, in the Himalayas, a beautiful wooden temple in a deodar forest honours her as Hadimba Devi.",
+  "story": [
+    {
+      "title": "In the big sala tree",
+      "text": "In the Mahabharata, Hidimbi lives with her brother Hidimba in a tall sala tree. One night the Pandavas arrive, and her brother sends her to catch them."
+    },
+    {
+      "title": "A change of heart",
+      "text": "Hidimbi takes a gentle human form to meet Bhima, and she falls for him. She offers to carry the whole family to safety, but Bhima says he will not run."
+    },
+    {
+      "title": "Her brother's anger",
+      "text": "Hidimba is angry at his sister and attacks the Pandavas. Bhima defeats him, and Hidimbi is no longer under his control."
+    },
+    {
+      "title": "Ghatotkacha is born",
+      "text": "With Yudhishthira's permission, Bhima spends the daytime hours with Hidimbi. Their son Ghatotkacha is born and grows up quickly."
+    },
+    {
+      "title": "A goddess in the mountains",
+      "text": "Hidimbi leaves her son with the Pandavas and goes back to the forest. In Manali, a goddess called Hadimba Devi is honoured in a temple built in 1553."
+    }
+  ],
+  "teaches": [
+    "Kindness can change the course of a story",
+    "Love and loyalty to family",
+    "Respect for forest and mountain traditions"
+  ],
+  "symbol": "tree",
+  "emblems": ["Sala tree", "Rock sanctuary", "Brass image of the goddess"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Bhima",
+      "slug": "bhima"
+    },
+    {
+      "relation": "Son",
+      "name": "Ghatotkacha",
+      "slug": "ghatotkacha"
+    },
+    {
+      "relation": "Mother-in-law",
+      "name": "Kunti",
+      "slug": "kunti"
+    },
+    {
+      "relation": "Brother-in-law",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    }
+  ],
+  "texts": ["Mahabharata", "Local oral traditions of Kullu"],
+  "places": ["Hadimba Devi Temple, Manali", "Dhungiri Van Vihar", "Kullu"],
+  "festivals": ["Navaratri", "Hidimba Devi Fair (Dhungari Mela)"],
+  "facts": [
+    {
+      "text": "In the epic, she and her brother Hidimba lived in a very tall sala tree and attacked travellers who came through the forest.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A local telling at Manali says Hidimba vowed to marry only the one who could defeat her brother, and that Bhima won her that way.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 7
+    },
+    {
+      "text": "A traditional account says that when the Pandavas returned from exile, Hidimbi stayed behind in Manali and did tapasya, meditation and penance, to reach the status of a goddess. The temple is built around her cave.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Her worship may be older than her link to the Mahabharata: Bhima is absent from her rituals, and Ghatotkacha seems to have been added to her cult late.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8
+    },
+    {
+      "text": "Some scholars suggest she began as a local Himalayan or Buddhist Tantric goddess who was later brought into Hinduism, while others suggest she was a tribal queen later honoured as a goddess.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 7
+    },
+    {
+      "text": "The Hidimba Devi Temple in Manali was built in 1553 by Maharaja Bahadur Singh. Its wooden tower rises 24 metres, with three square roofs of timber tiles and a brass cone on top.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The sanctuary is built around a huge rock worshipped as the goddess's image. Inside, a small brass image about 7.5 cm tall also stands before the rock.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Inside the temple, a carving of the goddess's footprints on a block of stone is also worshipped.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Navaratri, when Durga is worshipped elsewhere, the spotlight in Manali shifts to Hidimba. A fair each May marks Hidimba Devi's birthday, with music and dance by local women.",
+      "kind": "festival",
+      "source": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali/hidimba-temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Kullu Dussehra, Hidimba waits at Ramshila until a messenger carrying a silver staff comes from the Raja to receive her. She then goes first to Raghunathji's temple and only afterwards to the palace.",
+      "kind": "festival",
+      "source": "https://kulludussehra.hp.gov.in/?p=266",
+      "interest": 8
+    },
+    {
+      "text": "When Hidimba arrives at Kullu Dussehra, her musical instruments sound and the priest, filled with the goddess's power, trembles and calls out to the Raja as 'grandson'. Hearing it, the Raja opens the gates and comes out.",
+      "kind": "text",
+      "source": "https://kulludussehra.hp.gov.in/?p=266",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The temple's main door is carved with the earth goddess Durga as its theme. Around her are animals, leafy patterns, dancers, scenes from Krishna's life and the Navagrahas.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The traditional account says that after the Pandavas left, Hidimba looked after the kingdom and its people and raised Ghatotkacha. When he grew up she handed him the reins and went to meditate on a rock, and Durga blessed her to become a goddess.",
+      "kind": "story",
+      "source": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali/hidimba-temple",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Mark Elmore argues that tourism, state heritage branding and TV serials such as B. R. Chopra's Mahabharata helped popularise her link to the epic, especially after Himachal Pradesh was formed in 1971.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8
+    },
+    {
+      "text": "When Bhima, wary of her, told her to leave, Yudhishthira reminded him that goodness matters more than suspicion. Hidimbi then promised Kunti she would protect the Pandavas and stay loyal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 8
+    },
+    {
+      "text": "Scholar Neeru Nanda suggests the Bhima and Hidimbi episode may retell an ancient clash between the Aryan devas and the Himalayan asuras.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Hidimbi",
+      "interest": 7
+    },
+    {
+      "text": "In the Javanese telling, Arimbi, as she is called there, has a youngest brother named Kalabendana, a dwarf giant remembered for his plain and noble heart.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Kullu Dussehra, Hidimba and Bijli Mahadev join the great procession with their full retinues.",
+      "kind": "festival",
+      "source": "https://kulludussehra.hp.gov.in/?p=266",
+      "interest": 7
+    },
+    {
+      "text": "The Pandavas and Kunti agreed to the marriage on one condition: once a child was born, the family would continue their wanderings.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 7
+    },
+    {
+      "text": "In a non-canonical folk tale, Hidimbi asks Ghatotkacha to bring a human for a sacrifice to Kali. When Bhima steps in to take a child's place, Ghatotkacha learns that Bhima is his father, and he and Hidimbi agree to end the practice.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ghatotkacha",
+      "interest": 8
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Hidimbi's famous husband in the Mahabharata?",
+      "options": ["Arjuna", "Nakula", "Bhima", "Karna"],
+      "answer": 2,
+      "why": "Hidimbi married Bhima, and their son was Ghatotkacha."
+    },
+    {
+      "q": "In which hill town is the famous Hadimba Devi Temple?",
+      "options": ["Shimla", "Manali", "Ooty", "Darjeeling"],
+      "answer": 1,
+      "why": "The temple stands in Manali, Himachal Pradesh, in a cedar forest."
+    },
+    {
+      "q": "What is the sacred centre of the Manali temple built around?",
+      "options": ["A tree", "A river", "A huge rock", "A stone lamp"],
+      "answer": 2,
+      "why": "The sanctuary is built around a huge rock worshipped as the goddess's image."
+    },
+    {
+      "q": "Why did Hidimbi first meet Bhima in a human form?",
+      "options": ["To scare him less", "To hide from Kunti", "To fight him", "To join a festival"],
+      "answer": 0,
+      "why": "She did not want her rakshasi form to frighten Bhima."
+    }
+  ],
+  "related": ["bhima", "ghatotkacha", "kunti", "yudhishthira", "durga"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hidimbi",
+    "temple": "https://en.wikipedia.org/wiki/Hidimba_Devi_Temple",
+    "kullu": "https://kulludussehra.hp.gov.in/?p=266",
+    "ghatotkacha": "https://en.wikipedia.org/wiki/Ghatotkacha",
+    "incredibleindia": "https://www.incredibleindia.gov.in/en/himachal-pradesh/manali/hidimba-temple"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#b5cfa8",
+    "c2": "#e0d0b0"
+  },
+  "order": 25
+}

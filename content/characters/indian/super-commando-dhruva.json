@@ -7,7 +7,7 @@
   "medium": "comics",
   "publisher": "Raj Comics",
   "summary": "Rajnagar's hero with no superpowers: a former circus kid who talks to animals, rides a stunt bike and leads the Commando Force. Created by Anupam Sinha in 1987.",
-  "origin": "Dhruva grew up in the Jupiter Circus, where his trapeze-artist parents Shyam and Radha were killed in a massacre carried out by Jubisko, the strongman of the rival Globe Circus. Orphaned at 14, he was adopted by Rajnagar police officer Rajan Mehra. He used insurance money he inherited from the circus to set up the government-approved Commando Force. Dhruva has no superpowers and no secret identity. He relies on training, intelligence, circus agility and his rare ability to communicate with animals. His name and star emblem come from Dhruva Taara, the Pole Star, a symbol of steadfastness.",
+  "origin": "Dhruva grew up in the Jupiter Circus, where his trapeze-artist parents Shyam and Radha died when Jubisko, strongman of the rival Globe Circus, burned it down. Dhruva survived and was adopted by Rajnagar police officer Rajan Mehra. Using circus insurance money, he set up the government-approved Commando Force. Dhruva has no superpowers and no secret identity. He relies on training, intelligence, circus agility and his ability to talk to animals. His name and star emblem come from Dhruva Taara, the Pole Star, a symbol of steadfastness.",
   "creators": ["Anupam Sinha (writer, artist)"],
   "firstAppearance": {
     "title": "Pratishodh Ki Jwala",
@@ -46,9 +46,9 @@
     },
     {
       "era": "Special",
-      "years": "1991",
+      "years": "Early 1990s",
       "title": "Grand Master Robo",
-      "beat": "His first solo special introduces Robo's daughter Natasha, the undersea golden city Swarna Nagri, and his ability to breathe underwater."
+      "beat": "His first solo special introduces Robo's daughter Natasha, the undersea golden city Swarna Nagri, and his ability to breathe underwater. The source gives no exact year, only that it followed Special #1."
     },
     {
       "era": "Shift",
@@ -71,7 +71,7 @@
     },
     {
       "type": "fact",
-      "text": "Early Dhruva carried a pistol as a last resort. He fired it only once, at Rhino-men in Aadamkhoron Ka Swarg, before it was written out.",
+      "text": "Early Dhruva carried a pistol as a last resort. It came out in only one story, against Rhino-men in Aadamkhoro Ka Swarg, before it was written out.",
       "spice": 2
     },
     {
@@ -87,7 +87,7 @@
     {
       "type": "myth",
       "text": "Dhruva debuted in 1988.",
-      "truth": "His first issue, Pratishodh Ki Jwala, came out in April 1987.",
+      "truth": "The main character page dates his first issue, GENL #74 Pratishodh Ki Jwala, to April 1987, though a few other pages say 1988.",
       "spice": 1
     },
     {
@@ -119,6 +119,12 @@
       ],
       "answer": 3,
       "why": "The circus insurance payout paid for the force."
+    },
+    {
+      "q": "Which animal can't Dhruva talk to?",
+      "options": ["Gorilla", "Dolphin", "Lion", "Dog"],
+      "answer": 0,
+      "why": "He can talk to dogs, lions, dolphins and most birds, but the story Bahri Maut shows a gorilla is the one he cannot."
     }
   ],
   "rivals": ["grand-master-robo"],
@@ -148,15 +154,22 @@
       "year": 1991,
       "kind": "comic",
       "title": "Meets Nagraj",
-      "note": "Special #1 pairs him with the snake king, starting Raj Comics' most famous double act.",
+      "note": "Special #1 teams him with Nagraj. The first two team-ups, both written by Sanjay Gupta, are said to have failed to make a mark.",
       "with": "nagraj"
     },
     {
       "year": 1991,
       "kind": "comic",
-      "title": "Grand Master Robo special",
-      "note": "His first solo special pits him against Robo and brings in Natasha and the undersea city of Swarna Nagri.",
+      "title": "Grand Master Robo special (early 1990s)",
+      "note": "His first solo special, issued after SPCL #1 in the early 1990s (the source gives no exact year), pits him against Robo and brings in Natasha and the undersea city of Swarna Nagri.",
       "with": "grand-master-robo"
+    },
+    {
+      "year": 1993,
+      "kind": "comic",
+      "title": "Nagraj aur Bugaku",
+      "note": "SPCL #8 reunites him with Nagraj and is estimated to have sold 2.5 to 3 million copies, a record among Raj Comics specials.",
+      "with": "nagraj"
     },
     {
       "year": 1995,
@@ -172,17 +185,193 @@
       "with": "grand-master-robo"
     },
     {
+      "year": 1996,
+      "kind": "comic",
+      "title": "Rajnagar Ki Tabahi",
+      "note": "Anupam Sinha's 90-page team-up with Nagraj is a huge hit and sets up the long Nagraj-Dhruva partnership.",
+      "with": "nagraj"
+    },
+    {
       "year": 2001,
       "kind": "comic",
       "title": "Brahmand Rakshak assemble",
       "note": "Zalzalaa forms Raj Comics' big superhero team, and Dhruva is right there in the line-up."
     },
     {
-      "year": 2024,
-      "kind": "screen",
-      "title": "The Alliance on YouTube",
-      "note": "Raj Comics releases a live-action Dhruva short, the first chapter of a new web series of films."
+      "year": 2020,
+      "kind": "legacy",
+      "title": "A comic about depression",
+      "note": "Raj Comics releases a free Dhruva comic about depression for World Suicide Prevention Day in September."
     }
   ],
-  "heat": 60
+  "heat": 60,
+  "facts": [
+    {
+      "text": "Special #1 in 1991 is believed to have sold over a million copies across its run and reprints; some fans claim 4 million, which is unconfirmed.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Dhananjay of Swarna Nagri gave him a chip that lets him breathe and talk underwater.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "Sinha says children see grown-ups as giants who can do what kids cannot, so an ordinary adult with no powers is already a superhero to a child; that idea shaped Dhruva.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "The only animal Dhruva cannot talk to is a gorilla, as shown in the story Bahri Maut.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "He learned to talk to dolphins from Anna, who ran the dolphin shows at Jupiter Circus.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "His skills came from circus teachers: Hercules taught strength, Ranjan knife throwing, Sulaiman shooting, and Pawan wall-of-death bike stunts.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "He is a licensed pilot, and on duty traffic rules reportedly do not apply to him thanks to special permission from the traffic department.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Dhruva owns a star helicopter, a sonic jet, a star-boat and a star-shaped plane painted half blue and half yellow, but has never owned a car.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "In one story Dhruva jokes that he should thank Batman someday for inventing the swinging style that is so handy in traffic jams.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "The Mahamanav story pits Dhruva against a villain said to be as far ahead of humans as humans are of monkeys, and it is considered a landmark of his early years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Sinha is said to have drawn the room he was staying in at Mumbai into one of the last panels of the Grand Master Robo special.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "He has trained himself to hold his breath for 20 minutes, which helps against poison-gas attacks.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Writing for The Boston Globe, Chris Wright called Dhruva MacGyver-like for beating foes with a paper clip or a soup spoon, and joked that his hair is a solid-looking helmet.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "A free comic released in September 2020 for World Suicide Prevention Day, written by Manoj Gupta and Ayush Gupta, had Dhruva face depression and aimed to normalise mental illness rather than only raise awareness.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "A 2011 Boston Globe feature compared superheroes from seven countries and gave Dhruva, standing in for India, the top score of 8 out of 10.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Dhruva began fighting crime at 14 and is probably the youngest of Raj Comics' heroes.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Nagayana, an eight-part series based on the Ramayana and set in an alternate future, ran from 2007 to 2009 and starred Nagraj and Dhruva together.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "His foster sister Shweta secretly fights crime as Chandika, introduced in GENL #147; Natasha is the first and only person to learn the secret.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "Natasha, introduced in the Grand Master Robo special, is his love interest and the daughter of his arch-enemy Grand Master Robo.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Early on Dhruva carried a pistol only as a last resort. He used it in just one story, Aadamkhoro Ka Swarg, against Rhino-men, and it was then dropped for good.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "The Jupiter Circus fire was a plot by the owner of the rival Globe Circus, who sent strongman Jubisko and sharpshooter Bond; Globe Circus later shut down too.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "In the 1998 Dhruva-shakti story his sister Shweta upgrades him with bracelets that fire star-blades and star-line, a locked metal belt with a transmitter, and boots that turn into roller skates.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Nagraj aur Bugaku (SPCL #8, 1993), a second Nagraj and Dhruva special, is estimated to have sold 2.5 to 3 million copies, the highest recorded sale among Raj Comics specials.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "In 1993 a rival for Natasha's place in his life arrived: Black Cat, whose real name is Richa, introduced in a self-titled issue that complicated Dhruva's love life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Super Commando Dhruva is an Indian comic hero with no superpowers. A circus boy who lost his parents, he uses brains, stunts and his gift of talking to animals to protect the city of Rajnagar.",
+  "story": [
+    {
+      "title": "A circus childhood",
+      "text": "Dhruva grows up in the Jupiter Circus, where trapeze artists, strongmen and animal trainers teach him their skills. He also learns to talk to the circus animals."
+    },
+    {
+      "title": "A terrible fire",
+      "text": "A rival circus plots against Jupiter, and a fire destroys it and takes his parents. Dhruva survives and promises to fight evil."
+    },
+    {
+      "title": "A new family",
+      "text": "Police chief Rajan Mehra adopts him, and Dhruva starts the Commando Force with young cadets to help him protect Rajnagar."
+    },
+    {
+      "title": "Brains, not powers",
+      "text": "He has no superpowers. He wins with clever plans, acrobatics, a star-shaped toolkit and a strict rule never to kill."
+    },
+    {
+      "title": "Friends and teams",
+      "text": "His sister Shweta secretly becomes the hero Chandika, and he teams up with Nagraj and other Raj Comics heroes."
+    }
+  ]
 }

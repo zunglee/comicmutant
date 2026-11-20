@@ -1,0 +1,271 @@
+{
+  "slug": "mahabali",
+  "name": "Mahabali",
+  "aka": ["Bali", "Maveli", "Indrasenan"],
+  "native": "महाबली",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Generous asura king remembered at Onam",
+  "summary": "Mahabali is the generous asura king of the Puranas who gave Vamana three steps of land. Kerala's Onam marks his yearly visit to his people.",
+  "about": "In the Puranas, Mahabali, also called Bali or Maveli in Kerala, is an asura king, a grandson of Prahlada and a descendant of Kashyapa. Hindu texts describe him as a generous ruler. In the best-known telling, the Bhagavata Purana says Vishnu came as the dwarf Vamana to his Ashvamedha sacrifice and asked for three steps of land. After two steps covered heaven and earth, Mahabali offered his own head for the third, and was sent to Sutala, or Patala. Hindus believe he is one of the Chiranjivi, long-lived beings, and that he returns each year during Onam in Kerala and Balipratipada elsewhere. Jain and Buddhist texts also mention him in their own ways. Versions differ on where he finally goes and what his story means.",
+  "kidSummary": "Mahabali is a kind and generous king in the Puranas. One day a small boy named Vamana asks him for just three steps of land. Mahabali says yes, even though it costs him his kingdom. People in Kerala believe he comes back once a year, and they welcome him at Onam with flower carpets, feasts and boat races.",
+  "story": [
+    {
+      "title": "A generous king",
+      "text": "Mahabali rules with kindness and gives gifts freely. His power grows until the devas worry and ask Vishnu for help."
+    },
+    {
+      "title": "A small visitor",
+      "text": "While Mahabali holds a big sacrifice, a small Brahmin boy named Vamana arrives. He asks only for as much land as he can cover in three steps."
+    },
+    {
+      "title": "A warning ignored",
+      "text": "Mahabali's teacher Shukra warns him that the boy is not what he seems. Mahabali has promised, so he keeps his word."
+    },
+    {
+      "title": "Three steps",
+      "text": "Vamana grows until he fills the sky. One step covers the heavens and another covers the earth. There is nowhere left for the third."
+    },
+    {
+      "title": "A head for the third step",
+      "text": "Mahabali bows and offers his own head. Pleased, Vishnu blesses him and says he may visit his people each year, which is why people celebrate Onam."
+    }
+  ],
+  "teaches": [
+    "Keeping a promise matters, even when it is costly",
+    "Generosity and humility are admired in a ruler"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Three steps", "Pookkalam (flower carpet)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Virochana"
+    },
+    {
+      "relation": "Grandfather",
+      "name": "Prahlada",
+      "slug": "prahlada"
+    },
+    {
+      "relation": "Son",
+      "name": "Banasura",
+      "slug": "banasura"
+    },
+    {
+      "relation": "Wife",
+      "name": "Vindhyavali"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Shukracharya",
+      "slug": "shukracharya"
+    },
+    {
+      "relation": "Visitor at his yajna",
+      "name": "Vamana",
+      "slug": "vamana"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Uttara Ramayana",
+    "Sapta Chiranjivi Stotram",
+    "Karandavyuha Sutra"
+  ],
+  "places": ["Thrikkakara Vamanamoorthy Temple", "Sutala (netherworld)"],
+  "festivals": ["Onam", "Balipratipada"],
+  "facts": [
+    {
+      "text": "Hindu texts say he briefly held amrita, so his people could bring him back to life after he fell in a war between devas and asuras.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One tale says Lakshmi made him her brother to win Vishnu back, so Vishnu rests in his palace for four months a year, called Chaturmas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Hindu texts expect him to become the ruler of heaven in the next Manvantara.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Thrikkakara Vamanamoorthy Temple is a Divya Desam, and it keeps a record of the Onam celebration dating to 861 CE.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Thrikkakara_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Onapottan, a silent folk figure from North Malabar with a bell and palm-leaf umbrella, represents Mahabali's visit.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition counts him sixth of nine Prativasudevas, who oppose the main heroes in Jain accounts.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Karandavyuha Sutra, Avalokiteshvara foretells that he will become a Buddha named Shri.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one Skanda Purana account, the water Brahma used to wash the foot of the second step gives rise to the river Ganges.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vamana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition gives him 100 sons, including Banasura, and a daughter, Vajrajvala, who is named as the wife of Kumbhakarna.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A folk song, Maveli Nadu Vaneedum Kalam, pictures his reign as a time of equality, without caste-based untouchability or a gap between rich and poor; a 1920s version is often credited to the reformer Sahodaran Ayyappan, though authorship is debated.",
+      "kind": "history",
+      "source": "https://thesouthfirst.com/kerala/thiruvonam-special-unpacking-asura-king-mahabali-exploring-the-meaning-behind-the-myth",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Onam became Kerala's official state festival in 1961 under Chief Minister Pattom Thanu Pillai, and the large celebrations were scaled back the next year because of the 1962 war.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The earliest known reference to an Onam-type festival is in the Maturaikkanci, a Tamil poem of about the 3rd century CE, which describes a Madurai festival for Mayon, a name for Vishnu, with games, new clothes and feasts.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Shukra, the asuras' guru, saw through Vamana's disguise, he blocked the spout of the water pot so the gift could not be poured; Vamana pierced the spout with a stick and blinded Shukra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Shukra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Texts disagree on where Bali ends up: banished to Patala, dragged there by Garuda, lifted to heaven by Vishnu's touch, made a long-lived Chiranjivi, or even welcomed into Vaikuntha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "His wife Vindhyavali, also called Ashrama, is said to have once saved their son Bana from Krishna's anger.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ramayana, Ravana tries to free Bali from Patala but cannot.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain inscriptions from Girnar, about 1231 CE, praise the minister Vastupala's charity by saying it outdid Mahabali's.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In coastal Karnataka, families offer him a dish on a plate made of bamboo sticks, with a lamp and a Tulu folk song inviting him to accept it.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Mahabali",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Malayalam proverb about the Onam feast says one should have the Onam lunch even by selling one's property.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The 8th-century Alvar saint Nammalvar mentions the one who measured the three worlds, which matches the Vamana and Mahabali tale.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Pulikali, the tiger dance of Thrissur at Onam, has performers painted in bright yellow, red and black who dance to chenda and thakil drums.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Onam",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "How many steps of land did Vamana ask for?",
+      "options": ["Two", "Three", "Seven", "Ten"],
+      "answer": 1,
+      "why": "He asked for three steps."
+    },
+    {
+      "q": "Which festival welcomes Mahabali home?",
+      "options": ["Onam", "Baisakhi", "Lohri", "Teej"],
+      "answer": 0,
+      "why": "Onam is celebrated in Kerala."
+    },
+    {
+      "q": "What is the Onam flower carpet called?",
+      "options": ["Pookkalam", "Mehndi", "Diya", "Torana"],
+      "answer": 0,
+      "why": "A pookkalam is a flower carpet laid at Onam."
+    },
+    {
+      "q": "Where is the Vamanamoorthy Temple known for Onam?",
+      "options": ["Madurai", "Thrikkakara", "Puri", "Dwarka"],
+      "answer": 1,
+      "why": "Thrikkakara Vamanamoorthy Temple is a Divya Desam and holds records of Onam dating to 861 CE."
+    }
+  ],
+  "related": ["vamana", "prahlada", "banasura", "shukracharya", "vishnu"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahabali",
+    "onam": "https://en.wikipedia.org/wiki/Onam",
+    "thrikkakara": "https://en.wikipedia.org/wiki/Thrikkakara_Temple",
+    "vamana": "https://en.wikipedia.org/wiki/Vamana",
+    "chiranjivi": "https://en.wikipedia.org/wiki/Chiranjivi",
+    "prahlada": "https://en.wikipedia.org/wiki/Prahlada",
+    "south-first": "https://thesouthfirst.com/kerala/thiruvonam-special-unpacking-asura-king-mahabali-exploring-the-meaning-behind-the-myth",
+    "shukra": "https://en.wikipedia.org/wiki/Shukra"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0d8a8",
+    "c2": "#a8d4c0"
+  },
+  "order": 500
+}

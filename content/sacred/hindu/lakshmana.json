@@ -1,0 +1,316 @@
+{
+  "slug": "lakshmana",
+  "name": "Lakshmana",
+  "aka": ["Saumitri", "Ramanuja", "Lakshman"],
+  "native": "लक्ष्मण",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Rama's devoted younger brother in the Ramayana",
+  "summary": "In the Ramayana, Lakshmana is Rama's loyal younger brother, born to Sumitra, who follows him into exile. Many Puranas say he is an incarnation of Shesha, the serpent of Vishnu.",
+  "about": "Lakshmana is the son of King Dasharatha and Queen Sumitra and the twin of Shatrughna in the Valmiki Ramayana. He grew up closest to Rama and went with him and Sita into the forest for fourteen years, guarding them and building their hut at Panchavati. He married Urmila, Sita's sister. The epic tells of his fight against Ravana's son Indrajit and of the time Hanuman carried a mountain of herbs to revive him. Puranic tradition says he is an incarnation of Shesha, the serpent on whom Vishnu rests. The Jain Ramayanas make him, not Rama, the one who defeats Ravana. Temples to Lakshmana stand in Kerala and Madhya Pradesh, and the Malay word laksamana for an admiral comes from his name.",
+  "kidSummary": "Lakshmana is Rama's loyal little brother in the Ramayana. When Rama had to live in the forest, Lakshmana went too, and kept watch day and night to keep Rama and Sita safe. People remember him as a model of loyalty and helpfulness to family.",
+  "story": [
+    {
+      "title": "Two brothers, always together",
+      "text": "Lakshmana and Shatrughna were twins born to Queen Sumitra. From childhood, Lakshmana stayed close to his older brother Rama and followed him everywhere."
+    },
+    {
+      "title": "Learning with the sage",
+      "text": "As young princes, Rama and Lakshmana went with the sage Vishvamitra. He taught them special weapons and they helped protect his rituals."
+    },
+    {
+      "title": "Off to the forest",
+      "text": "When Rama was sent away for fourteen years, Lakshmana gave up his comfortable palace life. He chose to go with Rama and Sita and look after them."
+    },
+    {
+      "title": "The little hut",
+      "text": "In the forest at Panchavati, Lakshmana built a hut for them. Later tellings say he drew a protective line around it while Rama chased a golden deer."
+    },
+    {
+      "title": "A wound and a mountain",
+      "text": "In the war with Ravana, Lakshmana was badly hurt. Hanuman flew to the Himalayas and brought back a whole mountain of herbs, which healed him."
+    },
+    {
+      "title": "A sister-in-law's gift",
+      "text": "Popular tradition tells that Lakshmana's wife Urmila slept through the fourteen years so that Lakshmana could stay awake guarding Rama and Sita."
+    }
+  ],
+  "teaches": [
+    "Loyalty to family",
+    "Service without asking for credit",
+    "Staying alert and caring for others"
+  ],
+  "symbol": "bow",
+  "emblems": ["Bow and arrows", "Shesha, the serpent (past-life link)"],
+  "family": [
+    {
+      "relation": "Elder brother",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Twin brother",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Brother",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Father",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sumitra",
+      "slug": "sumitra"
+    },
+    {
+      "relation": "Wife",
+      "name": "Urmila",
+      "slug": "urmila"
+    },
+    {
+      "relation": "Sister-in-law",
+      "name": "Sita",
+      "slug": "sita"
+    },
+    {
+      "relation": "Said to be an incarnation of",
+      "name": "Shesha",
+      "slug": "shesha"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas (Tulsidas)",
+    "Paumachariya (Jain)",
+    "Gond Ramayani",
+    "Hikayat Seri Rama (Malay)"
+  ],
+  "places": [
+    "Thirumoozhikkulam (Kerala)",
+    "Bandhavgarh Fort (Madhya Pradesh)",
+    "Bharatpur (Rajasthan)",
+    "Panchavati"
+  ],
+  "festivals": ["Karkidakam (Ramayana month in Kerala)"],
+  "facts": [
+    {
+      "text": "The Malay and Indonesian title laksamana, close to admiral, comes from his name, passed down through Sanskrit-based titles of the Srivijaya era. Brunei, Indonesia and Malaysia still use it for admirals.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Laksamana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In popular tradition Lakshmana asked the goddess Nidra to let him stay awake for fourteen years, and his wife Urmila took his share of sleep. When the exile ended he slept, so she could wake and see Rama crowned.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The phrase Lakshman Rekha, a line Lakshmana draws to protect Sita, is not in Valmiki's Ramayana. It comes from later versions of the story.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana_Rekha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ramcharitmanas skips the line when it tells the abduction, but later Mandodari teases Ravana that he could not cross a small line Lakshmana drew.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana_Rekha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Valmiki Ramayana, Lakshmana beheaded Atikaya, Ravana's mountain-sized son, with a Brahma missile after the wind god appeared and advised him.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424700",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Puranic tradition calls Lakshmana an incarnation of Shesha. After the war he refused to be crown prince because Bharata was older, and Rama promised to be his younger brother next birth, as Krishna to Balarama.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Lakshmana guards the door while Rama meets Yama. To save Ayodhya from the sage Durvasa's curse he interrupts, then enters the Sarayu, and Indra carries him to heaven.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Jain Ramayana tradition Lakshmana, called Vasudeva, is the one who kills Ravana, not Rama.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Gond Ramayani, Lakshmana, not Sita, goes through the trial by fire after the Lanka war.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Local tradition says Rama gave Bandhavgarh Fort to Lakshmana to watch over Lanka. The name is read as brother's fort, and a temple to Lakshmana stands there.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Lakshmana kills Indrajit, Ravana's son, who had once captured Indra. Vibhishana learned that Indrajit was doing a fire rite for near-invincibility, and he and Lakshmana broke it; Lakshmana then defeated him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Indrajit",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Sugriva forgot his promise after the monsoon, an angry Lakshmana marched to Kishkindha, and Queen Tara calmed him before persuading Sugriva to keep his word.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kishkindha_Kanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Ramakien, Phra Ram orders Phra Lak to take Nang Sida into the forest and kill her, but Phra Lak brings back a doe's heart to fool him, and she finds shelter with a hermit.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramakien",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rishikesh's Lakshman Jhula, a suspension bridge over the Ganga completed in 1929, is named for the belief that Lakshmana once crossed the river there on jute ropes.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Lakshman_Jhula",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition gives Lakshmana about sixteen thousand wives, with Prithvisundari as chief queen, while the Valmiki Ramayana gives him only Urmila.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki's Aranya Kanda, after Shurpanakha lunged at Sita, Rama told Lakshmana to stop her. He drew his sword and cut off her ears and nose, and she fled to her brother Khara, starting the conflict at Janasthana.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424115",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shown the jewels Sita dropped, Lakshmana says he cannot recognise her bracelets or earrings, only her anklets, because he had only ever bowed at her feet.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424179",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Rama told him of the exile, Lakshmana burst out in anger and offered to fight for Rama's right to the throne. Rama calmed him, saying that keeping their father's word came first.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423968",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Lakshmana begged to join the exile, Rama first asked him to stay and guard the queens. Lakshmana replied that Kaushalya could look after everyone and asked to serve as his attendant, spade and basket in hand.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423978",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Panchavati Rama picked the spot and Lakshmana built the hut himself, with mud walls, bamboo posts, and a roof thatched with shami boughs, creepers and grass.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424112",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Bhavabhuti's Sanskrit play Mahaviracharita, Lakshmana and Urmila first meet when Janaka sends her and Sita with their uncle to Vishvamitra's sacrifice, a different story from the one told in Valmiki.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Lakshmana",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who was Lakshmana's twin brother?",
+      "options": ["Bharata", "Shatrughna", "Hanuman", "Sugriva"],
+      "answer": 1,
+      "why": "Lakshmana and Shatrughna were born to Queen Sumitra."
+    },
+    {
+      "q": "Who flew a mountain of herbs to heal Lakshmana?",
+      "options": ["Jatayu", "Hanuman", "Indrajit", "Vibhishana"],
+      "answer": 1,
+      "why": "Hanuman lifted a whole mountain when he could not tell which herb to pick."
+    },
+    {
+      "q": "What does the Malay word laksamana mean today?",
+      "options": ["Teacher", "Admiral", "Farmer", "Poet"],
+      "answer": 1,
+      "why": "The naval title comes from Lakshmana's name."
+    },
+    {
+      "q": "Who slept for fourteen years in popular tradition so Lakshmana could stay awake?",
+      "options": ["Sita", "Mandavi", "Urmila", "Kaushalya"],
+      "answer": 2,
+      "why": "Urmila's long sleep is called Urmila Nidra."
+    },
+    {
+      "q": "Which serpent is Lakshmana said to be an incarnation of?",
+      "options": ["Vasuki", "Takshaka", "Shesha", "Kaliya"],
+      "answer": 2,
+      "why": "Many Puranas link him to Shesha, the serpent of Vishnu."
+    }
+  ],
+  "related": [
+    "rama",
+    "sita",
+    "urmila",
+    "shatrughna",
+    "bharata-ramayana",
+    "hanuman",
+    "indrajit",
+    "sumitra",
+    "shesha"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Lakshmana",
+    "laksamana": "https://en.wikipedia.org/wiki/Laksamana",
+    "rekha": "https://en.wikipedia.org/wiki/Lakshmana_Rekha",
+    "nalambalam": "https://en.wikipedia.org/wiki/Nalambalam",
+    "ramakien": "https://en.wikipedia.org/wiki/Ramakien",
+    "tulsidas": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+    "atikaya": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424700",
+    "shurpanakha": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424115",
+    "indrajit": "https://en.wikipedia.org/wiki/Indrajit",
+    "kishkindha": "https://en.wikipedia.org/wiki/Kishkindha_Kanda",
+    "jhula": "https://en.wikipedia.org/wiki/Lakshman_Jhula",
+    "kishkindha6": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424179",
+    "ayodhya21": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423968",
+    "ayodhya31": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423978",
+    "aranya15": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424112"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#dce8d8",
+    "c2": "#f1e4c8"
+  },
+  "order": 500
+}

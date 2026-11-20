@@ -1,0 +1,210 @@
+{
+  "slug": "mata-sundari",
+  "name": "Mata Sundari",
+  "aka": ["Mata Sundri", "Mata Sunder Kaur"],
+  "native": "ਮਾਤਾ ਸੁੰਦਰੀ",
+  "tradition": "sikh",
+  "group": "sikh-figure",
+  "role": "Wife of Guru Gobind Singh who guided the Sikhs after him",
+  "years": "died 1747",
+  "summary": "Mata Sundari, wife of Guru Gobind Singh, lived in Delhi after his death in 1708 and guided the Sikh community for nearly forty years. She issued hukamnamas, and she died in 1747.",
+  "about": "Mata Sundari was the daughter of Ram Sarana, a Khatri of Bajwara in Hoshiarpur district. The Sikh Encyclopedia says she married Guru Gobind Singh at Anandpur in 1684 (Wikipedia gives 1673) and that her son Ajit Singh was born in 1687. After the evacuation of Anandpur in 1704 she and Mata Sahib Kaur reached Delhi in disguise. After the Guru's passing in 1708 she guided the Sikhs from Delhi, issued hukamnamas under her own seal and sent Bhai Mani Singh to look after the shrines at Amritsar. Accounts say she adopted a boy named Ajit Singh and, in 1714, sent a hukamnama about Banda Singh Bahadur. Historians question some details. She died in 1747.",
+  "kidSummary": "Mata Sundari was the wife of Guru Gobind Singh. After he passed away, she lived in Delhi and helped guide the Sikhs for almost forty years. She sent letters called hukamnamas and asked Bhai Mani Singh to look after the Golden Temple area.",
+  "story": [
+    {
+      "title": "Daughter of Bajwara",
+      "text": "Sundari was born to Ram Sarana in the village of Bajwara in Hoshiarpur. She married Guru Gobind Singh, and their son Ajit Singh was born in 1687 at Paonta."
+    },
+    {
+      "title": "Escape to Delhi",
+      "text": "When the family was parted near the Sarsa river in 1704, she and Mata Sahib Kaur put on village clothes and travelled to Delhi to stay safe."
+    },
+    {
+      "title": "After the Guru",
+      "text": "Guru Gobind Singh passed away at Nanded in 1708. Mata Sundari, in Delhi, became a respected guide for the Sikh community."
+    },
+    {
+      "title": "Letters with her seal",
+      "text": "She sent hukamnamas, letters of guidance, to Sikh communities. She also sent Bhai Mani Singh to look after the shrines at Amritsar."
+    },
+    {
+      "title": "Lasting memory",
+      "text": "She died in Delhi in 1747. Her memorial stands in the grounds of Gurdwara Bala Sahib. A women's college in Central Delhi carries her name, and Gurdwara Mata Sundri marks the haveli where she lived from 1727."
+    }
+  ],
+  "teaches": [
+    "Leadership with calm and care",
+    "Looking after a community's shared places",
+    "Standing firm in difficult times"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Hukamnama (letter of guidance)", "Her seal"],
+  "family": [
+    {
+      "relation": "husband",
+      "name": "Guru Gobind Singh",
+      "slug": "guru-gobind-singh"
+    },
+    {
+      "relation": "companion",
+      "name": "Mata Sahib Kaur",
+      "slug": "mata-sahib-kaur"
+    },
+    {
+      "relation": "son",
+      "name": "Sahibzada Ajit Singh",
+      "slug": "sahibzade"
+    },
+    {
+      "relation": "mother-in-law",
+      "name": "Mata Gujri",
+      "slug": "mata-gujri"
+    },
+    {
+      "relation": "father",
+      "name": "Ram Sarana"
+    }
+  ],
+  "texts": ["Sikh historical chronicles", "Encyclopaedia of Sikhism"],
+  "places": ["Bajwara (Hoshiarpur)", "Anandpur Sahib", "Gurdwara Bala Sahib, Delhi", "Mathura"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In 1707 Emperor Bahadur Shah met Guru Gobind Singh for talks, and he sent Mata Sundari, then in Delhi, jewellery and clothes worth one lakh rupees.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sundari",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In 1714 Emperor Farrukhsiyar asked her to persuade Banda Singh Bahadur to submit. Banda refused, and Wikipedia says the emperor then imprisoned both of the Guru's widows, after which she wrote to Banda again.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sundari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When tensions grew at Amritsar, she sent Bhai Mani Singh with six other Sikhs to manage the Darbar Sahib, telling them that all the income should go to the Guru's langar. Her side was known as the Tat Khalsa.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Tat_Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Baisakhi 1721 paper slips carrying each side's salute were dropped into the sarovar at Amritsar. The traditional Khalsa salute, used by the faction she led, floated up first, and many followers of Banda changed sides.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tat_Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A wrestling match was held in front of the Akal Takht to settle the dispute. Miri Singh won for the Tat Khalsa, and most of the remaining Bandais then joined the Khalsa.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tat_Khalsa",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A modern place-name keeps her son's memory alive: the Punjab city better known as Mohali has the official name Sahibzada Ajit Singh Nagar.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ajit_Singh_(Sikhism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "She adopted a boy and named him Ajit Singh after her lost son. Bahadur Shah honoured him in September 1710, but he grew arrogant, and she disowned him.",
+      "kind": "story",
+      "source": "https://www.thesikhencyclopedia.com/sundari-mata",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia says she excommunicated Banda Singh Bahadur. The historians Ganda Singh and Surjit Singh Gandhi say no contemporary source records it, and Sukhdial Singh says no such hukamnama exists.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sundari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Her own son, Sahibzada Ajit Singh, was killed at the Battle of Chamkaur in December 1704. The Sikh Encyclopedia says she learned of it, and of Mata Gujri's death, when she rejoined the Guru at Talvandi Sabo in 1706.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/sundari-mata",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Her surviving hukamnamas are dated from 12 October 1717 to 10 August 1730. Her own signature or mark survives on them, and Wikipedia shows a hukamnama issued by her.",
+      "kind": "art",
+      "source": "https://www.thesikhencyclopedia.com/sundari-mata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After her adopted son's troubles she left Delhi for Mathura, where Wikipedia says the Raja of Jaipur gave her a home and an allowance. She later returned to Delhi.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mata_Sundari",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gurdwara Mata Sundri in Delhi stands on the site of the haveli where she lived from 1727, behind JP Nayak Hospital.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Gurdwara_Mata_Sundri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "After the Guru's passing she also asked Bhai Mani Singh to collect the writings of Guru Gobind Singh, says the Sikh Encyclopedia.",
+      "kind": "history",
+      "source": "https://www.thesikhencyclopedia.com/sundari-mata",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Where did Mata Sundari live after the death of Guru Gobind Singh?",
+      "options": ["Anandpur", "Delhi", "Patna", "Lahore"],
+      "answer": 1,
+      "why": "She guided the Sikhs from Delhi."
+    },
+    {
+      "q": "What are the letters she sent to Sikh communities called?",
+      "options": ["Janamsakhis", "Gurbani", "Hukamnamas", "Ragas"],
+      "answer": 2,
+      "why": "Hukamnamas are letters of guidance under a seal."
+    },
+    {
+      "q": "Whom did she send to look after the shrines at Amritsar?",
+      "options": ["Bhai Mani Singh", "Mardana", "Gangu", "Baba Buddha"],
+      "answer": 0,
+      "why": "Bhai Mani Singh managed the shrines."
+    },
+    {
+      "q": "Which emperor sent her jewellery and clothes worth a lakh of rupees?",
+      "options": ["Bahadur Shah", "Aurangzeb", "Farrukhsiyar", "Akbar"],
+      "answer": 0,
+      "why": "Bahadur Shah sent them to Delhi in 1707, after meeting the Guru."
+    }
+  ],
+  "related": [
+    "guru-gobind-singh",
+    "mata-sahib-kaur",
+    "mata-gujri",
+    "bhai-mani-singh",
+    "banda-singh-bahadur"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mata_Sundari",
+    "sikh-encyclopedia": "https://www.thesikhencyclopedia.com/sundari-mata",
+    "tat-khalsa": "https://en.wikipedia.org/wiki/Tat_Khalsa",
+    "gurdwara-mata-sundri": "https://en.wikipedia.org/wiki/Gurdwara_Mata_Sundri",
+    "ajit-singh": "https://en.wikipedia.org/wiki/Ajit_Singh_(Sikhism)"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#e2d6f0",
+    "c2": "#f2e4d0"
+  },
+  "order": 6
+}

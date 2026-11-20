@@ -1,0 +1,264 @@
+{
+  "slug": "tarakasura",
+  "name": "Tarakasura",
+  "aka": ["Taraka", "Tarakasur"],
+  "native": "तारकासुर",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura whose story leads to the birth of Kartikeya",
+  "summary": "Tarakasura is the asura of the Puranas whose boon said only a son of Shiva could end his rule, which led to the birth of Kartikeya. His sons are the Tripurasura.",
+  "about": "In the Puranas, Tarakasura is the son of the asura Vajranga and Vajrangi. The Puranas say he asked Brahma for a boon that no one in the three worlds would equal him and that only a son of Shiva could defeat him, which looked safe since Shiva was a yogi. After he drove the devas from heaven, they sought a way to bring Shiva and Parvati together. Kamadeva was burned, but Parvati's tapas eventually won Shiva, and their son Kartikeya led the devas. In the Skanda Purana, Kartikeya ends Taraka's rule with his vel. Kalidasa's Kumarasambhava, whose date is uncertain but often placed in the 5th century CE, is built around this story. In Tamil tradition, Kartikeya, as Murugan, faces Surapadman, remembered at Soorasamharam. Tarakasura's three sons are known as the Tripurasura.",
+  "kidSummary": "Tarakasura is an asura in the Puranas who receives a special boon from Brahma. He believes only a son of Shiva could stop him, and Shiva is deep in meditation. This leads to Parvati's long tapas, her marriage to Shiva and the birth of Kartikeya. In the story, Kartikeya leads the devas and uses his spear, the vel.",
+  "story": [
+    {
+      "title": "A clever boon",
+      "text": "Tarakasura asks Brahma for a boon that only a son of Shiva can stop him. He thinks that Shiva, who always meditates, will never have a son."
+    },
+    {
+      "title": "The devas leave heaven",
+      "text": "He drives the devas out of Svarga and calls himself the new Indra. The devas look for a way to help."
+    },
+    {
+      "title": "Love and tapas",
+      "text": "Indra sends Kamadeva to wake Shiva's heart, but Shiva burns him to ash. Parvati then does long, patient tapas to win Shiva."
+    },
+    {
+      "title": "Kartikeya is born",
+      "text": "Shiva and Parvati marry and their son Kartikeya is born. The devas make him their commander."
+    },
+    {
+      "title": "The spear",
+      "text": "Vishnu advises Kartikeya to act before sunset on the seventh day. Kartikeya uses his vel and Tarakasura's rule ends."
+    }
+  ],
+  "teaches": [
+    "Patience and steady effort can change a situation",
+    "Cleverness meets its limits in the end"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Boon of Brahma", "Svarga seized", "Three sons, the Tripurasura"],
+  "family": [
+    {
+      "relation": "Grandfather",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Grandmother",
+      "name": "Diti"
+    },
+    {
+      "relation": "Father",
+      "name": "Vajranga"
+    },
+    {
+      "relation": "Mother",
+      "name": "Vajrangi"
+    },
+    {
+      "relation": "Sons",
+      "name": "Tarakaksha, Vidyunmali, Kamalaksha (Tripurasura)",
+      "slug": "tripurasura"
+    },
+    {
+      "relation": "Opponent",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Spouse (some sources)",
+      "name": "Shambuki"
+    }
+  ],
+  "texts": ["Skanda Purana", "Shiva Purana", "Kumarasambhava", "Kanda Puranam (Tamil)"],
+  "places": ["Tiruchendur", "Palani"],
+  "festivals": ["Soorasamharam", "Kanda Shashti", "Kama Dahanam"],
+  "facts": [
+    {
+      "text": "In the Skanda Purana, Vishnu tells Kartikeya that Taraka had once turned Indra and the other gods into monkeys for a hundred million years.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In the Skanda Purana, Kartikeya was born when six sparks from Shiva became six boys, raised by the Krittikas and later joined as one six-headed child.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kartikeya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Taraka's army was led by Kalanemi, who swallowed Vishnu and Garuda whole, and Vishnu cut his way out with the Sudarshana Chakra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, Vishnu tells Kartikeya on his seventh day of life, at midday, to slay Taraka before sunset or it cannot be done.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Kartikeya hesitated because Taraka was a devotee of Rudra, so Vishnu arranged for Taraka to attack Shiva first.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Puranas say the three cities moved so they almost never aligned, lining up only about once in a thousand years, when Pushya was joined with the moon.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tripura_(mythology)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a related Tamil story, the Kanda Puranam, Kartikeya splits the asura Surapadma with his vel and the halves become a peacock and a rooster.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Soorasamharam",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Canto I of the Kumarasambhava, Parvati earns the name Uma when her mother begs her to give up her harsh penance.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Taraka's father Vajranga was born when Diti asked Kashyapa for a son who could beat the devas; he captured Indra and the gods, then freed them when Brahma asked, saying he only obeyed his mother.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Brahma made Vajranga a wife, Vajrangi, who asked for a son to conquer the three worlds; stunned, Vajranga prayed for a better child, and Tarakasura was born.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Indra blamed Brahma for the trouble, since Brahma grants whatever boons his devotees ask, but Brahma said Shiva's deep tapas left little he could do.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Canto II of the Kumarasambhava, the gods tell Brahma that Taraka has forced them all into his service, leaving even Indra powerless.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Canto III, Kama arrives with Vasanta, the spring, and trees bloom out of season; Shiva steadies himself, sees Kama and burns him to ash with fire from his third eye.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Canto IV, Rati mourns Kama until a voice from the sky says he will regain his body once Shiva marries Parvati.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In South India, the night of the Holika bonfire is Kama Dahanam, remembering the day Shiva burned Kamadeva to ashes.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Holika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vaishnava writers of about the 16th century took up the theme of Kamadeva's burnt spirit roaming free, and said it was reborn in Vasudeva.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Only the first eight cantos of the Kumarasambhava are agreed to be Kalidasa's; the cantos telling of Kumara's birth and victory over Taraka are thought to be by a later hand.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Legend says Kalidasa never finished his poem because Parvati cursed him for how he described her married life with Shiva in the eighth canto.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Skanda Purana, Taraka calls billions of asuras under Kalanemi, and the deva armies fall like trees in a forest fire before Indra himself is struck down.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Tarakasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Kumarasambhava leans more on romance, sringara rasa, than on heroism, even though it tells of the birth of a war god.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kumarasambhava",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Whose son could defeat Tarakasura?",
+      "options": ["Brahma's", "Shiva's", "Vishnu's", "Indra's"],
+      "answer": 1,
+      "why": "The boon named a son of Shiva."
+    },
+    {
+      "q": "What is Kartikeya's spear called?",
+      "options": ["Vel", "Chakra", "Gada", "Pasha"],
+      "answer": 0,
+      "why": "The vel is Murugan's spear."
+    },
+    {
+      "q": "Which poet wrote the Kumarasambhava?",
+      "options": ["Kalidasa", "Valmiki", "Tulsidas", "Bana"],
+      "answer": 0,
+      "why": "Kalidasa wrote it."
+    },
+    {
+      "q": "What were the Tripurasura's cities made of?",
+      "options": [
+        "Gold, silver and iron",
+        "Copper, bronze and tin",
+        "Tin, lead and zinc",
+        "Brass, glass and lead"
+      ],
+      "answer": 0,
+      "why": "The three cities were gold, silver and iron."
+    }
+  ],
+  "related": ["kartikeya", "shiva", "parvati", "tripurasura", "kamadeva", "kashyapa"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Tarakasura",
+    "kumarasambhava": "https://en.wikipedia.org/wiki/Kumarasambhava",
+    "tripura": "https://en.wikipedia.org/wiki/Tripura_(mythology)",
+    "soorasamharam": "https://en.wikipedia.org/wiki/Soorasamharam",
+    "kartikeya": "https://en.wikipedia.org/wiki/Kartikeya",
+    "holika": "https://en.wikipedia.org/wiki/Holika"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d4c6e8",
+    "c2": "#f0d4b8"
+  },
+  "order": 500
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "ashvins",
+  "name": "Ashvins",
+  "aka": ["Nasatya", "Dasra", "Ashwini Kumaras", "Ashvini Kumaras"],
+  "native": "अश्विनौ",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Divine twin horsemen and physicians of the devas",
+  "summary": "The Ashvins are Vedic twin gods of healing and dawn, shown as horsemen in a swift chariot. Their name also appears in a 14th-century BCE treaty found in Turkey.",
+  "about": "The Ashvins are twin deities of the Rigveda, honoured in more than fifty hymns. They are youthful horsemen who ride a swift chariot at dawn and bring help to the sick, the lost and the old. Many Puranas say they are the sons of Surya and Sanjna, and the Mahabharata names them as the divine fathers of Nakula and Sahadeva. Their rescue stories include Rebha, Chyavana and Dadhyanc, and the Ayurvedic tonic chyawanprash is linked to them in legend. Their Sanskrit name Nasatya also appears in a Hittite-Mitanni treaty of about 1350 BCE, which scholars consider early evidence of Indo-Aryan gods outside India. The twins sit within a wider Indo-European pattern of divine horse twins.",
+  "kidSummary": "The Ashvins are twin gods who ride a speedy chariot at dawn. In the old stories, they heal the sick, help people in trouble and even make an old sage young again. Many Indians link the herbal jam chyawanprash to them.",
+  "story": [
+    {
+      "title": "Twins on a chariot",
+      "text": "Every dawn, two bright horsemen, the Ashvins, race across the sky in a chariot. Their horses never get tired."
+    },
+    {
+      "title": "Kind healers",
+      "text": "In the Rigveda they rescue people in trouble. They save the sage Rebha from the water and give an iron leg to Vishpala, who lost her own."
+    },
+    {
+      "title": "Sukanya's husband",
+      "text": "The Shatapatha Brahmana tells of Sukanya, whose husband Chyavana was very old. The twins made him young again, and in return Chyavana later helped them."
+    },
+    {
+      "title": "A fair deal",
+      "text": "Chyavana told Sukanya that the gods had left the twins out of a sacrifice, saying they spent too much time among mortals. After much explaining, the Shatapatha Brahmana says the Ashvins were finally welcomed in."
+    },
+    {
+      "title": "A tonic from a legend",
+      "text": "Many people say that the tonic chyawanprash began with this story, which is why it is made with amla and many herbs."
+    }
+  ],
+  "teaches": [
+    "Helping others, especially the sick and the lost, is a noble work",
+    "Healing and wisdom belong together",
+    "Everyone deserves a fair share"
+  ],
+  "symbol": "sun",
+  "emblems": ["Horses", "Three-compartment chariot", "Honey whip", "Herbs of healing"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Mother",
+      "name": "Sanjna"
+    },
+    {
+      "relation": "Sons by Madri",
+      "name": "Nakula",
+      "slug": "nakula"
+    },
+    {
+      "relation": "Sons by Madri",
+      "name": "Sahadeva",
+      "slug": "sahadeva"
+    },
+    {
+      "relation": "Invoked by",
+      "name": "Madri",
+      "slug": "madri"
+    },
+    {
+      "relation": "Companion",
+      "name": "Ushas",
+      "slug": "ushas"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Shatapatha Brahmana",
+    "Mahabharata",
+    "Vishnu Purana",
+    "Charaka Samhita (chyawanprash)"
+  ],
+  "places": ["Dhosi Hill, Haryana"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Later Puranas say Sanjna, fleeing Surya's heat, became a mare; when Surya found her in stallion form, the twin Ashvins were born.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Sanjna",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mahabharata says Madri called on the Ashvins to have her sons, so the Pandava twins Nakula and Sahadeva are counted as their children.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Around 1350 BCE, a treaty between Hittite and Mitanni kings, found at Hattusa, called on the Nasatya twins as witnesses, together with Mitra, Varuna and Indra, far from India.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mitanni",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "The horse-training text of Kikkuli, a Mitanni master trainer, sets out a 214-day conditioning plan for chariot horses, and its numerals and technical words are of Old Indo-Aryan origin.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Kikkuli",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one Rigveda tale the twins win a chariot race to wed Surya's daughter Suryā, and she marries both of them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda says the sage Rebha was bound, stabbed and thrown into the waters for nine days and ten nights before the Ashvins raised him up.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda says the Ashvins gave Vishpala a leg of iron after she lost hers; some readers see her as a woman warrior, others as a racing horse.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishpala",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "Many traditions credit the Ashvins with creating the formula behind chyawanprash, the herbal jam made mainly from amla, for the sage Chyavana.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chyawanprash",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Jaiminiya Brahmana version of the horse-head tale, the devas refused to share a secret mantra with the twins, so the sage Dadhichi taught it to them and asked that they replace his head with a horse's when it burst.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dadhichi",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda describes their chariot as having three compartments, and it is drawn by horses, but also by bulls, geese and falcons, depending on the hymn.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda the seer Bhujyu was left stranded at sea by his father or by false companions, and the twins brought him home, a rescue the hymn calls light-bringing help.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When the sage Gotama was lost in a desert and begged for water, the Rigveda says a well was dug for him with the help of the Ashvins.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Chyavana story, once his youth was restored the Ashvins took on his exact looks, so Sukanya had to pick her real husband from three identical men, and she did.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda names the twins 398 times, in over 50 hymns of their own, and their epithet Nasatya alone appears 99 times.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Rigveda the sage Dirghashravas prayed for rain, and the Ashvins poured sweet water down from the sky.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Ribhus, three Vedic craftsmen, are said to have built the Ashvins' carriage and Indra's horses, and to have made their own parents young again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ribhus",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Rigveda always names the Ashvins in the dual, as a pair, with no separate names; one verse calls one a victorious lord and the other a fortunate son of heaven.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Rigveda calls the twins grandsons of the sky-god Dyaus, echoing the Greek Dioscuri, the boys of Zeus, and the Lithuanian sons of Dievas.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vedic tradition links the Ashvins with medicine, healing and twilight, and describes them as rescuers who bring people back from the brink of death.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A local tradition places the sage Chyavana's hermitage on Dhosi Hill near Narnaul, Haryana, and ties it to the first chyawanprash prepared by the Ashvins.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Ashvins",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does 'Ashvins' mean?",
+      "options": ["Fire possessors", "Horse possessors", "Cloud riders", "Sun carriers"],
+      "answer": 1,
+      "why": "The name means 'horse possessors', matching their horse-drawn chariot."
+    },
+    {
+      "q": "Which Pandava twins are linked to the Ashvins?",
+      "options": [
+        "Arjuna and Bhima",
+        "Yudhishthira and Karna",
+        "Nakula and Sahadeva",
+        "Abhimanyu and Ghatotkacha"
+      ],
+      "answer": 2,
+      "why": "Madri called on the Ashvins, and Nakula and Sahadeva were born."
+    },
+    {
+      "q": "Which herbal jam is linked to the Ashvins in legend?",
+      "options": ["Amla marmalade", "Chyawanprash", "Rose jam", "Mango pickle"],
+      "answer": 1,
+      "why": "Many traditions say the Ashvins created chyawanprash for Chyavana."
+    },
+    {
+      "q": "What was unusual about the sage Dadhyanc's head in a Rigveda tale?",
+      "options": ["Golden hair", "A horse's head", "A crown of snakes", "Three faces"],
+      "answer": 1,
+      "why": "The Rigveda says the Ashvins fitted him with a horse's head."
+    },
+    {
+      "q": "Where was a treaty of about 1350 BCE that named the Nasatya twins found?",
+      "options": ["Egypt", "Anatolia (Turkey)", "Rome", "China"],
+      "answer": 1,
+      "why": "The Hittite-Mitanni treaty, found at Hattusa in what is now Turkey, named them as witnesses."
+    }
+  ],
+  "related": ["surya", "ushas", "nakula", "sahadeva", "madri", "dhanvantari", "indra"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Ashvins",
+    "mitanni": "https://en.wikipedia.org/wiki/Mitanni",
+    "chyawanprash": "https://en.wikipedia.org/wiki/Chyawanprash",
+    "sanjna": "https://en.wikipedia.org/wiki/Sanjna",
+    "dadhichi": "https://en.wikipedia.org/wiki/Dadhichi"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3dfc0",
+    "c2": "#c7d8e6"
+  },
+  "order": 501
+}

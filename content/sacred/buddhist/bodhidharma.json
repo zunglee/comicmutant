@@ -1,0 +1,259 @@
+{
+  "slug": "bodhidharma",
+  "name": "Bodhidharma",
+  "aka": ["Daruma", "Damo", "Tamo", "Da Mo"],
+  "native": "बोधिधर्म",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Monk said to have brought Chan (Zen) to China",
+  "summary": "Bodhidharma was a Buddhist monk of the 5th or 6th century, remembered as the first Chinese patriarch of Chan. His life is mixed with legend, and in Japan he is called Daruma.",
+  "about": "Bodhidharma was a Buddhist monk who, according to Chinese sources, travelled from the Western Regions to China around the 5th or 6th century. Later Chan tradition names him the first Chinese patriarch and the 28th after the Buddha. Some accounts call him a Persian from Central Asia, while Indian tradition calls him the third son of a Pallava king of Kanchipuram. Only one short text is credited to him. Legends say he faced a wall for nine years, and in Japan he became the model for the Daruma doll. His link to Shaolin kung fu is a much later story.",
+  "kidSummary": "Bodhidharma was a Buddhist monk who walked from India or nearby lands to China long ago. Stories say he meditated for nine years facing a wall. In Japan he became Daruma, whose round doll helps people stick to their goals.",
+  "story": [
+    {
+      "title": "A traveller from the west",
+      "text": "Chinese sources say a monk called Bodhidharma came from the Western Regions. Indian tradition says he was a prince from Kanchipuram."
+    },
+    {
+      "title": "The cave and the wall",
+      "text": "Stories say he went to Shaolin Monastery but was turned away or soon sent out. He lived in a nearby cave and sat facing a wall for nine years."
+    },
+    {
+      "title": "A student who would not quit",
+      "text": "Legend says a seeker named Huike stood in the snow to prove he was serious. Bodhidharma finally accepted him as his student."
+    },
+    {
+      "title": "A shoe left behind",
+      "text": "A tale says an official later met him carrying just one shoe. When his grave was opened, only a single shoe was inside."
+    },
+    {
+      "title": "Daruma in Japan",
+      "text": "In Japan he became Daruma. Round dolls with blank eyes remind people to get up again after each fall and finish what they start."
+    }
+  ],
+  "teaches": [
+    "Keep going, even when it is hard",
+    "Look into your own mind",
+    "Practise quietly, not for show"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Wall-gazing meditation", "Red robe (Daruma doll)", "Single shoe (legend)"],
+  "family": [
+    {
+      "relation": "Teacher in Chan lineage",
+      "name": "Prajnatara"
+    },
+    {
+      "relation": "Chief student",
+      "name": "Huike"
+    }
+  ],
+  "texts": [
+    "Two Entrances and Four Practices",
+    "Record of the Buddhist Monasteries of Luoyang",
+    "Transmission of the Lamp",
+    "Anthology of the Patriarchal Hall"
+  ],
+  "places": [
+    "Shaolin Monastery",
+    "Mount Song, China",
+    "Kanchipuram (Indian tradition)",
+    "Takasaki, Japan"
+  ],
+  "festivals": ["Daruma-ichi (Takasaki)"],
+  "facts": [
+    {
+      "text": "Tradition says he meditated for nine years facing a wall at Shaolin Monastery, earning the nickname wall-gazing Brahmin.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One legend says he cut off his eyelids after falling asleep in meditation, and the first tea plants grew where they fell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Another legend says his legs withered from years of sitting, which is why Daruma dolls have no legs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Daruma doll comes with blank eyes: the owner paints the left eye when setting a goal and the right when it is achieved.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Daruma_doll",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest record, from 547, says he gazed at the golden finials and jewel-bells of Luoyang's Yongning pagoda, called it the work of spirits, and bowed with joined palms for days.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "According to tradition his teacher Prajnatara gave him the name Bodhidharma; before ordination he was said to be called Jayavarman or Bodhidhana.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Daruma dolls carry the saying fall over seven times, get up eight, and their weighted round base pops them upright again.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Daruma_doll",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The doll's eyebrows resemble a crane and its cheek whiskers a tortoise shell, both symbols of a long life.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Daruma_doll",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Southeast Asian folklore says he sailed to Palembang and travelled through Sumatra, Java and Luzon before reaching China; Malay legend credits him with silat and Tagalog legend with arnis.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The earliest mention, from 547, shows him as a wonder-worker who claimed to be 150 years old, not as a meditation teacher.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The idea that he founded Shaolin martial arts traces to a 1624 qigong manual and spread through a novel of 1904 to 1907.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "One legend says Huike cut off his own arm to prove sincerity, but the monk-historian Daoxuan says bandits cut it off.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A Chan story says he praised students as having his skin, flesh, bones or marrow, and Huike was given the marrow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A tale says the official Song Yun met him in the Pamirs carrying one sandal; Song was arrested for lying, since Bodhidharma was thought dead, until the tomb was opened and held a single sandal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Chan texts give him many nicknames, including bearded man, pierced-ear guest (many Indian monks wore earrings) and blue-eyed barbarian, a general term for non-Han people from the west.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Asked by Emperor Wu how much merit his temples and sutra copying had earned, Bodhidharma is said to have answered 'none'; the tale first appears around 758.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A Chinese painting from the 1300s shows him crossing the Yangzi River standing on a single reed, after he left the emperor's court and headed for Shaolin.",
+      "kind": "art",
+      "source": "https://www.clevelandart.org/art/141200",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a famous exchange, Huike says his mind is anxious and asks to have it calmed; Bodhidharma says to bring the mind to him, and Huike cannot find it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dazu_Huike",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Legend says Huike stood outside Bodhidharma's cave all night while snow rose to his waist, begging to be taught.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dazu_Huike",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The monk-historian Daoxuan says he died on the banks of the Luo River and was buried by Huike, possibly in a cave, and gives his age as over 180.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The famous swordsman Miyamoto Musashi painted a picture of Bodhidharma, known in Japan as Daruma.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Japanese tradition often pictures him as a red-haired Persian, while Indian tradition calls him a Pallava prince from Kanchipuram.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bodhidharma",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Bodhidharma called in Japan?",
+      "options": ["Daruma", "Tara", "Maitreya", "Kobo"],
+      "answer": 0,
+      "why": "Japan calls him Daruma."
+    },
+    {
+      "q": "When do you paint the second eye of a Daruma doll?",
+      "options": ["When it is bought", "When your goal is reached", "On New Year day", "Never"],
+      "answer": 1,
+      "why": "The right eye is painted when the goal is achieved."
+    },
+    {
+      "q": "How long did he meditate facing a wall, in tradition?",
+      "options": ["Nine days", "Nine months", "Nine years", "Ninety years"],
+      "answer": 2,
+      "why": "Tradition says nine years at Shaolin."
+    },
+    {
+      "q": "Which two animals do a Daruma doll's eyebrows and whiskers resemble?",
+      "options": ["Crane and tortoise", "Tiger and dragon", "Horse and ox", "Owl and fox"],
+      "answer": 0,
+      "why": "The eyebrows look like a crane and the whiskers like a tortoise shell, both symbols of long life."
+    }
+  ],
+  "related": ["gautama-buddha", "mahakashyapa", "nagarjuna", "padmasambhava"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bodhidharma",
+    "daruma": "https://en.wikipedia.org/wiki/Daruma_doll",
+    "shaolin": "https://en.wikipedia.org/wiki/Shaolin_Monastery"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0dccf",
+    "c2": "#e6ecd8"
+  },
+  "years": "c. 5th–6th century CE",
+  "order": 30
+}

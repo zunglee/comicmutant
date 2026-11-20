@@ -47,7 +47,7 @@
       "era": "Sacrifice",
       "years": "Later",
       "title": "Akhiri",
-      "beat": "In the Akhiri series, Parmanu dies saving Earth by blowing himself up in space."
+      "beat": "Wikipedia's Parmanu page says that in the Akhiri series he dies saving Earth by blowing himself up in space."
     }
   ],
   "gossip": [
@@ -58,7 +58,7 @@
     },
     {
       "type": "fact",
-      "text": "Commentators have compared his shrinking powers to Ant-Man and the Atom.",
+      "text": "Commentators have compared his shrinking powers to Ant-Man and the Atom, and ThePrint's headline calls him both rolled into one.",
       "spice": 2
     },
     {
@@ -67,9 +67,8 @@
       "spice": 1
     },
     {
-      "type": "myth",
-      "text": "Parmanu was born with his powers.",
-      "truth": "All his powers come from a costume built by his uncle, Prof. K. K. Verma.",
+      "type": "fact",
+      "text": "Parmanu is not a born superhero: his powers come entirely from the suit his uncle, Prof. K. K. Verma, built.",
       "spice": 2
     },
     {
@@ -90,6 +89,12 @@
       "options": ["Lightning", "Star", "Atom", "Shield"],
       "answer": 2,
       "why": "Parmanu is Hindi for atom."
+    },
+    {
+      "q": "What colour is Parmanu's suit?",
+      "options": ["Yellow", "Green", "Black", "Red"],
+      "answer": 0,
+      "why": "His power suit is bright yellow."
     }
   ],
   "rivals": [],
@@ -106,7 +111,11 @@
   },
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Parmanu",
-    "theprint": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/"
+    "theprint": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/",
+    "raj-comics": "https://en.wikipedia.org/wiki/Raj_Comics",
+    "dhruva-comics": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+    "comicbookreligion": "https://www.comicbookreligion.com/?c=6073&Parmanu_Inspector_Vinay",
+    "comicsbio": "https://comicsbio.com/parmanu-first-comic-review-raj-comics"
   },
   "timeline": [
     {
@@ -116,25 +125,163 @@
       "note": "Delhi cop Vinay first suits up as the shrinking, teleporting atom hero, created by Sanjay Gupta."
     },
     {
-      "year": 2001,
+      "year": 1991,
       "kind": "comic",
-      "title": "On the Brahmand Rakshak roster",
-      "note": "Raj Comics forms its superhero team in Zalzalaa, and Parmanu becomes one of its members.",
+      "title": "Guest star in Raj Comics' first special",
+      "note": "Parmanu appears as a guest in 'Nagraj aur Super Commando Dhruva', the publisher's first special issue.",
       "with": "nagraj"
     },
     {
-      "year": 2022,
+      "year": 1998,
       "kind": "comic",
-      "title": "Sarvgrahan team-up",
-      "note": "Sanjay Gupta's imprint drops him into a six-hero book next to Nagraj, Dhruva, Doga, Tiranga and Bheriya.",
+      "title": "Soorma",
+      "note": "Parmanu and Nagraj headline a two-hero special.",
       "with": "nagraj"
     },
     {
-      "year": 2024,
-      "kind": "legacy",
-      "title": "Wonderman Parmanu collector's set",
-      "note": "Raj Comics by Manoj Gupta puts out a Wonderman Parmanu collector's edition along with paperbacks."
+      "year": 2013,
+      "kind": "comic",
+      "title": "Negatives",
+      "note": "Dhruva, Nagraj, Tiranga, Doga and Parmanu share one multistarrer special.",
+      "with": "super-commando-dhruva"
+    },
+    {
+      "year": 2013,
+      "kind": "comic",
+      "title": "Sarvayugam",
+      "note": "Parmanu is one of 16 Raj Comics heroes in the big multistarrer Sarvayugam.",
+      "with": "nagraj"
+    },
+    {
+      "year": 2015,
+      "kind": "comic",
+      "title": "Akhiri Rakshak",
+      "note": "The Aakhiri series opens with Dhruva and Parmanu in Akhiri Rakshak (Last Defender).",
+      "with": "super-commando-dhruva"
     }
   ],
-  "heat": 40
+  "heat": 40,
+  "facts": [
+    {
+      "text": "Wikipedia's Parmanu page says he dies in the Akhiri comic series, blasting himself in space to save Earth. The page carries a 'more citations needed' tag, so treat the detail with care.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 9
+    },
+    {
+      "text": "The Akhiri series, called Aakhiri - The Last Survivors, began in 2015 with Akhiri Rakshak, meaning Last Defender. It pairs Super Commando Dhruva with Parmanu and runs to at least six parts.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+      "interest": 8
+    },
+    {
+      "text": "One Parmanu comic is titled Meri Dress Vapas Kar, which means 'Give my costume back!'.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 8
+    },
+    {
+      "text": "Many Parmanu titles are named after creatures and things: Makhhi means fly, Jonk is leech, Bichhu is scorpion, Kekda is crab and Lattoo is a spinning top.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "Parmanu's enemies are an odd bunch: Vriksha (tree), Cactus, Neem Hakim, Itihaas (History), Programmer and even one called Principal, alongside Dr. Madagascar, General Kharonch, Holika and Madam Cold.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "Probot, a robot, watches Delhi through cameras fitted around the city. It also upgraded the suit from belt buttons to voice recognition, so Parmanu triggers each power by calling its name.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "Pralayanka, whose real name is Mamta Pathak, is a heroine who helps Parmanu. Like him, she is a creation of his scientist uncle, Prof. K. K. Verma.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "Vinay first pulls on his uncle's suit as Wonderman Parmanu just as the monster Bufalo attacks the lab, so his very first fight as a hero is against a monster.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics lists a Parmatma series starring Parmanu and an Aab Marega Parmanu series, whose title means roughly 'Now Parmanu will die'.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics' Kaal Series teams Parmanu with Ashwaraj, Gojo, Bhokal, Tilismdev, Inspector Steel and Super Indian, and in the Mai Hu Bheriya series he joins Bheriya, Nagraj, Dhruva and Doga.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    },
+    {
+      "text": "The 2013 multistarrer Sarvayugam gathered 16 Raj Comics heroes, including Dhruva, Nagraj, Doga, Tiranga, Shakti, Bhokal, Ashwaraj, Inspector Steel and Parmanu, in a single story.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+      "interest": 8
+    },
+    {
+      "text": "Raj Comics' first special issue, Nagraj aur Super Commando Dhruva in 1991, put Parmanu among its guest heroes alongside Gagan, Vinashdoot, Monty, Chandika and the Commando Force.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "In the 1998 special Soorma, Nagraj and Parmanu take on Dr. Virus, who says he moved his base from Rajnagar to Delhi because he feared Dhruva.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Comic Book Religion lists Parmanu's first appearance as Aag Comics #261 in 1991, gives his other names as Atom and Wonderman Parmanu, and counts 69 appearances.",
+      "kind": "publishing",
+      "source": "https://www.comicbookreligion.com/?c=6073&Parmanu_Inspector_Vinay",
+      "interest": 7
+    },
+    {
+      "text": "A fan-site review of an early Parmanu comic shows him stopping a terrorist's escaping private plane by clamping it with an energy lasso made from his power-rays, forcing it to land.",
+      "kind": "story",
+      "source": "https://comicsbio.com/parmanu-first-comic-review-raj-comics",
+      "interest": 8
+    },
+    {
+      "text": "In that review the terrorist Sapera hides in the Crystal building near Delhi's Qutub Minar, and police commandos surround it from a helicopter before Parmanu steps in.",
+      "kind": "story",
+      "source": "https://comicsbio.com/parmanu-first-comic-review-raj-comics",
+      "interest": 7
+    },
+    {
+      "text": "The same early comic has the Sapera Group fire-bomb a police station and drop leaflets from helicopters threatening a rain of fire on Delhi if their leader is not freed.",
+      "kind": "story",
+      "source": "https://comicsbio.com/parmanu-first-comic-review-raj-comics",
+      "interest": 7
+    },
+    {
+      "text": "Parmanu's suit lets him fly at the speed of sound and beyond, fire atomic bolts from his chest, reel out atomic rope, and shrink to any size, according to Wikipedia.",
+      "kind": "powers",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "As a high-school student Vinay finds the murder weapon, a revolver, and learns the killer is the head of police, who then hunts him to get the gun back.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Parmanu",
+      "interest": 7
+    },
+    {
+      "text": "In an interview with ThePrint, Sanjay Gupta said a Parmanu film is worth considering and that the hero deserves a screen outing.",
+      "kind": "culture",
+      "source": "https://theprint.in/feature/parmanu-the-indian-superhero-who-was-both-atom-and-ant-man-rolled-into-one/495990/",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Parmanu is Raj Comics' atom hero. Delhi police inspector Vinay wears a bright yellow suit built by his uncle that lets him shrink, fly, teleport and fire atomic bolts."
 }

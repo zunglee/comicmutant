@@ -1,0 +1,194 @@
+{
+  "slug": "chandraprabha",
+  "name": "Chandraprabha",
+  "aka": ["Chandranatha", "Chandra Prabhu"],
+  "native": "चन्द्रप्रभ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "Eighth Tirthankara of the present age",
+  "summary": "Chandraprabha, whose name means \"moon-lustre\", is the eighth Jain Tirthankara. Jain tradition describes him as white like moonlight, marked by a crescent, and honoured at Sonagiri and Shikharji.",
+  "about": "Jain texts name Chandraprabha as the eighth Tirthankara of this descending age. He is said to have been born at Chandrapuri near Varanasi to King Mahasena and Queen Lakshmana of the Ikshvaku line. Jain texts say his name comes from the moon: his complexion was moon-white, and his mother had longed for the moon while expecting him. Another Digambara text, the Uttarapurana, credits the god Indra with naming him. According to the tradition he became king, then soon renounced royal comforts. After three months of meditation under a naga tree, Jains believe he gained omniscience. He is said to have attained liberation at Sammed Shikharji. His crescent-moon emblem identifies him on temple images across India.",
+  "kidSummary": "Chandraprabha is the eighth Tirthankara, and his name means \"light of the moon\". Jain stories say his mother longed to see the moon before he was born, and that he glowed as softly as moonlight. A little crescent moon marks his statues.",
+  "story": [
+    {
+      "title": "A craving for the moon",
+      "text": "Jain stories say that before Chandraprabha was born, his mother longed to drink in the moon. Someone showed her its reflection in a plate of water, and she felt content."
+    },
+    {
+      "title": "A moon-bright baby",
+      "text": "Jain stories say that when he was born, his skin shone white as moonlight. He was given the name Chandraprabha, meaning \"light of the moon\"."
+    },
+    {
+      "title": "From throne to forest",
+      "text": "He grew up and became king. Soon, though, royal comforts no longer interested him, and he chose to become a wandering monk."
+    },
+    {
+      "title": "Under the naga tree",
+      "text": "He meditated for three months under a naga tree. Jains say that is where he gained perfect knowledge."
+    },
+    {
+      "title": "Moving toward liberation",
+      "text": "He taught others gentleness and non-violence. In the end, Jains say, he reached liberation on the hill of Sammed Shikharji."
+    }
+  ],
+  "teaches": [
+    "Gentleness and calm, like moonlight",
+    "Do not be bound by wealth or power",
+    "Non-violence to every living being"
+  ],
+  "symbol": "star",
+  "emblems": ["Crescent moon (lanchana)", "White colour", "Naga tree"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Mahasena"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Lakshmana"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Suparshvanatha",
+      "slug": "suparshvanatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Pushpadanta",
+      "slug": "pushpadanta"
+    }
+  ],
+  "texts": [
+    "Uttarapurana",
+    "Chandraprabha-charitra (Haribhadra)",
+    "Svayambhustotra (Samantabhadra)",
+    "Triṣaṣṭiśalākāpuruṣacaritra"
+  ],
+  "places": ["Chandrapuri", "Sammed Shikharji", "Sonagiri", "Jaisalmer Fort"],
+  "festivals": ["Ratha yatra at Sonagiri"],
+  "facts": [
+    {
+      "text": "In Jain accounts his pregnant mother longed to drink the moon, and she was calmed when someone showed her its reflection in a plate of water.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/chandraprabha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "There are two naming tales. In one, his father named him for his moon-white complexion. In the Digambara Uttarapurana, Indra names him because the earth and the night lotuses blossomed at his birth.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The earliest known sculpture of him was set up by the Gupta ruler Ramagupta in the 4th century CE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Hansi hoard in Haryana held 58 bronze images from Asigarh Fort, many of him, dated to the 8th-9th centuries and said to have been buried to protect them from invaders.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Sonagiri in Madhya Pradesh means golden mountain. Nicknamed Laghu Sammed Shikhar, the little Sammed Shikhar, it has 103 temples, 77 on the hill and 26 in the village below.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Sonagiri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jains believe his samavasarana, the divine preaching hall, came to Sonagiri seventeen times, and that about 5.5 crore ascetics have reached liberation there since his time.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Sonagiri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Temple 57 at Sonagiri is the main one, holding an image of him about 11 feet tall that is popularly called Bade Baba, with a 43-foot pillar of honour outside.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Sonagiri",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Moodabidri in Karnataka, nicknamed Jain Kashi, has the Thousand Pillar Temple, built in 1430 CE, which is dedicated to him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Jain texts give his height as 150 bows and his lifespan as 10 lakh purvas.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A poem called the Chandraprabha-charitra, by Haribhadra, is dedicated to him, and Buddhist scriptures mention him too, a sign his name was known beyond Jain circles.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "His images were especially popular in eastern India, in Bihar, Bengal and Orissa, and his sculptures also appear at Deogarh, Khajuraho and Sonagiri.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Chandraprabha",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Chandraprabha mean?",
+      "options": ["Sun-warrior", "Moon-lustre", "River-lord", "Lotus-born"],
+      "answer": 1,
+      "why": "Chandra means moon and prabha means light or lustre."
+    },
+    {
+      "q": "What is the sign on his statues?",
+      "options": ["A crescent moon", "A lion", "A conch", "A bull"],
+      "answer": 0,
+      "why": "The crescent moon marks him on the pedestal."
+    },
+    {
+      "q": "What did his mother long for, in Jain stories?",
+      "options": ["A mango", "A golden deer", "The moon", "A river bath"],
+      "answer": 2,
+      "why": "She longed for the moon and was shown its reflection in water."
+    },
+    {
+      "q": "Which place is called \"little Sammed Shikhar\"?",
+      "options": ["Sonagiri", "Moodabidri", "Tijara", "Hansi"],
+      "answer": 0,
+      "why": "Sonagiri, linked to Chandraprabha, is called Laghu Sammed Shikhar."
+    },
+    {
+      "q": "How many times do Jains believe his samavasarana came to Sonagiri?",
+      "options": ["Three", "Seven", "Seventeen", "One hundred and eight"],
+      "answer": 2,
+      "why": "This is a tradition recorded at Sonagiri."
+    }
+  ],
+  "related": ["suparshvanatha", "pushpadanta", "padmaprabha", "rishabhanatha"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Chandraprabha",
+    "wisdomlib": "https://www.wisdomlib.org/definition/chandraprabha",
+    "sonagiri": "https://en.wikipedia.org/wiki/Sonagiri",
+    "shikharji": "https://en.wikipedia.org/wiki/Sammet_Shikharji",
+    "tijara": "https://en.wikipedia.org/wiki/Tijara_Jain_temple"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#dde7f4",
+    "c2": "#b8c7e3"
+  },
+  "order": 8
+}

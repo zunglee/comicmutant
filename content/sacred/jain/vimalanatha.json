@@ -1,0 +1,174 @@
+{
+  "slug": "vimalanatha",
+  "name": "Vimalanatha",
+  "aka": ["Vimala", "Vimalnath", "Lord Vimala"],
+  "native": "विमलनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "13th Tirthankara of the present age",
+  "summary": "Jains revere Vimalanatha as the 13th Tirthankara of this age, born in Kampilya and shown with a boar as his emblem. His name means the pure or stainless one.",
+  "about": "According to Jain tradition, Vimalanatha was born a prince in the city of Kampilya, in today's Uttar Pradesh, to King Kritavarma and his queen. Jain texts say he lived as a royal for a very long time, then gave up his kingdom, walked the ascetic path, reached omniscience (kevala jnana) and taught a community of monks, nuns and lay followers. Jains believe he finally attained liberation on Mount Shikharji, where a small shrine holds a pair of footprints in his memory. His name means pure or stainless; the texts say it came from his mother's clear body and mind during pregnancy. Svetambara and Digambara sources agree on the main outline but differ on dates, names of his mother and the size of his assembly.",
+  "kidSummary": "Vimalanatha is remembered by Jains as the 13th Tirthankara, a teacher who showed others how to live kindly and calmly. His name means pure, and his sign is a boar. Jains say he gave up palace life to find lasting peace and then taught many people.",
+  "story": [
+    {
+      "title": "A pure beginning",
+      "text": "Jain texts say that before his birth his mother stayed calm and clear-minded. Because of this, the child was named Vimala, which means pure and spotless."
+    },
+    {
+      "title": "A prince of Kampilya",
+      "text": "He grew up in the royal city of Kampilya and, as the texts tell it, ruled for a very long time. Yet he slowly felt that palace joys could not bring lasting peace."
+    },
+    {
+      "title": "Setting out",
+      "text": "Jain accounts say he gave away his wealth and rode in a decorated palanquin to a mango grove outside the city. There he became a wandering ascetic, joined by many kings."
+    },
+    {
+      "title": "A kind first meal",
+      "text": "After fasting for two days, he was offered a simple meal by King Jaya. Hemachandra says he then wandered about two years before gaining omniscience under a rose-apple tree; Jainpedia says two months."
+    },
+    {
+      "title": "Teaching and liberation",
+      "text": "He taught thousands of followers. Jains believe that at the end of his life he fasted and reached liberation on Mount Shikharji."
+    }
+  ],
+  "teaches": ["Purity of mind and body", "Letting go of attachment", "Non-violence and compassion"],
+  "symbol": "moon",
+  "emblems": ["Boar (lanchana)", "Golden complexion", "Jambu tree (omniscience)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Kritavarma"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Shyama (Digambaras: Jayashyama)"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Vasupujya",
+      "slug": "vasupujya"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Anantanatha",
+      "slug": "anantanatha"
+    }
+  ],
+  "texts": [
+    "Trishashtishalakapurusha Charitra (Hemachandra)",
+    "Avashyaka-niryukti",
+    "Jain Puranas"
+  ],
+  "places": [
+    "Kampilya (Kampil), Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Shree Vimalnath Tirth, Dhule"
+  ],
+  "festivals": ["Vimalanatha Janma Kalyanak (Magha bright half)"],
+  "facts": [
+    {
+      "text": "A tale in the Jaina Iconography says his mother, as queen of Kampilapura, exposed a demoness who had copied a man's wife: only the demoness could reach far enough to touch him from a distance.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/definition/vimalanatha",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Kampil, his traditional birthplace, is said in the epic age to have been the capital of King Drupada, and a sacrificial altar there is linked to the birth of Draupadi.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kampil",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra pictures Kampilya's shrines at night looking like houses with showers, because water drips from moonstone figures in the moonlight.",
+      "kind": "art",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213271.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra sets his renunciation in a cold-season grove, and a translator's note says monkeys were believed to heap red gunja berries as if they gave off warmth.",
+      "kind": "art",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213275.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Hemachandra's account, King Dhanamitra bet his kingdom in a dice-and-men game against his guest Bali and lost it. He became a monk, vowed to kill Bali in a later life, and was reborn as Svayambhu.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213277.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says Bali was reborn as the half-emperor Meraka, 60 bows tall, the same height as Vimala, with a life of 6,000,000 years. He is the rival in the war story of Vimala's age.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213278.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A poor person who has enlightenment is better off than an emperor without it, says Vimala's sermon in Hemachandra; enlightenment is rarer than becoming a king, an emperor or Indra.",
+      "kind": "teaching",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213285.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Sources disagree on his wandering. Hemachandra says two years as an ordinary ascetic; Jainpedia says two months, ending in omniscience under a jambu tree. Both say King Jaya gave him his first meal.",
+      "kind": "text",
+      "source": "https://jainpedia.org/themes/people/jina/vimala",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hemachandra says his attendant yaksha is Shanmukha, white and riding a peacock, and his yakshi is Vidita, seated on a lotus.",
+      "kind": "symbol",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213283.html",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Vimala mean?",
+      "options": ["Strong", "Pure", "Endless", "Peaceful"],
+      "answer": 1,
+      "why": "Vimala means pure or stainless, linked to his mother's clear mind during pregnancy."
+    },
+    {
+      "q": "Which animal is Vimalanatha's emblem?",
+      "options": ["Deer", "Falcon", "Boar", "Fish"],
+      "answer": 2,
+      "why": "A boar is carved on the base of his images."
+    },
+    {
+      "q": "Where do Jains believe he reached liberation?",
+      "options": ["Mount Shikharji", "Kampilya", "Ayodhya", "Hastinapur"],
+      "answer": 0,
+      "why": "Jain tradition says he attained liberation at Mount Sammeta, now Shikharji."
+    },
+    {
+      "q": "Which city is his traditional birthplace?",
+      "options": ["Ratnapuri", "Hastinapur", "Ayodhya", "Kampilya"],
+      "answer": 3,
+      "why": "Jain tradition places his birth at Kampilya, modern Kampil in Uttar Pradesh."
+    }
+  ],
+  "related": ["vasupujya", "anantanatha", "dharmanatha", "mahavira"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vimalanatha",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/vimala",
+    "kampil": "https://en.wikipedia.org/wiki/Kampil",
+    "lacma": "https://collections.lacma.org/object/25678",
+    "wisdomlib": "https://www.wisdomlib.org/definition/vimalanatha",
+    "hemachandra": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc213268.html"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#f3e6b8",
+    "c2": "#cfe3d4"
+  },
+  "order": 13
+}

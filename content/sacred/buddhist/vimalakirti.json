@@ -1,0 +1,257 @@
+{
+  "slug": "vimalakirti",
+  "name": "Vimalakirti",
+  "aka": ["Vimalakīrti", "Weimojie", "Yuima", "Stainless Fame"],
+  "native": "विमलकीर्ति",
+  "tradition": "buddhist",
+  "group": "disciple",
+  "role": "Wise lay disciple in a famous Mahayana sutra",
+  "summary": "Vimalakirti is the wise layman of Vaishali at the centre of the Vimalakirti Sutra, a Mahayana text. He is shown teaching monks and bodhisattvas, and even the Buddha's great disciples, without being a monk.",
+  "about": "Vimalakirti is the central figure of the Vimalakirti Sutra, a Mahayana text that portrays him as a rich Licchavi householder in Vaishali, in present-day Bihar, and a contemporary of the Buddha. The sutra says that he is a master of skilful means who speaks with respect to everyone but is not overawed even by the Buddha's great disciples. Scholars disagree whether he was a historical person; many see him as a literary figure, while traditional scholars treat him as real. Translator Burton Watson dates the sutra to around 100 CE. The sutra's best-known scenes show his debate with Manjushri, a goddess scattering flowers, and his famous silence on the teaching of non-duality.",
+  "kidSummary": "Vimalakirti was a wise and rich man from Vaishali who was not a monk. The sutra says he knew so much about kindness and wisdom that monks and bodhisattvas came to learn from him. His house had a magic trick: it stayed small outside, but made room for crowds.",
+  "story": [
+    {
+      "title": "A wise householder",
+      "text": "The Vimalakirti Sutra says Vimalakirti was a rich man in Vaishali who lived an ordinary home life but understood deep truths."
+    },
+    {
+      "title": "A visit to his bedside",
+      "text": "In the sutra, Vimalakirti falls ill and the Buddha sends his disciples to ask about him. Many say they are afraid to go because he once corrected them."
+    },
+    {
+      "title": "Manjushri arrives",
+      "text": "Manjushri, the bodhisattva of wisdom, goes at last. Thousands follow, and Vimalakirti's small room somehow holds them all."
+    },
+    {
+      "title": "Flowers on the monks",
+      "text": "A goddess in the room scatters flowers. They stick to the monks, who are still holding on to ideas, but slip off the bodhisattvas."
+    },
+    {
+      "title": "The great silence",
+      "text": "Asked about the truth beyond opposites, Vimalakirti answers with silence. Manjushri praises it as the best answer."
+    }
+  ],
+  "teaches": [
+    "Wisdom can live in an ordinary home",
+    "Kindness and cleverness together",
+    "Truth is beyond words"
+  ],
+  "symbol": "book",
+  "emblems": ["Small room holding crowds", "Sickbed", "Silence"],
+  "family": [
+    {
+      "relation": "Visited by",
+      "name": "Manjushri",
+      "slug": "manjushri"
+    },
+    {
+      "relation": "Contemporary of",
+      "name": "Gautama Buddha",
+      "slug": "gautama-buddha"
+    },
+    {
+      "relation": "Debated in the sutra",
+      "name": "Sariputta",
+      "slug": "sariputta"
+    }
+  ],
+  "texts": [
+    "Vimalakirti Sutra (Vimalakirtinirdesa)",
+    "Chinese translation by Kumarajiva (406 CE)",
+    "Tibetan translation"
+  ],
+  "places": ["Vaishali, Bihar", "Dunhuang caves", "Longmen Grottoes"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "In chapter 2 the sutra shows the rich householder visiting gambling halls, brothels and the haunts of rival philosophers, using each place to guide people.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In chapter 3, the Buddha's great disciples all refuse to visit the sick Vimalakirti because each was once outdone by him; he beat Sariputra by arguing that true meditation is not just sitting still.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the 7th century, the Chinese pilgrim Xuanzang reported being shown the house site said to be Vimalakirti's at Vaishali; Wang Xuance also described visiting.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Chinese Chan monasteries, the word for abbot, fangzhang, refers to the ten-foot-square stone room attributed to Vimalakirti.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A commentary on the sutra, the Yuimagyo gisho, is attributed to Prince Shotoku (574-622), making it one of the earliest works of Japanese Buddhism.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In chapter 1 five hundred Licchavi youths each offer the Buddha a parasol, and he turns them into one giant parasol that covers the whole universe.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In chapter 6 the goddess has lived in his room for twelve years; Sariputra tries to shake the clinging flowers off with supernatural powers and fails, and she tells him he still holds a shallow view.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Sanskrit manuscript of the sutra was found in the Potala Palace in Lhasa in 1999, published in 2004, and a critical edition followed in 2006.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In chapter 8, after the bodhisattvas speak about non-duality and Manjushri says that explaining it already falls into duality, Vimalakirti replies with silence.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Also in chapter 1, the Buddha says a Buddha-field is pure when the mind is pure. Sariputra cannot see this at first, so the Buddha briefly shows him the purity.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In chapter 5 Vimalakirti summons 32,000 huge lion thrones from a distant Buddha-field without enlarging his small room. The seats are so tall that advanced bodhisattvas must stretch their bodies to about 42,000 yojanas to sit on them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Tang poet Wang Wei took his courtesy name from Vimalakirti, a sign of how deeply the sutra mattered to Chinese writers.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Wikipedia shows a Tang-dynasty painting from the Dunhuang caves of Vimalakirti debating Manjushri, so the sickroom duel was a favourite subject of cave painters on the Silk Road.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Dunhuang also yielded Chinese copies of the sutra, and some fragments were written on the back of an Old Tibetan Chronicle, so the sutra shared a page with a very different book.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the sutra, Vimalakirti pretends to be ill so that people will come to see him, and he uses every sympathy visit to teach.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Zen, chapter 8's non-duality scene became case 84 of the Hekiganroku, a famous koan collection, and later Chan teachers took Vimalakirti's silence as a sign that truth lies beyond words.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In chapter 6, when Sariputra asks the goddess why she still has a woman's body, she swaps bodies with him; he cannot change back until she lets him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "In chapter 9, a bodhisattva conjured by Vimalakirti fetches fragrant food from a far-off Buddha-world, and a single bowl feeds the whole assembly.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In chapter 10, Vimalakirti lifts the entire assembly in one hand and carries it to Amrapali's garden, where the Buddha is teaching.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Longmen Grottoes in China hold a stone relief of Vimalakirti, and the Hossō temple Kofuku-ji in Japan has a figure of Layman Yuima, as his name is said in Japanese.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Wikipedia also records a Southern Song silk painting of Vimalakirti in the Kyoto National Museum, showing how far the layman's image travelled from Vaishali to Japan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What famous answer did Vimalakirti give about the truth beyond opposites?",
+      "options": ["Silence", "A song", "A story", "A long sermon"],
+      "answer": 0,
+      "why": "The sutra says he answered with silence."
+    },
+    {
+      "q": "In which city did Vimalakirti live, according to the sutra?",
+      "options": ["Vaishali", "Varanasi", "Taxila", "Ujjain"],
+      "answer": 0,
+      "why": "He was a Licchavi layman of Vaishali."
+    },
+    {
+      "q": "Which bodhisattva visits him in the sutra?",
+      "options": ["Manjushri", "Maitreya", "Tara", "Kshitigarbha"],
+      "answer": 0,
+      "why": "Manjushri goes to ask after his health and debates him."
+    },
+    {
+      "q": "What happens to the flowers the goddess scatters?",
+      "options": [
+        "They stick to the monks",
+        "They turn into rain",
+        "They float above Vimalakirti",
+        "They vanish"
+      ],
+      "answer": 0,
+      "why": "They cling to the monks but fall off the bodhisattvas."
+    }
+  ],
+  "related": ["manjushri", "gautama-buddha", "sariputta", "nagarjuna", "avalokiteshvara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vimalakirti",
+    "vimalakirtiSutra": "https://en.wikipedia.org/wiki/Vimalakirti_Sutra"
+  },
+  "palette": {
+    "c1": "#e8ddc9",
+    "c2": "#c9bfd8"
+  },
+  "years": "Buddha's era (trad.); sutra c. 100 CE",
+  "order": 29,
+  "depth": "full"
+}

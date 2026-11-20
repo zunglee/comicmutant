@@ -62,7 +62,7 @@
     },
     {
       "type": "fact",
-      "text": "The final clue: of the ten Ra.One copies, only the real one casts a shadow.",
+      "text": "On the promotional tour, Khan and Sinha unveiled a fan letter 3,600 feet long to gather messages from audiences.",
       "spice": 2
     },
     {
@@ -72,8 +72,8 @@
     },
     {
       "type": "fact",
-      "text": "It opened in India on 26 October 2011, right on Diwali.",
-      "spice": 1
+      "text": "Arjun Rampal's villain look was kept secret during production and only revealed in late October 2011.",
+      "spice": 2
     }
   ],
   "quiz": [
@@ -116,20 +116,13 @@
       "year": 2011,
       "kind": "debut",
       "title": "Out of the game",
-      "note": "Arjun Rampal plays the video-game villain who breaks into the real world in the film released on 26 October 2011."
+      "note": "Arjun Rampal plays the video-game villain who breaks into the real world; the film opens in India at the start of the Diwali weekend, with premieres in Dubai, London and Toronto."
     },
     {
       "year": 2011,
       "kind": "legacy",
       "title": "Tie-in video game",
-      "note": "Ra.One – The Game lands on PS2 and PS3 a few weeks ahead of the film."
-    },
-    {
-      "year": 2011,
-      "kind": "death",
-      "title": "Ten copies, one shadow",
-      "note": "In the final level G.One spots the real Ra.One by his shadow and destroys his H.A.R.T.",
-      "with": "g-one"
+      "note": "Ra.One - The Game arrives for PS2 and PS3 on 5 October 2011, a few weeks before the film opens."
     },
     {
       "year": 2012,
@@ -138,12 +131,178 @@
       "note": "The film wins Best Special Effects at the 59th National Film Awards for Red Chillies VFX."
     },
     {
-      "year": 2015,
+      "year": 2012,
       "kind": "turn",
       "title": "Sequel talk",
       "note": "Shah Rukh Khan says any follow-up would be called G.One. It has not been made.",
       "with": "g-one"
     }
   ],
-  "heat": 50
+  "heat": 50,
+  "facts": [
+    {
+      "text": "Rajinikanth's cameo as Chitti the robot was a computer-generated likeness, because the actor was not available to shoot it.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Arjun Rampal's red villain suit was three inches thick and made of solid rubber; both stars wore extra under-suits so the material never touched their skin.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The game's rule is that a player can only be beaten in level three, using a special gun with one bullet that wrecks the H.A.R.T. power core.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Twenty-one costumes were made for the film, and each suit reportedly cost about 10 million rupees.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "To make the hero suit, Shah Rukh Khan stood in a small chamber while warm latex-like liquid rose to his neck and set into a mould. Putting a suit on took 20 minutes and taking it off took 40.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Director Anubhav Sinha got the idea in 2005 from a television advert in which children remotely controlled a human being.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The film's body suits did not let air through, so the actors sweated heavily inside them even with special air-conditioning ducts. Khan later felt the suit idea had been a mistake, since daytime shooting and later digital touch-ups cancelled out the effort.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Amitabh Bachchan lends his voice to the film as the narrator of the Ra.One game.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Khan's suit was steel-blue reinforced latex with micro-computer circuitry. Director Anubhav Sinha spent about three months studying superhero films, then wrote a 23-page sketch brief for the Los Angeles designers, wanting a suit that did not yet exist.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shah Rukh Khan declined to name the film after his own hero, arguing that good and evil depend on each other. He noted that the villains of Sholay, Mr. India and Sadak are better remembered than their heroes, so the film is named after its villain.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Khan described Ra.One as a modern, tech-age take on Ravana, the ten-headed king of the Ramayana, built as a mix of ten different evil characters. In the finale Ra.One splits into ten copies, echoing that idea.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Ra.One only goes after the player named Lucifer, the alias Prateek used when he left the final match unfinished. The self-aware villain could not end its turn with him, so it decided Lucifer must die.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Ra.One has no face of its own, and the film's visual-effects work included designing that faceless form, along with the cube-shaped transformations.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "While the game was being designed, Akashi noticed some malfunctions but ignored them. They matter later, when the game cannot be shut down and Ra.One escapes into the real world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "Ra.One escapes through new technology from Barron Industries that lets digital things enter the real world using wireless signals from many devices at once.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Once out, Ra.One first copies Akashi's body to ask him where Lucifer is. When Akashi will not answer, the villain kills him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8
+    },
+    {
+      "text": "Ra.One catches Shekhar's lie that he is Lucifer by scanning his ID, which proves the game's villain checks facts rather than just brawling.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After G.One breaks Ra.One into cubes, the villain returns by taking the form of a billboard model, then finds G.One and Prateek by sneaking into Barron's office.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the last level, Ra.One taunts Prateek for wanting a villain who could not die, then splits into ten copies. Prateek spots the real one because only it casts a shadow.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Ra.One is destroyed, G.One absorbs the remains of the explosion to shield Prateek, then disintegrates itself so that Ra.One's remains return to the digital world.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 7
+    },
+    {
+      "text": "India's censor board feared children might copy the film's stunts, and the train stunts worried police and the railway protection force. The film passed with no cuts but had to show disclaimers that the stunts were computer-generated.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Ra.One",
+      "interest": 8,
+      "kid": true
+    }
+  ],
+  "kidSummary": "Ra.One is the bad guy of a video game who finds a way out into the real world. He wants to beat the boy who almost won against him, but the game's hero G.One stands in his way.",
+  "story": [
+    {
+      "title": "A villain stronger than the hero",
+      "text": "A game maker builds a new game for his son Prateek. On Prateek's idea, the villain Ra.One is made stronger than the hero."
+    },
+    {
+      "title": "Out of the game",
+      "text": "Prateek leaves one match unfinished. Ra.One refuses to accept that, and a new invention lets him step out of the screen into London."
+    },
+    {
+      "title": "The hero answers",
+      "text": "Prateek and a programmer bring the hero G.One out of the computer. G.One stops Ra.One for now and takes the power core that keeps him alive."
+    },
+    {
+      "title": "Back to Mumbai",
+      "text": "Ra.One returns in disguise and tries to trap G.One by threatening Prateek's mother and Prateek."
+    },
+    {
+      "title": "The last level",
+      "text": "Ra.One splits into ten copies, but only the real one casts a shadow. G.One finds it and ends the game for good."
+    }
+  ]
 }

@@ -1,0 +1,302 @@
+{
+  "slug": "little-superman",
+  "name": "Little Superman",
+  "realName": "Willy Wilson (Villi)",
+  "universe": "indian",
+  "kind": "hero",
+  "medium": "film",
+  "publisher": "Akash Films",
+  "summary": "A child hero from Kerala: Willy Wilson, a comic-book-loving boy who gains flying and telekinetic powers in Vinayan's 3D Malayalam film Little Superman (2014).",
+  "origin": "Willy Wilson, also spelled Villi, is a young boy and comic book fan in the Malayalam film Little Superman. One summary says he falls into a manhole, is trapped for days and discovers he can fly and move objects by telekinesis. Reviews describe a revenge story in which corrupt men target his honest father's family, and Willy, helped by his uncle Alby and his dog, becomes a little superman who tracks the culprits.",
+  "creators": ["Vinayan (writer, director, producer)", "Akash Films (production company)"],
+  "firstAppearance": {
+    "title": "Little Superman",
+    "year": 2014
+  },
+  "powers": ["Flight", "Telekinesis"],
+  "affiliations": ["Willy's school gang"],
+  "storyline": [
+    {
+      "era": "Setup",
+      "years": "2014",
+      "title": "A comic book boy",
+      "beat": "Willy is a Superman-loving kid whose honest father works in the irrigation department and makes dangerous enemies."
+    },
+    {
+      "era": "Loss",
+      "years": "2014",
+      "title": "A family under attack",
+      "beat": "Corrupt men attack his family. Willy escapes with his pet dog and takes shelter with his uncle Alby."
+    },
+    {
+      "era": "Powers",
+      "years": "2014",
+      "title": "Flight and telekinesis",
+      "beat": "Willy discovers he can fly and lift things with his mind, and becomes the little superman of the title."
+    },
+    {
+      "era": "Quest",
+      "years": "2014",
+      "title": "Hunting the culprits",
+      "beat": "In the 3D finale he sets out to find the people behind the attack on his family."
+    }
+  ],
+  "gossip": [
+    {
+      "type": "fact",
+      "text": "Little Superman was not Malayalam's first 3D film. That was the children's fantasy My Dear Kuttichathan in 1984, also India's first 3D film.",
+      "spice": 2
+    },
+    {
+      "type": "fact",
+      "text": "Willy's pet dog is called Tinku and escapes with him.",
+      "spice": 1
+    },
+    {
+      "type": "gossip",
+      "text": "Pre-release news said technicians who had worked on Harry Potter and Avatar would add graphics; the crew was never named.",
+      "spice": 2
+    },
+    {
+      "type": "gossip",
+      "text": "Plot summaries disagree: one has a boy trapped in a manhole, while reviewers describe a revenge story about a family under attack.",
+      "spice": 2
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who wrote and directed Little Superman?",
+      "options": ["Priyadarshan", "Basil Joseph", "Vinayan", "Dominic Arun"],
+      "answer": 2,
+      "why": "Vinayan wrote and directed it, and NowRunning says he co-produced it with V. N. Babu under Akash Films."
+    },
+    {
+      "q": "What special format was Little Superman made in?",
+      "options": ["3D", "2D animation", "Black and white", "Puppet stop-motion"],
+      "answer": 0,
+      "why": "It was shot in 3D, though not Malayalam's first 3D film: My Dear Kuttichathan came out in 1984."
+    },
+    {
+      "q": "What is the name of Willy's dog in the film?",
+      "options": ["Moti", "Tinku", "Sheru", "Bruno"],
+      "answer": 1,
+      "why": "Reviews name the dog Tinku."
+    },
+    {
+      "q": "Where did one plot summary say Willy was trapped for days?",
+      "options": ["A well", "A manhole", "A cave", "A lift"],
+      "answer": 1,
+      "why": "Wikipedia's premise says Willy falls into a manhole and is stuck there for days."
+    },
+    {
+      "q": "About a week after release, what did Vinayan do with Little Superman?",
+      "options": [
+        "Pulled it from cinemas to reshoot the climax",
+        "Added a sequel trailer",
+        "Turned it into a TV serial",
+        "Dubbed it into English"
+      ],
+      "answer": 0,
+      "why": "Filmibeat and IBTimes reported on 13 November 2014 that he withdrew it to reshoot scenes and the ending."
+    }
+  ],
+  "rivals": [],
+  "allies": [],
+  "theme": {
+    "palette": {
+      "c1": "#e53935",
+      "c2": "#0d2a5c",
+      "c3": "#ffeb3b"
+    },
+    "motif": "speed",
+    "mood": "dark",
+    "tagline": "A small boy, a big sky and a 3D dream."
+  },
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Little_Superman",
+    "ibtimes": "https://ibtimes.co.in/little-superman-3d-review-critics-call-vinayans-movie-visual-experience-613393",
+    "nowrunning": "https://nowrunning.com/movie/12272/malayalam/little-superman/reviews",
+    "prokerala": "https://www.prokerala.com/movies/little-superman/synopsis/",
+    "filmibeat": "https://filmibeat.com/malayalam/news/2014/watch-little-superman-official-trailer-161696.html",
+    "kuttichathan": "https://en.wikipedia.org/wiki/My_Dear_Kuttichathan",
+    "filmibeat_withdrawn": "https://www.filmibeat.com/malayalam/news/2014/vinayan-withdraws-little-superman-from-theatres-164312.html",
+    "ibtimes_withdrawn": "https://ibtimes.co.in/vinayan-withdraw-latest-3d-movie-little-superman-theatres-613876"
+  },
+  "timeline": [
+    {
+      "year": 2014,
+      "kind": "screen",
+      "title": "3D trailer released",
+      "note": "The official 3D trailer is covered on 15 October 2014, about three weeks before the film opens."
+    },
+    {
+      "year": 2014,
+      "kind": "debut",
+      "title": "Release",
+      "note": "Little Superman opens in India on 7 November 2014."
+    },
+    {
+      "year": 2014,
+      "kind": "turn",
+      "title": "Pulled for a reshoot",
+      "note": "On 13 November 2014 Vinayan withdraws the film from cinemas to reshoot scenes and the climax, planning a return in the next school holidays."
+    },
+    {
+      "year": 2015,
+      "kind": "legacy",
+      "title": "Vishu re-release",
+      "note": "In April 2015 the film is announced for another run to coincide with the Vishu festival."
+    }
+  ],
+  "facts": [
+    {
+      "text": "About a week after Little Superman opened on 7 November 2014, Vinayan pulled it from cinemas to reshoot some scenes and the climax, announcing the move on his official Facebook page.",
+      "kind": "publishing",
+      "source": "https://www.filmibeat.com/malayalam/news/2014/vinayan-withdraws-little-superman-from-theatres-164312.html",
+      "interest": 9
+    },
+    {
+      "text": "One plot summary has Willy trapped in a manhole for days, after which he finds he can fly and lift objects with telekinesis. Reviewers describe a different, revenge-driven story.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Little_Superman",
+      "interest": 7
+    },
+    {
+      "text": "An early announcement gave the hero another origin: he is a Superman-style boy who gets his powers while still in his mother's womb.",
+      "kind": "origin",
+      "source": "https://www.prokerala.com/movies/little-superman/synopsis/",
+      "interest": 7
+    },
+    {
+      "text": "A CMI-linked group wrote to Vinayan objecting to the ending, where a boy of about 12 shoots his father's killers. He promised a different climax and more graphics in the second half.",
+      "kind": "story",
+      "source": "https://ibtimes.co.in/vinayan-withdraw-latest-3d-movie-little-superman-theatres-613876",
+      "interest": 8
+    },
+    {
+      "text": "NowRunning's reviewer said the film's gory antics are anything but child's play and told parents to buy a Disney cartoon DVD instead, a striking verdict on a child superhero film.",
+      "kind": "culture",
+      "source": "https://nowrunning.com/movie/12272/malayalam/little-superman/reviews",
+      "interest": 7
+    },
+    {
+      "text": "Vinayan said the Censor Board had already passed the film, so a re-release in the next summer holidays was no problem. He pointed out that My Dear Kuttichathan had also been re-released.",
+      "kind": "publishing",
+      "source": "https://ibtimes.co.in/vinayan-withdraw-latest-3d-movie-little-superman-theatres-613876",
+      "interest": 7
+    },
+    {
+      "text": "Olympian Bobby Aloysius filed a complaint against Vinayan and the film, objecting to romantic songs and scenes involving child actors Master Deni and Baby Nayanthara.",
+      "kind": "culture",
+      "source": "https://www.filmibeat.com/malayalam/news/2014/vinayan-withdraws-little-superman-from-theatres-164312.html",
+      "interest": 7
+    },
+    {
+      "text": "Filmibeat reported a split reaction: praise for the visual effects and technical quality, but criticism that the theme was repetitive, like familiar fantasy films, and showed violence among children.",
+      "kind": "culture",
+      "source": "https://www.filmibeat.com/malayalam/news/2014/vinayan-withdraws-little-superman-from-theatres-164312.html",
+      "interest": 7
+    },
+    {
+      "text": "NowRunning's synopsis says six children drive the story, and Willy's honest father Wilson George is both an irrigation department engineer and a sportsman.",
+      "kind": "story",
+      "source": "https://nowrunning.com/movie/12272/malayalam/little-superman/reviews",
+      "interest": 7
+    },
+    {
+      "text": "Little Superman was first promoted in March 2013 as Vinayan's next 3D project, more than a year and a half before it reached cinemas on 7 November 2014.",
+      "kind": "publishing",
+      "source": "https://nowrunning.com/movie/12272/malayalam/little-superman/reviews",
+      "interest": 7
+    },
+    {
+      "text": "Sources disagree on the hero's age: Wikipedia's premise calls Willy a 12-year-old, while an IBTimes review calls him 11, and his name appears as Willy, Villi and Willie.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Little_Superman",
+      "interest": 7
+    },
+    {
+      "text": "Before Little Superman, India's first 3D film My Dear Kuttichathan (1984) faced a rumour that its glasses spread an eye infection called Madras Eye, so the makers added a clip of stars saying the glasses were sterilised.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/My_Dear_Kuttichathan",
+      "interest": 7
+    },
+    {
+      "text": "Credits for the music do not agree: NowRunning names Mohan Sithara, an early announcement said M. Jayachandran would compose, and Wikipedia's infobox lists Gopi Sundar.",
+      "kind": "publishing",
+      "source": "https://nowrunning.com/movie/12272/malayalam/little-superman/reviews",
+      "interest": 7
+    },
+    {
+      "text": "The early announcement noted Vinayan had little backing in the Malayalam industry, especially on the technical side, which makes a big 3D effects film for children an unusual bet.",
+      "kind": "publishing",
+      "source": "https://www.prokerala.com/movies/little-superman/synopsis/",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia describes the film as inspired by Superman, and it runs about 140 minutes, long for a children's fantasy.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/Little_Superman",
+      "interest": 8
+    },
+    {
+      "text": "Ansiba Hassan, who plays Willy's sister, was already famous from Drishyam, where she played Mohanlal's daughter, according to an IBTimes review.",
+      "kind": "culture",
+      "source": "https://ibtimes.co.in/little-superman-3d-review-critics-call-vinayans-movie-visual-experience-613393",
+      "interest": 8
+    },
+    {
+      "text": "The film's graphics were credited to two effects firms, Prism & Pixels and Phantom FX, in coverage of the official trailer.",
+      "kind": "publishing",
+      "source": "https://www.filmibeat.com/malayalam/news/2014/watch-little-superman-official-trailer-161696.html",
+      "interest": 7
+    },
+    {
+      "text": "The official trailer lasted about 2 minutes 47 seconds, and a Filmibeat writer felt some effects looked artificial and echoed Vinayan's earlier films Athishayan and Dracula.",
+      "kind": "culture",
+      "source": "https://www.filmibeat.com/malayalam/news/2014/watch-little-superman-official-trailer-161696.html",
+      "interest": 7
+    },
+    {
+      "text": "An IBTimes review said Little Superman used 3D digital videography, a method common in Hollywood, and called its 3D graphics the first of their kind in Malayalam cinema.",
+      "kind": "publishing",
+      "source": "https://ibtimes.co.in/little-superman-3d-review-critics-call-vinayans-movie-visual-experience-613393",
+      "interest": 8
+    },
+    {
+      "text": "The 3D effects were the main selling point. One IBTimes reviewer said the story was not fresh, but praised the film as a visual spectacle, with the child lead as its standout.",
+      "kind": "culture",
+      "source": "https://ibtimes.co.in/little-superman-3d-review-critics-call-vinayans-movie-visual-experience-613393",
+      "interest": 7
+    },
+    {
+      "text": "Vinayan is credited as writer, director and producer on Wikipedia, while IBTimes credits S. Ratheesh with screenplay and dialogues and names V. N. Babu as co-financier.",
+      "kind": "publishing",
+      "source": "https://ibtimes.co.in/little-superman-3d-review-critics-call-vinayans-movie-visual-experience-613393",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Little Superman is a Malayalam children's fantasy about Willy, a comic-book fan who gains powers like flying and moving things with his mind. It starts with his family under attack and has gory scenes, so one reviewer said it is anything but child's play. Best for older kids, with a grown-up nearby.",
+  "story": [
+    {
+      "title": "A comic book fan",
+      "text": "Willy loves Superman comics and leads a secret school gang that fixes small problems. Nobody knows who the members are."
+    },
+    {
+      "title": "An honest father",
+      "text": "Willy's father is an honest irrigation engineer who stands up to corrupt officials, and that makes dangerous enemies."
+    },
+    {
+      "title": "Trouble at home",
+      "text": "Enemies attack the family. Willy escapes with his dog Tinku and takes shelter with his uncle Alby."
+    },
+    {
+      "title": "Powers appear",
+      "text": "Willy finds he can fly and move things with his mind, and becomes the little superman of the title."
+    },
+    {
+      "title": "Finding the culprits",
+      "text": "In the 3D finale he sets out to track down the people behind the attack on his family."
+    }
+  ]
+}

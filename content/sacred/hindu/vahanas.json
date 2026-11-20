@@ -1,0 +1,290 @@
+{
+  "slug": "vahanas",
+  "name": "Vahanas",
+  "aka": ["Vahana", "Divine mounts", "Vehicles of the gods"],
+  "native": "वाहन",
+  "role": "The animal mounts and companions of Hindu deities",
+  "summary": "A vahana is the animal or being that carries a Hindu deity, such as Ganesha's mouse, Shiva's bull Nandi and Vishnu's Garuda, a great eagle-like divine bird. Each mount can stand for a quality of its rider.",
+  "about": "Vahana is a Sanskrit word from the root vah, to carry, and names the mount or vehicle of a Hindu deity. The mount may be a bird, a bull, a mouse, a lion, a peacock or even a lotus, and it is often shown beside or under the god. Tradition treats a vahana as an extension of the deity, and it can stand for a virtue the god has or a weakness the god controls. Stories tell how many vahanas began as other beings: the mouse of Ganesha as a cursed gandharva, the peacock of Kartikeya as an asura. Some are famous symbols beyond temples, like Garuda on the emblem of Indonesia.",
+  "kidSummary": "A vahana is the animal friend or vehicle that a Hindu god or goddess rides. Ganesha has a mouse, Shiva has the bull Nandi, and Lakshmi has an owl. Each animal tells us something special about the deity.",
+  "story": [
+    {
+      "title": "A cursed musician",
+      "text": "In one tale, a gandharva named Krauncha steps on the sage Vamadeva by accident. The sage curses him to become a huge rat that nibbles at farms and ashrams."
+    },
+    {
+      "title": "The noose",
+      "text": "When the rat enters the hermitage of the sage Parashara, Ganesha throws his noose, catches the rat and brings it under control."
+    },
+    {
+      "title": "Serving the lord",
+      "text": "The rat bows and asks to serve Ganesha. Ganesha becomes the rider and lowers his weight so that the small creature can carry him."
+    },
+    {
+      "title": "The great bird's bargain",
+      "text": "Garuda fights the gods to win the nectar of immortality and free his mother Vinata. Afterwards he becomes Vishnu's mount."
+    },
+    {
+      "title": "The mango tree",
+      "text": "In one South Indian tale, the asura Surapadma hides as a mango tree. When Murugan splits it, one half becomes his peacock and the other half his rooster banner."
+    }
+  ],
+  "teaches": [
+    "Even small creatures have a place near the divine",
+    "Control of restless thoughts brings calm",
+    "Each being has a gift to share"
+  ],
+  "symbol": "footprint",
+  "emblems": [
+    "Mouse (Ganesha)",
+    "Bull (Shiva)",
+    "Garuda (Vishnu)",
+    "Swan (Brahma, Saraswati)",
+    "Peacock (Kartikeya)",
+    "Owl (Lakshmi)",
+    "Lion (Durga)"
+  ],
+  "family": [
+    {
+      "relation": "Garuda, mount of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Nandi, mount of",
+      "name": "Shiva",
+      "slug": "shiva"
+    },
+    {
+      "relation": "Mushika, mount of",
+      "name": "Ganesha",
+      "slug": "ganesha"
+    },
+    {
+      "relation": "Peacock, mount of",
+      "name": "Kartikeya",
+      "slug": "kartikeya"
+    },
+    {
+      "relation": "Owl, mount of",
+      "name": "Lakshmi",
+      "slug": "lakshmi"
+    },
+    {
+      "relation": "Hamsa, mount of",
+      "name": "Saraswati",
+      "slug": "saraswati"
+    }
+  ],
+  "texts": ["Matsya Purana", "Brahmananda Purana", "Ganesha Purana", "Mahabharata"],
+  "places": ["Brihadeeswara Temple, Thanjavur", "Garuda Wisnu Kencana, Bali"],
+  "festivals": ["Brahmotsavam (yali vahanam processions)"],
+  "quiz": [
+    {
+      "q": "What does the Sanskrit word vahana mean?",
+      "options": ["A temple", "That which carries", "A garland", "A prayer"],
+      "answer": 1,
+      "why": "It comes from the root vah, to carry."
+    },
+    {
+      "q": "What is the vahana of Ganesha?",
+      "options": ["A lion", "A tiger", "A mouse", "A swan"],
+      "answer": 2,
+      "why": "Mushika, a mouse or rat, carries Ganesha."
+    },
+    {
+      "q": "Which bird carries Vishnu?",
+      "options": ["Hamsa", "Garuda", "Peacock", "Owl"],
+      "answer": 1,
+      "why": "Garuda is the vahana of Vishnu."
+    },
+    {
+      "q": "Which flower is a rare non-animal mount of Lakshmi?",
+      "options": ["Lotus", "Jasmine", "Marigold", "Rose"],
+      "answer": 0,
+      "why": "Lakshmi is shown with a lotus blossom as a rare non-animal mount."
+    }
+  ],
+  "related": [
+    "ganesha",
+    "nandi",
+    "garuda",
+    "kartikeya",
+    "lakshmi",
+    "saraswati",
+    "durga",
+    "airavata"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vahana",
+    "mushika": "https://en.wikipedia.org/wiki/Mushika",
+    "hamsa": "https://en.wikipedia.org/wiki/Hamsa_(bird)",
+    "garuda": "https://en.wikipedia.org/wiki/Garuda",
+    "nandi": "https://en.wikipedia.org/wiki/Nandi_(Hinduism)",
+    "karni": "https://en.wikipedia.org/wiki/Karni_Mata_Temple"
+  },
+  "palette": {
+    "c1": "#f0e6d2",
+    "c2": "#d2e3d6"
+  },
+  "order": 70,
+  "facts": [
+    {
+      "text": "Shani, who looks after property, travels on a crow, raven or vulture, a bird with a thieving habit that, in this reading, the god holds in check.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some vahanas stand for things a god must control: Kartikeya on the peacock restrains vanity and Ganesha on the rat tames restless thoughts. A vahana can also picture the worshipper's own mind, guided by the deity.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Texts say the sage Vamadeva cursed the gandharva Krauncha to become the rat Mushika, then promised that the gods themselves would one day bow to him. That came true when Ganesha chose him as a mount.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mushika",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Other tales say the mount was the asura Mushikasura, or Gajamukhasura changed into a rat, or a rat that ate Ganesha's modaka and became immortal.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Mushika",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At some temples devotees whisper wishes into the ear of the Mushaka statue, and a similar custom is reported at a shrine in Bangkok.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Mushika",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After his quest for amrita, Garuda asked Vishnu to make him his mount, and Vishnu agreed and granted him immortality without tasting the nectar.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At the Karni Mata Temple in Deshnoke, Rajasthan, about 20,000 rats are cared for and revered. Devotees say they are the reborn members of a clan of Charan families.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Karni_Mata_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Scholars argue over what a hamsa really is. It may be a swan, a goose or even a flamingo, and some think the bar-headed goose, which crosses the Himalaya, fits the old poems.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hamsa_(bird)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Garuda Wisnu Kencana statue in Bali is made of copper and brass and is 75 metres tall, or 122 metres on its base.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one South Indian account, Kartikeya's peacock Paravani was the asura Surapadma and his banner rooster was Krichi. Surapadma hid as a mango tree, and when Murugan split it, one half became the rooster and the other the peacock.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Not every mount is grand. Shashthi rides a cat, Bhairava a dog, Shitala a donkey and Yamuna a tortoise, and one list gives the Sindhi deity Jhulelal a fish.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The hamsa is said to separate milk from a milk-and-water mix. Charles Lanman suggested this could come from the filter-like bills of waterbirds.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Hamsa_(bird)",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Lakshmi is usually carried by elephants or an owl, but she also has a rare mount that is not an animal at all, a lotus flower. Her owl is read as a warning against greed, unlike Athena's owl, which stands for learning.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Chamunda appears on the list of mounts with unusual vehicles: a water buffalo, an owl, a dhole (a wild dog) and even a corpse.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In another account, Kartikeya, raised by the Krittikas, forgave the fallen Tarakasura after defeating him and turned him into the peacock that became his mount.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before he became Shiva's bull, Nandi was a deity called Nandikeshvara, lord of joy and master of music and dance. Over time his musical side was absorbed into Shiva's form as Nataraja.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vahana",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Garuda is part of the state emblem of both Indonesia and Thailand, and the Indian Air Force named its special operations unit the Garud Commando Force after him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata says the seven-headed white flying horse Uchchaihshravas rose from the churning of the ocean of milk. Indra took it as his mount, and Krishna names it in the Gita as the best of horses.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Airavata, Indra's elephant, is described in sacred texts as snowy white with three heads, six tusks and three trunks. Some Puranas give him ten tusks and five trunks, standing for the ten directions.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Matangalila says early elephants had wings and could change shape, until the sage Dirghatapas cursed them after a branch broke under a flock and killed his disciples. They lost both gifts and came down to earth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Airavata",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Garuda's quest began with a bet. Kadru's serpent sons covered the tail of Uchchaihshravas so it looked black, Vinata lost and became a servant, and Garuda later fought the gods for amrita to free her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uchchaihshravas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Some myths describe Garuda as so large that he can block out the sun, and the Garuda Purana is named after him. In the Mahabharata he is a symbol of speed and force.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Garuda",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "tradition": "hindu",
+  "group": "divine-being",
+  "depth": "full"
+}

@@ -1,0 +1,274 @@
+{
+  "slug": "uddhava",
+  "name": "Uddhava",
+  "aka": ["Udhava"],
+  "native": "उद्धव",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Friend, counsellor and student of Krishna",
+  "summary": "Uddhava is a Vrishni minister and close friend of Krishna. In the Bhagavata Purana he carries Krishna's message to Vrindavan and later receives the teachings known as the Uddhava Gita.",
+  "about": "Uddhava is a member of the Vrishni clan and, according to some texts, Krishna's cousin. The Bhagavata Purana calls him a student of Brihaspati and a wise adviser, and the Mahabharata describes him as a respected minister of the Vrishnis. After Krishna defeats Kamsa, he sends Uddhava to Vrindavan to comfort Nanda, Yashoda and the gopis. Uddhava is moved by their devotion and stays among them, and this episode with the Bhramara Gita, the song to a bee, is the best-loved part of his story. Near the end of Krishna's time on earth, Krishna teaches him in the eleventh book of the Bhagavata Purana, a teaching called the Uddhava Gita or Hamsa Gita. Texts then say Uddhava goes to Badarikashrama, and Vidura meets him in the third book.",
+  "kidSummary": "Uddhava is Krishna's friend and wise helper in the Hindu stories. Krishna sends him to Vrindavan to comfort the people who miss him, and he learns a lot from the gopis' love. Later Krishna teaches him in the Uddhava Gita, which is full of lessons on being calm, kind and thoughtful.",
+  "story": [
+    {
+      "title": "A friend with a message",
+      "text": "After Krishna moves to Mathura, the people of Vrindavan miss him very much. Krishna asks his wise friend Uddhava to go there with a message of comfort."
+    },
+    {
+      "title": "Dusk in Gokula",
+      "text": "Uddhava drives his chariot to Nanda's village and arrives at sunset. Cow dust hides the chariot, and Nanda welcomes him like a family member."
+    },
+    {
+      "title": "The gopis and the bee",
+      "text": "The gopis speak to Uddhava with so much love for Krishna that he is moved. One of them talks to a passing bee as if it were a messenger, and this is remembered as the Bhramara Gita."
+    },
+    {
+      "title": "A student's wish",
+      "text": "Uddhava admires their love so much that he says he would like to be a bush or creeper in Vrindavan, touched by the dust of their feet. He stays for several months."
+    },
+    {
+      "title": "Krishna's teaching",
+      "text": "Near the end of Krishna's life, Uddhava asks questions and Krishna teaches him in the Uddhava Gita. He is told to go to Badarikashrama, and he shares what he learned."
+    }
+  ],
+  "teaches": [
+    "Listen with humility, even to those you came to teach",
+    "Love and remembrance can be strong without being near",
+    "Look at nature as a teacher"
+  ],
+  "symbol": "feather",
+  "emblems": ["Chariot", "Bee (in the Bhramara Gita)"],
+  "family": [
+    {
+      "relation": "Friend and teacher",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Brihaspati",
+      "slug": "brihaspati"
+    },
+    {
+      "relation": "Met on pilgrimage",
+      "name": "Vidura",
+      "slug": "vidura"
+    },
+    {
+      "relation": "Welcomed by",
+      "name": "Nanda",
+      "slug": "nanda"
+    },
+    {
+      "relation": "Father (in some texts)",
+      "name": "Devabhaga"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Mahabharata (Sabha Parva)",
+    "Brahmavaivarta Purana",
+    "Uddhava Gita"
+  ],
+  "places": ["Vrindavan and Gokula", "Mathura", "Badarikashrama, Uttarakhand", "Dvaraka, Gujarat"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "He looked so much like Krishna that people sometimes mistook him for Krishna.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uddhava",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He arrived in Gokula at sunset, when the dust raised by returning cows hid his chariot from view.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/46/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A gopi lost in thought talks to a passing bee as if it were a messenger, and this song is known as the Bhramara Gita or Bee Song.",
+      "kind": "art",
+      "source": "https://vedabase.io/en/library/sb/10/47/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Uddhava said he would be happy to be born as a bush or creeper in Vrindavan, touched by the dust from the gopis' feet.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/47/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "He asked the gopis to be his teachers, though he had been sent to comfort them.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Uddhava",
+      "interest": 7
+    },
+    {
+      "text": "The gopis asked whether he too had come to take away their memories of Krishna, just as Akrura had once taken Krishna away, and Uddhava could not reply.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Uddhava",
+      "interest": 8
+    },
+    {
+      "text": "It is also called the Hamsa Gita, and the swan, or hamsa, stands for a wise person who can separate what is useful from what is not. The whole discourse runs to about 1,100 verses.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Uddhava_Gita",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Inside the Uddhava Gita is the tale of an avadhuta, an unnamed wandering sage whom Vaishnava tradition identifies as Dattatreya, who learned from 24 teachers in nature.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Uddhava_Gita",
+      "interest": 8
+    },
+    {
+      "text": "The sanctum of the Badrinath temple holds images of Uddhava, Kubera, Narada and Nara-Narayana, which fits his own trip to Badarikashrama.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Badrinath_Temple",
+      "interest": 7
+    },
+    {
+      "text": "The wandering sage in the Uddhava Gita learned from a python: take whatever food comes without asking, and if none comes, fast patiently and keep your mind on God.",
+      "kind": "teaching",
+      "source": "https://www.vedabase.io/en/library/sb/11/8/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "From the honeybee the sage learned to take a little nectar from many flowers, as a student draws the essence from many scriptures, and not to hoard.",
+      "kind": "teaching",
+      "source": "https://www.vedabase.io/en/library/sb/11/8/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The ocean was another teacher: it neither overflows in good times nor dries up in hard times, so a wise person stays steady in both.",
+      "kind": "teaching",
+      "source": "https://www.vedabase.io/en/library/sb/11/8/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Scholar Martin Haigh calls the 24 nature teachers of the Uddhava Gita a model of environmental education, since the sage gained wisdom just by watching the world.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Hamsa_Gita",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Krishna sent Uddhava to his hermitage at Badarika: bathe in the holy water, wear bark, eat what the forest gives, stay content and keep meditating on the teachings, says Bhagavata canto 11, chapter 29.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/11/29/",
+      "interest": 8
+    },
+    {
+      "text": "Weeping, Uddhava circled Krishna and bowed again and again, then lifted his master's slippers onto his head before leaving for Badarikashrama, where the Bhagavata Purana says he reached Krishna's abode.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/11/29/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Vidura asked him for Krishna's messages, Uddhava was too overcome by memory to answer at first, because he had served Krishna since childhood, says Bhagavata canto 3, chapter 2.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/3/2/",
+      "interest": 7
+    },
+    {
+      "text": "Uddhava tells Vidura that the Yadavas, though always near the Lord, failed to know him fully, like fish that cannot recognise the moon.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/3/2/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When Uddhava visited Trivakra's house with Krishna, she offered him a seat, but he only touched it and sat on the floor, says Bhagavata canto 10, chapter 48.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/48/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In his message, Krishna tells the gopis he stayed away on purpose so their minds would hold on to him even more closely, since a lover far away is thought of more than one nearby.",
+      "kind": "teaching",
+      "source": "https://vedabase.io/en/library/sb/10/47/",
+      "interest": 8
+    },
+    {
+      "text": "When Uddhava left Vraja, Nanda and the others asked that their minds always rest at Krishna's feet and their words always speak his names, whatever fate brought them.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/47/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Mahabharata describes Uddhava as a minister of the Vrishnis, a man all of them respected.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Uddhava",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who sent Uddhava to Vrindavan?",
+      "options": ["Balarama", "Krishna", "Brihaspati", "Nanda"],
+      "answer": 1,
+      "why": "Krishna sent him to comfort the people of Vraja."
+    },
+    {
+      "q": "In the Bhramara Gita, who does a gopi talk to?",
+      "options": ["A peacock", "A cow", "A bee", "A swan"],
+      "answer": 2,
+      "why": "She talks to a bee as if it were a messenger."
+    },
+    {
+      "q": "What would Uddhava like to be born as in Vrindavan?",
+      "options": ["A cow", "A flute", "A river", "A bush or creeper"],
+      "answer": 3,
+      "why": "He wished to be touched by the dust of the gopis' feet."
+    },
+    {
+      "q": "Which teaching is also called the Hamsa Gita?",
+      "options": ["Uddhava Gita", "Bhagavad Gita", "Anu Gita", "Ashtavakra Gita"],
+      "answer": 0,
+      "why": "The Uddhava Gita is also known as the Hamsa Gita."
+    },
+    {
+      "q": "Which teacher of the gods taught Uddhava, according to the Bhagavata Purana?",
+      "options": ["Shukra", "Brihaspati", "Narada", "Vyasa"],
+      "answer": 1,
+      "why": "He is called a student of Brihaspati."
+    }
+  ],
+  "related": [
+    "krishna",
+    "brihaspati",
+    "vidura",
+    "nanda",
+    "yashoda",
+    "radha",
+    "akrura",
+    "dattatreya",
+    "maitreya",
+    "vasudeva"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Uddhava",
+    "uddhava-gita": "https://en.wikipedia.org/wiki/Uddhava_Gita",
+    "bhagavata-10-46": "https://vedabase.io/en/library/sb/10/46/",
+    "bhagavata-10-47": "https://vedabase.io/en/library/sb/10/47/",
+    "bhagavata-3-4": "https://vedabase.io/en/library/sb/3/4/"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#bfd9c9",
+    "c2": "#e8e3b9"
+  },
+  "order": 500
+}

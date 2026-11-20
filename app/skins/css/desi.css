@@ -1,0 +1,128 @@
+/* skin:desi start */
+/* Desi heroes: what tokens cannot say. Rangoli on .halftone, ornament in panel corners, ribbon kickers,
+   the stamped-poster title and the saffron-to-emerald wipe. Tokens and var() only (no raw colours). */
+/* Jaali lattice on the page: crossing diagonals with a bead at each crossing, in faint navy ink. */
+html[data-skin="desi"] body {
+  background-image:
+    var(--backdrop, none),
+    radial-gradient(color-mix(in srgb, var(--line) 12%, transparent) 2px, transparent 2.5px),
+    linear-gradient(
+      45deg,
+      transparent 47%,
+      color-mix(in srgb, var(--line) 7%, transparent) 47% 53%,
+      transparent 53%
+    ),
+    linear-gradient(
+      -45deg,
+      transparent 47%,
+      color-mix(in srgb, var(--line) 7%, transparent) 47% 53%,
+      transparent 53%
+    );
+  background-size:
+    auto,
+    56px 56px,
+    56px 56px,
+    56px 56px;
+  background-position:
+    0 0,
+    28px 28px,
+    0 0,
+    0 0;
+}
+html[data-skin="desi"] .halftone::after {
+  /* Rangoli: concentric rings with a dot at each crossing, in the ink line colour. */
+  background-image:
+    radial-gradient(var(--line) 1.4px, transparent 1.8px),
+    radial-gradient(
+      circle at 50% 50%,
+      transparent 0 5px,
+      var(--line) 5px 6px,
+      transparent 6px 10px,
+      var(--line) 10px 11px,
+      transparent 11px
+    );
+  background-size:
+    24px 24px,
+    24px 24px;
+  background-position:
+    0 0,
+    12px 12px;
+  opacity: 0.14;
+}
+/* Panel corners: a quarter-ring and a marigold bead in the top-left and bottom-right. */
+html[data-skin="desi"] .panel {
+  background-image:
+    radial-gradient(circle at 0 0, transparent 0 9px, var(--c3) 9px 11px, transparent 11px),
+    radial-gradient(circle at 100% 100%, transparent 0 9px, var(--c2) 9px 11px, transparent 11px);
+  background-size:
+    22px 22px,
+    22px 22px;
+  background-position:
+    0 0,
+    100% 100%;
+  background-repeat: no-repeat;
+}
+/* Ribbon kicker: a vermilion cap and a key-line underline, like a poster strap. No fill of its own, so
+   the text pair stays the one skinVars already proved (c3-text on bg / card). */
+html[data-skin="desi"] .kicker {
+  display: inline-block;
+  padding: 0.1rem 0.9rem 0.1rem 0.6rem;
+  margin-bottom: 0.4rem;
+  border-left: 5px solid var(--c1);
+  border-bottom: 2px solid var(--line);
+  border-bottom-right-radius: 0.6rem;
+}
+/* Stamped-poster title. A navy shadow behind dark accent text (c1-text, c3-text) is about 2:1, and
+   axe reads the shadow as the text's backdrop (fgOnShadowColor). So the shadow is a light ink-wash,
+   the key-line mixed into paper, which holds 3:1+ against every accent text colour the skin and the
+   characters produce. Bright raw accents (text-c3) keep the full navy stamp: they contrast with it. */
+html[data-skin="desi"] .ink-text {
+  --ink-wash: color-mix(in srgb, var(--line) 20%, var(--card));
+  text-shadow:
+    var(--ink-offset, 3px) var(--ink-offset, 3px) 0 var(--ink-wash),
+    1px 1px 0 var(--ink-wash),
+    -1px -1px 0 var(--ink-wash),
+    1px -1px 0 var(--ink-wash),
+    -1px 1px 0 var(--ink-wash);
+}
+html[data-skin="desi"] .ink-text.text-c3:not(.text-c3-text) {
+  text-shadow:
+    var(--ink-offset, 3px) var(--ink-offset, 3px) 0 var(--line),
+    -1px -1px 0 var(--line),
+    1px -1px 0 var(--line),
+    -1px 1px 0 var(--line);
+}
+/* Hindi text wears the poster face (Yatra One has Devanagari) and drops the Latin-only case/tracking. */
+html[data-skin="desi"] :lang(hi) {
+  font-family: var(--font-display);
+  text-transform: none;
+  letter-spacing: 0;
+  line-height: 1.5;
+}
+/* Yatra One is wider than Bangers: the wordmark shrinks with the viewport so the header row never scrolls. */
+html[data-skin="desi"] {
+  --kicker-size: 0.95rem;
+  --logo-max-vw: 6.6vw;
+}
+/* Wipe: a saffron sheet sweeps left to right into emerald (two colours, no white band). */
+html[data-skin="desi"] .theme-wipe[data-wipe="saffron"],
+html .theme-wipe[data-wipe="saffron"] {
+  background: linear-gradient(100deg, var(--c3) 0 62%, var(--card) 62% 66%, var(--c2) 66% 100%);
+  clip-path: polygon(0 0, 0% 0, -14% 100%, 0 100%);
+  animation: desi-wipe 0.55s var(--ease-out) forwards;
+}
+@keyframes desi-wipe {
+  0% {
+    clip-path: polygon(0 0, 0% 0, -14% 100%, 0 100%);
+    opacity: 1;
+  }
+  60% {
+    clip-path: polygon(0 0, 114% 0, 100% 100%, 0 100%);
+    opacity: 1;
+  }
+  100% {
+    clip-path: polygon(0 0, 114% 0, 100% 100%, 0 100%);
+    opacity: 0;
+  }
+}
+/* skin:desi end */

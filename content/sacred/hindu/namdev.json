@@ -1,0 +1,257 @@
+{
+  "slug": "namdev",
+  "name": "Namdev",
+  "aka": ["Nama", "Sant Namdev", "Bhagat Namdev"],
+  "native": "नामदेव",
+  "role": "Marathi Varkari saint-poet who sang of Vithoba",
+  "summary": "Namdev was a Marathi saint-poet and devotee of Vithoba of Pandharpur whose hymns are loved by Varkaris and also appear in the Sikh Guru Granth Sahib.",
+  "about": "Namdev was a Marathi saint-poet traditionally placed around 1270 to 1350, though scholars suggest other dates. According to tradition he came from Narsi in Hingoli district and was a devotee of Vithoba of Pandharpur. He is counted among the early Varkari saints, and tradition, as far back as the Bhaktamal of about 1600, names Dnyaneshwar as his friend. He was born in a tailor caste, called shimpi in Maharashtra. His devotional poems are remembered in Maharashtra, Rajasthan and Punjab, and 61 hymns under his name appear in the Guru Granth Sahib. Many later poets wrote in his name, so scholars think only a portion of the roughly 2,500 abhangs credited to him are really his. Where he died is told differently in Maharashtra and in the Sikh tradition.",
+  "kidSummary": "Namdev was a saint and poet who loved Vithoba, the god of Pandharpur, and sang to him in simple Marathi. His songs are remembered in Maharashtra and are also in the Sikh holy book. He was friends with other saints, no matter what their jobs or backgrounds were.",
+  "story": [
+    {
+      "title": "A tailor's family",
+      "text": "Namdev was born into a family of tailors. The old tellings say he grew up in the Marathi-speaking lands of Maharashtra."
+    },
+    {
+      "title": "Singing to Vithoba",
+      "text": "A famous childhood tale says young Namdev got Vithoba's idol to drink milk. From then he gave his heart to Vithoba and made simple songs, called abhangs."
+    },
+    {
+      "title": "Friends of all kinds",
+      "text": "His fellow saints came from many walks of life, including a potter, a servant and a dancer, and all sang together."
+    },
+    {
+      "title": "Travelling with songs",
+      "text": "Tradition says he travelled far from Maharashtra, and his words were written down in places like Rajasthan and Punjab."
+    },
+    {
+      "title": "A place in two traditions",
+      "text": "The Sikh Guru Granth Sahib records 61 hymns under his name, so his voice is honoured by Sikhs and Varkaris alike."
+    },
+    {
+      "title": "Walking to Pandharpur",
+      "text": "Each year, Varkaris carry the sandals of saints, Namdev's among them, in palkhis to Vithoba's temple. At the entrance, a step is named for him."
+    }
+  ],
+  "teaches": [
+    "God is for everyone, whatever their work or birth",
+    "Simple songs can carry deep faith",
+    "Friendship among saints crosses boundaries"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Abhang songs", "Paduka (sacred sandals)"],
+  "family": [
+    {
+      "relation": "wife (traditionally)",
+      "name": "Rajai"
+    },
+    {
+      "relation": "son (traditionally)",
+      "name": "Vitha"
+    },
+    {
+      "relation": "beloved deity",
+      "name": "Vithoba",
+      "slug": "vithoba"
+    },
+    {
+      "relation": "friend in Marathi tradition",
+      "name": "Dnyaneshwar",
+      "slug": "dnyaneshwar"
+    }
+  ],
+  "texts": ["Abhangs", "Guru Granth Sahib (61 hymns)", "Shri Namdev Gatha"],
+  "places": ["Narsi, Hingoli district", "Pandharpur", "Ghuman, Punjab"],
+  "festivals": ["Ashadhi Ekadashi (Pandharpur Vari)"],
+  "facts": [
+    {
+      "text": "A legend says Namdev's offering to Vithoba went untouched until he pleaded, and then God ate it. Namdev asked that the temple's first step be named for him, so that devotees would touch it before seeing the deity.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vithoba_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Legend says that at the Aundha Nagnath temple the priests sent Namdev to the rear while he sang. The whole temple is said to have turned its entrance to face him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Aundha_Nagnath_Temple",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Guru Granth Sahib contains 61 hymns credited to Namdev, which is why Sikhs honour him as a bhagat.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "His circle of fellow saints included Kanhopatra, a dancer, Chokhamela, Janabai, a maid-servant, and Gora, a potter.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Even rivals noticed him. The Mahanubhava sect's old text, the Lilacaritra, unkindly called Namdev a cattle-thief who loved Vithoba and helped him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 8
+    },
+    {
+      "text": "At Pandharpur, the story says Pundalik, busy serving his parents, threw a brick outside for God to stand on. Vithoba waited on it with hands on his hips.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vithoba",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The 18th-century writer Mahipati said Namdev's elderly, childless parents, Damashet and Gonai, found him floating down a river as a baby. Earlier biographies lack this tale.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Mahipati's tales add wonders, such as buildings turning and the sun rising in the west to show respect for Namdev. Scholars see these as later additions.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 7
+    },
+    {
+      "text": "Sikh tradition says Namdev died in the Punjab village of Ghuman, where a shrine stands. Pandharpur and Narsi also have monuments to him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 7
+    },
+    {
+      "text": "A famous tale says a dog ran off with Namdev's dry bread. He chased it with a cup of ghee, calling the dog the Lord of the world and wanting the bread to taste better.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sant_Namdev",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "On his guru's advice, Namdev found a man asleep with his feet on a temple deity and scolded him. The man was Visoba, who asked where God was not. Wherever Namdev moved the feet, God was there.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sant_Namdev",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A tale says Parisha's philosopher's stone, which turns iron to gold, came into Namdev's house. He threw it in the river, and Parisha found a whole heap of such stones there.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Namdev",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Legend says Namdev nearly died of thirst in the Marwar desert while travelling with Jnanadev. He prayed, and water rose in the well at Kaladji near Bikaner.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Namdev",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says a Sultan at Bidar told Namdev to revive a butchered cow or give up his faith. Namdev revived it, and the Sultan, who had sent an elephant against him, was amazed.",
+      "kind": "story",
+      "source": "https://www.newworldencyclopedia.org/entry/Namdev",
+      "interest": 8
+    },
+    {
+      "text": "In one story Namdev was sent to sell cloth but sat singing instead. He left the cloth on a stone and named another stone Dhondya as guarantor. When his father opened the room where it was locked, he found gold.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sant_Namdev",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In a tale, the potter Gora tested the saints as he would tap pots, tapping each head with a wooden board. Namdev cried out, so the others called him half-baked.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sant_Namdev",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Namdev is said to have walked from Maharashtra to Ghuman in Punjab, where locals say he lived over twenty years. The gurdwara there is named for him and holds his samadhi shrine.",
+      "kind": "place",
+      "source": "https://www.tribuneindia.com/news/archive/features/little-maharashtra-in-punjab-village-62948",
+      "interest": 8
+    },
+    {
+      "text": "In 2015 about 7,000 people from Maharashtra travelled to Ghuman for a three-day Marathi literary gathering in Namdev's memory. The community kitchen served Marathi dishes.",
+      "kind": "festival",
+      "source": "https://www.tribuneindia.com/news/archive/features/little-maharashtra-in-punjab-village-62948",
+      "interest": 8
+    },
+    {
+      "text": "Janabai, a maid in Namdev's household, became a saint and poet herself. In her verses she calls herself his servant, and tradition says Vithoba eased her chores in old age.",
+      "kind": "history",
+      "source": "https://www.newworldencyclopedia.org/entry/Namdev",
+      "interest": 7
+    },
+    {
+      "text": "Tradition says Namdev's first word at about age two was 'Vithala', and he kept repeating it. At about seven he made cymbals and sang bhajans, forgetting meals and sleep.",
+      "kind": "story",
+      "source": "https://hindupedia.com/en/Sant_Namdev",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Scholar Shima Iwao writes that Namdev taught that all can be saved equally, whatever their caste, through devotion to Vithoba. He reached people kept from studying the Vedas.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Namdev",
+      "interest": 7
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which deity did Namdev sing to?",
+      "options": ["Vithoba", "Ganesha", "Hanuman", "Shiva"],
+      "answer": 0,
+      "why": "Namdev was a devotee of Vithoba of Pandharpur."
+    },
+    {
+      "q": "How many of his hymns are in the Guru Granth Sahib?",
+      "options": ["12", "61", "108", "500"],
+      "answer": 1,
+      "why": "The Adi Granth contains 61 hymns credited to Namdev."
+    },
+    {
+      "q": "What are his short devotional songs in Marathi called?",
+      "options": ["Ragas", "Dohas", "Abhangs", "Stotras"],
+      "answer": 2,
+      "why": "Abhang is the Marathi devotional song form."
+    },
+    {
+      "q": "Where does the Pandharpur Vari lead pilgrims?",
+      "options": [
+        "Vithoba's temple at Pandharpur",
+        "Ganges at Varanasi",
+        "Rameswaram temple",
+        "Jagannath temple at Puri"
+      ],
+      "answer": 0,
+      "why": "Pilgrims walk to Vithoba's temple at Pandharpur."
+    }
+  ],
+  "related": ["vithoba", "dnyaneshwar", "tukaram", "kabir", "ravidas", "guru-nanak"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Namdev",
+    "vithobaTemple": "https://en.wikipedia.org/wiki/Vithoba_Temple",
+    "vithoba": "https://en.wikipedia.org/wiki/Vithoba",
+    "aundha": "https://en.wikipedia.org/wiki/Aundha_Nagnath_Temple",
+    "hindupedia": "https://hindupedia.com/en/Sant_Namdev",
+    "nwe": "https://www.newworldencyclopedia.org/entry/Namdev",
+    "tribune": "https://www.tribuneindia.com/news/archive/features/little-maharashtra-in-punjab-village-62948"
+  },
+  "palette": {
+    "c1": "#c9d9ea",
+    "c2": "#efd9b7"
+  },
+  "years": "c. 1270–1350 (traditional)",
+  "order": 500,
+  "tradition": "hindu",
+  "group": "bhakti",
+  "depth": "full"
+}

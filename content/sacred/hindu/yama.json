@@ -1,0 +1,318 @@
+{
+  "slug": "yama",
+  "name": "Yama",
+  "aka": ["Yamaraja", "Dharmaraja", "Vaivasvata", "Antaka", "Kala"],
+  "native": "यम",
+  "tradition": "hindu",
+  "group": "deva",
+  "role": "Lord of death and keeper of dharma, guardian of the south",
+  "summary": "Yama is the Hindu god of death who judges the dead by their deeds. He is also the wise teacher of the boy Nachiketa and the guardian of the southern direction.",
+  "about": "In the Rigveda, Yama is the first mortal to die and find the path to the world beyond, and later he becomes its king. Two four-eyed dogs track those who die, and later images show him with a water buffalo as mount. In the Katha Upanishad, he teaches the boy Nachiketa about the self and what lies beyond death. The Mahabharata tells how he yielded to Savitri and gave her husband Satyavan his life back. Puranas differ about his wives and mother, and the Bhagavata and Vishnu Puranas have Yama say he answers to a higher power. He is also the guardian of the south. In Buddhism he became a king of hell with names like Enma in Japan and Yama Dharmaraja in Tibet, and Bhai Dooj recalls his visit to his sister Yamuna.",
+  "kidSummary": "Yama is the god of death and fairness. Old stories say he is wise, not scary: he answered a brave boy named Nachiketa's questions, and he was moved by Savitri's cleverness. On Bhai Dooj, people remember how Yama visited his sister Yamuna.",
+  "story": [
+    {
+      "title": "A boy at Yama's door",
+      "text": "In the Katha Upanishad, a boy named Nachiketa goes to Yama's home. Yama is away, so Nachiketa waits three nights without food."
+    },
+    {
+      "title": "Three boons",
+      "text": "When Yama returns, he feels sorry that his guest waited. He offers three wishes to make up for it."
+    },
+    {
+      "title": "The big question",
+      "text": "Nachiketa's first two wishes are about his father and a sacred fire. His third wish is to learn what happens after death."
+    },
+    {
+      "title": "Gifts refused",
+      "text": "Yama tries to offer riches, long life and pleasures instead. Nachiketa politely says no and asks again for the answer."
+    },
+    {
+      "title": "The teacher",
+      "text": "Yama is impressed. He teaches Nachiketa about the self and tells him to choose what is truly good, not only what feels pleasant."
+    }
+  ],
+  "teaches": [
+    "Seek wisdom, not just pleasure",
+    "Be brave enough to ask big questions",
+    "Welcome guests and treat them well"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Water buffalo (mount)", "Staff or mace (danda)", "Noose", "Two four-eyed dogs"],
+  "family": [
+    {
+      "relation": "Father (many Puranas)",
+      "name": "Surya",
+      "slug": "surya"
+    },
+    {
+      "relation": "Twin sister",
+      "name": "Yami (Yamuna)",
+      "slug": "yamuna"
+    },
+    {
+      "relation": "Student",
+      "name": "Nachiketa",
+      "slug": "nachiketa"
+    },
+    {
+      "relation": "Spared husband of",
+      "name": "Savitri",
+      "slug": "savitri"
+    },
+    {
+      "relation": "Reborn as (Bhagavata Purana)",
+      "name": "Vidura",
+      "slug": "vidura"
+    },
+    {
+      "relation": "Revived the brothers of",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    }
+  ],
+  "texts": [
+    "Rigveda",
+    "Katha Upanishad",
+    "Mahabharata",
+    "Bhagavata Purana",
+    "Garuda Purana",
+    "Brahma Purana"
+  ],
+  "places": ["Yamaloka (southern realm)", "Yama Dharmaraja Temple, Thiruchitrambalam"],
+  "festivals": ["Bhai Dooj (Yama Dwitiya)", "Dhanteras (Yama Deepam)", "Vat Purnima"],
+  "facts": [
+    {
+      "text": "In the Rigveda, Yama is the first mortal to die and find the path that others later follow.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In later Puranic tradition, Yama could not record every being's deeds alone, so Brahma meditated for 11,000 years and made Chitragupta, whose name means rich in secrets, to keep the register.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chitragupta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vedic texts, Yama has two four-eyed dogs, Sharvara and Shyama, who track those about to die and guard the path to his realm.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Katha Upanishad, young Nachiketa waits three nights at Yama's door, and Yama grants him three wishes as an apology.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Katha Upanishad compares the body to a chariot, with the self as rider and the intellect as the charioteer.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Mahabharata's Yaksha Prashna, Yama appears as a crane-form yaksha and quizzes Yudhishthira; asked which enemy cannot be beaten, the answer is anger. He then revives the brothers.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Savitri story, Yama grants her four boons but not her husband's life, then she cleverly asks for sons, which needs Satyavan alive.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, a sage's curse makes Yama be born as Vidura, while Aryama takes his duties for a while.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna and Balarama travel to Yama's city to bring back the dead son of their teacher.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Brahma Purana says Shiva struck Yama down when he came for the soul of the boy Markandeya, and at the gods' request Yama was later brought back to life.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On Bhai Dooj, people recall that Yama visited his sister Yamuna on the second day of the bright fortnight, which is why it is also called Yama Dwitiya.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhai_Dooj",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "On Dhanteras, families light thirteen lamps for Yama facing south; a tale says a bride's lamps and songs saved her husband.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Dhanteras",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In East Asian Buddhism he became Enma in Japan, Yeom-ra in Korea and Diem Vuong in Vietnam, a king who judges the dead.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Enma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tibetan Buddhism, Yama Dharmaraja is shown with a buffalo head, and the wheel of life is held in his jaws or arms.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Enma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Road-safety campaigns in India have used Yama's image to remind people to wear helmets.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Two Vedic-era texts, the Taittiriya Aranyaka and the Apastamba Shrauta Sutra, give Yama horses with golden eyes and iron hooves, quite unlike the later water buffalo.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, the dying Ajamila calls out for his youngest son, named Narayana, and Vishnu's attendants turn back Yama's messengers; the tale is told to show the power of a divine name.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ajamila",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Matsya Purana, Yama fights the king Janamejaya in the underworld, is captured, and then ends up teaching him the knowledge of liberation.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One of Yama's names is Pashi, the one with a noose; Puranic images show him holding a rope noose and a staff, and riding a water buffalo.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yama is twin to the goddess Yami and brother of Shraddhadeva Manu, and the Puranic accounts count Shani as his step-brother.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Yama has a Persian cousin: the Avestan figure Yima, son of Vivanhvant, is a linguistic cognate of Yama, son of Vivasvat.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Yama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Garuda Purana's Pretakhanda describes what a soul goes through after death, from meeting Yama's messengers to the journey to naraka over the following year.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Garuda_Purana",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, a curse leaves Yama's leg with sores and worms after he raises it against Chhaya, and Surya sends him a rooster to peck them away.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chhaya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Puranic tradition describes a river, Vaitarani, as the boundary of Naraka, lying between that realm and the earth, which souls must cross.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Naraka_(Hinduism)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Yama's agents, the Yamadutas, are said to lead the souls of the dead who have not reached moksha to Yamaloka.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Yamaduta",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which animal is Yama's mount?",
+      "options": ["Water buffalo", "Horse", "Tiger", "Swan"],
+      "answer": 0,
+      "why": "Puranic pictures show Yama on a water buffalo."
+    },
+    {
+      "q": "How long did Nachiketa wait at Yama's door?",
+      "options": ["One hour", "Three nights", "One year", "Seven days"],
+      "answer": 1,
+      "why": "He waited three nights without food, so Yama offered three wishes."
+    },
+    {
+      "q": "Which festival remembers Yama visiting his sister Yamuna?",
+      "options": ["Holi", "Pongal", "Bhai Dooj", "Baisakhi"],
+      "answer": 2,
+      "why": "Bhai Dooj, also called Yama Dwitiya, is linked to that visit."
+    },
+    {
+      "q": "Which Mahabharata woman won back her husband from Yama?",
+      "options": ["Savitri", "Draupadi", "Kunti", "Gandhari"],
+      "answer": 0,
+      "why": "Savitri's wise words made Yama return Satyavan's life."
+    },
+    {
+      "q": "How many lamps do people light for Yama on Dhanteras?",
+      "options": ["Seven", "Thirteen", "Twenty", "One hundred"],
+      "answer": 1,
+      "why": "Thirteen lamps are lit facing south."
+    }
+  ],
+  "related": [
+    "surya",
+    "yamuna",
+    "nachiketa",
+    "savitri",
+    "satyavan",
+    "vidura",
+    "yudhishthira",
+    "markandeya",
+    "shiva",
+    "kubera"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Yama",
+    "katha": "https://en.wikipedia.org/wiki/Katha_Upanishad",
+    "savitri": "https://en.wikipedia.org/wiki/Savitri_and_Satyavan",
+    "bhaidooj": "https://en.wikipedia.org/wiki/Bhai_Dooj",
+    "dhanteras": "https://en.wikipedia.org/wiki/Dhanteras",
+    "enma": "https://en.wikipedia.org/wiki/Enma"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#d9d3e8",
+    "c2": "#ebe4d2"
+  },
+  "order": 10
+}

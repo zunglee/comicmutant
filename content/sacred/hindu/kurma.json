@@ -1,0 +1,247 @@
+{
+  "slug": "kurma",
+  "name": "Kurma",
+  "aka": ["Kachchhapa", "Kamatha", "Akupara", "Tortoise avatar"],
+  "native": "कूर्म",
+  "tradition": "hindu",
+  "group": "avatar",
+  "role": "The tortoise avatar of Vishnu, second of the Dashavatara",
+  "summary": "Kurma is the tortoise form of Vishnu. In the ocean-churning story, many Hindu texts say he carries Mount Mandara on his back so the devas and asuras can churn the sea.",
+  "about": "Kurma is the second avatar in the usual Dashavatara list. The word means tortoise. The oldest mention is in the Shatapatha Brahmana, where the creator Prajapati takes a tortoise form to make living beings. Later, in the story of the Samudra Manthan, the Puranas say Vishnu became a tortoise to hold up Mount Mandara after it began to sink. The Mahabharata tells the churning with a tortoise king, though its critical edition does not call him an avatar. The Kurma Purana is told in his own voice. Texts differ on many details, and Kurma is also linked with the sage Kashyapa.",
+  "kidSummary": "Kurma is Vishnu as a giant tortoise. In an old story, gods and asuras tried to churn the ocean using a mountain, but it kept sinking. Kurma dived down and held it on his strong shell.",
+  "story": [
+    {
+      "title": "A big plan",
+      "text": "In the Puranas, the devas and asuras wished to get amrita, the nectar of life, from the ocean. They agreed to churn the sea together."
+    },
+    {
+      "title": "Mountain and serpent",
+      "text": "They used Mount Mandara as a churning stick and the serpent Vasuki as the rope. Each side pulled one end."
+    },
+    {
+      "title": "The sinking mountain",
+      "text": "As they pulled, the heavy mountain began to sink into the water. The churning could not go on."
+    },
+    {
+      "title": "Kurma helps",
+      "text": "Vishnu took the form of a huge tortoise. He dived under the mountain and held it steady on his back."
+    },
+    {
+      "title": "Treasures rise",
+      "text": "Many wonders came out of the sea during the churning, including Lakshmi and the pot of amrita."
+    }
+  ],
+  "teaches": [
+    "Steady support makes big work possible",
+    "Cooperation can achieve what one side cannot",
+    "Patience and strength go together"
+  ],
+  "symbol": "mountain",
+  "emblems": ["Tortoise", "Mount Mandara on his shell"],
+  "family": [
+    {
+      "relation": "Form of",
+      "name": "Vishnu",
+      "slug": "vishnu"
+    },
+    {
+      "relation": "Linked with sage",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    }
+  ],
+  "texts": ["Shatapatha Brahmana", "Mahabharata (Adi Parva)", "Kurma Purana", "Bhagavata Purana"],
+  "places": ["Srikurmam temple, Andhra Pradesh"],
+  "festivals": ["Kurma Jayanti"],
+  "facts": [
+    {
+      "text": "In a Skanda Purana tale, Brahma becomes a firefly and wanders for a thousand divine years until he finds Vishnu asleep in the form of a tortoise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "At Srikurmam in Andhra Pradesh the Kurma image faces west, though the rule says it should face east. A local legend says it turned to honour a Bhil king who worshipped from behind.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The yoga posture Kurmasana is named after the tortoise, because the folded limbs look like a tortoise pulling into its shell.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Angkor Wat in Cambodia a famous relief shows the churning of the ocean, with Vishnu and Kurma in the middle and gods and asuras pulling from either side.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Taittiriya Aranyaka passage names a tortoise Arunaketu, which arises from Prajapati's sap and then declares that it existed before him.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Vedic texts treat Kurma and the sage Kashyapa as one, since kashyapa also means tortoise. The Shatapatha Brahmana says that is why all creatures are called children of Kashyapa.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Old texts list ten winds in the body. The one called Kurma is said to work the opening and closing of the eyes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Locals near Banka in Bihar believe the hill of Mandar is the real Mount Mandara of the churning, and a nearby pond called Paapharni is linked to the amrita.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Samudra_manthan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Brahmanda Purana the goddess Lalita makes a tortoise from her finger to rescue her army from a flood.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Bhagavata Purana says the ocean tides come from the breathing of a drowsy Kurma, who was being scratched by the churning mountain.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The Narada Purana says fire sparked when Mandara rubbed on the tortoise's shell.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Mahabharata holds the earliest known churning story, and it does not yet call the tortoise an avatar. The gods ask Kurma-raja, the king of tortoises, to carry Mandara on his back, and he agrees; later manuscript additions link him with Vishnu.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Later medieval tradition links the churning to the Kumbh Mela, saying drops of amrita fell at Haridwar, Prayagraj, Trimbak and Ujjain. The old Puranas do not mention this, so scholars see it as a later addition.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Samudra_manthan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Agni Purana version, Dhanvantari rises last, carrying the bowl of amrita. When the asuras snatch it, Vishnu takes the enchanting form of Mohini and wins it back for the devas.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one Padma Purana account the goddess of wine, Varuni, rises from the churned sea and the gods turn her down while the asuras accept her. The Brahmanda Purana tells it the other way round, a swap used to explain what the word asura means.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The scholar B. G. Sidharth reads the churning as astronomy: Mandara stands for the polar regions, the serpent Vasuki for the Earth's slow yearly motion, and the tortoise for the Earth being held up in space on its yearly path round the Sun.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one Padma Purana account an unlucky being called Alakshmi, meaning not-Lakshmi, also rises from the sea. She is told to live where people quarrel, gamble and steal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A Jaiminiya Brahmana passage says the tortoise-sage Akupara Kashyapa dived into the sea looking for firm footing and found it in this earth. That is why the tortoise stands for a steady place to stand and for a way across the sea.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "After Varaha lifts the earth, the Skanda Purana says Vishnu set the elephants of the directions, the king of serpents and a tortoise underneath it for extra support.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Markandeya Purana maps lands and star groups onto nine parts of the tortoise: the mouth, four feet, tail, centre and two sides of the belly.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Priests of old buried tortoises when building the Ahavaniya fire altar, and the Vajasaneyi Samhita calls the tortoise the lord of the waters.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kurma",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "In the Bhagavata Purana, what causes the ocean tides?",
+      "options": ["Kurma's breathing", "Vasuki's hiss", "Mandara spinning", "Shiva's dance"],
+      "answer": 0,
+      "why": "The Bhagavata Purana links the tides to the breathing of a drowsy Kurma."
+    },
+    {
+      "q": "What mountain did Kurma carry on his back?",
+      "options": ["Mount Kailash", "Mount Meru", "Mount Mandara", "Mount Abu"],
+      "answer": 2,
+      "why": "Mandara was the churning stick."
+    },
+    {
+      "q": "Which serpent was used as the churning rope?",
+      "options": ["Vasuki", "Kaliya", "Takshaka", "Ananta"],
+      "answer": 0,
+      "why": "Vasuki was wound around the mountain."
+    },
+    {
+      "q": "What were the gods and asuras trying to get from the ocean?",
+      "options": ["Gold", "Amrita", "Pearls", "Rain"],
+      "answer": 1,
+      "why": "Amrita is the nectar of life."
+    },
+    {
+      "q": "Which yoga pose is named after the tortoise?",
+      "options": ["Kurmasana", "Vrikshasana", "Padmasana", "Tadasana"],
+      "answer": 0,
+      "why": "Kurmasana is the tortoise pose."
+    }
+  ],
+  "related": ["vishnu", "kashyapa", "indra", "lakshmi", "dhanvantari", "shiva"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kurma",
+    "samudra-manthan": "https://en.wikipedia.org/wiki/Samudra_manthan"
+  },
+  "palette": {
+    "c1": "#b6d8c3",
+    "c2": "#e9f1d9"
+  },
+  "order": 2
+}

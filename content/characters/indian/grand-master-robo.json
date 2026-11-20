@@ -5,7 +5,7 @@
   "kind": "villain",
   "medium": "comics",
   "publisher": "Raj Comics",
-  "summary": "Super Commando Dhruva's archenemy: a half-machine crime lord who leads the worldwide terror network Robo Army. He is also the father of Dhruva's love, Natasha.",
+  "summary": "Super Commando Dhruva's archenemy: a half-machine crime lord who leads the worldwide crime network Robo Army. He is also the father of Dhruva's love, Natasha.",
   "origin": "Robo is a global crime boss whose left half is metal, with a laser fitted into his left eye. He first turned up in a cameo in Maut Ka Olympic, then got a full story in the 1991 special named after him, Raj Comics' first solo-hero special issue. That issue also introduced his daughter Natasha, whose love for Dhruva keeps pulling her between her father's syndicate and the hero.",
   "creators": ["Anupam Sinha"],
   "firstAppearance": {
@@ -86,6 +86,17 @@
       "options": ["The left", "The right", "Both", "Neither"],
       "answer": 0,
       "why": "His left side is metallic, including a laser in the left eye."
+    },
+    {
+      "q": "What prize did Robo's Olympic Committee offer in Maut Ka Olympic?",
+      "options": [
+        "A mountain of gold",
+        "The right to go after Dhruva",
+        "A seat on the Robo Army council",
+        "A private island"
+      ],
+      "answer": 1,
+      "why": "Criminals competed in Rajnagar for the right to go after Dhruva."
     }
   ],
   "rivals": ["super-commando-dhruva"],
@@ -103,7 +114,9 @@
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies",
     "dhruva": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
-    "supporting": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters"
+    "supporting": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters",
+    "comics": "https://en.wikipedia.org/wiki/List_of_Dhruva_comics",
+    "fan-blog": "https://rajcomicsvillains.blogspot.com/2011/04/more-successful-villain-more-successful.html"
   },
   "timeline": [
     {
@@ -124,7 +137,7 @@
       "year": 1993,
       "kind": "comic",
       "title": "Robo Ka Pratishodh",
-      "note": "GENL #460 wraps up a two-part story with Robo coming back to settle scores with Dhruva.",
+      "note": "GENL #460, titled Robo's Vengeance, concludes a two-part story that began in the issue that introduced Black Cat.",
       "with": "super-commando-dhruva"
     },
     {
@@ -135,5 +148,146 @@
       "with": "super-commando-dhruva"
     }
   ],
-  "heat": 35
+  "heat": 35,
+  "facts": [
+    {
+      "text": "Robo founded the Olympic Committee, which staged a crime Olympics in Rajnagar in Maut Ka Olympic. Criminals from all over the world competed, and the first prize was the right to hunt down Dhruva.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies",
+      "interest": 9
+    },
+    {
+      "text": "Robo and Dhruva share a bond of hatred and respect. Each knows that hurting the other would also hurt Natasha, Robo's daughter and Dhruva's love.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Robo once nearly had a change of heart, but Natasha, who had turned rogue over corruption in the system, stopped him from surrendering.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia notes a Batman parallel: Dhruva's girlfriend Natasha is the daughter of a major villain, just as Talia al Ghul is the daughter of Ra's al Ghul.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "In the futuristic Nagayana series, Natasha is Dhruva's lawfully wedded wife, so there the daughter of Robo is married to Robo's arch-enemy.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters",
+      "interest": 7
+    },
+    {
+      "text": "Writer-artist Anupam Sinha says he worked on the Robo special while on a break in Mumbai, and he drew the actual room he was staying in into one of the last panels.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "A fan-run Raj Comics villains blog says Robo began as a gangster named Robert Sheen, who survived an attack by a rival gangster only because a doctor named Schilder saved him.",
+      "kind": "origin",
+      "source": "https://rajcomicsvillains.blogspot.com/2011/04/more-successful-villain-more-successful.html",
+      "interest": 8
+    },
+    {
+      "text": "In that blog's account, Sheen took his baby daughter Natasha from her mother, Marian. Years later, as Grand Master Robo, he trained her to fight and made her commander of his army.",
+      "kind": "origin",
+      "source": "https://rajcomicsvillains.blogspot.com/2011/04/more-successful-villain-more-successful.html",
+      "interest": 8
+    },
+    {
+      "text": "The same blog says Dhruva once arrested Robo but could not get him punished, because there was no evidence or witness against him, so Robo walked free.",
+      "kind": "story",
+      "source": "https://rajcomicsvillains.blogspot.com/2011/04/more-successful-villain-more-successful.html",
+      "interest": 7
+    },
+    {
+      "text": "The fan blog also says Robo's body is immune to the poison of the mamba snake, and that he fires a powerful laser beam from his metallic left eye.",
+      "kind": "powers",
+      "source": "https://rajcomicsvillains.blogspot.com/2011/04/more-successful-villain-more-successful.html",
+      "interest": 8
+    },
+    {
+      "text": "Natasha is the only person who knows that Dhruva's sister Shweta is the masked heroine Chandika. In Nagayana she wore Chandika's costume to keep the heroine alive while Shweta was presumed dead.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters",
+      "interest": 7
+    },
+    {
+      "text": "The Robo special introduced Swarna Nagri, a golden city hidden on the ocean floor. Its warrior Dhananjay first fought Dhruva, then became his friend and gave him the power to breathe underwater.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 9
+    },
+    {
+      "text": "The same special showed that Dhruva, already known for talking to animals and birds, can communicate with dolphins too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Page 5 of the Robo special shows a distracted Dhruva adding salt to a halwa instead of boiled eggs, a funny moment Wikipedia uses to show that he eats eggs.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Dhruva's enemies range from ordinary crooks to tricksters, mad scientists, demons and aliens, but Wikipedia calls Grand Master Robo his most implacable foe.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters",
+      "interest": 7
+    },
+    {
+      "text": "Wikipedia names Robo, Chandakaal and Mahamanav among the best-known and most recognisable villains in Indian comics.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_supporting_characters",
+      "interest": 7
+    },
+    {
+      "text": "Natasha, Black Cat, Nakshatra and Nostredamas are given as examples of rogues who turned good through what Wikipedia calls the Dhruva effect, since Dhruva believes criminals can reform.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Black Cat (Richa) arrived in 1993 to complicate Dhruva's love life, but he has made it clear to her that his heart belongs to Natasha, his first love.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    },
+    {
+      "text": "Robo's left half is metal and a laser sits inside his left eyeball. Wikipedia lists him as leader of the Robo Army, a worldwide criminal network, and as Dhruva's most recurring villain.",
+      "kind": "origin",
+      "source": "https://en.wikipedia.org/wiki/List_of_Dhruva_enemies",
+      "interest": 7
+    },
+    {
+      "text": "SPCL #64, Commander Natasha (1996), explores Robo and Natasha's past and upsets Dhruva's love life, since Natasha leaves him and rejoins her father's crime group.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Grand Master Robo is a crime boss who is half man, half machine, with a laser in his left eye. He is Super Commando Dhruva's biggest enemy, but his daughter Natasha is Dhruva's sweetheart, so the two of them hold back from hurting each other.",
+  "story": [
+    {
+      "title": "A half-metal boss",
+      "text": "Robo is a crime boss whose left side is metal, with a laser in his left eye. He runs a worldwide group called the Robo Army."
+    },
+    {
+      "title": "The crime Olympics",
+      "text": "In Maut Ka Olympic, a body called the Olympic Committee holds a contest in Rajnagar, with the prize being the right to go after Dhruva."
+    },
+    {
+      "title": "Natasha",
+      "text": "In the Robo special, Dhruva meets Natasha, who is Robo's daughter. She loves Dhruva, but she is also loyal to her father."
+    },
+    {
+      "title": "Hate and respect",
+      "text": "Robo wants Dhruva gone and Dhruva wants Robo arrested, but both hold back, because hurting the other would hurt Natasha."
+    }
+  ]
 }

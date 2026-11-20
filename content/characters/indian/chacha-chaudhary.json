@@ -98,10 +98,33 @@
       "why": "Pran created him for Lotpot in 1971."
     },
     {
-      "q": "What colour is Chacha Chaudhary's turban?",
-      "options": ["Red", "Green", "White", "Blue"],
+      "q": "What is special about Chacha's dog Rocket?",
+      "options": ["He is a vegetarian", "He can fly", "He speaks Hindi", "He lives on Jupiter"],
       "answer": 0,
-      "why": "The red turban is his trademark."
+      "why": "Rocket is billed as the only vegetarian dog in the world."
+    },
+    {
+      "q": "Why can nobody permanently defeat Raaka?",
+      "options": [
+        "He drank an immortality potion",
+        "He wears a magic turban",
+        "He is made of stone",
+        "He lives on Jupiter"
+      ],
+      "answer": 0,
+      "why": "He drank from a bottle labelled Poison, but it held a sage's immortality potion."
+    },
+    {
+      "q": "How is Sabu's lassi served in the comics?",
+      "options": ["In a big bucket", "In a tiny cup", "In a coconut", "In a bottle cap"],
+      "answer": 0,
+      "why": "Sabu is served lassi in a big bucket or pot."
+    },
+    {
+      "q": "What does the word chacha mean in Hindi?",
+      "options": ["Uncle", "Teacher", "King", "Doctor"],
+      "answer": 0,
+      "why": "Chacha means uncle."
     }
   ],
   "rivals": [],
@@ -118,7 +141,10 @@
   },
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
-    "creator": "https://en.wikipedia.org/wiki/Pran_Kumar_Sharma"
+    "creator": "https://en.wikipedia.org/wiki/Pran_Kumar_Sharma",
+    "sahapedia": "https://www.sahapedia.org/brief-history-hindi-comics-india-amar-chitra-katha-raj-comics-and-internet",
+    "theprint": "https://theprint.in/feature/brandma/chacha-chaudhary-indian-comic-book-hero-who-broke-masculine-archetypes-like-superman-batman/947406",
+    "quint": "https://www.thequint.com/news/india/childhood-hero-chacha-chaudhary-to-be-the-mascot-for-namami-gange-project"
   },
   "timeline": [
     {
@@ -132,6 +158,12 @@
       "kind": "screen",
       "title": "Raghubir Yadav plays Chacha",
       "note": "A live-action series on Sahara One casts Raghubir Yadav and runs for 415 episodes."
+    },
+    {
+      "year": 2009,
+      "kind": "screen",
+      "title": "License India tie-up",
+      "note": "Pran's Features teams up with License India to bring Chacha, Sabu and Pinki to the screen as animated characters."
     },
     {
       "year": 2014,
@@ -152,5 +184,164 @@
       "note": "The Namami Gange clean-river mission picks Chacha Chaudhary as its mascot."
     }
   ],
-  "heat": 60
+  "heat": 60,
+  "facts": [
+    {
+      "text": "A popular saying claims Chacha's brain works faster than a computer, which makes him a hero of intelligence in a world of strongmen.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "The name is simple: chacha means uncle in Hindi, and Chaudhary is a title tied to landlords. Under his red turban, Chacha is also bald.",
+      "kind": "culture",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Chacha never locks his house when the family goes out, yet nobody has ever robbed it. In some stories Chachi locks it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "Chacha loves watermelon and cannot resist mangoes. An itch on his head or nose warns him that trouble is about to arrive.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Sabu, about 15 feet tall though stories vary, came from Jupiter and stayed on Earth after tasting Chachi's paratha and halwa. He has a twin brother named Dabu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "A single Sabu meal in the comics is said to include 202 chapatis, 14 kg of halwa, 22 kg of rice, 7 kg of vegetables, 10 kg of curry and 18 litres of lassi.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 9
+    },
+    {
+      "text": "Dag Dag, Chacha's truck, is half machine and half human; it refuses to start for thieves who try to steal it, but when Chacha whistles it rushes over and crashes into whoever is bothering him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 9
+    },
+    {
+      "text": "Whenever Sabu gets angry, a volcano erupts on Jupiter, according to one comic panel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 9
+    },
+    {
+      "text": "Sabu's battle cry is Hu-Huba!, and he only sometimes shouts Jai Bajrang Bali. In some stories rubbing a lamp summons him, Aladdin style.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Rocket, Chacha's stray dog, is billed as the world's only vegetarian dog and drinks milk instead of eating meat.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "After Chacha won a contest, he and Sabu made the immortal Raaka shave off his moustache as the price of losing.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "Bini Chachi sometimes fights thieves with a rolling pin. One story reveals she was an actress whom Chacha once saved from goons who wanted her jewellery.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Chacha's twin brother Chhajju is less clever and causes chaos on visits. In one story aliens mistake him for Chacha and take him to Mars.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "Raaka was a dacoit on the run who hid in a sage's house and drank from a bottle labelled Poison; the sage had written that word on his immortality potion so nobody would misuse it, which is why even Sabu cannot beat Raaka for good.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 9
+    },
+    {
+      "text": "Raaka keeps escaping, so Chacha and Sabu keep sending him away: early stories dumped him in the deep ocean, at the North Pole or in space, and later ones used a whirlpool and a bottomless pit near a rocket launch site.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "In the latest Raaka story, Chacha and Sabu turn him into a liquid, which the comic says is stored securely so that he cannot escape again.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "The World Encyclopedia of Comics gave Chacha's creator Pran the title of the Walt Disney of India.",
+      "kind": "creator",
+      "source": "https://en.wikipedia.org/wiki/Pran_Kumar_Sharma",
+      "interest": 7
+    },
+    {
+      "text": "Chacha is the mascot of the Namami Gange clean-river mission, whose new comics, first in Hindi, English and Bengali, show him teaching kids to keep rivers clean; the Jal Shakti minister praised him as a cartoon whose brain works faster than a computer.",
+      "kind": "culture",
+      "source": "https://www.thequint.com/news/india/childhood-hero-chacha-chaudhary-to-be-the-mascot-for-namami-gange-project",
+      "interest": 7
+    },
+    {
+      "text": "The giant earrings Sabu wears were a parting gift from his mother when he left Jupiter.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Pran's Wikipedia page says Chacha Chaudhary strips are held permanently at the International Museum of Cartoon Art in the United States.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Pran_Kumar_Sharma",
+      "interest": 8
+    },
+    {
+      "text": "Gobar Singh and Dhamaka Singh are the robbers Chacha mainly faces, and their schemes usually backfire; Dhamaka Singh's regular helpers are Paleeta and Ruldu.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    },
+    {
+      "text": "Tingu Master is a tiny, loyal and unlucky man who is sometimes overlooked and accidentally thrown out with the garbage, yet he occasionally saves Chacha.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 8
+    },
+    {
+      "text": "Chacha Chaudhary has sold over ten million copies and appears in ten Indian languages, including Hindi and English.",
+      "kind": "record",
+      "source": "https://en.wikipedia.org/wiki/Chacha_Chaudhary",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Chacha Chaudhary is a clever old man with a red turban and a wooden stick. He has no powers, only a brain people say is faster than a computer. When a trick needs muscle, his friend Sabu, a giant from Jupiter, lends a hand.",
+  "story": [
+    {
+      "title": "A sharp mind",
+      "text": "Chacha Chaudhary lives with his wife Bini, his dog Rocket and his friend Sabu. He has no powers, only a very quick brain."
+    },
+    {
+      "title": "Trouble in town",
+      "text": "Robbers and tricksters like Gobar Singh and Dhamaka Singh plan schemes, and Chacha sees through them by thinking carefully."
+    },
+    {
+      "title": "Sabu to the rescue",
+      "text": "When muscle is needed, Sabu, a giant from Jupiter, steps in with his famous Hu-Huba cry and a huge appetite for halwa."
+    },
+    {
+      "title": "Raaka returns",
+      "text": "Raaka, who cannot die, keeps escaping, so Chacha plans cunning ways to stop him from causing more trouble."
+    }
+  ]
 }

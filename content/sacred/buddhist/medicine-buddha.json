@@ -1,0 +1,236 @@
+{
+  "slug": "medicine-buddha",
+  "name": "Medicine Buddha",
+  "aka": ["Bhaishajyaguru", "Yakushi Nyorai", "Yaoshi Fo", "Sangye Menla"],
+  "native": "भैषज्यगुरु",
+  "tradition": "buddhist",
+  "group": "bodhisattva",
+  "role": "Buddha of healing in Mahayana Buddhism",
+  "summary": "The Medicine Buddha, Bhaishajyaguru, is a Mahayana Buddha of healing. The Medicine Buddha Sutra lists twelve vows he made to ease illness and hardship.",
+  "about": "In Mahayana Buddhism, Bhaishajyaguru is the Master of Healing, a Buddha who treats the suffering of beings like a physician. His long name in the sutra means Medicine Master, King of Lapis Lazuli Light, and the text says he presides over an eastern Pure Land of lapis lazuli. The Medicine Buddha Sutra records twelve vows, which promise health, food, clothing and help for the poor and those in trouble. He is honoured in Tibet, China, Korea, Japan and Southeast Asia.",
+  "kidSummary": "The Medicine Buddha is a kind teacher who wished for everyone to be healthy and safe. Pictures and statues show him holding a small jar of medicine and a healing plant. In many countries, people light lamps and say his name when they hope for good health.",
+  "story": [
+    {
+      "title": "Twelve promises",
+      "text": "Before becoming a Buddha, the sutra says he made twelve vows to help beings who were sick, poor or in trouble."
+    },
+    {
+      "title": "Becoming a Buddha",
+      "text": "The sutra says he became the Buddha Bhaishajyaguru and has an eastern land that glows with a deep blue light."
+    },
+    {
+      "title": "Helpers of sun and moon",
+      "text": "The sutra says two bodhisattvas stand by him: Suryaprabha, whose name means Sunlight, and Chandraprabha, whose name means Moonlight."
+    },
+    {
+      "title": "A jar and a fruit",
+      "text": "He is shown with a jar of medicine and the stem of a myrobalan fruit, a plant used in healing."
+    },
+    {
+      "title": "Twelve guardian generals",
+      "text": "The sutra says twelve yaksha generals promise to protect people who honour the Medicine Buddha. In East Asian art each general is paired with one of the twelve zodiac animals."
+    }
+  ],
+  "teaches": [
+    "Care for the sick and the poor",
+    "Kindness is a kind of medicine",
+    "Share health and comfort with others"
+  ],
+  "symbol": "lamp",
+  "emblems": [
+    "Medicine jar",
+    "Myrobalan fruit",
+    "Lapis lazuli blue",
+    "Pagoda (in some Chinese images)"
+  ],
+  "family": [],
+  "texts": ["Bhaishajyaguru-vaidurya-prabha-raja Sutra (Medicine Buddha Sutra)"],
+  "places": ["Yakushi-ji, Nara, Japan", "Bamiyan, Afghanistan"],
+  "festivals": ["Eighth lunar month rites (Chinese tradition)"],
+  "facts": [
+    {
+      "text": "Among his twelve vows, the sutra has him promise to help prisoners who truly repent, victims of natural disasters, and people who stole food because they were starving.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "One vow in the sutra is for poor people tormented day and night by mosquitoes and wasps. The sutra says that those who cherish his name sincerely and practise the dharma will be able to achieve their wishes.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhaisajyaguru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the sutra, twelve yaksha generals vow to guard those who honour him. In East Asian art they are paired with the twelve zodiac animals, such as the rat, ox and dog.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Twelve_Heavenly_Generals",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Emperor Tenmu founded Yakushi-ji in 680 to pray for his wife's recovery from illness. She later became Empress Jito.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Japan has 247 known statues of Yakushi, and almost all of them, 224, are wood. Only 17 are bronze, four are stone and two are iron. The oldest ones were bronze, and in those he holds no medicine jar at all.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Thailand, where Theravada Buddhism is practised, makes a Phra Kring amulet of him, a metal statue with a bead that rattles inside.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Pieces of his sutra written on birch bark turned up at the site of a monastery at Bamiyan in Afghanistan. A Sanskrit copy in upright Gupta script from before the 7th century shows he was known in Gandhara too.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhaisajyaguru",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Chinese temples set up 49 lamps, nicknamed \"long life lamps\", with five-coloured life-extending banners. The lamps stay lit while the sutra is recited, especially in the eighth lunar month, and the ritual was already practised in the early Tang dynasty.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Marianne Winder suggested that vaidurya, the gem in his long name, first meant beryl. But pure beryl is colourless and aquamarine is sea-green, so most translators keep lapis lazuli, the deep blue stone.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tibetans say his mantra differently from the Sanskrit. They pronounce the sound written sha as kha, so bhaishajye becomes bekhandze and the mantra ends with soha.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Northern Wei stele from about 500 CE, now in the Metropolitan Museum of Art, shows him standing with his sun and moon attendants. Seven small Medicine Buddhas and seven apsaras fill the halo behind him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The Chinese monk Yijing's 707 translation of the sutra adds the vows of six other Buddhas, so its title speaks of seven past Buddhas. It shows how a healing Buddha could grow into a whole set of seven.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Yakushi-ji's East Pagoda, finished in 730, is the only original 8th-century building left at the temple. It has three storeys but looks like six because of small extra roofs between them.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Yakushi Triad at Yakushi-ji, with the healing Buddha in the middle, is counted among the best-known icons in Japan and is one of the earliest uses of the Tang Chinese style there.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yakushi-ji was not built where it stands now. It was begun in the old capital Fujiwara-kyo, finished around 698 after Emperor Tenmu had died, and later taken apart and rebuilt in Nara.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Japan, Yakushi is still counted among the 14 deities honoured at memorial services, so a healing Buddha also has a place in remembrance.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Chinese images he sometimes holds a small pagoda in his hand, which stands for the ten thousand Buddhas of the past, present and future.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Tibetan doctors' school Chagpori, founded in 1696, taught the Four Tantras of Tibetan medicine, a 156-chapter text, together with Sangye Gyatso's commentary the Blue Beryl, whose full title calls it an ornament to the mind of the Medicine Buddha.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Traditional_Tibetan_medicine",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His mantra in the Chinese seven-Buddha sutra begins when he enters a calm state called Eliminating All the Suffering of Beings. Light streams from the top of his head, and then he speaks the mantra.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Yakushi-ji's layout is symmetrical, with two three-storey pagodas on either side of the Golden Hall. It is so distinctive that people call it the Yakushiji style.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Yakushi-ji",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the Medicine Buddha hold in many images?",
+      "options": ["A trumpet", "A jar of medicine", "A bow", "A mirror"],
+      "answer": 1,
+      "why": "He holds a medicine jar and a myrobalan stem."
+    },
+    {
+      "q": "How many vows does the Medicine Buddha Sutra list?",
+      "options": ["Three", "Ten", "Twelve", "Eighteen"],
+      "answer": 2,
+      "why": "The sutra lists twelve vows."
+    },
+    {
+      "q": "In Japan, what is the Medicine Buddha called?",
+      "options": ["Amida", "Yakushi Nyorai", "Fugen", "Jizo"],
+      "answer": 1,
+      "why": "Yakushi Nyorai is the Japanese name."
+    },
+    {
+      "q": "How many lamps do many Chinese temples set up for him?",
+      "options": ["7", "49", "108", "1,000"],
+      "answer": 1,
+      "why": "49 \"long life lamps\" are common."
+    },
+    {
+      "q": "Which Japanese temple was started to pray for an emperor's wife to recover?",
+      "options": ["Todai-ji", "Kinkaku-ji", "Horyu-ji", "Yakushi-ji"],
+      "answer": 3,
+      "why": "Emperor Tenmu founded Yakushi-ji in 680."
+    }
+  ],
+  "related": ["gautama-buddha", "amitabha", "avalokiteshvara", "tara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Medicine_Buddha",
+    "bhaishajyaguru": "https://en.wikipedia.org/wiki/Bhai%E1%B9%A3ajyaguru",
+    "yakushiji": "https://en.wikipedia.org/wiki/Yakushi-ji"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#c9dfe8",
+    "c2": "#e6e1c4"
+  },
+  "order": 23
+}

@@ -1,0 +1,268 @@
+{
+  "slug": "drupada",
+  "name": "Drupada",
+  "aka": ["Yajnasena", "Somaka-descendant", "Panchala king"],
+  "native": "द्रुपद",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "King of Panchala, father of Draupadi",
+  "summary": "In the Mahabharata, Drupada is the king of Panchala, father of Draupadi, Dhrishtadyumna and Shikhandi, and an ally of the Pandavas in the Kurukshetra war.",
+  "about": "In the Mahabharata, Drupada, also called Yajnasena, is the king of Panchala. He studies as a boy with Drona and promises to share his kingdom, but later refuses him; the epic says Drona then has the Pandavas capture him and takes half the realm. Drupada responds by holding a fire sacrifice, from which, the text says, a prince, Dhrishtadyumna, and a princess, Draupadi, are born. He holds her svayamvara, where Arjuna wins, and he becomes the father-in-law of the five Pandavas. His eldest child is Shikhandi. He fights for the Pandavas in the Kurukshetra war and is killed by Drona. Some Puranas give a different family tree for him. His capital Kampilya is identified with modern Kampil in Uttar Pradesh.",
+  "kidSummary": "Drupada is the king of Panchala in the Mahabharata and the father of Draupadi, Dhrishtadyumna and Shikhandi. Long ago he and a boy named Drona were school friends, but they later quarrelled. The epic says his children came out of a fire sacrifice, and he held the famous archery contest for Draupadi.",
+  "story": [
+    {
+      "title": "A promise between friends",
+      "text": "In the Mahabharata, two boys, Drupada and Drona, study together at a sage's hermitage and promise to share what they have in the future."
+    },
+    {
+      "title": "A king forgets",
+      "text": "Years later, Drupada is king of Panchala. When poor Drona visits, Drupada does not honour their old friendship, and Drona leaves hurt."
+    },
+    {
+      "title": "The princes' gift",
+      "text": "Drona trains the Kuru princes. For his fee, Arjuna and the Pandavas capture Drupada, and Drona keeps half of Panchala."
+    },
+    {
+      "title": "Children from the fire",
+      "text": "Drupada holds a fire sacrifice, and a prince, Dhrishtadyumna, and a princess, Draupadi, step out of the flames as his children."
+    },
+    {
+      "title": "The great contest",
+      "text": "Drupada holds a svayamvara for Draupadi. Arjuna, disguised as a brahmin, hits the target, and the Pandavas become family to Drupada."
+    }
+  ],
+  "teaches": [
+    "Friendship is a promise to keep",
+    "Pride can break a bond",
+    "Family can grow in surprising ways"
+  ],
+  "symbol": "flame",
+  "emblems": ["Fire altar (yajna)", "Bow"],
+  "family": [
+    {
+      "relation": "Daughter",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    },
+    {
+      "relation": "Son",
+      "name": "Dhrishtadyumna",
+      "slug": "dhrishtadyumna"
+    },
+    {
+      "relation": "Child",
+      "name": "Shikhandi",
+      "slug": "shikhandi"
+    },
+    {
+      "relation": "Old friend and rival",
+      "name": "Drona",
+      "slug": "drona"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Son-in-law",
+      "name": "Yudhishthira",
+      "slug": "yudhishthira"
+    }
+  ],
+  "texts": ["Mahabharata (Adi Parva, Drona Parva)", "Bhagavata Purana"],
+  "places": ["Kampilya (Kampil)", "Panchala", "Ahichchhatra", "Kurukshetra"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Drupada and Drona studied together at Bharadvaja's hermitage, and Drupada promised to share his kingdom. Years later Drona was so poor that Ashwatthama's friends gave him flour mixed in water instead of milk, so Drona went to claim the old promise.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The epic says Drona later came to him in poverty, and the king, now rich and proud, would not admit the old friendship and called him a beggar. Drona vowed to repay the insult.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "Drupada's harsh reply to Drona was that friendship needs equals: it cannot last between rich and poor, scholar and king, or hero and coward, and time wears old bonds away. Drona left furious.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "As his fee for teaching the Kuru princes, Drona asked them to capture Drupada. Drupada first beat all the Kauravas by himself; only Arjuna's Pandavas caught him and brought him to Drona tied in ropes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 8
+    },
+    {
+      "text": "Drona's own words in the epic split Panchala along the Ganga: Drupada kept the land south of the river, ruling from Kampilya, and Drona took the north, around Ahichchhatra.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kampil",
+      "interest": 7
+    },
+    {
+      "text": "When Drona took half of Panchala, the Drona article says he planned to make his son Ashwatthama king of the half he had won.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drona",
+      "interest": 7
+    },
+    {
+      "text": "Kampil in Uttar Pradesh is identified with Drupada's capital Kampilya, and has an altar said to mark the fire sacrifice that produced Draupadi. It is also a Jain holy place, tied to four events in Tirthankara Vimalanatha's life.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kampil",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Queen Prishati asked the priests to wait because she had saffron paste in her mouth, so they poured the offering into the fire. A boy and a girl stepped out, and a prophecy linked them to Drona's fall and the Kauravas' end.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before Draupadi and Dhrishtadyumna, Drupada longed for a child for many years. The Udyoga Parva says Shiva was pleased by his hard austerities, and Shikhandini was his first child.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "Draupadi means 'daughter of Drupada'. Her other names also point to her father's side of the family: Yajnaseni, after his name Yajnasena, and Panchali, after the Panchala kingdom.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Draupadi's svayamvara great kings, among them Shalya, Jarasandha and Duryodhana, could not even string the huge bow. The goal was to shoot an arrow through the eye of a revolving fish while watching only its reflection in water.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Was Karna at the contest? In some northern versions Draupadi turns him away as a charioteer's son; in most others, including the Critical Edition, he tries and misses stringing the bow by a hair's breadth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "When Drupada gave Draupadi to a brahmin, offended kings rushed at him with bows and arrows. The epic says he ran to the brahmins for shelter, while Bhima and Arjuna stepped forward to face the attackers.",
+      "kind": "story",
+      "source": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01192.htm",
+      "interest": 7
+    },
+    {
+      "text": "When the Pandavas reached the palace, Drupada set out displays of many trades and classes. He was shocked when Yudhishthira said Draupadi would be wife to all five, and he protested until Vyasa arrived.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 8
+    },
+    {
+      "text": "In the epic, the sage Vyasa lets Drupada see Draupadi's true form as the goddess Shri for a moment, and only then does the king accept the marriage as fate.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Draupadi",
+      "interest": 7
+    },
+    {
+      "text": "Two of Drupada's sons, Uttamaujas and Yudhamanyu, are named as the princes who protected Arjuna during the Kurukshetra war.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "On the fourteenth night Vrishasena defeated Drupada and left him unconscious, and then wrecked much of his army.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7
+    },
+    {
+      "text": "Drupada and Virata were killed by Drona in the epic on the fifteenth day. The text says Drona then wept as he saluted the body of his old friend.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 8
+    },
+    {
+      "text": "The Purana Index notes that the Bhagavata Purana (10.82) has Drupada travel to Syamantapanchaka, the Kurukshetra holy site, for a solar eclipse.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/definition/drupada",
+      "interest": 7
+    },
+    {
+      "text": "In the Mahabharata Drupada's wife is called Prishati, a name that means 'daughter-in-law of Prishata', Drupada's father.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Drupada",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Ashwatthama's friends give him in place of milk?",
+      "options": ["Flour mixed in water", "Honey", "Rice pudding", "Coconut water"],
+      "answer": 0,
+      "why": "The Drona article tells how his friends fooled him with flour in water, and his poor father went to Drupada for help."
+    },
+    {
+      "q": "Who was Drupada's school friend who later became his rival?",
+      "options": ["Vidura", "Drona", "Kripa", "Bhishma"],
+      "answer": 1,
+      "why": "Drona studied with him at Bharadvaja's hermitage."
+    },
+    {
+      "q": "What was the target at Draupadi's svayamvara?",
+      "options": ["A golden deer", "A spinning fish's eye", "A flame", "A bell"],
+      "answer": 1,
+      "why": "The archer had to look at the fish's reflection in water."
+    },
+    {
+      "q": "Which present-day town is linked to Drupada's capital Kampilya?",
+      "options": ["Kampil in Uttar Pradesh", "Puri in Odisha", "Madurai", "Gaya"],
+      "answer": 0,
+      "why": "Kampil in Farrukhabad district is identified with Kampilya."
+    },
+    {
+      "q": "Who came out of Drupada's fire sacrifice according to the epic?",
+      "options": [
+        "Nakula and Sahadeva",
+        "Dhrishtadyumna and Draupadi",
+        "Ghatotkacha and Barbarika",
+        "Karna and Vikarna"
+      ],
+      "answer": 1,
+      "why": "Dhrishtadyumna and Draupadi emerged from the fire."
+    }
+  ],
+  "related": [
+    "draupadi",
+    "dhrishtadyumna",
+    "shikhandi",
+    "drona",
+    "arjuna",
+    "yudhishthira",
+    "jayadratha",
+    "virata"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Drupada",
+    "wisdomlib": "https://www.wisdomlib.org/definition/drupada",
+    "kampil": "https://en.wikipedia.org/wiki/Kampil",
+    "panchala": "https://en.wikipedia.org/wiki/Panchala_kingdom",
+    "draupadi": "https://en.wikipedia.org/wiki/Draupadi",
+    "dhrishtadyumna": "https://en.wikipedia.org/wiki/Dhrishtadyumna",
+    "panchala2": "https://en.wikipedia.org/wiki/Panchala",
+    "drona": "https://en.wikipedia.org/wiki/Drona",
+    "ganguli_adi192": "https://www.ibiblio.org/sripedia/ebooks/mb/m01/m01192.htm"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#e8c9a0",
+    "c2": "#efe6d2"
+  },
+  "order": 500
+}

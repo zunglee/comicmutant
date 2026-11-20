@@ -1,0 +1,250 @@
+{
+  "slug": "narsinh-mehta",
+  "name": "Narsinh Mehta",
+  "aka": ["Narsinh Bhagat", "Narsi Mehta", "Adi Kavi of Gujarati"],
+  "native": "નરસિંહ મહેતા",
+  "tradition": "hindu",
+  "group": "bhakti",
+  "role": "Gujarati bhakti poet-saint, honoured as the first poet",
+  "summary": "Narsinh Mehta was a 15th-century Krishna devotee from Gujarat, remembered as the Adi Kavi, or first poet, of Gujarati. His hymn Vaishnava Jana To became a favourite of Mahatma Gandhi.",
+  "about": "Narsinh Mehta lived in 15th-century Gujarat; the usual dates are about 1414 to 1488, though scholars disagree. He was born at Talaja and later made his home in Junagadh, where he sang devotional songs in everyday Gujarati rather than Sanskrit. Tradition says he was deeply moved by a vision of Krishna's circle dance, and that he sang with people of every caste, which drew criticism from the orthodox. Many songs and legends gather around him, including stories of Krishna helping him in times of need; these come from devotional tradition and later retellings. Gujarat honours him as the Adi Kavi and sings his morning prabhatiya hymns still. His best known hymn, Vaishnava Jana To, describes a true devotee by kindness and humility, and Mahatma Gandhi made it a daily prayer.",
+  "kidSummary": "Narsinh Mehta was a poet and devotee of Krishna who lived in Gujarat about six hundred years ago. He sang his songs in the language everyone spoke, and he welcomed people of every background to sing with him. Stories say Krishna helped him whenever he was in trouble. One song, Vaishnava Jana To, was Mahatma Gandhi's favourite.",
+  "story": [
+    {
+      "title": "A quiet boy from Talaja",
+      "text": "One tradition says that Narsinh was born in Talaja and did not speak until he was eight. Then a holy man, so the story goes, led him to say Krishna's name, and the child began to speak."
+    },
+    {
+      "title": "The vision in the night",
+      "text": "Legends say that Shiva took Narsinh to see Krishna's circle dance. Narsinh was so lost in the beauty that he held his torch until it burned his hand, and he asked only for the gift of singing Krishna's praises."
+    },
+    {
+      "title": "Songs for everyone",
+      "text": "Narsinh settled in Junagadh and sang with people of all castes. Some neighbours were upset, but he kept going, because he believed devotion belonged to everybody."
+    },
+    {
+      "title": "Help when money ran out",
+      "text": "Stories tell of times he had nothing, such as for his daughter's baby celebration. In the tales, Krishna comes in disguise to help, and these episodes are still sung in Gujarat."
+    },
+    {
+      "title": "A song that outlived him",
+      "text": "Centuries later, Mahatma Gandhi loved Narsinh's hymn about what makes a true devotee. It was sung daily in Gandhi's ashrams and is still sung today."
+    }
+  ],
+  "teaches": [
+    "Devotion belongs to everyone",
+    "Kindness and humility define a true devotee",
+    "Trust in God through hard times"
+  ],
+  "symbol": "lamp",
+  "emblems": ["Cymbals (kartal)", "Morning hymn (prabhatiya)", "Lamp"],
+  "family": [
+    {
+      "relation": "Beloved deity",
+      "name": "Krishna",
+      "slug": "krishna"
+    }
+  ],
+  "texts": [
+    "Prabhatiya (morning hymns)",
+    "Putrah Vivah (Shamaldas no Vivah)",
+    "Vaishnava Jana To",
+    "Hundi"
+  ],
+  "places": ["Talaja", "Junagadh", "Mangrol", "Vrindavan (in his vision)"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "His parents died when he was five. A legend says he could not speak until he was eight, when a holy man had him say 'Radhe Shyam' and he began to talk.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one devotional account, Shiva led Narsinh to Vrindavan to watch Krishna's circle dance. He stayed so absorbed that he kept holding a burning torch even as it scorched his hand.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After his vision, tradition says, Narsinh resolved to compose about 22,000 kirtans in praise of Krishna.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the promissory-note legend, Nagar Brahmins pushed pilgrims to get a 700-rupee note from Narsinh payable in Dwarka. Krishna is said to have appeared as the merchant Shamalsha and paid it with interest. The bhajan Hundi grew from it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the Mameru legend, Krishna comes as a merchant bringing the gifts Narsinh could not afford for his daughter's baby celebration. Gujarati poets and films retold it.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the garland legend, a local king, Rai Mandalik, tested Narsinh's faith; tradition says a garland appeared on Narsinh's neck the next morning, which saved him.",
+      "kind": "story",
+      "source": "https://livehistoryindia.com/story/people/the-saint-who-inspired-the-mahatma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Gandhi said this hymn alone would keep him going even if he forgot the Bhagavad Gita. It was sung during the 1930 Salt March and at Kasturba Gandhi's cremation in 1944.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The hymn closes Richard Attenborough's film Gandhi. A Texas qawwali band performs it, and in 2019 the rapper Brodha V used its refrain for a single of the same name.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The hymn is missing from the oldest 17th-century collections of his songs. The oldest catalogued manuscript with it is dated 1835, though one scholar reported an early 18th-century copy, so its attribution rests partly on tradition.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The 1932 film Narsinh Mehta, directed by Nanubhai Vakil, was the first Gujarati talkie. It was produced in 15 days for about 17,000 rupees and has 15 songs.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta_(film)",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His sister-in-law taunted him and his wife Manekbai again and again. He left for a forest, fasted for seven days at the Gopnath Shiva shrine and, tradition says, had his vision. Back home he touched her feet and thanked her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Vastrapur Lake in Ahmedabad has been officially renamed in his honour, one of several places in Gujarat that carry the name of the first poet of the language.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He sang and danced Krishna's praises with people of every gender, class and caste. His own Nagar Brahmin community found his mixing with those deemed lower caste offensive and opposed him, yet he kept singing.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "None of his poems or those of later poets gives a date. Scholars place him in the 15th century from events fitting the reign of Mandalika III, and his life stories come from poems attributed to him, such as Hundi, Mameru and Har Mala.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The song Darshan Do Ghanshyam from the 1957 film Narsi Bhagat, with music by Ravi Shankar Sharma, became so popular that Slumdog Millionaire (2008) wrongly credited it to the poet Surdas.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Gujarat was split into many small kingdoms in his time, and Junagadh lay on the pilgrim road to Dwarka. Songs in everyday language, sung across caste lines, travelled with pilgrims and helped build a shared Gujarati identity.",
+      "kind": "history",
+      "source": "https://livehistoryindia.com/story/people/the-saint-who-inspired-the-mahatma",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Legend says that when Narsinh's son Shamaldas was to marry, a local Nagar Brahmin hoped the visiting priest would see the family's poverty and spread the news. The priest approved the match anyway, and tradition says Krishna provided the wedding.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His songs were kept alive by singing, not writing. The oldest available manuscript of his work dates to about 1612, and the language of his poems has changed over time because they were so popular.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The 1932 film Narsinh Mehta followed a Gandhian reading of the poet and left out the miracles of the legends, showing him as a devotee rather than a wonder-worker.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Narsinh_Mehta_(film)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Christian and Muslim associates asked to replace the word Vaishnava in the hymn with their own faith, Gandhi took it as a sign of its universal reach. He also used the hymn to argue against untouchability.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Gujarati scholars began calling him Adi Kavi only from the late 19th century, because his songs were the earliest to circulate widely among Gujarati speakers. The title is much younger than the poet.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What title do Gujaratis give Narsinh Mehta?",
+      "options": ["Adi Kavi (first poet)", "Mahatma", "Chakravarti", "Acharya"],
+      "answer": 0,
+      "why": "He is honoured as the Adi Kavi, the first poet of Gujarati."
+    },
+    {
+      "q": "Which song of his was Mahatma Gandhi's favourite?",
+      "options": ["Hundi", "Mameru", "Vaishnava Jana To", "Prabhatiya"],
+      "answer": 2,
+      "why": "Gandhi sang Vaishnava Jana To daily in his ashrams."
+    },
+    {
+      "q": "In which language did Narsinh sing his songs?",
+      "options": ["Sanskrit", "Persian", "Tamil", "Gujarati"],
+      "answer": 3,
+      "why": "He used the everyday Gujarati that ordinary people spoke."
+    },
+    {
+      "q": "What was special about the 1932 film Narsinh Mehta?",
+      "options": [
+        "It was the first Gujarati talkie",
+        "It was in colour",
+        "It was the first Hindi film",
+        "It was made in Madras"
+      ],
+      "answer": 0,
+      "why": "It is described as the first Gujarati talking film."
+    }
+  ],
+  "related": ["krishna", "meera-bai", "kabir", "sudama"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Narsinh_Mehta",
+    "hymn": "https://en.wikipedia.org/wiki/Vaishnava_Jana_To",
+    "film": "https://en.wikipedia.org/wiki/Narsinh_Mehta_(film)",
+    "livehistoryindia": "https://livehistoryindia.com/story/people/the-saint-who-inspired-the-mahatma"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f3d9b5",
+    "c2": "#dcd3ec"
+  },
+  "years": "c. 1414 to late 15th c. (disputed)",
+  "order": 500
+}

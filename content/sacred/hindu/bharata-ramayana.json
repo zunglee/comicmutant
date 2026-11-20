@@ -1,0 +1,313 @@
+{
+  "slug": "bharata-ramayana",
+  "name": "Bharata",
+  "aka": ["Kaikeyeya"],
+  "native": "भरत",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "role": "Rama's brother who ruled Ayodhya for him",
+  "summary": "In the Ramayana, Bharata is Kaikeyi's son. He refuses the throne meant for him, places Rama's sandals on it, and rules in Rama's name for fourteen years.",
+  "about": "Bharata is the son of King Dasharatha and Queen Kaikeyi in the Valmiki Ramayana. He was away at his grandfather's court in Kekaya when his mother asked that he be crowned and Rama exiled. When he returned and learned what had happened, the text says he turned away from his mother and refused the crown. He went to the forest to ask Rama to return, and when Rama declined he brought back Rama's sandals and ruled from the village of Nandigrama as a humble regent. Tradition says he is an incarnation of Vishnu's conch Panchajanya. The Buddhist Dasaratha Jataka also has a Bharata who refuses the throne. The Koodalmanikyam Temple in Kerala is among the few places that worship him, and he appears in Thai and other versions of the story.",
+  "kidSummary": "Bharata is Rama's younger brother in the Ramayana. When his mother tried to make him king, he said no. He thought the throne belonged to Rama. So he put Rama's sandals on the throne and looked after the kingdom for fourteen years until Rama came home.",
+  "story": [
+    {
+      "title": "Away from home",
+      "text": "While Bharata was staying with his grandfather in the kingdom of Kekaya, big changes happened in Ayodhya. His father fell ill and Rama was sent away to the forest."
+    },
+    {
+      "title": "A hard homecoming",
+      "text": "When Bharata came home, he learned that his mother had asked for him to be king. He was upset and said the throne belonged to Rama."
+    },
+    {
+      "title": "The journey to Rama",
+      "text": "Bharata went into the forest with many people to ask Rama to come home. At first Lakshmana feared an army was coming, but Rama saw Bharata walking in simple clothes."
+    },
+    {
+      "title": "Rama's answer",
+      "text": "Rama said he must finish the fourteen years to keep his father's promise. Bharata asked for something to remember him by, and Rama gave him his sandals."
+    },
+    {
+      "title": "The sandals on the throne",
+      "text": "Bharata put the sandals on the throne and ruled as Rama's helper from a quiet village called Nandigrama. He lived simply while he waited."
+    },
+    {
+      "title": "Welcome home",
+      "text": "After fourteen years Rama returned. Bharata carried the sandals back on his head and gladly handed everything over."
+    }
+  ],
+  "teaches": [
+    "Doing what is right even when it costs you",
+    "Humility and service",
+    "Love for family above power"
+  ],
+  "symbol": "footprint",
+  "emblems": [
+    "Rama's sandals (padukas)",
+    "Panchajanya, the conch (past-life link)",
+    "Bark clothes of an ascetic"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Kaikeyi",
+      "slug": "kaikeyi"
+    },
+    {
+      "relation": "Elder brother",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Brother",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    },
+    {
+      "relation": "Brother",
+      "name": "Shatrughna",
+      "slug": "shatrughna"
+    },
+    {
+      "relation": "Wife",
+      "name": "Mandavi"
+    },
+    {
+      "relation": "Sons",
+      "name": "Taksha and Pushkala"
+    }
+  ],
+  "texts": [
+    "Valmiki Ramayana",
+    "Ramcharitmanas (Tulsidas)",
+    "Dasaratha Jataka (Buddhist)",
+    "Ramakien (Thai)"
+  ],
+  "places": [
+    "Nandigrama (near Ayodhya)",
+    "Koodalmanikyam Temple (Irinjalakuda, Kerala)",
+    "Medak (Telangana)",
+    "Takshashila",
+    "Pushkalavati"
+  ],
+  "festivals": ["Koodalmanikyam annual festival (Medam)", "Karkidakam (Ramayana month in Kerala)"],
+  "facts": [
+    {
+      "text": "In the Dasaratha Jataka the slippers on the throne knocked against each other whenever the ministers judged a case wrongly, and stayed silent when the verdict was just.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Dasaratha_Jataka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Bharata set his sons up as rulers: Taksha at Takshashila and Pushkala at Pushkalavati, two ancient cities in the Gandhara region.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bharata_(Ramayana)",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Chitrakuta, as Rama handed over his sandals, Bharata vowed that if Rama did not return as soon as the fourteen years ended, he would enter the fire.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424089",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas, Hanuman flying home with the herb mountain is struck by Bharata's arrow near Nandigram. Bharata takes him for a demon; Hanuman falls, then recognises Rama's brother.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Grieving Kaushalya spoke sharply to Bharata, thinking he had gained the kingdom. He swore a long run of solemn oaths that he was innocent, and she believed him, held him close and wept.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424052.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Prayaga the sage Bharadvaja called on gods, rivers and heavenly dancers to feed Bharata's whole army, so every soldier found palaces and feasts. Bharata had come alone so his horses and elephants would not trample the hermitage.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424068",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Before the messengers reached Kekaya, Bharata had a frightening dream: his father falling into a pit, a dried-up sea and a fallen moon. He was too uneasy to smile, even when friends tried to cheer him.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424046",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Bharata's huge army reached the Ganga, Guha, chief of the boatmen, feared he meant harm to Rama and readied five hundred boats and armed men, then went out to meet Bharata with gifts.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424061",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Rama met Bharata at Chitrakuta with a long set of questions on ruling well, such as whether he rose early, kept plans secret and used three separate spies for each secret.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424077",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Before marching to find Rama, Bharata had road builders, well-diggers and bridge makers clear a highway to the Ganga, planting trees and adding wells and resting platforms along the way.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424057",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki, Bharata sharply condemned Kaikeyi for the exile and his father's death and vowed to bring Rama back. He said only Rama's respect for her kept him from disowning her.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424050",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Back from Chitrakuta, Bharata found Ayodhya hushed: doors shut, markets empty, cats and owls roaming. Valmiki compares the city to a pond that has run dry.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424091",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "At Nandigrama Bharata asked the people to treat Rama's sandals as a sacred trust, with a royal canopy and fan held over them, and promised to help Rama put them on when he returned.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424092",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Bharata left his army behind and walked the last stretch at Chitrakuta on foot, climbing a shala tree to spot the smoke rising from the fire at Rama's hermitage.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424075",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Nearing Ayodhya, Rama sent Hanuman ahead to watch Bharata's face for any wish to keep the throne. Hanuman found him thin, in bark and deerskin, and Bharata fainted with joy at the news.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424757",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda, Bharata's uncle Yudhajit sends the sage Gargya to Rama with ten thousand horses, asking him to conquer the Gandharva land on the Sindhu. Rama sends Bharata with his sons.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424875",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Thai Ramakien, Phra Phrot, the Bharata figure, is a manifestation of Narai's discus, while Indian tradition links Bharata with Vishnu's conch Panchajanya.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Ramakien",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Koodalmanikyam has only three pujas a day, is said to be the only temple without lamp worship (deepa-aradhana), and its garland must hold at least 101 lotuses.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Koodalmanikyam_Temple",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At the ten-day Medam festival of Koodalmanikyam, two baby elephants walk beside the elephant carrying the deity, and seven of the seventeen elephants wear gold headdresses.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Koodalmanikyam_Temple",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Leaving Kekaya in haste, Bharata took parting gifts from his grandfather and uncle: two elephants, sixteen hundred horses and fierce palace-bred dogs.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424047",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What did Bharata put on the throne while Rama was away?",
+      "options": ["A crown", "Rama's sandals", "A bow", "A lamp"],
+      "answer": 1,
+      "why": "He placed Rama's sandals there and ruled as Rama's helper."
+    },
+    {
+      "q": "Who was Bharata's mother?",
+      "options": ["Kaushalya", "Sumitra", "Kaikeyi", "Urmila"],
+      "answer": 2,
+      "why": "Bharata was Kaikeyi's son."
+    },
+    {
+      "q": "Where did Bharata live while he ruled for Rama?",
+      "options": ["Lanka", "Nandigrama", "Kekaya", "Mithila"],
+      "answer": 1,
+      "why": "He governed from the village of Nandigrama near Ayodhya."
+    },
+    {
+      "q": "Which Kerala temple is one of the few dedicated to Bharata?",
+      "options": ["Koodalmanikyam", "Guruvayur", "Sabarimala", "Padmanabhaswamy"],
+      "answer": 0,
+      "why": "Koodalmanikyam in Irinjalakuda is said to be the only ancient temple to Bharata."
+    },
+    {
+      "q": "In the Dasaratha Jataka, what happened to the slippers on the throne when a case was judged wrongly?",
+      "options": [
+        "They knocked against each other",
+        "They glowed",
+        "They fell off the throne",
+        "They turned to gold"
+      ],
+      "answer": 0,
+      "why": "The Buddhist tale says the slippers struck together on a wrong verdict and stayed quiet when it was just."
+    },
+    {
+      "q": "Whom did Rama send ahead to see how Bharata would react to his return?",
+      "options": ["Hanuman", "Lakshmana", "Sugriva", "Jatayu"],
+      "answer": 0,
+      "why": "Rama sent Hanuman ahead to read Bharata's face and words; Bharata fainted with joy."
+    }
+  ],
+  "related": [
+    "rama",
+    "kaikeyi",
+    "dasharatha",
+    "lakshmana",
+    "shatrughna",
+    "hanuman",
+    "vishnu",
+    "urmila"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bharata_(Ramayana)",
+    "koodalmanikyam": "https://en.wikipedia.org/wiki/Koodalmanikyam_Temple",
+    "jataka": "https://en.wikipedia.org/wiki/Dasaratha_Jataka",
+    "nalambalam": "https://en.wikipedia.org/wiki/Nalambalam",
+    "vow": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424089",
+    "tulsidas": "https://www.dailyexcelsior.com/vishnus-descent-as-ram-the-lord-brings-happiness-to-all/",
+    "kaushalya75": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424052.html",
+    "ramcharitmanas": "https://en.wikipedia.org/wiki/Ramcharitmanas",
+    "ramakien": "https://en.wikipedia.org/wiki/Ramakien",
+    "bharadvaja": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424068",
+    "hanumantest": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424757",
+    "gandharvas": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424875"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f0e2c4",
+    "c2": "#d9e6e0"
+  },
+  "order": 500
+}

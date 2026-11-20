@@ -1,0 +1,270 @@
+{
+  "slug": "iravan",
+  "name": "Iravan",
+  "aka": ["Iravat", "Aravan", "Kuttantavar", "Irawan"],
+  "native": "इरावान्",
+  "tradition": "hindu",
+  "group": "mahabharata",
+  "role": "Son of Arjuna and Ulupi, honoured in Tamil Nadu as Aravan",
+  "summary": "Iravan is Arjuna's son by the Naga princess Ulupi in the Mahabharata. In Tamil traditions he offers himself before the war and is worshipped as Aravan or Kuttantavar.",
+  "about": "In the Mahabharata, Iravan is the son of Arjuna and the Naga princess Ulupi. He joins the Kurukshetra war and the epic says he is killed on its eighth day by the rakshasa Alambusha. South Indian traditions add a great sacrifice before the war: in versions such as the Parata Venpa, he offers himself to the goddess Kali so that the Pandavas may win. Tamil folk accounts say he asked for boons, including to watch the war and to be married before dying. He is the chief deity of the Kuttantavar cult and plays a major role in Draupadi temple festivals. Koovagam in Tamil Nadu hosts a famous festival in his name. In Java he appears as Irawan in shadow-puppet plays with different stories.",
+  "kidSummary": "Iravan is a brave son of Arjuna and a Naga princess named Ulupi. In the Mahabharata he fights in the great war. In Tamil Nadu he is also remembered with a big festival, where people honour his courage and his willingness to help.",
+  "story": [
+    {
+      "title": "Born in the Naga world",
+      "text": "Iravan is born to Arjuna and the Naga princess Ulupi in the world of the Nagas, the serpent people. As he grows up he hears about his father, Arjuna."
+    },
+    {
+      "title": "Meeting Arjuna",
+      "text": "When he is grown, Iravan goes to the heavenly realm of Indra and meets Arjuna. He joins his father's side for the great war at Kurukshetra."
+    },
+    {
+      "title": "A gift for the Pandavas",
+      "text": "In Tamil tellings, Krishna asks for a brave person to give a sacrifice for victory, and Iravan offers himself. He asks for some boons first, including to be married."
+    },
+    {
+      "title": "A wedding with Krishna as Mohini",
+      "text": "No woman wants to marry someone who will not live, so in the folk story Krishna takes the form of Mohini and weds him. Many festivals today act this scene out."
+    },
+    {
+      "title": "Watching the war",
+      "text": "Another boon lets Iravan watch the great war. In the epic itself he fights and falls on the eighth day, and Ghatotkacha later avenges him."
+    }
+  ],
+  "teaches": ["Bravery and selfless giving", "Everyone belongs, whoever you are"],
+  "symbol": "serpent",
+  "emblems": ["Koovagam festival", "Naga serpent (his mother's lineage)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "Arjuna",
+      "slug": "arjuna"
+    },
+    {
+      "relation": "Mother",
+      "name": "Ulupi",
+      "slug": "ulupi"
+    },
+    {
+      "relation": "Stepmother",
+      "name": "Draupadi",
+      "slug": "draupadi"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Babruvahana",
+      "slug": "babruvahana"
+    },
+    {
+      "relation": "Half-brother",
+      "name": "Abhimanyu",
+      "slug": "abhimanyu"
+    }
+  ],
+  "texts": ["Mahabharata (Bhishma Parva)", "Parata Venpa", "Villiputuralvar's Makaparatam"],
+  "places": ["Koovagam (Tamil Nadu)", "Singanallur (Coimbatore)", "Kumbhakonam"],
+  "festivals": ["Koovagam festival", "Draupadi temple festivals"],
+  "facts": [
+    {
+      "text": "In Tamil, he is called Aravan, which many people link to the word for snake, a nod to his Naga mother.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Another of his names, Kuttantavar, comes from the tale that he defeated a demon called Kuttacuran.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "On day eight the epic says he killed five of the six Gandhara princes, sons of Suvala, before meeting his end.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The rakshasa Alambusha, in the epic, took the form of Garuda, ate Iravan's serpent army and then beheaded him. Ghatotkacha avenged him on the 14th day.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In the tale of the wedding boon, nobody would marry a man about to die, so Krishna became Mohini and married him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "A story says Krishna tricked the Sun and Moon so the new moon fell a day early. Duryodhana had already booked Aravan as the victim for his own ritual, so the Pandavas' sacrifice had to happen first.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tens of thousands of transgender women, called Aravanis, gather at Koovagam. On day 14 they re-enact a wedding to the deity.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Koovagam",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A Koovagam legend says his head, after the war, became a baby whose cry 'kuva kuva' gave the village its name.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Another Koovagam legend says Iravan credited Krishna alone for the victory, and his head was cast into a river after Bhima got angry.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Scholar Alf Hiltebeitel compares Iravan's story with the Telugu legend of Barbarika and its variants across India, which share the boon of watching the whole war through a severed head.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "With his stepbrother Abhimanyu, Irawan is a hero of over 40 Javanese shadow-puppet plays, shown as calm and refined. In one play he weds Krishna's daughter Titisari.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In one Javanese play a demon kills Irawan at the war's start, mistaking him for Arjuna.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In Neppattur village's telling, Iravan was so strong he could have slain all the Duryodhana brothers at once and stopped the war, so Krishna asked for his sacrifice to let the war happen.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Tamil sacrifice story, the Naga Adi-Shesha, said to be his grandfather, coils round Iravan's body to restore it. Alambusha then takes Garuda's form, and Shesha lets go in fear.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Icons of Iravan's head are set on the corners and edges of Draupadi temple roofs, where he is believed to guard the temple against spirits.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Villiputuralvar's 14th-century version, Krishna first offers himself as the sacrificial victim, but Aravan steps forward to take his place.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kuttantavar cult holds that his body re-formed after the sacrifice and that he later died heroically on day eight. The Draupadi cult says his severed head watched the whole war. Each cult keeps its own answer.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the folk marriage boon, being wed before dying gave him the right to cremation and funeral offerings, because unmarried men were buried. Yet no woman wanted to marry someone doomed.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Draupadi temple festivals a clay head of Aravan is fixed on a post to watch the ritual re-enactment of the 18-day war. At Karambai his sacrifice is staged on the festival's 18th day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "The earliest surviving telling of the sacrifice is the 9th-century Tamil Parata Venpa. It uses the word kalappali, 'sacrifice to the battlefield', a term found only in Tamil Mahabharatas.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The largest known head of Aravan stands at the Hajiyar Teru temple in Kumbhakonam, where Aravan heads are kept in shrines of their own.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Iravan",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Who is Iravan's mother?",
+      "options": ["Draupadi", "Ulupi", "Subhadra", "Hidimbi"],
+      "answer": 1,
+      "why": "Ulupi, the Naga princess."
+    },
+    {
+      "q": "What is Iravan called in Tamil traditions?",
+      "options": ["Aravan", "Arjunan", "Ayyanar", "Anantan"],
+      "answer": 0,
+      "why": "Aravan, also known as Kuttantavar."
+    },
+    {
+      "q": "Where is the big festival for him held each year?",
+      "options": ["Puri", "Koovagam", "Pushkar", "Hampi"],
+      "answer": 1,
+      "why": "Koovagam in Tamil Nadu."
+    },
+    {
+      "q": "Which form did Krishna take in the folk wedding story?",
+      "options": ["Mohini", "Narasimha", "Vamana", "Hari-Hara"],
+      "answer": 0,
+      "why": "Krishna became the enchantress Mohini."
+    },
+    {
+      "q": "Which rakshasa killed Iravan in the epic?",
+      "options": ["Hidimba", "Alambusha", "Kirmira", "Bakasura"],
+      "answer": 1,
+      "why": "Alambusha took the form of Garuda and beheaded him."
+    }
+  ],
+  "related": [
+    "arjuna",
+    "ulupi",
+    "krishna",
+    "kali",
+    "draupadi",
+    "ghatotkacha",
+    "barbarika",
+    "babruvahana",
+    "abhimanyu"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Iravan",
+    "koovagam": "https://en.wikipedia.org/wiki/Koovagam",
+    "barbarika": "https://en.wikipedia.org/wiki/Barbarika"
+  },
+  "palette": {
+    "c1": "#c9b5d9",
+    "c2": "#e7e0c8"
+  },
+  "order": 41,
+  "depth": "full"
+}

@@ -1,0 +1,291 @@
+{
+  "name": "Mahavira",
+  "aka": ["Vardhamana", "Nayaputta", "Mahavir Swami"],
+  "native": "महावीर",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "24th and last Tirthankara of the present Jain age",
+  "summary": "Mahavira is the 24th Tirthankara, who lived around the time of the Buddha and taught non-violence to all living beings.",
+  "about": "Mahavira, born Vardhamana, is the 24th and last tirthankara of the present Jain age. Tradition says he was born in 599 BCE in Kundagrama, in present Bihar, to King Siddhartha and Queen Trishala. At about 30 he left home, meditated for twelve and a half years, and gained omniscience; he then taught for thirty years. Historians accept that he lived, though they debate his dates, and place him in the 6th or 5th century BCE, a contemporary of the Buddha who reformed an older Jain community. He taught the five vows and anekantavada. Jains say he was liberated at Pawapuri, which Jains remember at Diwali.",
+  "kidSummary": "Mahavira is the last of the 24 Tirthankaras, the great teachers of Jainism. He was born a prince in Bihar about 2,500 to 2,600 years ago, and left his palace to find peace. He taught that every living creature, even a tiny insect, is precious. Jains remember him with a lion symbol and the festival of Diwali.",
+  "story": [
+    {
+      "title": "A prince named Vardhamana",
+      "text": "Svetambara texts say Queen Trishala saw fourteen auspicious dreams before his birth. Jain tradition says he was born a prince in Bihar and named Vardhamana, \"the one who grows\", because the kingdom was thriving."
+    },
+    {
+      "title": "Leaving the palace",
+      "text": "At about thirty he gave up his royal life and became a monk. He wore little, owned nothing and lived simply."
+    },
+    {
+      "title": "Twelve years of stillness",
+      "text": "For twelve and a half years he meditated and fasted. Jain texts tell that a poisonous snake bit him, and he met it with calm."
+    },
+    {
+      "title": "Perfect knowledge",
+      "text": "Beside the Rijuvalika river, under a sala tree, Jains believe he gained perfect knowledge. Then he began teaching."
+    },
+    {
+      "title": "Teaching for thirty years",
+      "text": "He taught ahimsa, telling people to harm no living being, and to speak truth and not take what is not theirs."
+    },
+    {
+      "title": "The night of lamps",
+      "text": "Jains believe he was freed at Pawapuri on the night of Diwali, and light lamps in memory of his wisdom."
+    }
+  ],
+  "teaches": [
+    "Ahimsa: harm no living being",
+    "Truth, honesty and not taking what is not yours",
+    "Many-sided thinking (anekantavada)",
+    "Letting go of greed"
+  ],
+  "symbol": "lotus",
+  "emblems": ["Lion (emblem)", "Footprints (charan) at Pawapuri", "Sala tree (of omniscience)"],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Siddhartha"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Trishala",
+      "slug": "trishala"
+    },
+    {
+      "relation": "Chief disciple",
+      "name": "Gautama Swami",
+      "slug": "gautama-swami"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Parshvanatha",
+      "slug": "parshvanatha"
+    },
+    {
+      "relation": "Royal follower",
+      "name": "Bimbisara",
+      "slug": "bimbisara"
+    }
+  ],
+  "texts": [
+    "Kalpa Sutra",
+    "Acharanga Sutra",
+    "Uttarapurana",
+    "Trishashti Shalaka Purusha Charitra",
+    "Jain Agamas"
+  ],
+  "places": [
+    "Kundagrama (birthplace)",
+    "Rijuvalika river (omniscience)",
+    "Pawapuri and Jal Mandir, Bihar",
+    "Osian, Rajasthan"
+  ],
+  "festivals": ["Mahavir Janma Kalyanak", "Diwali (Jain)", "Paryushana"],
+  "facts": [
+    {
+      "text": "The name Mahavira means \"great hero\". The Kalpa Sutra says the gods gave it because he stayed steady through dangers, fear and hardship.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Shvetambara texts say the embryo was moved by Harinaigameshin from a Brahmin woman to Trishala. Digambaras do not accept this story.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Hemachandra's account, the serpent Chandakaushika bit Mahavira's foot, yet its poison did nothing; only white blood flowed, and he calmed the snake.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc215948.html",
+      "interest": 10,
+      "kid": true
+    },
+    {
+      "text": "The same text says the serpent had been a short-tempered monk in past lives. Remembering them, it fasted calmly and did not crush the ants that swarmed its body.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc215948.html",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Jains observe his nirvana with Diwali, the same night Hindus celebrate it, and the Jain new year begins the next day.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Diwali_(Jainism)",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Some texts say he gave his last teaching over six days. The listeners slept, and woke to find him gone, with only nails and hair left.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Acharanga Sutra says monks should avoid harming even water, fire, wind and plants, and not wave their arms in the air, in case tiny beings are hurt.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "Jal Mandir at Pawapuri is a white marble temple shaped like a chariot, reached by a 600-foot stone bridge across a lotus pond. Legend says the pond formed when devotees took soil from his cremation place.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Jal_Mandir",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "He taught anekantavada, the idea that reality has many sides and no single sentence tells it all. A 'qualified yes' (syat) shows one view.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Jain texts say tirthankaras shrank in height over time. Mahavira was about 6 feet (7 hastas), the shortest of the 24.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain tradition says Mahavira once fasted for five months and 25 days, until Chandanbala, a princess in chains with a shaved head, offered him roasted black gram.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In his 12 years of penance, one Jain account says, Mahavira took food on only 349 days, since he accepted a meal only when his private resolve was met.",
+      "kind": "story",
+      "source": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In a popular Jain telling, as Indra began the infant's bath on Mount Meru the mountain shook; the tremor was traced to the baby's foot, and Indra saw he was a great soul.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Mahavir_Prince_Of_Peace/020465/38",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Later Jain tradition tells of cowherds who got no answer from the silent Mahavira about their lost bulls and pushed spears of grass (spikes in some versions) into his ears; a 1512 Kalpa Sutra paints it, though the text omits it.",
+      "kind": "story",
+      "source": "https://jainpedia.org/manuscript/mahavira-is-put-to-more-tortures",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Per the Bhagavati Sutra, Goshala joined Mahavira and travelled with him for six years; a quarrel over a plant that revived after being uprooted split them, and Goshala led the Ajivikas.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Makkhali_Gosala",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In 1974, for his 2,500th nirvana year, four chariots carrying dharma wheels toured India and won state curbs on animal slaughter for sacrifice. The sects also agreed one shared flag and emblem.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Early Buddhist texts name his community the Niganthas, 'free of fetters', and call him Nayaputta, son of the Naya clan. That is evidence from outside Jainism that he lived.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Mahavira and the Buddha are both placed in the reigns of Bimbisara and Ajatashatru of Magadha. Historians using a later date for the Buddha think Mahavira's traditional dates may be a century too early.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Shvetambara texts say Queen Trishala saw fourteen auspicious dreams before his birth, among them an elephant, a lion and a full moon. Digambaras count sixteen. Kalpa Sutra paintings show them.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trishala",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Jain universal history counts more than two dozen earlier births for his soul before the last one, including a being in hell, a lion and a god.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Svetambaras recite the Kalpa Sutra's account of Mahavira's birth each year at Paryushana, while Digambaras keep the same festival without the recitation.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Mahavira",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What is Mahavira's birth name?",
+      "options": ["Rishabha", "Vardhamana", "Neminatha", "Gautama"],
+      "answer": 1,
+      "why": "Vardhamana means \"the one who grows\"."
+    },
+    {
+      "q": "Which animal is his emblem?",
+      "options": ["Lion", "Elephant", "Tortoise", "Deer"],
+      "answer": 0,
+      "why": "A lion is carved below Mahavira's idols."
+    },
+    {
+      "q": "Where do Jains believe Mahavira was liberated?",
+      "options": ["Girnar", "Pawapuri", "Ayodhya", "Mount Abu"],
+      "answer": 1,
+      "why": "Pawapuri in Bihar, home to Jal Mandir."
+    },
+    {
+      "q": "Which festival do Jains link with his nirvana?",
+      "options": ["Holi", "Raksha Bandhan", "Diwali", "Baisakhi"],
+      "answer": 2,
+      "why": "Jains mark Diwali as his nirvana and the Jain New Year."
+    },
+    {
+      "q": "Which vow does Jain tradition list first among Mahavira's five vows?",
+      "options": [
+        "Satya (truth)",
+        "Asteya (not stealing)",
+        "Ahimsa (non-violence)",
+        "Aparigraha (non-attachment)"
+      ],
+      "answer": 2,
+      "why": "Ahimsa, harming no living being, comes first among the five vows."
+    }
+  ],
+  "related": ["parshvanatha", "gautama-swami", "trishala", "chandanbala", "bimbisara"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Mahavira",
+    "jalmandir": "https://en.wikipedia.org/wiki/Jal_Mandir",
+    "mahavirjayanti": "https://en.wikipedia.org/wiki/Mahavir_Jayanti",
+    "trishashti": "https://www.wisdomlib.org/jainism/book/trishashti-shalaka-purusha-caritra/d/doc215948.html",
+    "chandanbala": "https://jainworld.jainworld.com/jainbooks/arhat/cfhdwomnd.htm",
+    "diwali": "https://en.wikipedia.org/wiki/Diwali_(Jainism)",
+    "meru": "https://jainqq.org/pagetext/Mahavir_Prince_Of_Peace/020465/38",
+    "jainpedia-cowherds": "https://jainpedia.org/manuscript/mahavira-is-put-to-more-tortures",
+    "gosala": "https://en.wikipedia.org/wiki/Makkhali_Gosala"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f2e2c2",
+    "c2": "#d5e5ec"
+  },
+  "years": "trad. 599-527 BCE; hist. 6th-5th c. BCE",
+  "order": 24,
+  "slug": "mahavira"
+}

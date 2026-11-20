@@ -1,0 +1,272 @@
+{
+  "slug": "vishvamitra",
+  "name": "Vishvamitra",
+  "aka": ["Kaushika", "Rajarshi Vishvamitra", "Brahmarshi Vishvamitra"],
+  "native": "विश्वामित्र",
+  "tradition": "hindu",
+  "group": "rishi",
+  "role": "Royal sage associated with the Gayatri Mantra",
+  "summary": "Vishvamitra is the sage who, in many accounts, began as a king, became a brahmarshi through great penance, and is traditionally credited with the Gayatri Mantra. In the Ramayana he teaches the young Rama.",
+  "about": "Hindu texts describe Vishvamitra as a king of Kanyakubja who gave up his throne to become a sage and was long known as a rajarshi, a royal sage. Tradition credits him with most of Mandala 3 of the Rigveda, which includes the Gayatri Mantra. In the Ramayana and Puranas he clashes with the sage Vasishtha over the wish-granting cow Kamadhenu (Shabala in the Ramayana, Nandini in the Mahabharata), and then spends long years of penance to rise to the rank of brahmarshi; Brahma grants it and Vasishtha embraces him as a friend. Stories also tell of Menaka, mother of Shakuntala, and of King Trishanku, for whom he made a new heaven. In the Valmiki Ramayana he takes Rama and Lakshmana to guard his sacrifice, gives them divine weapons, and leads them to Mithila. The Brahmins of the Kaushika gotra trace their descent to him.",
+  "kidSummary": "Vishvamitra began as a king but chose to become a sage. After years of hard practice he became so respected that he is credited with the Gayatri Mantra, a short prayer still sung today. In the Ramayana he also teaches the young princes Rama and Lakshmana.",
+  "story": [
+    {
+      "title": "A king in the forest",
+      "text": "Vishvamitra was a king. On a hunting trip he visited the sage Vasishtha, saw the wish-granting cow Kamadhenu, called Shabala in the Ramayana, and wanted her. He tried to take her, but Vasishtha's power defeated his army."
+    },
+    {
+      "title": "A new goal",
+      "text": "Amazed, Vishvamitra gave up his crown and began years of deep meditation, aiming to become a brahmarshi like Vasishtha."
+    },
+    {
+      "title": "Trials on the path",
+      "text": "The Puranas and epics tell of many tests: a nymph, a hungry beggar, and the anger that sometimes got the better of him. Each time he began again with fresh effort."
+    },
+    {
+      "title": "Brahma's title",
+      "text": "At last Brahma gave him the title of brahmarshi. Vasishtha embraced him warmly, and the long rivalry became friendship."
+    },
+    {
+      "title": "Teacher of Rama",
+      "text": "In the Valmiki Ramayana, Vishvamitra asked young Rama and Lakshmana to protect his sacrifice from rakshasas. He gave them divine weapons and took Rama on to Mithila, where he met Sita."
+    }
+  ],
+  "teaches": [
+    "Effort and patience can change who we become",
+    "Rivals can become friends",
+    "Humility follows from learning"
+  ],
+  "symbol": "flame",
+  "emblems": ["Gayatri Mantra", "Sacrificial fire", "Kaushika gotra"],
+  "family": [
+    {
+      "relation": "Daughter (with Menaka)",
+      "name": "Shakuntala",
+      "slug": "shakuntala"
+    },
+    {
+      "relation": "Rival turned friend",
+      "name": "Vasishtha",
+      "slug": "vasishtha"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Lakshmana",
+      "slug": "lakshmana"
+    }
+  ],
+  "texts": ["Rigveda (Mandala 3)", "Valmiki Ramayana (Bala Kanda)", "Mahabharata", "Puranas"],
+  "places": ["Kanyakubja", "Mithila"],
+  "festivals": [],
+  "facts": [
+    {
+      "text": "Some Puranas say a swap of ritual offerings left Vishvamitra born a kshatriya with a Brahmin's qualities, while the same swap made Jamadagni, father of Parashurama, a Brahmin with a warrior's nature.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In one retelling, Vasishtha's staff, the brahmadanda, swallowed Vishvamitra's mighty brahmastra weapon, showing the power of tapas over weapons.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Texts say Indra sent the apsara Menaka to disturb his meditation; their daughter Shakuntala was raised in Kanva's ashram and later became mother of Bharata.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Indra, disguised as a beggar, once asked for Vishvamitra's only rice and he gave it away. When the apsara Rambha tried to distract him he cursed her, then climbed a Himalayan peak for a thousand more years of strict austerity.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Vishvamitra is said to have made a new heaven, Trishanku Svarga, for King Trishanku, who stays fixed upside down in the sky as the constellation Crux, the Southern Cross.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Trishanku",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "The name Trishanku is explained in one account as \"three stumps\", possibly the stars of Crux, and in a Puranic account as \"three sins\".",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Trishanku",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Gayatri Mantra is Rigveda 3.62.10, traditionally credited to Vishvamitra and addressed to the sun deity Savitr. It is in the 24-syllable gayatri metre, though as recited its first line has seven syllables.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition names the physician Sushruta, famed for nose reconstruction, as Vishvamitra's son; a 1907 translator said so, and Sushruta is said to have been born in Kanyakubja, Vishvamitra's old kingdom.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Sushruta",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Markandeya Purana, Vishvamitra tests King Harishchandra's truthfulness until the king gives away his kingdom and sells his wife, son and himself; the gods then praise the king, and Brahma explains it was only a test.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Harishchandra",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "Passing Gautama's deserted hermitage on the way to Mithila, Vishvamitra told Rama the story of Ahalya, cursed to stay unseen for ages until Rama visited, and urged him to free her.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Ahalya",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "When Brahma named him a brahmarshi, 'friend of all', he greeted Vasishtha proudly and was simply blessed. His pride vanished at once, and only then did Vasishtha greet him back as an equal.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Texts say he was originally king of Kanyakubja (modern Kannauj) and a great-grandson of King Kushika, which is why he is also called Kaushika.",
+      "kind": "language",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "kid": false
+    },
+    {
+      "text": "The boy Shunahshepa, saved from being sacrificed, was adopted by Vishvamitra and given the new name Devarata; several Rigveda passages are credited to him.",
+      "kind": "family",
+      "interest": 8,
+      "source": "https://en.wikipedia.org/wiki/Shunahshepa",
+      "kid": true
+    },
+    {
+      "text": "After shaping a new heaven for Trishanku, Vishvamitra is said to have spent all the tapas he had earned and had to begin his austerities again to reach brahmarshi rank.",
+      "kind": "story",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "kid": true
+    },
+    {
+      "text": "As a Rigvedic poet he served King Sudas as priest until Vasishtha took his place; scholars debate whether this lies behind the later feud stories, since the Rigveda offers little direct evidence.",
+      "kind": "history",
+      "interest": 7,
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "kid": false
+    },
+    {
+      "text": "In the Bala Kanda, Vishvamitra asks King Dasharatha to lend him Rama to guard a sacrifice. Dasharatha is reluctant but agrees, and Lakshmana goes too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bala_Kanda",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "On the way, Vishvamitra urges Rama to stop the rakshasi Tataka, and he does with a single arrow. Rama is rewarded with divine weapons, then defeats Maricha and kills Subahu so the sacrifice can finish.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bala_Kanda",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In one version of the feud, Vishvamitra's weapons take the lives of Vasishtha's sons, though not Vasishtha. It ends only when Vishvamitra wins the brahmarshi title and Vasishtha embraces him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "When Vishvamitra tried to lift Trishanku to heaven, Indra pushed him back down. Vishvamitra then began building a rival universe, until Brihaspati stopped him.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Some lists place Vishvamitra among the Saptarishi of the present Manvantara, alongside Kashyapa, Atri and Vasishtha.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Vishvamitra",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What was Vishvamitra before he became a sage?",
+      "options": ["A merchant", "A king", "A farmer", "A soldier"],
+      "answer": 1,
+      "why": "Texts say he ruled Kanyakubja and was a rajarshi."
+    },
+    {
+      "q": "Which famous prayer is credited to him?",
+      "options": ["Gayatri Mantra", "Hanuman Chalisa", "Aarti", "Shanti Path"],
+      "answer": 0,
+      "why": "The Gayatri Mantra is in Rigveda 3.62.10, a hymn tradition attributes to him."
+    },
+    {
+      "q": "How does Trishanku stay in the sky in the stories?",
+      "options": [
+        "Standing on a lotus",
+        "Upside down",
+        "Sitting cross-legged",
+        "Wrapped in clouds"
+      ],
+      "answer": 1,
+      "why": "Texts say Trishanku stays fixed upside down in the sky, seen as the constellation Crux."
+    },
+    {
+      "q": "Whom did he teach and guide in the Ramayana?",
+      "options": [
+        "Bharata and Shatrughna",
+        "Arjuna and Bhima",
+        "Hanuman and Sugriva",
+        "Rama and Lakshmana"
+      ],
+      "answer": 3,
+      "why": "He took Rama and Lakshmana to guard his sacrifice and gave them weapons."
+    },
+    {
+      "q": "Which rakshasi did Rama stop with one arrow while travelling with Vishvamitra?",
+      "options": ["Tataka", "Shurpanakha", "Mandodari", "Kaikasi"],
+      "answer": 0,
+      "why": "Vishvamitra urged Rama to deal with Tataka, and a single arrow ended her threat."
+    }
+  ],
+  "related": [
+    "vasishtha",
+    "rama",
+    "lakshmana",
+    "harishchandra",
+    "shakuntala",
+    "kamadhenu",
+    "sita",
+    "lopamudra"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Vishvamitra",
+    "gayatri": "https://en.wikipedia.org/wiki/Gayatri_Mantra",
+    "trishanku": "https://en.wikipedia.org/wiki/Trishanku",
+    "vasishtha": "https://en.wikipedia.org/wiki/Vasishtha"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f7dfc3",
+    "c2": "#ead3dd"
+  },
+  "order": 40
+}

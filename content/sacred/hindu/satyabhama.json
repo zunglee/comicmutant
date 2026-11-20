@@ -1,0 +1,293 @@
+{
+  "slug": "satyabhama",
+  "name": "Satyabhama",
+  "aka": ["Satrajiti", "Rajyashri"],
+  "native": "सत्यभामा",
+  "tradition": "hindu",
+  "group": "krishna-leela",
+  "role": "Queen of Krishna, daughter of Satrajit",
+  "summary": "Satyabhama is the third queen of Krishna in the Puranas. She is the daughter of Satrajit, owner of the Syamantaka jewel, and many traditions link her to the defeat of Narakasura.",
+  "about": "Satyabhama is the daughter of Satrajit, the Yadava nobleman who owned the Syamantaka jewel. In the Bhagavata and Vishnu Puranas, Krishna is wrongly accused of taking the jewel, clears his name, and then marries Satyabhama, though he gives the jewel back. Many traditions count her as an aspect of Bhumi, the Earth. In popular accounts she rides with Krishna on Garuda to the city of Narakasura, and this story is linked with Naraka Chaturdashi, part of Diwali. The Mahabharata has a famous private talk between her and Draupadi about family life. Odia folk tellings and the Devi Bhagavata Purana add the tulabharam story. Jain texts present her differently, as a Vidyadhara's daughter and chief queen.",
+  "kidSummary": "Satyabhama is a brave queen in the Hindu stories of Krishna. Her father owned a shining jewel, and Krishna marries her after the mystery of that jewel is solved. Many tellings say she rode with Krishna to defeat Narakasura, which, some say, is why people light lamps on Naraka Chaturdashi, part of Diwali.",
+  "story": [
+    {
+      "title": "A shining jewel",
+      "text": "Satyabhama's father Satrajit owns the Syamantaka jewel, a gift from the sun-god Surya. He refuses to lend it to Krishna, even when asked."
+    },
+    {
+      "title": "A false accusation",
+      "text": "Satrajit's brother goes into the forest wearing the jewel and does not return. People wrongly suspect Krishna, so he goes into the forest to find the truth."
+    },
+    {
+      "title": "The jewel returns",
+      "text": "Krishna finds the jewel and brings it back. Satrajit feels sorry and offers Satyabhama in marriage. Krishna accepts her and gives the jewel back."
+    },
+    {
+      "title": "Journey to Narakasura's city",
+      "text": "Many tellings say Satyabhama flies with Krishna on Garuda to the city of Narakasura. He had taken Aditi's earrings and held many women captive."
+    },
+    {
+      "title": "Light after the battle",
+      "text": "Krishna defeats Narakasura and the captives are freed. This victory is remembered on Naraka Chaturdashi, when families take a morning oil bath and light lamps."
+    },
+    {
+      "title": "A tree from heaven",
+      "text": "After the battle, Krishna and Satyabhama visit Indra's realm. She admires the heavenly parijata tree, and Krishna carries it to Dvaraka and plants it in her garden."
+    }
+  ],
+  "teaches": [
+    "Be honest when you have been mistaken",
+    "Courage can be shown beside those we love",
+    "Pride softens when we see what really matters"
+  ],
+  "symbol": "star",
+  "emblems": ["Garuda (as the shared mount in the Narakasura story)", "Syamantaka jewel"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Krishna",
+      "slug": "krishna"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Rukmini",
+      "slug": "rukmini"
+    },
+    {
+      "relation": "Fellow queen",
+      "name": "Jambavati",
+      "slug": "jambavati"
+    },
+    {
+      "relation": "Aspect of",
+      "name": "Bhumi",
+      "slug": "bhumi"
+    },
+    {
+      "relation": "Opponent in battle (son of Bhumi)",
+      "name": "Narakasura",
+      "slug": "narakasura"
+    },
+    {
+      "relation": "Father",
+      "name": "Satrajit"
+    }
+  ],
+  "texts": [
+    "Bhagavata Purana",
+    "Vishnu Purana",
+    "Mahabharata (Vana Parva)",
+    "Devi Bhagavata Purana",
+    "Harivamsapurana (Jain)"
+  ],
+  "places": [
+    "Dvaraka, Gujarat",
+    "Pragjyotisha (Assam by local tradition)",
+    "Kuchipudi, Andhra Pradesh"
+  ],
+  "festivals": ["Naraka Chaturdashi", "Diwali"],
+  "facts": [
+    {
+      "text": "The Syamantaka jewel was said to give about eight bharas of gold every day, roughly 170 pounds, and to protect its owner only if the person was virtuous.",
+      "kind": "symbol",
+      "source": "https://en.wikipedia.org/wiki/Syamantaka",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "When Satrajit entered Dvaraka wearing the Syamantaka jewel, people thought the sun god himself had come, until Krishna told them it was only Satrajit glowing, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/56/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata Purana, Krishna and the bear king Jambavan fought for 28 days over the jewel, until Jambavan recognised the Lord and recalled Rama's bridge and Lanka. Jambavati, speaking in chapter 83, counts 27 days.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/56/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition sees Satyabhama as Bhumi, the Earth, and calls Narakasura the son of Bhumi. In that telling, the battle at his city is a mother facing her own child.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Narakasura's city was ringed by defences of rock, weapons, water, fire, wind and wire snares. The Bhagavata Purana says Krishna broke each with a different tool: club, arrows, discus and sword.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/59/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One telling says Narakasura had a boon that only the one who bore him could end his life. Krishna pretended to faint, and an angry Satyabhama attacked before the discus finished the fight.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 9,
+      "kid": false
+    },
+    {
+      "text": "In some traditions Narakasura asked Satyabhama, as Bhumi, for a boon that his death be marked by bright lights, so people celebrate with lamps on Naraka Chaturdashi.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Narakasura",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Goa on Naraka Chaturdashi, paper effigies of Narakasura stuffed with grass and firecrackers are burned at dawn, and a bitter berry is crushed underfoot.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Satyabhama's request Krishna uprooted the heavenly parijata tree, carried it on Garuda past the gods who objected, and planted it in her palace garden. Bees followed it from heaven, says the Bhagavata Purana.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/59/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Vishnu Purana, the parijata planted at Dvaraka had a scent that made anyone near it recall a former life. Indra agreed it could stay on earth while Krishna lived there.",
+      "kind": "text",
+      "source": "https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc116053.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In the Kuchipudi dance-drama Bhama Kalapam, the proud Satyabhama is danced by men: tradition says each Brahmin of Kuchipudi village took the queen's role at least once in life.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Jain texts such as Jinasena's Harivamsapurana she is chief queen and a Vidyadhara's daughter, not an Earth incarnation. Her pride, in one Jain tale, leads Narada to bring in Rukmini as a rival.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After her father Satrajit was murdered, the Bhagavata Purana says Satyabhama preserved his body in a vat of oil and travelled to Hastinapura to tell Krishna what had happened.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/57/",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the cave the bear king Jambavan let his young son play with the Syamantaka jewel as a toy, says the Bhagavata Purana. Krishna found the priceless gem being used as a child's plaything.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/56/",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "To make up for wrongly accusing Krishna, Satrajit offered both his daughter and the jewel. The Bhagavata Purana says Krishna married Satyabhama but told Satrajit to keep the jewel, as a devotee of the sun god.",
+      "kind": "story",
+      "source": "https://vedabase.io/en/library/sb/10/56/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Mahabharata's Vana Parva, Satyabhama visits the Pandavas in Kamyaka forest and asks Draupadi about a happy married life. Draupadi shares her own advice on family, respect and work.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Narakasura story, he took the earrings of the heavenly mother Aditi, so Indra asked Krishna for help, and Krishna came with Garuda and Satyabhama to besiege the city, says Wikipedia's summary.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "After Krishna won back Aditi's earrings, Wikipedia's summary says Aditi was pleased by Satyabhama's devotion to her husband and gave her the boon of lasting youth.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Jain Pradyumna-caritra, Narada sees Satyabhama on Krishna's throne admiring herself in a mirror. When she scorns his ascetic look, he decides to humble her pride.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The name Satyabhama joins satya, truth, with bha, brilliance, and ma, a word for Lakshmi and glory. Her nicknames include Satrajiti, daughter of Satrajit, and Rajyashri.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Satyabhama",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "Which jewel belonged to Satyabhama's father Satrajit?",
+      "options": ["Kaustubha", "Syamantaka", "Chintamani", "Neelamani"],
+      "answer": 1,
+      "why": "Surya gave the Syamantaka jewel to Satrajit."
+    },
+    {
+      "q": "Which festival remembers Krishna's victory over Narakasura?",
+      "options": ["Holi", "Makar Sankranti", "Naraka Chaturdashi", "Raksha Bandhan"],
+      "answer": 2,
+      "why": "Naraka Chaturdashi, part of Diwali, remembers that victory."
+    },
+    {
+      "q": "Which bird carried Krishna and Satyabhama to Narakasura's city?",
+      "options": ["Peacock", "Swan", "Owl", "Garuda"],
+      "answer": 3,
+      "why": "Garuda, the great eagle, is the shared mount in the story."
+    },
+    {
+      "q": "Which heavenly tree did Krishna plant in Satyabhama's garden at Dvaraka?",
+      "options": ["Parijata", "Banyan", "Neem", "Peepal"],
+      "answer": 0,
+      "why": "He brought the parijata from Indra's realm and planted it in her garden."
+    },
+    {
+      "q": "Which Kuchipudi dance-drama is named after Satyabhama?",
+      "options": ["Prahlada Charitra", "Bhama Kalapam", "Usha Parinayam", "Rukmini Horon"],
+      "answer": 1,
+      "why": "Bhama Kalapam is the well-known Kuchipudi piece built around her."
+    }
+  ],
+  "related": [
+    "krishna",
+    "rukmini",
+    "jambavati",
+    "bhumi",
+    "narakasura",
+    "garuda",
+    "narada",
+    "surya",
+    "draupadi"
+  ],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Satyabhama",
+    "syamantaka": "https://en.wikipedia.org/wiki/Syamantaka",
+    "naraka-chaturdashi": "https://en.wikipedia.org/wiki/Naraka_Chaturdashi",
+    "bhagavata_56": "https://vedabase.io/en/library/sb/10/56/",
+    "bhagavata_59": "https://vedabase.io/en/library/sb/10/59/",
+    "bhagavata_83": "https://vedabase.io/en/library/sb/10/83/",
+    "narakasura": "https://en.wikipedia.org/wiki/Narakasura",
+    "vishnu_purana": "https://www.wisdomlib.org/hinduism/book/vishnu-purana-wilson/d/doc116053.html",
+    "bhagavata_57": "https://vedabase.io/en/library/sb/10/57/",
+    "bhagavata_56b": "https://vedabase.io/en/library/sb/10/56/",
+    "bhamakalapam": "https://en.wikipedia.org/wiki/Bhamakalapam"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#f1d49c",
+    "c2": "#e8b9a6"
+  },
+  "order": 500
+}

@@ -1,0 +1,252 @@
+{
+  "slug": "hiranyaksha",
+  "name": "Hiranyaksha",
+  "aka": ["Hiranyanetra", "Hiranyaksa"],
+  "native": "हिरण्याक्ष",
+  "tradition": "hindu",
+  "group": "asura",
+  "role": "Asura king who submerged the earth in the Puranas",
+  "summary": "Hiranyaksha, whose name means golden-eyed, is the asura of the Puranas who hides the earth goddess Bhumi under the cosmic ocean, until Vishnu appears as the boar Varaha.",
+  "about": "Hiranyaksha is an asura king in the Puranas, and his name is generally read as golden-eyed. Many Puranas call him a son of Kashyapa and Diti and the younger brother of Hiranyakashipu. The Puranas say that after he gained a boon from Brahma he took the earth goddess Bhumi down beneath the cosmic ocean. The devas asked Vishnu for help, and Vishnu came as Varaha, a boar. Versions differ on how the contest went: the Bhagavata Purana says it lasted about a thousand years, while the Padma Purana gives a hundred divine years. The Bhagavata Purana also says he was Vijaya, one of Vishnu's gatekeepers, cursed to be born as an enemy. The Varaha motif is carved across India from Udayagiri to Khajuraho.",
+  "kidSummary": "Hiranyaksha is an asura whose name means golden-eyed. The Puranas say he dragged Mother Earth, called Bhumi, deep under the sea, until Vishnu came as a great boar called Varaha, lifted her on his tusks and set her back in place. Old carvings of this scene can still be seen at Udayagiri and Eran.",
+  "story": [
+    {
+      "title": "A powerful boon",
+      "text": "Hiranyaksha does tapas and receives a boon from Brahma that protects him from gods, people and animals. He becomes very proud of his strength."
+    },
+    {
+      "title": "Earth under the sea",
+      "text": "In the Puranas, he takes Bhumi, the earth goddess, down under the cosmic ocean. Without her, the world is in danger."
+    },
+    {
+      "title": "A call for help",
+      "text": "The devas ask Vishnu for help. Vishnu takes the shape of a wild boar, Varaha, and dives down into the water."
+    },
+    {
+      "title": "The contest",
+      "text": "Hiranyaksha tries to block the boar's path. The Bhagavata Purana says they fight for about a thousand years."
+    },
+    {
+      "title": "Earth is raised",
+      "text": "Varaha lifts Bhumi up on his tusk. She clings to him and he sets her back safely in her place."
+    }
+  ],
+  "teaches": [
+    "Looking after the earth is a great duty",
+    "Strength without kindness leads to trouble"
+  ],
+  "symbol": "wave",
+  "emblems": ["Mace", "Patala (underworld home)"],
+  "family": [
+    {
+      "relation": "Brother",
+      "name": "Hiranyakashipu",
+      "slug": "hiranyakashipu"
+    },
+    {
+      "relation": "Sister",
+      "name": "Holika",
+      "slug": "holika"
+    },
+    {
+      "relation": "Father",
+      "name": "Kashyapa",
+      "slug": "kashyapa"
+    },
+    {
+      "relation": "Son",
+      "name": "Andhaka",
+      "slug": "andhaka"
+    },
+    {
+      "relation": "Slayer in the Puranas",
+      "name": "Varaha",
+      "slug": "varaha"
+    }
+  ],
+  "texts": ["Bhagavata Purana", "Padma Purana", "Taittiriya Samhita", "Shatapatha Brahmana"],
+  "places": ["Udayagiri Caves", "Eran", "Khajuraho"],
+  "festivals": ["Varaha Jayanti"],
+  "facts": [
+    {
+      "text": "The Bhagavata Purana says the fight lasted about a thousand years and ended with a blow from Varaha's foreleg.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Four Kumaras gave the gatekeepers Jaya and Vijaya a choice: three births as Vishnu's foes or seven as devotees. They chose three, beginning as Hiranyakashipu and Hiranyaksha, later Ravana and Kumbhakarna, then Shishupala and Dantavakra.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Hiranyaksha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata Purana, Hiranyaksha challenges the sea god Varuna to a fight, and Varuna sends him on to Vishnu as the stronger opponent.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Linga Purana says the earth could not bear the weight of Varaha's tusks, so Shiva took them and wore them as an ornament.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Thai Ramakien, the same story appears with Hiranyaksha called Hiranta, who curls the earth up to take over the world before Vishnu the boar ends his plan.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, Parvati playfully covers Shiva's eyes and sweat from her hands makes a blind boy; later Shiva gives that boy, Andhaka, to Hiranyaksha, who had prayed for a child.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Andhaka",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Bhagavata story, Kashyapa warned Diti that dusk is an unlucky hour, yet she insisted; he foretold twin sons who would trouble the worlds, but a grandson who would love Vishnu.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Diti",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "His second name, Hiranyanetra, also means golden-eyed, since netra is another word for eye.",
+      "kind": "language",
+      "source": "https://en.wikipedia.org/wiki/Hiranyaksha",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the Padma Purana's Srishti Khanda, he grows huge, seizes the earth and flees to the netherworld; Vishnu fights him for a hundred divine years and ends it with a mace battle and his discus.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In the Harivamsa, the asuras led by Hiranyaksha overpower and imprison the gods before Vishnu, as the boar, ends the war with his Sudarshana discus.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Puranas disagree on his end: a tusk in the Brahmanda, Linga and Kurma Puranas, the discus in the Harivamsa and Shiva Purana, and a blow from Varaha's foreleg in the Bhagavata.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Brahmanda, Vayu and Matsya Puranas place his death on Mount Sumana, also called Ambikeya or Rishabha, near the legendary island Jambudvipa.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Bhagavata story, Varaha uses his discus to destroy the whole horde of demons that Hiranyaksha creates by magic during the mace duel.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Shiva Purana, once Varaha has beheaded the asura king with his discus, Hiranyaksha's adopted son Andhaka is crowned his successor.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Early Mahabharata references to Hiranyaksha do not link him to Varaha; only later passages tie the asura to the boar who lifts the earth.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The earth-rescue tale has older roots: Vedic texts like the Taittiriya Samhita and Shatapatha Brahmana show a boar lifting the drowning earth, before Hiranyaksha is named.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Hiranyaksha",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "The Vishnudharmottara Purana reads the demon as adversity and ignorance, while the boar stands for wisdom, wealth and power.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Vishnudharmottara says Varaha may be shown hurling his discus at Hiranyaksha or raising a spear at him.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Skanda Purana says that after Hiranyaksha's end the Shipra River springs from Varaha's heart, so the river is called his daughter.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Varaha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Holika, the aunt of Prahlada, is called Hiranyaksha's younger sister, and she is the figure remembered at Holika Dahan.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Hiranyaksha",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does Hiranyaksha's name mean?",
+      "options": ["Golden-eyed", "Iron-handed", "Silver-tongued", "Sun-born"],
+      "answer": 0,
+      "why": "Hiranya means golden and aksha means eye."
+    },
+    {
+      "q": "Whom did he carry beneath the sea?",
+      "options": ["Lakshmi", "Bhumi", "Ganga", "Sita"],
+      "answer": 1,
+      "why": "Bhumi is the earth goddess."
+    },
+    {
+      "q": "Which form of Vishnu rescues her?",
+      "options": ["Matsya", "Kurma", "Varaha", "Vamana"],
+      "answer": 2,
+      "why": "Varaha is a boar."
+    },
+    {
+      "q": "Where is a giant stone boar from around 500 CE found?",
+      "options": ["Eran", "Hampi", "Konark", "Puri"],
+      "answer": 0,
+      "why": "The boar at Eran dates from the reign of the Huna king Toramana."
+    }
+  ],
+  "related": ["hiranyakashipu", "varaha", "bhumi", "andhaka", "prahlada"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Hiranyaksha",
+    "varaha": "https://en.wikipedia.org/wiki/Varaha",
+    "eran": "https://en.wikipedia.org/wiki/Eran",
+    "andhaka": "https://en.wikipedia.org/wiki/Andhaka",
+    "diti": "https://en.wikipedia.org/wiki/Diti"
+  },
+  "depth": "full",
+  "palette": {
+    "c1": "#b9d8e2",
+    "c2": "#e8dcb0"
+  },
+  "order": 500
+}

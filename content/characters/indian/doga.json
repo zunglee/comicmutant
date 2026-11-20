@@ -6,8 +6,8 @@
   "kind": "antihero",
   "medium": "comics",
   "publisher": "Raj Comics",
-  "summary": "Mumbai's dog-masked vigilante and Raj Comics' signature antihero: Suraj, a gym-trained orphan who wages a merciless war on organised crime. Debuted in Curfew (1992).",
-  "origin": "As a baby, Suraj was found in a garbage dump by the dacoit Halkan Singh, who raised him like a dog among his gang. After escaping, he was taken in by Adrak Chacha, a former weightlifting champion who ran the Lion Gym, and his brothers, who each trained him: Haldi in martial arts, Dhania in boxing and Kalimirchi in sharpshooting. When goons hired by a rival gym owner killed the brothers who trained him, Suraj put on a dog mask, took his revenge and became Doga, hunting Mumbai's gangsters outside the law. He later killed Halkan Singh, who had become a government minister.",
+  "summary": "Mumbai's dog-masked vigilante and Raj Comics' signature antihero: Suraj, a gym-trained orphan who fights organised crime outside the law. Debuted in Curfew (1992).",
+  "origin": "Suraj was found as a baby in a rubbish dump by the dacoit Halkan Singh, who raised him more like a pet than a child. A cruel childhood left deep scars. He was later taken in by Adrak Chacha, who ran the Lion Gym, and Adrak's brothers trained him: Haldi in martial arts, Dhania in boxing and Kalimirchi in sharpshooting. When goons sent by a rival gym owner killed the family that trained him, Suraj put on a dog mask and became Doga, taking on Mumbai's gangsters outside the law. Comics later bring him face to face with Halkan Singh, now a minister. Doga breaks the law, and the comics show that he does.",
   "creators": ["Tarun Kumar Wahi (writer)", "Sanjay Gupta", "Manu (artist)"],
   "firstAppearance": {
     "title": "Curfew",
@@ -21,13 +21,13 @@
     "Communicates with and commands dogs",
     "Very high pain tolerance"
   ],
-  "affiliations": ["Brahmand Rakshak (Protectors of the Universe)"],
+  "affiliations": [],
   "storyline": [
     {
       "era": "Childhood",
       "years": "Before 1992",
       "title": "Raised by a dacoit",
-      "beat": "Halkan Singh raises the foundling like an animal, and the boy grows up surrounded by crime."
+      "beat": "Halkan Singh finds the foundling in a rubbish dump and raises him more like a pet than a child."
     },
     {
       "era": "Training",
@@ -45,13 +45,13 @@
       "era": "Ongoing",
       "years": "1990s onward",
       "title": "Mumbai's nightmare",
-      "beat": "Doga becomes a one-man army against Mumbai's gangs, and eventually kills his abuser Halkan Singh, now a minister."
+      "beat": "Doga becomes a one-man army against Mumbai's gangs, and in time the story brings him back to his old captor Halkan Singh, now a minister."
     },
     {
       "era": "Screen hopes",
-      "years": "2014–2019",
+      "years": "2014-2017",
       "title": "The film that wasn't",
-      "beat": "Anurag Kashyap talks about a Doga film in 2014 but shelves it. Raj Comics later releases its own short film, Doga – Mumbai Ka Rakhwala, on YouTube."
+      "beat": "Anurag Kashyap talks about a Doga film in 2014 but shelves it, and in 2017 Kunal Kapoor is announced for a planned live-action series that has not reached screens."
     }
   ],
   "gossip": [
@@ -77,9 +77,9 @@
       "spice": 2
     },
     {
-      "type": "gossip",
-      "text": "Sources disagree on who created him. Most credit Tarun Kumar Wahi, Sanjay Gupta and artist Manu, but some name Manish Gupta.",
-      "spice": 1
+      "type": "fact",
+      "text": "Dhruva never kills and works inside the law, while Doga is ready to use lethal force, so the two heroes clash even when they team up.",
+      "spice": 2
     }
   ],
   "quiz": [
@@ -100,10 +100,16 @@
       "options": ["Rajnagar", "Delhi", "Mumbai", "Kolkata"],
       "answer": 2,
       "why": "He wages his war on Mumbai's organised crime."
+    },
+    {
+      "q": "Which Raj Comics hero refuses to kill and clashes with Doga?",
+      "options": ["Dhruva", "Parmanu", "Bheriya", "Tiranga"],
+      "answer": 0,
+      "why": "Super Commando Dhruva vows never to take a life, which makes him an uneasy partner for the lethal Doga."
     }
   ],
   "rivals": [],
-  "allies": [],
+  "allies": ["nagraj", "super-commando-dhruva", "anthony", "parmanu", "inspector-steel", "bheriya"],
   "theme": {
     "palette": {
       "c1": "#1e1e1e",
@@ -117,20 +123,24 @@
   "sources": {
     "wikipedia": "https://en.wikipedia.org/wiki/Raj_Comics",
     "indianetzone": "https://www.indianetzone.com/doga",
-    "fanblog": "https://indiancomiccon.blogspot.com/p/doga.html"
+    "theoriginof": "https://theoriginof.com/doga",
+    "dhruva": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+    "sanjayGupta": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(comics)",
+    "gulfnews": "https://gulfnews.com/entertainment/kunal-kapoor-excited-about-angry-anti-hero-role-1.2036666",
+    "indiancomiccon": "https://indiancomiccon.blogspot.com/p/doga.html"
   },
   "timeline": [
     {
       "year": 1992,
       "kind": "debut",
       "title": "Curfew",
-      "note": "Raj Comics' first true antihero hits Mumbai in a dog mask, ready to do what the cops won't."
+      "note": "Created in November 1992, Raj Comics' first true antihero hits Mumbai in a dog mask, ready to do what the cops won't."
     },
     {
-      "year": 2009,
+      "year": 2014,
       "kind": "turn",
-      "title": "Anurag Kashyap signs on",
-      "note": "The Dev D director takes on a live-action Doga film. It stalls in scripting and is later shelved."
+      "title": "Anurag Kashyap eyes a Doga film",
+      "note": "The Bombay Velvet director talks about a live-action Doga film in 2014. It was shelved after Bombay Velvet flopped."
     },
     {
       "year": 2017,
@@ -139,12 +149,177 @@
       "note": "Actor Kunal Kapoor is announced in the role for a planned live-action series. It has not reached screens."
     },
     {
-      "year": 2024,
-      "kind": "screen",
-      "title": "Live-action shorts",
-      "note": "Raj Comics launches a live-action short-film series on YouTube that brings Doga and Dhruva to life.",
-      "with": "super-commando-dhruva"
+      "year": 2021,
+      "kind": "comic",
+      "title": "Rakta-Katha",
+      "note": "A new Doga series begins with the issue Kachra Peti and runs five issues to 2023."
+    },
+    {
+      "year": 2021,
+      "kind": "comic",
+      "title": "Naag Granth begins",
+      "note": "Naag Granth #1, Aadi Parv, puts Doga in a team-up with Nagraj and Kobi.",
+      "with": "nagraj"
+    },
+    {
+      "year": 2022,
+      "kind": "comic",
+      "title": "SwamiBhakt Rakhwale",
+      "note": "A new Doga series starts, and issue 1 is released at the same time by rival publisher RCMG."
     }
   ],
-  "heat": 55
+  "heat": 55,
+  "facts": [
+    {
+      "text": "Suraj was found as a baby in a rubbish dump by the dacoit Halkan Singh, who raised him like a pet and called him 'dog'; the grown Suraj later puts on a dog mask and takes the name Doga.",
+      "kind": "origin",
+      "source": "https://theoriginof.com/doga",
+      "interest": 9
+    },
+    {
+      "text": "His four trainers are named after kitchen spices: Adrak (ginger), Haldi (turmeric), Dhania (coriander) and Kalimirchi (black pepper).",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 9
+    },
+    {
+      "text": "Suraj's trainers were the Khan brothers: Adrak, a former weightlifting champion who owned the Lion Gym, Dhania, a former heavyweight boxing champion, and Kalimirchi, a champion sharpshooter who also knew explosives.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "Dhruva refuses to kill and works within the law, while Doga will use lethal force on criminals, so their differing moral codes make them uneasy partners.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Super_Commando_Dhruva",
+      "interest": 8
+    },
+    {
+      "text": "Killota, a former gym member, opened a rival gym and had the Khan brothers murdered; Suraj was the only survivor, and he put on the dog mask to hunt Killota's gang.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "The first issue of Rakta-Katha (2021) is titled Kachra Peti, which means 'rubbish bin', matching the place where Suraj was found as a baby.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(comics)",
+      "interest": 8
+    },
+    {
+      "text": "Halkan Singh, the dacoit who raised Suraj, later becomes a minister named Halkat Singh, and Doga eventually takes him down.",
+      "kind": "story",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 8
+    },
+    {
+      "text": "Doga's main enemy, Kaal Paheliya, leaves a puzzle at every crime scene.",
+      "kind": "story",
+      "source": "https://theoriginof.com/doga",
+      "interest": 8
+    },
+    {
+      "text": "Only a few people know who is under the dog mask, among them Inspector Cheetah, a retired policeman turned private detective, and Cheetah's sister Monica, who is Doga's love interest.",
+      "kind": "story",
+      "source": "https://theoriginof.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "Each Khan brother ran his own club: Adrak the Lion Gym, Dhania a boxing school called Lion's Den, Haldi a martial-arts club called Lion Occult, and Kalimirchi the shooting institute Lion Aim Club.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 8
+    },
+    {
+      "text": "Kunal Kapoor, cast as Doga in 2017, called it by far the most ambitious project he had joined, described the hero as dark and angry, and said he would have to learn many martial arts.",
+      "kind": "screen",
+      "source": "https://gulfnews.com/entertainment/kunal-kapoor-excited-about-angry-anti-hero-role-1.2036666",
+      "interest": 7
+    },
+    {
+      "text": "Doga first appeared in Raj Comics issue number 395, titled Curfew.",
+      "kind": "publishing",
+      "source": "https://theoriginof.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "When Anurag Kashyap talked about a Doga film in 2014, he described him as a vigilante killing machine in the style of Marvel's Punisher, but the project was shelved after Bombay Velvet flopped.",
+      "kind": "screen",
+      "source": "https://en.wikipedia.org/wiki/Sanjay_Gupta_(comics)",
+      "interest": 7
+    },
+    {
+      "text": "Doga has teamed up with Parmanu, Nagraj, Dhruva, Bheriya, Shakti and Inspector Steel, so he is no lone wolf across the Raj Comics universe.",
+      "kind": "story",
+      "source": "https://theoriginof.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "ThePrint describes Doga as a Mumbai vigilante with bright red eyes who takes the law into his own hands to serve justice from the shadows.",
+      "kind": "culture",
+      "source": "https://theprint.in/feature/brandma/raj-comics-publishers-who-brought-home-your-friendly-neighbourhood-desi-superheroes/1072153",
+      "interest": 7
+    },
+    {
+      "text": "A fan quoted by ThePrint says he loved Doga because the hero stays a plain human who fights corruption and terrorists, even when his comics pit him against aliens.",
+      "kind": "culture",
+      "source": "https://theprint.in/feature/brandma/raj-comics-publishers-who-brought-home-your-friendly-neighbourhood-desi-superheroes/1072153",
+      "interest": 7
+    },
+    {
+      "text": "Doga has no powers, only the ability to talk with dogs and get information from them; the rest is martial arts, boxing, huge stamina, high pain tolerance and a large stock of guns and explosives.",
+      "kind": "powers",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "Raised among dacoits, the child Suraj saw endless horrors, and Indianetzone says this pushed him toward becoming a sociopath before the Khan brothers gave him a better life.",
+      "kind": "origin",
+      "source": "https://www.indianetzone.com/doga",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics lore says Halkan Singh used the infant Suraj as protection during a police raid, and that Suraj later escaped his den with a kidnapped girl named Sonu.",
+      "kind": "origin",
+      "source": "https://indiancomiccon.blogspot.com/p/doga.html",
+      "interest": 8
+    },
+    {
+      "text": "Doga debuted in November 1992 and is described as Raj Comics' first, and so far only, antihero among its major characters.",
+      "kind": "publishing",
+      "source": "https://indiancomiccon.blogspot.com/p/doga.html",
+      "interest": 8
+    },
+    {
+      "text": "Kalimirchi, the youngest Khan brother, taught Suraj marksmanship and flying as a fighter pilot, while Haldi taught martial arts and Dhania boxing.",
+      "kind": "origin",
+      "source": "https://indiancomiccon.blogspot.com/p/doga.html",
+      "interest": 7
+    },
+    {
+      "text": "Raj Comics has paired Doga with Anthony in the Mard aur Murda series and with Super Indian in Khoon, and gathered him with Bheriya, Nagraj, Dhruva and Parmanu in the Mai Hu Bheriya series.",
+      "kind": "publishing",
+      "source": "https://en.wikipedia.org/wiki/Raj_Comics",
+      "interest": 7
+    }
+  ],
+  "kidSummary": "Doga is a masked vigilante from Raj Comics who hides behind a dog mask. He has no superpowers, only hard training and a talent for talking to dogs. He is a dark, grown-up antihero who breaks the law, so his stories are for older readers more than small children.",
+  "story": [
+    {
+      "title": "A rough start",
+      "text": "Suraj is found as a baby in a rubbish dump and raised by the dacoit Halkan Singh, who treats him badly."
+    },
+    {
+      "title": "The Lion Gym",
+      "text": "Suraj finds a new family at the Lion Gym, where Adrak Chacha and his brothers train him in strength, boxing, martial arts and shooting."
+    },
+    {
+      "title": "The mask",
+      "text": "When the gym family is attacked by the henchmen of a rival, Suraj puts on a dog mask and becomes Doga."
+    },
+    {
+      "title": "Mumbai's watchdog",
+      "text": "Doga fights organised crime across Mumbai. He uses dogs to find information, but the comics show that he works outside the law."
+    }
+  ]
 }

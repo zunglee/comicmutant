@@ -1,0 +1,190 @@
+{
+  "slug": "aranatha",
+  "name": "Aranatha",
+  "aka": ["Aranath", "Arnath", "Ara", "Lord Ara"],
+  "native": "अरनाथ",
+  "tradition": "jain",
+  "group": "tirthankara",
+  "role": "18th Tirthankara of the present age",
+  "summary": "Jains revere Aranatha as the 18th Tirthankara of this age, born in Hastinapur and counted as a world-emperor. His name means a spoke of a wheel, from his mother's dream.",
+  "about": "According to Jain tradition, Aranatha was born in Hastinapur to King Sudarshana and his queen, of the Ikshvaku line. Svetambara texts say his name Ara, a wheel's spoke, comes from a dream his mother had of a jewelled wheel. Jain texts also count him as the seventh chakravartin, ruler of the whole earth. They say a change of seasons made him think about how nothing lasts, so he gave up his empire, wandered as an ascetic for three years, reached omniscience and taught for about twenty-one thousand years. Jains believe he attained liberation on Mount Shikharji. His image stands in the four-faced Chaturmukha Basadi of Karkala.",
+  "kidSummary": "Aranatha is remembered by Jains as the 18th Tirthankara. His name means a spoke of a wheel, because of his mother's dream of a shining wheel. The stories say he ruled the whole earth and then gave it up to learn how to stay calm and kind.",
+  "story": [
+    {
+      "title": "A dream of a wheel",
+      "text": "Jain texts say his mother dreamed of a wheel set with gems. The baby was named Ara, which means a spoke of a wheel."
+    },
+    {
+      "title": "Emperor of six lands",
+      "text": "He grew up in Hastinapur and became king. When a divine disc appeared in his armoury, he conquered the lands around, and thirty-two thousand kings stood with him."
+    },
+    {
+      "title": "Thinking about seasons",
+      "text": "Jain accounts say he was watching the seasons change when he realised that nothing in life stays the same, not wealth, not power, not even glory."
+    },
+    {
+      "title": "Three years of wandering",
+      "text": "He gave everything up and went into the forest as an ascetic. After about three years as an ordinary ascetic, he sat under a mango tree and, Jains believe, reached perfect knowledge."
+    },
+    {
+      "title": "A teacher for ages",
+      "text": "He taught how to overcome attachment and dislike, which the texts call the real enemies. At the end, Jains believe, he reached liberation on Mount Shikharji."
+    }
+  ],
+  "teaches": [
+    "Nothing in life lasts forever",
+    "Overcoming attachment and dislike",
+    "Calm detachment from power"
+  ],
+  "symbol": "lotus",
+  "emblems": [
+    "Nandyavarta (Svetambara) or fish (Digambara)",
+    "Golden complexion",
+    "Mango tree (omniscience)"
+  ],
+  "family": [
+    {
+      "relation": "Father",
+      "name": "King Sudarshana"
+    },
+    {
+      "relation": "Mother",
+      "name": "Queen Devi (Digambaras: Mitrasena)"
+    },
+    {
+      "relation": "Previous Tirthankara",
+      "name": "Kunthunatha",
+      "slug": "kunthunatha"
+    },
+    {
+      "relation": "Next Tirthankara",
+      "name": "Mallinatha",
+      "slug": "mallinatha"
+    }
+  ],
+  "texts": [
+    "Svayambhustotra (Samantabhadra)",
+    "Avashyaka-niryukti",
+    "Trishashtishalakapurusha Charitra (Hemachandra)"
+  ],
+  "places": [
+    "Hastinapur, Uttar Pradesh",
+    "Mount Shikharji, Jharkhand",
+    "Chaturmukha Basadi, Karkala",
+    "Mathura (Jain stupa)"
+  ],
+  "festivals": ["Maunaikadashi", "Aranatha Janma Kalyanak"],
+  "facts": [
+    {
+      "text": "Ara means a spoke of a wheel. Jainworld says his mother saw a gem-studded wheel in her dreams, beyond the usual fourteen, and that gave the baby his name.",
+      "kind": "language",
+      "source": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/arnath-bhagavan-18/",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A 157 CE inscription on a Mathura stupa records an image of Aranatha, though two medieval writers attributed that stupa to Suparshvanatha instead.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Aranatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Karkala's Chaturmukha Basadi, built in 1586, life-size images of Aranatha, Mallinatha and Munisuvrata stand in a four-sided temple and are said to face the four cardinal directions.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Aranatha",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Svetambara sources give his emblem as the nandyavarta, one of the eight auspicious symbols, while Digambara sources give a fish. A possible Mathura-era image shows paired fish on its base.",
+      "kind": "symbol",
+      "source": "https://jainpedia.org/themes/people/jina/ara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Hastinapur is tied to three Jinas who were world-emperors: Shanti, Kunthu and Ara. Its main Svetambara temple puts Shantinatha in the centre with Kunthu and Ara on either side.",
+      "kind": "place",
+      "source": "https://jainpedia.org/themes/people/jina/ara",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Records from 1318 and 1333 CE tell of a pilgrimage and new images at Hastinapur. The poet Banarasidas describes his own 1618 pilgrimage there in an autobiography of 1641.",
+      "kind": "history",
+      "source": "https://jainpedia.org/themes/people/jina/ara",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Digambara hymn Svayambhustotra praises his form as free of ornaments, clothes and weapons, and reads that plainness as a sign that every inner fault has been conquered.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Aranatha",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Stone sculptures carrying his Digambara fish emblem survive in the Khandagiri caves of Orissa and in Karnataka temples at Mudbidri and Karkala.",
+      "kind": "art",
+      "source": "https://jainpedia.org/themes/people/jina/ara",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "quiz": [
+    {
+      "q": "What does the name Ara mean?",
+      "options": ["Moon", "Peace", "Spoke of a wheel", "Mountain"],
+      "answer": 2,
+      "why": "Ara means a spoke of a wheel, from his mother's dream."
+    },
+    {
+      "q": "What did Aranatha reflect on before renouncing, in one Jain account?",
+      "options": ["Changing seasons", "A river", "A falling star", "A battle"],
+      "answer": 0,
+      "why": "Reflecting on the changing seasons made him feel that nothing lasts."
+    },
+    {
+      "q": "In one telling, what did Aranatha find when he went to carve his name on a mountain?",
+      "options": [
+        "Names of earlier world-emperors already there",
+        "A blank wall",
+        "A hidden cave",
+        "A river of gold"
+      ],
+      "answer": 0,
+      "why": "Finding earlier names humbled him, and he renounced his empire."
+    },
+    {
+      "q": "Which three Jinas are said to have been born at Hastinapur?",
+      "options": [
+        "Shanti, Kunthu and Ara",
+        "Rishabha, Ajita and Sambhava",
+        "Nami, Nemi and Parshva",
+        "Malli, Munisuvrata and Nami"
+      ],
+      "answer": 0,
+      "why": "Hastinapur is the birthplace of Shantinatha, Kunthunatha and Aranatha."
+    },
+    {
+      "q": "Under which tree do Jains say he reached omniscience?",
+      "options": ["Banyan", "Neem", "Ashoka", "Mango"],
+      "answer": 3,
+      "why": "Jain texts say he reached omniscience under a mango tree."
+    }
+  ],
+  "related": ["kunthunatha", "shantinatha", "mallinatha", "munisuvrata"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Aranatha",
+    "jainpedia": "https://jainpedia.org/themes/people/jina/ara",
+    "jainworld": "https://jainworld.com/library/jain-books/books-on-line/jainworld-books-in-indian-languages/24-tirthankaras/arnath-bhagavan-18/",
+    "chaturmukha-basadi": "https://en.wikipedia.org/wiki/Chaturmukha_Basadi"
+  },
+  "depth": "compact",
+  "palette": {
+    "c1": "#d8ebe6",
+    "c2": "#f3e4c6"
+  },
+  "order": 18
+}

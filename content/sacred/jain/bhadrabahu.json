@@ -1,0 +1,274 @@
+{
+  "slug": "bhadrabahu",
+  "name": "Bhadrabahu",
+  "aka": ["Acharya Bhadrabahu", "Bhadrabahu Swami", "Shruta Kevali Bhadrabahu"],
+  "native": "भद्रबाहु",
+  "tradition": "jain",
+  "group": "jain-figure",
+  "role": "Jain acharya, last Shruta Kevalin and teacher of Chandragupta",
+  "summary": "Bhadrabahu is the Jain acharya remembered as the last monk to know all the scriptures, and as Chandragupta Maurya's teacher.",
+  "about": "Bhadrabahu is remembered by both Jain sects as the last Shruta Kevalin, a monk who knew all the scriptures in full. Tradition says he was born in Pundravardhana in Bengal and became head of the monastic order. Digambara accounts tell that he explained the sixteen dreams of Chandragupta Maurya and foresaw a twelve-year famine, then led a large group of monks south, where the Digambara line is said to have grown. Svetambara tradition credits him with the Kalpa Sutra and ten niryuktis, though one scholar assigns the niryuktis to a later Bhadrabahu of the 6th century CE. Inscriptions at Shravanabelagola link him with Chandragupta, but his dates are uncertain and historians do not agree on the details.",
+  "kidSummary": "Bhadrabahu was a Jain teacher who lived over two thousand years ago. He is remembered as the last monk who knew all the old scriptures. A story says that he helped King Chandragupta understand some strange dreams, and then guided many monks safely to the south.",
+  "story": [
+    {
+      "title": "A bright young student",
+      "text": "Jain tradition says that when Bhadrabahu was seven, a monk saw he would be the last to know all the scriptures and became his teacher."
+    },
+    {
+      "title": "The king's dreams",
+      "text": "Digambara texts tell that the emperor Chandragupta had sixteen strange dreams. Bhadrabahu explained them as warnings for the future."
+    },
+    {
+      "title": "A long hard time",
+      "text": "One dream, of a twelve-headed snake, meant a famine of twelve years was coming to the region of Magadha."
+    },
+    {
+      "title": "The journey south",
+      "text": "Tradition says Bhadrabahu led many monks south to Karnataka so they could follow their rules in peace, and Chandragupta is said to have followed him."
+    },
+    {
+      "title": "The hill of footprints",
+      "text": "At Shravanabelagola, Chandragiri hill holds old inscriptions and footprints linked in tradition to the teacher and his pupil."
+    },
+    {
+      "title": "Writings remembered",
+      "text": "Svetambaras remember him through the Kalpa Sutra, read every year at Paryushana. Tradition also credits him with ten commentaries called niryuktis, though one scholar thinks a later teacher of the same name wrote them."
+    }
+  ],
+  "teaches": [
+    "Foresight and care for the community",
+    "A teacher's guidance in hard times",
+    "Peaceful end of life by sallekhana (in tradition)"
+  ],
+  "symbol": "footprint",
+  "emblems": ["Footprints on Chandragiri hill", "Palm-leaf manuscript (Kalpa Sutra)"],
+  "family": [
+    {
+      "relation": "Pupil and royal follower",
+      "name": "Chandragupta Maurya",
+      "slug": "chandragupta-maurya"
+    },
+    {
+      "relation": "Pupil",
+      "name": "Sthulabhadra",
+      "slug": "sthulabhadra"
+    },
+    {
+      "relation": "Teacher",
+      "name": "Govarddhana Mahamuni"
+    }
+  ],
+  "texts": [
+    "Kalpa Sutra",
+    "Avashyaka Niryukti",
+    "Vyavahara Sutra",
+    "Uvasaggaharam Stotra",
+    "Bhadrabahu-charitra"
+  ],
+  "places": ["Pundravardhana", "Pataliputra", "Shravanabelagola, Karnataka", "Chandragiri hill"],
+  "festivals": ["Paryushana"],
+  "years": "c. 5th–3rd century BCE (disputed)",
+  "quiz": [
+    {
+      "q": "What is Bhadrabahu remembered as?",
+      "options": [
+        "The first Ganadhara",
+        "The last Shruta Kevalin",
+        "The last Tirthankara",
+        "The first Shruta Kevalin"
+      ],
+      "answer": 1,
+      "why": "Both sects see him as the last monk to know all the scriptures."
+    },
+    {
+      "q": "Which famous emperor is linked to him as a pupil?",
+      "options": ["Ashoka", "Akbar", "Chandragupta Maurya", "Harsha"],
+      "answer": 2,
+      "why": "Tradition and inscriptions at Shravanabelagola link the two."
+    },
+    {
+      "q": "In the dream story, what does a twelve-headed serpent mean?",
+      "options": [
+        "Twelve years of famine",
+        "A twelve-day festival",
+        "Twelve new kings",
+        "Twelve temples"
+      ],
+      "answer": 0,
+      "why": "It was read as a sign of twelve years of famine."
+    },
+    {
+      "q": "Which Svetambara text is traditionally credited to him?",
+      "options": ["Samayasara", "Kalpa Sutra", "Yogashastra", "Nataka Samayasara"],
+      "answer": 1,
+      "why": "The Kalpa Sutra, read at Paryushana, is ascribed to Bhadrabahu."
+    }
+  ],
+  "related": ["chandragupta-maurya", "sthulabhadra", "mahavira", "kundakunda", "gautama-swami"],
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Bhadrabahu",
+    "digambara": "https://en.wikipedia.org/wiki/Digambara",
+    "kalpasutra": "https://en.wikipedia.org/wiki/Kalpa_Sutra",
+    "shravanabelagola": "https://en.wikipedia.org/wiki/Shravanabelagola",
+    "sthulabhadra": "https://en.wikipedia.org/wiki/Sthulabhadra",
+    "shraman_bhagwan_mahavira_p242": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/242",
+    "shraman_bhagwan_mahavira_p243": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/243",
+    "religion_culture_jains": "https://jainqq.org/pagetext/Religion_and_Culture_of_the_Jains/014007/87",
+    "shastri_varahamihira_bhadrabahu": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6"
+  },
+  "palette": {
+    "c1": "#e9e2d0",
+    "c2": "#e0e9d9"
+  },
+  "order": 500,
+  "facts": [
+    {
+      "text": "Jains consider the very sound of the Kalpa Sutra's words able to uplift a listener's soul, even if the listener does not understand the language.",
+      "kind": "teaching",
+      "source": "https://en.wikipedia.org/wiki/Kalpa_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "When he was seven, the monk Govarddhana Mahamuni is said to have seen that the boy would be the last Shruta Kevali, and took him on as a student.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Digambara belief says Chandragupta had sixteen dreams one full-moon night in Kartik, and Bhadrabahu explained what they meant.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In the dream account, a setting sun meant knowledge would grow dim, and a split moon meant that Jainism would divide into two groups.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "A twelve-headed serpent in the dreams was read as twelve years of famine, and other dreams warned of dishonest rulers and rising land taxes.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Svetambara accounts place him in Nepal during that famine, deep in a long meditation. The Pataliputra council sent monks, including Sthulabhadra, to learn from him, and he offered to teach seven times a day.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/242",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "A 6th to 7th century inscription at Shravanabelagola says Chandragupta became a Digambara monk under Bhadrabahu, here named Prabhachandra.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "Two inscriptions of about 900 CE near the Kaveri river describe footprints on Chandragiri hill as those of Bhadrabahu and Chandragupta.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A late Svetambara tradition, written down from the 14th century on, says he composed the hymn Uvasaggaharam and had an astrologer brother, Varahamihira, as a rival. Varahamihira's date is known, so scholars tie the tale to a 6th-century Bhadrabahu.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In that late legend, Varahamihira foretold a hundred-year life for his baby son, but the Jain teacher said a cat would end it on day 20. An iron chain engraved with a cat fell that night. Scholars tie this tale to a later Bhadrabahu.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Svetambara tellings say Sthulabhadra once turned himself into a lion to amuse his nun sisters. Bhadrabahu then refused to teach him the last four purvas, and later agreed only to give the words and not their meaning.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/243",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "The Shravanabelagola inscriptions say Bhadrabahu himself ended his life by sallekhana, a fast to death. A cave on Chandragiri hill, the Bhadrabahu Guha, is linked with him.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "A Shravanabelagola inscription of 1129 calls him a Shrutakevali and says Chandragupta earned such merit that forest deities worshipped him.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the sixteen-dream list, fireflies glowing at dusk meant true knowledge would shine only faintly, and an ape on a throne meant that unworthy, wicked people would gain power.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Svetambaras credit him with ten niryuktis, verse commentaries on texts like the Avashyaka. A. M. Shastri argues they belong to a 6th-century Bhadrabahu and that only the Cheda sutras fit the 14-purva teacher, so there may have been two.",
+      "kind": "text",
+      "source": "https://jainqq.org/pagetext/Varahamihira_and_Bhadrabahu/250361/6",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "During the famine, monks struggling for food began to forget the scriptures. At Pataliputra the Sangha pooled what each remembered and recovered eleven Angas, but the twelfth, the Drishtivada, is said to have been lost.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/242",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Svetambara account, the Sangha asked Bhadrabahu to leave his meditation in Nepal and come to Pataliputra, but he declined. The offended Sangha sent back a sharp question about what happens to a monk who disobeys it.",
+      "kind": "story",
+      "source": "https://jainqq.org/pagetext/Shraman_Bhagvana_Mahavira_Part_5/008006/242",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Sources disagree on when he lived. Svetambara tradition gives 433 to 357 BCE, Digambara tradition says he died in 365 BCE, and the scholar Natubhai Shah dated him 322 to 243 BCE.",
+      "kind": "history",
+      "source": "https://en.wikipedia.org/wiki/Bhadrabahu",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "The Kalpa Sutra is read to lay Jains over the eight days of Paryushana, with monks showing its pictures. From the mid-15th century copies were often painted with miniatures, and monks are generally the only ones allowed to read it.",
+      "kind": "festival",
+      "source": "https://en.wikipedia.org/wiki/Kalpa_Sutra",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Tradition says Bhadrabahu composed the Kalpa Sutra about 150 years after Mahavira, but it was probably compiled under King Dhruvasena, nearly a thousand years after Mahavira's liberation. The oldest surviving copies are 14th-century paper.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kalpa_Sutra",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "On Chandragiri at Shravanabelagola, monks and lay followers have been commemorated since the 5th century CE. The Chandragupta Basadi there has a central shrine with a seated Parshvanatha, flanked by Padmavati and Kushmandini.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Shravanabelagola",
+      "interest": 7,
+      "kid": true
+    }
+  ],
+  "depth": "full"
+}

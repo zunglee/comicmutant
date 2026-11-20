@@ -1,0 +1,303 @@
+{
+  "slug": "kaikeyi",
+  "name": "Kaikeyi",
+  "aka": ["Kekayi", "Queen of Kosala"],
+  "native": "कैकेयी",
+  "role": "Princess of Kekaya, third queen of Dasharatha and mother of Bharata",
+  "summary": "Kaikeyi is the third queen of King Dasharatha in the Ramayana and the mother of Bharata. Her request for two boons sends Rama to the forest for fourteen years.",
+  "about": "In the Valmiki Ramayana, Kaikeyi is a princess of the Kekaya kingdom in the north-west, the third queen of Dasharatha of Ayodhya and the mother of Bharata. The text says she once helped the king in a great battle and he promised her two boons. Years later, when Rama was about to be named heir, her maid Manthara filled her with worry for Bharata's future, and Kaikeyi asked for the throne for Bharata and fourteen years of forest life for Rama. The story says Dasharatha did not survive the grief, and Bharata refused to rule in his brother's place. Retellings read her differently: some show a loving mother gone astray, others a woman caught by a hard choice. Rama, in some versions, tells Bharata to hold no anger against her. In Tulsidas's Ramcharitmanas, the gods ask Saraswati to turn Manthara's mind, so some readers see Kaikeyi as caught in a plan larger than herself.",
+  "kidSummary": "Kaikeyi is a queen of Ayodhya and the mother of Bharata. Stories say she once saved her husband's life in battle and won two promises from him. Later she used them in a way that changed everyone's lives. Her tale reminds us to think before we act on worry.",
+  "story": [
+    {
+      "title": "A queen from Kekaya",
+      "text": "Kaikeyi came from the kingdom of Kekaya far in the north-west and married King Dasharatha of Ayodhya. She was his third queen, and her son was Bharata."
+    },
+    {
+      "title": "A wheel in danger",
+      "text": "Some tellings say she rode with the king into a battle against the asuras. When part of his chariot wheel came loose, she held it steady with her own thumb."
+    },
+    {
+      "title": "Two promises",
+      "text": "The grateful king offered her two boons. Kaikeyi said she would ask for them some other day."
+    },
+    {
+      "title": "Worry in the palace",
+      "text": "When news came that Rama would be crowned, Kaikeyi was at first delighted. Then Manthara convinced her that Bharata might be forgotten, and Kaikeyi asked the king for her two boons."
+    },
+    {
+      "title": "Bharata says no",
+      "text": "Bharata returned from his uncle's home, was heartbroken, and refused to take the throne. He went to the forest to find Rama and bring him home."
+    },
+    {
+      "title": "Sorrow and forgiveness",
+      "text": "The king died of grief soon after Rama left, and many retellings say Kaikeyi repented. When Rama came home he touched her feet and asked Bharata to forgive her."
+    }
+  ],
+  "teaches": [
+    "Think carefully before acting on fear",
+    "Words and promises have big results",
+    "Forgiveness heals families"
+  ],
+  "symbol": "wheel",
+  "emblems": ["Chariot wheel", "Two boons"],
+  "family": [
+    {
+      "relation": "Husband",
+      "name": "Dasharatha",
+      "slug": "dasharatha"
+    },
+    {
+      "relation": "Son",
+      "name": "Bharata",
+      "slug": "bharata-ramayana"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Kaushalya",
+      "slug": "kaushalya"
+    },
+    {
+      "relation": "Co-queen",
+      "name": "Sumitra",
+      "slug": "sumitra"
+    },
+    {
+      "relation": "Maid and nurse",
+      "name": "Manthara",
+      "slug": "manthara"
+    },
+    {
+      "relation": "Stepson",
+      "name": "Rama",
+      "slug": "rama"
+    },
+    {
+      "relation": "Father",
+      "name": "Ashvapati"
+    }
+  ],
+  "texts": ["Valmiki Ramayana (Ayodhya Kanda)", "Ramcharitmanas", "Padma Purana"],
+  "places": ["Ayodhya", "Kekaya"],
+  "festivals": ["Ram Navami"],
+  "quiz": [
+    {
+      "q": "Where did Kaikeyi come from?",
+      "options": ["Kekaya", "Kashi", "Mithila", "Lanka"],
+      "answer": 0,
+      "why": "The texts call her a princess of the Kekaya kingdom in the north-west."
+    },
+    {
+      "q": "How many promises did the king give her?",
+      "options": ["One", "Two", "Three", "Ten"],
+      "answer": 1,
+      "why": "Dasharatha granted two boons after she helped him in battle."
+    },
+    {
+      "q": "What special gift did the minister say Kaikeyi's father had?",
+      "options": [
+        "He understood the speech of all creatures",
+        "He could fly",
+        "He could see the future",
+        "He could turn to stone"
+      ],
+      "answer": 0,
+      "why": "Valmiki says her father understood every creature's speech."
+    },
+    {
+      "q": "Which part of the chariot do some tellings say she held with her thumb?",
+      "options": ["The roof", "The wheel", "The flag", "The reins"],
+      "answer": 1,
+      "why": "In those tellings her thumb kept the wheel in place."
+    },
+    {
+      "q": "Where did Kaikeyi go in Valmiki when she was upset?",
+      "options": ["The chamber of wrath", "The royal kitchen", "The armoury", "The temple tower"],
+      "answer": 0,
+      "why": "She went to a special room for anger and lay on the floor."
+    },
+    {
+      "q": "Who raised Kaikeyi after her mother was sent away?",
+      "options": ["Manthara, her nursemaid", "Kaushalya", "Sumitra", "Sita"],
+      "answer": 0,
+      "why": "Her nursemaid Manthara raised her."
+    }
+  ],
+  "related": [
+    "dasharatha",
+    "rama",
+    "manthara",
+    "sumitra",
+    "kaushalya",
+    "bharata-ramayana",
+    "lakshmana",
+    "shatrughna"
+  ],
+  "palette": {
+    "c1": "#F2C9A8",
+    "c2": "#D9A7A0"
+  },
+  "facts": [
+    {
+      "text": "In one famous episode, a bolt of the king's chariot wheel slipped out, and Kaikeyi is said to have used her thumb to hold it in place during the fight.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "One account says a sage's boon made her left hand as strong as a diamond, which is why she could go to war beside the king.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "In Valmiki, an upset Kaikeyi goes to the chamber of wrath, throws down her pearl necklace and jewels, and lies on the bare floor to make her protest.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423956.html",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "A minister tells Kaikeyi in Valmiki's Ayodhya Kanda how her father, who understood the speech of all creatures, sent her mother away when she pressed him to reveal a secret that would cost his life.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423982.html",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "After Rama returned, she apologised to him. He touched her feet, said no forgiveness was needed, and asked Bharata to forgive her too.",
+      "kind": "story",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Kaikeyi was the twin of Yudhajit, one of eight siblings, and was raised by her nursemaid Manthara after her mother was sent away.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "In Tulsidas's Ramcharitmanas the gods, anxious about Rama's coronation, pray to Saraswati, who turns Manthara's mind; some readers see Kaikeyi as caught up in a larger divine plan.",
+      "kind": "text",
+      "source": "https://vivekavani.com/rcm2/",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki, Kaikeyi was first delighted by news of Rama's coronation: she gave Manthara a precious ornament and said she saw no difference between Rama and Bharata.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423954.html",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "Manthara flung the gift down and scolded her. Kaikeyi defended Rama as righteous and truthful, saying he served her even more devotedly than he served Kaushalya.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423955.html",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "Tradition holds that Kaikeyi gave Ayodhya's Kanak Bhawan to Sita as a gift soon after her marriage to Rama.",
+      "kind": "place",
+      "source": "https://en.wikipedia.org/wiki/Kanak_Bhawan",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki's account of the old war with the asuras, the wounded Dasharatha fell unconscious and Kaikeyi carried him from the battlefield and saved him. He then offered the two boons.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423956",
+      "interest": 9,
+      "kid": true
+    },
+    {
+      "text": "In Valmiki the sage Vasishtha told Kaikeyi that a wife is half her husband, so Sita should rule in Rama's absence rather than wear bark clothes, and that the people of Ayodhya would follow Sita.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423984",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "When Bharata came home, Kaikeyi rose happily, kissed his head, sat him on her lap and asked about his journey before telling him, in gentle words, what had happened.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424049",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "To press her boons, Kaikeyi reminded Dasharatha that Ikshvaku kings such as Shibi, who gave his own flesh, and Alarka, who gave his eyes, kept their word, so he must keep his.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423959",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kaikeyi kept close ties with her home: her brother Yudhajit visited often and took Bharata and Shatrughna to Kekaya for the summers.",
+      "kind": "family",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": true
+    },
+    {
+      "text": "One reading of the Ayodhya Kanda says Kaikeyi at first told Manthara that Bharata could rule after Rama, not grasping the rule of eldest-son succession until Manthara explained it.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "In the Ayodhya Kanda Dasharatha admits that fear of Kaikeyi's moods kept him from giving Kaushalya the love she deserved.",
+      "kind": "text",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": false
+    },
+    {
+      "text": "At Chitrakuta Rama told Bharata not to judge whether his mother acted from love for him or from ambition, and to treat her as his parent.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424089",
+      "interest": 8,
+      "kid": true
+    },
+    {
+      "text": "In the Uttara Kanda Kaushalya, then Sumitra and Kaikeyi, pass on after righteous lives and are reunited with Dasharatha in heaven.",
+      "kind": "story",
+      "source": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424874",
+      "interest": 8,
+      "kid": false
+    },
+    {
+      "text": "Kaikeyi is the narrator of Vaishnavi Patel's 2022 novel Kaikeyi, a retelling that tells the epic from her side and reads her choices more sympathetically.",
+      "kind": "art",
+      "source": "https://en.wikipedia.org/wiki/Kaikeyi",
+      "interest": 7,
+      "kid": false
+    }
+  ],
+  "order": 500,
+  "depth": "full",
+  "tradition": "hindu",
+  "group": "ramayana",
+  "sources": {
+    "wikipedia": "https://en.wikipedia.org/wiki/Kaikeyi",
+    "kek": "https://en.wikipedia.org/wiki/Kekaya_Kingdom",
+    "v9": "https://www.valmikiramayan.net/utf8/ayodhya/sarga9/ayodhyasans9.htm",
+    "v35": "https://www.valmikiramayan.net/utf8/ayodhya/sarga35/ayodhyasans35.htm",
+    "ayodhya7": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423954.html",
+    "ayodhya8": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423955.html",
+    "ayodhya9": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423956.html",
+    "ayodhya35": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423982.html",
+    "saraswati": "https://vivekavani.com/rcm2/",
+    "kanak": "https://en.wikipedia.org/wiki/Kanak_Bhawan",
+    "ayodhya9war": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423956",
+    "ayodhya37": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423984",
+    "ayodhya72": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424049",
+    "ayodhya12": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc423959",
+    "ayodhya112": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424089",
+    "uttara99": "https://www.wisdomlib.org/hinduism/book/the-ramayana-of-valmiki/d/doc424874"
+  }
+}
